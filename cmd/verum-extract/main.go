@@ -11,12 +11,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/teslashibe/peptidebase/aggregate"
-	"github.com/teslashibe/peptidebase/anthropic"
-	"github.com/teslashibe/peptidebase/compounds"
-	"github.com/teslashibe/peptidebase/extraction"
-	"github.com/teslashibe/peptidebase/normalize"
-	"github.com/teslashibe/peptidebase/source/reddit"
+	"github.com/teslashibe/verum-extract/aggregate"
+	"github.com/teslashibe/verum-extract/anthropic"
+	"github.com/teslashibe/verum-extract/compounds"
+	"github.com/teslashibe/verum-extract/extraction"
+	"github.com/teslashibe/verum-extract/normalize"
+	"github.com/teslashibe/verum-extract/source/reddit"
 )
 
 const version = "0.1.0"
@@ -37,7 +37,7 @@ func main() {
 	case "compounds":
 		cmdCompounds(os.Args[2:])
 	case "version":
-		fmt.Printf("peptidebase v%s\n", version)
+		fmt.Printf("verum-extract v%s\n", version)
 	case "help", "-h", "--help":
 		printUsage()
 	default:
@@ -48,15 +48,15 @@ func main() {
 }
 
 func printUsage() {
-	fmt.Printf(`peptidebase v%s — extract structured peptide research data from community sources
+	fmt.Printf(`verum-extract v%s — extract structured peptide research data from community sources
 
 Usage:
-  peptidebase run       --input <file.jsonl> --output <dir>    Full pipeline
-  peptidebase extract   --input <file.jsonl> --output <dir>    Extract only
-  peptidebase aggregate --input <reports-dir> --output <dir>   Aggregate only
-  peptidebase compounds [--category <cat>]                     List compounds
-  peptidebase version                                          Show version
-  peptidebase help                                             Show this help
+  verum-extract run       --input <file.jsonl> --output <dir>    Full pipeline
+  verum-extract extract   --input <file.jsonl> --output <dir>    Extract only
+  verum-extract aggregate --input <reports-dir> --output <dir>   Aggregate only
+  verum-extract compounds [--category <cat>]                     List compounds
+  verum-extract version                                          Show version
+  verum-extract help                                             Show this help
 `, version)
 }
 
@@ -67,8 +67,8 @@ func cmdRun(args []string) {
 	apiKey := fs.String("anthropic-key", envOr("ANTHROPIC_API_KEY", ""), "Anthropic API key")
 	model := fs.String("model", envOr("ANTHROPIC_MODEL", "claude-sonnet-4-6"), "Model name")
 	batchSize := fs.Int("batch-size", 1000, "Requests per batch")
-	salt := fs.String("author-salt", envOr("PEPTIDEBASE_AUTHOR_SALT", "peptidebase-v1"), "Author hash salt")
-	compoundsFile := fs.String("compounds-file", envOr("PEPTIDEBASE_COMPOUNDS_FILE", ""), "Additional compounds JSON file")
+	salt := fs.String("author-salt", envOr("VERUM_AUTHOR_SALT", "verum-extract-v1"), "Author hash salt")
+	compoundsFile := fs.String("compounds-file", envOr("VERUM_COMPOUNDS_FILE", ""), "Additional compounds JSON file")
 	autoRegister := fs.Bool("auto-register", false, "Auto-register new compounds discovered by the LLM")
 	verbose := fs.Bool("verbose", false, "Verbose logging")
 	fs.Parse(args)
@@ -89,7 +89,7 @@ func cmdRun(args []string) {
 	os.MkdirAll(compoundsDir, 0o755)
 
 	start := time.Now()
-	fmt.Printf("peptidebase v%s\n\n", version)
+	fmt.Printf("verum-extract v%s\n\n", version)
 
 	// Step 1: Ingest
 	fmt.Println("[1/4] Reading", *input, "...")
@@ -246,7 +246,7 @@ func cmdExtract(args []string) {
 	apiKey := fs.String("anthropic-key", envOr("ANTHROPIC_API_KEY", ""), "Anthropic API key")
 	model := fs.String("model", envOr("ANTHROPIC_MODEL", "claude-sonnet-4-6"), "Model name")
 	batchSize := fs.Int("batch-size", 1000, "Requests per batch")
-	salt := fs.String("author-salt", envOr("PEPTIDEBASE_AUTHOR_SALT", "peptidebase-v1"), "Author hash salt")
+	salt := fs.String("author-salt", envOr("VERUM_AUTHOR_SALT", "verum-extract-v1"), "Author hash salt")
 	fs.Parse(args)
 
 	if *input == "" || *apiKey == "" {
@@ -289,7 +289,7 @@ func cmdAggregate(args []string) {
 	fs := flag.NewFlagSet("aggregate", flag.ExitOnError)
 	input := fs.String("input", "./output/reports", "Input reports directory")
 	output := fs.String("output", "./output/compounds", "Output directory")
-	compoundsFile := fs.String("compounds-file", envOr("PEPTIDEBASE_COMPOUNDS_FILE", ""), "Additional compounds JSON file")
+	compoundsFile := fs.String("compounds-file", envOr("VERUM_COMPOUNDS_FILE", ""), "Additional compounds JSON file")
 	autoReg := fs.Bool("auto-register", false, "Auto-register new compounds found in reports")
 	fs.Parse(args)
 
@@ -331,7 +331,7 @@ func cmdAggregate(args []string) {
 func cmdCompounds(args []string) {
 	fs := flag.NewFlagSet("compounds", flag.ExitOnError)
 	category := fs.String("category", "", "Filter by category")
-	compoundsFile := fs.String("compounds-file", envOr("PEPTIDEBASE_COMPOUNDS_FILE", ""), "Additional compounds JSON file")
+	compoundsFile := fs.String("compounds-file", envOr("VERUM_COMPOUNDS_FILE", ""), "Additional compounds JSON file")
 	fs.Parse(args)
 
 	registry := compounds.Default()

@@ -7,7 +7,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/teslashibe/peptidebase/anthropic"
+	"github.com/teslashibe/verum-extract/anthropic"
 )
 
 type Extractor struct {
@@ -21,7 +21,7 @@ type ExtractorOption func(*Extractor)
 func NewExtractor(client *anthropic.Client, opts ...ExtractorOption) *Extractor {
 	e := &Extractor{
 		client:    client,
-		salt:      "peptidebase-default-salt",
+		salt:      "verum-extract-default-salt",
 		batchSize: 1000,
 	}
 	for _, opt := range opts {

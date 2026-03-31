@@ -1,4 +1,4 @@
-# peptidebase
+# verum-extract
 
 Open-source LLM-powered pipeline for extracting structured peptide research data from community sources.
 
@@ -16,33 +16,33 @@ Takes raw Reddit posts (and soon YouTube, podcasts, blogs) and produces structur
 
 ```bash
 # Install
-go install github.com/teslashibe/peptidebase/cmd/peptidebase@latest
+go install github.com/teslashibe/verum-extract/cmd/verum-extract@latest
 
 # Set your Anthropic API key
 export ANTHROPIC_API_KEY=sk-ant-...
 
 # Run the full pipeline
-peptidebase run --input r_Peptides_2026-03-30.jsonl --output ./output/
+verum-extract run --input r_Peptides_2026-03-30.jsonl --output ./output/
 ```
 
 ## CLI
 
 ```bash
 # Full pipeline: ingest → extract → normalize → aggregate
-peptidebase run --input <file.jsonl> --output <dir>
+verum-extract run --input <file.jsonl> --output <dir>
 
 # Extract only (skip aggregation)
-peptidebase extract --input <file.jsonl> --output <dir>
+verum-extract extract --input <file.jsonl> --output <dir>
 
 # Aggregate from existing report JSONs
-peptidebase aggregate --input <reports-dir> --output <dir>
+verum-extract aggregate --input <reports-dir> --output <dir>
 
 # Browse the built-in compound registry
-peptidebase compounds
-peptidebase compounds --category healing_recovery
+verum-extract compounds
+verum-extract compounds --category healing_recovery
 
 # Version
-peptidebase version
+verum-extract version
 ```
 
 ## Output
@@ -66,12 +66,12 @@ Every package is importable:
 
 ```go
 import (
-    "github.com/teslashibe/peptidebase/anthropic"
-    "github.com/teslashibe/peptidebase/compounds"
-    "github.com/teslashibe/peptidebase/extraction"
-    "github.com/teslashibe/peptidebase/normalize"
-    "github.com/teslashibe/peptidebase/aggregate"
-    "github.com/teslashibe/peptidebase/source/reddit"
+    "github.com/teslashibe/verum-extract/anthropic"
+    "github.com/teslashibe/verum-extract/compounds"
+    "github.com/teslashibe/verum-extract/extraction"
+    "github.com/teslashibe/verum-extract/normalize"
+    "github.com/teslashibe/verum-extract/aggregate"
+    "github.com/teslashibe/verum-extract/source/reddit"
 )
 ```
 
@@ -93,10 +93,10 @@ source/reddit     →  extraction  →  normalize  →  aggregate  →  JSON fil
 
 | Source | Status |
 |--------|--------|
-| Reddit | ✅ Working |
-| YouTube | 🔜 Planned |
-| Podcasts | 🔜 Planned |
-| Blogs | 🔜 Planned |
+| Reddit | Working |
+| YouTube | Planned |
+| Podcasts | Planned |
+| Blogs | Planned |
 
 ## License
 

@@ -9,7 +9,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/teslashibe/peptidebase/extraction"
+	"github.com/teslashibe/verum-extract/extraction"
 )
 
 type Reader struct {

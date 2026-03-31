@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/teslashibe/peptidebase/internal/uid"
+	"github.com/teslashibe/verum-extract/internal/uid"
 )
 
 type rawReport struct {

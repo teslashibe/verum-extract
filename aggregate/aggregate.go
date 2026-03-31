@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/teslashibe/peptidebase/compounds"
-	"github.com/teslashibe/peptidebase/extraction"
+	"github.com/teslashibe/verum-extract/compounds"
+	"github.com/teslashibe/verum-extract/extraction"
 )
 
 func FromReports(reports []extraction.Report, registry *compounds.Registry) *AggregationResult {

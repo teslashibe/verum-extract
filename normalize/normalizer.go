@@ -4,8 +4,8 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/teslashibe/peptidebase/compounds"
-	"github.com/teslashibe/peptidebase/extraction"
+	"github.com/teslashibe/verum-extract/compounds"
+	"github.com/teslashibe/verum-extract/extraction"
 )
 
 type Normalizer struct {
