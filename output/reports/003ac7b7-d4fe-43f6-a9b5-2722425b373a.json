@@ -1,0 +1,46 @@
+{
+  "id": "003ac7b7-d4fe-43f6-a9b5-2722425b373a",
+  "source_id": "1qxv98o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxv98o/stack_for_mitochondrial_repair_questions/",
+  "author_hash": "8b4c04d2e70da3bc07c04d7ec048184a3743d27ccad7e655f4d240a704d993cd",
+  "confidence_tier": 4,
+  "date_published": "2026-02-06T13:57:56-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "every other day, sometimes consecutive days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily for 4 weeks, then 10mg daily for 2 weeks",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Cost approximately $480 (6 kits @ $80 each for SS-31). Protocol: NAD+ 50mg EOD for entire cycle; SS-31 5mg daily weeks 1-4, then 10mg daily weeks 5-6; MOTS-c 5mg 3x/week for 6 weeks.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.679218Z"
+}

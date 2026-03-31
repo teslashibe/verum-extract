@@ -1,0 +1,53 @@
+{
+  "id": "94d2305c-3eeb-4c06-bba2-6a01f60c1dc9",
+  "source_id": "j5mmi1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/j5mmi1/bcp157_wtf_i_need_help/",
+  "author_hash": "e7c6a560f4fd2167aca870188788444707f8bf943756fbe1ea471272e3753987",
+  "confidence_tier": 5,
+  "date_published": "2020-10-05T09:30:37-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "BPC-157 helps with old injuries"
+    },
+    {
+      "category": "cognitive",
+      "description": "Semax/Selank useful for ADHD-related symptoms"
+    },
+    {
+      "category": "gut_health",
+      "description": "BPC-157 good for liver healing"
+    }
+  ],
+  "protocol_notes": "Commenter sharing general BPC-157 dosing information: 200-300mcg daily for old injuries, 2mg for acute injury. Recommends BAC water for reconstitution. Suggests Semax/Selank as better choice for ADHD and cognitive issues. Notes BPC may lower effectiveness of amphetamine-based stimulants.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.703616Z"
+}

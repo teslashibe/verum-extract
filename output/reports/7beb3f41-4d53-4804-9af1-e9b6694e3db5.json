@@ -1,0 +1,48 @@
+{
+  "id": "7beb3f41-4d53-4804-9af1-e9b6694e3db5",
+  "source_id": "1oypf61",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oypf61/from_278_to_the_low_200s_still_pushing_still/",
+  "author_hash": "fed4f2e9e60fd7ccc88eed57b94b43877112e77a6ee2012d99c9061add2c28d9",
+  "confidence_tier": 4,
+  "date_published": "2025-11-16T08:03:47-08:00",
+  "reported_weight": {
+    "value": 290,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "5-Amino 1MQ",
+      "name_normalized": "5_amino_1mq",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss from 290 lbs to 202 lbs, ongoing progress",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Body Weight",
+      "value_before": 290,
+      "value_after": 202,
+      "unit": "lbs"
+    }
+  ],
+  "protocol_notes": "Currently running Tirzepatide and KLOW80. Considering adding Capromorelin, Sermorelin, or Tesamorelin for stubborn belly fat and love handles.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.393598Z"
+}

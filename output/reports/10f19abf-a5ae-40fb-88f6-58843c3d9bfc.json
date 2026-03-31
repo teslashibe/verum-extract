@@ -1,0 +1,66 @@
+{
+  "id": "10f19abf-a5ae-40fb-88f6-58843c3d9bfc",
+  "source_id": "1ktzjt5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ktzjt5/would_i_benefit_from_reta/",
+  "author_hash": "33cc9238e937e018d1bf58236b539353be6583072f9a9fe988df2db79fe88178",
+  "confidence_tier": 4,
+  "date_published": "2025-05-23T18:03:50-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 180,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 168,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone Cypionate",
+      "name_normalized": "testosterone_cypionate",
+      "category": "other",
+      "dose_value": 250,
+      "dose_unit": "mg",
+      "frequency": "per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Nandrolone Decanoate",
+      "name_normalized": "nandrolone",
+      "category": "other",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "lost 25 lbs on tirzepatide from mid-Dec to present",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "curbed insatiable night binging",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "6'3\", 53 years old, 8.3% BF. Started Tirzepatide mid-December, down 25 lbs to 180. On 250mg TCyp/100mg Deca per week since October. Planning to try Retatrutide in next few months. States he will stay on GLP-1 forever if benefits continue.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.690702Z"
+}

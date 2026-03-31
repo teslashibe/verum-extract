@@ -1,0 +1,53 @@
+{
+  "id": "a9850f8a-7b59-4ac9-aa0e-1efc3f1b0c12",
+  "source_id": "1rkvdmg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rkvdmg/cjcipa_no_dac_allergic_reactions/",
+  "author_hash": "f8dba2141ee11699aba245ae5ee208b36cf30a35953e9f4bbc9475c35bdd08b1",
+  "confidence_tier": 4,
+  "date_published": "2026-03-04T11:43:24-08:00",
+  "compounds": [
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IPA",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Mild face flush after pinning",
+      "severity": "mild"
+    },
+    {
+      "category": "other",
+      "description": "Mild head pressure after pinning",
+      "severity": "mild"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Anxiety after pinning is negatively affecting sleep",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "OP is concerned about risk of anaphylaxis from CJC. Has been running CJC and Ipamorelin (IPA) stack for approximately 3 weeks. Anxiety post-injection is described as hurting sleep more than the stack is helping.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.11226Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "d0da1aed-670d-4d06-b84f-761bb49c9435",
+  "source_id": "1r200a5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r200a5/has_anyone_stacked_reta_on_top_of_max_sema/",
+  "author_hash": "e2041e585bcb1c9a1c2fd1ec1e90e5ba8766b43f1661a08736384117e0386be8",
+  "confidence_tier": 4,
+  "date_published": "2026-02-11T07:14:39-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "pharma sema",
+      "name_normalized": "pharma_sema",
+      "category": "other",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "pharma lira",
+      "name_normalized": "pharma_lira",
+      "category": "other",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "pharma tirz",
+      "name_normalized": "pharma_tirz",
+      "category": "other",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "grey reta",
+      "name_normalized": "grey_reta",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Pharma sema tanked LDL and boosted HDL better than pharma lira, pharma tirz, and grey reta",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Pharma sema caused constant hunger/starvation feeling throughout entire 6-8 months of use",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "LDL"
+    },
+    {
+      "marker_name": "HDL"
+    }
+  ],
+  "protocol_notes": "User has cycled through multiple GLP-1 compounds: pharma sema (6-8 months), pharma lira, pharma tirz, and grey reta. Noted pharma sema produced best LDL/HDL outcomes among these but caused persistent hunger.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.119134Z"
+}

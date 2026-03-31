@@ -1,0 +1,57 @@
+{
+  "id": "4f5426d8-82a3-461a-b5fa-0d5fe2bc6b05",
+  "source_id": "1qz6jj5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qz6jj5/how_many_clicks_melanotan/",
+  "author_hash": "bdd2a89ee39636c5383fe216b0180a9a628b0e7b05c334de0860a226107c8b09",
+  "confidence_tier": 4,
+  "date_published": "2026-02-08T03:24:35-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "clicks",
+      "frequency": "unclear",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "clicks",
+      "frequency": "unclear",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "improved tanning/pigmentation results",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "headache",
+      "description": "horrible headache",
+      "severity": "significant"
+    },
+    {
+      "category": "nausea",
+      "description": "nausea",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Pre-mixed pen format. User noted Melanotan II had worse side effects compared to Melanotan (implied MT1). Started with 1 click, escalated to 2 clicks after 1 week of tolerating initial dose without side effects. Did not exceed 2 clicks due to side effect severity.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.666122Z"
+}

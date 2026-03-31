@@ -1,0 +1,74 @@
+{
+  "id": "4e9bbb2d-25bf-4a5f-a28c-fcb15d0d913d",
+  "source_id": "1o053oo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o053oo/hgh_reta_vs_tesaipa_tirz/",
+  "author_hash": "18aafa3fe68ee921af23ec161fe95acc297cd1329d379d42572b4d44b1fefa1a",
+  "confidence_tier": 4,
+  "date_published": "2025-10-06T21:24:34-07:00",
+  "reported_sex": "male",
+  "training_status": "Active, cut from 285 to 225 lbs",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "gh",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Cut from 285 to 225 lbs; gained approximately 10 lbs of muscle during cut (body recomp at higher body fat)",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Gained 10 lbs of muscle while cutting from 285 to 225 lbs",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Elevated fasting blood glucose (FBG floats up with Reta due to glucagon activity, problematic when paired with GH)",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_change",
+      "description": "Carb cravings at night on Reta",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body weight",
+      "value_before": 285,
+      "value_after": 225,
+      "unit": "lbs"
+    },
+    {
+      "marker_name": "body fat percentage",
+      "value_after": 10,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Has run both Reta and tirz paired with GH, but not GH analogues with them. States tirz + GH + caloric deficit is superior combo. Considers Reta potentially superior only as first GLP or during a bulk. Has not seen anyone benefit from switching tirz to Reta for weight loss. Wife also on hormonal therapy (perimenopausal, QOL and energy improvements). Recommends hormone panel for all clients.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.268801Z"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "90a91b33-8429-4d7f-bbde-27bbc315df2a",
+  "source_id": "1rl8bzz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rl8bzz/improper_injection/",
+  "author_hash": "604334741dd8a4db4bccbf01f5fa8fad0495ea2aeae2fc22a13f1f70aae8a9e9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-04T20:47:49-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "cycle_length_days": 63,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "IU",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Painful injection on abdomen with sensation of liquid flowing through stomach",
+      "severity": "moderate",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "User alternates injection sides on abdomen. Retatrutide dosing: 1mg Monday and Thursday. HGH dose of 3 IU started on day of post. User questions if 3 IU is appropriate starting dose.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.668616Z"
+}

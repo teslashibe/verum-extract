@@ -1,0 +1,162 @@
+{
+  "compound_id": "glutathione",
+  "display_name": "Glutathione",
+  "category": "immune",
+  "total_reports": 34,
+  "reports_by_tier": {
+    "4": 15,
+    "5": 19
+  },
+  "top_benefits": [
+    {
+      "category": "other",
+      "count": 6,
+      "pct": 40
+    },
+    {
+      "category": "energy",
+      "count": 4,
+      "pct": 26.7
+    },
+    {
+      "category": "sleep",
+      "count": 3,
+      "pct": 20
+    },
+    {
+      "category": "recovery",
+      "count": 2,
+      "pct": 13.3
+    },
+    {
+      "category": "skin",
+      "count": 2,
+      "pct": 13.3
+    },
+    {
+      "category": "fat_loss",
+      "count": 1,
+      "pct": 6.7
+    },
+    {
+      "category": "injury_healing",
+      "count": 1,
+      "pct": 6.7
+    },
+    {
+      "category": "gut_health",
+      "count": 1,
+      "pct": 6.7
+    },
+    {
+      "category": "hair",
+      "count": 1,
+      "pct": 6.7
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "other",
+      "count": 2,
+      "pct": 13.3,
+      "avg_severity": 2.5
+    },
+    {
+      "category": "injection_site",
+      "count": 2,
+      "pct": 13.3,
+      "avg_severity": 2
+    },
+    {
+      "category": "flushing",
+      "count": 1,
+      "pct": 6.7,
+      "avg_severity": 1
+    },
+    {
+      "category": "fatigue",
+      "count": 1,
+      "pct": 6.7,
+      "avg_severity": 1
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 300,
+      "unit": "mg",
+      "frequency": "",
+      "count": 1,
+      "pct": 2.9
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 30,
+      "unit": "mg",
+      "frequency": "daily (morning)",
+      "count": 1,
+      "pct": 2.9
+    },
+    {
+      "route": "intramuscular",
+      "dose": 500,
+      "unit": "mg",
+      "frequency": "every other day for a week, every month or so",
+      "count": 1,
+      "pct": 2.9
+    },
+    {
+      "route": "intramuscular",
+      "dose": 1,
+      "unit": "mg",
+      "frequency": "once a week",
+      "count": 1,
+      "pct": 2.9
+    },
+    {
+      "route": "intramuscular",
+      "dose": 1500,
+      "unit": "mg",
+      "frequency": "1x weekly",
+      "count": 1,
+      "pct": 2.9
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "nad_plus",
+      "display_name": "NAD+",
+      "report_count": 13
+    },
+    {
+      "compound_id": "ss_31",
+      "display_name": "SS31",
+      "report_count": 7
+    },
+    {
+      "compound_id": "klow",
+      "display_name": "klow",
+      "report_count": 4
+    },
+    {
+      "compound_id": "bpc_157",
+      "display_name": "BPC-157",
+      "report_count": 4
+    },
+    {
+      "compound_id": "mots_c",
+      "display_name": "MOTS-C",
+      "report_count": 4
+    }
+  ],
+  "avg_cycle_length_days": 36.3,
+  "avg_sentiment_score": 0.794,
+  "sentiment_breakdown": {
+    "positive": 23,
+    "mixed": 6,
+    "negative": 1,
+    "neutral": 4
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.971278Z"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "62c1c4ec-3f5f-43be-936c-b3026adb5274",
+  "source_id": "1r01t37",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r01t37/new_to_peptides_looking_for_feedback_on_bpc157/",
+  "author_hash": "fcfc6e54c60d560f1cc823360db50eb570246da623253fea7c942762498c3ba9",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T03:29:50-08:00",
+  "health_conditions": [
+    "chronic patellar tendinitis"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Targeting chronic patellar tendinitis; early signs of activity at injection site",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "inflammation",
+      "description": "Increased inflammation or activity in patella area after one week",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Original protocol started at 1 mg BPC-157 daily, then tapered to 500 mcg after community feedback. BPC-157 and TB-500 combined in one syringe and injected subcutaneously above the knee (local injection site). GHK-Cu injected subcutaneously into stomach. Described knee condition as waking from sleep, unable to perform bodyweight squats, pain on stairs. Chronic patellar tendinitis unresponsive to 12-18 months of rehabilitation.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665828Z"
+}

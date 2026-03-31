@@ -1,0 +1,34 @@
+{
+  "id": "f4da9d29-d256-414e-8e7a-6ab6f8a39db7",
+  "source_id": "13zi284",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/13zi284/why_no_human_trials_on_bpc157_this_stuff_seems/",
+  "author_hash": "16204b01be68e92fc2082ce9d2546685f8694d04a7022c412daf6cd4ed19f7bb",
+  "confidence_tier": 4,
+  "date_published": "2023-06-03T09:36:05-07:00",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "BPC-157 did not work well unless combined with thymic peptides. Also mentions thymalin and thymogen as options.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.701276Z"
+}

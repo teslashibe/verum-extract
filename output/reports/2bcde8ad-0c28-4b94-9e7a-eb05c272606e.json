@@ -1,0 +1,45 @@
+{
+  "id": "2bcde8ad-0c28-4b94-9e7a-eb05c272606e",
+  "source_id": "1rwn909",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwn909/topical_ghkcu/",
+  "author_hash": "6cc002c36dd46b5352e44c3639c69b258f4b8e27c5d238937e13f0d1455f365b",
+  "confidence_tier": 5,
+  "date_published": "2026-03-17T16:28:03-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Topical helped pretty much straight away with minimal copper uglies",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Experienced copper uglies bad with subcutaneous injection, minimal with topical",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User compares subcutaneous vs topical routes; reports topical was better tolerated with faster benefits and fewer side effects",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.650334Z"
+}

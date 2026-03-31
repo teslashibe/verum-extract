@@ -1,0 +1,48 @@
+{
+  "id": "d2aaa9eb-0725-46c7-bd5c-2de18e3a1f39",
+  "source_id": "1s1lurk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1lurk/na_semax_na_selank/",
+  "author_hash": "899a6cb5b9c006fb68edacde50eb6d49116670c05a8f65e39a83cd04732dafcd",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T09:34:23-07:00",
+  "compounds": [
+    {
+      "name_raw": "NA semax",
+      "name_normalized": "na_semax",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NA selank",
+      "name_normalized": "na_selank",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Strong effects starting at 500mcg taken subq fasted one hour before work, lasting approximately 8 hours",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Effects lasting 8 hours when taken fasted before work",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Takes both peptides subcutaneously fasted, one hour before work. Eats breakfast one hour after dosing without decrease in effects. Recommends titrating up by 100mcg per day to find effective dose.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105207Z"
+}

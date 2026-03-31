@@ -1,0 +1,39 @@
+{
+  "id": "09c6be90-b137-44ec-85e1-ac2615e717c3",
+  "source_id": "1no254w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1no254w/reta_admission_learn_from_my_mistakes/",
+  "author_hash": "11a8f1dbec1b92f08881cade6eee70942b236cdb6d6f51eabf7d8b3ad422b6e2",
+  "confidence_tier": 4,
+  "date_published": "2025-09-22T16:37:20-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "appetite suppression was strongest in the first 2 weeks at lowest dose",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "body_composition",
+      "description": "glucagon benefits kick in at higher doses",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started very low and titrated up to 6mg weekly. Notes that glucagon benefits don't kick in until about 4mg weekly. Speculates appetite suppression may have been strongest early due to novelty rather than dose-dependent effect.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.397326Z"
+}

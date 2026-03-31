@@ -1,0 +1,115 @@
+{
+  "compound_id": "vitamin_c",
+  "display_name": "Vitamin C",
+  "category": "other",
+  "total_reports": 6,
+  "reports_by_tier": {
+    "4": 6
+  },
+  "top_benefits": [
+    {
+      "category": "injury_healing",
+      "count": 2,
+      "pct": 33.3
+    },
+    {
+      "category": "energy",
+      "count": 2,
+      "pct": 33.3
+    },
+    {
+      "category": "activity_tolerance",
+      "count": 2,
+      "pct": 33.3
+    },
+    {
+      "category": "skin",
+      "count": 2,
+      "pct": 33.3
+    },
+    {
+      "category": "endurance",
+      "count": 1,
+      "pct": 16.7
+    },
+    {
+      "category": "recovery",
+      "count": 1,
+      "pct": 16.7
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "cardiac",
+      "count": 1,
+      "pct": 16.7,
+      "avg_severity": 2
+    },
+    {
+      "category": "tolerance",
+      "count": 1,
+      "pct": 16.7,
+      "avg_severity": 2
+    },
+    {
+      "category": "flushing",
+      "count": 1,
+      "pct": 16.7,
+      "avg_severity": 1
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "intramuscular",
+      "dose": 2500,
+      "unit": "mg",
+      "frequency": "2x weekly",
+      "count": 2,
+      "pct": 33.3
+    },
+    {
+      "route": "oral",
+      "dose": 5000,
+      "unit": "IU",
+      "frequency": "2x daily",
+      "count": 2,
+      "pct": 33.3
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "curcumin",
+      "display_name": "Curcumin",
+      "report_count": 2
+    },
+    {
+      "compound_id": "mots_c",
+      "display_name": "MOTS-c",
+      "report_count": 2
+    },
+    {
+      "compound_id": "zyflamend",
+      "display_name": "Zyflamend",
+      "report_count": 2
+    },
+    {
+      "compound_id": "quercetin",
+      "display_name": "Quercetin",
+      "report_count": 2
+    },
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Retatrutide",
+      "report_count": 2
+    }
+  ],
+  "avg_sentiment_score": 0.625,
+  "sentiment_breakdown": {
+    "positive": 3,
+    "mixed": 0,
+    "negative": 0,
+    "neutral": 3
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T04:48:57.356232Z"
+}

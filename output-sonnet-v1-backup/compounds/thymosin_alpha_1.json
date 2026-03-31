@@ -1,0 +1,185 @@
+{
+  "compound_id": "thymosin_alpha_1",
+  "display_name": "Thymosin Alpha-1",
+  "category": "immune",
+  "total_reports": 53,
+  "reports_by_tier": {
+    "4": 22,
+    "5": 31
+  },
+  "top_benefits": [
+    {
+      "category": "other",
+      "count": 10,
+      "pct": 45.5
+    },
+    {
+      "category": "immune",
+      "count": 9,
+      "pct": 40.9
+    },
+    {
+      "category": "recovery",
+      "count": 4,
+      "pct": 18.2
+    },
+    {
+      "category": "energy",
+      "count": 4,
+      "pct": 18.2
+    },
+    {
+      "category": "gut_health",
+      "count": 3,
+      "pct": 13.6
+    },
+    {
+      "category": "fat_loss",
+      "count": 3,
+      "pct": 13.6
+    },
+    {
+      "category": "joint_pain",
+      "count": 3,
+      "pct": 13.6
+    },
+    {
+      "category": "sleep",
+      "count": 2,
+      "pct": 9.1
+    },
+    {
+      "category": "muscle_gain",
+      "count": 2,
+      "pct": 9.1
+    },
+    {
+      "category": "skin",
+      "count": 1,
+      "pct": 4.5
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "other",
+      "count": 5,
+      "pct": 22.7,
+      "avg_severity": 2.3
+    },
+    {
+      "category": "fatigue",
+      "count": 3,
+      "pct": 13.6,
+      "avg_severity": 1.7
+    },
+    {
+      "category": "appetite_change",
+      "count": 1,
+      "pct": 4.5,
+      "avg_severity": 3
+    },
+    {
+      "category": "dizziness",
+      "count": 1,
+      "pct": 4.5,
+      "avg_severity": 1
+    },
+    {
+      "category": "flushing",
+      "count": 1,
+      "pct": 4.5,
+      "avg_severity": 1
+    },
+    {
+      "category": "injection_site",
+      "count": 1,
+      "pct": 4.5,
+      "avg_severity": 1
+    },
+    {
+      "category": "mood_change",
+      "count": 1,
+      "pct": 4.5,
+      "avg_severity": 2
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 1.5,
+      "unit": "mg",
+      "frequency": "twice a week",
+      "count": 1,
+      "pct": 1.9
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 1.5,
+      "unit": "mg",
+      "frequency": "every third day",
+      "count": 1,
+      "pct": 1.9
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 3,
+      "unit": "mg",
+      "frequency": "twice weekly",
+      "count": 1,
+      "pct": 1.9
+    },
+    {
+      "route": "oral",
+      "dose": 50,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 1.9
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 1,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 1.9
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "bpc_157",
+      "display_name": "BPC-157",
+      "report_count": 8
+    },
+    {
+      "compound_id": "kpv",
+      "display_name": "BPC",
+      "report_count": 6
+    },
+    {
+      "compound_id": "ghk_cu",
+      "display_name": "GHK-cu",
+      "report_count": 5
+    },
+    {
+      "compound_id": "thymulin",
+      "display_name": "thymalin",
+      "report_count": 5
+    },
+    {
+      "compound_id": "ss_31",
+      "display_name": "SS-31",
+      "report_count": 5
+    }
+  ],
+  "avg_cycle_length_days": 73.8,
+  "avg_sentiment_score": 0.764,
+  "sentiment_breakdown": {
+    "positive": 35,
+    "mixed": 6,
+    "negative": 2,
+    "neutral": 10
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.969572Z"
+}

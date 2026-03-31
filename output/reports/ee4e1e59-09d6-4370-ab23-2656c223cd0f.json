@@ -1,0 +1,52 @@
+{
+  "id": "ee4e1e59-09d6-4370-ab23-2656c223cd0f",
+  "source_id": "17nqlxa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17nqlxa/one_month_taking_peptide_sciences_gut/",
+  "author_hash": "22de67242065db5780d869bf95c9b4afd7403eadb5dd859d97c7780b90e214d0",
+  "confidence_tier": 4,
+  "date_published": "2023-11-04T10:28:50-07:00",
+  "health_conditions": [
+    "lactose intolerance",
+    "inflammation",
+    "IBS-like symptoms"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "frequency": "1x daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "oral",
+      "frequency": "1x daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Lactose intolerance resolved after 3 weeks",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "inflammation",
+      "description": "Other inflammatory issues seem diminished",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "3 weeks into Peptide Sciences gut inflammation formula. Unexpected resolution of lactose intolerance which was not a stated goal of the formula.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.700179Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "6cda2b82-b3bc-4372-807f-14ccba6bf473",
+  "source_id": "1ro7ax7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ro7ax7/igf_levels_and_hgh/",
+  "author_hash": "dba4ea20aa29f981d48af22dda49902555a26776aa09253cab74fdef483dad1d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-08T08:13:15-07:00",
+  "training_status": "Athlete (implied)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_unit": "IU",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Endorses low-dose GH for athletes with dialed-in diet, recovery, training, and sleep",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Swollen fingers, higher BP, water retention at higher doses (4IU+); describes it as 'a pretty dirty drug' above 1-2IU",
+      "severity": "moderate"
+    },
+    {
+      "category": "blood_pressure",
+      "description": "Higher BP at doses above 1-2IU",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Shares personal experience/opinion that higher doses above 1-2IU are not worth it. Believes people 40+ are likely to run into side effects at 4IU. Suggests natural IGF-1 is around 100 for most people.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.11103Z"
+}

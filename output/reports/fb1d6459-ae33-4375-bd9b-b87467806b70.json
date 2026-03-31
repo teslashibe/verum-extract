@@ -1,0 +1,43 @@
+{
+  "id": "fb1d6459-ae33-4375-bd9b-b87467806b70",
+  "source_id": "1obxadv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1obxadv/peptides_for_sleep_quality/",
+  "author_hash": "37155d15a1a81bb3cfdcbb745ffe998edaa3e0b8d719d3acd01991a7ce0ade24",
+  "confidence_tier": 4,
+  "date_published": "2025-10-20T16:28:00-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "2-3 hours before sleep",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Very well rested",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Takes tesamorelin at least 2-3 hours before sleep to avoid interaction with sleep quality",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.395459Z"
+}

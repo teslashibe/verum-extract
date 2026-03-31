@@ -1,0 +1,48 @@
+{
+  "id": "796b3218-e873-42a7-b849-46dde10c5656",
+  "source_id": "1qthsy0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qthsy0/switching/",
+  "author_hash": "ce02f3648ec64f3367a3379848719e5fc87b9a7178e7d1cf25cd6e992898a84c",
+  "confidence_tier": 4,
+  "date_published": "2026-02-01T17:53:29-08:00",
+  "training_status": "works out every day",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 8,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Capromorelin",
+      "name_normalized": "capromorelin",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "At 8mg/week Retatrutide appetite suppression kicks in",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Switched from 15mg Tirzepatide to Retatrutide. Titrated up 1mg per week starting at 2mg, reached 8mg. Supplementing with Capromorelin. No elevated resting heart rate observed.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.681231Z"
+}

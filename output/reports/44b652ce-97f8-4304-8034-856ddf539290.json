@@ -1,0 +1,45 @@
+{
+  "id": "44b652ce-97f8-4304-8034-856ddf539290",
+  "source_id": "1nthftv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nthftv/tesamorelin_negative_reaction/",
+  "author_hash": "da1ff1cd2fdeeb80230e49209dc8042276ea877fc73a2e4c791d1f94c8a0a891",
+  "confidence_tier": 4,
+  "date_published": "2025-09-29T06:02:39-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 days on, 2 days off",
+      "cycle_length_days": 84,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "welts and itching at injection sites, progressing in severity over time",
+      "severity": "moderate",
+      "onset_days": 42,
+      "resolved": false
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "stomach turned bright red during injection, head rush, lightheadedness, flushing all over body",
+      "severity": "significant",
+      "onset_days": 63,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Started June 1, ran 2mg nightly on 5 days on/2 days off schedule. After allergic reaction ~3 weeks ago, reduced to 1mg and missing doses intentionally. Takes Benadryl prophylactically. Suspects tesamorelin antibody formation. Has 3 more 10mg vials remaining.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.9,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.396837Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "fa0e0cc6-f6d8-466d-91fc-051a4969cf6e",
+  "source_id": "1s3p6qw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3p6qw/anhedonia_from_bpc157_at_lower_dosages/",
+  "author_hash": "ca72187263475308daa4d292cc9b63c9f155d34f7633142cc3dd2a5b663997ab",
+  "confidence_tier": 5,
+  "date_published": "2026-03-25T15:15:12-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Anhedonia upon cessation; resolved through slow titration off",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User experienced anhedonia during discontinuation; slow tapering prevented or resolved the issue",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.657955Z"
+}

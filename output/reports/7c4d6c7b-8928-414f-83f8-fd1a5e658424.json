@@ -1,0 +1,38 @@
+{
+  "id": "7c4d6c7b-8928-414f-83f8-fd1a5e658424",
+  "source_id": "1r5cty1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r5cty1/can_peptides_that_act_on_hgh_cjc_tesamorelin/",
+  "author_hash": "e2041e585bcb1c9a1c2fd1ec1e90e5ba8766b43f1661a08736384117e0386be8",
+  "confidence_tier": 4,
+  "date_published": "2026-02-15T03:55:10-08:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "facial_change",
+      "description": "HGH face - facial structure changes including broader face",
+      "severity": "moderate",
+      "onset_days": 90,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Started at 2 IU daily, escalated to 5.5 IU daily over time. Reports HGH face onset at 2-3 IU after ~3 months. States changes did not worsen further up to 5.5 IU. Describes transition from round baby face to 'bulldog face' phenotype, halfway between baseline and severe cases. Notes poor skincare routine as contributing factor.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.663709Z"
+}

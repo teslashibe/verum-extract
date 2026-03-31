@@ -1,0 +1,73 @@
+{
+  "id": "5e957d90-ee0d-4485-b1cf-d29dd2074248",
+  "source_id": "1rx4r77",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx4r77/which_of_these_could_cause_frecklesbirthmarks/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T07:02:45-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "cycle_length_days": 126,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5x weekly",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5x weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "5-Amino-1MQ",
+      "name_normalized": "5_amino_1mq",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5x weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5x weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "New freckles/birthmarks appearing on abs and chest",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User notes they have never used GHK-Cu, Glow, or Melanotan II. Seeking to identify which compound may be responsible for new pigmentation changes.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.661687Z"
+}

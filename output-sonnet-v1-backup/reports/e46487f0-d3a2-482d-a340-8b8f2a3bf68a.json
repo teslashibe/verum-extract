@@ -1,0 +1,64 @@
+{
+  "id": "e46487f0-d3a2-482d-a340-8b8f2a3bf68a",
+  "source_id": "1kgcrqv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kgcrqv/the_wolverine_peptide/",
+  "author_hash": "eb70e56481ae84b9f3a15815fea1c57250794cc8d8f42f6f9c336b84c56a2bb5",
+  "confidence_tier": 4,
+  "date_published": "2025-05-06T12:04:39-07:00",
+  "health_conditions": [
+    "herniated extruded L5",
+    "sciatic nerve compression",
+    "micro discectomy"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tb500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "bpc",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "kpv",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ghk-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Was hospitalized 9 days pre-surgery with severe pain, on IV narcotics couldn't walk freely; day of discharge went to a restaurant with no heavy painkillers. Surgery reduced pain by 90%.",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "joint_pain",
+      "description": "Lingering symptoms remain 5 weeks post-op but surgeon says normal due to nerve compression duration",
+      "severity": "mild"
+    },
+    {
+      "category": "skin",
+      "description": "Planning nightly ghk-cu to help with surgical scar"
+    }
+  ],
+  "protocol_notes": "Started tb500/bpc a few days after surgery (not before). 5 weeks post-op at time of comment, just restarted physical therapy ~2 weeks prior. Protocol ends soon; plans to cycle to kpv while breaking from bpc/tb500, then resume bpc/tb500 with nightly ghk-cu.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.284442Z"
+}

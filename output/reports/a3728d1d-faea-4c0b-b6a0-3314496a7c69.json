@@ -1,0 +1,53 @@
+{
+  "id": "a3728d1d-faea-4c0b-b6a0-3314496a7c69",
+  "source_id": "1pgta89",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pgta89/low_dose_tirzepatide_so_far/",
+  "author_hash": "7b365e5164bca59f6a4f74093d69d1431ed1ef5ee1a212fdf22252d8403619d9",
+  "confidence_tier": 4,
+  "date_published": "2025-12-07T12:53:11-08:00",
+  "training_status": "gym training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 112,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "1mg tirz per week is sweet spot for wife to kill off enough hunger but allow for protein intake",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "achieved goal weight",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "muscle_loss",
+      "description": "lost some muscle on 16 week tirzepatide protocol",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "16 week tirzepatide protocol followed by 4 week draw down before switching to retatrutide. Wife using 1mg tirzepatide weekly. Considering retatrutide for better muscle preservation.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.391296Z"
+}

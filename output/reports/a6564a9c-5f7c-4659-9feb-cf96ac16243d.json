@@ -1,0 +1,70 @@
+{
+  "id": "a6564a9c-5f7c-4659-9feb-cf96ac16243d",
+  "source_id": "1qidto9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qidto9/realistically_how_effective_would_it_be_to_add/",
+  "author_hash": "19e67c8c7c5da11981a6288e9ea651758d9c0c38f96dad21677e834ecac35e51",
+  "confidence_tier": 4,
+  "date_published": "2026-01-20T13:16:55-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "2-3x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Tesamorelin for fat loss",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "MOTS-c provides smooth and clean energy",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Ipamorelin helps with muscle building aspect",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Tesamorelin causes water weight gain",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Go-to stack: Reta, MOTS-c 5mg/dose, 5-amino-1MQ 5-10mg/dose. Cycles in KLOW, SS-31, glutathione. Notes that Tesamorelin does not require Ipamorelin for fat loss. Recommends IGF-1 LR3 or CJC-1295 no DAC for muscle building over Ipamorelin. Also ran NAD+, MOTS-c and SS-31 together with impressive results.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.683711Z"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "862a40b6-dcad-4084-8220-9066fe53900e",
+  "source_id": "1obxadv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1obxadv/peptides_for_sleep_quality/",
+  "author_hash": "62765b84f427695f24dfca2891f04f51192923448744d6cdf1842e7662701c16",
+  "confidence_tier": 4,
+  "date_published": "2025-10-20T16:28:00-07:00",
+  "health_conditions": [
+    "ADD"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "DSIP works for sleep",
+      "severity": "moderate"
+    },
+    {
+      "category": "cognitive",
+      "description": "Adamax (similar to Semax) helps with ADD",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "CJC/Ipa made sleep worse",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "DSIP has mixed reviews; CJC/Ipa made sleep worse for this user but helps others; recommends DSIP as starting point due to low cost and lack of negative reports",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.395459Z"
+}

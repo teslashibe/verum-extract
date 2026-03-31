@@ -1,0 +1,66 @@
+{
+  "id": "8c748c49-c9ca-4679-a9d0-42778f1f4c7b",
+  "source_id": "16778vf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16778vf/pt_141_low_dose_female/",
+  "author_hash": "7f2b6880ea52b949792f7720e3014f328f3a052c83f0e256e9370cda98fbeae3",
+  "confidence_tier": 4,
+  "date_published": "2023-09-01T06:31:28-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "low libido",
+    "ADHD",
+    "OCD",
+    "chronic depression",
+    "PTSD"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "pt 141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Terzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "libido",
+      "description": "Felt warmth and arousal approximately 3 hours after injection; effects lasted at least 12 hours; orgasm stronger, increased vaginal wetness",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Felt nauseous about 10 minutes after injection; pre-medicated with Zofran",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "fatigue",
+      "description": "Got very tired and fell asleep after injection",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Had trouble going back to sleep after 3am waking",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Mixed 1ml into 10mg PT-141; took 0.5mg (5 units on insulin syringe); took Zofran ~30 minutes before injection as anti-nausea pre-treatment. Injected at 8pm. Effects noted starting around 11pm. OP mentioned intending to try up to 2mg before concluding non-response. Reported no hangover effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.29705Z"
+}

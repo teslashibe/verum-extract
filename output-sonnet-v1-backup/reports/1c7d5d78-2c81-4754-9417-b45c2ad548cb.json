@@ -1,0 +1,54 @@
+{
+  "id": "1c7d5d78-2c81-4754-9417-b45c2ad548cb",
+  "source_id": "1rnmfas",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rnmfas/graves_disease/",
+  "author_hash": "d4f2188eb49d3bc552c0b4a749603212d03860f87d751c41d9952cdcd07b2253",
+  "confidence_tier": 5,
+  "date_published": "2026-03-07T13:48:40-08:00",
+  "health_conditions": [
+    "Graves disease"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "low dose reta",
+      "name_normalized": "low_dose_reta",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "More healthy bowel movements; user believes gut healing can lead to remission",
+      "severity": "mild"
+    },
+    {
+      "category": "other",
+      "description": "Seeing metabolic difference with low dose retatrutide",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "TSH"
+    },
+    {
+      "marker_name": "T3"
+    },
+    {
+      "marker_name": "T4"
+    },
+    {
+      "marker_name": "TRAB",
+      "value_after": 2.51,
+      "unit": "IU/UL"
+    }
+  ],
+  "protocol_notes": "TSH/T3/T4 in normal range with medication. TRAB nearly in range at 2.51 IU/UL. Plans to run a protocol suggested by Dr. Trevor Bachmeyer for Graves disease. Hopes to reach remission and come off pharmaceutical thyroid meds. Also considering KPV and BPC 157 based on community suggestions.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.111247Z"
+}

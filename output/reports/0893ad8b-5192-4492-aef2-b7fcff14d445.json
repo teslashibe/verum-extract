@@ -1,0 +1,33 @@
+{
+  "id": "0893ad8b-5192-4492-aef2-b7fcff14d445",
+  "source_id": "1mx2uhe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mx2uhe/ghkcu_weekly_dose_instead_of_daily/",
+  "author_hash": "617a7a4756db9eafb0400be10615970f04f4d8cdba60929d3245bb66bd89f7bc",
+  "confidence_tier": 4,
+  "date_published": "2025-08-22T03:30:45-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Post-injection pain (PIP). Resolved using percussion massager on low setting held at injection site for 30 seconds with minimal pressure.",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Uses percussion massager technique to mitigate GHK-Cu injection site pain.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.400541Z"
+}

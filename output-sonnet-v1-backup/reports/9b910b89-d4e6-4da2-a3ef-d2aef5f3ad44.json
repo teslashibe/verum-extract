@@ -1,0 +1,59 @@
+{
+  "id": "9b910b89-d4e6-4da2-a3ef-d2aef5f3ad44",
+  "source_id": "1qnh5lx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qnh5lx/tesamorelin_assistance/",
+  "author_hash": "ad58273d536e5386ec4ddeaa2e23a58735fc818b7c673c978e8713e06a91a9f2",
+  "confidence_tier": 4,
+  "date_published": "2026-01-26T06:15:04-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 205,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "visceral fat accumulation"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "weekly",
+      "cycle_length_days": 240,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB/BPC",
+      "name_normalized": "tbbpc",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "nightly",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "8 months on Reta, loves it, works great; stubborn visceral fat remains which is the motivation for adding Tesamorelin",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "OP clarified reconstitution: Reta 10mg/1mL, TB/BPC 20mg/2mL, Tesamorelin 10mg/2mL. Plans to run Tesamorelin for 2 months checking metrics weekly. No 2-day break planned on Tesamorelin. Dosing in 'units' drew criticism from commenters for lack of specificity.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123947Z"
+}

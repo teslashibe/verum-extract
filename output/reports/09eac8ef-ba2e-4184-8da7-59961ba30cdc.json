@@ -1,0 +1,48 @@
+{
+  "id": "09eac8ef-ba2e-4184-8da7-59961ba30cdc",
+  "source_id": "1s1tng9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1tng9/ghk_cu_5_weeks_results/",
+  "author_hash": "185fb6161bf1e236f4a47a8cba5cf9191cf200ff47baea386a78eacc8a713116",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T14:07:52-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "injection site sting, reduced with BAC water dilution and peptide stacking",
+      "severity": "mild",
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Injects into glute. Dilutes GHK-Cu with 30ml BAC water at 2-3mg dose. Body adapts to protocol within about a week, after which sting becomes mild. Combines with BPC-157 and TB-500 (or TB4) stack to further reduce injection site pain to near zero.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.73,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.658969Z"
+}

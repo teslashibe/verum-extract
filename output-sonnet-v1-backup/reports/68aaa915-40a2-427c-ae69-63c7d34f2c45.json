@@ -1,0 +1,43 @@
+{
+  "id": "68aaa915-40a2-427c-ae69-63c7d34f2c45",
+  "source_id": "1jvx60w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jvx60w/need_help_switched_from_semaglutide_to/",
+  "author_hash": "a208ee12ba060c118bed459ae18e635129172be6b10e55b087a88f4a9fc07af5",
+  "confidence_tier": 4,
+  "date_published": "2025-04-10T05:53:19-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Wegovy",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Describes the transition from Wegovy 2.4mg to tirzepatide 10mg as a good transition"
+    }
+  ],
+  "protocol_notes": "Transitioned from Wegovy 2.4mg/week to tirzepatide 10mg/week; noted this as a good transition.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.286168Z"
+}

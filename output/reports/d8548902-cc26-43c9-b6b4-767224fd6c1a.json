@@ -1,0 +1,45 @@
+{
+  "id": "d8548902-cc26-43c9-b6b4-767224fd6c1a",
+  "source_id": "1rfvjiw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rfvjiw/moving_from_low_dose_tirzepatide_to_retatrutide/",
+  "author_hash": "b4df8e7d9404b2b8fa5e12bf6245f0e846017f6758a3f84d632580e106f844a2",
+  "confidence_tier": 4,
+  "date_published": "2026-02-26T19:23:59-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Went to the bathroom twice after shot day when it's usually 1",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Transition protocol: Week 1 - 1mg Tirzepatide \u0026 0.5mg Retatrutide; Week 2 - 0mg Tirzepatide \u0026 1mg Retatrutide. Minimal sides overall. Holding at these levels.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.671488Z"
+}

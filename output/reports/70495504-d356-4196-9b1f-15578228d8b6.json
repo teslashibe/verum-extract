@@ -1,0 +1,76 @@
+{
+  "id": "70495504-d356-4196-9b1f-15578228d8b6",
+  "source_id": "1acxqzz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1acxqzz/my_experience_rates_oral_bpc157_on_par_or/",
+  "author_hash": "5cb23f767a70b19b18a893ca72eb59cecbd52efd5ade5ee042a5f0ea85dce4cc",
+  "confidence_tier": 4,
+  "date_published": "2024-01-28T00:07:34-08:00",
+  "health_conditions": [
+    "IBS",
+    "chronic rotator cuff tear",
+    "AC joint injury",
+    "torn hip labrum"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 700,
+      "dose_unit": "mcg",
+      "frequency": "1x daily for 1 week, then 2x daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 450,
+      "dose_unit": "mcg",
+      "frequency": "1x daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Brain fog cleared",
+      "severity": "significant",
+      "onset_days": 0
+    },
+    {
+      "category": "energy",
+      "description": "Chronic fatigue resolved",
+      "severity": "significant",
+      "onset_days": 0
+    },
+    {
+      "category": "sleep",
+      "description": "Sleep quality dramatically improved, reduced nighttime urination from 4-5 times to once per night, deeper sleep",
+      "severity": "significant",
+      "onset_days": 0
+    },
+    {
+      "category": "mood",
+      "description": "Feeling calm and alert, improved mental state",
+      "severity": "significant",
+      "onset_days": 0
+    },
+    {
+      "category": "joint_pain",
+      "description": "All pain improved, flare-ups reduced from 2-3 weeks to 1-2 days resolution",
+      "severity": "significant",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "BPC-157 arginate (oral form). Took fasted and avoided eating for 1 hour post-dose for maximum absorption. Oral dose was 2x 700mcg daily. When switched to injectable subcutaneous, required doses of 200-450mcg to approach equivalent efficacy of oral. Originally planned 12-week cycle but extended due to positive results. 6 weeks into protocol at time of posting.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.699303Z"
+}

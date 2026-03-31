@@ -1,0 +1,31 @@
+{
+  "id": "6fc07c8b-24be-48a8-9e01-5911c5061732",
+  "source_id": "1rqacfn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rqacfn/ghkcu_and_chelated_copper_supplements/",
+  "author_hash": "6d71672c2eccd846ccb81e5e8a225584dd8cb3f3ddc1bb54ba2fc5d2d2714c45",
+  "confidence_tier": 5,
+  "date_published": "2026-03-10T14:37:06-07:00",
+  "compounds": [
+    {
+      "name_raw": "GHK",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Zinc",
+      "name_normalized": "zinc",
+      "category": "other",
+      "route": "oral",
+      "frequency": "morning",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Pins GHK at night, takes zinc in the morning.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.110014Z"
+}

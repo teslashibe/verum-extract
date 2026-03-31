@@ -1,0 +1,32 @@
+{
+  "id": "b528bab2-318d-48a8-a7c8-9d1be70d64a5",
+  "source_id": "1s3kq0k",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3kq0k/hgh_sweet_spot/",
+  "author_hash": "2854d0ca17566bc959b612af5e904d89a3faff38bf9e2df6a2e692c9f389f839",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T12:30:52-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "Non-bodybuilder. Tested 4 IU but found 1.5 IU was sweet spot based on test results. 4 IU was wasteful for this individual.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.658105Z"
+}

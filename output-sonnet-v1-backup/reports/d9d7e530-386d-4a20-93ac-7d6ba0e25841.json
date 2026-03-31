@@ -1,0 +1,67 @@
+{
+  "id": "d9d7e530-386d-4a20-93ac-7d6ba0e25841",
+  "source_id": "1o3yyxg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o3yyxg/after_reta/",
+  "author_hash": "230539a51c1ff4e770025d7cb091b50e0fb68a352f9d340368f90593cdbb1239",
+  "confidence_tier": 4,
+  "date_published": "2025-10-11T08:47:47-07:00",
+  "training_status": "heavy lifter, cycling 40-60 miles/week",
+  "health_conditions": [
+    "autoimmune issues",
+    "metabolic dysfunction",
+    "obesity (historical)",
+    "food noise/obsession"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GLP",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 548,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 32 lbs of fat over 1.5 years",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Added 8 lbs of muscle while losing fat",
+      "severity": "moderate"
+    },
+    {
+      "category": "immune",
+      "description": "Autoimmune issues controlled while on GLP",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Food noise and cravings controlled while on GLP",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Gained 15 lbs over 4 months after stopping due to insurance; hunger signals and food noise returned",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "other",
+      "description": "All autoimmune issues flared back up after stopping",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Was already a heavy lifter and cyclist before starting GLP. Was on GLP for 1.5 years. Stopped when insurance stopped covering it. Regained 15 lbs in 4 months despite maintaining exercise and eating habits. Believes some people require lifetime maintenance dosing due to metabolic dysfunction.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.268129Z"
+}

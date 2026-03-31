@@ -1,0 +1,43 @@
+{
+  "id": "9eaa0354-9472-493a-b595-41db61a885b7",
+  "source_id": "1q0uqoo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q0uqoo/ghk_cu_im_molting/",
+  "author_hash": "6f74843fa8c95f20b29e8ed710dd89032c6618f8bc13eafbc032fb16dd635bd4",
+  "confidence_tier": 4,
+  "date_published": "2025-12-31T19:34:58-08:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "chronic fungal infection from bunker pants"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Fungal infection on legs from knees down resolved. Legs shed/molted around week 2, and afterward legs have been great",
+      "severity": "significant",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Legs shed/molted",
+      "severity": "moderate",
+      "onset_days": 14,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Product name is GLOW (appears to be a blend containing GHK-Cu). Fireman experiencing fungal infection from constantly damp bunker pants in summer from sweat. Attributed shedding/molting to GHK-Cu healing skin.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.388445Z"
+}

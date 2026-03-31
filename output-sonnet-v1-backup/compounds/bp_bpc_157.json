@@ -1,0 +1,44 @@
+{
+  "compound_id": "bp_bpc_157",
+  "display_name": "BP (BPC-157)",
+  "category": "other",
+  "total_reports": 1,
+  "reports_by_tier": {
+    "4": 1
+  },
+  "top_benefits": [
+    {
+      "category": "injury_healing",
+      "count": 1,
+      "pct": 100
+    }
+  ],
+  "top_side_effects": null,
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 500,
+      "unit": "mcg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 100
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "tbc_tb_500",
+      "display_name": "TBC (TB-500)",
+      "report_count": 1
+    }
+  ],
+  "avg_cycle_length_days": 20,
+  "avg_sentiment_score": 1,
+  "sentiment_breakdown": {
+    "positive": 1,
+    "mixed": 0,
+    "negative": 0,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.968626Z"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "881c4ac2-a95e-45e9-86ca-aaa98512548b",
+  "source_id": "1rkpdc9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rkpdc9/how_to_know_how_much_retacagrilintide_blend_to/",
+  "author_hash": "a519c869dfacc618b43cb96cd1f84245d5d1ae91d62fdbfc57b5a971bc6f53a7",
+  "confidence_tier": 4,
+  "date_published": "2026-03-04T08:05:06-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 3.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Progress stalled after 4 months on semaglutide; seeking to add retatrutide and cagrilintide for improved appetite suppression"
+    }
+  ],
+  "protocol_notes": "User purchased 20mg/2.5mg retacag blend. Currently on semaglutide 3.5mg (described as very high dose). Considering separate reconstitution instead of blend. Extreme newbie to peptides, 4 months on semaglutide with recent plateau.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.668883Z"
+}

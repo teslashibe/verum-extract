@@ -1,0 +1,78 @@
+{
+  "id": "9a6eed12-4f7e-46b7-8712-316c0a1d8498",
+  "source_id": "1qz1qrp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qz1qrp/my_significant_other_has_been_on_sema_for_2/",
+  "author_hash": "b134487994a476d82b9102f94580029c76eb6799509ec3eea5f00de2999d22cf",
+  "confidence_tier": 4,
+  "date_published": "2026-02-07T22:36:11-08:00",
+  "reported_sex": "female",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "No appetite reported at 0.25mg and 0.50mg doses",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Weight loss occurring at 0.25mg and 0.50mg doses over 2 months",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Vomiting and diarrhea starting 2 days after 1mg dose. By day 6: nausea with 2 diarrhea episodes",
+      "severity": "moderate",
+      "onset_days": 2,
+      "resolved": false
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Diarrhea episodes at 1mg dose",
+      "severity": "moderate",
+      "onset_days": 2,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Female on weight loss protocol. Titrated from 0.25mg weekly (month 1) to 0.50mg weekly (month 2) with no side effects. Increased to 1.0mg weekly and experienced significant GI side effects. Post mentions she may have dosed at 0.80mg instead of 1.0mg due to concern. Considering stepping back to 0.75mg or 0.60-0.64mg. OP considering switching to Tirzepatide but chose Semaglutide due to cost (lower weekly dose requirement: 1.5-2mg vs 5-10mg for Tirzepatide). Brand names mentioned: Wegovy, Ozempic.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.666165Z"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "b1978a7e-8f23-4c6e-ba8b-85510939140f",
+  "source_id": "1refvpq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1refvpq/hgh_and_test/",
+  "author_hash": "d9fcb56591dfacd36aa4a2d9eaaa578b6ce8733fd545433491e757ec675af149",
+  "confidence_tier": 4,
+  "date_published": "2026-02-25T07:13:45-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "60+",
+  "training_status": "very active sportsman",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "HGH brings particular regeneration benefits",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "60-year-old male on TRT for approximately 5 years. Added 2IU HGH approximately 1 year prior to report. Started testosterone at 5mg propionate subcutaneously, now at 10mg. Very active athletically",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.659915Z"
+}

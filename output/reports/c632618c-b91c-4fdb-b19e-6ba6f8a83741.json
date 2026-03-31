@@ -1,0 +1,44 @@
+{
+  "id": "c632618c-b91c-4fdb-b19e-6ba6f8a83741",
+  "source_id": "1r9dd65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9dd65/major_fatigue_2_mg_reta_3_iu_hgh_trt_2_mg_motsc5/",
+  "author_hash": "c6532060237b939c98700cae3b16ac921daef2218d7c804cc8dc97243e4b4d4d",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T14:20:33-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Energy has been great after initial lethargy resolved. Reports feeling more energetic at 1mg versus 2-3mg doses.",
+      "severity": "moderate",
+      "onset_days": 3
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Initial lethargy when starting MOTS-c, but resolved after a few days.",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 3
+    }
+  ],
+  "protocol_notes": "Reports dose-dependent response: 1mg provides better energy than 2-3mg daily doses.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661963Z"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "fa463aef-9c5b-4519-bd0a-8f3bbbdf9bab",
+  "source_id": "1r2txhz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2txhz/wolverine_stack_with_trt_and_tesamorelin/",
+  "author_hash": "e4867455392922272ae79165e529ff7a677d389b7c74021992bc738ef7bbc80c",
+  "confidence_tier": 4,
+  "date_published": "2026-02-12T05:50:18-08:00",
+  "health_conditions": [
+    "ankle surgery (hardware removal)",
+    "recent ankle injury with pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "Monday and Thursday morning",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Severe pain from ankle surgery (7/10 level) reduced to zero after BPC-157 use. Continued benefit during hardware removal surgery after stopping BPC for 2-3 months prior.",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "BPC-157 injected near ankle surgery incision site (1 inch away) showed dramatic pain reduction",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Injected BPC directly near injury site. TB-500 injected subcutaneously in belly/fatty area. Protocol started 2.5 weeks ago, planned to continue for another month. Notes BPC-157 and TB-500 are synergistic with other peptides. Previous experience with BPC showed benefits 2-3 months before surgery even after stopping.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677084Z"
+}

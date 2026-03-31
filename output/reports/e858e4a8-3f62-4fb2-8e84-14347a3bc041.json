@@ -1,0 +1,38 @@
+{
+  "id": "e858e4a8-3f62-4fb2-8e84-14347a3bc041",
+  "source_id": "1bvpfim",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bvpfim/semaglutide/",
+  "author_hash": "10a96676a99e0ccbab2668c0fd24674582a60fcb0272354787c26d223f7588f9",
+  "confidence_tier": 5,
+  "date_published": "2024-04-04T08:02:52-07:00",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost inches despite stable scale weight",
+      "severity": "moderate",
+      "onset_days": 30
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Feeling weak and semi-lethargic on medication",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "One month into treatment, not yet at therapeutic dose",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.41579Z"
+}

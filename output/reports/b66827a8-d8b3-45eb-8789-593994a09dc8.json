@@ -1,0 +1,44 @@
+{
+  "id": "b66827a8-d8b3-45eb-8789-593994a09dc8",
+  "source_id": "1bgyaba",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bgyaba/anyone_taking_this_from_peptide_sciences/",
+  "author_hash": "93fcbceacff7e11e47fd287745acc953767de20ac171a1502848e29107a720d7",
+  "confidence_tier": 4,
+  "date_published": "2024-03-17T07:03:30-07:00",
+  "training_status": "trained",
+  "health_conditions": [
+    "shoulder injury"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "oral",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Left shoulder completely healed up, able to bench press two plates with ease, can sleep on left shoulder again",
+      "severity": "significant",
+      "onset_days": 60
+    }
+  ],
+  "protocol_notes": "From Peptide Sciences. Started one week after post, two months of use reported.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.416182Z"
+}

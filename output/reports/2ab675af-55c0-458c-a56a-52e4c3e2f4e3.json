@@ -1,0 +1,59 @@
+{
+  "id": "2ab675af-55c0-458c-a56a-52e4c3e2f4e3",
+  "source_id": "1qc12en",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qc12en/just_want_to_share_my_experience_peptide/",
+  "author_hash": "ec4dcd817ae0bd14d65e9f0ba4b41c613b2ece548ddc77eb243af03bbf83d68c",
+  "confidence_tier": 4,
+  "date_published": "2026-01-13T11:40:50-08:00",
+  "reported_weight": {
+    "value": 231,
+    "unit": "lbs"
+  },
+  "training_status": "physically active (physical job, 20-28k steps daily, 40-60 lbs lifts hundreds of times daily)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 37 lbs from August 12, 2025 (268 lbs) to January 13, 2026 (231 lbs)",
+      "severity": "significant",
+      "onset_days": 154
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Loves the appetite suppression effect, better results with Retatrutide + Semaglutide than Tirzepatide alone",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "No longer wanting to drink alcohol",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "No longer binge eating",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Previously on Tirzepatide alone. Currently on Retatrutide with small dose of Semaglutide to prolong appetite suppression and extend Retatrutide duration. Works 70+ hours per week 6 days a week with poor rest. Physical job involves constant heavy lifting and high step count. Does not currently have time for structured workouts but reports improved health markers and better appetite control. Notes that with proper exercise, meal prep, and gym 3x/week could see better body composition results.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.9,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.684497Z"
+}

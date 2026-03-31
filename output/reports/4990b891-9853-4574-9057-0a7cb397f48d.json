@@ -1,0 +1,126 @@
+{
+  "id": "4990b891-9853-4574-9057-0a7cb397f48d",
+  "source_id": "1ore746",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ore746/top_3_peptides/",
+  "author_hash": "26eb6fc5e7ab9b7cf2b178761f1b7025bcd15265b5346e48c0aee93b0942d65f",
+  "confidence_tier": 4,
+  "date_published": "2025-11-07T18:51:11-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "training_status": "athletic - multiple sports, jiu jitsu, squatting, deadlifting, running",
+  "health_conditions": [
+    "torn labrum",
+    "substance abuse history",
+    "obsessive compulsive behaviors"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "units",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "3x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "weight loss from 250 to 220 lbs with deep ab cuts",
+      "severity": "significant"
+    },
+    {
+      "category": "blood_sugar",
+      "description": "blood sugar highs and lows normalized even during fasting or hard training",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "substance abuse and obsessive compulsive behaviors gone silent",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "fixes sleep",
+      "severity": "significant"
+    },
+    {
+      "category": "joint_pain",
+      "description": "fixes aches and pains",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "torn labrum fixed, repair time reduced from 1 year of inactivity to 6 months with 3 months fully active",
+      "severity": "significant",
+      "onset_days": 180
+    },
+    {
+      "category": "skin",
+      "description": "skin tags, moles, and angiomas shrunk or disappeared",
+      "severity": "significant"
+    },
+    {
+      "category": "hair",
+      "description": "bald spots slowly clearing up",
+      "severity": "moderate"
+    },
+    {
+      "category": "libido",
+      "description": "reduced constant sexual cravings, improved ability to be happy without them",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "occasional PIP when missing deltoid with half inch needle, sometimes has it and sometimes doesn't",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "general health panel",
+      "timeframe_days": 90
+    }
+  ],
+  "protocol_notes": "50 mg vial reconstituted with 3 mL BAC water for Retatrutide. Uses 15 units AM and 15 units PM (approximately 2.5 mg morning and 2.5 mg night). Split GHK-Cu weekly dose into T, Th, Sat. Started Retatrutide at 1.5 mg and worked up to 3 mg over 2 months, goal to reach 4 mg. Quarterly bloodwork to monitor. Also does 6-week off cycles periodically to resensitize. Trains multiple sports intensely.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.677737Z"
+}

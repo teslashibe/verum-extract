@@ -1,0 +1,75 @@
+{
+  "id": "956cd228-e2e9-4a8f-8493-c42bf80c900a",
+  "source_id": "1cuzs61",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1cuzs61/a_cautionary_tale_how_weight_loss_affected_my/",
+  "author_hash": "4e66850fb6c5b2485d542abe802ef0905c36654126065a663149fb66222d7da8",
+  "confidence_tier": 4,
+  "date_published": "2024-05-18T08:27:15-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 223,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "hypertension"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped from 260 to 223 pounds",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Reducing food cravings",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_pressure",
+      "description": "Blood pressure dropped to 105/60, experiencing lightheadedness and dizziness when standing up quickly",
+      "severity": "moderate",
+      "onset_days": 30,
+      "resolved": true
+    },
+    {
+      "category": "dizziness",
+      "description": "Brief episodes of lightheadedness and dizziness when standing up quickly, increased in frequency and severity",
+      "severity": "moderate",
+      "onset_days": 30,
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "systolic_blood_pressure",
+      "value_after": 105,
+      "unit": "mmHg",
+      "timeframe_days": 60
+    },
+    {
+      "marker_name": "diastolic_blood_pressure",
+      "value_after": 60,
+      "unit": "mmHg",
+      "timeframe_days": 60
+    }
+  ],
+  "protocol_notes": "Taking Tirzepatide for weight loss. Was on antihypertensive medication (details not fully specified) for years. Had to adjust antihypertensive dosage down to quarter or half doses due to blood pressure drop. Weight loss from 260 lbs to 223 lbs over 2 months.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.697532Z"
+}

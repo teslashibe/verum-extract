@@ -1,0 +1,42 @@
+{
+  "id": "142f7a91-0aa9-418a-a4e1-ae8f49035f77",
+  "source_id": "1rtra6z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rtra6z/ss31_severe_fatigue_and_tiredness/",
+  "author_hash": "b99e40d2efb7217cf82c0308e856be10ff5bad301786500202129571c4ef1886",
+  "confidence_tier": 4,
+  "date_published": "2026-03-14T11:42:49-07:00",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Fatigue resolved in week 3 after dose increase to 500 mcg",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Fatigue during first 2 weeks at 250 mcg",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 21
+    }
+  ],
+  "protocol_notes": "First 2 weeks at 250 mcg caused fatigue; resolved in week 3 after increasing to 500 mcg.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.108432Z"
+}

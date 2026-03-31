@@ -1,0 +1,78 @@
+{
+  "id": "ccc18158-a6da-4638-8026-8f77f6100ca3",
+  "source_id": "1q0chkl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q0chkl/dsip_oh_my/",
+  "author_hash": "7ad78792aaf382b68ce4b985b2c1168f0cd95269b2b44e1560e0dc2bb928b3ff",
+  "confidence_tier": 4,
+  "date_published": "2025-12-31T05:01:26-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "nasal",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "intermittent (2-4 nights/week)",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "intermittent",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep improved significantly, sleep HRV improved, excellent sleep quality at 200 mcg dose",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Nightmares from nasal form",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "cardiac",
+      "description": "HRV tanked and resting HR went up on Retatrutide, now stabilizing and trending for slow improvement",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "HRV (Heart Rate Variability)"
+    },
+    {
+      "marker_name": "Resting Heart Rate"
+    }
+  ],
+  "protocol_notes": "Nasal form caused nightmares, switched to SC. Recommends intermittent use (2-4 nights/week) to avoid tolerance and daily dependency. One bottle 10 mg in 3 cc BAC lasts 25-50 weeks at recommended frequency. Can reconstitute and refrigerate for up to 6 weeks.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.672344Z"
+}

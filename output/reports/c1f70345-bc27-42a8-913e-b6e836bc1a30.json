@@ -1,0 +1,67 @@
+{
+  "id": "c1f70345-bc27-42a8-913e-b6e836bc1a30",
+  "source_id": "1rvpa2a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvpa2a/na_semax_dosage/",
+  "author_hash": "192ec0705cf0b39acab7697a4800a5bf3471a4064d930acb6867be6e02968e4a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T15:58:13-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "dose_value": 1500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "dose_value": 700,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "NA-Semax Amidate form provides equivalent or greater effect compared to higher doses of regular Semax",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "headache",
+      "description": "Headaches possible with doses that are too high",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User reports needing over 1-1.5mg daily of plain Semax to feel effects, but only 500-700mcg daily of NA-Semax Amidate achieves similar or better results. Recommends starting at 250-300mcg for dosage assessment. Emphasizes importance of understanding reconstitution, concentration, syringe measurement, and sanitation before administration.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.662763Z"
+}

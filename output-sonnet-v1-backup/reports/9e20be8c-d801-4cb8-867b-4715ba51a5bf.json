@@ -1,0 +1,51 @@
+{
+  "id": "9e20be8c-d801-4cb8-867b-4715ba51a5bf",
+  "source_id": "1ktzjt5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ktzjt5/would_i_benefit_from_reta/",
+  "author_hash": "ed981fe45eeba00eedb2a7a848a1eb5fcfed50eeef82b80306cb0d9619d8a782",
+  "confidence_tier": 4,
+  "date_published": "2025-05-23T18:03:50-07:00",
+  "training_status": "running and boxing training",
+  "health_conditions": [
+    "night eating/cravings"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "it (implied GLP-1/Reta)",
+      "name_normalized": "it_implied_glp_1reta",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "More energy while on it.",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Doesn't think about food, especially at night where it used to be a problem.",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Losing a few pounds a week at approximately 8% BF, trying to get under 8%.",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "value_after": 8,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Around 8% BF, eating 150g protein and 150g carbs with little fat (~under 250 calories net after exercise). Burns 600-800 calories running and a couple hundred from boxing. Losing a few pounds per week.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.283638Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "9f13e32a-d52d-44b4-88f5-5683ca0da2dd",
+  "source_id": "1r6mjmu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6mjmu/fake_ghkcu/",
+  "author_hash": "56b0e3a4ad52416c1fc73e1a8b12821a38e9f7d633604f79420897dcf4d847d7",
+  "confidence_tier": 4,
+  "date_published": "2026-02-16T13:28:50-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Sting develops after pH drops and solution becomes more acidic over time",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Reconstitutes GHK-Cu in phosphate buffered saline (PBS) instead of BAC to maintain pH stability and keep GHK-Cu coordination bond intact, which reduces copper-induced stinging. Notes that if GHK and Cu are not bonded, copper causes the sting but GHK still provides benefits.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.675585Z"
+}

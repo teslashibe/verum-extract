@@ -1,0 +1,35 @@
+{
+  "id": "8cc3bf98-8505-4b6a-a5b3-6ef0f3a15742",
+  "source_id": "1rys86u",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rys86u/bpc157_tb500_dosage_after_tendon_surgery_question/",
+  "author_hash": "69203b74533d3393577098cc3412d5dc4834530db29c623d564708bba8d001b9",
+  "confidence_tier": 5,
+  "date_published": "2026-03-20T03:04:13-07:00",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_unit": "mg",
+      "frequency": "twice a week",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Recommending protocol rather than reporting personal use. TB-500: 4-5mg/week for weeks 1-4, then 2-2.5mg/week for weeks 5-12. Advises eating enough protein and doing physio.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.2,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106312Z"
+}

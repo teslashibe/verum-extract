@@ -1,0 +1,67 @@
+{
+  "id": "2680429b-037c-409e-b3b0-2f6a815ab61e",
+  "source_id": "1s3iwcr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3iwcr/best_stack_combo_for_weightloss/",
+  "author_hash": "2b87956d449ce576cec19dc5ecc206eed7d5eb1b70ccc908a985ec29eaddc9e3",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T11:25:24-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Reta and Tesamorelin worked best",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "bad reaction at 2mg Tesamorelin per night on second cycle",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Ran Retatrutide with Tesamorelin 1mg daily 5 days/week for 8 weeks, then 8 weeks off. Attempted 2mg on second cycle but had bad reaction, went back to 1mg which was tolerable. Also tried SS-31, MOTS-c, and Glutathione but didn't feel they did much.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.647081Z"
+}

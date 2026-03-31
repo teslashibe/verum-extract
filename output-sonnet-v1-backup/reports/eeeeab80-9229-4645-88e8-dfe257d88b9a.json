@@ -1,0 +1,58 @@
+{
+  "id": "eeeeab80-9229-4645-88e8-dfe257d88b9a",
+  "source_id": "1ruc2ec",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ruc2ec/what_about_my_stack/",
+  "author_hash": "c4d226f6340a8a09687687028d3909c0ae280a16d9e6fd3f50e3fb85919b5e99",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T04:49:54-07:00",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "once weekly (Monday morning)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW80",
+      "name_normalized": "klow",
+      "category": "other",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "4x weekly (Monday, Tuesday, Thursday, Friday evenings)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "once weekly (Tuesday morning)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "once weekly (Thursday morning)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Stack intended for fat and weight loss"
+    }
+  ],
+  "protocol_notes": "Weekly rotating schedule with rest days Wednesday, Saturday, and Sunday. Goal explicitly stated as fat and weight loss. Protocol received skeptical reception from commenters.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.108266Z"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "80bbd826-3f61-4812-b513-f9eac88d26d2",
+  "source_id": "k303dc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/k303dc/peptides_for_brain_regeneration_after/",
+  "author_hash": "0766efcfc496d59bc28145a3ee225aa449e20423434437c32ac0767aa4657a57",
+  "confidence_tier": 4,
+  "date_published": "2020-11-28T17:20:57-08:00",
+  "health_conditions": [
+    "alcohol_use_disorder",
+    "substance_abuse"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Cerebrolysin",
+      "name_normalized": "cerebrolysin",
+      "category": "cognitive",
+      "route": "intramuscular",
+      "dose_value": 5,
+      "dose_unit": "mL",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cortexin",
+      "name_normalized": "cortexin",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Increased neurotrophic factors, endorphins, enkalphins, neurosteroid production, neuronal and synaptic plasticity, neurogenesis, brain energy metabolism, intracellular protein synthesis, neuroprotection, antioxidant effects, pro-cognitive and antidepressant effects",
+      "severity": "significant"
+    },
+    {
+      "category": "dopamine_reward_reset",
+      "description": "Resets hedonic tone and reward system from dopaminergic abuse through positive downstream changes on ΔFosB and CREB",
+      "severity": "significant"
+    },
+    {
+      "category": "addiction_recovery",
+      "description": "BPC-157 appears to block ability to get more than a buzz from alcohol (at least with beer)",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Cerebrolysin and Cortexin described as Russian super-nootropics. Both can be taken indefinitely at low doses but cost-prohibitive. BPC-157 source recommendation: Diagen (patent owner, carries 'Stable' version). User personal anecdote: finds BPC blocks intoxication from alcohol, particularly beer.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.132097Z"
+}

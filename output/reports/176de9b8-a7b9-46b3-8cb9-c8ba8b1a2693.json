@@ -1,0 +1,55 @@
+{
+  "id": "176de9b8-a7b9-46b3-8cb9-c8ba8b1a2693",
+  "source_id": "1rfjcnn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rfjcnn/looking_for_general_experiences_with_retatrutide/",
+  "author_hash": "60e22d1c6dadae4ae57cd22e3a6c3cb5eb40e3fa87800a2872e9a07bd6ddfb6c",
+  "confidence_tier": 4,
+  "date_published": "2026-02-26T11:12:17-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 200,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Down from 200 lbs to 170 lbs. Started at lower dose and worked up. Now has visible abs despite not being overweight initially.",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Skin sensitivity at higher end of 3mg dose",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 30
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Mild constipation and hemorrhoid issues",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 30
+    }
+  ],
+  "protocol_notes": "On retatrutide since August. Started at 1mg/week, worked up to max 3mg/week divided into 2 doses. Currently on 1mg/week for the last month. Side effects were tolerable but annoying, then resolved.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.671722Z"
+}

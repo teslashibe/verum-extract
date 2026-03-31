@@ -1,0 +1,89 @@
+{
+  "id": "40c87423-b0b2-4c99-b20f-d44ca956ec1b",
+  "source_id": "hlpmsm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/hlpmsm/peptide_friendly_stack_for_body_builders/",
+  "author_hash": "a1201b420b3d9f49bed294fed1e4f74253c2561401e57c41ae7fee945c8f6390",
+  "confidence_tier": 5,
+  "date_published": "2020-07-05T09:41:54-07:00",
+  "training_status": "bodybuilder",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Kisspeptin-10",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "PEG-MGF",
+      "name_normalized": "peg_mgf",
+      "category": "muscle_performance",
+      "frequency": "between meals",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ACE-2494",
+      "name_normalized": "ace_2494",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ACE-083",
+      "name_normalized": "ace_031",
+      "category": "muscle_performance",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "RAD140",
+      "name_normalized": "rad140",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "myostatin inhibition for systemic and localized muscle growth"
+    },
+    {
+      "category": "injury_healing",
+      "description": "BPC-157 and TB-500 for injury recovery"
+    },
+    {
+      "category": "recovery",
+      "description": "TB-500 for blood flow and muscle recovery"
+    },
+    {
+      "category": "libido",
+      "description": "Kisspeptin-10 elevates natural LH/FSH levels which indirectly increases testosterone"
+    },
+    {
+      "category": "endurance",
+      "description": "5-amino-1MQ helps with endurance and longevity"
+    }
+  ],
+  "protocol_notes": "Hypothetical stack recommendation for bodybuilders mid-30s or older. Post also recommends: Creatine, multivitamin (methylcobalamin, P5P, folate, mixed tocopherols, zinc, iodine, selenium), anserine/carnosine, Alpha-GPC, Hydroxyproline, electrolyte-enhanced water, metformin (30 min before meals), IPH-AGAA, taurine, Demoxytocin (after workouts), Carbetocin, Cialis (before workout), 5-amino-1MQ (with NMN/NAD+ and food), BCAA, rhbFGF, glutamine peptides + L-glutamine, b-endorphin, TVS167, fiber, CES device (1-4 Hz before bed for sleep/hormones, 8-12/12-40/40-100 Hz before gym for focus). Author states Kisspeptin-10 should not require PCT and is better alternative to HCG. Notes myostatin inhibitors work similarly to androgens but without requiring anabolic steroids.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.703665Z"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "89d317ff-5717-4be5-9dd3-af3efc42431a",
+  "source_id": "1roez9y",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1roez9y/less_than_a_year_on_retatrutide_and_testosterone/",
+  "author_hash": "de2adb2ec364dd1015344ee21df0d3c99c866e8ef23cf4a9af818db9620d9c89",
+  "confidence_tier": 4,
+  "date_published": "2026-03-08T13:07:37-07:00",
+  "reported_sex": "male",
+  "training_status": "active lifter",
+  "health_conditions": [
+    "hypogonadism (baseline testosterone 132 ng/dL)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 120,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 300,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 40 lbs of fat over 9 months",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Gained 10 lbs of muscle over 9 months",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Feels like a 25 year old again; significant energy improvement",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Increased happiness",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Reta crushes appetite",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Testosterone",
+      "value_before": 132,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "Baseline testosterone was critically low at 132 ng/dL prior to TRT. Started Retatrutide at 0.5 mg weekly and titrated to 4 mg weekly. Initially pinned Retatrutide daily but later learned this was suboptimal. Started TRT at 170 mg test weekly, increased to 300 mg weekly cruise dose. Protocol duration approximately 4 months at time of post. Diet focused on high protein intake (chicken, protein shakes, protein bars, fruit). Plans to take breaks from Reta after 6 months and eat at maintenance to manage appetite suppression effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.667151Z"
+}

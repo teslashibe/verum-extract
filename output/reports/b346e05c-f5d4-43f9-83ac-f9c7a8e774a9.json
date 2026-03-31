@@ -1,0 +1,42 @@
+{
+  "id": "b346e05c-f5d4-43f9-83ac-f9c7a8e774a9",
+  "source_id": "1nbfjcc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nbfjcc/too_much_semax/",
+  "author_hash": "1d523fa8e1eab4f95c5ddc11a56b8fbe398923465ac41bca2e61783277ea79c7",
+  "confidence_tier": 4,
+  "date_published": "2025-09-07T22:39:54-07:00",
+  "health_conditions": [
+    "anxiety"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anxiety_relief",
+      "description": "mild anxiolytic effect below 250mcg",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "anxiety",
+      "description": "too stimulating above 250mcg",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User notes NA semax is more potent than normal semax. Recommends 100-200mcg starting dose for those concerned with side effects.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.682429Z"
+}

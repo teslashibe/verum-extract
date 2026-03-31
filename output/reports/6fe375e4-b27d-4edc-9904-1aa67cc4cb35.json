@@ -1,0 +1,56 @@
+{
+  "id": "6fe375e4-b27d-4edc-9904-1aa67cc4cb35",
+  "source_id": "1rzuob8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzuob8/reta_failure/",
+  "author_hash": "c2daab1c2b8bbe8899d7da7d8d23d357379c5e652a51ab8a87b15634d8658ae3",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T08:43:18-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 208,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "went from 208 to 172 lbs",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "skin sensitivity at 6mg dose",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Achieved 36 lb weight loss from 208 to 172 using 4mg weekly dose. Increased to 6mg and experienced skin sensitivity and stalled weight loss. Notes that sister-in-law saw very little change until second month at 4mg. Different people respond at different rates.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660279Z"
+}

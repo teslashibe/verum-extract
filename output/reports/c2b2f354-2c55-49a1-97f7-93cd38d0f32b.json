@@ -1,0 +1,58 @@
+{
+  "id": "c2b2f354-2c55-49a1-97f7-93cd38d0f32b",
+  "source_id": "1psbyla",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1psbyla/first_week_on_reta_results/",
+  "author_hash": "ced9a73c9dd9e7578086a9ec9543bdee5e955b8542c41a2f5316404d38f4d2f1",
+  "confidence_tier": 4,
+  "date_published": "2025-12-21T09:30:08-08:00",
+  "reported_sex": "male",
+  "training_status": "gym training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ostarine",
+      "name_normalized": "ostarine",
+      "category": "other",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cardarine",
+      "name_normalized": "cardarine",
+      "category": "other",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Preserved muscle while on Retatrutide",
+      "severity": "moderate"
+    },
+    {
+      "category": "endurance",
+      "description": "Helped maintain stamina",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "8-week cycle of 10mg/day Ostarine and Cardarine taken alongside 5mg/day Retatrutide to preserve muscle and stamina during weight loss.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.389983Z"
+}

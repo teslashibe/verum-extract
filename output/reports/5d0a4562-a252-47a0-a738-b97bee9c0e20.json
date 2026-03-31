@@ -1,0 +1,45 @@
+{
+  "id": "5d0a4562-a252-47a0-a738-b97bee9c0e20",
+  "source_id": "1s0px4l",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s0px4l/post_knee_surgery_stack_advice/",
+  "author_hash": "84d269e8fc801c49f49e67118f75d8e4662023ee4f2a8177f5f61e35a61cc6c6",
+  "confidence_tier": 4,
+  "date_published": "2026-03-22T09:21:33-07:00",
+  "training_status": "post-surgical rehabilitation",
+  "health_conditions": [
+    "torn patellar tendon",
+    "4 weeks post-operative"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "units",
+      "frequency": "5 days a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "First real injury so no baseline yet, user monitoring for differences in coming weeks"
+    }
+  ],
+  "protocol_notes": "Started BPC-157/TB-500 stack a couple days prior to comment. 4 weeks post-op from torn patellar. First real injury so unclear on efficacy yet.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.65981Z"
+}

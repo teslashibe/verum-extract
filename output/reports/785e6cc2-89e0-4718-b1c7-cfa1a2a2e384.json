@@ -1,0 +1,53 @@
+{
+  "id": "785e6cc2-89e0-4718-b1c7-cfa1a2a2e384",
+  "source_id": "1o051fw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o051fw/what_peptide_can_i_stack_with_reta_to_keep_gain/",
+  "author_hash": "c1432581fe800ae431cb904d00f20d3fe71b1e9f5c016286d37bd81db544e49a",
+  "confidence_tier": 4,
+  "date_published": "2025-10-06T21:21:17-07:00",
+  "reported_sex": "male",
+  "training_status": "resistance training, progressive training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "dose_value": 120,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "53lbs lost",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Progressing in strength for months despite scale muscle loss claims",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "muscle_loss",
+      "description": "Scale claims about 11lbs muscle loss but user disputes accuracy of measurement",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User tracks everything meticulously and is progressing strength. Notes that scale measurements are unreliable and visual changes are better indicator.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.396347Z"
+}

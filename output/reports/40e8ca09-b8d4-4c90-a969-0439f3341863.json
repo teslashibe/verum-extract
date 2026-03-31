@@ -1,0 +1,63 @@
+{
+  "id": "40e8ca09-b8d4-4c90-a969-0439f3341863",
+  "source_id": "1s2lvz5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s2lvz5/is_this_normal/",
+  "author_hash": "f13870e14649dd644f444ec3bd453da21fdd53cc228e2df0286fcf057b28c13f",
+  "confidence_tier": 4,
+  "date_published": "2026-03-24T11:21:37-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "18-24",
+  "health_conditions": [
+    "dry skin",
+    "skin discoloration"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 2,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "targeting pores and skin discoloration"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "copper uglies - cystic pimple on cheek and multiple breakouts on face despite taking zinc supplement; user reports unusually abnormal breakout pattern",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "nausea",
+      "description": "subtle nausea in the morning",
+      "severity": "mild",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "Taking zinc supplement with GHK-Cu daily. Started both compounds simultaneously (GHK-Cu 7 days ago, Retatrutide 2 days ago). Peptides from reputable vendor per user comment. User noted impatience but not stressed.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.647413Z"
+}

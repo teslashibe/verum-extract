@@ -1,0 +1,87 @@
+{
+  "id": "3fb7d369-5a47-425c-a715-d0b6b6e6713c",
+  "source_id": "1lw5jvq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lw5jvq/what_do_you_guys_think_of_this_peptide_setup/",
+  "author_hash": "3877eadda42dbfcc00d3d713f658f8f149e5b235eb73d55851fd199ff5798329",
+  "confidence_tier": 5,
+  "date_published": "2025-07-09T23:20:02-07:00",
+  "compounds": [
+    {
+      "name_raw": "GHRP-2",
+      "name_normalized": "ghrp_2",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and night) during Week A",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295 no DAC",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and night)",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHRP-6",
+      "name_normalized": "ghrp_6",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and night) during Week B and C",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "dose_value": 30,
+      "dose_unit": "mcg",
+      "frequency": "once daily post-workout starting Week C, then weekly thereafter",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and evening) during off-cycle",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "once daily (evening) during off-cycle",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "User noted appetite boost from GHRP-6 as a desired effect"
+    }
+  ],
+  "protocol_notes": "Rotating GHRP-2 and GHRP-6 weekly to manage receptor desensitization. Week A uses GHRP-2 2x daily, Weeks B and C use GHRP-6 2x daily, Week D is off. IGF-1 LR3 introduced in Week C post-workout and continued weekly. Off-cycle protocol uses BPC-157 and GHK-Cu for 3-4 weeks before returning to main cycle. OP clarified IGF-1 LR3 will be used every week from Week C onward, not just once every 3 weeks. Protocol is planned/proposed, not yet confirmed as completed.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.279408Z"
+}

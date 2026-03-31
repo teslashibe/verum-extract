@@ -1,0 +1,37 @@
+{
+  "id": "177957e5-1974-41fd-a0de-c6f7289b6af5",
+  "source_id": "1b3lc2e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1b3lc2e/my_brain_does_not_compute/",
+  "author_hash": "ef5dc9a8088fa3f6900e829ae53c0bf149ade08c3976ed1cdcc42c244c3d6cf9",
+  "confidence_tier": 5,
+  "date_published": "2024-02-29T20:24:47-08:00",
+  "health_conditions": [
+    "dyslexia"
+  ],
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "CJC-1295/Ipamorelin blend, 10mg total (5mg each assumed), 3ml BAC water reconstitution, using 0.5ml insulin syringe, target draw to 6 units for 100mcg dose",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.416452Z"
+}

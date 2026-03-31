@@ -1,0 +1,57 @@
+{
+  "id": "80af06a6-33ff-4e15-af54-6706bdc762f2",
+  "source_id": "1nw495g",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nw495g/tirzreta_dosing/",
+  "author_hash": "a62877453f488f74f27ad41a3fd195ec89bb2ba71c85edf9bde373ee17db4418",
+  "confidence_tier": 4,
+  "date_published": "2025-10-02T06:47:10-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "twice per week",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Describes Retatrutide as definitely effective",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started Retatrutide at 1mg split twice per week for 2 weeks, then 2mg weekly for 4 weeks, then 4mg weekly for the next 4 weeks. Has considered introducing Tirzepatide for further appetite suppression. References a popular trial starting dose of 2mg once per week.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.269263Z"
+}

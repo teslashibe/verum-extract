@@ -1,0 +1,73 @@
+{
+  "id": "4b150f92-b28b-415b-834f-5948effff535",
+  "source_id": "1rv84y8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rv84y8/advice_on_the_best_peptides_for_knee_repair_and/",
+  "author_hash": "dd5cb38f07fcc14fcde87dece14d924eace5a5b2355be0738b0cb5e123fd0ef5",
+  "confidence_tier": 5,
+  "date_published": "2026-03-16T05:32:15-07:00",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Soft tissue repair"
+    },
+    {
+      "category": "skin",
+      "description": "Collagen support"
+    }
+  ],
+  "protocol_notes": "General informational post about common BPC-157 and GHK-Cu protocols. Mentions European access through sports medicine physicians or compounding pharmacies. Emphasizes importance of third-party testing documentation.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.651242Z"
+}

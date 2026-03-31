@@ -1,0 +1,50 @@
+{
+  "id": "7cbb4829-662e-4622-8e66-13de65d03e30",
+  "source_id": "1n9uztl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n9uztl/ghkcu/",
+  "author_hash": "6374b36ddafe1856d8a081ffd9ceca14fe51679f956beccb7583d7be12689797",
+  "confidence_tier": 5,
+  "date_published": "2025-09-06T02:12:57-07:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Hexapeptide-8",
+      "name_normalized": "hexapeptide_8",
+      "category": "other",
+      "route": "topical",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Hexapeptide-11",
+      "name_normalized": "hexapeptide_8",
+      "category": "other",
+      "route": "topical",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Nanopeptide-1",
+      "name_normalized": "nanopeptide_1",
+      "category": "other",
+      "route": "topical",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "improvement seen but limited detail provided",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "GHK-Cu used as subq injectable, lotion, and topical spray. Hexapeptides and Nanopeptide-1 used as lotions. Hexapeptides recommended for wrinkles and expression lines. Nanopeptide-1 for hyperpigmentation around eye area.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.682718Z"
+}

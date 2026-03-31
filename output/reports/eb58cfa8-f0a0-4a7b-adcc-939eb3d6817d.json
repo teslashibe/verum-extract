@@ -1,0 +1,56 @@
+{
+  "id": "eb58cfa8-f0a0-4a7b-adcc-939eb3d6817d",
+  "source_id": "1caywwz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1caywwz/how_large_is_your_batch/",
+  "author_hash": "0e2047ff1ea2da3765ff39063efc2e32389a243f0338f2d5d6dfb52996ccd5fb",
+  "confidence_tier": 4,
+  "date_published": "2024-04-23T00:52:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 140,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 140,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Current stack: Tesamorelin/Ipamorelin (20 weeks stock). Next cycles planned: CJC/Ipamorelin (2 cycle stock) or Sermorelin/Ipamorelin (2 cycle stock). Also stocking Tirzepatide (20 vials of 15mg each). Sourcing from multiple vendors.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.69778Z"
+}

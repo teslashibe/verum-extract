@@ -1,0 +1,47 @@
+{
+  "id": "844dd845-d732-4a8d-8ea0-956f187c40d4",
+  "source_id": "10le119",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/10le119/has_anyone_used_semaglutide_from_saf_research/",
+  "author_hash": "a83524684b278a8e930d720c89dda61903d9e621c0922e60867d8be4d3f1689c",
+  "confidence_tier": 4,
+  "date_published": "2023-01-25T16:05:43-08:00",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "single dose at 60 hours",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "appetite suppression felt",
+      "severity": "moderate",
+      "onset_days": 3
+    },
+    {
+      "category": "fat_loss",
+      "description": "down 10 lbs in 7 weeks",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "taste_change",
+      "description": "metallic taste in mouth, food tastes less intense",
+      "severity": "mild",
+      "onset_days": 3
+    }
+  ],
+  "protocol_notes": "From SAF Research. Titration schedule mentioned. Reconstituted with 2ml bacteriostatic water per 5mg vial (0.25mg per 0.1ml/10 units). User reports slacking on diet but maintaining weight loss through appetite suppression and exercise.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.701873Z"
+}

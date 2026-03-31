@@ -1,0 +1,43 @@
+{
+  "id": "11792f3a-d97c-4dee-a7ad-96dd8235d91f",
+  "source_id": "1rxu7de",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rxu7de/reta_every_63_days/",
+  "author_hash": "c99f60d0de462631636252882ff502417beb2169a54aa89c556422fee9abcf86",
+  "confidence_tier": 5,
+  "date_published": "2026-03-19T00:48:18-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "every 3 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Avoids big peaks and drops; more stable appetite suppression"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Nausea when peak is too high",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_change",
+      "description": "Eats through reta suppression when levels drop off",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Switched to every 3 days to avoid large peaks and troughs; peak causes nausea, trough causes loss of appetite suppression",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.10656Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e253639b-69f8-4b87-8ed9-1fbc9b161570",
+  "source_id": "1rhzrso",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rhzrso/tesamorelin/",
+  "author_hash": "88728cf420050c0076b770460d471422dbeee378901748f59dbb01c6da6f1eff",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T07:16:40-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "First cycle: water retention through first 6 weeks when titrating up to 2mg over ~2 months. Second cycle starting at 2mg: water retention for first ~3 weeks then resolved.",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 21
+    }
+  ],
+  "protocol_notes": "Two cycles completed. First: titrated from low dose up to 2mg over ~2 months. Second: started directly at 2mg. No joint pain or carpal tunnel with either method. Concludes titration prolonged water retention vs jumping straight to 2mg. Recommends staying hydrated with electrolytes.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.113543Z"
+}

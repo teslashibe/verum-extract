@@ -1,0 +1,47 @@
+{
+  "id": "8dbb769b-39e7-4dd2-b601-543db94fe1e8",
+  "source_id": "1r0oxac",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r0oxac/best_peptide_for_depressive_episodes/",
+  "author_hash": "59fa5fcde25cb5966d77f39fb9347f543d5543e09c5be3235d135cf7f8ec502e",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T18:47:45-08:00",
+  "health_conditions": [
+    "depression"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "nasal",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "Semax gives a little boost",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Selank made user feel sluggish",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User reports Selank had no significant effect despite research suggesting it helps depression. Found it ineffective for treating breakup-related depression.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665559Z"
+}

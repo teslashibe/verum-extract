@@ -1,0 +1,53 @@
+{
+  "id": "fd39a577-4255-4fdb-9628-28f0ad0e5030",
+  "source_id": "1o34x4x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o34x4x/peptides_that_increase_testosterone/",
+  "author_hash": "0a07443e63b39272d6e16dea15030970eb15450fd53de3f5dc2104f9f4356da1",
+  "confidence_tier": 4,
+  "date_published": "2025-10-10T09:00:11-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "training_status": "very active - boxes 6 days/week",
+  "health_conditions": [
+    "low testosterone"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Testosterone Enanthate",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Added on muscle",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Dropped weight",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Feel much better mentally",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_before": 77,
+      "unit": "ng/dL (inferred)"
+    }
+  ],
+  "protocol_notes": "Baseline testosterone was 77 ng/dL (normal range 200-1000). Used self-sourced Test E. Never felt better; levels now in normal range.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.679702Z"
+}

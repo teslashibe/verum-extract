@@ -1,0 +1,41 @@
+{
+  "id": "ec62aabf-c02a-4a4c-977c-d7d59ac4a4fe",
+  "source_id": "1s0cy8v",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s0cy8v/mitochondrial_peptides/",
+  "author_hash": "bb9c80ae531644a72c510ac177d1dc11f1ccb32ed33777474dd1a1630e873179",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T22:02:21-07:00",
+  "health_conditions": [
+    "ME/CFS",
+    "Long covid",
+    "mitochondrial dysfunction"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "intravenous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Raised energy baseline by 15-20%",
+      "severity": "significant",
+      "onset_days": 21
+    }
+  ],
+  "protocol_notes": "One 3-week cycle of 10mg/day, then took a break before continuing. User recommends starting at 2mg/day and ramping up to 20-30mg/day.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.659967Z"
+}

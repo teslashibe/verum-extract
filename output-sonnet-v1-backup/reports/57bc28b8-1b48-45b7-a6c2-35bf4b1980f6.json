@@ -1,0 +1,44 @@
+{
+  "id": "57bc28b8-1b48-45b7-a6c2-35bf4b1980f6",
+  "source_id": "1fc20k7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fc20k7/tesaipa_amazing_benefits_after_1_week/",
+  "author_hash": "917b41646b89b57e877769dd2f6a4bcc21a0c8271fbbabcd8414cfc042739652",
+  "confidence_tier": 5,
+  "date_published": "2024-09-08T09:36:29-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Happier with outcome after switching from Sermorelin to Tesamorelin while on Tirzepatide"
+    }
+  ],
+  "protocol_notes": "Previously ran Sermorelin with Tirzepatide. Switched to Tesamorelin and had better results. Has not yet added Ipamorelin but considering it.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.291171Z"
+}

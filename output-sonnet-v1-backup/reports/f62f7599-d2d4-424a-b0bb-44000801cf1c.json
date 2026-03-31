@@ -1,0 +1,58 @@
+{
+  "id": "f62f7599-d2d4-424a-b0bb-44000801cf1c",
+  "source_id": "1opqko0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1opqko0/which_stack_would_you_recommend/",
+  "author_hash": "12dc02f652f39e356d4d8517e642cbe350feb9d3cbe6767960f69ead846839f4",
+  "confidence_tier": 5,
+  "date_published": "2025-11-05T21:27:56-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tessa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "cjc",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Claims 8 weeks on this stack will make you look like a different person",
+      "severity": "significant",
+      "onset_days": 56
+    }
+  ],
+  "protocol_notes": "Stack recommendation includes 1g per pound of protein and some form of lifting/exercise. Unclear if user is reporting personal experience or just recommending.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.265469Z"
+}

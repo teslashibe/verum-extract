@@ -1,0 +1,188 @@
+{
+  "id": "e149c7d1-83ef-4db6-84f6-99d40ff6a97b",
+  "source_id": "1r4zb8b",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r4zb8b/2_weeks_into_wolverine_stack_bpctb_starting/",
+  "author_hash": "a6ff3c01479e2ee906bd7f645685dbdd7dc56856c4dda2335bfe0c9905ffe845",
+  "confidence_tier": 3,
+  "date_published": "2026-02-14T15:31:30-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "reported_weight": {
+    "value": 190,
+    "unit": "lbs"
+  },
+  "training_status": "5x/week lifting, 7-10k steps daily",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH Fragment 176-191",
+      "name_normalized": "hgh_fragment_176_191",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "frequency": "2x/day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MK-677",
+      "name_normalized": "mk_677",
+      "category": "gh_secretagogue",
+      "route": "oral",
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "frequency": "cycling",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "frequency": "cycling",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Less soreness, better recovery noticed within 2 weeks of BPC-157 + TB-500",
+      "severity": "mild",
+      "onset_days": 14
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Better pumps and early fullness in arms/shoulders with some V-taper hints noted in progress pics",
+      "severity": "mild",
+      "onset_days": 14
+    },
+    {
+      "category": "mood",
+      "description": "Selank/Semax cycling used for mood support"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Total Testosterone",
+      "value_after": 894,
+      "unit": "ng/dL"
+    },
+    {
+      "marker_name": "Insulin",
+      "value_after": 3.6,
+      "unit": "µIU/mL"
+    },
+    {
+      "marker_name": "Fasting Glucose",
+      "value_after": 73,
+      "unit": "mg/dL"
+    },
+    {
+      "marker_name": "HbA1c",
+      "value_after": 4.7,
+      "unit": "%"
+    },
+    {
+      "marker_name": "Total Cholesterol",
+      "value_after": 163,
+      "unit": "mg/dL"
+    },
+    {
+      "marker_name": "Triglycerides",
+      "value_after": 49,
+      "unit": "mg/dL"
+    },
+    {
+      "marker_name": "HDL",
+      "value_after": 69,
+      "unit": "mg/dL"
+    },
+    {
+      "marker_name": "Cholesterol Ratio",
+      "value_after": 2
+    },
+    {
+      "marker_name": "WBC",
+      "value_after": 5.56,
+      "unit": "10^3/µL"
+    },
+    {
+      "marker_name": "RBC",
+      "value_after": 4.97,
+      "unit": "10^6/µL"
+    },
+    {
+      "marker_name": "Hemoglobin",
+      "value_after": 15.7,
+      "unit": "g/dL"
+    },
+    {
+      "marker_name": "Hematocrit",
+      "value_after": 45.8,
+      "unit": "%"
+    },
+    {
+      "marker_name": "BUN",
+      "value_after": 25,
+      "unit": "mg/dL"
+    }
+  ],
+  "protocol_notes": "21-year-old male planning aggressive recomp to sub-9% BF by October 2026. Currently 2 weeks into BPC-157 + TB-500 (Wolverine stack) at 600-1000 mcg/day total subq. Phased stack introduction planned: retatrutide starting ~Feb 18 (1 mg/week titrating to 4-6 mg/week), CJC-1295 + Ipamorelin (200-600 mcg total nightly) from March 2, HGH Fragment 176-191 (250-500 mcg 2x/day) from March 5, MK-677 (10-20 mg/night) from late March pending mid-March bloods. Full taper planned mid-April before a 2-week activity trip. Diet: 2100-2250 kcal, 170-185g protein. Daily supplements include Vitamin D3 2000 IU, collagen 10g + Vit C 500mg, creatine 3g, magnesium glycinate 300-400mg, fish oil 2g, glycine 3g, 2 kiwis pre-bed. Bloodwork taken fasted Feb 12, 2026.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.118138Z"
+}

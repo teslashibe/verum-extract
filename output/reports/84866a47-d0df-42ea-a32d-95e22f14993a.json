@@ -1,0 +1,33 @@
+{
+  "id": "84866a47-d0df-42ea-a32d-95e22f14993a",
+  "source_id": "1s6v8j4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6v8j4/bruising_when_pinning_sub_q_wtf_any_advice/",
+  "author_hash": "4e0f13983d9b3d298f764c072bc7d3cb4b4057d5350423bb4fc5ceafffe130db",
+  "confidence_tier": 5,
+  "date_published": "2026-03-29T06:34:14-07:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Hit a blood vessel/vein in thigh, resulting in rapid bruising and welting",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Injected in thigh. Referred to as 'wolverine' (likely referring to the stack mentioned by OP). Planning to switch to belly injections.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.656292Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "f10630a3-f7ad-4c89-ba4a-1ad12aa7b504",
+  "source_id": "1rpwv0j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpwv0j/24h_itching_after_ghkcukpv/",
+  "author_hash": "39c99dfd39a257972b1bd3d3721c5092b17b12645f005a36570a1e544e001b76",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T06:25:36-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 1.7,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "24-hour itching, no rashes or hives, recurring pattern",
+      "severity": "moderate",
+      "onset_days": 7,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Itching occurs after approximately one week of use, resolves when discontinued, then returns upon restarting. Pattern has persisted for months.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.654128Z"
+}

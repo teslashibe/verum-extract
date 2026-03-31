@@ -1,0 +1,65 @@
+{
+  "id": "891baed8-c418-4d98-b64b-5091fd5d1f99",
+  "source_id": "1rk287p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rk287p/hgh_secretagogue_bloodwork/",
+  "author_hash": "093e86db3910eb38b80a498fb205c472a1a687839a73ff0612b58e4755244768",
+  "confidence_tier": 3,
+  "date_published": "2026-03-03T13:32:01-08:00",
+  "compounds": [
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Better sleep",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Enhanced recovery",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Noticeable improvements in body composition",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "No glucose intolerance or insulin resistance experienced"
+    },
+    {
+      "category": "water_retention",
+      "description": "No noticeable water retention"
+    },
+    {
+      "category": "numbness_tingling",
+      "description": "No carpal tunnel"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 180,
+      "value_after": 399,
+      "unit": "ng/mL"
+    }
+  ],
+  "protocol_notes": "Also tested 5 days on, 2 days off protocol which gave IGF-1 of 383 ng/mL. Did not add any GHRPs or additional GHRHs. Used tesamorelin to enhance amplitude of natural GH spikes without disrupting physiologic regulation or feedback.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112655Z"
+}

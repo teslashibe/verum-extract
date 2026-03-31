@@ -1,0 +1,91 @@
+{
+  "id": "a1ae6335-5246-419b-b023-8c3e9858555c",
+  "source_id": "1iq89d7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1iq89d7/which_peptides_should_i_add/",
+  "author_hash": "4b2f708659bdc09d0e05dc001b4a8982e4c494787795adeea111cfc164383c4e",
+  "confidence_tier": 4,
+  "date_published": "2025-02-15T10:50:04-08:00",
+  "reported_weight": {
+    "value": 182.5,
+    "unit": "lbs"
+  },
+  "training_status": "exercises (jogging, HIIT, rest days)",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "every 4-5 days",
+      "cycle_length_days": 10,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "every 4-5 days",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Reduced appetite and cravings, limited alcohol consumption",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost 4.5lbs in 10 days",
+      "severity": "significant",
+      "onset_days": 10
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Nausea experienced, worse in first week, improved by day 10",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 7
+    },
+    {
+      "category": "fatigue",
+      "description": "Too sleepy or exhausted to move most of the time, present from day 1",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "appetite_change",
+      "description": "Appetite suppression wore off after 7 days, experiencing hunger by day 10",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Stomach pain by day 10",
+      "severity": "moderate",
+      "onset_days": 10
+    }
+  ],
+  "protocol_notes": "User dosing at non-standard intervals (every 4-5 days instead of standard 7 days). Escalated from 5mg to 6mg on day 10. Practiced intermittent fasting (4-7pm eating window). Daily calorie intake 1200-1400 calories. Apple Watch reported daily burn 2400-2700 calories. Goal: lose 8-10lbs in one month, overall goal 25-30lbs. Planned to add Cagril for appetite suppression. Community feedback suggests unsustainable approach and rapid dosing without medical supervision.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.693905Z"
+}

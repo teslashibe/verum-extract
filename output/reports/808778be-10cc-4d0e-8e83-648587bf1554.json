@@ -1,0 +1,87 @@
+{
+  "id": "808778be-10cc-4d0e-8e83-648587bf1554",
+  "source_id": "1r02usu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r02usu/my_1_year_3_months_journey_with_reta/",
+  "author_hash": "e2041e585bcb1c9a1c2fd1ec1e90e5ba8766b43f1661a08736384117e0386be8",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T04:25:46-08:00",
+  "training_status": "stands all day at work",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Liraglutide",
+      "name_normalized": "liraglutide",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Sweating when sitting too long",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sweating",
+      "description": "Major back sweat and swamp ass, increased body odor during business trips",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_change",
+      "description": "Retatrutide makes user want to snack and drink, does not impact hunger or appetite suppression. Tirzepatide crushes hunger and causes disgust at snacks and booze.",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "LDL"
+    },
+    {
+      "marker_name": "HDL"
+    }
+  ],
+  "protocol_notes": "Has used and been prescribed pharma versions of Liraglutide, Semaglutide, and Tirzepatide. Also used grey market Retatrutide. Currently on 1-2mg Retatrutide. Reports that Semaglutide tanked LDL and raised HDL. Prefers Tirzepatide over Retatrutide for appetite suppression. Notes Retatrutide mildly better than Semaglutide and Liraglutide for hunger suppression but was not on those long enough for full assessment. Takes 1-2 business trips per month.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.6658Z"
+}

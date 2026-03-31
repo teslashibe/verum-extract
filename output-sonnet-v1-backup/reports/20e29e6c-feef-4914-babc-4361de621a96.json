@@ -1,0 +1,76 @@
+{
+  "id": "20e29e6c-feef-4914-babc-4361de621a96",
+  "source_id": "1rx4r77",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx4r77/which_of_these_could_cause_frecklesbirthmarks/",
+  "author_hash": "fd02e1925df5ade7f1b629fb3d66997dae776fde703cab82eb35ec19b79a24bc",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T07:02:45-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "cycle_length_days": 126,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5x a week",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5x a week",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "5amino1mq",
+      "name_normalized": "5_amino_1mq",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5x a week",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "mots-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5x a week",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "New freckles/birthmarks appearing on abs and chest, small in size",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "User explicitly states they have never used GHK, Glow, or MT-2. The 1mg dose listed for NAD+, 5amino1mq, and mots-c may be a combined or per-compound dose; exact per-compound dosing is ambiguous.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106788Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "8d92421e-8c26-4b01-b3ed-42343186f984",
+  "source_id": "1rq1iil",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rq1iil/ghkcu_injection_skin_issues/",
+  "author_hash": "59fa5fcde25cb5966d77f39fb9347f543d5543e09c5be3235d135cf7f8ec502e",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T09:24:42-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Injection site irritation",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "6 mg per week split as 2 mg 3 times per week. 48-year-old female. Did not experience systemic skin reactions like copper uglies.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.654031Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "80053fc9-a9da-491e-802f-d2646fe31c14",
+  "source_id": "1lysf1p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lysf1p/mild_cjcipa_allergy_turned_into_anaphylactic/",
+  "author_hash": "da0be27631627b550b4a7323b57d2e5f96c5b96ab8baf585d51183a50a73c472",
+  "confidence_tier": 5,
+  "date_published": "2025-07-13T06:08:35-07:00",
+  "health_conditions": [
+    "CJC site reactions"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Mild site reaction: itching and welt at injection site",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Initial site reaction resolved by switching injection to dorsal side of thigh using 5/16\" needle not fully inserted. References CJC causing mast cell activation as suspected culprit.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.404355Z"
+}

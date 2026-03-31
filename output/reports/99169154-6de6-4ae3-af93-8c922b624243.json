@@ -1,0 +1,76 @@
+{
+  "id": "99169154-6de6-4ae3-af93-8c922b624243",
+  "source_id": "1rux4ga",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rux4ga/not_sure_what_to_do/",
+  "author_hash": "8cae5cf6837253ae716b98df4e150c381dec296c0ccc8d97b6bf34449e07a07f",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T19:16:10-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "25-29",
+  "reported_weight": {
+    "value": 238,
+    "unit": "lbs"
+  },
+  "training_status": "lifting 3-4x per week, cardio 2-3x per week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cagrisema",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Started tirzepatide in April at 300 lbs, now at 238 lbs (62 lb loss over ~11 months). Added MOTS-c and AOD-9604 two weeks ago, down another 2 lbs since then.",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Noticed subtle energy shift since adding AOD-9604",
+      "severity": "mild",
+      "onset_days": 14
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Cagrisema provided additional appetite suppression when used for a couple weeks a few months ago",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Cagrisema provided far more appetite suppression than expected, made it difficult to hit 200-220g protein goals",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started tirzepatide in April at 300 lbs. Does not track calories, focuses on eating clean whole foods and limiting processed sugar. Plateaued at 240 lbs for 2 months before adding MOTS-c and AOD-9604. Used cagrisema for a couple weeks a few months ago but discontinued due to excessive appetite suppression interfering with protein intake. Currently maintaining tirzepatide with MOTS-c and AOD-9604 stack.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.65132Z"
+}

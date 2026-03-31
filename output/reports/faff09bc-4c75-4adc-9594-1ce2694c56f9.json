@@ -1,0 +1,52 @@
+{
+  "id": "faff09bc-4c75-4adc-9594-1ce2694c56f9",
+  "source_id": "1bpsf65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bpsf65/semaglutide_is_amazing/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2024-03-28T03:39:16-07:00",
+  "health_conditions": [
+    "binge eating disorder"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "No longer having cravings for sweets/fast food, no food noise",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Fuller for longer between meals, eating much more slowly, satisfied with regular portions and half-sized servings",
+      "severity": "significant",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "A little fatigue and tiredness",
+      "severity": "mild",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "No nausea reported. Dieting described as a breeze. Rapid weight loss expected per context.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.415931Z"
+}

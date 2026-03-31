@@ -1,0 +1,88 @@
+{
+  "id": "93b55cc2-98e4-4791-9196-fe03bb4b3a50",
+  "source_id": "15nlp06",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/15nlp06/i_need_help_finding_the_best_peptides_to_help/",
+  "author_hash": "bbb89e5023afcd27ffd8117a00db67c42a267fe5c3103e9cf94d9291359a1326",
+  "confidence_tier": 4,
+  "date_published": "2023-08-10T12:22:16-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "cjc-1295/Ipamorelin blend",
+      "name_normalized": "cjc1295ipamorelin_blend",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "once daily before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "once daily before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "once daily before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Tighter skin from CJC/Ipa blend"
+    },
+    {
+      "category": "hair",
+      "description": "Healthier hair from CJC/Ipa blend"
+    },
+    {
+      "category": "sleep",
+      "description": "Better sleep from CJC/Ipa blend"
+    },
+    {
+      "category": "recovery",
+      "description": "Better and quicker recovery from workouts from CJC/Ipa blend"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Promotes building of lean muscle mass over time with CJC/Ipa blend"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Reduction of body fat over time with CJC/Ipa blend"
+    },
+    {
+      "category": "joint_pain",
+      "description": "BPC-157 is amazing for healing ligaments and joints"
+    },
+    {
+      "category": "cognitive",
+      "description": "Increased mental acuity and memory from BPC-157/TB-500"
+    },
+    {
+      "category": "skin",
+      "description": "Increased collagen production from BPC-157/TB-500; GHK-Cu topical for spot corrections"
+    }
+  ],
+  "protocol_notes": "Recommends mixing all compounds into one syringe injected once daily before bed, at least 90 minutes after eating. CJC/Ipa blend typically comes in 10mg combined with even split. Describes personal experience using and recommending these compounds.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.297233Z"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "ebecffc7-157b-41d7-a824-0e2339c50203",
+  "source_id": "15k1uw7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/15k1uw7/ghkcu_experienxe/",
+  "author_hash": "cc3d793a28941629bd6374b342a5c2b4c3da3f11e1a2ff014a6f103f83b5d99f",
+  "confidence_tier": 4,
+  "date_published": "2023-08-06T14:55:27-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "50-59",
+  "health_conditions": [
+    "post-surgery knee recovery (meniscus tears)",
+    "arthritis in both knees",
+    "bone on bone in non-surgery knee"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "1x daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "dose_value": 3,
+      "frequency": "3x daily for first month, then 2x daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "1x daily (combined with GHK-Cu injection)",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "improved jawline definition and neck area tightness/elasticity",
+      "severity": "moderate",
+      "onset_days": 42
+    },
+    {
+      "category": "injury_healing",
+      "description": "post-surgery knee recovery progressing well, still in physical therapy",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "weight loss of 12-15 pounds during protocol period",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "severe burning and pain with first injection due to insufficient dilution (only 1 ml BAC water); pain lasted 2.5 weeks",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 17
+    },
+    {
+      "category": "injection_site",
+      "description": "air bubbles in GHK-Cu solution making dosing difficult",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Injected GHK-Cu subcutaneously in stomach. Initial dilution was 1 ml BAC water (caused severe burning); adjusted to 4 ml total BAC water for subsequent injections, achieving 20 units per dose. Combined GHK-Cu and BPC-157 in single syringe to reduce injection pain. Topical GHK-Cu was commercial product 'Neel' (3% concentration, purchased on Amazon). Applied topical 3x daily for first month on clean skin, then reduced to 2x daily. Used hyaluronic acid serum to aid topical absorption. Will cycle off topical for 3-4 weeks and use retinol serum during off-cycle (cannot use GHK-Cu and retinol simultaneously). Planning to try SNAP-8 topically for marionette lines and glabellar lines. Also using Tirzepatide for weight loss (lost approximately 20 pounds since May). User is 58 years old with arthritis in both knees (bone-on-bone in non-surgery knee) and had bilateral meniscus tears surgically cut out.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.420471Z"
+}

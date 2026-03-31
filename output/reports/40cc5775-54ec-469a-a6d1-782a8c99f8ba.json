@@ -1,0 +1,35 @@
+{
+  "id": "40cc5775-54ec-469a-a6d1-782a8c99f8ba",
+  "source_id": "1quvlon",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1quvlon/why_do_peoples_eyes_seem_more_vibrant_on_ghkcu/",
+  "author_hash": "cbc9eb11885106869dafca6976c8001221f3f6323c1ca230f1a7c5e04aa25b3b",
+  "confidence_tier": 5,
+  "date_published": "2026-02-03T07:53:31-08:00",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "attributed vibrant eye appearance to CJC/Ipamorelin effects on GH",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User attributes eye vibrancy to growth hormone effects rather than GHK-Cu directly",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.25,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.68044Z"
+}

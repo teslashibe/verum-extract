@@ -1,0 +1,91 @@
+{
+  "id": "1dc81c31-c44b-43be-95f1-578a43b26712",
+  "source_id": "1r3db1c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r3db1c/just_starting_out_bpc157_motsc_dsip_ghkcu_ss31/",
+  "author_hash": "1137d4e92f2deb6056b5c645d51e81a89b64691e35fa82fa6e34ea1c6827a702",
+  "confidence_tier": 5,
+  "date_published": "2026-02-12T18:36:53-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "HbA1c"
+    },
+    {
+      "marker_name": "Fasting Insulin"
+    },
+    {
+      "marker_name": "Lipase"
+    },
+    {
+      "marker_name": "Amylase"
+    },
+    {
+      "marker_name": "ALT"
+    },
+    {
+      "marker_name": "AST"
+    },
+    {
+      "marker_name": "GGT"
+    },
+    {
+      "marker_name": "ALP"
+    },
+    {
+      "marker_name": "Creatinine"
+    },
+    {
+      "marker_name": "eGFR"
+    },
+    {
+      "marker_name": "hs-CRP"
+    },
+    {
+      "marker_name": "Copper"
+    },
+    {
+      "marker_name": "Zinc"
+    }
+  ],
+  "protocol_notes": "Suggested protocol: First 2-3 weeks Retatrutide only, then 5-6 weeks BPC-157 and MOTS-C added to Retatrutide, then bloodwork, then add SS-31 and GHK-Cu. GHK-Cu recommended last because other peptides have broader impact on energy, mitochondria, insulin, and protection. GHK-Cu noted to have smaller individual effect and can sting without proper BAC water dilution.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.28,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.664166Z"
+}

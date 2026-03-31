@@ -1,0 +1,52 @@
+{
+  "id": "e8a9d69d-5818-43c2-a908-d92be1e1c5fe",
+  "source_id": "10le119",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/10le119/has_anyone_used_semaglutide_from_saf_research/",
+  "author_hash": "68b0d4b8d05afca102b327b99a48e84233f7d31525e46b89a29da5e8cb0c67cd",
+  "confidence_tier": 4,
+  "date_published": "2023-01-25T16:05:43-08:00",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "loss of appetite",
+      "severity": "significant",
+      "onset_days": 3
+    },
+    {
+      "category": "energy",
+      "description": "more energy",
+      "severity": "moderate",
+      "onset_days": 3
+    },
+    {
+      "category": "fat_loss",
+      "description": "lost 3 pounds in 3 days",
+      "severity": "moderate",
+      "onset_days": 3
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "headache",
+      "description": "headache first 2 days, resolved by day 3",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 2
+    }
+  ],
+  "protocol_notes": "On day 3 of treatment. No nausea or GI issues reported.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.701873Z"
+}

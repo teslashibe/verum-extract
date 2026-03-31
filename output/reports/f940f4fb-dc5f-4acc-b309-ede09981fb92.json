@@ -1,0 +1,68 @@
+{
+  "id": "f940f4fb-dc5f-4acc-b309-ede09981fb92",
+  "source_id": "1r02usu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r02usu/my_1_year_3_months_journey_with_reta/",
+  "author_hash": "e2041e585bcb1c9a1c2fd1ec1e90e5ba8766b43f1661a08736384117e0386be8",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T04:25:46-08:00",
+  "reported_sex": "male",
+  "training_status": "employed_standing_work",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Liraglutide",
+      "name_normalized": "liraglutide",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Excessive sweating while sitting for long periods, back sweat, and 'swamp ass'",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_change",
+      "description": "Reta makes user want to snack and drink more, doesn't suppress hunger or appetite",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "LDL"
+    },
+    {
+      "marker_name": "HDL"
+    }
+  ],
+  "protocol_notes": "Compared multiple GLP1s: pharma liraglutide, pharma semaglutide, pharma tirzepatide, and grey market retatrutide. Takes 1-2 business trips monthly. Finds Tirzepatide superior for hunger suppression compared to Retatrutide. Notes Semaglutide tanked LDL and raised HDL significantly. Believes Retatrutide is mildly better than Semaglutide and Liraglutide for hunger suppression but not as good as Tirzepatide.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.678389Z"
+}

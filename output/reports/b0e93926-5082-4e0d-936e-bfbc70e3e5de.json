@@ -1,0 +1,54 @@
+{
+  "id": "b0e93926-5082-4e0d-936e-bfbc70e3e5de",
+  "source_id": "mw9zui",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/mw9zui/bpc_157_nootroo_review_took_for_gi_issues_and/",
+  "author_hash": "890b4a761322027e84857e0a660426026951a93eb14403ac458dd3a1c9db828a",
+  "confidence_tier": 4,
+  "date_published": "2021-04-22T10:29:37-07:00",
+  "health_conditions": [
+    "chronic GI issues (bloating, constipation, internal trembling, heartburn, sharp left-sided pain)",
+    "supplement sensitivity",
+    "stress-related GI dysfunction"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "BPC-157 combined with fasting and restrictive diet keeps GI symptoms in check",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "GI flare-ups return when testing tolerance with coffee or sugar despite BPC use",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Injects BPC-157 daily at 1mg dose. Currently transitioning to oral BPC. Uses restrictive diet and fasting alongside peptide. Symptoms triggered by stress-related hard drinking, not fully diagnosed by doctors. Reports similar symptom progression to OP.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.131665Z"
+}

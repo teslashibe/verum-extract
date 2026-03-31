@@ -1,0 +1,36 @@
+{
+  "id": "3b670245-bf53-4d90-a3ba-fabcf258e707",
+  "source_id": "1hhszjt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1hhszjt/sermorelin_is_a_suitable_alternative_to_trt_for/",
+  "author_hash": "3ebf6a6b7491d02c46cfb91890256ca86f33d8117ffadd5ec17ba1d6b4d278b0",
+  "confidence_tier": 3,
+  "date_published": "2024-12-19T05:33:47-08:00",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Felt leaned up but diet also improved so cannot directly attribute to Sermorelin",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "GH",
+      "timeframe_days": 90
+    }
+  ],
+  "protocol_notes": "GH was lower after 3 months per bloodwork, contradicting the study claim.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.28892Z"
+}

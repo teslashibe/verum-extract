@@ -1,0 +1,63 @@
+{
+  "id": "04362b87-4a58-49c3-bcbf-373cf92bbaa6",
+  "source_id": "1r7q37o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r7q37o/tesamorelin/",
+  "author_hash": "28da9eeb5804b2688209bd90aaeb5f82324ffb58210e725817fb9a09c79122b8",
+  "confidence_tier": 4,
+  "date_published": "2026-02-17T18:03:19-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "50-59",
+  "training_status": "active",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "Feel like in my 20s again",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Felt great from week 4 onward",
+      "severity": "moderate",
+      "onset_days": 21
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Joints were a bit achy for first 2-3 weeks",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 21
+    }
+  ],
+  "protocol_notes": "50F. Week 8 on Tesa 1mg/day, Week 2 on Reta micro-dose 0.5mg/week. Maintained high hydration, consistent protein intake, fasting, and cardio 3x/week. Initial joint achiness resolved by week 4.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662649Z"
+}

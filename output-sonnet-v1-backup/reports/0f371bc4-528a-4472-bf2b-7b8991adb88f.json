@@ -1,0 +1,68 @@
+{
+  "id": "0f371bc4-528a-4472-bf2b-7b8991adb88f",
+  "source_id": "19faw3y",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/19faw3y/glp1_to_lean/",
+  "author_hash": "83d452120e0ef6e78c5364e5430dc0710ef7735c0e86008921dfe00241a3c77a",
+  "confidence_tier": 4,
+  "date_published": "2024-01-25T06:42:43-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testofensine oral",
+      "name_normalized": "testofensine_oral",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "1x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC/IP",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "1x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "1x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Describes stack as a 'killer weight loss stack' that works"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Completely forgets to eat on this stack",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "AOD-9604 injected directly into fat subQ. Notes the stack is expensive. Describes forgetting to eat as the biggest issue.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.295445Z"
+}

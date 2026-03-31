@@ -1,0 +1,41 @@
+{
+  "id": "bde95cc7-42ca-4efb-b574-c12dc320f28e",
+  "source_id": "1f2qj0w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1f2qj0w/bpc157_is_like_a_magic_shot_pain_eraser/",
+  "author_hash": "81eb9f43ddf1b9ce6811956fcedf159fcbbf7f9f2baf34bb9b2b9688e9526d32",
+  "confidence_tier": 5,
+  "date_published": "2024-08-27T12:55:03-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+ 500mg",
+      "name_normalized": "nad_500mg",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Adding BPC-157 last into syringe with NAD+ eliminated the injection burn completely throughout an entire 500mg bottle of NAD+",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Used NAD+ at 50mg/day through a full 500mg bottle. Added BPC-157 into syringe last along with NAD+; never felt the burn once.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.291633Z"
+}

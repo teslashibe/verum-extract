@@ -1,0 +1,60 @@
+{
+  "id": "1138b9c6-d420-4608-a183-ce42680f0f18",
+  "source_id": "1oceaai",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oceaai/best_peptide_for_muscle_growth/",
+  "author_hash": "684ae5b13f5c25b8c65d126c7b0953871b1782f1528cbae197f2c047af8ecadc",
+  "confidence_tier": 4,
+  "date_published": "2025-10-21T07:21:07-07:00",
+  "training_status": "Hard training 4-5 days a week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Put on 20 lbs over ~3 months; acknowledges this is from the combination of training, diet, and peptides rather than peptides alone",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Improved recovery allowing hard training again the next day",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Protocol alternates weekly: BPC+TB500 and ipamorelin+tesamorelin one week, then sermorelin the next week. Cycle duration approximately 3 months. Diet includes 280-320g protein per day. User acknowledges peptides contribute indirectly via recovery, not direct muscle growth.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.267265Z"
+}

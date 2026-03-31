@@ -1,0 +1,45 @@
+{
+  "id": "246a7dd4-b34e-4b55-8a0f-06d697f0098f",
+  "source_id": "1s1lurk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1lurk/na_semax_na_selank/",
+  "author_hash": "8151faf75f4158f941f72f22ad8653f33c6d767f55d4e73e370e1d2c75df304c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T09:34:23-07:00",
+  "compounds": [
+    {
+      "name_raw": "NA semax",
+      "name_normalized": "na_semax",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 11,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NA selank",
+      "name_normalized": "na_selank",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 11,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Effects more pronounced when fasted; mild noticeable difference overall",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Started at 100mcg and increased to 200mcg over about a week and a half. Planning to increase to 300mcg and stagger semax and selank dosing (selank in the afternoon) to see if separating them improves effects. Concerned that anxiolytic effects of selank may be blunting semax effects when taken together.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105207Z"
+}

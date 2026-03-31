@@ -1,0 +1,34 @@
+{
+  "id": "860ca4b2-9e97-4150-89f1-5e13e33af52f",
+  "source_id": "1fctk4s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fctk4s/tesa/",
+  "author_hash": "f187a408b293ece14590b42bc5ff4568768067edc100232729c7a3afc907b584",
+  "confidence_tier": 4,
+  "date_published": "2024-09-09T09:23:52-07:00",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "1x daily at night",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Protocol from Dr. Seeds. Ipamorelin recommended to limit somatostatin and enhance GH pulse release from tesamorelin.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.413713Z"
+}

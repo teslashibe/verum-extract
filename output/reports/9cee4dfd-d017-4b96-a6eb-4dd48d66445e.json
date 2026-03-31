@@ -1,0 +1,39 @@
+{
+  "id": "9cee4dfd-d017-4b96-a6eb-4dd48d66445e",
+  "source_id": "1esn2ze",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1esn2ze/anyone_injecting_ghkcu_and_bpc157_in_their_azz/",
+  "author_hash": "0f1b359109dca6bf592ef796c7045ef585ea338cf20e0ec92cba81d0dcca2b75",
+  "confidence_tier": 4,
+  "date_published": "2024-08-14T22:16:08-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Welts lasting a few days when injected in stomach area",
+      "severity": "moderate",
+      "resolution_days": 3
+    }
+  ],
+  "protocol_notes": "Mixed GHK-Cu and BPC-157 in same needle; glute injection eliminates irritation observed with stomach injection",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696783Z"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "d692036a-3aef-425c-bb64-0395a08e0444",
+  "source_id": "1afnaml",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1afnaml/peptides_for_loose_skin_after_weight_loss/",
+  "author_hash": "546f3ba7c29cec5c3438075bde21b8da1736de9dee4b972b01174993998e9f18",
+  "confidence_tier": 4,
+  "date_published": "2024-01-31T09:28:52-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "extended fasting, GHK-CU, CJC/IPA, and microneedling help the most with loose skin",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Extended fasting 3-5 days per month. GHK-Cu preferably injected but topical works. Uses tretinoin 3% concentration, avoids application on microneedling day and 2 days after. Also uses fish oil 3g/day, vitamin C, gotu kola, white jelly mushroom, zinc, microneedling with Derminator 2, strength training, dry skin brushing, high hydration.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.699172Z"
+}

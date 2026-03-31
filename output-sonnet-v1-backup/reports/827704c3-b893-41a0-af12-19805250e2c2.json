@@ -1,0 +1,40 @@
+{
+  "id": "827704c3-b893-41a0-af12-19805250e2c2",
+  "source_id": "1rg4yw1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rg4yw1/retatrutide_advise/",
+  "author_hash": "fc89164405ac75d88767cb4122b7b53dd8673aa2857e2e493339b1ed09a14e0d",
+  "confidence_tier": 5,
+  "date_published": "2026-02-27T04:08:35-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "daily injections",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Daily injections felt way better than bolus injections once or twice a week",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Insomnia is a side effect of Reta; body and brain won't relax due to increased metabolic rate",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Reports that Reta increases metabolic rate which contributes to poor sleep. Switched to daily injections from bolus dosing with better results overall, but insomnia persists. Recommends protein shakes with fruit blended in for extra calories.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114295Z"
+}

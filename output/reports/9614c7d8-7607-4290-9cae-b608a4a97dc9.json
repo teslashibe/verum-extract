@@ -1,0 +1,50 @@
+{
+  "id": "9614c7d8-7607-4290-9cae-b608a4a97dc9",
+  "source_id": "1rey1gl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rey1gl/protocol_for_enahncing_sleep_quality/",
+  "author_hash": "6e8bd06a59859a7c9604f849a56d2bc44e186a37e7af55da3fc7552b8cf3daad",
+  "confidence_tier": 4,
+  "date_published": "2026-02-25T18:32:21-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "More vivid dreams, wakes up feeling energized before alarm",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "energy",
+      "description": "Much higher energy levels throughout the day",
+      "severity": "significant",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Puffiness in the morning",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "CJC-1295 noted as 'no DAC' variant. Post-injection effects described as calming and helpful for bedtime. User mentions initial 'angst stage' post-injection.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.659778Z"
+}

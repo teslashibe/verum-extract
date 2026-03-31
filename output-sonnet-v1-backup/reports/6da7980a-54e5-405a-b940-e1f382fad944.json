@@ -1,0 +1,42 @@
+{
+  "id": "6da7980a-54e5-405a-b940-e1f382fad944",
+  "source_id": "1ndlcmk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ndlcmk/semax_selank_what_are_peoples_experience/",
+  "author_hash": "6374b36ddafe1856d8a081ffd9ceca14fe51679f956beccb7583d7be12689797",
+  "confidence_tier": 4,
+  "date_published": "2025-09-10T10:54:07-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "3x daily every 4 hours",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Semax felt effective when microdosed multiple times a day at 4 hour intervals. Selank described as doing wonders.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started Selank at 100mcg for weeks and slowly titrated up to 500mcg. Considers 500mcg subq the sweet spot for Selank.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.271764Z"
+}

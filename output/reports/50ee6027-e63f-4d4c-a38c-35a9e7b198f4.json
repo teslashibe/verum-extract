@@ -1,0 +1,55 @@
+{
+  "id": "50ee6027-e63f-4d4c-a38c-35a9e7b198f4",
+  "source_id": "1opecom",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1opecom/65_weeks_on_reta_down_30lbs/",
+  "author_hash": "3a1317a28cf30ab15f91f8072bb35cd88b80d6a3d4f342f4ea7d8a524fd9c0f2",
+  "confidence_tier": 4,
+  "date_published": "2025-11-05T12:34:14-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 400,
+    "unit": "lbs"
+  },
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "every 5-6 days",
+      "cycle_length_days": 46,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 30 lbs over 6.5 weeks; down from approximately 400 lbs starting weight",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Body now craves healthy foods (steak, chicken, yogurt, tuna) instead of junk foods",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "weight_change",
+      "description": "Gained 7 lbs in week 4 due to dosing error",
+      "severity": "moderate",
+      "onset_days": 28,
+      "resolved": true,
+      "resolution_days": 14
+    }
+  ],
+  "protocol_notes": "Titration schedule: 1 mg for 4 weeks, then 2 mg for 4 weeks, then escalated to 3 mg. Currently at 3 mg. Uses Shotsy app for tracking. Injection schedule color-coded by dose. No longer increasing dose as current 3 mg providing good results.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.394269Z"
+}

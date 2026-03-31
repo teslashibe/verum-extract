@@ -1,0 +1,38 @@
+{
+  "id": "605d7ddc-0304-4edc-bb23-2474d305131a",
+  "source_id": "1rys86u",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rys86u/bpc157_tb500_dosage_after_tendon_surgery_question/",
+  "author_hash": "7813e014e9372fd64a9d879ea42e76f272a94c8d7d22da1534ebf8f3e76e01a9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-20T03:04:13-07:00",
+  "training_status": "trained",
+  "health_conditions": [
+    "bilateral shoulder surgery (5 tears right, 3 tears left)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Shoulder pain relief on push days",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Uses 2-3mg daily. Found lower doses (250-500mcg) ineffective. Direct injection into each shoulder reported as optimal method. Experiences persistent soreness on push days.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.649453Z"
+}

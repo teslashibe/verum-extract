@@ -1,0 +1,102 @@
+{
+  "id": "72fe78d3-dadb-4ef3-b6d5-cb42d80dcbba",
+  "source_id": "1rl5pt1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rl5pt1/missing_anything/",
+  "author_hash": "1b9bbfcb72e935329824301ef769c2964f8912c92efbf428f753e863d26153d4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-04T18:42:51-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "Focused on holistic health, tracks fitness metrics daily",
+  "health_conditions": [
+    "formerly overweight",
+    "formerly depressed",
+    "formerly had heart issues",
+    "formerly had liver issues"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "testosterone enanthate",
+      "name_normalized": "testosterone_enanthate",
+      "category": "other",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC+IPA",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "frequency": "alternating with Tesa",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "alternating with CJC+IPA",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "frequency": "as needed",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss improved on TRT",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Muscle mass improved on TRT",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Metabolism improved, fitness improved; MOTS-C used for more energy",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Self-esteem improved, went from depressed to feeling incredible",
+      "severity": "significant"
+    },
+    {
+      "category": "libido",
+      "description": "Sex life improved",
+      "severity": "significant"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Blood work and health now resembles that of a 30 year old at age 41",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Reta is harsh on the sympathetic nervous system (SNS); MOTS-C also ramps up SNS",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Gets regular DEXA scans, quarterly blood tests, tracks weight, fat/muscle mass, sleep, HRV, SpO2, BP, ECG daily. Results outstanding across heart health, liver health, lipids, micronutrients, metabolic health. Recommends tirzepatide over retatrutide for long-term use due to SNS concerns. Alternates CJC+IPA and Tesa as they have slightly different benefits. Advises against exogenous HGH; prefers peptides like CJC, IPA, Tesa to raise GH without suppressing natural systems.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112152Z"
+}

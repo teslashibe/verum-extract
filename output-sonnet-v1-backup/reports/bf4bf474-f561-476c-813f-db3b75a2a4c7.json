@@ -1,0 +1,43 @@
+{
+  "id": "bf4bf474-f561-476c-813f-db3b75a2a4c7",
+  "source_id": "1qthsy0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qthsy0/switching/",
+  "author_hash": "7193590f89b62728ec2370a412babbd9a61fb94ebe00648afd2949381502eb8c",
+  "confidence_tier": 5,
+  "date_published": "2026-02-01T17:53:29-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly on Monday",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "once weekly on Thursday",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Stack of Tirz and Reta works great"
+    }
+  ],
+  "protocol_notes": "Using tirzepatide 2.5mg on Mondays and retatrutide 1.0mg on Thursdays as a combined stack.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.122305Z"
+}

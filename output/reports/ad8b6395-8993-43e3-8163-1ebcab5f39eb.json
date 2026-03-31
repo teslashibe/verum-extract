@@ -1,0 +1,64 @@
+{
+  "id": "ad8b6395-8993-43e3-8163-1ebcab5f39eb",
+  "source_id": "10umccs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/10umccs/bpc157_and_tb500_cured_my_chronic_pain_success/",
+  "author_hash": "f45f71a8d65f33a863d358a768a20348a29569aec5e13cab01c9c43deeecf6dc",
+  "confidence_tier": 4,
+  "date_published": "2023-02-05T12:20:10-08:00",
+  "training_status": "increased frequency and intensity of workouts",
+  "health_conditions": [
+    "high hamstring pain",
+    "severe disc issues T11/12"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Great improvement in hamstring, complete loss of pain in back",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Able to increase frequency and intensity of workouts",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "Severe lack of sensation developed during protocol, concerning for user",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 90
+    },
+    {
+      "category": "cognitive_impairment",
+      "description": "Anhedonia - lack of emotional sensation, things that used to excite no change in emotional state, no effects from caffeine but not abnormally tired",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 90
+    }
+  ],
+  "protocol_notes": "8 year history of high hamstring pain. Could only maintain protocol for couple months due to lack of sensation. Benefits lasted about 3 months after stopping. Considering future use if conditions worsen.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.701777Z"
+}

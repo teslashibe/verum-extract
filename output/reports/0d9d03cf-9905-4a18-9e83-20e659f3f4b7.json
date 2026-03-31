@@ -1,0 +1,54 @@
+{
+  "id": "0d9d03cf-9905-4a18-9e83-20e659f3f4b7",
+  "source_id": "1rey1gl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rey1gl/protocol_for_enahncing_sleep_quality/",
+  "author_hash": "a0d2e8f961a3fa92ac58bcafc7c53a13fe122eab566ff258f20bc288d54ed655",
+  "confidence_tier": 4,
+  "date_published": "2026-02-25T18:32:21-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Pinealon",
+      "name_normalized": "pinealon",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "frequency": "2 nights",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anxiety_relief",
+      "description": "Selank helped counter flushed face and heart pounding sensations",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Flushed face when going to bed within an hour of injection",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 2
+    },
+    {
+      "category": "cardiac",
+      "description": "Hearing heartbeat through pillow when going to bed within an hour of injection",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 2
+    }
+  ],
+  "protocol_notes": "Used Selank for 2 nights to counter pinealon side effects.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.659778Z"
+}

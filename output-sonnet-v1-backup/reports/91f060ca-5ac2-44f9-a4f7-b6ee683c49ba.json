@@ -1,0 +1,35 @@
+{
+  "id": "91f060ca-5ac2-44f9-a4f7-b6ee683c49ba",
+  "source_id": "1m0o6t5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m0o6t5/i_took_20mg_of_ghkcu_in_one_sitting/",
+  "author_hash": "e0e10349df7c16a5c2ba037b8d28439e229692178d76c39b167ae9b130bf29d6",
+  "confidence_tier": 5,
+  "date_published": "2025-07-15T10:34:14-07:00",
+  "compounds": [
+    {
+      "name_raw": "Ghk-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "frequency": "single dose",
+      "cycle_length_days": 1,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Pain at the injection site",
+      "severity": "mild",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "OP accidentally or intentionally took 20mg of GHK-Cu in a single sitting and was concerned about potential harm. Reported feeling fine otherwise.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.279073Z"
+}

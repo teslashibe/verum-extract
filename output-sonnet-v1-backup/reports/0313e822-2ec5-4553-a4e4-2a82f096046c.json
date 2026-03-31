@@ -1,0 +1,58 @@
+{
+  "id": "0313e822-2ec5-4553-a4e4-2a82f096046c",
+  "source_id": "1r425h1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r425h1/cjc1295pamorelin_rapid_heart_rate/",
+  "author_hash": "7cf5d0b92ee86fc7ff87bc2073ecba5d0f296ed05b925225e9b10903d3525487",
+  "confidence_tier": 4,
+  "date_published": "2026-02-13T13:45:21-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "cjc",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Flushing in the face after administration",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 4
+    },
+    {
+      "category": "headache",
+      "description": "Slight pressure in the head after administration",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 4
+    },
+    {
+      "category": "blood_pressure",
+      "description": "Elevated heart rate after administration, lasting approximately 15 minutes",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 4
+    }
+  ],
+  "protocol_notes": "Side effects subsided after approximately 4 days as body became accustomed to the peptide. Suggests checking IGF-1 levels to assess efficacy of lower doses.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.11829Z"
+}

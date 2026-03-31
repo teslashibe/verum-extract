@@ -1,0 +1,60 @@
+{
+  "id": "754a8e4d-19e8-4c71-9de3-5957d1512f15",
+  "source_id": "1qs9xw2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qs9xw2/thoughts_on_peptides_to_stack_with_ret_and_trt/",
+  "author_hash": "6ce18c96860c317342c8c55ab3d1916164b6a215778a644d5310d6cd3b02408d",
+  "confidence_tier": 4,
+  "date_published": "2026-01-31T10:22:53-08:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 3,
+      "dose_unit": "IU",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite cut at least in half, probably 25% of normal",
+      "severity": "significant",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "Just started protocol on day 2 of report. Stack includes 200mg TRT, 2mg Reta, 3 IU HGH, 2mg MOTS-c.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.668664Z"
+}

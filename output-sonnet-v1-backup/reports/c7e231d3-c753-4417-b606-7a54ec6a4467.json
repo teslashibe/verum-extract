@@ -1,0 +1,52 @@
+{
+  "id": "c7e231d3-c753-4417-b606-7a54ec6a4467",
+  "source_id": "1rfjcnn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rfjcnn/looking_for_general_experiences_with_retatrutide/",
+  "author_hash": "60e22d1c6dadae4ae57cd22e3a6c3cb5eb40e3fa87800a2872e9a07bd6ddfb6c",
+  "confidence_tier": 4,
+  "date_published": "2026-02-26T11:12:17-08:00",
+  "reported_weight": {
+    "value": 170,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Started at ~200lbs, now 170lbs; now has abs",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Skin sensitivity at higher dose of 3mg for about a month; tolerable but annoying then went away",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 30
+    },
+    {
+      "category": "other",
+      "description": "Mild constipation and haemorrhoid issues; all tolerable",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "On low dose Reta since August. Started at ~200lbs with 1mg/week, worked up to max 3mg/week divided into 2 doses Mon/Thu. Currently at 170lbs taking 1mg/week for the last month. Effective at doses nowhere near the max.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.83,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114588Z"
+}

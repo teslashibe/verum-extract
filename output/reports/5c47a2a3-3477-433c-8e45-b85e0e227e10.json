@@ -1,0 +1,55 @@
+{
+  "id": "5c47a2a3-3477-433c-8e45-b85e0e227e10",
+  "source_id": "1qtw2ru",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtw2ru/anyone_tried_prostatilen_suppositories/",
+  "author_hash": "e1c1259294e477e74b079a065b32c839022b02ea3eada5071333bf615728e695",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T06:11:10-08:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "benign prostatic hyperplasia",
+    "prostate cancer (post-treatment)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Prostatilen",
+      "name_normalized": "prostatilen",
+      "category": "other",
+      "frequency": "10 days per month",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Prostatilen",
+      "name_normalized": "prostatilen",
+      "category": "other",
+      "route": "oral",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "inflammation",
+      "description": "Reduced inflammation in prostate",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Kept PSA down, maintained cancer-free status, preserved urinary function and flow",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "PSA",
+      "timeframe_days": 912
+    }
+  ],
+  "protocol_notes": "User started Prostatilen approximately 2.5 years after laser ablation for prostate cancer treatment. Still cancer-free with maintained sexual function and good urine flow. Currently using both rectal and oral forms.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.681013Z"
+}

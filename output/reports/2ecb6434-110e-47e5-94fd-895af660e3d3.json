@@ -1,0 +1,46 @@
+{
+  "id": "2ecb6434-110e-47e5-94fd-895af660e3d3",
+  "source_id": "1kg65tu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kg65tu/ghrp6_is_a_life_saver_for_me/",
+  "author_hash": "08c8cd427788bb9715b9f7e6760e42eb33d22b44bdd325bc812f4b3a6eecc1cb",
+  "confidence_tier": 4,
+  "date_published": "2025-05-06T07:40:03-07:00",
+  "health_conditions": [
+    "appetite suppression"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GHRP-6",
+      "name_normalized": "ghrp_6",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Stimulated ghrelin and restored appetite after lifelong appetite suppression; enabled weight gain and improved ability to eat normally",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Able to steadily gain weight",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Reduced chronic lethargy and weakness",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Titration protocol: 100 mcg starting dose, increased by 100 mcg every 2 weeks up to 300 mcg maximum, followed by 6-week break. Route not specified.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.691373Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "53063438-c202-4f3b-9932-d821e0d1e9ab",
+  "source_id": "1r9jkny",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9jkny/tesamorelin_initial_results_after_6_weeks/",
+  "author_hash": "b7bd020b79e5cb9f2ec908e6b2dec124f7174c2b4481cb2ada1c3c5e875bcc96",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T18:46:38-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Visceral fat reduction; hard belly softened, improved breathing, ability to tie shoes and put on socks without difficulty",
+      "severity": "significant",
+      "onset_days": 84
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Unspecified sides on continuous dosing; resolved when switched to 5 on/2 off schedule",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Initially on 7 days per week dosing which caused severe side effects. Switched to 5 days on, 2 days off protocol. Side effects nearly caused discontinuation but persisted through almost 3 months before visceral fat loss became apparent.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661857Z"
+}

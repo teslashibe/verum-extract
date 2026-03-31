@@ -1,0 +1,74 @@
+{
+  "id": "37f0f197-7ad8-4fc4-8756-9f123003166a",
+  "source_id": "1qiz63m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qiz63m/ghkcu_results/",
+  "author_hash": "ae58274e7ebaf6a63953e9062bc169c2548083d849345b06ec3151c0bc698e47",
+  "confidence_tier": 4,
+  "date_published": "2026-01-21T06:22:22-08:00",
+  "health_conditions": [
+    "recent hand surgery",
+    "prior surgery support"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-CU + KPV",
+      "name_normalized": "ghk_cu__kpv",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesa/IPA",
+      "name_normalized": "tesaipa",
+      "category": "other",
+      "cycle_length_days": 150,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Increased body hair growth noticed by others; hair possibly darker in color; gradual results over months",
+      "severity": "moderate"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Used GLOW to support healing after hand surgery and GF's major surgery"
+    }
+  ],
+  "protocol_notes": "Started cycling GHK-CU variants around July of prior year. Began with GLOW, moved to GHK-CU alone, then GHK-CU+KPV. Reverted to GLOW for ~1 month post hand surgery. Started dosing at 1mg, moved to 2mg, currently 2.5mg daily. Cycled off a couple of times for 2-3 weeks but not the recommended 4 weeks. Takes daily multivitamin including zinc. Avoids TB/BPC-containing blends (GLOW/KLOW) when not healing due to angiogenesis concerns. Also uses a copper/general wellness shampoo occasionally.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.12435Z"
+}

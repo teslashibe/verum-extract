@@ -1,0 +1,50 @@
+{
+  "id": "1b43420b-4ed7-47f1-ad5c-4d6aede11ea6",
+  "source_id": "1o2xl8j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o2xl8j/bpc157_tb500_for_chronic_shoulder_pain_30_days/",
+  "author_hash": "325caaa8850bc6edb2edd18df6ab1e15173074fd2d60c18d517db6fd558791dc",
+  "confidence_tier": 4,
+  "date_published": "2025-10-10T03:49:39-07:00",
+  "health_conditions": [
+    "hip issue"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x per week",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Right hip started feeling better",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Using separate vials to avoid chemical/sterility/stability issues while achieving biological stacking effect. BPC-157 10mg vial at 500mcg daily. TB-500 5mg vial at 500mcg 2x weekly. On week 5 of 8-week cycle.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.679789Z"
+}

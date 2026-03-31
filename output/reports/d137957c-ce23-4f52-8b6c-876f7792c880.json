@@ -1,0 +1,42 @@
+{
+  "id": "d137957c-ce23-4f52-8b6c-876f7792c880",
+  "source_id": "1q0chkl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q0chkl/dsip_oh_my/",
+  "author_hash": "9a6157f6e730640d2227aa71d5bc23a49c0d133839816dc45ef0a602c3f6f80d",
+  "confidence_tier": 4,
+  "date_published": "2025-12-31T05:01:26-08:00",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep was amazing by the 4th night",
+      "severity": "significant",
+      "onset_days": 4
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Woke up a few times first night",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 3
+    }
+  ],
+  "protocol_notes": "Started at 150 mcg. Initial adjustment period of 3 nights with minor sleep disruption, then significant sleep improvement by night 4.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.388622Z"
+}

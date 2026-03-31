@@ -1,0 +1,47 @@
+{
+  "id": "c81e513c-e4e9-4631-86e4-05f92f458e99",
+  "source_id": "1af4vjf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1af4vjf/taking_glp1_tirz_seems_to_not_be_working_after_1/",
+  "author_hash": "ccc667ea38fd54d3dd7d30af9749146d52e0e6323744309d6184ddc1dc255173",
+  "confidence_tier": 4,
+  "date_published": "2024-01-30T16:59:04-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 152,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "2.5mg tirz",
+      "name_normalized": "25mg_tirz",
+      "category": "other",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "every 5-7 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Reached maintenance weight; started at 152 lbs and now at maintenance",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "No appetite and severe aversion to food in early days",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "52-year-old female, started at 152 lbs. Kept dose low and slow, prioritized high protein intake (135g/day) to maintain muscle. Took smaller meals with protein as priority during appetite suppression phase. Now at maintenance.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.29521Z"
+}

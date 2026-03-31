@@ -1,0 +1,59 @@
+{
+  "id": "6f1de070-b9e1-4050-851b-3c404bf29a05",
+  "source_id": "1e4ai7g",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1e4ai7g/tesamorelin_no_recomp_occurring/",
+  "author_hash": "395131c2ca0394a0794a1f933ec561e37bbe552d145a8d9b72e164b9a9a01a1c",
+  "confidence_tier": 5,
+  "date_published": "2024-07-15T17:08:38-07:00",
+  "health_conditions": [
+    "wrist pain",
+    "joint pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Got results with Tesamorelin",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Joint pain was really bad with Tesamorelin",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Had wrist pain on Tesamorelin. Saw better results with Sermorelin/Ipamorelin and CJC-1295/Ipamorelin combinations. Joint pain was limiting factor with Tesamorelin.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.42,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.414516Z"
+}

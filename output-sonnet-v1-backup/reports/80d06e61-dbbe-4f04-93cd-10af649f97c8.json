@@ -1,0 +1,79 @@
+{
+  "id": "80d06e61-dbbe-4f04-93cd-10af649f97c8",
+  "source_id": "1mwq6sg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mwq6sg/finding_my_stride/",
+  "author_hash": "bfdf3458255722f03f1fafa500691054e8972acf971d81cd07b693e9cf430f9d",
+  "confidence_tier": 4,
+  "date_published": "2025-08-21T16:05:43-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "reported_weight": {
+    "value": 238,
+    "unit": "lbs"
+  },
+  "training_status": "Zone 2 cardio and strength training",
+  "health_conditions": [
+    "elevated A1C",
+    "elevated blood pressure",
+    "obesity history"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retra/GLP-3",
+      "name_normalized": "retraglp_3",
+      "category": "other",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Food noise is gone, cravings way down, appetite almost nonexistent",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Dropped from 310 to 238 lbs over combined Mounjaro and Retra/GLP-3 usage; stalled at 260 before switching",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "DSIP described as life changing for sleep; hadn't had a solid night's rest in years, now wakes up actually rested",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Coworkers commented he seems more relaxed and present since starting DSIP",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C"
+    },
+    {
+      "marker_name": "blood pressure"
+    }
+  ],
+  "protocol_notes": "Previous use of Mounjaro (prescribed) dropped weight from 310 to 260 before stalling. Switched to Retra/GLP-3 at 2mg weekly, now at week 4 and 238 lbs. Plans to add Semax in mornings for energy and focus. Uses PepTracker app to log protocol and workouts.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.274751Z"
+}

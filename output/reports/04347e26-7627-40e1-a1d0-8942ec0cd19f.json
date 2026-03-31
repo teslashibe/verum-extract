@@ -1,0 +1,38 @@
+{
+  "id": "04347e26-7627-40e1-a1d0-8942ec0cd19f",
+  "source_id": "1r128hs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r128hs/will_cjcipa_increase_igf1_levels/",
+  "author_hash": "9511eea6d55e1974de61fdba299e04b4d4009268e5818f55832de0d45f625980",
+  "confidence_tier": 5,
+  "date_published": "2026-02-10T06:29:47-08:00",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "timeframe_days": 90
+    }
+  ],
+  "protocol_notes": "Using CJC-IPA blend for 2-3 months. Getting bloodwork drawn to check IGF-1 levels. Concerned about accuracy due to peptide use.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665371Z"
+}

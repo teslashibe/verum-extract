@@ -1,0 +1,70 @@
+{
+  "id": "9827213e-2e12-4117-8688-903f282e7398",
+  "source_id": "n3d54g",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/n3d54g/ruined_vasectomy/",
+  "author_hash": "e1c8a01cbe723fea624573f4c2c5b8042926d90ff161b7b2b506cfccafe67633",
+  "confidence_tier": 4,
+  "date_published": "2021-05-02T11:56:04-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 750,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "once daily, 5 days on 2 days off",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mod GRF 1-29",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "once daily, 5 days on 2 days off",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User running a healing protocol stack in preparation for vasectomy procedure. Stack includes growth hormone secretagogues (Ipamorelin + Mod GRF 1-29) combined with tissue repair peptides (BPC-157, TB-500, GHK-Cu). User concerned about whether peptides could interfere with vasectomy procedure.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.131605Z"
+}

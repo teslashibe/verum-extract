@@ -1,0 +1,49 @@
+{
+  "id": "0889a314-6dda-453f-938a-134327465ebc",
+  "source_id": "1rizczv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rizczv/phlegm_for_a_month_after_starting/",
+  "author_hash": "cce00b8d4be9d174b39f3c6ed5baf2b61bc8a9f2cf3e265e1efdd26646ad589d",
+  "confidence_tier": 5,
+  "date_published": "2026-03-02T09:35:15-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Throat needing to be cleared more frequently; milder than OP's phlegm issue. Suspects NAD as the cause based on timing; NAD cycle almost over and plans to see if symptom resolves after stopping.",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Currently on NAD (cycle almost over), Reta, GHK-Cu, and BPC. Believes symptom started with NAD addition, not present on other two alone.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.113061Z"
+}

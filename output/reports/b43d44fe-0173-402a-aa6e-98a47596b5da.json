@@ -1,0 +1,73 @@
+{
+  "id": "b43d44fe-0173-402a-aa6e-98a47596b5da",
+  "source_id": "1phuk0p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1phuk0p/combo_of_mt1_kpv_ghkcu/",
+  "author_hash": "362a88e5adf38056cb8afb1f196c9fd10a6c9c8d54a7f92015ee4f3ffc7759d8",
+  "confidence_tier": 4,
+  "date_published": "2025-12-08T17:25:50-08:00",
+  "reported_age_range": "25-29",
+  "health_conditions": [
+    "rosacea"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "KPV helped with rosacea, significant decrease in redness and inflammation on face",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Skin improvements from GHK-Cu",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Mild flushing after pinning",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "All three compounds administered via subcutaneous injection. User reports tan development and skin appearance improvements. Duration of protocol not explicitly stated but user asked about it in comments.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.391135Z"
+}

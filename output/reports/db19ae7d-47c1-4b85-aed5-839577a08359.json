@@ -1,0 +1,50 @@
+{
+  "id": "db19ae7d-47c1-4b85-aed5-839577a08359",
+  "source_id": "1qzjo5r",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qzjo5r/bpc_157_alternetives_for_those_who_take_ssris/",
+  "author_hash": "da261cdee96e17da6ff78e02bf506534ffafca977ac31a052efac70d695ca4d0",
+  "confidence_tier": 4,
+  "date_published": "2026-02-08T12:21:43-08:00",
+  "health_conditions": [
+    "Anxiety",
+    "OCD",
+    "Rotator cuff tear",
+    "Lingering injuries"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Helped immensely with torn rotator cuff and lingering injuries",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Also taking Lexapro 20mg and Wellbutrin 300mg. No negative interactions reported.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.678742Z"
+}

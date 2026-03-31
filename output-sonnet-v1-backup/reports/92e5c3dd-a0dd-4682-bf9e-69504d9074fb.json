@@ -1,0 +1,39 @@
+{
+  "id": "92e5c3dd-a0dd-4682-bf9e-69504d9074fb",
+  "source_id": "1r02usu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r02usu/my_1_year_3_months_journey_with_reta/",
+  "author_hash": "e1aceb06b5fe603a43ba300d75b84fafa057039f15b05c1c6a56bac37a9e61dd",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T04:25:46-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Triz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Required slow titration to 6mg of Reta to achieve same appetite suppression as 5mg of quality Tirzepatide"
+    }
+  ],
+  "protocol_notes": "Notes that appetite suppression is not the primary benefit of Reta. Switched from Tirz to Reta and needed higher dose to match prior suppression.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.120064Z"
+}

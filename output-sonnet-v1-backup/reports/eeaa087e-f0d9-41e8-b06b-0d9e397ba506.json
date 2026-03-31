@@ -1,0 +1,49 @@
+{
+  "id": "eeaa087e-f0d9-41e8-b06b-0d9e397ba506",
+  "source_id": "1nnr882",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nnr882/anyone_stacking_test_reta_tesa/",
+  "author_hash": "ac396f8029f1cc912ab2636dea73b72927387f120c8eb11bde9c18523f95388b",
+  "confidence_tier": 4,
+  "date_published": "2025-09-22T09:29:07-07:00",
+  "reported_weight": {
+    "value": 185,
+    "unit": "lbs"
+  },
+  "training_status": "Strength training at least 4x/week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 300,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 270,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 150,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "6'1\", higher BF%. In 750 cal deficit with 150g protein/day. Goal is body recomp and fat loss. Was previously running 250mg test/week before increasing to 300mg. Considering adding HGH to the stack. Ordered 5 months of Tesa.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.270475Z"
+}

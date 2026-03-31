@@ -1,0 +1,77 @@
+{
+  "id": "555fedbd-f5c1-44db-b4ca-5c236e119bad",
+  "source_id": "1s1hbwi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1hbwi/anyone_taking_just_solely_peptides_for_muscle_mass/",
+  "author_hash": "b8842a3272f01d35dbf605c25f4e03e8282cd1c8b5f7574f0382b12547750320",
+  "confidence_tier": 3,
+  "date_published": "2026-03-23T06:46:44-07:00",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 163,
+    "unit": "lbs"
+  },
+  "training_status": "beginner (sedentary for 25 years, recently started HIIT and resistance training)",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "cjc",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Skeletal muscle mass increased from 75.8 lbs to 85.3 lbs over approximately 2 months, weight increased from 163 lbs to 168 lbs",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Body fat decreased from 17.4% to 11% (estimated visually as 13.5-14%) over approximately 2 months",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Mile time improved from 9:50 to 7:20",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "value_before": 17.4,
+      "value_after": 11,
+      "unit": "%",
+      "timeframe_days": 60
+    },
+    {
+      "marker_name": "body weight",
+      "value_before": 163,
+      "value_after": 168,
+      "unit": "lbs",
+      "timeframe_days": 60
+    },
+    {
+      "marker_name": "skeletal muscle mass",
+      "value_before": 75.8,
+      "value_after": 85.3,
+      "unit": "lbs",
+      "timeframe_days": 60
+    }
+  ],
+  "protocol_notes": "No steroids/TRT. Also started creatine after beginning peptides. Had InBody scans at start of period and after ~2 months. Age 44. Attributes some gains to newbie gains and creatine but believes CJC/ipamorelin contributed.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105353Z"
+}

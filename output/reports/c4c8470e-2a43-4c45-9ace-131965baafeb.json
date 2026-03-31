@@ -1,0 +1,63 @@
+{
+  "id": "c4c8470e-2a43-4c45-9ace-131965baafeb",
+  "source_id": "1ohfq90",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ohfq90/slept_as_a_baby_gluthatione_or_ss31/",
+  "author_hash": "3ad07231752c8f8b760affc80ccab7d36c4adb6748a071918ea32e2375632ed8",
+  "confidence_tier": 4,
+  "date_published": "2025-10-27T07:22:13-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 30,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep improved, though only slightly",
+      "severity": "mild",
+      "onset_days": 5
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Severe post-injection pain lasting about an hour, larger red patch than MOTS-c",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    }
+  ],
+  "protocol_notes": "Started last Friday. Taking all compounds in the morning. Glutathione dose gradually increasing (30mg reported today). Source is from reputable peptide company. BAC water verified with other peptides. User notes difficulty tolerating higher glutathione doses.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.87,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.67868Z"
+}

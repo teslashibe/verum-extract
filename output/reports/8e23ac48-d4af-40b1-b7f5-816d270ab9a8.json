@@ -1,0 +1,35 @@
+{
+  "id": "8e23ac48-d4af-40b1-b7f5-816d270ab9a8",
+  "source_id": "1s1lqt9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1lqt9/better_to_start_with_semax_or_selank/",
+  "author_hash": "c2b08f3b695c8fc0aaf69859c0113e6c452943aee94797594d9906b393395683",
+  "confidence_tier": 5,
+  "date_published": "2026-03-23T09:30:28-07:00",
+  "compounds": [
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Recommends Selank first, then Semax after couple weeks, then NAD+ for 'trinity' stack.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.659276Z"
+}

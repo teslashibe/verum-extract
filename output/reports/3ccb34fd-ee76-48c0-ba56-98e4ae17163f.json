@@ -1,0 +1,49 @@
+{
+  "id": "3ccb34fd-ee76-48c0-ba56-98e4ae17163f",
+  "source_id": "1qqf4e9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqf4e9/whats_the_best_peptide_for_fatigue_and_depression/",
+  "author_hash": "26b8108158ce8c9a119202bbc5b2227a59b0720e42eb7bfdf5b087b9cc840564",
+  "confidence_tier": 5,
+  "date_published": "2026-01-29T09:33:00-08:00",
+  "training_status": "previously active, currently low energy",
+  "health_conditions": [
+    "fatigue",
+    "depression",
+    "anhedonia"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Massive fatigue and energy loss since starting GLP-3/Retatrutide",
+      "severity": "significant"
+    },
+    {
+      "category": "mood_change",
+      "description": "Mental health affected negatively; anhedonia despite being naturally happy",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User reports fatigue and mood decline on Retatrutide 0.5mg despite previous activity level and adequate caloric intake. Previously cycled off Retatrutide for weeks, gained 6lbs, restarted at extremely low dose. Still experiences side effects. Interested in Selank/Semax to offset mood symptoms.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669416Z"
+}

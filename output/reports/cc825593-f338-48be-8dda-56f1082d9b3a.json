@@ -1,0 +1,76 @@
+{
+  "id": "cc825593-f338-48be-8dda-56f1082d9b3a",
+  "source_id": "1n9uztl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n9uztl/ghkcu/",
+  "author_hash": "d4419fc7c558a0dd585161c09bdd1a72d631fc30b608960634750a24aabb9b51",
+  "confidence_tier": 4,
+  "date_published": "2025-09-06T02:12:57-07:00",
+  "health_conditions": [
+    "acne"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "acne marks and pimple scars fading away",
+      "severity": "significant",
+      "onset_days": 30
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "burning sensation on injection, tenderness for a few days after injection, welts from 4mg dose lasting over a week",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Using insulin pen with 31g×5/16 Easy Touch needle. Uses KLOW blend (mixed product) but plans to separate TB-500+BPC-157+KPV from GHK-Cu injections due to injection site pain (pip). GHK-Cu noted as uncomfortable pin.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.682718Z"
+}

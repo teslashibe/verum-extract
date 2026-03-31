@@ -1,0 +1,77 @@
+{
+  "id": "9ade198b-4192-4011-9f0a-ddab7fc9b8c9",
+  "source_id": "1pvrlp2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pvrlp2/any_females_here_looking_into_peptides_for_fat/",
+  "author_hash": "d9ebd7d8ae6791d996f6184b114699f3f45cafe2bbe725ffc9e69696c67f6db7",
+  "confidence_tier": 4,
+  "date_published": "2025-12-25T17:03:48-08:00",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 53,
+    "unit": "kg"
+  },
+  "training_status": "Keen runner, strong in gym with bodyweight calisthenics, intense daily workouts",
+  "health_conditions": [
+    "Raynauds",
+    "aches and pains"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mots-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "nad+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "bpc-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB 500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "BPC-157 and TB500 daily helped with aches and pains"
+    },
+    {
+      "category": "other",
+      "description": "BPC-157 and TB500 really helped with Raynauds",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "41 years old, 175cm, 53kg. Microdosing tirzepatide (dose not specified). 1mg MOTS-c daily due to intense daily workouts. Starting NAD+ at 15mg to assess tolerance, only second day. 200mcg BPC-157 and TB500 daily for aches/pains and Raynauds.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.25864Z"
+}

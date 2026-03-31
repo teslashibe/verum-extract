@@ -1,0 +1,46 @@
+{
+  "id": "2a420416-036a-48f5-bef6-e0933e000cbd",
+  "source_id": "1ixcri5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ixcri5/followup_thread_my_experience_with_epitalon/",
+  "author_hash": "87e47dad8c0e6f8f278d28b0d393a01d075282363ead9138a8952779d324732e",
+  "confidence_tier": 4,
+  "date_published": "2025-02-24T12:57:01-08:00",
+  "health_conditions": [
+    "sleep issues"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep has been steadily improving; averaging about 20 minutes more sleep per night after one month",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "At 500mcg dose, experienced sleep decline after one week",
+      "severity": "moderate",
+      "onset_days": 7,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Initially dosed at 500mcg daily but reduced to 250mcg after experiencing sleep decline. Notes that modern Epithalon is a concentrated substance from original Russian studies (which specified 5-10mg), suggesting dose translation issue. Currently on 250mcg daily with positive sleep outcomes.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.411048Z"
+}

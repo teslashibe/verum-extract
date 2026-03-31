@@ -1,0 +1,59 @@
+{
+  "id": "06a3bf97-21b4-4d7d-b5b0-4c4877ed4fa5",
+  "source_id": "1j7d8d5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1j7d8d5/cjcipa_blend_for_rib_dislocation/",
+  "author_hash": "e5f413fe02b358f66282bab2b3895d95a36068c04335f1c699d547c59be8f0a0",
+  "confidence_tier": 4,
+  "date_published": "2025-03-09T10:52:46-07:00",
+  "health_conditions": [
+    "rib injury"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Rib injury healed to satisfactory degree",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Residual pain when laying on floor with direct pressure on rib",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "User reports using CJC+IPA blend along with BPC-157 and TB-500 for rib injury. Considers injury '100% healed' functionally but notes persistent discomfort with direct pressure.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.410822Z"
+}

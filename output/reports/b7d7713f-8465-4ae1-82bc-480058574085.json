@@ -1,0 +1,54 @@
+{
+  "id": "b7d7713f-8465-4ae1-82bc-480058574085",
+  "source_id": "1s22e2o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s22e2o/klow_question/",
+  "author_hash": "9b8e6ab4467f74f21b887583237e1e4583c3ff9b23f11381a216f02e66b68b7e",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T20:06:00-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Hair feels noticeably thicker",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "injury_healing",
+      "description": "Healing started after 1 week mark",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "skin",
+      "description": "Currently experiencing copper uglies (purge phase) - skin looks duller, breakouts occurring. Described as temporary 'looks worse before you get better' phase where old damaged collagen is broken down and replaced with healthier collagen",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Copper uglies - skin purge with breakouts and dullness, described as temporary cycle beginning phase",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Daily injection protocol with rotation in glutes only. No pain reported. Plans to stick with 8-week cycle minimum. Dosage: 12 units (with 3ml Bac water) = 2mg GHK-Cu per day.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.647564Z"
+}

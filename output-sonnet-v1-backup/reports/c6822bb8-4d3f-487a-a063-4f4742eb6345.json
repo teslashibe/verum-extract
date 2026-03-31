@@ -1,0 +1,33 @@
+{
+  "id": "c6822bb8-4d3f-487a-a063-4f4742eb6345",
+  "source_id": "1mz29jv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mz29jv/do_yall_use_skincare_on_gkhcu/",
+  "author_hash": "f757a398d461b6278776f8ef7b430592eff6b9c6f2cf6380f00481c90dcda06d",
+  "confidence_tier": 5,
+  "date_published": "2025-08-24T10:46:37-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Using both topical (~5 weeks) and injectable (~3 weeks) GHK-Cu simultaneously. No outcomes reported yet.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.274161Z"
+}

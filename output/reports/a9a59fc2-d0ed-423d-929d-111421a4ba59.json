@@ -1,0 +1,70 @@
+{
+  "id": "a9a59fc2-d0ed-423d-929d-111421a4ba59",
+  "source_id": "1cuzs61",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1cuzs61/a_cautionary_tale_how_weight_loss_affected_my/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2024-05-18T08:27:15-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 223,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "high blood pressure"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped from 260 pounds to 223 pounds; reduced food cravings",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "dizziness",
+      "description": "Brief episodes of lightheadedness and dizziness when standing up quickly; frequency and severity increased",
+      "severity": "moderate",
+      "onset_days": 30,
+      "resolved": true
+    },
+    {
+      "category": "blood_pressure",
+      "description": "Blood pressure dropped to 105/60 mmHg due to interaction with existing antihypertensive medication",
+      "severity": "moderate",
+      "onset_days": 30,
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "systolic blood pressure",
+      "value_after": 105,
+      "unit": "mmHg",
+      "timeframe_days": 60
+    },
+    {
+      "marker_name": "diastolic blood pressure",
+      "value_after": 60,
+      "unit": "mmHg",
+      "timeframe_days": 60
+    }
+  ],
+  "protocol_notes": "User was on blood pressure medication (Losartan/HCTZ implied from comment #3). Adjusted antihypertensive dosing from full to half or quarter doses during weight loss phase. Height 5'9\". Initial weight 260 lbs, current 223 lbs, goal 190 lbs.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.415104Z"
+}

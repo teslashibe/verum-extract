@@ -1,0 +1,36 @@
+{
+  "id": "c909eb51-1194-446b-a3b2-462093cb22c2",
+  "source_id": "1r8xmfv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r8xmfv/coming_off_reta_side_effects/",
+  "author_hash": "75dc8c563d01d4978246a5a0ac5162cb0f8198bb29d3b87df39370ca95b5484e",
+  "confidence_tier": 5,
+  "date_published": "2026-02-19T04:12:56-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Emotional blunting on GLP-1s; upon cessation, emotions came roaring back. Semaglutide was worst for this effect; Retatrutide was best.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User describes personal sensitivity to emotional blunting side effect of GLP-1s and the rebound effect upon discontinuation. Compares semaglutide (worst) vs Retatrutide (best) for this effect.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.116805Z"
+}

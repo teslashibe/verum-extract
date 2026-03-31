@@ -1,0 +1,58 @@
+{
+  "id": "299b5a13-b200-408a-a615-0d0fcf72233c",
+  "source_id": "1r98xrv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r98xrv/dsip_300_mcg_or_1000_mcg/",
+  "author_hash": "fa1a6e688faea0440d4be44177271367a396af2604cd0e202c45fc4b8b72a8ec",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T11:34:03-08:00",
+  "health_conditions": [
+    "insomnia",
+    "difficulty staying asleep",
+    "possible cortisol issues"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "300mcg DSIP per night works pretty well; able to fall back asleep within 30 minutes after waking",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Ipamorelin causes tiredness and feeling warmer but mind won't relax",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Mind won't relax on Ipamorelin; random thoughts, music playing in head, feels like cortisol spike making lying in bed uncomfortable",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "OP struggles staying asleep, vivid sleep, possibly no REM. Currently experimenting with Ipamorelin 300mcg with hit or miss results. Has moved to DSIP 300mcg nightly with better results. Hoping DSIP and magnesium can help. Girlfriend browses phone in bed.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.116678Z"
+}

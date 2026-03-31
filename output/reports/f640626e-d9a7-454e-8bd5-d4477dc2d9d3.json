@@ -1,0 +1,31 @@
+{
+  "id": "f640626e-d9a7-454e-8bd5-d4477dc2d9d3",
+  "source_id": "1rrf1qv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rrf1qv/can_i_put_motsc_and_ghkcu_in_the_same_syringe/",
+  "author_hash": "b900c724660b042d1b05d7ad4e7991333f96421d54c04ae8250f257325e92060",
+  "confidence_tier": 5,
+  "date_published": "2026-03-11T19:49:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User reports mixing MOTS-c and GHK-Cu in the same syringe",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.66524Z"
+}

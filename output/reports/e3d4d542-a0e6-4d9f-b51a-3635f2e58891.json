@@ -1,0 +1,55 @@
+{
+  "id": "e3d4d542-a0e6-4d9f-b51a-3635f2e58891",
+  "source_id": "18qprtx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/18qprtx/motsc_review_by_suprise/",
+  "author_hash": "735aa8343a4e9c0b16f1e56da9e3bdfe78c905d45050770a953cd6be2a33506b",
+  "confidence_tier": 4,
+  "date_published": "2023-12-25T11:57:18-08:00",
+  "training_status": "active - hot yoga/HIIT workouts",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.2,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 6.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "endurance",
+      "description": "Crushing hour-long hot yoga/HIIT workouts in 100 degree room with body weight, cardio and weighted movements; felt best ever completing these workouts",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Effects seem to last for days",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Accidentally took MOTS-C instead of semaglutide during vacation; has been using semaglutide for a few years; first time using MOTS-C and GHK-Cu",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.417621Z"
+}

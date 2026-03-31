@@ -1,0 +1,98 @@
+{
+  "id": "9fb0aef3-c6de-412b-9064-277e59b0703b",
+  "source_id": "1r6wncl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6wncl/looking_for_general_guidance_from_experienced/",
+  "author_hash": "619704059f73ccdfab34df9a70ef6565e096da13aa2cfe85de77274bfdf19364",
+  "confidence_tier": 4,
+  "date_published": "2026-02-16T20:43:38-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.125,
+      "dose_unit": "mg",
+      "frequency": "5x weekly at night fasted",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.125,
+      "dose_unit": "mg",
+      "frequency": "5x weekly at night fasted",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "First cycle microdosing lost 17lbs; second round harder due to emotional eating but Reta allows more food choice than Semaglutide/Tirzepatide",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Burning skin at 5.5mg dose",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "mood_change",
+      "description": "Anhedonia at 7.5mg dose",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Multiple cycles. CJC without DAC combined with Ipamorelin used previously and liked. Currently using CJC without DAC (not DAC version) at 0.125mg with Ipamorelin 0.125mg, 5x/week fasted before bed (or morning if not fasted, then waited for breakfast). Second Retatrutide cycle started at 2mg, increased 0.5mg/week. Dose reduced to 4mg due to side effects at higher doses. Notes that Reta allows eating choice unlike Semaglutide/Tirzepatide.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662909Z"
+}

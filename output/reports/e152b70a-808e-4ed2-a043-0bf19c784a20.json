@@ -1,0 +1,45 @@
+{
+  "id": "e152b70a-808e-4ed2-a043-0bf19c784a20",
+  "source_id": "1r8r26a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r8r26a/allergic_reaction_while_using_cjc_1295_no_dac_and/",
+  "author_hash": "90c11e05d24181a95740ddb86d7c8ab7c6093ff74d4e249b84a19e1af0d0aec7",
+  "confidence_tier": 4,
+  "date_published": "2026-02-18T21:44:59-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Mast cell histamine response, occurs first or second time with new vial then subsides",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Current stack protocol. Takes antihistamine before injection and keeps epi pen handy. Reports reaction subsides after 2-3 doses of new vial. Would discontinue if reaction continues beyond 2-3 pins.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662329Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0957e393-46fb-4fa5-8879-499762b4518e",
+  "source_id": "1ms3eu0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ms3eu0/why_is_epithalon_so_rarely_mentioned_here/",
+  "author_hash": "5b9e98ddb4f070c16e677ab09ef4b227204b640456973bfa0cc7dcacc69585e8",
+  "confidence_tier": 4,
+  "date_published": "2025-08-16T11:26:14-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "nasal",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "purported to have anti aging benefits but user unconvinced",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Tried both subcutaneous and intranasal routes. Tried large and small doses. Used with Thymosin Alpha-1 (also called Thymulin in comment) and on its own. Did not notice much of anything.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.684493Z"
+}

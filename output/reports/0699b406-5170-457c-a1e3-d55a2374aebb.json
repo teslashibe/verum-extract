@@ -1,0 +1,42 @@
+{
+  "id": "0699b406-5170-457c-a1e3-d55a2374aebb",
+  "source_id": "1ar93t9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ar93t9/popped_a_fluid_filled_nodule_or_cyst_in_fat_of/",
+  "author_hash": "04b9ddbbfe232013abf764040f5ce01c67e21eea101f06a2e5dfd7b0ff0d2d6d",
+  "confidence_tier": 4,
+  "date_published": "2024-02-14T22:27:58-08:00",
+  "health_conditions": [
+    "prior abdominal radiation (oncology treatment)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 252,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost quite a bit of weight since starting Tirzepatide in June",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Multiple nodules/cysts found in abdomen at injection sites, likely related to prior radiation-induced fat necrosis and oil cysts rather than peptide injections themselves",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Subcutaneous injections to abdomen using sterile insulin needles. Initially mixing 100 units per vial reconstitution (later identified as potentially excessive volume). Started June 2023. BMI approximately 30%. Post-update clarification: nodules determined to be fat necrosis and oil cysts from prior abdominal radiation therapy (ended ~2 years prior), not directly caused by peptide injections. Plan to rotate injection sites to upper arm, upper buttocks, or glute going forward.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698848Z"
+}

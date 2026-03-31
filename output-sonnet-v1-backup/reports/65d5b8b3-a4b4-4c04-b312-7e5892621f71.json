@@ -1,0 +1,38 @@
+{
+  "id": "65d5b8b3-a4b4-4c04-b312-7e5892621f71",
+  "source_id": "1r18nyg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r18nyg/cjcipa_and_tesa/",
+  "author_hash": "ae58274e7ebaf6a63953e9062bc169c2548083d849345b06ec3151c0bc698e47",
+  "confidence_tier": 3,
+  "date_published": "2026-02-10T10:24:10-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesa/IPA blend",
+      "name_normalized": "tesaipa_blend",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "IGF-1 increased significantly from 148 to 402 over 5 weeks",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 148,
+      "value_after": 402,
+      "timeframe_days": 35
+    }
+  ],
+  "protocol_notes": "Running Tesa/IPA blend; references 1-2mg/day dosing for Tesa based on studies",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.119509Z"
+}

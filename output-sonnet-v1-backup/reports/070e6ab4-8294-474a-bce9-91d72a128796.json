@@ -1,0 +1,64 @@
+{
+  "id": "070e6ab4-8294-474a-bce9-91d72a128796",
+  "source_id": "1kpkzto",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kpkzto/different_protocols_and_cycles_noted_down_for_you/",
+  "author_hash": "40255abdade3cfac2d8efe3890de8c18ab73f69496f3114225da13af1b088189",
+  "confidence_tier": 4,
+  "date_published": "2025-05-18T07:16:23-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Semaglutide caused way less hunger and food noise compared to tirzepatide and retatrutide",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost more weight on semaglutide at 0.75mg/week than on tirzepatide at 10mg",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Retatrutide may be better for body recomposition"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Retatrutide does not shut hunger down as much as semaglutide",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User has been on all three GLP-1 compounds over the last 7 months. Started with semaglutide, then tried tirzepatide (stacked with reta for a few weeks), currently on retatrutide for 3 weeks. Planning to bump retatrutide to 6mg split between 2 days a week or 1mg daily. Rates semaglutide as most effective for appetite suppression and weight loss at 0.75mg/week. Considers tirzepatide overpriced and less effective.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.284038Z"
+}

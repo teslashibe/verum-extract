@@ -1,0 +1,63 @@
+{
+  "id": "92af8027-9d8a-4b4d-b086-5a428ec6a1ca",
+  "source_id": "18q1n79",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/18q1n79/which_peptides_are_best_for_antiaging/",
+  "author_hash": "eb95db225c9d626da0526178e41a77c689dccb1ea96493eb1ee76bda82a343e2",
+  "confidence_tier": 5,
+  "date_published": "2023-12-24T11:10:16-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK copper",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "frequency": "daily",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mots c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "3 days a week for a month, then once a week for a month",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "a few times a week, month, or as needed",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Providing recommended protocol for anti-aging: GHK copper 2mg daily 2 months on 1 month off; Epitalon 100mcg-10mg daily for 10 days at highest dosage or months at lowest; SS31 4mg/day for 60 days; Mots-c 5mg 3x/week for month then 5mg once/week for month; NAD+ subq 10-25mg building to 50-100mg. It is unclear if this is personally used or recommended.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.295651Z"
+}

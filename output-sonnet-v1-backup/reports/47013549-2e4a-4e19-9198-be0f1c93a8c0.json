@@ -1,0 +1,53 @@
+{
+  "id": "47013549-2e4a-4e19-9198-be0f1c93a8c0",
+  "source_id": "1mj7i3z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mj7i3z/what_retratutide_starting_dose_if_i_tolerated/",
+  "author_hash": "563ef3f88b847a0ecbdb5b4b827e91472794a21274b3e2a4112dbc47ee488d64",
+  "confidence_tier": 5,
+  "date_published": "2025-08-06T08:19:26-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Wegovy",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retra pen",
+      "name_normalized": "retra_pen",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 14kg since May 28th, still has ~10kg left to lose",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Acid reflux on day one or when eating too large a meal on Wegovy 0.25mg",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "OP previously used Wegovy 0.25mg for one month with minimal side effects. Now starting Retatrutide and considering twice weekly dosing (splitting total dose into two injections). Was advised to start with 0.25mg total split across two injections first week, 0.4mg total second week, etc. Main goals are fat loss and fat oxidation. Also has naturally small appetite.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.27635Z"
+}

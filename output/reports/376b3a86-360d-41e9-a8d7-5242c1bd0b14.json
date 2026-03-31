@@ -1,0 +1,41 @@
+{
+  "id": "376b3a86-360d-41e9-a8d7-5242c1bd0b14",
+  "source_id": "1io07mg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1io07mg/peptides_saved_my_skin/",
+  "author_hash": "d62ea62ce1d2403ef93c1789b186c9c0b72aba28e68fcf3e3037cc78a107061d",
+  "confidence_tier": 5,
+  "date_published": "2025-02-12T12:01:38-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "GHK-Cu helped with acne significantly",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "BPC-157 used post-surgery",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Also using micro-needling for scarring treatment alongside peptides.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.694053Z"
+}

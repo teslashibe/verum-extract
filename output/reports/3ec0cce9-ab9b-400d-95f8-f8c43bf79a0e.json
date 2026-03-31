@@ -1,0 +1,35 @@
+{
+  "id": "3ec0cce9-ab9b-400d-95f8-f8c43bf79a0e",
+  "source_id": "1no5jc3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1no5jc3/mixed_reconstituted_bpc157_and_hgh_in_syringe_and/",
+  "author_hash": "c2156acec98078b826fbbc78c1fcd43c334cc30a09e7c4c13b2554e7f65dc892",
+  "confidence_tier": 4,
+  "date_published": "2025-09-22T19:18:28-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "IU",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User mixed HGH and BPC-157 in same syringe to consolidate injections during travel. Reports prior success mixing HGH, HCG, and Tirzepatide. This mixture turned cloudy, indicating destabilization. 3 doses (totaling 18 IU HGH and 4.5mg BPC-157) were discarded due to safety concerns. User reports this was a 'cheap lesson learned.'",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.680967Z"
+}

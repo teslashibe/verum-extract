@@ -1,0 +1,59 @@
+{
+  "id": "7ec3af34-c4d7-4ff0-9227-4b5f273e5cd9",
+  "source_id": "1kzzlbh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kzzlbh/trt_vs_hgh_peptides/",
+  "author_hash": "5f4eb09b8b8c66e7cde01d413548afa7e47b18370f80df2d55a28ca14fd132ca",
+  "confidence_tier": 4,
+  "date_published": "2025-05-31T08:20:45-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "3x/week pre workout",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "kisspeptin-10",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x/week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Impressive gains, almost immediate if eating properly. Strength gains and muscle fullness especially after starting IGF. Gains persisted after cycling off IGF.",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Progress normalized after cycling off IGF"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Real risk of developing hypoglycemia due to muscles absorbing everything eaten"
+    }
+  ],
+  "protocol_notes": "6 week cycle of IGF-1 LR3 at 100mcg 3x/week pre-workout. Also using kisspeptin-10 100mcg 2x/week for endogenous testosterone support. Also on tesamorelin. Recommends carb-heavy meal when injecting IGF to prevent hypoglycemia.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.282819Z"
+}

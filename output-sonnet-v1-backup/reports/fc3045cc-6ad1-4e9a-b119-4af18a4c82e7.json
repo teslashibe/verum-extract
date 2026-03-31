@@ -1,0 +1,42 @@
+{
+  "id": "fc3045cc-6ad1-4e9a-b119-4af18a4c82e7",
+  "source_id": "1rx7u9a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx7u9a/klow_fixed_something_unexpected/",
+  "author_hash": "c4d226f6340a8a09687687028d3909c0ae280a16d9e6fd3f50e3fb85919b5e99",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T09:00:08-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "active lifestyle",
+  "health_conditions": [
+    "tendon nodule at base of middle finger",
+    "received cortisone injection approximately one year prior"
+  ],
+  "compounds": [
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 2.2,
+      "dose_unit": "mcg",
+      "frequency": "almost daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Tendon nodule on palm at base of middle finger essentially disappeared after three weeks of use; only smallest vestige remains",
+      "severity": "significant",
+      "onset_days": 21
+    }
+  ],
+  "protocol_notes": "OP explicitly caveats that correlation is not causation and does not claim KLOW was directly responsible. Nodule had persisted for ~1.5 years, was ruled not trigger finger or DMD by a doctor, and cortisone injection ~1 year prior provided only 1-2 months of relief. Surgery was being considered as next step.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106728Z"
+}

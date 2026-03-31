@@ -1,0 +1,34 @@
+{
+  "id": "dbb69dff-07b5-4b66-ab53-0bdc1bd42f59",
+  "source_id": "1rzerz6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzerz6/mots_c_side_effects/",
+  "author_hash": "185fb6161bf1e236f4a47a8cba5cf9191cf200ff47baea386a78eacc8a713116",
+  "confidence_tier": 4,
+  "date_published": "2026-03-20T18:37:39-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Degraded sleep at 5mg daily dose",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Adjusted to 2.5mg every other day to manage sleep disruption",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660515Z"
+}

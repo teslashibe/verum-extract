@@ -1,0 +1,45 @@
+{
+  "id": "ee622cbc-f5da-4c06-add3-e3afbfa48efb",
+  "source_id": "1ol90l7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ol90l7/fatty_liver/",
+  "author_hash": "282f802516618c0e531ac3b61206f4f79fdfe02b0f9963918f8dc7cc09c6b969",
+  "confidence_tier": 3,
+  "date_published": "2025-10-31T16:09:05-07:00",
+  "health_conditions": [
+    "fatty liver"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 82 lbs, 34% of body weight",
+      "severity": "significant"
+    },
+    {
+      "category": "gut_health",
+      "description": "Fatty liver completely cleared on scan after 3 years; scan normal for first time",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "liver fat (scan)",
+      "unit": "scan result",
+      "timeframe_days": 1095
+    }
+  ],
+  "protocol_notes": "Started Tirz in August 2022. Had fatty liver on multiple scans. Third scan in October 2025 showed completely clear liver. Lost 82 lbs (34% of body weight). On maintenance since February 2024.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.266082Z"
+}

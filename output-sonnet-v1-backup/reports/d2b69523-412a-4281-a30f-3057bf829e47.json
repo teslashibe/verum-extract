@@ -1,0 +1,38 @@
+{
+  "id": "d2b69523-412a-4281-a30f-3057bf829e47",
+  "source_id": "1nzgtl7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nzgtl7/peptide_thatll_get_rid_of_sugar_cravings/",
+  "author_hash": "fae3b896f94eb7801924b52f639f7deafd7d68c16d813f6af9695a8bebbfde14",
+  "confidence_tier": 5,
+  "date_published": "2025-10-06T04:48:33-07:00",
+  "compounds": [
+    {
+      "name_raw": "glutamine",
+      "name_normalized": "glutamine",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 30,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Boosts endogenous GLP-1; 30g produces measurable increases in GLP-1 per studies"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "GI distress possible at high doses (30g); recommends spreading over the day",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Recommends 30g/day glutamine split as 15g twice daily or 10g three times daily; references studies showing measurable GLP-1 increase; notes it won't raise GLP-1 nearly as much as GLP-1 agonists",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.268924Z"
+}

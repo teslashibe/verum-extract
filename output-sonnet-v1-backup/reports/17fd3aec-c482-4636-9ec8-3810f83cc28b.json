@@ -1,0 +1,44 @@
+{
+  "id": "17fd3aec-c482-4636-9ec8-3810f83cc28b",
+  "source_id": "1ru9j9d",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ru9j9d/tesa_vs_cjcipa/",
+  "author_hash": "7813e014e9372fd64a9d879ea42e76f272a94c8d7d22da1534ebf8f3e76e01a9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T02:18:19-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC/IPA",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once daily (morning fasted)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TESA/IPA",
+      "name_normalized": "tesaipa",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once daily (before bed, 1-2 hours after last meal)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Significant fat loss in stomach and love handles after almost 2 months",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Running both CJC/IPA in the morning fasted and TESA/IPA before bed simultaneously for almost 2 months. Unsure which compound is responsible for fat loss results.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.108337Z"
+}

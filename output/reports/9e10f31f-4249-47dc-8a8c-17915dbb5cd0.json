@@ -1,0 +1,44 @@
+{
+  "id": "9e10f31f-4249-47dc-8a8c-17915dbb5cd0",
+  "source_id": "1hiz4az",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1hiz4az/just_saw_teizepatide_was_approved_for_sleep_apnea/",
+  "author_hash": "9b3dfd2312419c5037d68eda5879b1b022727377c7161e1573340e9dcae5a74f",
+  "confidence_tier": 4,
+  "date_published": "2024-12-20T17:31:12-08:00",
+  "health_conditions": [
+    "sleep apnea"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Husband lost weight",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Sleep apnea events reduced from baseline to less than two per hour (normal range), tracked by CPAP machine",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Apnea-Hypopnea Index (AHI)",
+      "value_after": 2,
+      "unit": "events/hour"
+    }
+  ],
+  "protocol_notes": "Husband's CPAP machine tracks apnea events. Improvement attributed to weight loss from Tirzepatide.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.411947Z"
+}

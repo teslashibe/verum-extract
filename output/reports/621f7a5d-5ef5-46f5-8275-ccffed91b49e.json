@@ -1,0 +1,64 @@
+{
+  "id": "621f7a5d-5ef5-46f5-8275-ccffed91b49e",
+  "source_id": "1rvq0ho",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvq0ho/allergic_to_mt2/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T16:25:48-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Itching and redness on left side of beard after 0.25mg MT2 dose on Friday and Saturday, resolved by Sunday morning. Itching and redness reappeared on chin/lip area after increasing MT2 to 0.5mg on Sunday night.",
+      "severity": "moderate",
+      "onset_days": 3,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Stacked GHK-Cu (2mg for 2 weeks) with MT2 and Retatrutide. Started MT2 at 0.25mg Thursday, continued Friday and Saturday, increased to 0.5mg Sunday. Itching resolved when dose reduced back to 0.25mg.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.662694Z"
+}

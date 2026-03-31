@@ -1,0 +1,34 @@
+{
+  "id": "c76e214d-c5a2-42ff-a56b-3f996a3a2ebb",
+  "source_id": "1pnukra",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pnukra/ghkcu_the_pain_how_to_inject/",
+  "author_hash": "638e1b4cec7fabbbfccd4b21b2f0028d6a1dacb56f74c5577c84ccec54dc0080",
+  "confidence_tier": 4,
+  "date_published": "2025-12-15T22:03:49-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 60,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Stinging pain before over-dilution protocol",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Reconstituted 60mg vial with 9ml bacwater, filtered into clean vial, then added another 8ml bac for extreme dilution. Final concentration 2mg=30 units",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.674319Z"
+}

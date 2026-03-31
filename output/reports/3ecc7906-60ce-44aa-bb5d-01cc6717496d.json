@@ -1,0 +1,56 @@
+{
+  "id": "3ecc7906-60ce-44aa-bb5d-01cc6717496d",
+  "source_id": "1rm3f3e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rm3f3e/mots_c_reta/",
+  "author_hash": "01eb1026c8ea39b4a72bf581fd59350127b9aa41c9f72c7bd1820d4fe5f1745c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T19:51:02-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "endurance",
+      "description": "Each time added a peptide it unlocked a level of endurance/energy",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Each time added a peptide it unlocked a level of endurance/energy",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Using SS-31 for 4 weeks before starting MOTS-C. Titrated SS-31 up from 2mg to 4mg daily.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.656325Z"
+}

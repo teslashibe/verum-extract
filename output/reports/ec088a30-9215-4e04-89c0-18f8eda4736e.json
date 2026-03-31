@@ -1,0 +1,96 @@
+{
+  "id": "ec088a30-9215-4e04-89c0-18f8eda4736e",
+  "source_id": "1fc20k7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fc20k7/tesaipa_amazing_benefits_after_1_week/",
+  "author_hash": "9e48753c21ed44f113d22ad4d7a65d85a1ce834f8d07b52d47f6fc74ff8d957f",
+  "confidence_tier": 4,
+  "date_published": "2024-09-08T09:36:29-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "50-59",
+  "health_conditions": [
+    "broken hip from car accident",
+    "shattered pelvis from car accident",
+    "chronic pain from old injuries",
+    "insomnia",
+    "perimenopausal"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "frequency": "unknown",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "drastic improvement in energy after one week",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "endurance",
+      "description": "superior endurance improvements",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "injury_healing",
+      "description": "5 year old car wreck injuries improved at least 50% after walking and jogging, especially hip and pelvis pain",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "body_composition",
+      "description": "improvement in waist and tummy area",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "more water weight at 1.5mg dose compared to 1mg",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "OP pinned at 5-6am, fasted until 2pm or later, 5 days on/2 days off initially, later transitioned to daily dosing. Started Tesa at 1mg for 6 weeks, then increased to 1.5mg for remaining 6 weeks (week 10 total). Also running Tirzepatide/CJC-1295 stack concurrently. Plans to cycle 12 weeks on followed by 12 weeks off (or possibly 8 on/off). Considering switching to CJC-no dac/Ipa in future cycle. Takes morning doses before fasting period to avoid sleep disruption.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.413794Z"
+}

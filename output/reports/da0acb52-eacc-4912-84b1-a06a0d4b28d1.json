@@ -1,0 +1,74 @@
+{
+  "id": "da0acb52-eacc-4912-84b1-a06a0d4b28d1",
+  "source_id": "1lmduxn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lmduxn/melanotan_2_helping_me_with_social_features_of/",
+  "author_hash": "df6b5b680f7fef4f59024bcbbd37fac21d4224ac70508dc86f388e9faf32e27b",
+  "confidence_tier": 4,
+  "date_published": "2025-06-27T21:17:28-07:00",
+  "reported_weight": {
+    "value": 130,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "autism"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "every 3 days",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Melanotan I",
+      "name_normalized": "melanotan_1",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "social",
+      "description": "Improved social connection, better instincts with people, more enjoyment of talking",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "mood",
+      "description": "Noticeable mood lift, laughs more in social situations",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "libido",
+      "description": "Noticeable sex drive for the first time in life",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Becoming absurdly tan, skin darkening very quickly",
+      "severity": "significant"
+    },
+    {
+      "category": "vision_change",
+      "description": "Colors outside were less saturated for about 1 hour after dosing (Melanotan I only)",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "User is pale European and concerned about sun protection. Initially tried Melanotan I but found it ineffective for social/cognitive effects. Currently on Melanotan II 100mcg every 3 days. Planning to use only in summer to minimize tanning. Taking lactobacillus reuteri supplement.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.405293Z"
+}

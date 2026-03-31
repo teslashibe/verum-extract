@@ -1,0 +1,52 @@
+{
+  "id": "b610e14b-a869-4bc1-88e2-3136d1bcf5d8",
+  "source_id": "sxjsqp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/sxjsqp/best_sleep_of_my_life_on_cjc_1295ipamorelin/",
+  "author_hash": "c6bb3da001828431298fd21661966037e43fd32879ed778236fb65fdfd0f99e2",
+  "confidence_tier": 4,
+  "date_published": "2022-02-20T19:48:51-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHRP2",
+      "name_normalized": "ghrp_2",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "On two occasions experienced extremely deep sleep described as teleporting — no memory of sleep process, woke up with bed still made, felt neither overly rested nor tired",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "First 3 nights experienced major insomnia — did not sleep at all",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Huge night sweats during first 3 nights",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started around January. Had to reset and taper up after initial insomnia and night sweats. Only experienced positive sleep alteration twice since starting.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.42871Z"
+}

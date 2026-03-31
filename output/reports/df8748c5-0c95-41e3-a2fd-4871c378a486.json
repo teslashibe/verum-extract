@@ -1,0 +1,45 @@
+{
+  "id": "df8748c5-0c95-41e3-a2fd-4871c378a486",
+  "source_id": "1qq3x6k",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qq3x6k/can_i_eat_my_injectable_bpc157/",
+  "author_hash": "c94ec41c32ae5ef97d94b180e4fbc43531511b148250d6a7b250daebef51da4c",
+  "confidence_tier": 4,
+  "date_published": "2026-01-29T01:21:42-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "oral",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "KPV works great for gut inflammation",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Got the same negative BPC effect as injecting when taken orally",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User reports squirting BPC and KPV into mouth works. Currently uses KPV orally for gut inflammation with good results. BPC taken orally produced same negative effects as injection.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669502Z"
+}

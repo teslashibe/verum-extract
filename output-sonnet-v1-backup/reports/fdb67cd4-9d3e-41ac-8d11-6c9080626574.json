@@ -1,0 +1,60 @@
+{
+  "id": "fdb67cd4-9d3e-41ac-8d11-6c9080626574",
+  "source_id": "1qtw2ru",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtw2ru/anyone_tried_prostatilen_suppositories/",
+  "author_hash": "e1c1259294e477e74b079a065b32c839022b02ea3eada5071333bf615728e695",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T06:11:10-08:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "prostate cancer (post laser ablation)",
+    "BPH"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Prostatilen suppositories",
+      "name_normalized": "prostatilen_suppositories",
+      "category": "other",
+      "route": "topical",
+      "frequency": "approx 10 days a month",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Prostatilen oral",
+      "name_normalized": "prostatilen_oral",
+      "category": "other",
+      "route": "oral",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Reduced prostate inflammation",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Kept PSA down, still cancer free after 2.5 years",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Great urine flow and fully functioning",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "PSA"
+    }
+  ],
+  "protocol_notes": "Used post laser ablation for prostate cancer treatment approximately 2.5 years ago and ongoing. Describes suppositories as direct delivery of zinc to the prostate. Uses on and off approximately 10 days per month for suppositories plus daily oral version.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.122156Z"
+}

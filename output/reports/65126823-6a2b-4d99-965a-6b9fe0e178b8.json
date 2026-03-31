@@ -1,0 +1,47 @@
+{
+  "id": "65126823-6a2b-4d99-965a-6b9fe0e178b8",
+  "source_id": "1r7idq3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r7idq3/how_much_bpc157_for_arthritis/",
+  "author_hash": "8cbe9e2adcf95946c76b64d1d7187db54ce0c98b315baa8ee52d6eec4ecd2660",
+  "confidence_tier": 4,
+  "date_published": "2026-02-17T12:52:17-08:00",
+  "health_conditions": [
+    "left shoulder pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "daily (morning, with occasional additional intramuscular dose)",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "as needed (evening if pain occurs)",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "has helped with left shoulder pain, pain control sustained through day",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started with 3 intramuscular injections in left shoulder, then switched to subcutaneous dosing. Uses intramuscular as needed for breakthrough pain in evening",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.675042Z"
+}

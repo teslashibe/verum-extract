@@ -1,0 +1,41 @@
+{
+  "id": "d9b1b893-b3dc-4577-a718-73865ffa4928",
+  "source_id": "1rt9gza",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rt9gza/wolverine_stack_subq_in_the_belly_vs_near_injury/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-13T21:04:04-07:00",
+  "training_status": "active (weight training implied)",
+  "health_conditions": [
+    "hamstring strain"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "Mon-Fri (5x weekly)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "Mon-Fri (5x weekly)",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Wolverine stack. Injecting subQ in belly. 2 weeks into protocol, expecting 4-8 week full cycle. Treating 6-month nagging hamstring strain.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.652264Z"
+}

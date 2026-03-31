@@ -1,0 +1,71 @@
+{
+  "id": "83dd2788-e038-4ef4-a37d-9824ac840267",
+  "source_id": "1qxa1pa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxa1pa/cjc_1295_no_dac_iplamorelin_side_effects/",
+  "author_hash": "47e679fa9e4b58d48e45808ab6ead0419d86d91faea389fc944512da547ff5ca",
+  "confidence_tier": 4,
+  "date_published": "2026-02-05T22:21:31-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC 1295 No DAC",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mcg",
+      "frequency": "single dose (discontinued)",
+      "cycle_length_days": 1,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mcg",
+      "frequency": "single dose (discontinued)",
+      "cycle_length_days": 1,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Insane hot flush starting shortly after injection",
+      "severity": "significant",
+      "onset_days": 0
+    },
+    {
+      "category": "nausea",
+      "description": "Crippling nausea initially subsiding after ~90 minutes, then persisting as 24/7 nausea for at least 3 days",
+      "severity": "significant",
+      "onset_days": 0
+    },
+    {
+      "category": "headache",
+      "description": "Headache with compression feeling behind the eyes, still present the next day",
+      "severity": "moderate",
+      "onset_days": 0
+    },
+    {
+      "category": "mood_change",
+      "description": "Bouts of anxiety",
+      "severity": "moderate",
+      "onset_days": 0
+    },
+    {
+      "category": "appetite_change",
+      "description": "Virtually no appetite",
+      "severity": "moderate",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "Previously used CJC 1295 No DAC + Ipamorelin from a compounding chemist at 40mcg morning and night with no adverse effects. This time used an alternative source. Reconstituted 5mg CJC 1295 No DAC + 5mg Ipamorelin in 7ml BAC water; injected 0.03ml. OP suspects the ipamorelin may have been substituted with GHRP-2. Discontinued use after 3 days due to persistent severe nausea.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121002Z"
+}

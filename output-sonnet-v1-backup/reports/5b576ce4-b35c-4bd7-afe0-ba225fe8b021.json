@@ -1,0 +1,64 @@
+{
+  "id": "5b576ce4-b35c-4bd7-afe0-ba225fe8b021",
+  "source_id": "1rmijcn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmijcn/sermorelin_or_motsc/",
+  "author_hash": "33cc9238e937e018d1bf58236b539353be6583072f9a9fe988df2db79fe88178",
+  "confidence_tier": 4,
+  "date_published": "2026-03-06T08:24:57-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 195,
+    "unit": "lbs"
+  },
+  "training_status": "Active, focused on muscle building",
+  "health_conditions": [
+    "low testosterone (confirmed by bloodwork)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Able to put muscle back on after weight loss; went from 180lbs lowest to 195lbs with 8.5% BF",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost from peak 256lbs down to 180lbs lowest",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "value_after": 8.5,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "54-year-old male, 6'3\", 195lbs, 8.5% BF (Hume scale). Peak weight 256lbs. Lowest weight 180lbs. Now 195lbs after adding muscle. Had bloodwork confirming low testosterone before starting TRT. States TRT is the single most valuable compound and would give up all peptides before giving up TRT.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.111594Z"
+}

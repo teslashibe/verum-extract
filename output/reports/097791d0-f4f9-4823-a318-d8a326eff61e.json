@@ -1,0 +1,76 @@
+{
+  "id": "097791d0-f4f9-4823-a318-d8a326eff61e",
+  "source_id": "1dumfhe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1dumfhe/200lbs_lost_so_far/",
+  "author_hash": "985640dfd1fa8a6b2177427ec0b07e4468033f9c4955efc05f32e5b2b3609d09",
+  "confidence_tier": 4,
+  "date_published": "2024-07-03T12:06:14-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "lymphedema",
+    "obesity"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 12,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "200 lbs weight loss over approximately 2 years",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Never hungry with the medication",
+      "severity": "significant"
+    },
+    {
+      "category": "inflammation",
+      "description": "Removes inflammation from body, prevents lymphedema flares when doses are maintained",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Constipation",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Used brand Ozempic and Mounjaro initially, then transitioned to semaglutide and tirzepatide for last couple of years. Tried AOD-9604 but found fasting difficult. Retatrutide restarted weight loss when it slowed after 1.5 years. No significant difference between brand name and generic versions. Used not all at once.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.414641Z"
+}

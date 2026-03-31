@@ -1,0 +1,66 @@
+{
+  "id": "210b1495-ad62-499f-9912-9503ef2f60ec",
+  "source_id": "1maxgru",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1maxgru/am_i_taking_too_many_things_at_once/",
+  "author_hash": "476859bb30304ab4ff1b0c2a1ddfc5003cd4a517df86155cf85ac9365c65a09b",
+  "confidence_tier": 4,
+  "date_published": "2025-07-27T14:01:17-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "frequency": "every other day",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "every 5 days",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Prostamax",
+      "name_normalized": "prostamax",
+      "category": "immune",
+      "dose_value": 30,
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "intramuscular",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "intramuscular",
+      "frequency": "every 3 days",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "SLU-PP-322",
+      "name_normalized": "slu_pp_332",
+      "category": "body_composition",
+      "route": "oral",
+      "frequency": "3 times daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "User runs similar protocol to OP. Uses Test TRT EOD, Reta every 5 days, Prostamax 30-day cycle ED, HGH ED, NAD+ every 3 days, and SLU-PP-322 oral 3x daily.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.402997Z"
+}

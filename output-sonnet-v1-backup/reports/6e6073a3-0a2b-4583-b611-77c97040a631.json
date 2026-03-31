@@ -1,0 +1,65 @@
+{
+  "id": "6e6073a3-0a2b-4583-b611-77c97040a631",
+  "source_id": "16wumiu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16wumiu/have_my_orchiectomy_in_december_and_want_to/",
+  "author_hash": "6a7e043948c3517f89e43ebfb533a2c2b4633aabfd42d90b03c096e2f9906a13",
+  "confidence_tier": 4,
+  "date_published": "2023-10-01T00:24:51-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "18-24",
+  "training_status": "active (cycling and gym)",
+  "health_conditions": [
+    "transgender (pre-orchiectomy)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MK-677",
+      "name_normalized": "mk_677",
+      "category": "gh_secretagogue",
+      "route": "oral",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "split over first week",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "MK-677 used to aid MTF transition via IGF-1 elevation supporting breast growth"
+    },
+    {
+      "category": "recovery",
+      "description": "BPC-157 and TB-500 planned for post-orchiectomy surgical recovery"
+    }
+  ],
+  "protocol_notes": "User is planning protocol in advance of December orchiectomy. Currently on MK-677 for transition purposes. BPC-157 and TB-500 planned perioperatively. Considering doubling MK-677 dose post-op for enhanced GH/IGF-1 recovery benefits. Goal is rapid return to cycling and gym.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.296671Z"
+}

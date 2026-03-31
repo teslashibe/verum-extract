@@ -1,0 +1,41 @@
+{
+  "id": "f575b5dc-8eb4-49fd-970b-fc18eb3f5ad9",
+  "source_id": "1rfv7s4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rfv7s4/need_help_for_dosage/",
+  "author_hash": "2a11b38ee02302baa1cb87f89b6f5c15efd99144d1282564ea5b427aef1eb148",
+  "confidence_tier": 4,
+  "date_published": "2026-02-26T19:08:56-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "twice a week",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Significant appetite suppression at 2mg per week, with food cravings returning by end of month prompting dose increase",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "No appetite at all for the first couple of days after increasing from 1mg to 2mg per week",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started at 1mg/week, titrated up to 2mg/week, then to 4mg/week (2mg twice a week) after 4 months. Now dosing 2mg whenever food cravings return, approximately every 3-4 days. Notes some people need up to 12mg/week. Advises counting macros upward as appetite suppression can make eating enough difficult.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114417Z"
+}

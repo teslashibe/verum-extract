@@ -1,0 +1,192 @@
+{
+  "compound_id": "ss_31",
+  "display_name": "SS-31",
+  "category": "mitochondrial",
+  "total_reports": 133,
+  "reports_by_tier": {
+    "3": 3,
+    "4": 70,
+    "5": 60
+  },
+  "top_benefits": [
+    {
+      "category": "energy",
+      "count": 34,
+      "pct": 46.6
+    },
+    {
+      "category": "other",
+      "count": 17,
+      "pct": 23.3
+    },
+    {
+      "category": "sleep",
+      "count": 10,
+      "pct": 13.7
+    },
+    {
+      "category": "fat_loss",
+      "count": 8,
+      "pct": 11
+    },
+    {
+      "category": "cognitive",
+      "count": 7,
+      "pct": 9.6
+    },
+    {
+      "category": "recovery",
+      "count": 6,
+      "pct": 8.2
+    },
+    {
+      "category": "mood",
+      "count": 3,
+      "pct": 4.1
+    },
+    {
+      "category": "joint_pain",
+      "count": 2,
+      "pct": 2.7
+    },
+    {
+      "category": "skin",
+      "count": 2,
+      "pct": 2.7
+    },
+    {
+      "category": "immune",
+      "count": 2,
+      "pct": 2.7
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "fatigue",
+      "count": 16,
+      "pct": 21.9,
+      "avg_severity": 2.5
+    },
+    {
+      "category": "other",
+      "count": 15,
+      "pct": 20.5,
+      "avg_severity": 2.2
+    },
+    {
+      "category": "injection_site",
+      "count": 5,
+      "pct": 6.8,
+      "avg_severity": 1.4
+    },
+    {
+      "category": "mood_change",
+      "count": 2,
+      "pct": 2.7,
+      "avg_severity": 1.5
+    },
+    {
+      "category": "sleep_disruption",
+      "count": 2,
+      "pct": 2.7,
+      "avg_severity": 2
+    },
+    {
+      "category": "flushing",
+      "count": 1,
+      "pct": 1.4,
+      "avg_severity": 1
+    },
+    {
+      "category": "nausea",
+      "count": 1,
+      "pct": 1.4,
+      "avg_severity": 2
+    },
+    {
+      "category": "appetite_change",
+      "count": 1,
+      "pct": 1.4,
+      "avg_severity": 3
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 5,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 2,
+      "pct": 1.5
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 10,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 2,
+      "pct": 1.5
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 300,
+      "unit": "mcg",
+      "frequency": "daily",
+      "count": 2,
+      "pct": 1.5
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 2,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 0.8
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 1,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 0.8
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "mots_c",
+      "display_name": "MOTS-C",
+      "report_count": 67
+    },
+    {
+      "compound_id": "nad_plus",
+      "display_name": "NAD+",
+      "report_count": 32
+    },
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Reta",
+      "report_count": 15
+    },
+    {
+      "compound_id": "epithalon",
+      "display_name": "Epitalon",
+      "report_count": 10
+    },
+    {
+      "compound_id": "tirzepatide",
+      "display_name": "Tirzepatide",
+      "report_count": 10
+    }
+  ],
+  "avg_cycle_length_days": 32.3,
+  "avg_sentiment_score": 0.622,
+  "sentiment_breakdown": {
+    "positive": 63,
+    "mixed": 27,
+    "negative": 18,
+    "neutral": 25
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.97182Z"
+}

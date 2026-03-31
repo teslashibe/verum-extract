@@ -1,0 +1,42 @@
+{
+  "id": "fc649b8d-bb0b-48bf-8600-d8400c4e152c",
+  "source_id": "1qvth9x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qvth9x/cagri/",
+  "author_hash": "be392a65e436e451a9f0cccd5e29caef2fc4693b31501cf09db0ccbbb0ae92c1",
+  "confidence_tier": 4,
+  "date_published": "2026-02-04T08:39:30-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "per week",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Subtle effect when stacked with Retatrutide",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Takes Cagrilintide and Retatrutide together at the same time.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.667181Z"
+}

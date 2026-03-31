@@ -1,0 +1,45 @@
+{
+  "id": "4d83a596-eef0-4f67-8d75-dd8303f324f5",
+  "source_id": "1njs5jx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1njs5jx/anyone_here_microdosing_peptides_instead_of/",
+  "author_hash": "73d73f16abc7d9d580822dfe7f4b3f3596cbef7bdcdc121c917898d4d1af3fd7",
+  "confidence_tier": 4,
+  "date_published": "2025-09-17T16:04:02-07:00",
+  "health_conditions": [
+    "elbow pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Took elbow pain from 6-8 down to 2, to 0 with ibuprofen",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Combined BPC-157 and TB-500 at 1000mcg daily. Described as 'pretty small dose'.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.681614Z"
+}

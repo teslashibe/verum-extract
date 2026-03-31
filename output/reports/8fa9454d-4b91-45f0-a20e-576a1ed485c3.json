@@ -1,0 +1,67 @@
+{
+  "id": "8fa9454d-4b91-45f0-a20e-576a1ed485c3",
+  "source_id": "sxjsqp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/sxjsqp/best_sleep_of_my_life_on_cjc_1295ipamorelin/",
+  "author_hash": "dab3df7a70c5ec45f415b9095d754a6ced28594e8700528b4269eba725622727",
+  "confidence_tier": 4,
+  "date_published": "2022-02-20T19:48:51-08:00",
+  "health_conditions": [
+    "insomnia",
+    "restlessness"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Best sleep in years, 6+ hours of restful, conked out sleep, extremely restorative",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "recovery",
+      "description": "Increased recovery",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Original purpose was fat loss",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Slight injection site irritation for a minute after injection",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "2mg/2ml total (1mg CJC-1295, 1mg Ipamorelin per injection). 0.1ml dose, 5 days per week. Pre-bedtime injections 1 hour to 30 minutes prior to bed. Last meal at least 1 hour before shot. Also on TRT through Evolve HRT. Previously used BPC-157 for knee dislocation with amazing results.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.702364Z"
+}

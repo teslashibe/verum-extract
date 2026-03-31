@@ -1,0 +1,47 @@
+{
+  "id": "1966d5f4-96e3-408e-9e69-deba9f8087e6",
+  "source_id": "1ky4ba8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ky4ba8/currently_taking_reta_and_down_40lbs_and_thinking/",
+  "author_hash": "c562fec12c4ff40fd5d54d63961d523b86c46f93587e17a19d9cd78eb6d28cb7",
+  "confidence_tier": 4,
+  "date_published": "2025-05-29T00:04:01-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Melanotan I",
+      "name_normalized": "melanotan_1",
+      "category": "tanning",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Tanning",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "No nausea or libido boost experienced"
+    },
+    {
+      "category": "skin_reaction",
+      "description": "MT2 causes new moles to appear and darkens existing freckles. MT1 only provides tan without these effects.",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Used both MT2 and MT1. MT2 caused new moles and darkened freckles; MT1 did not have these side effects.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.690271Z"
+}

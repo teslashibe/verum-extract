@@ -1,0 +1,46 @@
+{
+  "id": "afe339c0-71e2-47b8-a136-4fdd8faf34ec",
+  "source_id": "1b7lbob",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1b7lbob/food_noise_and_hunger_after_my_1st_tirzepatide/",
+  "author_hash": "92a1a5ea8676041583fe5db3cdc812189cb16b8ab4d8595b5da924fea57302b5",
+  "confidence_tier": 4,
+  "date_published": "2024-03-05T16:17:11-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "L-Carnitine",
+      "name_normalized": "l_carnitine",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Hunger was calm by third day of first protocol",
+      "severity": "moderate",
+      "onset_days": 3
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Still hungry 4 days after injection, food noise present",
+      "severity": "moderate",
+      "onset_days": 4
+    }
+  ],
+  "protocol_notes": "First protocol from Magnum Compounding Pharmacy. Took 1 month break before restarting. Second protocol from Hallandale. Eating in caloric deficit. Lost 3 pounds in first month on initial protocol but gained 2 pounds during 1-month break off medication.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698572Z"
+}

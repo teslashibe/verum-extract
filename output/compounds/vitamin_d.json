@@ -1,0 +1,76 @@
+{
+  "compound_id": "vitamin_d",
+  "display_name": "Vitamin D",
+  "category": "other",
+  "total_reports": 2,
+  "reports_by_tier": {
+    "4": 2
+  },
+  "top_benefits": [
+    {
+      "category": "injury_healing",
+      "count": 1,
+      "pct": 50
+    },
+    {
+      "category": "skin",
+      "count": 1,
+      "pct": 50
+    }
+  ],
+  "top_side_effects": null,
+  "common_doses": [
+    {
+      "route": "intramuscular",
+      "dose": 2500,
+      "unit": "mg",
+      "frequency": "2x weekly",
+      "count": 1,
+      "pct": 50
+    },
+    {
+      "route": "oral",
+      "dose": 5000,
+      "unit": "IU",
+      "frequency": "2x daily",
+      "count": 1,
+      "pct": 50
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "zyflamend",
+      "display_name": "Zyflamend",
+      "report_count": 1
+    },
+    {
+      "compound_id": "quercetin",
+      "display_name": "Quercetin",
+      "report_count": 1
+    },
+    {
+      "compound_id": "glutathione",
+      "display_name": "Glutathione",
+      "report_count": 1
+    },
+    {
+      "compound_id": "dihexa",
+      "display_name": "DHEA",
+      "report_count": 1
+    },
+    {
+      "compound_id": "curcumin",
+      "display_name": "Curcumin",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.25,
+  "sentiment_breakdown": {
+    "positive": 0,
+    "mixed": 0,
+    "negative": 0,
+    "neutral": 2
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T04:29:07.892324Z"
+}

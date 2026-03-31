@@ -1,0 +1,80 @@
+{
+  "id": "845804ba-b288-4066-8905-ec11e6444146",
+  "source_id": "1s5ngoe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s5ngoe/help_reviewing_stack/",
+  "author_hash": "54a303e55874bdb66863a1e6a01d849774a42774451ea9681bda54c507b74b74",
+  "confidence_tier": 5,
+  "date_published": "2026-03-27T18:50:16-07:00",
+  "training_status": "working out",
+  "health_conditions": [
+    "back injury"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "back injury recovery"
+    },
+    {
+      "category": "energy",
+      "description": "NAD for energy"
+    },
+    {
+      "category": "sleep",
+      "description": "sermoreline for sleep"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "sermoreline for working out"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Glow for anti-aging"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "glutathione stings pretty good on injection",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User mentioned 'Glow' product which appears to contain BPC-157 already, creating potential duplication. User is newer to peptides and seeking stack advice.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.656802Z"
+}

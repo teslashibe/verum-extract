@@ -1,0 +1,43 @@
+{
+  "id": "9872f1a5-406e-4192-a2f3-2a4eb0b1be78",
+  "source_id": "1rdvpsh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdvpsh/make_a_switch_from_semaglutide_to_ret/",
+  "author_hash": "ef89f212b50c05c4466f45d29a74c985a9c0322bc36a983cb33805e3ea958333",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T14:56:53-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Glucagon component helps with fat mobilization on top of GLP-1 appetite suppression; body composition results tend to be better than semaglutide alone",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "GLP-1 appetite suppression component",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Better muscle retention during fat loss compared to semaglutide",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Commenter recommending 2mg weekly starting dose with slow titration. Emphasizes that muscle retention during deficit is primarily dependent on protein intake (0.7-1g per lb bodyweight), not the peptide choice. Notes that appetite suppression may make intentional protein consumption challenging.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.672518Z"
+}

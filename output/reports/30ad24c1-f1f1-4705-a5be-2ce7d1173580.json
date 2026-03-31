@@ -1,0 +1,55 @@
+{
+  "id": "30ad24c1-f1f1-4705-a5be-2ce7d1173580",
+  "source_id": "1r9umrd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9umrd/side_effects_from_glow_combo/",
+  "author_hash": "8ec5455c5cec63596e3450d3bce3ac7ef5c1f88b0612ccee1289d9e443b25ccc",
+  "confidence_tier": 4,
+  "date_published": "2026-02-20T04:56:25-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "headache",
+      "description": "Back to back headaches, 2 per day",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Mixed blend: 50mg GHK-Cu + 10mg BPC-157 + 10mg TB-500 reconstituted together in single vial. Taking 12 units daily via subcutaneous injection. On TRT. Has 16 years of peptide experience with Melanotan II, off MT2 for couple months. Grey market source with purity tests verified.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.673999Z"
+}

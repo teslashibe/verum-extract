@@ -1,0 +1,38 @@
+{
+  "id": "ecda245b-9e58-481f-b338-e024a5958ecf",
+  "source_id": "10le119",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/10le119/has_anyone_used_semaglutide_from_saf_research/",
+  "author_hash": "394afb0fa3c62335b5c03ad0530463aae0ca1f77ec80d1a6d039841ab4f5bb91",
+  "confidence_tier": 4,
+  "date_published": "2023-01-25T16:05:43-08:00",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "From SAF Research. Week 4 of protocol: 0.25mg weekly for first 2 weeks, then 0.5mg weekly for second 2 weeks. No appetite suppression experienced. User highly disappointed. Later update at higher dose (30ml mentioned, likely 0.75mg) still with no effects.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.701873Z"
+}

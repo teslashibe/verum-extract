@@ -1,0 +1,38 @@
+{
+  "id": "5d8c24ed-d711-44a7-9760-68fad5f7ba25",
+  "source_id": "1ljzhud",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ljzhud/lab_tests_are_in/",
+  "author_hash": "176b24dccd763d21fdde0425dd3b622f00ebb2951d94dd6fd82d537bceb35147",
+  "confidence_tier": 3,
+  "date_published": "2025-06-25T00:38:57-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Testosterone increased approximately 50% higher than baseline, sustained two months after completion of peptide course",
+      "severity": "significant",
+      "onset_days": 60
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Testosterone",
+      "timeframe_days": 60
+    }
+  ],
+  "protocol_notes": "Khavinson peptides (organ-extracted from calves) taken sublingually for approximately one month. Multiple peptides used including testicle-derived peptide and three others; synergistic effects suspected. No other lifestyle changes (diet, lifting) during the protocol. Blood work done approximately two months after completing peptide course.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.405387Z"
+}

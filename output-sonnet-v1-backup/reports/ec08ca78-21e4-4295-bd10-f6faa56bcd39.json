@@ -1,0 +1,53 @@
+{
+  "id": "ec08ca78-21e4-4295-bd10-f6faa56bcd39",
+  "source_id": "1rm6fki",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rm6fki/reta_usage/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T22:26:14-08:00",
+  "reported_weight": {
+    "value": 116,
+    "unit": "kg"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 112,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss from 116 kg down to 101/102 kg over 3-4 months",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "Tingling/electric type sensation in thighs occurring nearly every day, disrupting sleep. Did not occur in early stages of use.",
+      "severity": "moderate",
+      "resolved": false
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Cannot sleep properly due to tingling sensation in thighs",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "User is sticking to 4mg/week to avoid increasing dose too high out of concern for loose skin. Taking multivitamins and other supplements to ensure adequate nutrient intake. Current weight is 101-102 kg.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.111657Z"
+}

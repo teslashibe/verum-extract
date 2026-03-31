@@ -1,0 +1,46 @@
+{
+  "id": "9b0ada79-98b2-4bf5-9db4-3136263f5636",
+  "source_id": "1n7sb0l",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n7sb0l/motsc_protocols_are_all_over_the_board/",
+  "author_hash": "87e47dad8c0e6f8f278d28b0d393a01d075282363ead9138a8952779d324732e",
+  "confidence_tier": 4,
+  "date_published": "2025-09-03T14:58:28-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "frequency": "daily",
+      "cycle_length_days": 20,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "3x weekly (MWF)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "more energy",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "better sleep",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Originally did SS-31 to try and improve kidney function but has not done blood tests to confirm. Feel great on current protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.399319Z"
+}

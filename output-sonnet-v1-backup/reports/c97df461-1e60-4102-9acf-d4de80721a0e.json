@@ -1,0 +1,41 @@
+{
+  "id": "c97df461-1e60-4102-9acf-d4de80721a0e",
+  "source_id": "1kgcrqv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kgcrqv/the_wolverine_peptide/",
+  "author_hash": "bdde98db5536a72638a88c4befbbf6141b34112d5acb295ae88628d0d84c815f",
+  "confidence_tier": 4,
+  "date_published": "2025-05-06T12:04:39-07:00",
+  "training_status": "gym-dedicated",
+  "health_conditions": [
+    "ACL reconstruction"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "bp157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tb500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Could have walked out of hospital same day as ACL reconstruction surgery; physiotherapist said she had never seen recovery so fast",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Used one cycle of bp157 and tb500 before ACL surgery, combined with gym dedication.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.284442Z"
+}

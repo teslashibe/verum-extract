@@ -1,0 +1,45 @@
+{
+  "id": "2b5626fe-7c2f-4efb-91b7-5287cedd7605",
+  "source_id": "1qqed18",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqed18/anything_that_will_help_with_delayed_circadian/",
+  "author_hash": "f9ad254eec7ab8fc21b1d1d141f45fe7a556dae2d01799e10d46b256565f3eed",
+  "confidence_tier": 4,
+  "date_published": "2026-01-29T09:05:51-08:00",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "frequency": "1 hour before bed",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Pinealon",
+      "name_normalized": "pinealon",
+      "category": "cognitive",
+      "frequency": "1 hour before bed",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Pinealon taken 1hr before bed has given best sleep of life",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "DSIP taken 1hr before bed caused restless sleep",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User switched DSIP timing from 1hr before bed to morning dosing. Pinealon shows strong positive effect on sleep quality.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.682461Z"
+}

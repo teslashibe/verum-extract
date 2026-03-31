@@ -1,0 +1,101 @@
+{
+  "id": "12fb0219-9344-420c-82c6-0bc891db5205",
+  "source_id": "1rgqbxi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rgqbxi/2_weeks_on_15mg_retatrutide_80mg_slupp332_84mg/",
+  "author_hash": "2ea9420721529f1c0b4169e4f631d4e634e0d311e7d4613850a7977c21c3ac14",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T18:16:02-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 147,
+    "unit": "kg"
+  },
+  "training_status": "labor_intensive_job_12hr_shifts_14000_steps_daily",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "frequency": "3x weekly (Monday/Wednesday/Friday, 5mg each)",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SLU-PP-332",
+      "name_normalized": "slu_pp_332",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 80,
+      "dose_unit": "mg",
+      "frequency": "4x daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "5-Amino-1MQ",
+      "name_normalized": "5_amino_1mq",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 84,
+      "dose_unit": "mg",
+      "frequency": "4x daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "9kg (19.8 lbs) weight loss in 14 days; belly visibly shrinking and tighter; clothes fit noticeably better around waist and chest",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "body_composition",
+      "description": "Mirror changes ahead of scale; recomp feels real",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "energy",
+      "description": "Energy during overnight shifts has stayed surprisingly solid despite high physical demands",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite initially up after bumping SLU and 5-Amino, but controllable with protein shakes and water",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Fatigue experienced until dosages were lowered to current protocol",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "injection_site",
+      "description": "SLU-PP-332 with DMSO burns like mad when pinned too fast",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "blood_glucose"
+    },
+    {
+      "marker_name": "blood_pressure"
+    }
+  ],
+  "protocol_notes": "Home-reconstituted from raw powder except for retatrutide. Started at 156kg (344 lbs), 2 weeks later at 147kg (324 lbs). User works 12-hour overnight shifts 4-5 days/week, averages 14,000 steps daily, climbs stairs 2-3 times per hour, lifts/moves 50lb bags multiple times per hour. Practices intermittent fasting, consumes 300-350g protein daily, keeps carbs under 50g, takes natural supplements. Comments indicate user later dialed back dosages to 40mg 5-Amino and 20mg SLU after 3 weeks. Uses DMSO as solvent for SLU-PP-332. User states they started with 500mcg and titrated up slowly over time, though community expressed concern about rapid escalation.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.670755Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "22512da1-8812-438a-9a52-68d3d8cd6459",
+  "source_id": "o4xqfn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/o4xqfn/started_bpc_yesterday/",
+  "author_hash": "43794bb4ebd45bca9b52717a99e7180aaf42a3ae356576b756fd1c75a8169677",
+  "confidence_tier": 4,
+  "date_published": "2021-06-21T08:28:37-07:00",
+  "health_conditions": [
+    "knee pain"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Knee pain resolved, including pain at outside of knee cap",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started at 250mcg, bumped dosage to 400mcg after a few weeks",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.131169Z"
+}

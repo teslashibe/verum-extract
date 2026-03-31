@@ -1,0 +1,42 @@
+{
+  "id": "348cb3db-2c61-4d70-a619-b8f3a348136d",
+  "source_id": "1r9jkny",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9jkny/tesamorelin_initial_results_after_6_weeks/",
+  "author_hash": "4aecbcff0e40f02f95b350c839d5afbbd98dca6ed5f5d88b1c3a174a0ee212aa",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T18:46:38-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Retatrutide worked when Ozempic (semaglutide) and Tirzepatide did not",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User found retatrutide effective after previous GLP-1 compounds were ineffective.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661857Z"
+}

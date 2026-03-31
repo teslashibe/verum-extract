@@ -1,0 +1,41 @@
+{
+  "id": "97d1710b-4be8-4373-97e6-c4fe70ea250c",
+  "source_id": "1quw4sr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1quw4sr/reta_sleep_problems/",
+  "author_hash": "3e6a74a22e7272bb3f218dbe74526800300ae70e02f86be6db3ff057e7ca72ca",
+  "confidence_tier": 5,
+  "date_published": "2026-02-03T08:13:13-08:00",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Feels more than fine overall",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Barely getting 6 hours of sleep, HRV out of range per Whoop device",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "OP states dose is '3/4mg a week', interpreted as 0.75mg weekly. On week 2 of Reta. Uses Whoop for HRV tracking.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121601Z"
+}

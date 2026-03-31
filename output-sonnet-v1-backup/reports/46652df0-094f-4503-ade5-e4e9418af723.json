@@ -1,0 +1,42 @@
+{
+  "id": "46652df0-094f-4503-ade5-e4e9418af723",
+  "source_id": "1qthsy0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qthsy0/switching/",
+  "author_hash": "a2e26cefb3f974a269987f5366a5656cc3be312d5b72d349c41240163db9b28f",
+  "confidence_tier": 4,
+  "date_published": "2026-02-01T17:53:29-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Retatrutide started working at 6mg after 6 weeks",
+      "onset_days": 42
+    }
+  ],
+  "protocol_notes": "Was at 10mg tirzepatide before switching to retatrutide. Took 6 weeks at 6mg for retatrutide to start working. Was close to giving up before it kicked in.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.122305Z"
+}

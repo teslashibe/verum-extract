@@ -1,0 +1,64 @@
+{
+  "id": "f36afecf-a05a-4561-a6c1-c5b77b734add",
+  "source_id": "1qa18sr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qa18sr/nad_and_weight_loss/",
+  "author_hash": "3016c0eca9e14da0c2e56ae34e04a98f5d5a0ee5d9847a803e88880269cb450b",
+  "confidence_tier": 4,
+  "date_published": "2026-01-11T06:52:17-08:00",
+  "health_conditions": [
+    "IBS"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500/BPC157",
+      "name_normalized": "tb500bpc157",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "triz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "frequency": "every two weeks",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "GLP slowing stomach down has pretty much fixed pre-existing IBS",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Down 5 lbs in first week on Reta and NAD+ stack",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "energy",
+      "description": "Feeling great on new stack"
+    }
+  ],
+  "protocol_notes": "Started with Ozempic over 3 years ago, moved to Zepbound (tirzepatide), now using Retatrutide. Was maintaining on Tirzepatide 7.5mg every two weeks; stepped it up to lose last 20 lbs. Only 1 week on Reta, NAD+, and TB500/BPC157 stack.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.125098Z"
+}

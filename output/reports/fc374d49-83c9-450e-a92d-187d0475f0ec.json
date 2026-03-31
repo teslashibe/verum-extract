@@ -1,0 +1,32 @@
+{
+  "id": "fc374d49-83c9-450e-a92d-187d0475f0ec",
+  "source_id": "1q5mh9i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q5mh9i/horrible_skin_from_klow/",
+  "author_hash": "08b94820399dca0c066264c156c969da184f337f38acb35801cf797219df9ba4",
+  "confidence_tier": 4,
+  "date_published": "2026-01-06T08:00:12-08:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Skin dried up and barrier compromised, rash on neck and eyelids with swelling",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": false,
+      "resolution_days": 60
+    }
+  ],
+  "protocol_notes": "Bad reaction after only 6-8 injections. Rash and swelling persisted for over 2 months after stopping.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.671701Z"
+}

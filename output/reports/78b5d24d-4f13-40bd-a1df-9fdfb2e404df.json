@@ -1,0 +1,51 @@
+{
+  "id": "78b5d24d-4f13-40bd-a1df-9fdfb2e404df",
+  "source_id": "16uwfqr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16uwfqr/advice/",
+  "author_hash": "af1464a82da7903b56b370f7abcc75bad61f134ffe9ada21e3bd2345ea071c2c",
+  "confidence_tier": 5,
+  "date_published": "2023-09-28T17:12:44-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHRP-2",
+      "name_normalized": "ghrp_2",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "User has 20mg vial of TB-500 \u0026 BPC-157 blend (10mg each). Planning to use CJC-1295 no DAC with GHRP-2. Naive to peptides, ordered from supplier that ships to Australia. Later increased CJC-1295 and GHRP-2 to 150mcg after 3 months for bodybuilding purposes, administering once in AM on empty stomach and once at 8pm (2 hours after dinner).",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.70061Z"
+}

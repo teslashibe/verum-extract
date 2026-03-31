@@ -1,0 +1,38 @@
+{
+  "id": "8c49516c-e0f7-44f7-bff8-46e7d3efc320",
+  "source_id": "1rtezvt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rtezvt/best_setup_for_neuropathy_and_ed/",
+  "author_hash": "421b0cccbee4c8708ae59a6d26f9d5dd3bf6c4fe44ef870ec12923d493e6e777",
+  "confidence_tier": 4,
+  "date_published": "2026-03-14T02:27:01-07:00",
+  "health_conditions": [
+    "major spinal surgery recovery"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Lyrica (Pregabalin)",
+      "name_normalized": "lyrica_pregabalin",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "as needed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Gaba",
+      "name_normalized": "na_semax_amidate",
+      "category": "cognitive",
+      "route": "oral",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User is preparing to start a recovery protocol after major spinal surgery. Currently on Lyrica 200mg as needed (100mg capsules). Will add additional doses if pain levels are too high for too long. Also has Gaba 100mg capsules available. Notes both compounds have substantial side effects.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.108586Z"
+}

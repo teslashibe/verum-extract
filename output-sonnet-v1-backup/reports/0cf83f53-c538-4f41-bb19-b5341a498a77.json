@@ -1,0 +1,62 @@
+{
+  "id": "0cf83f53-c538-4f41-bb19-b5341a498a77",
+  "source_id": "1odr9ig",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1odr9ig/muscle_growth/",
+  "author_hash": "471d350d0c8cc791f6a72b7b34d1e0f356c2953ceff1b57bc798ffee7d005e1f",
+  "confidence_tier": 4,
+  "date_published": "2025-10-22T19:06:16-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "morning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHRP2",
+      "name_normalized": "ghrp_2",
+      "category": "gh_secretagogue",
+      "frequency": "at night before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "frequency": "at night before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "motsc",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 60,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User explicitly states this is not TRT. Running GH in the morning, GHRP2 and sermorelin at night to restore natural production. Has been running this stack for a few months. Also mentions IGFLR3 and PEGMGF as recommendations but it is unclear if he personally uses those.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.26694Z"
+}

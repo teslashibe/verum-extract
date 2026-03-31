@@ -1,0 +1,50 @@
+{
+  "id": "62286558-6527-437a-b8db-1513bd84e475",
+  "source_id": "1p815hb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p815hb/waking_up_90_minutes_earlier_with_reta/",
+  "author_hash": "4bde630fceac7456dfd0582a00fd599f2ac10269e26f1efccc900b1292cbc14c",
+  "confidence_tier": 4,
+  "date_published": "2025-11-27T04:35:56-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Terrible sleep with light and fragmented sleep",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 10
+    },
+    {
+      "category": "other",
+      "description": "Hot flashes at night, never experienced before",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 10
+    },
+    {
+      "category": "mood_change",
+      "description": "Overall feeling miserable",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 10
+    }
+  ],
+  "protocol_notes": "Considered 0.5 mg 2x weekly a small dosage. Stopped Retatrutide after experiencing severe sleep disruption and night sweats. Sleep started returning to normal approximately 10 days after cessation. Also reports productivity loss at work due to lack of sleep.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.83,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.676179Z"
+}

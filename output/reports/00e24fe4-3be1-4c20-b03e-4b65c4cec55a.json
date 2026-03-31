@@ -1,0 +1,44 @@
+{
+  "id": "00e24fe4-3be1-4c20-b03e-4b65c4cec55a",
+  "source_id": "1nthftv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nthftv/tesamorelin_negative_reaction/",
+  "author_hash": "01ac53c994ed4adc2a29306b4dc83c5bc09d4d54ce2fa10365eae76a9e09fee8",
+  "confidence_tier": 4,
+  "date_published": "2025-09-29T06:02:39-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 70,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "pooling or whelping under injection site, red knot that stays for days",
+      "severity": "moderate",
+      "onset_days": 63
+    },
+    {
+      "category": "skin_reaction",
+      "description": "burns for about 10 minutes after injection",
+      "severity": "mild",
+      "onset_days": 63,
+      "resolved": true,
+      "resolution_days": 0
+    }
+  ],
+  "protocol_notes": "On week 10 of first cycle. Injecting 1mg daily using 31g insulin needle into upper buttocks fat or love handles. Alcohol-prepped site and bottle. Massages injection site thoroughly after injection.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.396837Z"
+}

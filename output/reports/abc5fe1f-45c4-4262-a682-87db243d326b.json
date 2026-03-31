@@ -1,0 +1,57 @@
+{
+  "id": "abc5fe1f-45c4-4262-a682-87db243d326b",
+  "source_id": "1p4e598",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p4e598/concerns_about_glow_peptide/",
+  "author_hash": "3ad6b0abc801a61793c03d81e6ac2ef4f6c6ee56c0eb3d8f4488509d8075df66",
+  "confidence_tier": 4,
+  "date_published": "2025-11-22T21:02:00-08:00",
+  "health_conditions": [
+    "copper deficiency"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Positive effects on skin health",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Stinging/burning at injection site without proper dilution technique",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Uses 50-10-10 GLOW blend (GHK-Cu 50%, BPC-157 10%, TB-500 10%) dosed at 2 mg daily based on copper content. 6-8 weeks on, 4 weeks off cycling. Supplements with 2 mg copper biglycinate daily even during GLOW use. Dilutes with additional BAC to reduce stinging. Injects in upper glutes with 1/2 inch needle, splits into 2-3 spots, uses massage gun for 4-5 minutes post-injection. Reports no welts or burning with this technique.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.676769Z"
+}

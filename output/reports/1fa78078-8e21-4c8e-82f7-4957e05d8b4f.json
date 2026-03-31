@@ -1,0 +1,43 @@
+{
+  "id": "1fa78078-8e21-4c8e-82f7-4957e05d8b4f",
+  "source_id": "1cmlfge",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1cmlfge/psa_albeit_rare_copper_peptide_uglies_are_real/",
+  "author_hash": "4db4005ebb337af550d4019700f7dcfe14b6f64d02a44ac74339b567643d5f3e",
+  "confidence_tier": 4,
+  "date_published": "2024-05-07T13:13:56-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 10,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Skin became very soft immediately after starting",
+      "severity": "mild",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "By day 6, skin became noticeably thinner and fragile. Pressure marks from lying down lasted for hours. Skin lost firmness compared to baseline.",
+      "severity": "significant",
+      "onset_days": 6,
+      "resolved": true,
+      "resolution_days": 14
+    }
+  ],
+  "protocol_notes": "Subcutaneous GHK-Cu injections for 10 days. User was taking wrong dosage (overdosing). Stopped 2 weeks before reporting. Skin improved but not fully back to baseline.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.697586Z"
+}

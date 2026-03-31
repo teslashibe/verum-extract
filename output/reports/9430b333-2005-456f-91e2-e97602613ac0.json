@@ -1,0 +1,100 @@
+{
+  "id": "9430b333-2005-456f-91e2-e97602613ac0",
+  "source_id": "1rx96at",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx96at/looking_for_adviceopinions/",
+  "author_hash": "aec8eeddb7211123744055a957496cd10e7378d3c14b03e24e7a48ec0336164a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T09:49:02-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "reported_weight": {
+    "value": 309,
+    "unit": "lbs"
+  },
+  "training_status": "former college offensive lineman, powerlifter",
+  "health_conditions": [
+    "low testosterone"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "frequency": "5x per week, 2x off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "frequency": "5x per week, 2x off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "frequency": "5x per week, 2x off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 0.2,
+      "dose_unit": "mg",
+      "frequency": "5x on, 2x off",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 7 pounds total",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "Feel great",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Retaining muscle while losing weight",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone"
+    }
+  ],
+  "protocol_notes": "Running Glow stack (GHK-Cu, BPC-157, TB-500) at 2.33mg daily combined. Plan to cycle off BPC/TB for 2 weeks, then run GHK-Cu separately, then Wolverine stack again for 4-6 weeks. Switching from Sermorelin to CJC-1295/Ipamorelin stack. Will increase Reta to 3mg when progress plateaus. Also on enclomiphene for low testosterone management. Bloodwork showed good results otherwise.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.66158Z"
+}

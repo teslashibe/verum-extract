@@ -1,0 +1,94 @@
+{
+  "id": "d8f0acf0-a9b0-4cd5-8107-d66742ae51b9",
+  "source_id": "1rwj4c8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwj4c8/peptides/",
+  "author_hash": "2d188e6f5edade062a34d52504e25b3e29a4d72e93c2fc3fb8e86d2d7d78dc7a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-17T13:55:00-07:00",
+  "health_conditions": [
+    "Crohn's disease",
+    "Autoimmune hemolytic anemia",
+    "ADHD",
+    "Possible MCAS",
+    "PEG allergy"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Helped with bloating and bowel trouble",
+      "severity": "moderate"
+    },
+    {
+      "category": "inflammation",
+      "description": "Reduced Crohn's symptoms",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Energy levels depleted to the point where entire body felt weighed down with sand",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive_impairment",
+      "description": "Brain fog and loss of desire to do anything",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive_impairment",
+      "description": "ADHD medication (Dexedrine instant release) stopped working; Concerta worked for a few days then fatigue took over",
+      "severity": "significant"
+    },
+    {
+      "category": "headache",
+      "description": "Feeling like a migraine is coming on but never actually happens",
+      "severity": "moderate"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Stomach pain after using Pepcid; stomach felt like it was on fire",
+      "severity": "moderate"
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "Suspected PEG allergy; trouble with medicines containing propylene glycol",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Ferritin"
+    }
+  ],
+  "protocol_notes": "Initial 2-month stack of BPC-157 and GHK-Cu tolerated well. Added KPV after 2 months. Quit BPC-157 and KPV for 2 days and felt better mentally but stomach pain returned. Dosed KPV again and brain fog returned. Later reports intramuscular BPC-157 injection directly to back of neck resulted in brain fog vanishing within 20 minutes. Currently believes KPV is too powerful for conditions and may cause deep repair state requiring bedrest. Planning to continue BPC-157 only.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.662131Z"
+}

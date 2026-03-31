@@ -1,0 +1,83 @@
+{
+  "id": "d910e281-898e-4411-a956-0427e4e86218",
+  "source_id": "1acxqzz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1acxqzz/my_experience_rates_oral_bpc157_on_par_or/",
+  "author_hash": "5cb23f767a70b19b18a893ca72eb59cecbd52efd5ade5ee042a5f0ea85dce4cc",
+  "confidence_tier": 4,
+  "date_published": "2024-01-28T00:07:34-08:00",
+  "health_conditions": [
+    "IBS",
+    "chronic rotator cuff tear",
+    "AC joint injury",
+    "hip labrum tear"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 700,
+      "dose_unit": "mcg",
+      "frequency": "1x daily for 1 week, then 2x daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 450,
+      "dose_unit": "mcg",
+      "frequency": "1x daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "brain fog resolved",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "energy",
+      "description": "chronic fatigue eliminated",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "sleep",
+      "description": "significantly improved sleep quality, went from waking 4-5 times per night to once; deep restorative sleep",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "mood",
+      "description": "felt calm and alert, improved mental state",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "joint_pain",
+      "description": "all pain improved; flare-up recovery time reduced from 2-3 weeks to 1-2 days",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "recovery",
+      "description": "faster pain resolution and recovery from flare-ups",
+      "severity": "significant",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "BPC-157 arginate form, oral dosing taken fasted with no food for 1 hour post-dose. Injectable form started at 200 mcg, titrated to 450 mcg daily. User concluded oral formulation superior to or equivalent to injections for their conditions. Planned 12-week cycle extended due to benefits. Strong emphasis on fasted oral administration for absorption.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.417135Z"
+}

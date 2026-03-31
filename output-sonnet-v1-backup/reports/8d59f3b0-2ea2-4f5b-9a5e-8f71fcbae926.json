@@ -1,0 +1,45 @@
+{
+  "id": "8d59f3b0-2ea2-4f5b-9a5e-8f71fcbae926",
+  "source_id": "1qxa1pa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxa1pa/cjc_1295_no_dac_iplamorelin_side_effects/",
+  "author_hash": "9f8cf163c29bc4706c9e8dba0b519936c6509b145b816bffcf251d460d415f07",
+  "confidence_tier": 4,
+  "date_published": "2026-02-05T22:21:31-08:00",
+  "compounds": [
+    {
+      "name_raw": "CJC 1295 No DAC",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Hot flush subsiding after about 10 minutes with each injection; first dose felt like onset of a panic attack",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Taking for 2 weeks. Hot flush does not carry on to the next day. Dose noted as 200mg/200mg in original comment but almost certainly intended as 200mcg/200mcg.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121002Z"
+}

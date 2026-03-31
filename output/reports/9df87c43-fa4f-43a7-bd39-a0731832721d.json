@@ -1,0 +1,39 @@
+{
+  "id": "9df87c43-fa4f-43a7-bd39-a0731832721d",
+  "source_id": "1okqkin",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1okqkin/almost_died_from_cjd1295_and_ghrp2_combo/",
+  "author_hash": "7e7b947af6689fcdca0f5b9326997de98a047bc457796d7a7a73d7a211a1451e",
+  "confidence_tier": 4,
+  "date_published": "2025-10-31T03:07:40-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "severe reaction both times tried. First time unsure which peptide caused it due to using multiple compounds. Second time isolated the combo and had exact same reaction, thought it was the end.",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Tried combo twice with identical severe reactions both times. Will never use these two peptides again.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.678476Z"
+}

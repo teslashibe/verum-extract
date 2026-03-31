@@ -1,0 +1,48 @@
+{
+  "id": "ef87734d-64dc-4f65-8c42-d6069074fa67",
+  "source_id": "1rdykth",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdykth/any_downsides_to_switching_to_tirz_after_reta/",
+  "author_hash": "5acc3f1666ebc8431ec0742c7881bff42700e179da94b8014d310babc364235a",
+  "confidence_tier": 5,
+  "date_published": "2026-02-24T16:52:12-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost most of the weight they wanted to lose"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Huge raised welts at injection sites that itch intensely and last over a week even with antihistamines; tried rotating sites, diluting, room temp, different BAC, changed suppliers",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "other",
+      "description": "Skin allergy/rash reaction to Reta",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "hair",
+      "description": "Hair loss, had to force themselves to eat"
+    }
+  ],
+  "protocol_notes": "OP is considering switching from Reta to Tirz due to skin allergy. Tried many mitigation strategies for injection site reactions. Notes they have lost most of their target weight.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114992Z"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "129eb43a-1d8d-4be2-b501-82d36afc138b",
+  "source_id": "16xz9nm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16xz9nm/peptides_have_really_changed_my_life/",
+  "author_hash": "8f03c4bfd69b4f55c4de3fb33af6d5efc07a476fd02000de13751343a2aa311c",
+  "confidence_tier": 4,
+  "date_published": "2023-10-02T08:13:41-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "diabetes",
+    "neuropathy",
+    "androgenetic alopecia"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.55,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "2.2 lbs in 9 days on combined Tirz/Sema protocol after 6-week stall on Semaglutide alone; 22 lbs in 18 weeks initially",
+      "severity": "significant"
+    },
+    {
+      "category": "blood_sugar",
+      "description": "A1C immediately dropped down to normal",
+      "severity": "significant"
+    },
+    {
+      "category": "cardiovascular",
+      "description": "Blood pressure and cholesterol improved",
+      "severity": "moderate"
+    },
+    {
+      "category": "pain_relief",
+      "description": "BPC-157 and TB-500 helped relieve neuropathy pain and discomfort; improvement noted after over 1 month",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hair_change",
+      "description": "Hair falling out; user notes this tends to peak at 4 months then improves",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C"
+    }
+  ],
+  "protocol_notes": "User started on Semaglutide via Medicare coverage, then discovered Tirzepatide and began experimenting with combination therapy. Currently on 4mg Tirzepatide weekly and 1mg Semaglutide weekly split across 2 injections each. Using BPC-157 and TB-500 for neuropathy treatment (3+ month protocol). GHK-Cu used both internally and externally for hair and overall health. Emphasizes need for adequate protein, electrolytes, collagen, and vitamins. Total weight loss 30+ lbs over 4 months.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.700515Z"
+}

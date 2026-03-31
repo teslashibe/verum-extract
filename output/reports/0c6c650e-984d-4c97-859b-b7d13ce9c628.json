@@ -1,0 +1,47 @@
+{
+  "id": "0c6c650e-984d-4c97-859b-b7d13ce9c628",
+  "source_id": "1s07as7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s07as7/question_about_peptide_efficacy/",
+  "author_hash": "595cdcad26af903dc0b25bd728a6ae92fc5090fd1552168be8dde56a7fe9cfcf",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T17:22:18-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GLP-1",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "L-Carnitine",
+      "name_normalized": "l_carnitine",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Superstars: GLP1s and hormone therapy if over certain age",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Mid-range effects: SS31 and L-Carnitine",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Approached testing like a scientist - separates new peptides from others for at least a week. Conclusion: superstars like GLP1s and hormone therapy for over certain age. Handful of others like SS31 and L-Carnitine have mid-range effects. Everything else very much placebo. Many folks convince themselves it works or take 7 things simultaneously without knowing which is responsible.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.648785Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "dec87299-483a-4358-819b-d516baa4ca48",
+  "source_id": "1q7ci5x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q7ci5x/ghkcu_welts/",
+  "author_hash": "c86ecefb9ffd774ea6e64143e85c60f86c45b218b31b0ef55fc7fc8014b7daa1",
+  "confidence_tier": 5,
+  "date_published": "2026-01-08T05:59:50-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Injection site irritation resolved by switching to thigh injection site and supplementing zinc; antihistamine suggested if very irritating",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Switched injection site to thigh and used zinc supplementation to eliminate welts.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.255903Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "4f65d0ee-132e-42ab-ab69-64839ff3189f",
+  "source_id": "16qlxel",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16qlxel/female_libido/",
+  "author_hash": "b6387fc6d9c8be2d5f1791da97d4305928834cfed62da0ec0315e99e297613e0",
+  "confidence_tier": 4,
+  "date_published": "2023-09-23T19:16:58-07:00",
+  "training_status": "trains in gym",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hormonal",
+      "description": "indirect downstream help for hormonal correction",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "noticeable improvements in gym",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User also recommends carnivore diet for hormonal correction. Mentions cholesterol and high omega-3s as building blocks for testosterone. Has seen bloodwork and YouTube discussions supporting this approach.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.700743Z"
+}

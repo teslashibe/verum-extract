@@ -1,0 +1,49 @@
+{
+  "id": "307e7246-3a7e-4d88-8329-bd68d52544b1",
+  "source_id": "1rze52n",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rze52n/tesamorelin_dosage/",
+  "author_hash": "7eced37680c65cbaf4c17a1bd591573dd6d89ff02b38351b695af850f1e07e8a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-20T18:08:27-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "60+",
+  "training_status": "former athlete, currently overweight but losing weight",
+  "health_conditions": [
+    "overweight"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5 days per week with 3 day break",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Works very well for weight loss in conjunction with Reta",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "62-year-old male, former athlete, now overweight but recently making progress. Uses 1mg Tesamorelin per day, 5 days/week with a 3-day break. Stacked with Retatrutide 4mg/week.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106138Z"
+}

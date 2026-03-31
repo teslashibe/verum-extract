@@ -1,0 +1,47 @@
+{
+  "id": "68858ce8-dd7e-463d-a9e7-3f7e0665884e",
+  "source_id": "1phscvf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1phscvf/starting_reta/",
+  "author_hash": "2dca4822ff4d0a1debbca0555405da1cb90a8c34802e15ae8dc58587c26abaed",
+  "confidence_tier": 4,
+  "date_published": "2025-12-08T15:48:17-08:00",
+  "reported_weight": {
+    "value": 203,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1.2,
+      "dose_unit": "mg",
+      "cycle_length_days": 20,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost almost 20 lbs in 20 days",
+      "severity": "significant",
+      "onset_days": 20
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_weight",
+      "value_before": 203,
+      "value_after": 182,
+      "unit": "lbs",
+      "timeframe_days": 20
+    }
+  ],
+  "protocol_notes": "Current weight 182 lbs. Results achieved with proper diet adherence.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.391249Z"
+}

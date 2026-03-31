@@ -1,0 +1,54 @@
+{
+  "id": "b9e65197-5cad-4b7d-9822-154f5a36eb95",
+  "source_id": "1r01t37",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r01t37/new_to_peptides_looking_for_feedback_on_bpc157/",
+  "author_hash": "98fd4795978e8cb60af7b329f641e5f894f083f35e66e3675805c4074d6f490f",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T03:29:50-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Fantastic results after 8-week cycle",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cognitive",
+      "description": "Brain fog experienced during or after the cycle"
+    },
+    {
+      "category": "mood_change",
+      "description": "Anhedonia experienced during or after the cycle"
+    }
+  ],
+  "protocol_notes": "8-week cycle of BPC 250mcg/day and TB500 2.5mg/week; reported fantastic results but experienced brain fog and anhedonia.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.120107Z"
+}

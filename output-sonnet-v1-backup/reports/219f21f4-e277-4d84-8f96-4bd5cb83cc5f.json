@@ -1,0 +1,62 @@
+{
+  "id": "219f21f4-e277-4d84-8f96-4bd5cb83cc5f",
+  "source_id": "1jo2h6g",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jo2h6g/what_peptides_are_effective_for_adhd_and_chronic/",
+  "author_hash": "fa6517508f49effde5bc004892316da37ef6a091eb067da56ccb6b0170ed79c7",
+  "confidence_tier": 4,
+  "date_published": "2025-03-31T05:53:33-07:00",
+  "health_conditions": [
+    "ADHD",
+    "chronic fatigue syndrome",
+    "suspected DBH enzyme deficiency",
+    "copper deficiency",
+    "family history of atrial fibrillation"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Rybelsus",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "oral",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Atomoxetine",
+      "name_normalized": "atomoxetine",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Rybelsus worked better than any other ADHD medication ever taken; dramatically improved ADHD symptoms",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Tachycardia; pulse rate increased from usual 80-90 to 100-130 when taking Rybelsus",
+      "severity": "significant"
+    },
+    {
+      "category": "nausea",
+      "description": "Nausea when taking Rybelsus"
+    }
+  ],
+  "protocol_notes": "OP confirmed tachycardia is related to Rybelsus by stopping Atomoxetine and still experiencing it. Considering stopping GLP-1 due to side effects. Notes that dopamine-increasing drugs worsen ADHD while norepinephrine-increasing drugs dramatically improve it. Carbohydrate consumption worsens ADHD, suggesting neuroinflammation as a factor. Also suspects mitochondrial issues related to CFS.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.286616Z"
+}

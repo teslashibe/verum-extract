@@ -1,0 +1,92 @@
+{
+  "id": "26610954-c4f3-4d9f-9baf-379c8d9b54ce",
+  "source_id": "1rymdik",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rymdik/1_month_transformation/",
+  "author_hash": "34c7d563b6a962e83130c6d9609ca09ed3bd42bc74e8732c039af1ae743ccbd1",
+  "confidence_tier": 3,
+  "date_published": "2026-03-19T21:12:23-07:00",
+  "reported_weight": {
+    "value": 213,
+    "unit": "lbs"
+  },
+  "training_status": "resistance training with cardio: 70 min weight training + 20-30 min steady state cardio zone 2",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "every 5 days",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Lost 19 lbs over one month (232 lbs to 213 lbs), with body composition improvements shown on DEXA/BIA scans over final two weeks",
+      "severity": "significant",
+      "onset_days": 28
+    },
+    {
+      "category": "muscle_gain",
+      "description": "IGF-1 LR3 introduced week 2 to combat atrophy and increase muscle mass",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "energy",
+      "description": "MOTS-C provided workout enhancement similar to pre-workout without jitters",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Minimal side effects from Retatrutide despite rapid titration",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "First month peptide experience. Retatrutide titration: 1mg week 1, 1.5mg week 2, 2mg weeks 3-4. Tesamorelin and Retatrutide started simultaneously. MOTS-C and IGF-1 LR3 added week 2. Diet strictly tracked macros, carbs structured around workout timing. Training: 70 min resistance + 20-30 min steady state cardio zone 2. Body composition measured via Evolt Active BIA scanner.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.66097Z"
+}

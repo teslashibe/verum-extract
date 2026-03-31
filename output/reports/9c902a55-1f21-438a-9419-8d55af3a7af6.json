@@ -1,0 +1,127 @@
+{
+  "id": "9c902a55-1f21-438a-9419-8d55af3a7af6",
+  "source_id": "1k6ktpw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k6ktpw/bpc_157_for_necrotic_scars_and_incisional_scars/",
+  "author_hash": "2fc109ad47351be75a8f580e33b05c0d9f72ddd3363fd09434453e2d2cc5f1b4",
+  "confidence_tier": 4,
+  "date_published": "2025-04-23T22:45:36-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "60+",
+  "health_conditions": [
+    "surgical scars",
+    "elevated iron levels"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "topical",
+      "dose_value": 50,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Scar filling and thickening, improved healing of post-op incisional scars",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Large indents from surgical scars have filled in with Ipamorelin use",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hormonal",
+      "description": "Iron levels elevated to greater than 1500 (normal range 10-300), attributed to spironolactone and inflammation-lowering peptides reducing hepcidin",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "injection_site",
+      "description": "Injection site bleeding when using BPC-157 injections",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "anxiety",
+      "description": "High anxiety about undisclosed peptide use and iron complications",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Iron",
+      "value_after": 1500,
+      "unit": "mcg/dL (or similar)"
+    }
+  ],
+  "protocol_notes": "6 months post-op with new surgical scars. Mixed BPC-157 with collagen and covered with silicone tape for topical application. Also injecting BPC-157 and Ipamorelin. Taking multiple peptides including Retatrutide, Semaglutide, Tirzepatide, TB-500. Was on spironolactone which was stopped due to iron elevation. Did not disclose peptide use to husband or doctor. Stopped Semax, MOTS-c, and SS-31 due to concern about iron elevation and inflammation reduction mechanisms.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.409209Z"
+}

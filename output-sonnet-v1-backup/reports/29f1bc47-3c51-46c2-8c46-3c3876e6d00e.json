@@ -1,0 +1,37 @@
+{
+  "id": "29f1bc47-3c51-46c2-8c46-3c3876e6d00e",
+  "source_id": "1ohykl3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ohykl3/help_day_9_on_ghkcu_day_by_day_it_burns_more/",
+  "author_hash": "5c4669ed3eda84f7979f61394a6b4ecb53bc13ea52191de359cf8e4eab0641e6",
+  "confidence_tier": 5,
+  "date_published": "2025-10-27T19:57:46-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 9,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Increasing burning/pain at injection site after pinning, worsening over the last 3 days of a 9-day cycle",
+      "severity": "moderate",
+      "onset_days": 6,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "OP injecting 50 units daily; reconstitution details appear incorrect (50 units = 2mg implies unusual dilution). OP acknowledged possible dosing error and plans to use smaller BAC water vial next time.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.266497Z"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "012bc86a-bb10-4785-9930-a82103485b6a",
+  "source_id": "1l0xkld",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1l0xkld/what_has_been_your_experience_taking_peptides_for/",
+  "author_hash": "58f558346573e136ac52c4f91136081be2498ee77dc29d8a8135ef8d8125a112",
+  "confidence_tier": 4,
+  "date_published": "2025-06-01T12:28:47-07:00",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "copper deficiency",
+    "premature greying"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "oral",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "zinc",
+      "name_normalized": "zinc",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "copper",
+      "name_normalized": "copper",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Hair thicker/fuller, reduced greys, hair coming in brown and phasing out grey",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User took GHK-Cu in capsule form daily. Later added 15mg zinc dosed with 1mg copper after positive results. Believes copper deficiency contributed to premature greying. Early 40s.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.282621Z"
+}

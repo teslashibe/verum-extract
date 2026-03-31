@@ -1,0 +1,35 @@
+{
+  "id": "d25569de-15f2-49ad-a968-ca5fb681edef",
+  "source_id": "132jdr6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/132jdr6/just_taken_2nd_dose_of_semaglutide_but_no_side/",
+  "author_hash": "47ceb2d77f80c339f0fc0d5f54472f53809fee65613b29122af313490ed38d47",
+  "confidence_tier": 5,
+  "date_published": "2023-04-28T21:40:45-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Noticed effects immediately upon first use at 0.25mg",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Very sensitive to Semaglutide at 0.25mg dose with immediate onset effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.127831Z"
+}

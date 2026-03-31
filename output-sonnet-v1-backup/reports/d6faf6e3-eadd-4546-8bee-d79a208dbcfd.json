@@ -1,0 +1,86 @@
+{
+  "id": "d6faf6e3-eadd-4546-8bee-d79a208dbcfd",
+  "source_id": "1fv4rz5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fv4rz5/body_recomp_on_ozempic_what_peptides_can_i_stack/",
+  "author_hash": "5b3db733f60e2b4326b7c145fc5a68d551be6c08772dcc5166876d746e98f2cd",
+  "confidence_tier": 4,
+  "date_published": "2024-10-03T03:46:13-07:00",
+  "reported_weight": {
+    "value": 226,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "intramuscular",
+      "cycle_length_days": 456,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "primo",
+      "name_normalized": "primo",
+      "category": "other",
+      "route": "intramuscular",
+      "cycle_length_days": 456,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Gh",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 456,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "var",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tirzapetide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Reduced body fat from 34% to 15%",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Lost 111 lbs total (337 lbs to 226 lbs) over 15 months",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "value_before": 34,
+      "value_after": 15,
+      "unit": "%",
+      "timeframe_days": 456
+    },
+    {
+      "marker_name": "body weight",
+      "value_before": 337,
+      "value_after": 226,
+      "unit": "lbs",
+      "timeframe_days": 456
+    }
+  ],
+  "protocol_notes": "Low doses of all compounds. No blood work issues reported. Stack used at various times over 15 months.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.290275Z"
+}

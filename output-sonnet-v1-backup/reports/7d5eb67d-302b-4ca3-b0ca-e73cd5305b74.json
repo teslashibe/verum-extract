@@ -1,0 +1,54 @@
+{
+  "id": "7d5eb67d-302b-4ca3-b0ca-e73cd5305b74",
+  "source_id": "tujyzs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/tujyzs/semaglutide_is_magic/",
+  "author_hash": "97b8a5fbcada7eb7b0a48e8bcf679cfd51eb8a6cae118dd216d38dddc7c9d6e4",
+  "confidence_tier": 4,
+  "date_published": "2022-04-02T07:21:40-07:00",
+  "training_status": "Prepping for Strongman competition in early August",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 75,
+      "dose_unit": "mg",
+      "frequency": "1x week",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost about 6-8 lbs in about three weeks",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Not just appetite suppressing but impulsive behavior suppressing; stopped bingeing; quickly reaches uncomfortable fullness signal; stopped raiding fridge before bed",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Reduced impulsive spending behavior; no longer gets dopamine rush from overeating or buying unneeded items",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "After week three, stopped feeling the effect nearly as strongly",
+      "severity": "mild",
+      "onset_days": 21
+    }
+  ],
+  "protocol_notes": "Sourced from Peptide Sciences. Dose listed as 75mg weekly which appears to be a unit error (likely 75mcg). Putting experimentation on hold for summer due to Strongman competition prep where weight loss is not primary concern.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.42866Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "5670d619-ca07-4dd8-95cf-f6cf6ed39a28",
+  "source_id": "1kc87vb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kc87vb/tirzreta_stack/",
+  "author_hash": "e0002867bcc302261d6b1a786026281401025dced5a8efa22321f5d588764054",
+  "confidence_tier": 4,
+  "date_published": "2025-05-01T06:04:14-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Semaglutide provided superior appetite suppression and food noise reduction; user would forget to eat",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Maintained meals and portion control on Retatrutide",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Reduced appetite suppression compared to Semaglutide; experiences cravings that were absent on Semaglutide",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Switched from Semaglutide after 9 months to Retatrutide. Took two-week break between compounds. Prefers Retatrutide as superior product (3-agonist vs 1-agonist). Plans to increase Retatrutide dose and potentially add Cagrilintide for appetite support.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.408742Z"
+}

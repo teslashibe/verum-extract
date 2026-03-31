@@ -1,0 +1,44 @@
+{
+  "compound_id": "tirz_compounded_with_bpc",
+  "display_name": "Tirz compounded with BPC",
+  "category": "other",
+  "total_reports": 1,
+  "reports_by_tier": {
+    "4": 1
+  },
+  "top_benefits": null,
+  "top_side_effects": [
+    {
+      "category": "mood_change",
+      "count": 1,
+      "pct": 100,
+      "avg_severity": 3
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 10,
+      "unit": "mg",
+      "frequency": "",
+      "count": 1,
+      "pct": 100
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "kpv",
+      "display_name": "BPC",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0,
+  "sentiment_breakdown": {
+    "positive": 0,
+    "mixed": 0,
+    "negative": 1,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.970745Z"
+}

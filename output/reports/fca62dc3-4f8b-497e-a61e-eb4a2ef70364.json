@@ -1,0 +1,77 @@
+{
+  "id": "fca62dc3-4f8b-497e-a61e-eb4a2ef70364",
+  "source_id": "1s07as7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s07as7/question_about_peptide_efficacy/",
+  "author_hash": "527c23fde29220506dbe68cf29891eac8bb6a16836233e6c5f56a8b91258113c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T17:22:18-07:00",
+  "reported_age_range": "40-49",
+  "training_status": "lifting heavy at gym",
+  "health_conditions": [
+    "tendinitis"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 120,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "bloodwork panel",
+      "timeframe_days": 90
+    },
+    {
+      "marker_name": "blood pressure"
+    }
+  ],
+  "protocol_notes": "Followed recommended dosages. Diet dialed in. Bloodwork done every 3 months for TRT, always looks good. Blood pressure always below average. Injury (tendinitis) eventually healed after 6 months with or without BPC/TB-500. Tesamorelin also tried with no results. MOTS-C protocol: 500mcg 5 days on 2 days off, then increased to 1000mcg with no results.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.648785Z"
+}

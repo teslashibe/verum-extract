@@ -1,0 +1,54 @@
+{
+  "id": "4bfece71-62d6-4ee5-bd7d-8b9cc5e2b242",
+  "source_id": "1r11cz5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r11cz5/tesamorelin_keeps_turning_cloudy_and_gel_like/",
+  "author_hash": "53063f621749b46acb31f6290be1df5965ceb9eeecf85b7a7011ebf0f75cd345",
+  "confidence_tier": 5,
+  "date_published": "2026-02-10T05:54:52-08:00",
+  "training_status": "gym",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Tesamorelin vials turning cloudy and gel-like after reconstitution with BAC water",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "User has 4 vials of Tesamorelin (5mg each). 3 vials turned cloudy and viscous after 1 day of storage at 3°C in fridge. Other peptides (GHK-Cu, Ipamorelin, Semax) stored under same conditions remain stable. Vial left at room temperature (25°C) for 1 hour then refrigerated turned viscous and cloudy the next day. New vial left at room temperature turned extremely viscous and cloudy within 24 hours. Issue likely related to BAC water pH rather than storage temperature or supplier quality, as friends using same vials report no issues.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665405Z"
+}

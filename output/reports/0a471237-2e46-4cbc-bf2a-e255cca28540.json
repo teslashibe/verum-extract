@@ -1,0 +1,45 @@
+{
+  "id": "0a471237-2e46-4cbc-bf2a-e255cca28540",
+  "source_id": "1s22e2o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s22e2o/klow_question/",
+  "author_hash": "c7d765199185f67814553fad24fd1a5fa33777bcc28d4c7add54d519a8c95729",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T20:06:00-07:00",
+  "health_conditions": [
+    "old injuries"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Started for old injuries and health improvement"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Wasp sting-like sensation at injection site, mildly uncomfortable immediately after injection, then progresses to significant pain. Bruising, swelling, and itching. Pain increases at steady rate for first 16 hours post-injection. Pain severe enough to prevent sleep.",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "KLOW blend (GHK-Cu component identified). 5 injections over 7 days, testing different injection sites (love handles/upper glute). Dose stated as 4mg total, which breaks down to 2.5mg GHK-Cu. Already taking Zyrtec daily for allergies. Peptide naive, beginning peptide journey.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.658713Z"
+}

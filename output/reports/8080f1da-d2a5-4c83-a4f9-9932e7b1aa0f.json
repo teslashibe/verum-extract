@@ -1,0 +1,62 @@
+{
+  "id": "8080f1da-d2a5-4c83-a4f9-9932e7b1aa0f",
+  "source_id": "156zljc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/156zljc/i_used_to_love_opening_the_kitchen_fridge/",
+  "author_hash": "ac5e445d4d25210d16b1f5d596bdcb88c9a0efd11abfd862b246653778ecc0db",
+  "confidence_tier": 4,
+  "date_published": "2023-07-22T17:07:41-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Tirzepatide for weight loss"
+    },
+    {
+      "category": "body_composition",
+      "description": "AOD-9604 for leaning out",
+      "onset_days": 42
+    },
+    {
+      "category": "sleep",
+      "description": "Ipamorelin/CJC-1295 stack made user have deep restful sleep",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Uses 3 daily pins. Maintains approximately 1.5 months supply. Tirzepatide sourced from Phat Strength in 10mg vials. Protocol is for two research subjects. Stores peptides in mini fridge with food-grade silica packets in containers with powdered peptides.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.70115Z"
+}

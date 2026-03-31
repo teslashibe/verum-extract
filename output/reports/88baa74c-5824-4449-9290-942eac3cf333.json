@@ -1,0 +1,36 @@
+{
+  "id": "88baa74c-5824-4449-9290-942eac3cf333",
+  "source_id": "1aq5wg3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1aq5wg3/always_pay_with_a_credit_card_chargeback_success/",
+  "author_hash": "6fc0e95dec3cf485e422c566b93d3c477c7b6f66f75c244b8d8e65df8a9dce14",
+  "confidence_tier": 5,
+  "date_published": "2024-02-13T14:01:23-08:00",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Burn on Ipamorelin/Sermorelin injections"
+    }
+  ],
+  "protocol_notes": "Asked whether burn on ipa/ser injections is concerning",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.2,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.416731Z"
+}

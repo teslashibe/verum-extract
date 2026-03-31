@@ -1,0 +1,35 @@
+{
+  "id": "1c84f954-5430-4c5d-ae96-799d3f77ba2f",
+  "source_id": "1rlgk1m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rlgk1m/bone_healing/",
+  "author_hash": "73879b4bfc62add93db3ec519f2c50897b6383c27a4fd57386e148f77ec955f0",
+  "confidence_tier": 5,
+  "date_published": "2026-03-05T04:38:39-08:00",
+  "health_conditions": [
+    "greater tuberosity fracture (post-surgical)",
+    "tendon instability (shoulder)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "bpc",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "tb4",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "OP started on low dose BPC-157 (250 mcg) post-surgery for greater tuberosity fracture repair. Later bumped BPC dosage and has TB-4 (TB-500) on the way to add to protocol. Seeking additional options for bone and tendon healing.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112066Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "49ec957c-7c87-479b-a13c-bae070f489de",
+  "source_id": "1pivlj9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pivlj9/retatrutide_question/",
+  "author_hash": "4032419f8245d664a27bf1d0763204377c792c282b376b236380cb64b88ddb33",
+  "confidence_tier": 4,
+  "date_published": "2025-12-09T22:33:07-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "First 10mg bottle worked amazing at 2mg/week for 5 weeks; replacement 20mg bottle also worked well after discarding a degraded vial.",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Started getting really hungry after week 5 of a 20mg bottle, suggesting peptide degradation; hunger resolved after switching to a new vial.",
+      "severity": "significant",
+      "onset_days": 35,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started at 2mg/week. Used a 10mg vial for 5 weeks successfully. Then bought a 20mg vial; after week 5 experienced increased hunger and suspected degradation, discarded remaining half of vial and replaced it. Notes reconstituted Reta stability around 5 weeks based on personal experience (initially heard 1 month, revised to ~5 weeks).",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.261008Z"
+}

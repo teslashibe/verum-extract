@@ -1,0 +1,59 @@
+{
+  "id": "182b9c0f-c348-4a8e-aafe-164becc5db99",
+  "source_id": "1rsffnd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rsffnd/night_shift_work_new/",
+  "author_hash": "f9ad254eec7ab8fc21b1d1d141f45fe7a556dae2d01799e10d46b256565f3eed",
+  "confidence_tier": 5,
+  "date_published": "2026-03-12T23:07:11-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Pinealon",
+      "name_normalized": "pinealon",
+      "category": "cognitive",
+      "frequency": "cycled",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "frequency": "cycled",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "MOTS-c stack for energy"
+    },
+    {
+      "category": "sleep",
+      "description": "DSIP good for sleep; Pinealon and Epithalon provide long-term sleep benefits"
+    }
+  ],
+  "protocol_notes": "Recommending MOTS-c stack with glutathione for energy. Pinealon and Epithalon cycled for sleep with additional benefits.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.664749Z"
+}

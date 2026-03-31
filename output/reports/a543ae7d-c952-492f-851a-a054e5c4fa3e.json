@@ -1,0 +1,47 @@
+{
+  "id": "a543ae7d-c952-492f-851a-a054e5c4fa3e",
+  "source_id": "1rzuob8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzuob8/reta_failure/",
+  "author_hash": "fd1d5d0f05687a9ae7ee2e8b7313227a9522d64053388965e69b35e5140ca3f2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T08:43:18-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "as needed microdose",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "fatigued for weeks, understands it as body reversing from metabolic disorder",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 42
+    }
+  ],
+  "protocol_notes": "Experienced fatigue for approximately 4-6 weeks total until it resolved. Notes that fatigue and reduced appetite suppression are common; some people add microdose of cagrilintide (250mcg) if wanting additional appetite suppression. Has not drunk much since starting Retatrutide.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660279Z"
+}

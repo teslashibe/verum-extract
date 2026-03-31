@@ -1,0 +1,65 @@
+{
+  "id": "a5073d42-1b3a-4f9d-8a62-4b27bf4d2aab",
+  "source_id": "1rdykth",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdykth/any_downsides_to_switching_to_tirz_after_reta/",
+  "author_hash": "dba4ea20aa29f981d48af22dda49902555a26776aa09253cab74fdef483dad1d",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T16:52:12-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.2,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.08,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Prefers tirzepatide over retatrutide for weight loss",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Nasty joint pain from Retatrutide, unbearable after 3-4 weeks",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Insomnia from Retatrutide",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Currently running 1.2mg tirzepatide/0.08mg semaglutide 3x/week (3.6mg tirz/0.24mg sema per week). Previously used Retatrutide but switched due to intolerable side effects. Reports that side effects on Reta did not diminish over time, actually worsened.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.660193Z"
+}

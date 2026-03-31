@@ -1,0 +1,77 @@
+{
+  "id": "a427a7f4-a3d1-4f5c-bde5-b8cb098600cd",
+  "source_id": "op4oko",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/op4oko/epitalon/",
+  "author_hash": "9ee93acabfcfca14dc2a85a735f8a8b61398c1256a08c7a3e4bd45b4025fd007",
+  "confidence_tier": 4,
+  "date_published": "2021-07-21T19:23:32-07:00",
+  "health_conditions": [
+    "ulcerative colitis",
+    "restless leg syndrome"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 10,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Thymulin",
+      "name_normalized": "thymulin",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Improves sleep quality and resets circadian rhythm",
+      "severity": "significant"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Telomere lengthening when used at higher dosage for 10 days",
+      "severity": "significant"
+    },
+    {
+      "category": "longevity",
+      "description": "Potential lifespan extension benefits",
+      "severity": "moderate"
+    },
+    {
+      "category": "gut_health",
+      "description": "Good results with ulcerative colitis patients over several months",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Stopped restless leg syndrome in one patient after 10mg dosing for 10 days",
+      "severity": "significant",
+      "onset_days": 10
+    },
+    {
+      "category": "vision",
+      "description": "Patients reported better eyesight at end of 10 day protocol",
+      "severity": "mild",
+      "onset_days": 10
+    }
+  ],
+  "protocol_notes": "Uses 10mg subcutaneous daily for 10 days for telomere extension and anti-aging. Also uses 300mcg nightly before bed for sleep improvement. Typically does 10 day night course to reset circadian rhythm. Uses high dosage 2x yearly for telomere benefits. Has used both 10mg and lower dosages and reports 10mg makes a noticeable difference. Combines with Thymulin at 100mg daily for 10 days in optimal protocol. Only uses straight Epitalon from pharmacy compounding. Does not recommend long-term continuous use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.702668Z"
+}

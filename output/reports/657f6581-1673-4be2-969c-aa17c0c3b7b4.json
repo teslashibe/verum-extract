@@ -1,0 +1,44 @@
+{
+  "id": "657f6581-1673-4be2-969c-aa17c0c3b7b4",
+  "source_id": "1omu3fq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1omu3fq/trying_to_figure_out_how_much_glow_to_inject/",
+  "author_hash": "69746112fbd771d26aaba4ae1bd4d77bd5aec0bde71e12be74b2fad1c82c912d",
+  "confidence_tier": 4,
+  "date_published": "2025-11-02T13:54:25-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Dosing 2 mg every night with cycling off a few weeks.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.394577Z"
+}

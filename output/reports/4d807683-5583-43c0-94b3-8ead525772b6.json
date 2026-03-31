@@ -1,0 +1,46 @@
+{
+  "id": "4d807683-5583-43c0-94b3-8ead525772b6",
+  "source_id": "1m44bjy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m44bjy/cjcipa_impact_on_sleep_quality/",
+  "author_hash": "26d5e2a0b178fabaac1253259f514dbabfd51f7cdb77b92f6926593cce871a96",
+  "confidence_tier": 4,
+  "date_published": "2025-07-19T12:09:42-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "frequency": "morning and afternoon",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "morning and afternoon",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Morning and afternoon dosing works well without sleep disruption",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Bedtime dosing (30/60/90 minutes before bed) fucked up sleep",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Tested bedtime dosing (30, 60, and 90 minutes before bed) - all disrupted sleep. Successfully switched to morning and mid-afternoon pins. Requires careful meal timing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.74,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.403764Z"
+}

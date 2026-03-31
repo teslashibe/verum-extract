@@ -1,0 +1,52 @@
+{
+  "id": "f10fec7a-d23e-4ea2-83db-5ee31782b69c",
+  "source_id": "1kys9zo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kys9zo/brand_name_wegovy_worked_so_much_better_than/",
+  "author_hash": "dfe62150aaf057a68fef99251f81b9105e05868f99b9d0fb3cf40dbf897738c2",
+  "confidence_tier": 5,
+  "date_published": "2025-05-29T18:45:55-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Wegovy",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "compound semaglutide",
+      "name_normalized": "compound_semaglutide",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Consistently losing weight on Wegovy"
+    },
+    {
+      "category": "energy",
+      "description": "Had much more energy on brand name Wegovy compared to compounded semaglutide",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "No energy on compounded semaglutide version",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Gained a few pounds and plateaued after switching to compounded semaglutide",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Was on brand name Wegovy covered by insurance; switched to compounded semaglutide after insurance stopped covering Wegovy. Experienced plateau and weight gain on compounded version.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.282862Z"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "a6ef3c27-5bec-43b1-ac16-fd02e28731b3",
+  "source_id": "1mrif03",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mrif03/going_from_tirz_to_reta/",
+  "author_hash": "18aafa3fe68ee921af23ec161fe95acc297cd1329d379d42572b4d44b1fefa1a",
+  "confidence_tier": 4,
+  "date_published": "2025-08-15T19:40:45-07:00",
+  "training_status": "Bodybuilding",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Uses Reta to dump water",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Switching from Tirz to Reta resulted in poor appetite suppression; would be smashing cereal at night",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Fasting blood glucose suffered after switching to Reta from Tirz",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Fasting blood glucose"
+    }
+  ],
+  "protocol_notes": "Transitioned from Tirz to Reta; found the switch negative. States that at 7.5mg Tirz, would need at least 10mg Reta for any appetite suppression. Weight loss phase now over; currently doing straight bodybuilding. Tirz considered superior for bodybuilding context; Reta used only to reduce water retention.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.73,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.275341Z"
+}

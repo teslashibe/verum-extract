@@ -1,0 +1,44 @@
+{
+  "id": "9182bddc-3837-4005-bf40-dbc88d4a96af",
+  "source_id": "1s4rulr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4rulr/tesamorelin_at_small_dose/",
+  "author_hash": "abad6b9e752a02240b6ddc8747c26d60758a435da7ceda47305fb42321e6bb37",
+  "confidence_tier": 4,
+  "date_published": "2026-03-26T19:34:08-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Protocol worked great",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Taken daily first thing in the AM; user argues effectiveness is maintained or enhanced in morning dosing due to cumulative GH production post-night sleep.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.646353Z"
+}

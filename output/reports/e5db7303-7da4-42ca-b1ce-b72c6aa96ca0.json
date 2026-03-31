@@ -1,0 +1,38 @@
+{
+  "id": "e5db7303-7da4-42ca-b1ce-b72c6aa96ca0",
+  "source_id": "15k1uw7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/15k1uw7/ghkcu_experienxe/",
+  "author_hash": "cffed0beb88cecd51d9db08112cb37dae010e0e57d9e9fc3c9b01891e043af90",
+  "confidence_tier": 5,
+  "date_published": "2023-08-06T14:55:27-07:00",
+  "health_conditions": [
+    "anhedonia"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "no longer has anhedonia",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Takes both BPC-157 and GHK-Cu (specific protocol details not provided). Benefit from BPC at first according to user.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.28,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.420471Z"
+}

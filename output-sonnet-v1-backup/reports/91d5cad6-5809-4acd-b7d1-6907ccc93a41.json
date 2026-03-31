@@ -1,0 +1,84 @@
+{
+  "id": "91d5cad6-5809-4acd-b7d1-6907ccc93a41",
+  "source_id": "1k8sg4z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k8sg4z/peptides_for_skin/",
+  "author_hash": "3d0f473836d4632f92fc27188169f6f08fccb23c020198252a83872dfe610f03",
+  "confidence_tier": 4,
+  "date_published": "2025-04-26T18:25:30-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1.2,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "IU",
+      "frequency": "1x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2-3x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2-3x daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Skin on entire body became incredibly soft and elastic, described as 'like butter'. Forehead wrinkles dramatically improved, skin around eyes looks much better. Lips went from slightly dry and cracked to completely healthy and soft.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Previously used Ipamorelin and CJC-1295 (100mcg each, 2-3x daily) before switching to HGH. Switched from secretagogues to somatotropin due to belief that secretagogues may not significantly increase GH production at his age/genetics, and found HGH on sale. Started HGH at 2IU and increased to 3IU daily. No blood tests performed. Acknowledges that testing would be intelligent.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.285064Z"
+}

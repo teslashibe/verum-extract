@@ -1,0 +1,34 @@
+{
+  "id": "f9ee36d7-a819-40c8-9878-9b5ca0fe697f",
+  "source_id": "1oa10ew",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oa10ew/ghk_cu/",
+  "author_hash": "cb572056db326e179cd476fd82837fa260f42ec83e62a80984480b6a618791ec",
+  "confidence_tier": 5,
+  "date_published": "2025-10-18T09:58:24-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Burn at injection site; reconstituted 100mg vial with 3ml then transferred into 10mg vial of bac water to reduce the burn",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Reconstituted 100mg with 3ml BAC water then transferred into a 10mg vial of BAC water to reduce burn. Dosing 2-4mg per day.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.267651Z"
+}

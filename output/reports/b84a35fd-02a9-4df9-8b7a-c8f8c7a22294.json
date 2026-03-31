@@ -1,0 +1,45 @@
+{
+  "id": "b84a35fd-02a9-4df9-8b7a-c8f8c7a22294",
+  "source_id": "zekr0e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/zekr0e/bpc_for_ibsyes/",
+  "author_hash": "689220e2187389502d77685989d417656afcb1f277c3d9f0cf05e9f6ad8ee57c",
+  "confidence_tier": 4,
+  "date_published": "2022-12-06T14:50:57-08:00",
+  "health_conditions": [
+    "IBS"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "1x daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "IBS resolved, no longer needed Imodium",
+      "severity": "significant",
+      "onset_days": 5
+    }
+  ],
+  "protocol_notes": "BPC-157 5mg in 2.5ml bac-water. Used subcutaneously for shoulder injury, then added 300mcg oral dosing at night for IBS. Previously using 6 Imodium daily due to dehydration from IBS.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.129228Z"
+}

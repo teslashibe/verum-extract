@@ -1,0 +1,58 @@
+{
+  "id": "ee5fb536-9316-489e-aafc-55c3dd341a95",
+  "source_id": "1rmquwa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmquwa/36_days_in/",
+  "author_hash": "898129b0e8a84e4f09c875b7c307442327f6c593d45a8abae5233416c8865f4b",
+  "confidence_tier": 4,
+  "date_published": "2026-03-06T13:32:36-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 192,
+    "unit": "lbs"
+  },
+  "training_status": "physically active (12 hr/day drill line work)",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "IU",
+      "frequency": "every 5 days",
+      "cycle_length_days": 36,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "dose_value": 15,
+      "dose_unit": "IU",
+      "frequency": "5 days a week",
+      "cycle_length_days": 36,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "frequency": "every day",
+      "cycle_length_days": 36,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 28 lbs (192 to 164) in 36 days, combined with quitting alcohol, OMAD diet, and heavy physical labor",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started February 2nd. Quit drinking, works 12 hours a day on a drill line, eats one meal a day (small), drinks protein shakes. Height 5'8\". Weight went from 192 to 164 lbs over 36 days.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.111528Z"
+}

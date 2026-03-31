@@ -1,0 +1,51 @@
+{
+  "id": "3b9b441b-9ac8-4e0a-92ad-b6012ffd4e9b",
+  "source_id": "1r112tw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r112tw/once_or_twice_a_day_cjc1295_ipamorelin/",
+  "author_hash": "39adc99f8dc7f35ac0cce8f448f8d4e112a543d38eb2a16634bb6739c35131ef",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T05:43:07-08:00",
+  "training_status": "active gym goer",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC (no DAC)",
+      "name_normalized": "cjc_no_dac",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "1x/day (current and previous cycles)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "1x/day (current and previous cycles)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Slept way better on first two cycles; lost sleep benefits when switching to 2x/day",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Was able to push harder in the weight room",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Probably resulted indirectly in a few extra pounds of muscle gain",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Third cycle; first two cycles at 1x/day yielded good results. Tried 2x/day with slightly higher total daily dose in this cycle and did not like it — lost sleep benefits. Reverted back to 1x/day. Suspects current batch may be a dud as results are worse than prior cycles.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.119763Z"
+}

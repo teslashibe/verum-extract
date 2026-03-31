@@ -1,0 +1,42 @@
+{
+  "id": "378c4a48-ed08-4a60-a45f-d95ad4e78930",
+  "source_id": "1ryvfnj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ryvfnj/post_surgery/",
+  "author_hash": "6ce18c96860c317342c8c55ab3d1916164b6a215778a644d5310d6cd3b02408d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-20T05:53:01-07:00",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "before bed",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Fast healing post-surgery"
+    }
+  ],
+  "protocol_notes": "Commenter suggests 500mcg twice a day or 1mg before bed for post-surgery healing. This appears to be protocol advice rather than personal experience report.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660834Z"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "c391e921-5f19-4625-b229-82ded9e9d5a6",
+  "source_id": "o4xqfn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/o4xqfn/started_bpc_yesterday/",
+  "author_hash": "400057fb0cfea2f9905c1ffb63acb55831227f1e3f905b79d08a1e90dd29b0b3",
+  "confidence_tier": 4,
+  "date_published": "2021-06-21T08:28:37-07:00",
+  "training_status": "returning to gym after 5 months off",
+  "health_conditions": [
+    "tennis elbow",
+    "golfers elbow"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 7,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Resolved tennis elbow and golfers elbow after being out of gym/sports for 5 months with severe pain",
+      "severity": "significant"
+    },
+    {
+      "category": "pain_relief",
+      "description": "Could not wipe face or open doors without pain, now 3 days back into gentle lifting",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started with oral BPC-157 at 250mcg morning and night. After some time (not specified), transitioned to injecting 400mcg morning and night with TB-500 7mg per week. 5 weeks in total.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.131169Z"
+}

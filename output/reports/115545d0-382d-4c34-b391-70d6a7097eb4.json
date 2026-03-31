@@ -1,0 +1,60 @@
+{
+  "id": "115545d0-382d-4c34-b391-70d6a7097eb4",
+  "source_id": "15zt2no",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/15zt2no/30lbs_gone_with_semaglutide/",
+  "author_hash": "4cac2debd6b53433dd2269c77a910e489e00b33a15bd9151062f5009f50609a8",
+  "confidence_tier": 4,
+  "date_published": "2023-08-23T22:58:06-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "25-29",
+  "training_status": "sedentary before; now walks frequently, minimal resistance training",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "30 lbs lost in ~3 months (May 28 start date, post dated Aug 23). Body composition scans showed 22 lbs of fat lost, 8 lbs of muscle lost.",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Cut out all sweets because they no longer taste good; reduced overall appetite",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Became much more active after weight loss; transitioned from extremely sedentary to wanting to do activities",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_composition_fat",
+      "unit": "lbs",
+      "timeframe_days": 90
+    },
+    {
+      "marker_name": "body_composition_muscle",
+      "unit": "lbs",
+      "timeframe_days": 90
+    }
+  ],
+  "protocol_notes": "Started May 28th. Titrated to 1mg weekly. Lifestyle: walks frequently (family walks after dinner nightly), drinks half gallon of water daily, increased protein and produce intake, cut out sweets. Had to quit and became pregnant during cycle. Used DEXA or similar body composition scans (mentioned 'two scans').",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.700922Z"
+}

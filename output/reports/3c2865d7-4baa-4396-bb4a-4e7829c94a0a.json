@@ -1,0 +1,81 @@
+{
+  "id": "3c2865d7-4baa-4396-bb4a-4e7829c94a0a",
+  "source_id": "1n5cz5m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n5cz5m/melanotan_overdose/",
+  "author_hash": "5bba06a2df3e63d7b281aec5c7e42bc691d2b6ac248cf3878d0b464bfe39e670",
+  "confidence_tier": 4,
+  "date_published": "2025-08-31T19:29:41-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "single dose",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Instant flushing upon injection",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "libido_change",
+      "description": "Sustained erection lasting 5-6 hours, painful at end, continued upon waking",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "appetite_change",
+      "description": "Complete loss of appetite following injection",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "muscle_cramp",
+      "description": "Uncontrollable full body stretches every 5-10 seconds lasting several hours",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "nausea",
+      "description": "Nausea experienced the following morning, lasted a couple hours at work",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true
+    },
+    {
+      "category": "fatigue",
+      "description": "Body ached like having the flu the following morning",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Uncontrollable yawning",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Accidental overdose - user intended to inject 5mg MOTS-c but injected Melanotan II instead due to unlabeled vials. Erection lasted 5-6 hours initially, with continued episodes upon waking the next morning. Yawning and stretching were particularly uncomfortable. Recovered by sleeping it off, appetite returned slightly by next day.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.95,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.683151Z"
+}

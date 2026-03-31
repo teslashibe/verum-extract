@@ -1,0 +1,58 @@
+{
+  "id": "1e00e5b3-de16-4cfa-80cc-491c12f2d6c5",
+  "source_id": "1r1md35",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r1md35/reta_weight_stall_fast/",
+  "author_hash": "10b2bf67711c7ef08d2bc4c38423cd62bb15fa254f280276cf673ced30751136",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T19:28:03-08:00",
+  "reported_weight": {
+    "value": 187,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Rapid drop from ~187 lbs to 175 lbs within 3-4 weeks. Currently at leanest point in user's life. Subsequent weight loss less dramatic and more variable.",
+      "severity": "significant",
+      "onset_days": 21
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Variable appetite suppression effects from day to day, only stabilizing at week 6.",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 42
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_weight",
+      "value_before": 187,
+      "value_after": 175,
+      "unit": "lbs",
+      "timeframe_days": 21
+    }
+  ],
+  "protocol_notes": "Started at 1mg, titrated to 2.5mg during early weeks when still experiencing significant weight loss and no side effects. Maintains ~1000 calorie deficit. Now at personal leanest point, notes weight loss plateau and increased variability, hypothesizing this relates to being at very low body fat.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665005Z"
+}

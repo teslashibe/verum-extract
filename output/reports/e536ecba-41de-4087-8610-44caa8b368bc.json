@@ -1,0 +1,46 @@
+{
+  "id": "e536ecba-41de-4087-8610-44caa8b368bc",
+  "source_id": "1mteslc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mteslc/struggling_with_sleeping_on_retra/",
+  "author_hash": "ab4f4dd43b27cc7b3d34b8d43f332d73d66e280bda9061665c5116887d808ee7",
+  "confidence_tier": 4,
+  "date_published": "2025-08-17T23:55:44-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Trazodone",
+      "name_normalized": "trazodone",
+      "category": "other",
+      "route": "oral",
+      "dose_unit": "mg",
+      "frequency": "lower dose",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "unable to fall asleep and stay asleep",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Using lower dose trazodone. Sermorelin made dreams more vivid but sleep not more restful. Considering DSIP for sleep improvement.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.684336Z"
+}

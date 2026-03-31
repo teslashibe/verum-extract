@@ -1,0 +1,57 @@
+{
+  "id": "e166197d-f59d-4c3c-ad1f-52a1395b53ea",
+  "source_id": "1r18dkl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r18dkl/bulk_peptide_purchasing_question_tirz_reta/",
+  "author_hash": "d029dd8a66a27a4ab1e947e32e71df0aa72fc118873e4d703c7b288f10a49693",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T10:14:03-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Dyskinesia that would not stop for approximately 1.5 weeks after switching from reta to tirz; involved significant vomiting and extreme pain; required hospitalization",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 10
+    },
+    {
+      "category": "nausea",
+      "description": "Extreme vomiting associated with dyskinesia episode after switching to tirz",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 10
+    },
+    {
+      "category": "other",
+      "description": "Dysesthesia - skin felt like it was on fire, extreme hot/cold sensations, had to stand in shower to feel normal temperature",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "appetite_change",
+      "description": "Could not eat for over a week after switching to tirz",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Was on reta with no issues. After switching to tirz (abrupt switch implied), developed dyskinesia, extreme vomiting, dysesthesia, and inability to eat for over a week. Required hospitalization. All resolved. Warns others to be careful when switching from reta to tirz.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.119582Z"
+}

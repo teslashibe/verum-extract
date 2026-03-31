@@ -1,0 +1,42 @@
+{
+  "id": "17c5f855-07ef-4903-9053-f152eec7e8c7",
+  "source_id": "1keurvb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1keurvb/glow_help/",
+  "author_hash": "aebce12f78bd763d175ff3762ae575c8fb0cf8446130506b1884d451f4e0b584",
+  "confidence_tier": 4,
+  "date_published": "2025-05-04T14:21:11-07:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1.6,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Pre-mixed blend: 70mg vial (8mL) containing GHK-Cu 50mg + TB-500 10mg + BPC-157 10mg. Planning to add 4mL bacteriostatic water and inject 13 units daily. User seeking dosing frequency guidance.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.40859Z"
+}

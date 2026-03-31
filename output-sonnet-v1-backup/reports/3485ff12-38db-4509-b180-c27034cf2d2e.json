@@ -1,0 +1,100 @@
+{
+  "id": "3485ff12-38db-4509-b180-c27034cf2d2e",
+  "source_id": "15k1uw7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/15k1uw7/ghkcu_experienxe/",
+  "author_hash": "cc3d793a28941629bd6374b342a5c2b4c3da3f11e1a2ff014a6f103f83b5d99f",
+  "confidence_tier": 4,
+  "date_published": "2023-08-06T14:55:27-07:00",
+  "reported_age_range": "50-59",
+  "health_conditions": [
+    "post surgery knee recovery",
+    "meniscus tears (surgically cut out)",
+    "arthritis in both knees",
+    "bone on bone in non-surgery knee"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "1x daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-cu topical (Neel 3%)",
+      "name_normalized": "ghk_cu_topical_neel_3",
+      "category": "other",
+      "route": "topical",
+      "frequency": "3x daily (first month), then 2x daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SNAP 8",
+      "name_normalized": "snap_8",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Visible improvement in jawline definition and neck area skin tightening over 6-week period",
+      "severity": "moderate",
+      "onset_days": 42
+    },
+    {
+      "category": "skin",
+      "description": "Improved skin elasticity; seeking to avoid saggy skin during weight loss",
+      "severity": "moderate"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Post-surgery knee recovery; doing well in PT after meniscus tear surgery",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Severe burning and pain at injection site when GHK-cu reconstituted with only 1 ml BAC water; injection site hurt for at least 2.5 weeks",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 17
+    },
+    {
+      "category": "other",
+      "description": "DMSO caused skin stinging; discontinued",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "GHK-cu reconstituted with 4 ml BAC water to reduce injection site pain. Combined GHK-cu and BPC157 in same syringe to avoid stinging. Topical GHK-cu used on face and neck using Neel 3% commercial product. Planning SNAP 8 topical for marionette and glabellar lines. Lost ~12 lbs during the 6-week peptide period; ~20 lbs total since May on Tirzepatide. Cannot use GHK/copper peptides and retinol-A simultaneously. Plans to cycle off topical for 3-4 weeks and use retinol serum in off cycle.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.297278Z"
+}

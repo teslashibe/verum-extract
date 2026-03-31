@@ -1,0 +1,54 @@
+{
+  "id": "a0bde752-ee7a-42eb-88bf-23bf256408b8",
+  "source_id": "1pa5lyl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pa5lyl/opinions_on_my_current_stack/",
+  "author_hash": "a03e6b59a1d87b3b04cc0aa975c1472038b7e336efc82479733bfa603e62218e",
+  "confidence_tier": 4,
+  "date_published": "2025-11-29T17:28:00-08:00",
+  "training_status": "Lifting 5x/week, cardio 6 days/week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "mid-week (half dose initially, titrating up to 4mg/week)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Losing weight; adding Reta mid-week pushed past a stall felt at 2.5mg/week Tirz",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Gaining muscle while on the combined GLP protocol",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Reports having good energy on current protocol",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User transitioned from Tirz-only to a Tirz + Reta overlap stack by slowly adding half-dose Reta mid-week while finishing remaining Tirz supply. Plans to move to 4mg Reta/week once Tirz supply is exhausted. Reports no sides with this approach.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.262589Z"
+}

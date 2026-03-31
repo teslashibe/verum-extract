@@ -1,0 +1,38 @@
+{
+  "id": "ad7aee0d-86f3-416a-8253-d55f2cf3edce",
+  "source_id": "1rrf1qv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rrf1qv/can_i_put_motsc_and_ghkcu_in_the_same_syringe/",
+  "author_hash": "1b9bbfcb72e935329824301ef769c2964f8912c92efbf428f753e863d26153d4",
+  "confidence_tier": 5,
+  "date_published": "2026-03-11T19:49:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "GHK-Cu causes stinging/spiciness when injected at high concentrations; dilution reduces this effect. KPV is a mast cell stabilizer which helps reduce stinging.",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "GHK-Cu stinging is concentration-dependent. Mixing with other peptides dilutes it and reduces sting. KPV stacked with GHK-Cu acts as a mast cell stabilizer to further reduce discomfort. Recommends trying peptides separately first to identify which causes any reaction.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.653129Z"
+}

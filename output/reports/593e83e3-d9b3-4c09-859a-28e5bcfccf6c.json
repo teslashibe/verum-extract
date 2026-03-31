@@ -1,0 +1,32 @@
+{
+  "id": "593e83e3-d9b3-4c09-859a-28e5bcfccf6c",
+  "source_id": "1qvth9x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qvth9x/cagri/",
+  "author_hash": "21b7ef4bccff7099edc2ac488dd5d4c33cd805536f94cfdab6bdd52f90c3a88e",
+  "confidence_tier": 4,
+  "date_published": "2026-02-04T08:39:30-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "variable, 2-4mg per week",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Super responder to Retatrutide. Cagrilintide had minimal effect. Adjusts dosing based on hunger levels.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.667181Z"
+}

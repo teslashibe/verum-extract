@@ -1,0 +1,95 @@
+{
+  "id": "e7d5ff93-29db-4969-b7da-d6a18a5f8feb",
+  "source_id": "1rb5vbn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rb5vbn/cjcno_dacipam_scary_effects_normal/",
+  "author_hash": "c77d727994914cb44c2b6d285994370aed30d453fc88c09d68b80e1fb8ef1ae5",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T15:25:23-08:00",
+  "health_conditions": [
+    "allergic to CJC-1295 or Ipamorelin"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "nasal",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "nasal",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Semax, Selank, KPV and BPC-157 work well with no issues",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Allergic to one or the other (CJC or Ipamorelin). Itching and redness at injection site every time",
+      "severity": "moderate"
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "Allergic reactions to AOD-9604 and NAD+",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User has allergies to multiple peptides including CJC/Ipamorelin, AOD-9604, and NAD+. Tolerates Semax, Selank, KPV, and BPC-157 well.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.673626Z"
+}

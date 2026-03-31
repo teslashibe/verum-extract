@@ -1,0 +1,53 @@
+{
+  "id": "1d413c7c-0912-472f-a3bf-888f1ae2717f",
+  "source_id": "1rayuvi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rayuvi/look_for_libido_boost_help/",
+  "author_hash": "f6bd9a1b6d6c87dab0b223a71612f9218c6419fd332a74e705071cf3da0d373d",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T10:39:16-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "30-39",
+  "health_conditions": [
+    "low libido"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "pt-141 nasal",
+      "name_normalized": "pt_141_nasal",
+      "category": "other",
+      "route": "nasal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "kisspeptin",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "dose_value": 0.1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "oxytocin",
+      "name_normalized": "oxytocin",
+      "category": "hormonal",
+      "dose_value": 33,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Felt extremely hot, thought brain was going to explode for about 3 minutes after taking kisspeptin and oxytocin",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "First-time use. Has 10mg kisspeptin in 3ml bac water and 10mg oxytocin in 3ml bac water. Lost 5 stone 2 years ago. BMI 21. Previously tried Melanotan II with sunbeds without results. Considering switching from nasal to subq PT-141 after learning about bioavailability difference.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.116134Z"
+}

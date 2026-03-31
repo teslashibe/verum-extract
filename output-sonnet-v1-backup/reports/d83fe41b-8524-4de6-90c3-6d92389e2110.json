@@ -1,0 +1,60 @@
+{
+  "id": "d83fe41b-8524-4de6-90c3-6d92389e2110",
+  "source_id": "1pghwaa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pghwaa/1_week_of_epitalon/",
+  "author_hash": "648b846c49d0fb3df90104e9cd3996c46a9973235e23490c3a7846caa6bb1dd4",
+  "confidence_tier": 4,
+  "date_published": "2025-12-07T05:04:51-08:00",
+  "compounds": [
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep has improved",
+      "severity": "moderate"
+    },
+    {
+      "category": "cognitive",
+      "description": "Focus has improved",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Energy is up",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Getting leaner while on a diet with reta",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "HRV increased significantly per sleep tracker",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "OP used 20mg/night pre-bed for 1 week. Many commenters noted this dose is approximately 20-40x higher than recommended, and that the high mg dosing is based on a mistranslated Russian protocol intended for Epithalamin (a cruder pineal extract), not synthetic Epitalon. OP also stacking with a retатide (reta) for fat loss. OP shared dosing protocol and results via imgur links.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.261429Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "e10e1dbb-d02d-4620-a808-8171faa5dc43",
+  "source_id": "1q8vtvc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q8vtvc/red_welt_post_pin/",
+  "author_hash": "51b6168e6b1c19bf73673b41a3ff99ff34617e7f8c257ee76befd806e90bf733",
+  "confidence_tier": 4,
+  "date_published": "2026-01-09T21:33:17-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Quarter-sized red welt circle at injection site approximately 12 hours post injection, suspected histamine response",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Used 1/4 inch 31G syringe, injected in ventral glute area. Was previously using 2mg, went up to 2.5mg the day before, then 3mg on day of post. Commenter suggested taking Benadryl 30 min before injection and reducing to 1mg per day.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.255613Z"
+}

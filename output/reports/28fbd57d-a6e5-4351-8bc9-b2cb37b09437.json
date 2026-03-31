@@ -1,0 +1,72 @@
+{
+  "id": "28fbd57d-a6e5-4351-8bc9-b2cb37b09437",
+  "source_id": "11zpt0y",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/11zpt0y/repost_chronic_idiopathic_duodenal_ulcer_and/",
+  "author_hash": "d80201f698bbacfe4548297b2241416cdadf98a8a31d3df992c22b49544f9a9b",
+  "confidence_tier": 3,
+  "date_published": "2023-03-23T09:38:33-07:00",
+  "health_conditions": [
+    "chronic idiopathic duodenal ulcer"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Complete healing of chronic idiopathic duodenal ulcer confirmed by endoscopy with imaging showing pink, healthy stomach lining with no wounds",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "pain_relief",
+      "description": "Felt better within 2-3 days of switching to oral arginine salt BPC-157; much better after a few weeks",
+      "severity": "significant",
+      "onset_days": 2
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "endoscopy finding - ulcer status",
+      "unit": "qualitative",
+      "timeframe_days": 180
+    }
+  ],
+  "protocol_notes": "Initial protocol: acetate salt BPC-157 injected subcutaneously for ~2 months with no noticeable effect. Later switched to arginine salt BPC-157 taken orally, which produced rapid improvement. Arginine salt described as 'stabilized' to resist heat, acid, and UV. Also taking vitamins. Concurrent medication: omeprazole initially, then switched to Nexium (esomeprazole) at maximum dose 40mg daily for 2+ years prior to peptide intervention. Continued on 40mg Nexium throughout peptide treatment. Originally hired a biohacking coach who recommended the initial acetate salt protocol and did not understand the distinction between acetate and arginine salt formulations.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.701598Z"
+}

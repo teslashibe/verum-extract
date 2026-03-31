@@ -1,0 +1,44 @@
+{
+  "id": "23a4a61f-58af-4583-8a90-73deff5f926e",
+  "source_id": "1q71r9t",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q71r9t/keloid_scar_unexpectedly_fading/",
+  "author_hash": "5ca44e83b2effc1fee1f66898a062129b8c17c5cea945d81dd1f382d66b8495c",
+  "confidence_tier": 4,
+  "date_published": "2026-01-07T20:07:17-08:00",
+  "health_conditions": [
+    "keloid scar on face from old pimple (20 years old)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Keloid scar on face reduced in size by over half in less than 4 weeks after starting GHK-Cu. Visible reduction: previously could fit bump under fingernail, now cannot. Scar barely noticeable in comparison photos taken Dec 15 and current date (within ~2-4 weeks).",
+      "severity": "significant",
+      "onset_days": 28
+    }
+  ],
+  "protocol_notes": "Started Tirzepatide in October 2025 (dosage unknown). Started GHK-Cu 2.5mg daily in December 2025. Keloid reduction not noticed until after GHK-Cu initiation. Attributes improvement to GHK-Cu based on timing. Documented with before/after photos at consistent lighting and angle (Dec 15 baseline). User notes scientific literature exists on GHK-Cu and keloid scar reduction.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.671573Z"
+}

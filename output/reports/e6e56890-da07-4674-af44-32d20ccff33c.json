@@ -1,0 +1,44 @@
+{
+  "id": "e6e56890-da07-4674-af44-32d20ccff33c",
+  "source_id": "1ivp3ru",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ivp3ru/on_tirz_for_7_months_adding_sema_to_mix/",
+  "author_hash": "86b8b47c6dc4c1330f06e1ac05220a9606485f57055ecb7dc27243491bbe2231",
+  "confidence_tier": 4,
+  "date_published": "2025-02-22T10:14:00-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "1x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "every other day (2 days apart)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Pretty good results",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Current stack with retatrutide and semaglutide. Reports good results.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.69382Z"
+}

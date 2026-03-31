@@ -1,0 +1,42 @@
+{
+  "id": "ac922429-2784-4ee8-b60a-ef1cd1bab755",
+  "source_id": "1s74bbc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s74bbc/motsc_dosage_with_reta/",
+  "author_hash": "b7ee1e5d156135bbb5ffc63cf6384abd344d583afa549a43849731707a40ece7",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T12:23:13-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "blood_sugar",
+      "description": "Improves glucose uptake into muscle cells and insulin sensitivity"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Improved glucose metabolism, higher energy expenditure, reductions in fat accumulation"
+    }
+  ],
+  "protocol_notes": "Currently running MOTS-c in the morning while on retatrutide. Takes it fasted or with food, states it doesn't matter as long as it is taken. Mentions fasted/pre-training optimization but not necessary.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.656008Z"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "157a1b7f-02f8-4107-b87a-343a400b3b6b",
+  "source_id": "1lg9hnj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lg9hnj/peptides_to_shred_down_that_really_work/",
+  "author_hash": "e60f2b1f4b011e7a38af87086655aab34d151cdbfe18105cdfb65321c7184ebb",
+  "confidence_tier": 4,
+  "date_published": "2025-06-20T10:14:30-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "training_status": "athlete, running ~30 miles/week, 3 gym sessions/week",
+  "health_conditions": [
+    "injured",
+    "requiring surgery"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone"
+    },
+    {
+      "marker_name": "cortisol"
+    }
+  ],
+  "protocol_notes": "Currently using Ipamorelin/CJC-1295 stack and GHK-Cu. Running low-carb diet (~2000 kcal, 200g protein daily). Test levels at absolute lower range for 30-year-old athlete. Cortisol elevated at upper limit but within range. Considering TRT but concerned about fertility (wants another child in 2-3 years). Concerned about heart rate increase from GLP agonists affecting cardio performance.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.405769Z"
+}

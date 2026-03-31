@@ -1,0 +1,66 @@
+{
+  "id": "d76e3cef-dc18-4627-b3cf-cf32470c28ef",
+  "source_id": "1f2qj0w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1f2qj0w/bpc157_is_like_a_magic_shot_pain_eraser/",
+  "author_hash": "8984da13d5331d33dbd473d7d3b7ad0cac043a0553bc15303bd1940ed39fe97b",
+  "confidence_tier": 4,
+  "date_published": "2024-08-27T12:55:03-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Zero burn during injection and after mixing BPC-157 and TB-500 with NAD+ and GHK-Cu. Complete elimination of injection pain.",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Significant burning pain from NAD+ injections lasting hours, exacerbated with GHK-Cu",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Uses GLOW protocol (BPC-157 and TB-500 combination). Mixed 500mcg total (250mcg BPC + 250mcg TB-500) into 300mg NAD+ to eliminate injection pain. Also eliminates pain from GHK-Cu injections. Uses multi-peptide calculator for dosing. Injects 20 units of final blend containing approximately 1670mcg GHK-Cu per dose across 15 total doses. Takes 2-3 zinc supplements per week at 30mg each. Least sensitive injection site is upper thigh between outside and front area.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696557Z"
+}

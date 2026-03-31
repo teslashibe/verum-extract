@@ -1,0 +1,36 @@
+{
+  "id": "8004fb30-db07-415a-a69b-f0c68818b248",
+  "source_id": "111ndl0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/111ndl0/bpc157_really_is_a_miracle_drug/",
+  "author_hash": "2ecdf96db4cdba546a47f6017ea991078621f735b84d9374556b165ca14cb563",
+  "confidence_tier": 4,
+  "date_published": "2023-02-13T15:23:53-08:00",
+  "health_conditions": [
+    "shoulder injury"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 25,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Healed shoulder injury over the course of one bottle (10mg total at 400mcg/day)",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Purchased 10mg bottle for ~$20 in Poland. Used 400mcg per day until bottle empty (approximately 25 days).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.427856Z"
+}

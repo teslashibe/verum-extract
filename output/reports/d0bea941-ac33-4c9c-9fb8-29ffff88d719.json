@@ -1,0 +1,48 @@
+{
+  "id": "d0bea941-ac33-4c9c-9fb8-29ffff88d719",
+  "source_id": "1enmty8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1enmty8/bpc157_and_ghkcu_have_changed_my_life/",
+  "author_hash": "65eeb73ef0c1f71ad96b9840c0356d08639da41d5c18c9df149821a65a7cea6c",
+  "confidence_tier": 4,
+  "date_published": "2024-08-08T18:10:35-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Recovery and skin quality was off the charts",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Mixed GHK-Cu, BPC-157, and TB-500 together in a protocol referred to as 'GLOW protocol'. 6 week cycle (42 days) followed by 4 week break before restarting.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696855Z"
+}

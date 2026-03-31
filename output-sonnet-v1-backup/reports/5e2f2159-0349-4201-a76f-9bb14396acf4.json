@@ -1,0 +1,48 @@
+{
+  "id": "5e2f2159-0349-4201-a76f-9bb14396acf4",
+  "source_id": "1b7mwv8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1b7mwv8/how_many_of_you_have_experienced_permanent/",
+  "author_hash": "f5f655c3489b9cf6c3ce92ccdf1b513ca7ee44fe7ff2d58579f6f37dfeaac2f5",
+  "confidence_tier": 5,
+  "date_published": "2024-03-05T17:28:54-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "semaglutide (prescription Wegovy)",
+      "name_normalized": "semaglutide_prescription_wegovy",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "semaglutide (peptide supplier)",
+      "name_normalized": "semaglutide_peptide_supplier",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost weight on both prescription and peptide supplier semaglutide at same dosages"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression on both formulations at same dosages"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Constipation/nearly impossible to poop on prescription Wegovy; no constipation issues with peptide supplier semaglutide",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Notes dramatically different side effect profiles between prescription Wegovy and peptide supplier semaglutide at the same dosages",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294499Z"
+}

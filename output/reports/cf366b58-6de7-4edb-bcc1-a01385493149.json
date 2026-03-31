@@ -1,0 +1,59 @@
+{
+  "id": "cf366b58-6de7-4edb-bcc1-a01385493149",
+  "source_id": "1ogwxmc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ogwxmc/bpc_157_oral_pills/",
+  "author_hash": "c061212604d63a371dbc3c8646f8bcddca9219643811b4e33b46dcf1d1d6c21d",
+  "confidence_tier": 4,
+  "date_published": "2025-10-26T14:46:12-07:00",
+  "health_conditions": [
+    "plantar fasciitis",
+    "ulnar neuropathy"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Fixed plantar fasciitis",
+      "severity": "significant"
+    },
+    {
+      "category": "nerve_health",
+      "description": "Fixed ulnar neuropathy",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Stack includes BPC-157 250mcg daily, TB-500 1mg twice weekly, and KPV. Notes KPV is 'the real deal' for treating neuropathy.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.395002Z"
+}

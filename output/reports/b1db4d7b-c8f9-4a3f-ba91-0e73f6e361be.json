@@ -1,0 +1,41 @@
+{
+  "id": "b1db4d7b-c8f9-4a3f-ba91-0e73f6e361be",
+  "source_id": "1nsq3ll",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nsq3ll/motsc_is_the_golf_peptide/",
+  "author_hash": "e2041e585bcb1c9a1c2fd1ec1e90e5ba8766b43f1661a08736384117e0386be8",
+  "confidence_tier": 4,
+  "date_published": "2025-09-28T07:43:44-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Clenbuterol",
+      "name_normalized": "clenbuterol",
+      "category": "other",
+      "dose_value": 20,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Taking 1mg daily doesn't produce as much high-energy effect as reported by others",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Reports 1mg daily doesn't feel as energetic as claimed. Gets more energy from 20mcg clenbuterol. Questions if 3mg per day is too high dose.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.396908Z"
+}

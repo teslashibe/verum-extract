@@ -1,0 +1,62 @@
+{
+  "id": "99b9c12e-83b8-4eea-9067-1bfacf6857ed",
+  "source_id": "1rj6gis",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rj6gis/time_between_cycles/",
+  "author_hash": "ab6f747e30770ffcfc758e385865bd0b653d33e607ab6ec40cda4b76810cf52d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T13:52:07-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "1-2 times daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "1-2 times daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "growth and recovery optimization"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    },
+    {
+      "marker_name": "fasting glucose"
+    },
+    {
+      "marker_name": "A1C"
+    },
+    {
+      "marker_name": "lipids"
+    }
+  ],
+  "protocol_notes": "Recommends 4-8 weeks off between cycles with lab work before next cycle. Tesamorelin taken at night (2-3 hours fasted after last meal). CJC/Ipamorelin taken in morning (fasted up to 2 hours). Dosing: 200mcg per compound (400 total if blend), 1-2x daily, reduce to 1x daily if stacking with Tesamorelin. DAC vs no-DAC variants noted as affecting dosing protocols.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.657869Z"
+}

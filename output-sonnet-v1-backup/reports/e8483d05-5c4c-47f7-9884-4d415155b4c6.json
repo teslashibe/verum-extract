@@ -1,0 +1,52 @@
+{
+  "id": "e8483d05-5c4c-47f7-9884-4d415155b4c6",
+  "source_id": "1r48y64",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r48y64/ss31_making_me_super_sleepy_after_taking_nad_for/",
+  "author_hash": "0301346652e01da8fb2abdcd58e90e231fbb88545ea38853490ace8bbdfebc03",
+  "confidence_tier": 4,
+  "date_published": "2026-02-13T18:43:32-08:00",
+  "reported_age_range": "25-29",
+  "training_status": "very lean and active",
+  "health_conditions": [
+    "Addison's Disease"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily titration",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "NAD+ alone produces a remarkable improvement in energy/fatigue",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Sedative/super sleepy effect when SS-31 dose reached 1.5-2.5mg range, taken around lunchtime",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "OP titrated SS-31 daily starting from low doses, felt no benefit at 0.5-1.5mg range, started experiencing sedation at 1.5-2.5mg. Had been using NAD+ for approximately two weeks prior to starting SS-31. Motivated by Addison's Disease and potential mitochondrial damage/reduced ATP production.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.118238Z"
+}

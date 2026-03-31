@@ -1,0 +1,42 @@
+{
+  "id": "5c751ba4-4862-4d2a-a41d-d3b3d5c00a88",
+  "source_id": "1qthsy0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qthsy0/switching/",
+  "author_hash": "7193590f89b62728ec2370a412babbd9a61fb94ebe00648afd2949381502eb8c",
+  "confidence_tier": 4,
+  "date_published": "2026-02-01T17:53:29-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly (Monday)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "once weekly (Thursday)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Combination works great",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Stack of 2.5mg Tirzepatide on Monday and 1.0mg Retatrutide on Thursday",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.681231Z"
+}

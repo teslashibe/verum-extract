@@ -1,0 +1,57 @@
+{
+  "id": "6b5e3b95-b505-420a-8554-4a8e5d0e87d4",
+  "source_id": "1r128hs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r128hs/will_cjcipa_increase_igf1_levels/",
+  "author_hash": "62019fd499881daccbd302bbb432b6b806a468f1ec6ed3325ba62c92d9523313",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T06:29:47-08:00",
+  "training_status": "strength_training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 112,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 112,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "strength",
+      "description": "Feels way stronger",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "More vascular",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Recovers quicker, can train harder",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "timeframe_days": 28
+    }
+  ],
+  "protocol_notes": "User is 12 weeks into a 16-week CJC (no DAC)/IPA cycle. Planning IGF-1 test in 4 weeks and considering transition to HGH afterward. Searching for HGH source at $0.60/IU.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677938Z"
+}

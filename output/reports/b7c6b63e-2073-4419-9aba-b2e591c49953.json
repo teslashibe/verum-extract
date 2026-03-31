@@ -1,0 +1,39 @@
+{
+  "id": "b7c6b63e-2073-4419-9aba-b2e591c49953",
+  "source_id": "1r7q37o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r7q37o/tesamorelin/",
+  "author_hash": "c33e8dd922b049b301c194519994478def67841478eafa6204f68fcfd22996eb",
+  "confidence_tier": 4,
+  "date_published": "2026-02-17T18:03:19-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "60+",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Very achy above knees, especially after leg day",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Age 70. Recent startup on IPA/CJC. Plans to switch to HGH instead, citing endogenous vs. exogenous considerations at his age.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662649Z"
+}

@@ -1,0 +1,138 @@
+{
+  "id": "74cb16f8-1c4e-49fd-9b08-cadac0fc0ab6",
+  "source_id": "1rx3dlr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx3dlr/tirz_to_reta/",
+  "author_hash": "1b9bbfcb72e935329824301ef769c2964f8912c92efbf428f753e863d26153d4",
+  "confidence_tier": 3,
+  "date_published": "2026-03-18T06:06:33-07:00",
+  "training_status": "active (gym daily)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 12.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 10+kg (22+lbs) in 4 weeks; significant weight loss towards end of weight loss journey",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression stronger and more prolonged than tirzepatide; mental repulsion to food",
+      "severity": "significant",
+      "onset_days": 21
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Mild nausea mostly after eating at week 3",
+      "severity": "mild",
+      "onset_days": 21,
+      "resolved": true,
+      "resolution_days": 7
+    },
+    {
+      "category": "appetite_change",
+      "description": "Severe appetite suppression at weeks 4-5+; could not eat at all; mental repulsion to food; difficult to drink water or take supplements",
+      "severity": "significant",
+      "onset_days": 28
+    },
+    {
+      "category": "fatigue",
+      "description": "No energy to do anything; workouts were very poor quality despite maintaining routine",
+      "severity": "significant",
+      "onset_days": 28
+    },
+    {
+      "category": "other",
+      "description": "Freezing cold sensation; required 2 pairs of socks, hot water bottle, shivering under blankets on 23°C day",
+      "severity": "significant",
+      "onset_days": 28
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "No bowel movements for 3+ weeks due to minimal food intake",
+      "severity": "moderate",
+      "onset_days": 21
+    },
+    {
+      "category": "weight_change",
+      "description": "Muscle loss confirmed by DEXA scan; lost muscle during rapid weight loss phase",
+      "severity": "moderate",
+      "onset_days": 28
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_composition",
+      "timeframe_days": 28
+    }
+  ],
+  "protocol_notes": "Switched from 7.5mg tirzepatide to retatrutide with no washout period. Week 0: 7.5mg Tirz; Week 1: 2.5mg Reta; Week 2: 5.0mg Reta; Week 3: 7.5mg Reta; Week 4: 10.0mg Reta; Week 5+: 12.5mg Reta. User pushed too hard and experienced significant side effects; acknowledges dosing was too aggressive; muscle loss set body transformation back 3+ months. Maintained daily gym routine throughout. In context of sustained caloric deficit from 10 months of dieting.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.650109Z"
+}

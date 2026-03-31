@@ -1,0 +1,44 @@
+{
+  "id": "08afe688-d135-45fc-963a-11076ccd1047",
+  "source_id": "1o9amaz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o9amaz/my_father_has_been_in_pain_for_the_past_15_years/",
+  "author_hash": "80a83c5da69da25aa7faefb4cbe4bc6c6ed9a450fe6e0558f4036e79ba92f2cb",
+  "confidence_tier": 4,
+  "date_published": "2025-10-17T12:23:32-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Works fast for healing",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Uses BPC-157 and TB-500 (TB4) up to 1mg a day total (250mcg morning and 250mcg after workout). Refers to this as 'Wolverine Stack'.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.395645Z"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "14be5b4a-edb8-4f0e-8f33-9692dc8c0117",
+  "source_id": "lf5oa9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/lf5oa9/bpc157_report_after_two_weeks_of_use_for_pain/",
+  "author_hash": "461468d240bab444d9e221e0531bd17099e42d17172e2c8e59f3513eb5fcd18a",
+  "confidence_tier": 4,
+  "date_published": "2021-02-07T22:15:33-08:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "broken collarbone (11 weeks prior)",
+    "stage 3a colorectal cancer survivor (10 years)",
+    "sensitive stomach",
+    "food sensitivity",
+    "gut urgency"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 25,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 17,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Incapacitating shoulder pain from broken collarbone reduced 30-40% after 4 days; almost completely gone after 2 weeks",
+      "severity": "significant",
+      "onset_days": 4
+    },
+    {
+      "category": "gut_health",
+      "description": "Resolved 10-year history of sensitive stomach, food sensitivity, and urgency; able to tolerate pizza and chicken wings without digestive distress for first time in decade",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "energy",
+      "description": "Improvement in energy and overall well-being",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "mood",
+      "description": "Overall sense of feeling good; improved mental clarity (noted with Thymosin Alpha-1)",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Accelerated healing from collarbone fracture",
+      "severity": "significant",
+      "onset_days": 4
+    }
+  ],
+  "protocol_notes": "Purchased from Peptide Sciences. Injected directly at pain site (trapezius) using small insulin needles. Also administering BPC-157 to wife (25 mcg similar dose in hip for chronic pain). Wife reported pain reduction, increased mobility, and energetic improvement after 4 days. Cancer survivor concerned about BPC-157 angiogenesis but proceeding with use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.703339Z"
+}

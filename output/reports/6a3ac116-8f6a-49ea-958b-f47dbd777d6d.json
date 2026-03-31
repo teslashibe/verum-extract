@@ -1,0 +1,56 @@
+{
+  "id": "6a3ac116-8f6a-49ea-958b-f47dbd777d6d",
+  "source_id": "1rglewh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rglewh/any_male_lifters_here_microdosing_with_tirz_or/",
+  "author_hash": "bb1800a30fa8e878663e082bc1f86247ca835225718be503be4d05aa2085f994",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T14:43:19-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 211,
+    "unit": "lbs"
+  },
+  "training_status": "lifter",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 120,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 18 lbs, maintaining muscle while cutting",
+      "severity": "significant",
+      "onset_days": 84
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_weight",
+      "value_before": 211,
+      "value_after": 193,
+      "unit": "lbs",
+      "timeframe_days": 120
+    },
+    {
+      "marker_name": "body_fat_percentage",
+      "value_before": 12,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Started at 2mg/week, noticed nothing until week 12 at 6mg/week. Height 5'10\". Consumed 2800 calories daily. Tested Retatrutide at 99.861% purity. Protocol duration ~4 months.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.670995Z"
+}

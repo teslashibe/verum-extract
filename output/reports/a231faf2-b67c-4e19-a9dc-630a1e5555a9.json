@@ -1,0 +1,45 @@
+{
+  "id": "a231faf2-b67c-4e19-a9dc-630a1e5555a9",
+  "source_id": "1qgka65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qgka65/i_accidentally_10x_my_dose_for_ghkcu_for_2_months/",
+  "author_hash": "6f4c4d0b933e776a6d26cef0fdcafaf8d58c50400f6f45a2e691b41a9d148b63",
+  "confidence_tier": 4,
+  "date_published": "2026-01-18T13:05:24-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "hair growth went berserk",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "nail growth increased",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "felt nauseous all the time",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Similar accidental overdose situation for approximately 2 weeks. User reports still alive despite side effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.683752Z"
+}

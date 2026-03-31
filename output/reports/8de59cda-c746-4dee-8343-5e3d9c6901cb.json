@@ -1,0 +1,38 @@
+{
+  "id": "8de59cda-c746-4dee-8343-5e3d9c6901cb",
+  "source_id": "1bp0035",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bp0035/has_anyone_had_these_kind_of_reactions_from_cjcipa/",
+  "author_hash": "41e031c16a31cd63e155ff437369d794f2f19a5d53d2cef93f24df0b86895d21",
+  "confidence_tier": 5,
+  "date_published": "2024-03-27T04:53:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "milder reaction initially, then after 2 weeks off and restart: sneezing, wheezing, full body hives, itchiness. Reaction worsened on re-exposure.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Partner of commenter. Had mild allergic reaction, took 2 weeks off, then restarted and reaction was much worse. Commenter is a medic with access to Benadryl and Epi pens. Partner wants to isolate which compound causes reaction.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.415984Z"
+}

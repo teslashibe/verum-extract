@@ -1,0 +1,45 @@
+{
+  "id": "8a32ce79-55b6-41a2-a866-6ef228083f79",
+  "source_id": "1gefdgs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1gefdgs/tirz/",
+  "author_hash": "f118155f9911abbd0866236baef84ebf73508b13404c39cb340b1e0428d76124",
+  "confidence_tier": 4,
+  "date_published": "2024-10-28T15:38:19-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 180,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Mounjaro",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 365,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Father lost ~60 lbs (240 to 180 lbs) over more than a year on Mounjaro",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Initially eliminated/reduced hunger signal between brain and gut; some reduction in appetite suppression noted over time",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Report is about commenter's father; on 5mg/wk for over a year; lost 60 lbs from 240 to 180; noticing some increase in snacking suggesting reduced potency; not planning to increase dose as no more weight loss desired",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.289853Z"
+}

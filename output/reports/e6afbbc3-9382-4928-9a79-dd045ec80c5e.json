@@ -1,0 +1,52 @@
+{
+  "id": "e6afbbc3-9382-4928-9a79-dd045ec80c5e",
+  "source_id": "1nfa9oe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nfa9oe/started_sermorelin_at_bed_time_and_this_happened/",
+  "author_hash": "d32d2c296da0a54fd02482efbce12a164fcc6894de5117b001fd35c4509d721d",
+  "confidence_tier": 4,
+  "date_published": "2025-09-12T11:04:13-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Never slept better than when using Sermorelin",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Sermorelin 500mcg injected as close to bedtime as possible, fasted when possible, M-F dosing schedule. Also experimented with Tesamorelin, CJC-1295, and Ipamorelin combinations which were 'just okay' compared to Sermorelin for sleep.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.681976Z"
+}

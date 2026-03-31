@@ -1,0 +1,45 @@
+{
+  "id": "123cb688-6309-4049-a76b-3ec24fe7e24a",
+  "source_id": "1kdyuho",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kdyuho/peptides_before_trt/",
+  "author_hash": "e4c1d2e3f940d6ccc365dd0ddbf3e41fe8f89a5736cb2f925e1edd6f145ee452",
+  "confidence_tier": 4,
+  "date_published": "2025-05-03T10:52:49-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Free Testosterone",
+      "value_before": 299.8,
+      "value_after": 300,
+      "unit": "pg/mL",
+      "timeframe_days": 73
+    }
+  ],
+  "protocol_notes": "Took Ipamorelin and BPC-157 (duration unspecified). On Sermorelin for 3 months. Bloodwork in February showed 299.8 free testosterone, rechecked April 10 showing 300.0 (minimal increase). User subsequently started TRT on Wednesday of post date.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.691574Z"
+}

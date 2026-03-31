@@ -1,0 +1,67 @@
+{
+  "id": "5516f98d-90bc-4106-936f-26af548b0103",
+  "source_id": "1s0zh9e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s0zh9e/dosing_and_cycle_length_with_motsc/",
+  "author_hash": "b1f56bc8dc766932e996d0825802f1b51f4533ab14200e768d8f1e4bde9827bd",
+  "confidence_tier": 4,
+  "date_published": "2026-03-22T15:33:23-07:00",
+  "training_status": "active (workout days mentioned)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "3-4 times per week",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 75,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 75,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 75,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "multiple health markers",
+      "timeframe_days": 30
+    }
+  ],
+  "protocol_notes": "MOTS-C dosed at 2-3mg per shot, 3-4 times per week, cycled 4-6 weeks on with 4-6 weeks off. Takes MOTS-C fasted in morning on workout days. Tesamorelin/Ipamorelin/CJC-1295 cycled 60-90 days on, 30-45 days off. User tracks health with monthly and quarterly blood tests and consults healthcare professional. Planning to add GHK-Cu next month.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.648342Z"
+}

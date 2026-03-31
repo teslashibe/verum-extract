@@ -1,0 +1,45 @@
+{
+  "id": "9d12580d-9910-4416-a44e-90b5fdbe0b3c",
+  "source_id": "1rvaquf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvaquf/timing_question/",
+  "author_hash": "978985b675bb5d18aba3a1cead391dbc679d372f212e18fe0d4f49bd11579113",
+  "confidence_tier": 5,
+  "date_published": "2026-03-16T07:19:38-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "morning fasted",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "night",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "frequency": "night",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "BPC makes commenter need a nap if taken in the morning",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Commenter prefers not to use blends due to inflexibility in dosing adjustments. Recommends taking Tesamorelin fasted in the morning (wait 30-60+ minutes before eating) and taking Ipamorelin and BPC at night. Advises drinking coffee black when dosing.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.107787Z"
+}

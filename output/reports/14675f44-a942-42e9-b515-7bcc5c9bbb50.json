@@ -1,0 +1,54 @@
+{
+  "id": "14675f44-a942-42e9-b515-7bcc5c9bbb50",
+  "source_id": "1qz1qrp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qz1qrp/my_significant_other_has_been_on_sema_for_2/",
+  "author_hash": "15474eb976abb93623dd943c141412ee67d8e2915893134aa8115e04c6b92047",
+  "confidence_tier": 4,
+  "date_published": "2026-02-07T22:36:11-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 3.75,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression maintained at lower doses",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User uses Tirzepatide at 5mg maintenance after titrating from 2.5mg to 3.75mg to current 5mg dose. Held steady at 5mg for months. Notes most experienced users only go to 5-7.5mg maximum, not to the 15mg studied maximum. Recommends staying at lowest effective dose.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.666165Z"
+}

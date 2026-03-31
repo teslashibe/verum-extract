@@ -1,0 +1,33 @@
+{
+  "id": "fa3a3254-3d5f-482d-9639-4c33c5824105",
+  "source_id": "1s3kq0k",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3kq0k/hgh_sweet_spot/",
+  "author_hash": "6e8420835a688c26f6eccf0e3c696e0a94ae35e0a4a63df45f17cdc8be3e0f70",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T12:30:52-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1 Z-score",
+      "value_after": 1.8
+    }
+  ],
+  "protocol_notes": "Pharma GH source",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.658105Z"
+}

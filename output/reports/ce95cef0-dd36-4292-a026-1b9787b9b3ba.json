@@ -1,0 +1,40 @@
+{
+  "id": "ce95cef0-dd36-4292-a026-1b9787b9b3ba",
+  "source_id": "1r1md35",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r1md35/reta_weight_stall_fast/",
+  "author_hash": "9bb6f5dbe260f936f1c9b3c2a63ecbef3251819f866be3f3030e23533f030809",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T19:28:03-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "8 lbs lost first week, then stalled for ~3 weeks, then steady loss of 1.5-2 lbs per week",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "First month rough with GI side effects on semaglutide",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 30
+    }
+  ],
+  "protocol_notes": "Had similar initial response pattern on semaglutide. Notes that first week drop is mostly water and gut content, not fat. Emphasizes importance of consistent weighing conditions (morning, fasted, after bathroom).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677566Z"
+}

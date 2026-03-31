@@ -1,0 +1,61 @@
+{
+  "id": "1c60bfd8-f225-487a-a015-874f10187279",
+  "source_id": "1jwfayg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jwfayg/if_hgh_was_the_same_price_as_ghs_cjc1295/",
+  "author_hash": "9c364d7d906ea3a886a4b5cbb7278543382280503a3ce8a93adacc5b40c4263f",
+  "confidence_tier": 4,
+  "date_published": "2025-04-10T19:22:26-07:00",
+  "training_status": "trains with intense workouts",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 150,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 150,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "nightly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "feel better mentally",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "feel stronger working out",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "recovering after really intense workouts",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User reported no effects from Ipamorelin/Sermorelin after 5 months, switched to HGH with better results",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.692703Z"
+}

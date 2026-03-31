@@ -1,0 +1,35 @@
+{
+  "id": "5cd542a3-9bad-4544-b888-01ce0aaf8144",
+  "source_id": "1qq1bev",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qq1bev/mots_c_for_endurance/",
+  "author_hash": "6b69014375117c92d51e351f871a215a4a3e9f6b4e43767c2098f5c32adb5c99",
+  "confidence_tier": 4,
+  "date_published": "2026-01-28T22:45:19-08:00",
+  "training_status": "cyclist",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "pre-ride",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "endurance",
+      "description": "Noticed almost instantly; provides boost for bike rides of varying lengths",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "Dose ranges from 1-3mg depending on bike ride length",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669541Z"
+}

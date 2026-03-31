@@ -1,0 +1,37 @@
+{
+  "id": "02f6bbb7-29c6-40d5-8aca-a4103a2c01ef",
+  "source_id": "1r18dkl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r18dkl/bulk_peptide_purchasing_question_tirz_reta/",
+  "author_hash": "fe44530d8a1b7183f0f4e6b668d1e0e24ab3bbcfda86f684d0be4dc55146bec1",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T10:14:03-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Found reta much less potent than tirz; switched back to tirz. Tirz seems approximately 2x more potent than reta.",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Previously used reta, found it less potent than tirzepatide, and switched back to tirz. Believes tirz is about 2x more potent than reta.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.119582Z"
+}

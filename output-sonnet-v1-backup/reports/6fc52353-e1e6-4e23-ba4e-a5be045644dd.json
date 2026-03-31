@@ -1,0 +1,46 @@
+{
+  "id": "6fc52353-e1e6-4e23-ba4e-a5be045644dd",
+  "source_id": "1rwlbyx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwlbyx/tesaipa_igf1_levels/",
+  "author_hash": "62019fd499881daccbd302bbb432b6b806a468f1ec6ed3325ba62c92d9523313",
+  "confidence_tier": 3,
+  "date_published": "2026-03-17T15:16:03-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC(no dac)",
+      "name_normalized": "cjc_no_dac",
+      "category": "other",
+      "cycle_length_days": 98,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 98,
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_after": 308,
+      "unit": "ng/mL",
+      "timeframe_days": 98
+    },
+    {
+      "marker_name": "IGF-1 z-score",
+      "value_after": 1.9,
+      "timeframe_days": 98
+    }
+  ],
+  "protocol_notes": "54M, just completed a 14-week cycle of CJC(no dac)/Ipa. Planning to start Tesa/Ipa after washout, hoping to titrate up to 2mg Tesa and 300mcg Ipa to reach mid-300s IGF-1.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.107058Z"
+}

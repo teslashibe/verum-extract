@@ -1,0 +1,67 @@
+{
+  "id": "a53eaefc-ce62-4e0a-9533-8cde7f7d6647",
+  "source_id": "1re1ye6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1re1ye6/wolverine_blend_plan/",
+  "author_hash": "53878c17ec08e95b6a0e12821d3ed96312b94128a6a0ad1259e6a5755ce7e725",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T19:22:12-08:00",
+  "health_conditions": [
+    "shoulder pain",
+    "back pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "PEA",
+      "name_normalized": "pentosan",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 1200,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "10mg + 10mg blend was awesome on shoulder and back",
+      "severity": "significant"
+    },
+    {
+      "category": "pain_relief",
+      "description": "99% pain free after 3 years with combination of BPC/TB blend, PEA 1200mg daily, sauna, ab slings, TENS machine, inversion table, acupuncture, chiropractor, and massage chair",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Using 1-2mg every other day. Also uses larger vials for GHK-Cu with 5ml BAC. Multi-modal approach to pain management over 3 years.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.660049Z"
+}

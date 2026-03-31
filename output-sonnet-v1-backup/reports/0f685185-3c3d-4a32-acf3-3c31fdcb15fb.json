@@ -1,0 +1,34 @@
+{
+  "id": "0f685185-3c3d-4a32-acf3-3c31fdcb15fb",
+  "source_id": "17ge9m5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17ge9m5/semaglutide_dose_question/",
+  "author_hash": "f0cc1c3d94f20524fbe6a90940b3c50fadbecf0688f46e05ca2430c59561b94b",
+  "confidence_tier": 4,
+  "date_published": "2023-10-25T13:29:56-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Full sensation and not interested in food for the week, lessening on day 6 before next dose",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Was on semaglutide for 10 months, starting at 0.25mg and titrating up to 2.5mg weekly. Noticed appetite suppression effects waning on day 6 but returning after day 7 dose.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.296269Z"
+}

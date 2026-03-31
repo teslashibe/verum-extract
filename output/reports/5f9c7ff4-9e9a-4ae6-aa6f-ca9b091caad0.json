@@ -1,0 +1,80 @@
+{
+  "id": "5f9c7ff4-9e9a-4ae6-aa6f-ca9b091caad0",
+  "source_id": "1enmty8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1enmty8/bpc157_and_ghkcu_have_changed_my_life/",
+  "author_hash": "b83703cf8ca6355bbb08b830db162ea1a4f58423e8341561886fabe45fd8ec91",
+  "confidence_tier": 4,
+  "date_published": "2024-08-08T18:10:35-07:00",
+  "training_status": "active (cardio, squats, weight lifting)",
+  "health_conditions": [
+    "torn meniscus",
+    "cartilage loss",
+    "arthritis",
+    "knee pain"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 350,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1.75,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Knee pain resolved within weeks",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "sleep",
+      "description": "Sleeping 7-8 hours per night, best sleep in years",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "recovery",
+      "description": "Able to return to exercise including cardio, squats, and weight lifting",
+      "severity": "significant",
+      "onset_days": 21
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "No issues when injecting in belly; previous attempt near pain site caused pain and swelling",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "copper serum",
+      "timeframe_days": 60
+    }
+  ],
+  "protocol_notes": "Mixed BPC-157 and GHK-Cu together (10.5 units total per injection). Injected subcutaneously in belly/love handle alternating sides at night before bed. Takes zinc 50mg on empty stomach in mornings. Protocol sourced from doctor on r/Peptides (referenced as 'Anela protocol'). 60 days on, 6 weeks off cycle. MRI confirmed torn meniscus and cartilage loss prior to starting. All blood work and imaging cleared before beginning.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.414332Z"
+}

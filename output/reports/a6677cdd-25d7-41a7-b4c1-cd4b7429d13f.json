@@ -1,0 +1,40 @@
+{
+  "id": "a6677cdd-25d7-41a7-b4c1-cd4b7429d13f",
+  "source_id": "1r128hs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r128hs/will_cjcipa_increase_igf1_levels/",
+  "author_hash": "81d2695dec190828efc9968aa5b64c0d0f1e2aa650a5e5c6f48b2e52009d6f29",
+  "confidence_tier": 5,
+  "date_published": "2026-02-10T06:29:47-08:00",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "Raised IGF-1 levels substantially",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "CJC-IPA combination used. User was impressed with IGF-1 increase.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.25,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665371Z"
+}

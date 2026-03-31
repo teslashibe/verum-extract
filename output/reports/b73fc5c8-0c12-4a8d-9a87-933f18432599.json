@@ -1,0 +1,71 @@
+{
+  "id": "b73fc5c8-0c12-4a8d-9a87-933f18432599",
+  "source_id": "1qxl6y2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxl6y2/cycle_42m_on_trt_anyone_using_lowdose_retatrutide/",
+  "author_hash": "4a7245d4cad2bb04b75919f19b7f21c65616c0e673bc18d19381a0dec2a2efb1",
+  "confidence_tier": 4,
+  "date_published": "2026-02-06T07:48:37-08:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 75,
+      "dose_unit": "IU",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "route": "intramuscular",
+      "frequency": "Sundays",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "maintained muscle mass and reached 11% body fat, looked great",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "1mg/week allows eating enough to bulk without constantly thinking about food",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "On higher doses (5mg/week) difficult to hit protein goals with food alone, had to use protein shakes which were hard to swallow",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "appetite_change",
+      "description": "Craves diet drinks more on Retatrutide",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Previously on 5mg/week Retatrutide for 6 months; arms did not grow during that period. Recently tapered to 1mg/week which has been better. Sleep was already poor and did not worsen on Retatrutide. Uses HCG instead of SARM.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.67948Z"
+}

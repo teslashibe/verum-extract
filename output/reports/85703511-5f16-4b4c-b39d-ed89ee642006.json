@@ -1,0 +1,34 @@
+{
+  "id": "85703511-5f16-4b4c-b39d-ed89ee642006",
+  "source_id": "1nfa9oe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nfa9oe/started_sermorelin_at_bed_time_and_this_happened/",
+  "author_hash": "5ab6bd5ce5310b58c86939affea8a99751bab563dcc3e14d8cd5a73713a6088d",
+  "confidence_tier": 4,
+  "date_published": "2025-09-12T11:04:13-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "No improvement in deep sleep at 300mcg 30min before bed. Tried reducing to 200mcg for a week with no change.",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Taking 300mcg 30 minutes before bed. Trialed dose reduction to 200mcg for one week without improvement.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.398278Z"
+}

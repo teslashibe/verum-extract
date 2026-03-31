@@ -1,0 +1,72 @@
+{
+  "id": "e2e3c096-23f1-4db2-b636-8784a4535ea1",
+  "source_id": "1qpgwvo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qpgwvo/post_reta/",
+  "author_hash": "86fc7e88c40ce0cb28eda58dccd8c978df2325004546920c3050978560b9635f",
+  "confidence_tier": 4,
+  "date_published": "2026-01-28T08:57:24-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "60+",
+  "reported_weight": {
+    "value": 118,
+    "unit": "lbs"
+  },
+  "training_status": "Lifts 4x per week, has always worked out",
+  "health_conditions": [
+    "cancer survivor (no evidence of disease currently)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "testosterone cream",
+      "name_normalized": "testosterone_cream",
+      "category": "other",
+      "route": "topical",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TA1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Added muscle mass over a year while down from 140lbs to 118lbs",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "No facial hair or adverse masculinizing side effects from testosterone cream"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_after": 90,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "Age 62. Started at tanked testosterone levels. Now runs ~90 ng/dL testosterone and feels best at that level. Testosterone cream from compounding pharmacy, dosed and monitored by functional medicine doctor with bloodwork every 3 months the first year. Avoids growth hormones due to cancer history. Started GHK-cu in October, added MOTS-c and TA1 in December. Gets bloodwork checked frequently due to prior cancer type.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123617Z"
+}

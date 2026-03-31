@@ -1,0 +1,85 @@
+{
+  "id": "b5d6deaf-82df-4b0e-a5f2-65b971eaa443",
+  "source_id": "1roez9y",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1roez9y/less_than_a_year_on_retatrutide_and_testosterone/",
+  "author_hash": "de2adb2ec364dd1015344ee21df0d3c99c866e8ef23cf4a9af818db9620d9c89",
+  "confidence_tier": 4,
+  "date_published": "2026-03-08T13:07:37-07:00",
+  "reported_sex": "male",
+  "training_status": "trained",
+  "health_conditions": [
+    "hypogonadism",
+    "low testosterone (132 ng/dL pre-TRT)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 120,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mg",
+      "frequency": "weekly (pinning daily)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 40 lbs of fat over ~9-month deficit",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Gained 10 lbs of muscle over ~9-month deficit",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Feels like a 25 year old again; significant energy improvement",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Happiness and general wellbeing greatly improved",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Reta crushes appetite; too much suppression at times requiring maintenance breaks",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Appetite suppression so strong that eating at maintenance became difficult; advised taking breaks from Reta after ~6 months",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_before": 132,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "OP started testosterone at 170mg/week and increased to 300mg/week (described as a 'cruise'). Retatrutide started at 0.5mg/week and titrated up to 4mg/week. Was pinning daily and later learned that was suboptimal. Diet focused heavily on protein (chicken, protein shakes, protein bars, fruit). About 4 months on Retatrutide, ~9 months total on the combined protocol. Recommends taking a break after ~6 months on Reta.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.110897Z"
+}

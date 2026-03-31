@@ -1,0 +1,53 @@
+{
+  "id": "92198ffe-5486-4844-8d4e-484af75d86b7",
+  "source_id": "1rdnp34",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdnp34/melanotan/",
+  "author_hash": "946ac6e49ab510a2e5214f16af4b52965ec7c1f2b4ae7b2e2b624be759799aff",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T10:07:07-08:00",
+  "training_status": "physically demanding job",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Melanotan I",
+      "name_normalized": "melanotan_1",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "MT1 produced slower, more natural tan",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "MT2: body aches got progressively worse each time, severe joint pain in last cycle with pain the day after first dose affecting every joint",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true
+    },
+    {
+      "category": "joint_pain",
+      "description": "MT1: some joint pain but unclear if from MT1 or physical job and winter",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Ran 3 cycles of MT2. Switched to MT1. Did not experience nausea with MT2.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.660516Z"
+}

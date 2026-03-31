@@ -1,0 +1,35 @@
+{
+  "id": "e958c8d0-1576-42b2-9a02-921ae25c76ae",
+  "source_id": "1n7sb0l",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n7sb0l/motsc_protocols_are_all_over_the_board/",
+  "author_hash": "e5425c79437648104d88b9cf9dc359cf08b6bb5cba0c80642cb5788c596a04c3",
+  "confidence_tier": 4,
+  "date_published": "2025-09-03T14:58:28-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "intramuscular",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "5x weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "strong histamine response with very itchy rashes",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Switched to IM administration due to histamine response from subcutaneous. Heard of cases of worse reactions including anaphylaxis. Still experiencing reactions but continuing protocol. Switching to IM provided some relief.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.682972Z"
+}

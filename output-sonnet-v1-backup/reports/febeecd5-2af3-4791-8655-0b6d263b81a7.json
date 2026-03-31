@@ -1,0 +1,46 @@
+{
+  "id": "febeecd5-2af3-4791-8655-0b6d263b81a7",
+  "source_id": "1m86cbv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m86cbv/reta_so_sleepy/",
+  "author_hash": "7cfbdee7d9b82f138f77408aaa7669c4e8271c17db487979e577fc6477db7ca0",
+  "confidence_tier": 5,
+  "date_published": "2025-07-24T07:46:01-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Reta was working for weight/fat loss"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Has to eat twice as much food to avoid fatigue and low blood sugar",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Insomnia mentioned alongside fatigue and low blood sugar",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Looked puffier due to needing to eat carbs; dislikes carb-induced water retention/puffiness",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Finds Reta effective for fat loss but dislikes having to eat significant carbohydrates to manage fatigue/blood sugar, as it causes perceived puffiness from water retention.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.278037Z"
+}

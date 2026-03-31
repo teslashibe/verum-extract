@@ -1,0 +1,55 @@
+{
+  "id": "d2cb6307-b0d9-4fb0-9681-f0a31cb164a4",
+  "source_id": "1n034kk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n034kk/too_much_reta/",
+  "author_hash": "366cd9a88f05f3d1f6bc7f58e6ce84caa39c5fe180a436bf4cfc2cf6aaee6f67",
+  "confidence_tier": 4,
+  "date_published": "2025-08-25T14:23:02-07:00",
+  "training_status": "recomposition",
+  "health_conditions": [
+    "lipid concerns",
+    "elevated blood pressure"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Some control over fat during recomposition",
+      "severity": "mild"
+    },
+    {
+      "category": "other",
+      "description": "Reports 'so many positive benefits' including lipid and blood pressure improvements as goals"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Extreme appetite suppression; only able to eat 5 bites before feeling gross; difficulty eating macros",
+      "severity": "significant"
+    },
+    {
+      "category": "nausea",
+      "description": "Feeling gross when trying to eat; does not feel good",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Titrated up to 2mg. Plans to go back down to 1.5mg next week due to side effects. Goals are lipid improvement, blood pressure, and fat loss during recomp. Previously on 1.5mg.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.274007Z"
+}

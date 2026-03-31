@@ -1,0 +1,35 @@
+{
+  "id": "9d63934b-2562-4f3e-8be7-72698ca361fa",
+  "source_id": "1r11cz5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r11cz5/tesamorelin_keeps_turning_cloudy_and_gel_like/",
+  "author_hash": "53063f621749b46acb31f6290be1df5965ceb9eeecf85b7a7011ebf0f75cd345",
+  "confidence_tier": 5,
+  "date_published": "2026-02-10T05:54:52-08:00",
+  "training_status": "gym user",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Tesamorelin turning cloudy and gel-like after reconstitution, becoming viscous within 20 minutes to overnight",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Using 5mg vials, 1mg per day. Storing reconstituted vials in fridge at 3°C. Also using regular BAC water (not Hospira). 4 vials affected, 3 turned cloudy and gelled. Also mentions other peptides (GHK-Cu, Ipamorelin, Semax) stored fine. New to peptides.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.119713Z"
+}

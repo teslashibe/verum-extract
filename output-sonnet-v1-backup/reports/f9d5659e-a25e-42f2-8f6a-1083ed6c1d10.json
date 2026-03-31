@@ -1,0 +1,62 @@
+{
+  "id": "f9d5659e-a25e-42f2-8f6a-1083ed6c1d10",
+  "source_id": "1o5ucb6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o5ucb6/tesaipa_and_reta_at_same_time/",
+  "author_hash": "1a3932a7ccfba726968e7cfc914851691a55662f1a332f3296abf8559fdd90ce",
+  "confidence_tier": 4,
+  "date_published": "2025-10-13T12:56:15-07:00",
+  "training_status": "active gym goer",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 91,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IPA",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tessa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Down 30 lbs in 3 months attributed to Reta",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Added IPA and Tessa to help not lose too much muscle while on Reta"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Significant water retention initially mistaken for Reta not working",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Joint discomfort when working out, expected to resolve when stopping secretagogues",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User has been using all 3 compounds simultaneously for 2 months. Recommends blood work. Warns not to mistake water retention from secretagogues for Reta not working. Joint discomfort noted as a secondary comment.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.267836Z"
+}

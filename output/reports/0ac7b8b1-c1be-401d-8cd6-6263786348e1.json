@@ -1,0 +1,70 @@
+{
+  "id": "0ac7b8b1-c1be-401d-8cd6-6263786348e1",
+  "source_id": "1rpfqrk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpfqrk/glow_stack/",
+  "author_hash": "a5eadb39ef26055637c183726b0c23b07a7d17b88bb2690cf66f8fe686d845ab",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T15:58:13-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.8,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Crazy hair growth, especially facial hair; nails growing very fast requiring weekly maintenance",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Decent skin results",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hair_change",
+      "description": "Excessive hair growth requiring weekly haircuts instead of monthly; nails growing too fast",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "User titrated up from 2mg GHK-Cu to 4mg after one week due to unclear efficacy at lower dose. Reports no stinging or adverse effects. States 4mg is well below toxicity levels. Using GLOW stack (pre-mixed blend). Doses increased based on subjective assessment rather than standard protocols.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.666484Z"
+}

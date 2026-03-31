@@ -1,0 +1,45 @@
+{
+  "id": "2c8d193b-5285-431a-8aa8-8c915f66323e",
+  "source_id": "1qr4416",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qr4416/why_isnt_ghkcu_dosage_based_on_age/",
+  "author_hash": "56ce136c193b54f4cea9728bbaa7226e56aa6dbce19b01619895d4026ae88d6c",
+  "confidence_tier": 4,
+  "date_published": "2026-01-30T04:28:39-08:00",
+  "reported_age_range": "60+",
+  "health_conditions": [
+    "scarring"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "less redness and inflammation around scar areas (upper cheeks/next to nose), tighter skin appearance, smoothening of shallow scars",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Age 71. GHK-Cu concentration: 100mg/3mL BAC water, 6 units = 2mg, 0.5mL with 31g needle. Injected at night. Also taking Zinc supplement (25mg Zinc Bisglycinate) in morning. User notes possible placebo but observed improvements after 1 week. Stacks with Melanotan-1 for tanning with no reported interactions.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.682116Z"
+}

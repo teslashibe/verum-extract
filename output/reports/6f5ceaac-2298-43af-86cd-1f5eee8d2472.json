@@ -1,0 +1,51 @@
+{
+  "id": "6f5ceaac-2298-43af-86cd-1f5eee8d2472",
+  "source_id": "1s6q3xx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6q3xx/thoughts_on_kisspeptin/",
+  "author_hash": "c8976873fec7d6611c139a11d7f018c651e5ca2e75d342293f67f2188a9cb5d8",
+  "confidence_tier": 5,
+  "date_published": "2026-03-29T01:58:01-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Kisspeptin",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "increased focus",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "libido",
+      "description": "higher libido on kisspeptin; libido crash on Retatrutide",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "libido_change",
+      "description": "libido crash with Retatrutide",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User contrasts kisspeptin with Retatrutide. Mentions potential benefits for fertility and prolonging fertility, especially for people on TRT.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.6564Z"
+}

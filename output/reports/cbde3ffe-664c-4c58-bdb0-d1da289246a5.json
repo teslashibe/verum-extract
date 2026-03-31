@@ -1,0 +1,43 @@
+{
+  "id": "cbde3ffe-664c-4c58-bdb0-d1da289246a5",
+  "source_id": "1nzgtl7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nzgtl7/peptide_thatll_get_rid_of_sugar_cravings/",
+  "author_hash": "deabb6c5456eddbd8f1b6054051986b32a06cb5065a82f138e0af2c521810e41",
+  "confidence_tier": 4,
+  "date_published": "2025-10-06T04:48:33-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Craving control on tirzepatide, though weaker on retatrutide",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Rough bloating side effects on retatrutide",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Has been on tirzepatide longer term and found it more tolerable than retatrutide. Switched to retatrutide and experienced weaker craving control and bloating.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.396405Z"
+}

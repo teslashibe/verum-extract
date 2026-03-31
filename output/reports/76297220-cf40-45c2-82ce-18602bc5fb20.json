@@ -1,0 +1,45 @@
+{
+  "id": "76297220-cf40-45c2-82ce-18602bc5fb20",
+  "source_id": "1fv4rz5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fv4rz5/body_recomp_on_ozempic_what_peptides_can_i_stack/",
+  "author_hash": "5b3db733f60e2b4326b7c145fc5a68d551be6c08772dcc5166876d746e98f2cd",
+  "confidence_tier": 4,
+  "date_published": "2024-10-03T03:46:13-07:00",
+  "reported_weight": {
+    "value": 226,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 111 lbs (337 to 226 lbs) over 15 months",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Reduced body fat from 34% to 15% over 15 months",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Stack included Test, Primo, low-dose Var, and Tirzepatide at various times over 15 months. Low dosages used. Reports no blood work issues.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696011Z"
+}

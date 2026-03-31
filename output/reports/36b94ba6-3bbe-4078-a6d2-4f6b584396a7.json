@@ -1,0 +1,43 @@
+{
+  "id": "36b94ba6-3bbe-4078-a6d2-4f6b584396a7",
+  "source_id": "1rglewh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rglewh/any_male_lifters_here_microdosing_with_tirz_or/",
+  "author_hash": "5fa98c57c486748bf15c76815f0e854ecb0dee23543907005373c0ec9fe6b973",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T14:43:19-08:00",
+  "reported_sex": "male",
+  "training_status": "lifter",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Maintains 10-12% body fat year-round without much effort",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_fat_percentage",
+      "value_after": 11,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Microdosing with Retatrutide (GLP-1/GIP/glucagon receptor agonist)",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.659002Z"
+}

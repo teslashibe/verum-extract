@@ -1,0 +1,125 @@
+{
+  "id": "0125109a-9050-4669-8cd3-3e3b827d3e98",
+  "source_id": "1rl5pt1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rl5pt1/missing_anything/",
+  "author_hash": "1b9bbfcb72e935329824301ef769c2964f8912c92efbf428f753e863d26153d4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-04T18:42:51-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "focused on holistic health",
+  "health_conditions": [
+    "previously overweight",
+    "previously depressed",
+    "previously had heart issues",
+    "previously had liver issues"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "frequency": "alternating with Tesamorelin",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "alternating with Tesamorelin",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "alternating with CJC+IPA",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "frequency": "occasional",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Improved metabolism and weight loss",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Improved muscle mass",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Improved fitness and energy",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Improved self-esteem and emotional well-being",
+      "severity": "significant"
+    },
+    {
+      "category": "libido",
+      "description": "Improved sex life",
+      "severity": "significant"
+    },
+    {
+      "category": "cardiovascular",
+      "description": "Improved heart health based on quarterly blood tests",
+      "severity": "significant"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Blood work and health resembles that of 30 year old",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "heart_health"
+    },
+    {
+      "marker_name": "liver_health"
+    },
+    {
+      "marker_name": "lipids"
+    },
+    {
+      "marker_name": "micronutrients"
+    },
+    {
+      "marker_name": "metabolic_health"
+    }
+  ],
+  "protocol_notes": "Age 41.5 years old. Uses testosterone enanthate 100mg/week via TRT. Gets quarterly blood tests, regular DEXA scans, and tracks daily metrics including weight, fat/muscle mass, sleep, HRV, SpO2, BP, and ECG via smart devices. Notes that Retatrutide is harsh on sympathetic nervous system and recommends Tirzepatide as longer-term option. Notes MOTS-c can increase SNS activity. Uses KLOW twice daily. Alternates between CJC+IPA and Tesamorelin protocols.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.656868Z"
+}

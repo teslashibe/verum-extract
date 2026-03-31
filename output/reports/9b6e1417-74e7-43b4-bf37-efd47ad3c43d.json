@@ -1,0 +1,53 @@
+{
+  "id": "9b6e1417-74e7-43b4-bf37-efd47ad3c43d",
+  "source_id": "1o3rk3w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o3rk3w/bad_reaction_to_first_shot_of_retatrutide_trying/",
+  "author_hash": "5988e57a4e17860a319c3529dada4f977d485da111f48c7ff76afd889e7c6a4b",
+  "confidence_tier": 4,
+  "date_published": "2025-10-11T02:49:55-07:00",
+  "health_conditions": [
+    "eating problems"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "single dose",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "helped with serious eating problems had whole life",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "fat_loss",
+      "description": "lost almost 7 pounds",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "red, itchy and swollen eyes, woke up day after injection",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "First injection. Received from friend. Fiancé and other friends using same source without issues aside from regular nausea. Suspected possible contamination from bacteriostatic water or vial. Three doctors seen with conflicting diagnoses (infection, allergic reaction, allergic reaction). No hives or rashes on body per hospital doctor. Symptoms slightly improving by day 7.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.679663Z"
+}

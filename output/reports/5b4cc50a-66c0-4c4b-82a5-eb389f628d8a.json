@@ -1,0 +1,36 @@
+{
+  "id": "5b4cc50a-66c0-4c4b-82a5-eb389f628d8a",
+  "source_id": "1riovis",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1riovis/motsc/",
+  "author_hash": "39c99dfd39a257972b1bd3d3721c5092b17b12645f005a36570a1e544e001b76",
+  "confidence_tier": 5,
+  "date_published": "2026-03-02T02:01:45-08:00",
+  "training_status": "competitive runner/cyclist",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "once",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_sugar",
+      "description": "became kind-of-hypoglycemic",
+      "severity": "moderate",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "Research subject (RS). First dose two days prior to post. Considering lower starting dose of 1-3mg 3x weekly based on research. Questions whether MOTS-c is beneficial for endurance performance or risks mitochondrial over-stress.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.669958Z"
+}

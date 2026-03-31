@@ -1,0 +1,53 @@
+{
+  "id": "eebeffa8-a89d-4e2d-9ea2-c791c5dda28c",
+  "source_id": "1k2l1qm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k2l1qm/glp1s_are_so_misunderstood_and_hated_on/",
+  "author_hash": "cf76ae5e7f35488086d11bc45b8e5eb2cc812de9533a8840fbf98fd9f92666e5",
+  "confidence_tier": 4,
+  "date_published": "2025-04-18T18:31:16-07:00",
+  "health_conditions": [
+    "sleep apnea (required CPAP)",
+    "hypertension (required BP medication)",
+    "high cholesterol"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GLP-1 (unspecified)",
+      "name_normalized": "glp_1_unspecified",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "No longer needs CPAP machine at 90 days",
+      "severity": "significant",
+      "onset_days": 90
+    },
+    {
+      "category": "other",
+      "description": "No longer needs blood pressure medication at 8 months",
+      "severity": "significant",
+      "onset_days": 240
+    },
+    {
+      "category": "other",
+      "description": "Cholesterol numbers cannot get any better at 8 months",
+      "severity": "significant",
+      "onset_days": 240
+    },
+    {
+      "category": "fat_loss",
+      "description": "Weight loss described as one of the mild side effects, multiple other body benefits noted",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "8 months of use. Considers weight loss just one mild benefit among many. Describes the drug as a miracle.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.285684Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "39af118c-98f5-4da0-bf6a-12dfeeae8e08",
+  "source_id": "1r9jkny",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9jkny/tesamorelin_initial_results_after_6_weeks/",
+  "author_hash": "d762146b29aca95df4ac24675a7dc5aa76f22e61f9866fcbf915306ae3cc2ac5",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T18:46:38-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 300,
+    "unit": "lbs"
+  },
+  "training_status": "powerlifter, 6 days/week gym, 500 lb deadlift, 1100 lb powerlifting club",
+  "health_conditions": [
+    "history of severe obesity",
+    "diabetes"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Visceral fat reduction, gut deflation. Weight loss of 5 pounds over 6 weeks concentrated in abdominal area rather than overall body fat.",
+      "severity": "significant",
+      "onset_days": 30
+    },
+    {
+      "category": "body_composition",
+      "description": "Visible reduction in visceral fat; able to zip coat that was previously too tight; noticeable improvement in abdominal appearance",
+      "severity": "significant",
+      "onset_days": 30
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C",
+      "value_after": 4.7,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "User fasted for at least 3 hours before dosing. Also on prescribed Mounjaro (semaglutide). Plans to continue at 2mg as long as affordable, hoping to maintain at least 1mg for 6 months. User is 2 years into weight loss journey (lost 250 lbs from starting weight of 550 lbs).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.674162Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "9bf88231-0002-4f8e-a857-f149126c881d",
+  "source_id": "1latk73",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1latk73/dexa_scan_results_as_promised/",
+  "author_hash": "0d22f546576bcfb02062461805bd4346c887e710776a5967ce2f73b9b5c23647",
+  "confidence_tier": 4,
+  "date_published": "2025-06-13T15:52:44-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Gained nearly 2 lbs of muscle in one week according to bioimpedance scale",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "fat_loss",
+      "description": "Down over 2% body fat in one week",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "First time taking muscle building peptides. Using CJC/Ipamorelin blend. Tracking with daily MorphoScan bioimpedance scale. Note: bioimpedance scales are less accurate than DEXA scans.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.689404Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "b71562a1-d80b-4467-aa34-927a2049da16",
+  "source_id": "1s3yfim",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3yfim/first_time_glp_user_tirzepatide_vs_retatrutide/",
+  "author_hash": "e0f529c11598f551b3c75b4db4752e678805c8613e1485aa9110bd63b0fd9c1d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T22:07:06-07:00",
+  "training_status": "lifting",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "50 lbs lost during cut on tirzepatide",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Energy boost with retatrutide swap once titrated up",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Notable difference in appetite suppression between compounds; months on tirzepatide made retatrutide higher food noise more tolerable",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Used tirzepatide for bulk of recent cut (50 lbs), then swapped to retatrutide for maintenance and recomp. Titrated up on retatrutide.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.646682Z"
+}

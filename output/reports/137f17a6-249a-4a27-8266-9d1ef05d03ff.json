@@ -1,0 +1,39 @@
+{
+  "id": "137f17a6-249a-4a27-8266-9d1ef05d03ff",
+  "source_id": "1pmy5cv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pmy5cv/anyone_got_the_copper_uglies_after_starting_ghkcu/",
+  "author_hash": "26934c93c70b4c35e292cc0ca3584d646d7a989415a786f4e26adaa7b2d3ec28",
+  "confidence_tier": 4,
+  "date_published": "2025-12-14T20:13:19-08:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Zinc",
+      "name_normalized": "zinc",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Copper uglies",
+      "severity": "moderate",
+      "onset_days": 14,
+      "resolved": true,
+      "resolution_days": 8
+    }
+  ],
+  "protocol_notes": "Takes zinc and moisturizes a few times per week before bed",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.390684Z"
+}

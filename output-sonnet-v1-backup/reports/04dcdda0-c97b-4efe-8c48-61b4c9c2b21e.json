@@ -1,0 +1,43 @@
+{
+  "id": "04dcdda0-c97b-4efe-8c48-61b4c9c2b21e",
+  "source_id": "1mfempd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mfempd/semax_helped_me_recover_after_a_stroke_walking/",
+  "author_hash": "2499829416f7dc5e324b44fdabf26074d728b5a12e4e1bbd4c5d23bf0b9d7573",
+  "confidence_tier": 4,
+  "date_published": "2025-08-01T18:57:21-07:00",
+  "health_conditions": [
+    "anxiety"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "semax + selank 10 mg blend",
+      "name_normalized": "semax__selank_10_mg_blend",
+      "category": "other",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Zoloft 50 mg",
+      "name_normalized": "zoloft_50_mg",
+      "category": "other",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "Feels incredible when taking the peptides blend alongside Zoloft",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Recently started. Taking semax+selank blend in addition to ongoing Zoloft 50mg prescription.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.276852Z"
+}

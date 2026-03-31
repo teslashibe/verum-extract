@@ -1,0 +1,65 @@
+{
+  "id": "e42aac23-31e8-415d-b853-717437ebf3fc",
+  "source_id": "1k64mvi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k64mvi/someone_posted_about_a_17_yo_taking_a_peptide/",
+  "author_hash": "737b4fbf0fee362bd44aff5e9184a0bedbb842a88010517a2001abac1ca6b0e0",
+  "confidence_tier": 4,
+  "date_published": "2025-04-23T10:13:17-07:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "low testosterone"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "route": "subcutaneous",
+      "dose_value": 1000,
+      "dose_unit": "IU",
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Anastrozole",
+      "name_normalized": "anastrozole",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "felt way better after starting HCG",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "feels slightly lethargic and constantly tired",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "total testosterone",
+      "value_before": 7,
+      "value_after": 21.4,
+      "unit": "ng/dL or similar"
+    },
+    {
+      "marker_name": "free testosterone",
+      "value_after": 572,
+      "unit": "pmol/L"
+    }
+  ],
+  "protocol_notes": "User on HCG/anastrozole protocol for low T to maintain fertility while attempting to conceive. Wife attempting to have a family. Uses IVF. Gets blood work every 6 months. Also has sperm analysis in good range. High stress job, building a home, sleep issues. Considering additional peptide support for energy/sleep.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.409324Z"
+}

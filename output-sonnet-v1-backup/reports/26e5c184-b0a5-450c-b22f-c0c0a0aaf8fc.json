@@ -1,0 +1,45 @@
+{
+  "id": "26e5c184-b0a5-450c-b22f-c0c0a0aaf8fc",
+  "source_id": "1rllqkl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rllqkl/anyone_get_side_effects_from_mt2_switch_to_mt1/",
+  "author_hash": "e86c8a3acdedbcfa6637407c9284ee710a02c1dbcbe20ee16128122f8d88213a",
+  "confidence_tier": 5,
+  "date_published": "2026-03-05T08:15:35-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MT2",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MT1",
+      "name_normalized": "melanotan_1",
+      "category": "tanning",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "headache",
+      "description": "Headache"
+    },
+    {
+      "category": "other",
+      "description": "Blood vessel spasms"
+    },
+    {
+      "category": "libido_change",
+      "description": "Permanent loss of libido",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "User reports side effects from both MT1 and MT2, implying neither helped avoid the side effects. Possible contamination was raised by OP.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112033Z"
+}

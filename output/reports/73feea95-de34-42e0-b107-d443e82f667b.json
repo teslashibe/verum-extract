@@ -1,0 +1,40 @@
+{
+  "id": "73feea95-de34-42e0-b107-d443e82f667b",
+  "source_id": "1rxu7de",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rxu7de/reta_every_63_days/",
+  "author_hash": "02436a953a0a655b22256eb2e8e46efcb24804e62b01d47107e1943c55e61c0f",
+  "confidence_tier": 4,
+  "date_published": "2026-03-19T00:48:18-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "every 5 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "More stable appetite suppression and lower peak allows still eating",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Unconsciously got snacky on 6 day dosing",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Tried 6 day dosing (too much appetite rebound), then every 4 days, settled on every 5 days as optimal. Found that more stable dosing with lower peak works better for maintaining appetite control.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.661337Z"
+}

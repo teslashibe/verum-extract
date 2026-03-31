@@ -1,0 +1,54 @@
+{
+  "id": "976f124d-a23e-4837-8c3e-9b1f73cf1dcd",
+  "source_id": "1n5qiin",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n5qiin/tesaipa_vs_hgh_cost_effectiveness_and_longterm/",
+  "author_hash": "d53a5f9faf28a7828b5721da64f7e2e35548590e643f373d22955f98128d19d1",
+  "confidence_tier": 4,
+  "date_published": "2025-09-01T07:40:54-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Beer belly getting flatter, visible body composition changes",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Able to hit PRs, improved strength",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Improved recovery",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Improved sleep",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "bloodwork"
+    }
+  ],
+  "protocol_notes": "Running 5 IU HGH with no issues, no side effects. Bloodwork looks good. Recommends starting slow at 2-3 IU and remaining there for at least 2 weeks before titrating up.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.273127Z"
+}

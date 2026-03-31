@@ -1,0 +1,61 @@
+{
+  "id": "e3c0b093-32d2-4c73-b260-6afdba2ecce0",
+  "source_id": "1p4t0os",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p4t0os/can_i_do_bpc157_tb500_with_a_thyroid_tumor/",
+  "author_hash": "ced9a73c9dd9e7578086a9ec9543bdee5e955b8542c41a2f5316404d38f4d2f1",
+  "confidence_tier": 4,
+  "date_published": "2025-11-23T09:48:51-08:00",
+  "health_conditions": [
+    "thyroid cancer (history - total thyroidectomy February)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Levothyroxine",
+      "name_normalized": "levothyroxine",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ostarine",
+      "name_normalized": "ostarine",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Has not felt better since thyroidectomy and receiving all clear from cancer",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Total thyroidectomy in February for cancerous thyroid. One cancerous nodule, others benign. Has been given all-clear. Using Levothyroxine 100mcg daily. Using Ostarine, BPC-157, Tirzepatide, and Retatrutide since receiving all-clear. Notes Tirzepatide not meant to be taken with hypothyroidism but has no hypothyroidism with medicated levels. UK NHS patient - no prescription costs for life after thyroidectomy. Thyroid cancer described as usually non-aggressive, slow-spreading, easily treated.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.393033Z"
+}

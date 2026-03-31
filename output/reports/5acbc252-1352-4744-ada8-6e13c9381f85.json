@@ -1,0 +1,71 @@
+{
+  "id": "5acbc252-1352-4744-ada8-6e13c9381f85",
+  "source_id": "1rk287p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rk287p/hgh_secretagogue_bloodwork/",
+  "author_hash": "093e86db3910eb38b80a498fb205c472a1a687839a73ff0612b58e4755244768",
+  "confidence_tier": 4,
+  "date_published": "2026-03-03T13:32:01-08:00",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "nightly, 5 days on 2 days off",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Better sleep",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Enhanced recovery",
+      "severity": "moderate"
+    },
+    {
+      "category": "body_composition",
+      "description": "Noticeable improvements in body composition",
+      "severity": "moderate"
+    },
+    {
+      "category": "skin",
+      "description": "No carpal tunnel syndrome",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_sugar",
+      "description": "No glucose intolerance or insulin resistance"
+    },
+    {
+      "category": "water_retention",
+      "description": "No noticeable water retention"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 180,
+      "value_after": 399,
+      "unit": "ng/mL"
+    },
+    {
+      "marker_name": "IGF-1",
+      "value_after": 383,
+      "unit": "ng/mL"
+    }
+  ],
+  "protocol_notes": "Second reading at 383 ng/mL after 5 days on, 2 days off schedule. User notes they may be an outlier in how their IGF-1 responded compared to others. Did not add GHRPs or additional GHRHs.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.669307Z"
+}

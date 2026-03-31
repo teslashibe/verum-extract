@@ -1,0 +1,41 @@
+{
+  "id": "6cf6277b-166b-459c-bc8c-d36cfbf78231",
+  "source_id": "1qqyfm0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqyfm0/anyone_else_not_feeling_the_effects_of_retatrutide/",
+  "author_hash": "1d11ddc155e6dbe075d8cb6a5bbff1c7dc4ea1e54ef9eb565c3af7ff7d4b8709",
+  "confidence_tier": 5,
+  "date_published": "2026-01-29T23:01:56-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Vomiting for two days after starting at 2.5mg",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 2
+    },
+    {
+      "category": "other",
+      "description": "Cramps lasting two days",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 2
+    }
+  ],
+  "protocol_notes": "Had previous experience with Retatrutide and thought starting at 2.5mg would be acceptable due to prior use. Experienced severe adverse effects.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123077Z"
+}

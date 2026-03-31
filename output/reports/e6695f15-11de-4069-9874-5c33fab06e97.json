@@ -1,0 +1,37 @@
+{
+  "id": "e6695f15-11de-4069-9874-5c33fab06e97",
+  "source_id": "1rmrqov",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmrqov/reta_semax_glow_stack/",
+  "author_hash": "6c84861f875bf9ca45c7a32b0ed4b3c832c78ad580b5199f0fb34704980a66e7",
+  "confidence_tier": 5,
+  "date_published": "2026-03-06T14:07:05-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "frequency": "morning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "frequency": "morning",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "GLOW and Klow negatively affect sleep when taken in morning"
+    }
+  ],
+  "protocol_notes": "User takes all three compounds in the morning despite experiencing sleep disruption from GLOW/Klow.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.25,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.656027Z"
+}

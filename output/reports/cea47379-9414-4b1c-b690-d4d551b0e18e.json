@@ -1,0 +1,47 @@
+{
+  "id": "cea47379-9414-4b1c-b690-d4d551b0e18e",
+  "source_id": "o4xqfn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/o4xqfn/started_bpc_yesterday/",
+  "author_hash": "161577c802c3c2062c1570e251e5d21f947f83ed5db7208d81e83a73638feb6c",
+  "confidence_tier": 4,
+  "date_published": "2021-06-21T08:28:37-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "medication_interaction",
+      "description": "Gradual reduction in efficacy of stimulant medications and blood pressure medications",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "medication_interaction",
+      "description": "Total shutdown of response to medications/drugs after 2 days on third dose",
+      "severity": "significant",
+      "onset_days": 2,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "other",
+      "description": "Effects of medication blunting persist longer after stopping BPC the longer you are on it",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Third dose using oral form (pills). Previous two doses appear to have been injected. Affected response to stimulants and blood pressure medications. Warned about caffeine interaction.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.702881Z"
+}

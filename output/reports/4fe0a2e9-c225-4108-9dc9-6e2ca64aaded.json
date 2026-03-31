@@ -1,0 +1,73 @@
+{
+  "id": "4fe0a2e9-c225-4108-9dc9-6e2ca64aaded",
+  "source_id": "1dpkoy6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1dpkoy6/thinking_about_stopping_ipacjc_because_im_scared/",
+  "author_hash": "3f900b7755d6a974155da6bc58bf35a1e5692b922e213516f2b48088e5ebd7b8",
+  "confidence_tier": 4,
+  "date_published": "2024-06-26T23:35:28-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "training_status": "MMA athlete, currently recovering from elbow surgery",
+  "health_conditions": [
+    "elbow fracture requiring surgery"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "frequency": "weekly (starting daily protocol)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Feeling thicker and stronger",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Recovering quicker from workouts",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "Motivates to workout and run",
+      "severity": "mild"
+    },
+    {
+      "category": "body_composition",
+      "description": "Noticeable boost to testosterone levels (~1 nmol increase)",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "unit": "nmol/L",
+      "timeframe_days": 30
+    }
+  ],
+  "protocol_notes": "User reports high baseline testosterone for age. Started peptides to speed up healing from elbow surgery alongside BPC-157. Decided to discontinue due to cancer fear after dream and wife's concern. Overall positive subjective experience before discontinuation.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.414745Z"
+}

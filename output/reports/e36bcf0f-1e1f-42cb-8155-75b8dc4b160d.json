@@ -1,0 +1,35 @@
+{
+  "id": "e36bcf0f-1e1f-42cb-8155-75b8dc4b160d",
+  "source_id": "1qzps3b",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qzps3b/bruising/",
+  "author_hash": "58164439334cc52a9d1a6bb1b0c517dd91ee260f561a23d8af980a1fd70e10c0",
+  "confidence_tier": 4,
+  "date_published": "2026-02-08T16:35:34-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 7,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "bruising at injection sites",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User has been taking GHK-Cu for a couple weeks. Aware of 'copper uglies' side effect. Injecting subcutaneously once daily at 7 units. Seeking information about bruising as a side effect.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.666012Z"
+}

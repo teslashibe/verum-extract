@@ -1,0 +1,52 @@
+{
+  "id": "dcd5e7d3-b854-4419-8d90-57daf6ca654a",
+  "source_id": "15nlp06",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/15nlp06/i_need_help_finding_the_best_peptides_to_help/",
+  "author_hash": "dbd3d337cdef9428d3912dd1486c0946989320a00be59ee3bd1596f9bf588074",
+  "confidence_tier": 5,
+  "date_published": "2023-08-10T12:22:16-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 187,
+    "unit": "lbs"
+  },
+  "training_status": "recreational, treadmill/rowing 45 min 2x/week, weights 2x/week at home",
+  "health_conditions": [
+    "chronic anemia",
+    "eczema",
+    "loose skin"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Feels much better overall; lost significant weight (HW 249, CW 187)",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Still experiencing tiredness despite weight loss and semaglutide use",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Started semaglutide in April 2023. HW 249 lbs, CW 187 lbs, GW 155 lbs. Concerned about loose skin, lack of muscle mass, and increased signs of aging. Frequent bloodwork done; all good except chronic anemia. Sleeps 6-7 hrs weekdays, 8+ weekends.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.297233Z"
+}

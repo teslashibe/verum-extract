@@ -1,0 +1,52 @@
+{
+  "id": "2e8df599-dc6b-4430-be13-2ada0d458153",
+  "source_id": "1p4e598",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p4e598/concerns_about_glow_peptide/",
+  "author_hash": "68053bdf3ec375408e1fddf794516d643f275ccc48e694e788a68d4e17166cd8",
+  "confidence_tier": 4,
+  "date_published": "2025-11-22T21:02:00-08:00",
+  "health_conditions": [
+    "knee joint problems",
+    "shoulder joint problems",
+    "poor skin health"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "GLOW blend prescribed by doctor. OP is concerned about GHK-Cu dosing being above recommendations and subtherapeutic doses of BPC-157 and TB-500. OP mentions 2 injections completed. Goals: therapeutic benefits for joint issues and skin health, not cosmetic.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.393116Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ca84686d-00fb-4d49-beed-a4ef876526fe",
+  "source_id": "1rvaquf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvaquf/timing_question/",
+  "author_hash": "e6a4e31bdd58c4846d1a2d8c17e890614a36c1b515ff455ff8f5df28478fc901",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T07:19:38-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "once daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Poor sleep and recovery scores on Whoop tracker when taking Tesamorelin/Ipamorelin blend before bed; sleep and recovery improve on days off from peptides",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User is new to peptides. Takes BPC-157 in the morning fasted. Takes Tesamorelin/Ipamorelin blend in pre-mixed form before bed. Concerned about timing relative to meals affecting effectiveness. Considering adjusting timing to improve sleep and recovery.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.663022Z"
+}

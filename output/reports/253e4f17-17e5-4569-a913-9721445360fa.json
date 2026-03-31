@@ -1,0 +1,49 @@
+{
+  "id": "253e4f17-17e5-4569-a913-9721445360fa",
+  "source_id": "1p0i2wh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p0i2wh/help_me_design_my_stack/",
+  "author_hash": "12bdd383beb5cd5c5fefc123df7e03e17b0a28278602093e175b4325280cf258",
+  "confidence_tier": 4,
+  "date_published": "2025-11-18T09:27:48-08:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone Cypionate",
+      "name_normalized": "testosterone_cypionate",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily at night",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 20 lbs in 5 weeks on reta and tesamorelin",
+      "severity": "significant",
+      "onset_days": 35
+    }
+  ],
+  "protocol_notes": "Been on TRT for 1 year, started Reta 1 month ago, started Tesamorelin 1 week ago. Has 40-50 lbs more weight loss goal.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.393395Z"
+}

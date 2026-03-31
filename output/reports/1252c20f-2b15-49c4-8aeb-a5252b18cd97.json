@@ -1,0 +1,50 @@
+{
+  "id": "1252c20f-2b15-49c4-8aeb-a5252b18cd97",
+  "source_id": "1rtra6z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rtra6z/ss31_severe_fatigue_and_tiredness/",
+  "author_hash": "3159b5e4d4d993686c2748bbfd6159b457ec382d9420daa6605713104209c2bc",
+  "confidence_tier": 4,
+  "date_published": "2026-03-14T11:42:49-07:00",
+  "health_conditions": [
+    "chronic illness",
+    "Lyme disease",
+    "MCAS",
+    "IBD",
+    "POTS",
+    "long COVID"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 3,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "severe fatigue, falling asleep all the time",
+      "severity": "significant",
+      "onset_days": 3
+    },
+    {
+      "category": "other",
+      "description": "warm achy legs, 5x effort when moving",
+      "severity": "significant",
+      "onset_days": 3
+    }
+  ],
+  "protocol_notes": "Obtained from compounding pharmacy. User chronically ill with multiple conditions. Planning to reduce dose to 100mcg and skip a few days to assess if symptoms taper off.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.663945Z"
+}

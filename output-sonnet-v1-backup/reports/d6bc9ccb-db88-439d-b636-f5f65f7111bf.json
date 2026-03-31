@@ -1,0 +1,46 @@
+{
+  "id": "d6bc9ccb-db88-439d-b636-f5f65f7111bf",
+  "source_id": "1rwczgz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwczgz/retatrutide_and_cjcipamorelin_33_years_old/",
+  "author_hash": "1e77fda5a81643adaaa48fac6ed094f43bf4c15538d8a94308f91b41d5985f1b",
+  "confidence_tier": 5,
+  "date_published": "2026-03-17T10:22:29-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "health_conditions": [
+    "low testosterone (270 ng/dL natural)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Test (Testosterone)",
+      "name_normalized": "test_testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "every 2 weeks",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Feels sluggish at the end of the two weeks on testosterone",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_before": 270,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "OP is 33 years old, approximately 50 pounds overweight, currently on TRT. Asking about experience with Retatrutide and CJC/Ipamorelin combo for fat loss based on a friend's recommendation.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.107254Z"
+}

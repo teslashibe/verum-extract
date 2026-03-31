@@ -1,0 +1,71 @@
+{
+  "id": "5869c29b-5cbb-4c02-86cd-add8cbfd5be3",
+  "source_id": "1rurgm2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rurgm2/aod_9604_for_burning_subcutaneous_fat/",
+  "author_hash": "3f48810a753d504442851117776112e1f25bff55adb2cc490d8c6135162a9a94",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T15:10:51-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 198,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Helped jump start weight loss after hitting a plateau. Started at 253 lbs, currently 198 lbs.",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Running stack fasted at night. Height 6'2\". Currently on AOD-9604 after hitting weight loss plateau.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.651483Z"
+}

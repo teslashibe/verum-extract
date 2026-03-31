@@ -1,0 +1,64 @@
+{
+  "id": "c2cf1baa-938e-4934-9c37-ea31f29b31b5",
+  "source_id": "1qqwqer",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqwqer/reta_and_hgh/",
+  "author_hash": "0ddee1db707be7543c1d47ab610c85963ad383035bcb6e4630d4eef18f750bf6",
+  "confidence_tier": 4,
+  "date_published": "2026-01-29T21:28:31-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 3.5,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Reta helps maintain insulin sensitivity and supports fat loss",
+      "severity": "moderate"
+    },
+    {
+      "category": "body_composition",
+      "description": "Working up to 5IU of GH for recomposition",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Ankles swelled up when increasing HGH too quickly",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User advises starting low on HGH and titrating slowly to avoid side effects. Experienced user on TRT + Reta + HGH stack.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669237Z"
+}

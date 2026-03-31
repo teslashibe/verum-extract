@@ -1,0 +1,65 @@
+{
+  "id": "954fea34-96b2-49f0-bdab-6197ec3dcb69",
+  "source_id": "1pkspf9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pkspf9/51_male_on_trt_thoughts_on_ipa_and_reta/",
+  "author_hash": "061e645f68f69a3c0912db0886b1d8cb806bad16b6f8cf4fda8bacc90f8b5a3d",
+  "confidence_tier": 4,
+  "date_published": "2025-12-12T06:05:10-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 200,
+    "unit": "lbs"
+  },
+  "training_status": "active",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "units",
+      "frequency": "50 units twice weekly (Wednesday and Saturday)",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Testosterone",
+      "value_after": 1500,
+      "unit": "ng/dL"
+    },
+    {
+      "marker_name": "Estradiol"
+    },
+    {
+      "marker_name": "Blood viscosity"
+    }
+  ],
+  "protocol_notes": "42 years old, 5'8\" 200 lbs. Height is 6 feet in OP's case. On TRT for 7 years. All testosterone tests come back 1500+, other markers (estradiol, blood thickness) completely fine. Recommends BPC-157, KPV, and/or TB500 at maintenance levels along with creatine for OP's situation.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.674658Z"
+}

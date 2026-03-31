@@ -1,0 +1,50 @@
+{
+  "id": "1a1b5421-9e50-4a83-9139-f7f0e5cb972b",
+  "source_id": "1kkew5z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kkew5z/stacking/",
+  "author_hash": "8b0095fb27cb2b19a930d242394e95746fd7bff3b18acd5f62258786c2835aae",
+  "confidence_tier": 4,
+  "date_published": "2025-05-11T16:54:38-07:00",
+  "training_status": "resistance training 3x per week with personal trainer",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "feels full quicker",
+      "severity": "mild"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "gained a little muscle in arms",
+      "severity": "mild"
+    },
+    {
+      "category": "fat_loss",
+      "description": "small fat loss in arms but nowhere else",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Initially ordered Semaglutide from Mochi but after 6 weeks without shipping, switched to another company for Tirzepatide. Semaglutide arrived after 3 months (cancelled but still delivered). Currently on 5mg Tirzepatide per week for almost 2 months. Tracking calories with MyFitnessPal at 1200-1300 per day. DEXA scans performed every few weeks by trainer. No appetite suppression or food noise reduction noted with Tirzepatide despite full feeling.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.691138Z"
+}

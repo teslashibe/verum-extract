@@ -1,0 +1,48 @@
+{
+  "id": "6f106483-d339-4dfd-840a-0e6241b669b1",
+  "source_id": "1r3vlzo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r3vlzo/is_ghkcu_better_taken_injecting_or_through/",
+  "author_hash": "53063f621749b46acb31f6290be1df5965ceb9eeecf85b7a7011ebf0f75cd345",
+  "confidence_tier": 5,
+  "date_published": "2026-02-13T09:37:06-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Topical with microneedling better for facial skin",
+      "severity": "moderate"
+    },
+    {
+      "category": "hair",
+      "description": "SubQ injection provides overall benefits including hair and skin quality",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "SubQ injection provides faster recovery",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Recommends topical with microneedling for facial skin benefits; subQ injection for systemic benefits including hair, skin quality, and recovery.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.676527Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1c5c81af-cd2a-42d2-a35b-815569a5d7bc",
+  "source_id": "1al8dbz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1al8dbz/epitalon_vs_epithalamin_dosing_wars/",
+  "author_hash": "977d01481bc7ce5351fb666458d1dbafaa31db1999696715ab0fe2a89483640e",
+  "confidence_tier": 4,
+  "date_published": "2024-02-07T09:27:38-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 0.15,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 0.3,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "50mg bottles from Peptide Science diluted with 3ml bacteriostat water each. Pulling 3 units Epitalon and 6 units GHK-Cu from 1ml syringe. First dose last night at time of report.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.699046Z"
+}

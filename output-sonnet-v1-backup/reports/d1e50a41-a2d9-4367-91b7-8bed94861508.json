@@ -1,0 +1,57 @@
+{
+  "id": "d1e50a41-a2d9-4367-91b7-8bed94861508",
+  "source_id": "o4xqfn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/o4xqfn/started_bpc_yesterday/",
+  "author_hash": "400057fb0cfea2f9905c1ffb63acb55831227f1e3f905b79d08a1e90dd29b0b3",
+  "confidence_tier": 4,
+  "date_published": "2021-06-21T08:28:37-07:00",
+  "training_status": "active athlete, returning to gym after injury",
+  "health_conditions": [
+    "tennis elbow",
+    "golf elbow"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157 oral",
+      "name_normalized": "bpc157_oral",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157 (pinning)",
+      "name_normalized": "bpc_157_pinning",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 7,
+      "dose_unit": "mg",
+      "frequency": "per week",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Recovered from tennis elbow (one arm) and golf elbow (other arm) after 5 months out of gym/sports. Now 3 days back into gentle lifting routine.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started with oral BPC-157 at 250mcg morning and night, then transitioned to injecting 400mcg morning and night plus 7mg TB500 per week. Total time on protocol: 5 weeks.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.429803Z"
+}

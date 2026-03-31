@@ -1,0 +1,42 @@
+{
+  "id": "6306f048-4c3f-4da0-891d-d0d32321db55",
+  "source_id": "1rg4yw1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rg4yw1/retatrutide_advise/",
+  "author_hash": "c48bd871b55b412328336b537f5ad91a6976546ae84714c89768217da4c60483",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T04:08:35-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Magnesium",
+      "name_normalized": "magnesium",
+      "category": "other",
+      "route": "oral",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleeps through the night with magnesium supplementation",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Taking magnesium supplement since October. Reports good sleep quality while on Retatrutide 2.5 mg twice weekly.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.659334Z"
+}

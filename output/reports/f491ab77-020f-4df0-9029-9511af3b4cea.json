@@ -1,0 +1,71 @@
+{
+  "id": "f491ab77-020f-4df0-9029-9511af3b4cea",
+  "source_id": "1kw83hc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kw83hc/pt141/",
+  "author_hash": "4acab240e48459ac90c7b2805d865f99b7d80ce518bdbdc8cc17589df86769b1",
+  "confidence_tier": 4,
+  "date_published": "2025-05-26T15:57:14-07:00",
+  "reported_sex": "male",
+  "compounds": [
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "dose_value": 1.25,
+      "dose_unit": "mg",
+      "frequency": "single dose",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "single dose",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "twice",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "libido",
+      "description": "At 3mg: soft erection 80% of day and night while asleep for 5 days following initial flu-like response",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Flushing at 1.25-2mg doses",
+      "severity": "mild"
+    },
+    {
+      "category": "nausea",
+      "description": "Nausea at 1.25-2mg doses on first two attempts",
+      "severity": "mild"
+    },
+    {
+      "category": "other",
+      "description": "Flu-like symptoms at 3mg dose",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Tested dose escalation from 1.25mg to 3mg. Noted no effects at lower doses until 3mg dose, which produced delayed benefit after acute side effects resolved.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.407523Z"
+}

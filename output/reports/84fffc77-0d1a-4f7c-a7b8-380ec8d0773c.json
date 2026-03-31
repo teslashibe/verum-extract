@@ -1,0 +1,49 @@
+{
+  "id": "84fffc77-0d1a-4f7c-a7b8-380ec8d0773c",
+  "source_id": "1bo5olh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bo5olh/bpc157_freaking_me_out_a_bit/",
+  "author_hash": "f99a3d7ed956aa0dc156fe82ead247bd7714caeb0ce7b9a2250e38031eb978be",
+  "confidence_tier": 4,
+  "date_published": "2024-03-26T04:36:02-07:00",
+  "training_status": "athlete (suspected shoulder injury)",
+  "health_conditions": [
+    "suspected labrum tear",
+    "high baseline stress/anxiety"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "cycle_length_days": 3,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anxiety_relief",
+      "description": "instant reduction in stress/anxiety, anti-anxiety effect reported",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "pain_relief",
+      "description": "shooting/BANG pain sensations behind shoulder and front of shoulder; uncomfortable but not painful, intermittent (occurs randomly ~1 hour intervals)",
+      "severity": "mild",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Injection location: left side deltoid (local injection) using 0.5 inch needle. Started 3 days prior to comment. Pain description suggests possible injection site reaction or nerve involvement rather than compound effect.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698286Z"
+}

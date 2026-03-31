@@ -1,0 +1,42 @@
+{
+  "id": "29b5decf-07c8-4318-9f48-2b6e29c32d2a",
+  "source_id": "1hiz4az",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1hiz4az/just_saw_teizepatide_was_approved_for_sleep_apnea/",
+  "author_hash": "34d1cc19187ff7736d773ced2ec6bd6d429b59a7f59940e548a21e5e373c24a8",
+  "confidence_tier": 5,
+  "date_published": "2024-12-20T17:31:12-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Semaglutide works really well"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Tirzepatide does nothing",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Tirzepatide ineffective; semaglutide works well.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.28882Z"
+}

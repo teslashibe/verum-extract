@@ -1,0 +1,52 @@
+{
+  "id": "43250a80-a18c-4ec3-a1a5-5f1a25315556",
+  "source_id": "1lcj57t",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lcj57t/my_peptide_progress/",
+  "author_hash": "d87e8dee454ec6ed6761ac1f8e2c4ffe626fdbd6ccfa24633c09d468d51baa92",
+  "confidence_tier": 4,
+  "date_published": "2025-06-15T20:48:49-07:00",
+  "training_status": "very lean",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "HGH caused joint aches above 2 IU dosing",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Body Fat Percentage",
+      "value_before": 10,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "User reports Tesa/Ipa did not provide significant results when already very lean (10% BF). Tried HGH but experienced joint aches above 2 IU. Considering CJC-1295 (waiting for no-DAC version from supplier). Interested in exploring CJC/Ipa combination and other fat burners besides clenbuterol.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.689163Z"
+}

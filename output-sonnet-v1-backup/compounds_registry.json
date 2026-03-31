@@ -1,0 +1,7565 @@
+[
+  {
+    "id": "bpc_157",
+    "name": "bpc_157",
+    "display_name": "BPC-157",
+    "aliases": [
+      "BPC-157",
+      "BPC157",
+      "BPC 157",
+      "Body Protection Compound",
+      "Body Protection Compound 157",
+      "Pentadecapeptide"
+    ],
+    "category": "healing_recovery",
+    "description": "Gastric pentadecapeptide with broad tissue-repair properties",
+    "mechanism": "Upregulates growth factor expression (VEGF, FGF), promotes angiogenesis, modulates nitric oxide system",
+    "common_routes": [
+      "subcutaneous",
+      "intramuscular",
+      "oral"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "tb_500",
+    "name": "tb_500",
+    "display_name": "TB-500",
+    "aliases": [
+      "TB-500",
+      "TB500",
+      "TB 500",
+      "Thymosin Beta-4 Fragment",
+      "Thymosin Beta-4",
+      "TB4",
+      "Tβ4"
+    ],
+    "category": "healing_recovery",
+    "description": "Thymosin beta-4 fragment promoting tissue repair and cell migration",
+    "mechanism": "Promotes cell migration and differentiation, upregulates actin, reduces inflammation",
+    "common_routes": [
+      "subcutaneous",
+      "intramuscular"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "ghk_cu",
+    "name": "ghk_cu",
+    "display_name": "GHK-Cu",
+    "aliases": [
+      "GHK-Cu",
+      "GHK Cu",
+      "GHKCu",
+      "Copper Peptide",
+      "GHK-Copper",
+      "GHK Copper",
+      "Glycyl-L-histidyl-L-lysine copper"
+    ],
+    "category": "skin_cosmetic",
+    "description": "Copper-binding tripeptide for skin and tissue remodeling",
+    "mechanism": "Stimulates collagen synthesis, glycosaminoglycan production, tissue remodeling, stem cell attraction",
+    "common_routes": [
+      "subcutaneous",
+      "topical"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "ahk_cu",
+    "name": "ahk_cu",
+    "display_name": "AHK-Cu",
+    "aliases": [
+      "AHK-Cu",
+      "AHK Cu",
+      "Copper Tripeptide-3",
+      "Tripeptide-3",
+      "Ala-His-Lys Copper"
+    ],
+    "category": "skin_cosmetic",
+    "description": "Copper-binding tripeptide for hair growth and skin regeneration",
+    "mechanism": "Stimulates hair follicle elongation and dermal papilla cell proliferation",
+    "common_routes": [
+      "topical"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "kpv",
+    "name": "kpv",
+    "display_name": "KPV",
+    "aliases": [
+      "KPV",
+      "Alpha-MSH Fragment"
+    ],
+    "category": "gut_health",
+    "description": "Tripeptide from alpha-MSH C-terminal with anti-inflammatory properties",
+    "mechanism": "Anti-inflammatory via NF-κB inhibition, antimicrobial, gut mucosal healing",
+    "common_routes": [
+      "oral",
+      "subcutaneous",
+      "topical"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "pentosan",
+    "name": "pentosan",
+    "display_name": "Pentosan Polysulfate",
+    "aliases": [
+      "Pentosan",
+      "Pentosan Polysulfate",
+      "PPS",
+      "Elmiron"
+    ],
+    "category": "healing_recovery",
+    "description": "Semi-synthetic polysulfated xylan for joint and tissue repair",
+    "mechanism": "GAG replenishment, anti-inflammatory, cartilage protection",
+    "common_routes": [
+      "subcutaneous",
+      "intramuscular",
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "ll_37",
+    "name": "ll_37",
+    "display_name": "LL-37",
+    "aliases": [
+      "LL-37",
+      "LL37",
+      "Cathelicidin"
+    ],
+    "category": "immune",
+    "description": "Human cathelicidin antimicrobial peptide",
+    "mechanism": "Direct antimicrobial activity, immune modulation, wound healing",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "cjc_1295_dac",
+    "name": "cjc_1295_dac",
+    "display_name": "CJC-1295 DAC",
+    "aliases": [
+      "CJC-1295 DAC",
+      "CJC-1295 with DAC",
+      "CJC DAC",
+      "CJC1295 DAC",
+      "CJC 1295 DAC"
+    ],
+    "category": "gh_secretagogue",
+    "description": "Long-acting GHRH analog with Drug Affinity Complex",
+    "mechanism": "GHRH analog with extended half-life via albumin binding, sustained GH elevation",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "cjc_1295_no_dac",
+    "name": "cjc_1295_no_dac",
+    "display_name": "CJC-1295 (no DAC)",
+    "aliases": [
+      "CJC-1295 no DAC",
+      "CJC-1295 without DAC",
+      "CJC-1295",
+      "CJC1295",
+      "Mod GRF 1-29",
+      "Mod GRF",
+      "Modified GRF",
+      "mod GRF 1-29"
+    ],
+    "category": "gh_secretagogue",
+    "description": "Short-acting GHRH analog preserving natural GH pulsatility",
+    "mechanism": "GHRH analog; stimulates pulsatile GH release from pituitary",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "ipamorelin",
+    "name": "ipamorelin",
+    "display_name": "Ipamorelin",
+    "aliases": [
+      "Ipamorelin",
+      "Ipa",
+      "Ipam",
+      "IPA"
+    ],
+    "category": "gh_secretagogue",
+    "description": "Selective GH secretagogue with minimal side effects",
+    "mechanism": "Selective ghrelin mimetic; stimulates GH release without significant cortisol/prolactin increase",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "mk_677",
+    "name": "mk_677",
+    "display_name": "MK-677",
+    "aliases": [
+      "MK-677",
+      "MK677",
+      "MK 677",
+      "Ibutamoren",
+      "Nutrobal",
+      "L-163,191"
+    ],
+    "category": "gh_secretagogue",
+    "description": "Oral GH secretagogue (non-peptide)",
+    "mechanism": "Non-peptide ghrelin receptor agonist; oral bioavailability, sustained GH/IGF-1 elevation",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "tesamorelin",
+    "name": "tesamorelin",
+    "display_name": "Tesamorelin",
+    "aliases": [
+      "Tesamorelin",
+      "Tesa",
+      "Egrifta"
+    ],
+    "category": "gh_secretagogue",
+    "description": "FDA-approved GHRH analog for lipodystrophy",
+    "mechanism": "GHRH analog; reduces visceral adipose tissue, increases GH/IGF-1",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "sermorelin",
+    "name": "sermorelin",
+    "display_name": "Sermorelin",
+    "aliases": [
+      "Sermorelin",
+      "Serm",
+      "Geref"
+    ],
+    "category": "gh_secretagogue",
+    "description": "GHRH(1-29) analog for GH stimulation",
+    "mechanism": "GHRH analog; stimulates natural GH production and pulsatility",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "hgh",
+    "name": "hgh",
+    "display_name": "HGH",
+    "aliases": [
+      "HGH",
+      "Human Growth Hormone",
+      "Growth Hormone",
+      "GH",
+      "Somatropin",
+      "rhGH"
+    ],
+    "category": "gh_secretagogue",
+    "description": "Recombinant human growth hormone",
+    "mechanism": "Direct GH replacement; stimulates IGF-1 production, promotes growth and repair",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "IU"
+  },
+  {
+    "id": "igf_1_lr3",
+    "name": "igf_1_lr3",
+    "display_name": "IGF-1 LR3",
+    "aliases": [
+      "IGF-1 LR3",
+      "IGF-1",
+      "IGF1 LR3",
+      "IGF LR3",
+      "Long R3 IGF-1"
+    ],
+    "category": "gh_secretagogue",
+    "description": "Long-acting insulin-like growth factor 1 analog",
+    "mechanism": "Potent IGF-1 analog with extended half-life; promotes muscle growth and recovery",
+    "common_routes": [
+      "subcutaneous",
+      "intramuscular"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "hexarelin",
+    "name": "hexarelin",
+    "display_name": "Hexarelin",
+    "aliases": [
+      "Hexarelin",
+      "Examorelin"
+    ],
+    "category": "gh_secretagogue",
+    "description": "Potent hexapeptide GH secretagogue",
+    "mechanism": "Ghrelin mimetic; strong GH release, may increase cortisol/prolactin at higher doses",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "ghrp_6",
+    "name": "ghrp_6",
+    "display_name": "GHRP-6",
+    "aliases": [
+      "GHRP-6",
+      "GHRP6",
+      "GHRP 6"
+    ],
+    "category": "gh_secretagogue",
+    "description": "Growth hormone releasing hexapeptide",
+    "mechanism": "Ghrelin mimetic; stimulates appetite and GH release",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "ghrp_2",
+    "name": "ghrp_2",
+    "display_name": "GHRP-2",
+    "aliases": [
+      "GHRP-2",
+      "GHRP2",
+      "GHRP 2"
+    ],
+    "category": "gh_secretagogue",
+    "description": "Growth hormone releasing peptide-2",
+    "mechanism": "Potent ghrelin mimetic; strong GH release with less appetite stimulation than GHRP-6",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "semaglutide",
+    "name": "semaglutide",
+    "display_name": "Semaglutide",
+    "aliases": [
+      "Semaglutide",
+      "Sema",
+      "Ozempic",
+      "Wegovy",
+      "Rybelsus",
+      "GLP-1"
+    ],
+    "category": "body_composition",
+    "description": "GLP-1 receptor agonist for weight management",
+    "mechanism": "Reduces appetite via hypothalamic signaling, slows gastric emptying, improves insulin sensitivity",
+    "common_routes": [
+      "subcutaneous",
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "tirzepatide",
+    "name": "tirzepatide",
+    "display_name": "Tirzepatide",
+    "aliases": [
+      "Tirzepatide",
+      "Tirz",
+      "Mounjaro",
+      "Zepbound",
+      "GIP/GLP-1"
+    ],
+    "category": "body_composition",
+    "description": "Dual GIP/GLP-1 receptor agonist",
+    "mechanism": "Dual incretin agonist; superior weight loss vs GLP-1 alone",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "retatrutide",
+    "name": "retatrutide",
+    "display_name": "Retatrutide",
+    "aliases": [
+      "Retatrutide",
+      "Reta",
+      "GGG agonist",
+      "LY3437943"
+    ],
+    "category": "body_composition",
+    "description": "Triple agonist (GLP-1/GIP/Glucagon)",
+    "mechanism": "Triple incretin agonist; targets GLP-1, GIP, and glucagon receptors",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "survodutide",
+    "name": "survodutide",
+    "display_name": "Survodutide",
+    "aliases": [
+      "Survodutide",
+      "BI 456906"
+    ],
+    "category": "body_composition",
+    "description": "Dual glucagon/GLP-1 receptor agonist",
+    "mechanism": "Glucagon/GLP-1 agonist for weight and MASH",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "aod_9604",
+    "name": "aod_9604",
+    "display_name": "AOD-9604",
+    "aliases": [
+      "AOD-9604",
+      "AOD9604",
+      "AOD 9604"
+    ],
+    "category": "body_composition",
+    "description": "Modified fragment of human growth hormone for fat metabolism",
+    "mechanism": "HGH fragment (176-191); stimulates lipolysis without IGF-1 elevation",
+    "common_routes": [
+      "subcutaneous",
+      "oral"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "5_amino_1mq",
+    "name": "5_amino_1mq",
+    "display_name": "5-Amino-1MQ",
+    "aliases": [
+      "5-Amino-1MQ",
+      "5-amino-1mq",
+      "5 amino 1MQ",
+      "NNMT inhibitor"
+    ],
+    "category": "body_composition",
+    "description": "NNMT inhibitor for fat metabolism",
+    "mechanism": "Inhibits NNMT enzyme; increases NAD+ and SAM, promotes fat cell energy expenditure",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "selank",
+    "name": "selank",
+    "display_name": "Selank",
+    "aliases": [
+      "Selank",
+      "TP-7"
+    ],
+    "category": "cognitive",
+    "description": "Tuftsin analog with anxiolytic and nootropic properties",
+    "mechanism": "GABA modulation, enhances BDNF expression, modulates IL-6, improves memory consolidation",
+    "common_routes": [
+      "nasal",
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "semax",
+    "name": "semax",
+    "display_name": "Semax",
+    "aliases": [
+      "Semax",
+      "ACTH(4-7)-PGP",
+      "Semax nasal"
+    ],
+    "category": "cognitive",
+    "description": "Synthetic ACTH analog with neuroprotective effects",
+    "mechanism": "Enhances BDNF/NGF, neuroprotective, improves attention and cognitive flexibility",
+    "common_routes": [
+      "nasal",
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "dihexa",
+    "name": "dihexa",
+    "display_name": "Dihexa",
+    "aliases": [
+      "Dihexa",
+      "N-hexanoic-Tyr-Ile-(6) aminohexanoic amide"
+    ],
+    "category": "cognitive",
+    "description": "Potent HGF/MET receptor system activator",
+    "mechanism": "Hepatocyte growth factor mimetic; promotes synaptogenesis, potent nootropic in animal models",
+    "common_routes": [
+      "oral",
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "nsi_189",
+    "name": "nsi_189",
+    "display_name": "NSI-189",
+    "aliases": [
+      "NSI-189",
+      "NSI189"
+    ],
+    "category": "cognitive",
+    "description": "Neurogenic compound for hippocampal growth",
+    "mechanism": "Stimulates hippocampal neurogenesis; antidepressant and procognitive effects",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "epithalon",
+    "name": "epithalon",
+    "display_name": "Epithalon",
+    "aliases": [
+      "Epithalon",
+      "Epitalon",
+      "Epithalone",
+      "AEDG"
+    ],
+    "category": "anti_aging",
+    "description": "Tetrapeptide telomerase activator",
+    "mechanism": "Activates telomerase, regulates melatonin production, pineal gland bioregulator",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "snap_8",
+    "name": "snap_8",
+    "display_name": "SNAP-8",
+    "aliases": [
+      "SNAP-8",
+      "SNAP8",
+      "Acetyl Octapeptide-3"
+    ],
+    "category": "skin_cosmetic",
+    "description": "Acetyl octapeptide for wrinkle reduction",
+    "mechanism": "Modulates SNARE complex; reduces muscle contraction depth at injection site",
+    "common_routes": [
+      "topical"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "thymosin_alpha_1",
+    "name": "thymosin_alpha_1",
+    "display_name": "Thymosin Alpha-1",
+    "aliases": [
+      "Thymosin Alpha-1",
+      "Ta1",
+      "TA1",
+      "Zadaxin",
+      "Thymosin Alpha 1"
+    ],
+    "category": "immune",
+    "description": "Thymic peptide for immune modulation",
+    "mechanism": "Enhances T-cell maturation, dendritic cell activation, TLR signaling, NK cell activity",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "pt_141",
+    "name": "pt_141",
+    "display_name": "PT-141",
+    "aliases": [
+      "PT-141",
+      "PT141",
+      "PT 141",
+      "Bremelanotide",
+      "Vyleesi"
+    ],
+    "category": "sexual_health",
+    "description": "Melanocortin receptor agonist for sexual dysfunction",
+    "mechanism": "MC4R agonist; stimulates sexual arousal centrally via hypothalamic pathways",
+    "common_routes": [
+      "subcutaneous",
+      "nasal"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "kisspeptin",
+    "name": "kisspeptin",
+    "display_name": "Kisspeptin",
+    "aliases": [
+      "Kisspeptin",
+      "Kisspeptin-10",
+      "KP-10"
+    ],
+    "category": "hormonal",
+    "description": "Neuropeptide regulating reproductive hormones",
+    "mechanism": "Stimulates GnRH release, regulates LH/FSH pulsatility",
+    "common_routes": [
+      "subcutaneous",
+      "intravenous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "gonadorelin",
+    "name": "gonadorelin",
+    "display_name": "Gonadorelin",
+    "aliases": [
+      "Gonadorelin",
+      "GnRH",
+      "LHRH"
+    ],
+    "category": "hormonal",
+    "description": "Natural GnRH for fertility preservation",
+    "mechanism": "Pulsatile administration maintains LH/FSH production during TRT",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "enclomiphene",
+    "name": "enclomiphene",
+    "display_name": "Enclomiphene",
+    "aliases": [
+      "Enclomiphene",
+      "Enclomid",
+      "Androxal"
+    ],
+    "category": "hormonal",
+    "description": "Selective estrogen receptor modulator for testosterone support",
+    "mechanism": "SERM; blocks estrogen feedback at hypothalamus, increases LH/FSH and endogenous testosterone",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "melanotan_2",
+    "name": "melanotan_2",
+    "display_name": "Melanotan II",
+    "aliases": [
+      "Melanotan II",
+      "Melanotan 2",
+      "MT-2",
+      "MT2",
+      "MT-II",
+      "MT II"
+    ],
+    "category": "tanning",
+    "description": "Melanocortin receptor agonist for tanning and libido",
+    "mechanism": "Non-selective MCR agonist; stimulates melanogenesis, may increase libido and reduce appetite",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "melanotan_1",
+    "name": "melanotan_1",
+    "display_name": "Melanotan I",
+    "aliases": [
+      "Melanotan I",
+      "Melanotan 1",
+      "MT-1",
+      "MT1",
+      "Afamelanotide",
+      "Scenesse"
+    ],
+    "category": "tanning",
+    "description": "Selective MC1R agonist for photoprotection",
+    "mechanism": "Selective MC1R agonist; stimulates melanin production without broad MCR activation",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "ss_31",
+    "name": "ss_31",
+    "display_name": "SS-31",
+    "aliases": [
+      "SS-31",
+      "SS31",
+      "Elamipretide",
+      "Bendavia",
+      "MTP-131"
+    ],
+    "category": "mitochondrial",
+    "description": "Mitochondria-targeted peptide for cellular energy",
+    "mechanism": "Targets cardiolipin in inner mitochondrial membrane; stabilizes cristae, reduces ROS",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "mots_c",
+    "name": "mots_c",
+    "display_name": "MOTS-c",
+    "aliases": [
+      "MOTS-c",
+      "MOTSc",
+      "MOTS c"
+    ],
+    "category": "metabolic",
+    "description": "Mitochondrial-derived peptide for metabolic regulation",
+    "mechanism": "Activates AMPK, regulates metabolic homeostasis, exercise mimetic properties",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "humanin",
+    "name": "humanin",
+    "display_name": "Humanin",
+    "aliases": [
+      "Humanin",
+      "HN"
+    ],
+    "category": "metabolic",
+    "description": "Mitochondrial-derived cytoprotective peptide",
+    "mechanism": "Anti-apoptotic, neuroprotective, cardioprotective via STAT3 and IGFBP3 pathways",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "follistatin_344",
+    "name": "follistatin_344",
+    "display_name": "Follistatin 344",
+    "aliases": [
+      "Follistatin",
+      "Follistatin 344",
+      "Follistatin-344",
+      "FST344"
+    ],
+    "category": "muscle_performance",
+    "description": "Myostatin inhibitor for muscle growth",
+    "mechanism": "Binds and neutralizes myostatin/activin; removes brake on muscle growth",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "ace_031",
+    "name": "ace_031",
+    "display_name": "ACE-031",
+    "aliases": [
+      "ACE-031",
+      "ACE031"
+    ],
+    "category": "muscle_performance",
+    "description": "Activin receptor decoy for muscle growth",
+    "mechanism": "Soluble ActRIIB-Fc fusion; traps myostatin, activins, and GDF-11",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "peg_mgf",
+    "name": "peg_mgf",
+    "display_name": "PEG-MGF",
+    "aliases": [
+      "PEG-MGF",
+      "PEG MGF",
+      "Pegylated Mechano Growth Factor",
+      "IGF-1 Splice Variant"
+    ],
+    "category": "muscle_performance",
+    "description": "Pegylated mechano growth factor for muscle repair",
+    "mechanism": "Modified IGF-1 splice variant with extended half-life; promotes muscle repair and regeneration",
+    "common_routes": [
+      "intramuscular",
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "adalank",
+    "name": "adalank",
+    "display_name": "Adalank",
+    "aliases": [
+      "Adalank",
+      "N-Acetyl Selank Amidate",
+      "NA Selank Amidate",
+      "Enhanced Tuftsin Analog"
+    ],
+    "category": "cognitive",
+    "description": "Enhanced synthetic derivative of Selank with superior BBB penetration",
+    "mechanism": "N-terminal acetylation and C-terminal amidation of Selank; anxiolytic and neuroprotective",
+    "common_routes": [
+      "nasal",
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "adamax",
+    "name": "adamax",
+    "display_name": "Adamax",
+    "aliases": [
+      "Adamax"
+    ],
+    "category": "cognitive",
+    "description": "Synthetic nootropic peptide derived from Semax with adamantane modification",
+    "mechanism": "Modified Semax with enhanced stability and BBB penetration for cognitive enhancement and neuroprotection",
+    "common_routes": [
+      "nasal",
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "cerebrolysin",
+    "name": "cerebrolysin",
+    "display_name": "Cerebrolysin",
+    "aliases": [
+      "Cerebrolysin",
+      "FPE 1070"
+    ],
+    "category": "cognitive",
+    "description": "Neuropeptide preparation from purified porcine brain proteins",
+    "mechanism": "Neurotrophic support; promotes neuronal survival, synaptogenesis, and neuroplasticity",
+    "common_routes": [
+      "intramuscular",
+      "intravenous"
+    ],
+    "dose_unit": "ml"
+  },
+  {
+    "id": "cgp",
+    "name": "cgp",
+    "display_name": "Cyclic Glycine-Proline",
+    "aliases": [
+      "cGP",
+      "Cyclic Glycine-Proline",
+      "Cyclic GP"
+    ],
+    "category": "cognitive",
+    "description": "Naturally occurring cyclic dipeptide from IGF-1 metabolism",
+    "mechanism": "Regulates IGF-1 bioavailability; neuroprotective in Alzheimer's and Parkinson's models",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "na_semax_amidate",
+    "name": "na_semax_amidate",
+    "display_name": "NA Semax Amidate",
+    "aliases": [
+      "NA Semax Amidate",
+      "N-Acetyl Semax Amidate",
+      "NASA"
+    ],
+    "category": "cognitive",
+    "description": "Stabilized Semax analog with enhanced cognitive effects",
+    "mechanism": "Acetylated and amidated Semax with superior stability and bioavailability for neuroprotection",
+    "common_routes": [
+      "nasal"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "noopept",
+    "name": "noopept",
+    "display_name": "Noopept",
+    "aliases": [
+      "Noopept",
+      "Omberacetam",
+      "GVS-111",
+      "DVD-111"
+    ],
+    "category": "cognitive",
+    "description": "Synthetic nootropic dipeptide for cognitive enhancement",
+    "mechanism": "Enhances BDNF and NGF expression; improves memory, learning, and concentration",
+    "common_routes": [
+      "oral",
+      "nasal",
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "p21",
+    "name": "p21",
+    "display_name": "P21",
+    "aliases": [
+      "P21",
+      "P021",
+      "Ac-DGGLAG-NH2"
+    ],
+    "category": "cognitive",
+    "description": "Tetrapeptide derived from CNTF for neurogenesis",
+    "mechanism": "Promotes neurogenesis and cognitive function via CNTF-derived active region",
+    "common_routes": [
+      "nasal",
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "pe_22_28",
+    "name": "pe_22_28",
+    "display_name": "PE-22-28",
+    "aliases": [
+      "PE-22-28",
+      "Mini-Spadin",
+      "Mini Spadin"
+    ],
+    "category": "cognitive",
+    "description": "Heptapeptide TREK-1 antagonist with rapid antidepressant effects",
+    "mechanism": "TREK-1 channel antagonist; enhances neurogenesis and synaptogenesis for mood improvement",
+    "common_routes": [
+      "nasal",
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "pinealon",
+    "name": "pinealon",
+    "display_name": "Pinealon",
+    "aliases": [
+      "Pinealon",
+      "EDR",
+      "Glu-Asp-Arg"
+    ],
+    "category": "cognitive",
+    "description": "Tripeptide bioregulator for cognitive and neuroprotective support",
+    "mechanism": "Interacts with DNA to regulate gene expression for neuronal protein synthesis",
+    "common_routes": [
+      "oral",
+      "nasal"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "adipotide",
+    "name": "adipotide",
+    "display_name": "Adipotide",
+    "aliases": [
+      "Adipotide",
+      "Prohibitin-TP01",
+      "TP01"
+    ],
+    "category": "body_composition",
+    "description": "Peptidomimetic targeting white adipose tissue blood supply",
+    "mechanism": "Targets prohibitin and annexin A2 on white fat; disrupts blood supply to fat cells",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "bioglutide",
+    "name": "bioglutide",
+    "display_name": "Bioglutide",
+    "aliases": [
+      "Bioglutide",
+      "NA-931"
+    ],
+    "category": "body_composition",
+    "description": "First-in-class oral quadruple receptor agonist",
+    "mechanism": "Targets IGF-1, GLP-1, GIP, and glucagon receptors with high oral bioavailability",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "cagrilintide",
+    "name": "cagrilintide",
+    "display_name": "Cagrilintide",
+    "aliases": [
+      "Cagrilintide",
+      "AM833",
+      "NN9838",
+      "CagriSema"
+    ],
+    "category": "body_composition",
+    "description": "Synthetic amylin analog for weight management",
+    "mechanism": "Dual amylin and calcitonin receptor agonist; reduces appetite and body weight",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "mazdutide",
+    "name": "mazdutide",
+    "display_name": "Mazdutide",
+    "aliases": [
+      "Mazdutide",
+      "IBI362",
+      "LY3305677"
+    ],
+    "category": "body_composition",
+    "description": "Dual GLP-1/glucagon receptor agonist for weight loss",
+    "mechanism": "Oxyntomodulin analog; dual agonist suppressing appetite and increasing energy expenditure",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "orforglipron",
+    "name": "orforglipron",
+    "display_name": "Orforglipron",
+    "aliases": [
+      "Orforglipron",
+      "LY3502970",
+      "OWL833"
+    ],
+    "category": "body_composition",
+    "description": "Oral non-peptide GLP-1 receptor agonist",
+    "mechanism": "Small molecule GLP-1R agonist with oral bioavailability; weight loss and glycemic control",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "slu_pp_332",
+    "name": "slu_pp_332",
+    "display_name": "SLU-PP-332",
+    "aliases": [
+      "SLU-PP-332",
+      "SLU PP 332"
+    ],
+    "category": "body_composition",
+    "description": "Synthetic exercise mimetic compound",
+    "mechanism": "Pan-estrogen-related receptor agonist (ERRα focus); exercise mimetic effects without physical activity",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "tesofensine",
+    "name": "tesofensine",
+    "display_name": "Tesofensine",
+    "aliases": [
+      "Tesofensine",
+      "NS2330"
+    ],
+    "category": "body_composition",
+    "description": "Triple monoamine reuptake inhibitor for weight loss",
+    "mechanism": "Inhibits reuptake of norepinephrine, dopamine, and serotonin; appetite suppression",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "ara_290",
+    "name": "ara_290",
+    "display_name": "Ara 290",
+    "aliases": [
+      "Ara 290",
+      "Ara290",
+      "Cibinetide"
+    ],
+    "category": "healing_recovery",
+    "description": "Engineered erythropoietin-derived tissue-protective peptide",
+    "mechanism": "Targets Innate Repair Receptor; tissue-protective and anti-inflammatory without erythropoietic effects",
+    "common_routes": [
+      "subcutaneous",
+      "intravenous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "cartalax",
+    "name": "cartalax",
+    "display_name": "Cartalax",
+    "aliases": [
+      "Cartalax",
+      "Ala-Glu-Asp",
+      "AED Tripeptide",
+      "T-31"
+    ],
+    "category": "healing_recovery",
+    "description": "Tripeptide bioregulator for cartilage and connective tissue",
+    "mechanism": "Cartilage-specific bioregulator promoting joint regeneration and cellular repair",
+    "common_routes": [
+      "oral",
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "thymosin_beta_4",
+    "name": "thymosin_beta_4",
+    "display_name": "Thymosin Beta-4",
+    "aliases": [
+      "Thymosin Beta-4",
+      "TB-4",
+      "Tβ4",
+      "Timbetasin",
+      "Thymosin Beta 4"
+    ],
+    "category": "healing_recovery",
+    "description": "Full-length thymosin beta-4 for tissue repair and regeneration",
+    "mechanism": "Promotes angiogenesis, cellular migration, and wound healing; reduces inflammation",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "glutathione",
+    "name": "glutathione",
+    "display_name": "Glutathione",
+    "aliases": [
+      "Glutathione",
+      "L-Glutathione",
+      "GSH",
+      "Reduced Glutathione"
+    ],
+    "category": "immune",
+    "description": "Master antioxidant tripeptide for detoxification and immune support",
+    "mechanism": "Neutralizes free radicals, supports detoxification pathways, enhances immune cell function",
+    "common_routes": [
+      "intravenous",
+      "oral",
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "thymulin",
+    "name": "thymulin",
+    "display_name": "Thymulin",
+    "aliases": [
+      "Thymulin",
+      "Serum Thymic Factor",
+      "FTS",
+      "Facteur Thymique Serique"
+    ],
+    "category": "immune",
+    "description": "Zinc-dependent thymic peptide for immune modulation",
+    "mechanism": "Produced by thymic epithelial cells; modulates T-cell differentiation and immune function (requires zinc)",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "prostamax",
+    "name": "prostamax",
+    "display_name": "Prostamax",
+    "aliases": [
+      "Prostamax",
+      "KEDP",
+      "Lys-Glu-Asp-Pro"
+    ],
+    "category": "immune",
+    "description": "Tetrapeptide bioregulator for prostate health",
+    "mechanism": "Tissue-specific bioregulator targeting anterior pituitary and prostate function",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "vip",
+    "name": "vip",
+    "display_name": "VIP",
+    "aliases": [
+      "VIP",
+      "Vasoactive Intestinal Peptide",
+      "Aviptadil"
+    ],
+    "category": "immune",
+    "description": "Neuropeptide with anti-inflammatory and immunomodulatory properties",
+    "mechanism": "Binds VPAC1/VPAC2 receptors; potent anti-inflammatory, vasodilatory, and neuroprotective effects",
+    "common_routes": [
+      "nasal",
+      "subcutaneous",
+      "intravenous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "hcg",
+    "name": "hcg",
+    "display_name": "HCG",
+    "aliases": [
+      "HCG",
+      "hCG",
+      "Human Chorionic Gonadotropin",
+      "Pregnyl",
+      "Novarel"
+    ],
+    "category": "hormonal",
+    "description": "Glycoprotein hormone for fertility and testosterone support",
+    "mechanism": "LH-mimetic; stimulates Leydig cells to maintain testosterone production and testicular function",
+    "common_routes": [
+      "subcutaneous",
+      "intramuscular"
+    ],
+    "dose_unit": "IU"
+  },
+  {
+    "id": "oxytocin",
+    "name": "oxytocin",
+    "display_name": "Oxytocin",
+    "aliases": [
+      "Oxytocin",
+      "Pitocin",
+      "Syntocinon"
+    ],
+    "category": "hormonal",
+    "description": "Neuropeptide for social bonding and reproductive function",
+    "mechanism": "Hypothalamic peptide; promotes social bonding, trust, and reproductive functions",
+    "common_routes": [
+      "nasal",
+      "subcutaneous",
+      "intravenous"
+    ],
+    "dose_unit": "IU"
+  },
+  {
+    "id": "testagen",
+    "name": "testagen",
+    "display_name": "Testagen",
+    "aliases": [
+      "Testagen",
+      "KEDG",
+      "KEDG Tetrapeptide"
+    ],
+    "category": "hormonal",
+    "description": "Tetrapeptide bioregulator for pituitary and hormonal support",
+    "mechanism": "Targets anterior pituitary; regulates TSH and supports testosterone/thyroid hormone production",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "foxo4_dri",
+    "name": "foxo4_dri",
+    "display_name": "FOXO4-DRI",
+    "aliases": [
+      "FOXO4-DRI",
+      "FOXO4 DRI"
+    ],
+    "category": "anti_aging",
+    "description": "Senolytic peptide targeting senescent cells",
+    "mechanism": "Disrupts FOXO4-p53 interaction; induces apoptosis in senescent cells selectively",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "nad_plus",
+    "name": "nad_plus",
+    "display_name": "NAD+",
+    "aliases": [
+      "NAD+",
+      "NAD",
+      "Nicotinamide Adenine Dinucleotide"
+    ],
+    "category": "anti_aging",
+    "description": "Essential coenzyme for cellular energy and DNA repair",
+    "mechanism": "Supports sirtuin activity, PARP-mediated DNA repair, and mitochondrial function",
+    "common_routes": [
+      "intravenous",
+      "subcutaneous",
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "dsip",
+    "name": "dsip",
+    "display_name": "DSIP",
+    "aliases": [
+      "DSIP",
+      "Delta Sleep Inducing Peptide",
+      "Delta Sleep-Inducing Peptide"
+    ],
+    "category": "sleep",
+    "description": "Neuropeptide for promoting deep delta wave sleep",
+    "mechanism": "Modulates sleep-wake cycles; promotes delta wave sleep and reduces stress-related cortisol",
+    "common_routes": [
+      "subcutaneous",
+      "nasal"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "peptide_unspecified",
+    "name": "peptide_unspecified",
+    "display_name": "peptide (unspecified)",
+    "aliases": [
+      "peptide (unspecified)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "klow",
+    "name": "klow",
+    "display_name": "KLOW",
+    "aliases": [
+      "KLOW"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpctb",
+    "name": "bpctb",
+    "display_name": "BPC/TB",
+    "aliases": [
+      "BPC/TB"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "test_cyp",
+    "name": "test_cyp",
+    "display_name": "test cyp",
+    "aliases": [
+      "test cyp"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "na_semax",
+    "name": "na_semax",
+    "display_name": "NA Semax",
+    "aliases": [
+      "NA Semax"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_1295ipamorelin",
+    "name": "cjc_1295ipamorelin",
+    "display_name": "CJC-1295+Ipamorelin",
+    "aliases": [
+      "CJC-1295+Ipamorelin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc__ipa_with_dac",
+    "name": "cjc__ipa_with_dac",
+    "display_name": "cjc + ipa with dac",
+    "aliases": [
+      "cjc + ipa with dac"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "subq_hrt",
+    "name": "subq_hrt",
+    "display_name": "subq hrt",
+    "aliases": [
+      "subq hrt"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjcipa",
+    "name": "cjcipa",
+    "display_name": "cjc/ipa",
+    "aliases": [
+      "cjc/ipa"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "wolverine_stack",
+    "name": "wolverine_stack",
+    "display_name": "Wolverine stack",
+    "aliases": [
+      "Wolverine stack"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "wolverine",
+    "name": "wolverine",
+    "display_name": "wolverine",
+    "aliases": [
+      "wolverine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "lipo_c",
+    "name": "lipo_c",
+    "display_name": "Lipo-C",
+    "aliases": [
+      "Lipo-C"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "kisspin_10",
+    "name": "kisspin_10",
+    "display_name": "kisspin 10",
+    "aliases": [
+      "kisspin 10"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "testangen_bioregulator",
+    "name": "testangen_bioregulator",
+    "display_name": "testangen bioregulator",
+    "aliases": [
+      "testangen bioregulator"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghs_peptides",
+    "name": "ghs_peptides",
+    "display_name": "GHS peptides",
+    "aliases": [
+      "GHS peptides"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "klow_components",
+    "name": "klow_components",
+    "display_name": "klow components",
+    "aliases": [
+      "klow components"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "5_amino",
+    "name": "5_amino",
+    "display_name": "5 amino",
+    "aliases": [
+      "5 amino"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "box",
+    "name": "box",
+    "display_name": "box",
+    "aliases": [
+      "box"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "thymosin_alpha",
+    "name": "thymosin_alpha",
+    "display_name": "thymosin alpha",
+    "aliases": [
+      "thymosin alpha"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "trizeperide",
+    "name": "trizeperide",
+    "display_name": "trizeperide",
+    "aliases": [
+      "trizeperide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_1295ipa",
+    "name": "cjc_1295ipa",
+    "display_name": "cjc-1295/ipa",
+    "aliases": [
+      "cjc-1295/ipa"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ipamorelin_no_dac",
+    "name": "ipamorelin_no_dac",
+    "display_name": "ipamorelin no dac",
+    "aliases": [
+      "ipamorelin no dac"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_1295_no_dac__ipamorelin",
+    "name": "cjc_1295_no_dac__ipamorelin",
+    "display_name": "CJC 1295 (no DAC) + Ipamorelin",
+    "aliases": [
+      "CJC 1295 (no DAC) + Ipamorelin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_no_dac",
+    "name": "cjc_no_dac",
+    "display_name": "CJC no DAC",
+    "aliases": [
+      "CJC no DAC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ipa__cjc",
+    "name": "ipa__cjc",
+    "display_name": "Ipa + CJC",
+    "aliases": [
+      "Ipa + CJC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ipatesa",
+    "name": "ipatesa",
+    "display_name": "Ipa/Tesa",
+    "aliases": [
+      "Ipa/Tesa"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ipacjc_no_dac",
+    "name": "ipacjc_no_dac",
+    "display_name": "Ipa/CJC no-DAC",
+    "aliases": [
+      "Ipa/CJC no-DAC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tesaipa",
+    "name": "tesaipa",
+    "display_name": "tesa/ipa",
+    "aliases": [
+      "tesa/ipa"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "gluta",
+    "name": "gluta",
+    "display_name": "Gluta",
+    "aliases": [
+      "Gluta"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "klow_protocol",
+    "name": "klow_protocol",
+    "display_name": "KLOW protocol",
+    "aliases": [
+      "KLOW protocol"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glow_blend",
+    "name": "glow_blend",
+    "display_name": "glow blend",
+    "aliases": [
+      "glow blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "compounded_cream",
+    "name": "compounded_cream",
+    "display_name": "Compounded Cream",
+    "aliases": [
+      "Compounded Cream"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "enclophomine",
+    "name": "enclophomine",
+    "display_name": "enclophomine",
+    "aliases": [
+      "enclophomine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "melatonin",
+    "name": "melatonin",
+    "display_name": "melatonin",
+    "aliases": [
+      "melatonin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tren",
+    "name": "tren",
+    "display_name": "tren",
+    "aliases": [
+      "tren"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "oral_bpc",
+    "name": "oral_bpc",
+    "display_name": "oral BPC",
+    "aliases": [
+      "oral BPC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tudca",
+    "name": "tudca",
+    "display_name": "TUDCA",
+    "aliases": [
+      "TUDCA"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "gh_or_cjc",
+    "name": "gh_or_cjc",
+    "display_name": "GH or CJC",
+    "aliases": [
+      "GH or CJC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "modafinil",
+    "name": "modafinil",
+    "display_name": "modafinil",
+    "aliases": [
+      "modafinil"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "na_selank",
+    "name": "na_selank",
+    "display_name": "NA selank",
+    "aliases": [
+      "NA selank"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "selank_injection",
+    "name": "selank_injection",
+    "display_name": "selank injection",
+    "aliases": [
+      "selank injection"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "semax_injection",
+    "name": "semax_injection",
+    "display_name": "semax injection",
+    "aliases": [
+      "semax injection"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_ipamorelin",
+    "name": "cjc_ipamorelin",
+    "display_name": "CJC Ipamorelin",
+    "aliases": [
+      "CJC Ipamorelin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "magnesium_glycinate",
+    "name": "magnesium_glycinate",
+    "display_name": "Magnesium Glycinate",
+    "aliases": [
+      "Magnesium Glycinate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "l_citrulline",
+    "name": "l_citrulline",
+    "display_name": "L Citrulline",
+    "aliases": [
+      "L Citrulline"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "diosmin_and_hesperidin",
+    "name": "diosmin_and_hesperidin",
+    "display_name": "Diosmin and Hesperidin",
+    "aliases": [
+      "Diosmin and Hesperidin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "electrolyte_capsules",
+    "name": "electrolyte_capsules",
+    "display_name": "Electrolyte Capsules",
+    "aliases": [
+      "Electrolyte Capsules"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "berberine_hcl_supplement_high_strength",
+    "name": "berberine_hcl_supplement_high_strength",
+    "display_name": "Berberine HCL Supplement High Strength",
+    "aliases": [
+      "Berberine HCL Supplement High Strength"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "combined_patches",
+    "name": "combined_patches",
+    "display_name": "Combined patches",
+    "aliases": [
+      "Combined patches"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "berberine",
+    "name": "berberine",
+    "display_name": "berberine",
+    "aliases": [
+      "berberine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tb4_43aa",
+    "name": "tb4_43aa",
+    "display_name": "TB4 43aa",
+    "aliases": [
+      "TB4 43aa"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpctb_implied",
+    "name": "bpctb_implied",
+    "display_name": "BPC/TB (implied)",
+    "aliases": [
+      "BPC/TB (implied)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "lcarnatine",
+    "name": "lcarnatine",
+    "display_name": "LCarnatine",
+    "aliases": [
+      "LCarnatine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "peptides",
+    "name": "peptides",
+    "display_name": "peptides",
+    "aliases": [
+      "peptides"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ipamorelintesamorelin",
+    "name": "ipamorelintesamorelin",
+    "display_name": "Ipamorelin/Tesamorelin",
+    "aliases": [
+      "Ipamorelin/Tesamorelin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "essential_amino_acids",
+    "name": "essential_amino_acids",
+    "display_name": "Essential Amino Acids",
+    "aliases": [
+      "Essential Amino Acids"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "aloe_vera_extract",
+    "name": "aloe_vera_extract",
+    "display_name": "Aloe Vera Extract",
+    "aliases": [
+      "Aloe Vera Extract"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "zinc",
+    "name": "zinc",
+    "display_name": "zinc",
+    "aliases": [
+      "zinc"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "test_c",
+    "name": "test_c",
+    "display_name": "test-c",
+    "aliases": [
+      "test-c"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "testosterone_cypionate",
+    "name": "testosterone_cypionate",
+    "display_name": "Testosterone Cypionate",
+    "aliases": [
+      "Testosterone Cypionate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "dutasteride_or_finasteride",
+    "name": "dutasteride_or_finasteride",
+    "display_name": "dutasteride or finasteride",
+    "aliases": [
+      "dutasteride or finasteride"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cagri",
+    "name": "cagri",
+    "display_name": "cagri",
+    "aliases": [
+      "cagri"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cortexin",
+    "name": "cortexin",
+    "display_name": "cortexin",
+    "aliases": [
+      "cortexin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cortagen",
+    "name": "cortagen",
+    "display_name": "cortagen",
+    "aliases": [
+      "cortagen"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tren_ace",
+    "name": "tren_ace",
+    "display_name": "Tren ace",
+    "aliases": [
+      "Tren ace"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "anastrozole",
+    "name": "anastrozole",
+    "display_name": "anastrozole",
+    "aliases": [
+      "anastrozole"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "trulicity",
+    "name": "trulicity",
+    "display_name": "Trulicity",
+    "aliases": [
+      "Trulicity"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "vials_unspecified_peptides",
+    "name": "vials_unspecified_peptides",
+    "display_name": "vials (unspecified peptides)",
+    "aliases": [
+      "vials (unspecified peptides)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "canlab_peptides",
+    "name": "canlab_peptides",
+    "display_name": "Canlab peptides",
+    "aliases": [
+      "Canlab peptides"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "r10",
+    "name": "r10",
+    "display_name": "R10",
+    "aliases": [
+      "R10"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "peptides_unspecified_from_legit_sources",
+    "name": "peptides_unspecified_from_legit_sources",
+    "display_name": "peptides (unspecified, from legit sources)",
+    "aliases": [
+      "peptides (unspecified, from legit sources)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "test_testosterone",
+    "name": "test_testosterone",
+    "display_name": "Test (Testosterone)",
+    "aliases": [
+      "Test (Testosterone)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "reta_retatrutide",
+    "name": "reta_retatrutide",
+    "display_name": "Reta (Retatrutide)",
+    "aliases": [
+      "Reta (Retatrutide)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tesa_tesamorelin",
+    "name": "tesa_tesamorelin",
+    "display_name": "tesa (Tesamorelin)",
+    "aliases": [
+      "tesa (Tesamorelin)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "l_lysine",
+    "name": "l_lysine",
+    "display_name": "L-Lysine",
+    "aliases": [
+      "L-Lysine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "valtrex_valacyclovir",
+    "name": "valtrex_valacyclovir",
+    "display_name": "Valtrex (valacyclovir)",
+    "aliases": [
+      "Valtrex (valacyclovir)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "amidate",
+    "name": "amidate",
+    "display_name": "Amidate",
+    "aliases": [
+      "Amidate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "plain_semax",
+    "name": "plain_semax",
+    "display_name": "plain Semax",
+    "aliases": [
+      "plain Semax"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bulletproof_collagen_peptide_powder",
+    "name": "bulletproof_collagen_peptide_powder",
+    "display_name": "Bulletproof Collagen peptide powder",
+    "aliases": [
+      "Bulletproof Collagen peptide powder"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghk_cu_topical",
+    "name": "ghk_cu_topical",
+    "display_name": "GHK-cu topical",
+    "aliases": [
+      "GHK-cu topical"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tesamorelinipamorelin_blend",
+    "name": "tesamorelinipamorelin_blend",
+    "display_name": "Tesamorelin/Ipamorelin blend",
+    "aliases": [
+      "Tesamorelin/Ipamorelin blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glow_bpctbghk",
+    "name": "glow_bpctbghk",
+    "display_name": "GLOW (BPC/TB/GHK)",
+    "aliases": [
+      "GLOW (BPC/TB/GHK)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "slup_oral",
+    "name": "slup_oral",
+    "display_name": "SLUP oral",
+    "aliases": [
+      "SLUP oral"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "oral_slupp",
+    "name": "oral_slupp",
+    "display_name": "Oral Slupp",
+    "aliases": [
+      "Oral Slupp"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glowklow",
+    "name": "glowklow",
+    "display_name": "Glow/klow",
+    "aliases": [
+      "Glow/klow"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "anavar",
+    "name": "anavar",
+    "display_name": "anavar",
+    "aliases": [
+      "anavar"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "multi_collagen_peptides_supplement",
+    "name": "multi_collagen_peptides_supplement",
+    "display_name": "multi collagen peptides supplement",
+    "aliases": [
+      "multi collagen peptides supplement"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "trt_pellets",
+    "name": "trt_pellets",
+    "display_name": "TRT pellets",
+    "aliases": [
+      "TRT pellets"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157_250_mcg_delayed",
+    "name": "bpc_157_250_mcg_delayed",
+    "display_name": "BPC 157 250 mcg delayed",
+    "aliases": [
+      "BPC 157 250 mcg delayed"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157_delayed",
+    "name": "bpc_157_delayed",
+    "display_name": "BPC 157 delayed",
+    "aliases": [
+      "BPC 157 delayed"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ss31_elamipretide",
+    "name": "ss31_elamipretide",
+    "display_name": "SS‑31 (Elamipretide)",
+    "aliases": [
+      "SS‑31 (Elamipretide)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "lyrica_pregabalin",
+    "name": "lyrica_pregabalin",
+    "display_name": "Lyrica (Pregabalin)",
+    "aliases": [
+      "Lyrica (Pregabalin)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cialis",
+    "name": "cialis",
+    "display_name": "Cialis",
+    "aliases": [
+      "Cialis"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "methyl_folate",
+    "name": "methyl_folate",
+    "display_name": "Methyl folate",
+    "aliases": [
+      "Methyl folate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "8_peptides_unspecified",
+    "name": "8_peptides_unspecified",
+    "display_name": "8 peptides (unspecified)",
+    "aliases": [
+      "8 peptides (unspecified)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "full_stack_unspecified_peptides",
+    "name": "full_stack_unspecified_peptides",
+    "display_name": "full stack (unspecified peptides)",
+    "aliases": [
+      "full stack (unspecified peptides)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "peptide_unspecified___bpc_157tb500_implied_by_context",
+    "name": "peptide_unspecified___bpc_157tb500_implied_by_context",
+    "display_name": "peptide (unspecified - BPC 157/TB500 implied by context)",
+    "aliases": [
+      "peptide (unspecified - BPC 157/TB500 implied by context)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "peptides_unspecified___bpc_157tb500_implied_by_context",
+    "name": "peptides_unspecified___bpc_157tb500_implied_by_context",
+    "display_name": "peptides (unspecified - BPC 157/TB500 implied by context)",
+    "aliases": [
+      "peptides (unspecified - BPC 157/TB500 implied by context)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glow_stack",
+    "name": "glow_stack",
+    "display_name": "Glow stack",
+    "aliases": [
+      "Glow stack"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "creatine",
+    "name": "creatine",
+    "display_name": "creatine",
+    "aliases": [
+      "creatine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "grey_triz",
+    "name": "grey_triz",
+    "display_name": "grey triz",
+    "aliases": [
+      "grey triz"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "survo",
+    "name": "survo",
+    "display_name": "Survo",
+    "aliases": [
+      "Survo"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tesaipacjc",
+    "name": "tesaipacjc",
+    "display_name": "tesa/ipa/cjc",
+    "aliases": [
+      "tesa/ipa/cjc"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "compounded_semaglutide",
+    "name": "compounded_semaglutide",
+    "display_name": "compounded semaglutide",
+    "aliases": [
+      "compounded semaglutide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "testosterone",
+    "name": "testosterone",
+    "display_name": "Testosterone",
+    "aliases": [
+      "Testosterone"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "emgality",
+    "name": "emgality",
+    "display_name": "Emgality",
+    "aliases": [
+      "Emgality"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "hygetropin",
+    "name": "hygetropin",
+    "display_name": "Hygetropin",
+    "aliases": [
+      "Hygetropin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "vesugen",
+    "name": "vesugen",
+    "display_name": "Vesugen",
+    "aliases": [
+      "Vesugen"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "copper_glycinate",
+    "name": "copper_glycinate",
+    "display_name": "copper glycinate",
+    "aliases": [
+      "copper glycinate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "copper",
+    "name": "copper",
+    "display_name": "copper",
+    "aliases": [
+      "copper"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjcipamorelin_blend",
+    "name": "cjcipamorelin_blend",
+    "display_name": "CJC/Ipamorelin blend",
+    "aliases": [
+      "CJC/Ipamorelin blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tirz_25",
+    "name": "tirz_25",
+    "display_name": "Tirz 2.5",
+    "aliases": [
+      "Tirz 2.5"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc1295ipamorelin_blend",
+    "name": "cjc1295ipamorelin_blend",
+    "display_name": "CJC1295/Ipamorelin blend",
+    "aliases": [
+      "CJC1295/Ipamorelin blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "peptides_multiple_5_different",
+    "name": "peptides_multiple_5_different",
+    "display_name": "peptides (multiple, ~5 different)",
+    "aliases": [
+      "peptides (multiple, ~5 different)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_escalated_dose",
+    "name": "bpc_escalated_dose",
+    "display_name": "BPC (escalated dose)",
+    "aliases": [
+      "BPC (escalated dose)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "arginate",
+    "name": "arginate",
+    "display_name": "arginate",
+    "aliases": [
+      "arginate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glow_bottle_80mg",
+    "name": "glow_bottle_80mg",
+    "display_name": "glow bottle (80mg)",
+    "aliases": [
+      "glow bottle (80mg)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "grey_market_peptides_multiple",
+    "name": "grey_market_peptides_multiple",
+    "display_name": "grey market peptides (multiple)",
+    "aliases": [
+      "grey market peptides (multiple)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "grey_product_unspecified",
+    "name": "grey_product_unspecified",
+    "display_name": "grey product (unspecified)",
+    "aliases": [
+      "grey product (unspecified)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "grey_market_peptides_unspecified",
+    "name": "grey_market_peptides_unspecified",
+    "display_name": "grey market peptides (unspecified)",
+    "aliases": [
+      "grey market peptides (unspecified)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "wolverine_bpc157tb500",
+    "name": "wolverine_bpc157tb500",
+    "display_name": "Wolverine (bpc157/tb500)",
+    "aliases": [
+      "Wolverine (bpc157/tb500)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "klow_ghk_cubpc157tb500kpv",
+    "name": "klow_ghk_cubpc157tb500kpv",
+    "display_name": "KLOW (ghk-cu/bpc157/tb500/kpv)",
+    "aliases": [
+      "KLOW (ghk-cu/bpc157/tb500/kpv)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tb_500_frag_17_23",
+    "name": "tb_500_frag_17_23",
+    "display_name": "TB-500 Frag 17-23",
+    "aliases": [
+      "TB-500 Frag 17-23"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "oral_minoxidil",
+    "name": "oral_minoxidil",
+    "display_name": "oral minoxidil",
+    "aliases": [
+      "oral minoxidil"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "finasteride",
+    "name": "finasteride",
+    "display_name": "finasteride",
+    "aliases": [
+      "finasteride"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_topical",
+    "name": "bpc_topical",
+    "display_name": "BPC topical",
+    "aliases": [
+      "BPC topical"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "oral_finasteride",
+    "name": "oral_finasteride",
+    "display_name": "oral Finasteride",
+    "aliases": [
+      "oral Finasteride"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "topical_minoxidil",
+    "name": "topical_minoxidil",
+    "display_name": "topical minoxidil",
+    "aliases": [
+      "topical minoxidil"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ahk_cu_powder",
+    "name": "ahk_cu_powder",
+    "display_name": "ahk-cu powder",
+    "aliases": [
+      "ahk-cu powder"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "luna_nectar_peptide_serum",
+    "name": "luna_nectar_peptide_serum",
+    "display_name": "Luna nectar peptide serum",
+    "aliases": [
+      "Luna nectar peptide serum"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "vyvanse",
+    "name": "vyvanse",
+    "display_name": "Vyvanse",
+    "aliases": [
+      "Vyvanse"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "concerta",
+    "name": "concerta",
+    "display_name": "Concerta",
+    "aliases": [
+      "Concerta"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "wellbutrin",
+    "name": "wellbutrin",
+    "display_name": "Wellbutrin",
+    "aliases": [
+      "Wellbutrin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tes_250_water",
+    "name": "tes_250_water",
+    "display_name": "Tes-250 water",
+    "aliases": [
+      "Tes-250 water"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "reta_100_water",
+    "name": "reta_100_water",
+    "display_name": "Reta-100 water",
+    "aliases": [
+      "Reta-100 water"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjcipa_250_water",
+    "name": "cjcipa_250_water",
+    "display_name": "cjc/ipa-250 water",
+    "aliases": [
+      "cjc/ipa-250 water"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "low_dose_reta",
+    "name": "low_dose_reta",
+    "display_name": "low dose reta",
+    "aliases": [
+      "low dose reta"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_no_dac__ipamorelin_blend",
+    "name": "cjc_no_dac__ipamorelin_blend",
+    "display_name": "CJC (no DAC) + Ipamorelin blend",
+    "aliases": [
+      "CJC (no DAC) + Ipamorelin blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_no_dac__ipamorelin",
+    "name": "cjc_no_dac__ipamorelin",
+    "display_name": "CJC (no DAC) + Ipamorelin",
+    "aliases": [
+      "CJC (no DAC) + Ipamorelin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ipatesa_blend",
+    "name": "ipatesa_blend",
+    "display_name": "IPA/Tesa blend",
+    "aliases": [
+      "IPA/Tesa blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "klow_80",
+    "name": "klow_80",
+    "display_name": "KLOW 80",
+    "aliases": [
+      "KLOW 80"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "klow_80mg",
+    "name": "klow_80mg",
+    "display_name": "KLOW 80mg",
+    "aliases": [
+      "KLOW 80mg"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "astaxanthin",
+    "name": "astaxanthin",
+    "display_name": "astaxanthin",
+    "aliases": [
+      "astaxanthin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "mounjaro_125",
+    "name": "mounjaro_125",
+    "display_name": "mounjaro 12.5",
+    "aliases": [
+      "mounjaro 12.5"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "testosterone_injections",
+    "name": "testosterone_injections",
+    "display_name": "testosterone injections",
+    "aliases": [
+      "testosterone injections"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "triz__tirzepatide",
+    "name": "triz__tirzepatide",
+    "display_name": "triz / tirzepatide",
+    "aliases": [
+      "triz / tirzepatide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "testosterone_enanthate",
+    "name": "testosterone_enanthate",
+    "display_name": "testosterone enanthate",
+    "aliases": [
+      "testosterone enanthate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glow_peptide",
+    "name": "glow_peptide",
+    "display_name": "glow peptide",
+    "aliases": [
+      "glow peptide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "wolverine_blend",
+    "name": "wolverine_blend",
+    "display_name": "Wolverine blend",
+    "aliases": [
+      "Wolverine blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "wolverine_stack_bpc_157tb500",
+    "name": "wolverine_stack_bpc_157tb500",
+    "display_name": "Wolverine stack (BPC-157/TB500)",
+    "aliases": [
+      "Wolverine stack (BPC-157/TB500)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "retacag_blend_20mg25mg",
+    "name": "retacag_blend_20mg25mg",
+    "display_name": "retacag blend (20mg/2.5mg)",
+    "aliases": [
+      "retacag blend (20mg/2.5mg)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghkcu_copper_peptide",
+    "name": "ghkcu_copper_peptide",
+    "display_name": "GHKCU copper peptide",
+    "aliases": [
+      "GHKCU copper peptide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "livagen",
+    "name": "livagen",
+    "display_name": "Livagen",
+    "aliases": [
+      "Livagen"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "rhodiola_rosea",
+    "name": "rhodiola_rosea",
+    "display_name": "rhodiola rosea",
+    "aliases": [
+      "rhodiola rosea"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "adderall_xr",
+    "name": "adderall_xr",
+    "display_name": "Adderall XR",
+    "aliases": [
+      "Adderall XR"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bp_bpc_157",
+    "name": "bp_bpc_157",
+    "display_name": "BP (BPC-157)",
+    "aliases": [
+      "BP (BPC-157)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tbc_tb_500",
+    "name": "tbc_tb_500",
+    "display_name": "TBC (TB-500)",
+    "aliases": [
+      "TBC (TB-500)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_500_tb_500_blend",
+    "name": "bpc_500_tb_500_blend",
+    "display_name": "BPC-500 TB-500 Blend",
+    "aliases": [
+      "BPC-500 TB-500 Blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157_in_blend",
+    "name": "bpc_157_in_blend",
+    "display_name": "BPC-157 (in blend)",
+    "aliases": [
+      "BPC-157 (in blend)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tb_500_in_blend",
+    "name": "tb_500_in_blend",
+    "display_name": "TB-500 (in blend)",
+    "aliases": [
+      "TB-500 (in blend)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "slu",
+    "name": "slu",
+    "display_name": "SLU",
+    "aliases": [
+      "SLU"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "methylene_blue",
+    "name": "methylene_blue",
+    "display_name": "methylene blue",
+    "aliases": [
+      "methylene blue"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc157tb500",
+    "name": "bpc157tb500",
+    "display_name": "BPC157/TB500",
+    "aliases": [
+      "BPC157/TB500"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "foxo4",
+    "name": "foxo4",
+    "display_name": "FOXO4",
+    "aliases": [
+      "FOXO4"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tirz_or_reta",
+    "name": "tirz_or_reta",
+    "display_name": "Tirz or Reta",
+    "aliases": [
+      "Tirz or Reta"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "mots_c_nasal_spray",
+    "name": "mots_c_nasal_spray",
+    "display_name": "MOTS-c nasal spray",
+    "aliases": [
+      "MOTS-c nasal spray"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpctb_blend",
+    "name": "bpctb_blend",
+    "display_name": "BPC+TB blend",
+    "aliases": [
+      "BPC+TB blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpctb_combo",
+    "name": "bpctb_combo",
+    "display_name": "BPC+TB combo",
+    "aliases": [
+      "BPC+TB combo"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tirzepatide_compounded",
+    "name": "tirzepatide_compounded",
+    "display_name": "Tirzepatide (compounded)",
+    "aliases": [
+      "Tirzepatide (compounded)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc1295_no_dac",
+    "name": "cjc1295_no_dac",
+    "display_name": "CJC1295 (no DAC)",
+    "aliases": [
+      "CJC1295 (no DAC)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "testosteron_propionat",
+    "name": "testosteron_propionat",
+    "display_name": "Testosteron Propionat",
+    "aliases": [
+      "Testosteron Propionat"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "peptides_general",
+    "name": "peptides_general",
+    "display_name": "peptides (general)",
+    "aliases": [
+      "peptides (general)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "pharma_mounjaro",
+    "name": "pharma_mounjaro",
+    "display_name": "pharma mounjaro",
+    "aliases": [
+      "pharma mounjaro"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "grey_tirzepatide",
+    "name": "grey_tirzepatide",
+    "display_name": "grey tirzepatide",
+    "aliases": [
+      "grey tirzepatide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "pharmaceutical_mounjaro",
+    "name": "pharmaceutical_mounjaro",
+    "display_name": "pharmaceutical Mounjaro",
+    "aliases": [
+      "pharmaceutical Mounjaro"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "name_brand_mounjaro",
+    "name": "name_brand_mounjaro",
+    "display_name": "name brand Mounjaro",
+    "aliases": [
+      "name brand Mounjaro"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "gray_market_tirzepatide",
+    "name": "gray_market_tirzepatide",
+    "display_name": "gray market tirzepatide",
+    "aliases": [
+      "gray market tirzepatide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "pharma_tirzepatidemounjaro",
+    "name": "pharma_tirzepatidemounjaro",
+    "display_name": "pharma tirzepatide/Mounjaro",
+    "aliases": [
+      "pharma tirzepatide/Mounjaro"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "grey_tirzepatide_from_china",
+    "name": "grey_tirzepatide_from_china",
+    "display_name": "grey tirzepatide from China",
+    "aliases": [
+      "grey tirzepatide from China"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tysmosin_beta_4",
+    "name": "tysmosin_beta_4",
+    "display_name": "Tysmosin Beta 4",
+    "aliases": [
+      "Tysmosin Beta 4"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "dut",
+    "name": "dut",
+    "display_name": "Dut",
+    "aliases": [
+      "Dut"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "vitamin_d",
+    "name": "vitamin_d",
+    "display_name": "Vitamin D",
+    "aliases": [
+      "Vitamin D"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "magnesium",
+    "name": "magnesium",
+    "display_name": "Magnesium",
+    "aliases": [
+      "Magnesium"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ubiquinol",
+    "name": "ubiquinol",
+    "display_name": "Ubiquinol",
+    "aliases": [
+      "Ubiquinol"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_1295__ipamorelin_no_dac",
+    "name": "cjc_1295__ipamorelin_no_dac",
+    "display_name": "CJC 1295 + Ipamorelin No DAC",
+    "aliases": [
+      "CJC 1295 + Ipamorelin No DAC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ventfort",
+    "name": "ventfort",
+    "display_name": "ventfort",
+    "aliases": [
+      "ventfort"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glp_1_meds_prescribed_name_brand",
+    "name": "glp_1_meds_prescribed_name_brand",
+    "display_name": "glp-1 meds (prescribed name-brand)",
+    "aliases": [
+      "glp-1 meds (prescribed name-brand)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghk_cu_troches",
+    "name": "ghk_cu_troches",
+    "display_name": "GHK-cu troches",
+    "aliases": [
+      "GHK-cu troches"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghk_cu_injections",
+    "name": "ghk_cu_injections",
+    "display_name": "GHK-cu injections",
+    "aliases": [
+      "GHK-cu injections"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "pt_141_nasal",
+    "name": "pt_141_nasal",
+    "display_name": "pt-141 nasal",
+    "aliases": [
+      "pt-141 nasal"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "zinc_50mg",
+    "name": "zinc_50mg",
+    "display_name": "zinc 50mg",
+    "aliases": [
+      "zinc 50mg"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "sermorelinipa_blend",
+    "name": "sermorelinipa_blend",
+    "display_name": "sermorelin/ipa blend",
+    "aliases": [
+      "sermorelin/ipa blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "platelet_derived_growth_factor_pdgf",
+    "name": "platelet_derived_growth_factor_pdgf",
+    "display_name": "Platelet-Derived Growth Factor (PDGF)",
+    "aliases": [
+      "Platelet-Derived Growth Factor (PDGF)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "pnc27",
+    "name": "pnc27",
+    "display_name": "pnc27",
+    "aliases": [
+      "pnc27"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "boron",
+    "name": "boron",
+    "display_name": "boron",
+    "aliases": [
+      "boron"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "different_peptides",
+    "name": "different_peptides",
+    "display_name": "different peptides",
+    "aliases": [
+      "different peptides"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_w_dac",
+    "name": "cjc_w_dac",
+    "display_name": "CJC w/ DAC",
+    "aliases": [
+      "CJC w/ DAC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_with_ipa",
+    "name": "cjc_with_ipa",
+    "display_name": "CJC with Ipa",
+    "aliases": [
+      "CJC with Ipa"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "klow_implied",
+    "name": "klow_implied",
+    "display_name": "KLOW (implied)",
+    "aliases": [
+      "KLOW (implied)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghk_cu_and_kpv_blend_ghk",
+    "name": "ghk_cu_and_kpv_blend_ghk",
+    "display_name": "GHK-CU and KPV blend (ghk²)",
+    "aliases": [
+      "GHK-CU and KPV blend (ghk²)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "sq_injection_implied_peptide",
+    "name": "sq_injection_implied_peptide",
+    "display_name": "SQ injection (implied peptide)",
+    "aliases": [
+      "SQ injection (implied peptide)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glow70",
+    "name": "glow70",
+    "display_name": "GLOW70",
+    "aliases": [
+      "GLOW70"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "hgh_secretagogues",
+    "name": "hgh_secretagogues",
+    "display_name": "hgh secretagogues",
+    "aliases": [
+      "hgh secretagogues"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "wolverine_bpc_157__tb_500",
+    "name": "wolverine_bpc_157__tb_500",
+    "display_name": "Wolverine (BPC-157 + TB-500)",
+    "aliases": [
+      "Wolverine (BPC-157 + TB-500)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "fragment_176_191__aod_9604",
+    "name": "fragment_176_191__aod_9604",
+    "display_name": "Fragment 176-191 + AOD-9604",
+    "aliases": [
+      "Fragment 176-191 + AOD-9604"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tadalafil",
+    "name": "tadalafil",
+    "display_name": "Tadalafil",
+    "aliases": [
+      "Tadalafil"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "pharm_grade_glutathione",
+    "name": "pharm_grade_glutathione",
+    "display_name": "Pharm grade glutathione",
+    "aliases": [
+      "Pharm grade glutathione"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "157",
+    "name": "157",
+    "display_name": "157",
+    "aliases": [
+      "157"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "hgh_fragment_176_191",
+    "name": "hgh_fragment_176_191",
+    "display_name": "HGH Fragment 176-191",
+    "aliases": [
+      "HGH Fragment 176-191"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_1295pamorelin_blend",
+    "name": "cjc_1295pamorelin_blend",
+    "display_name": "CJC-1295+Pamorelin blend",
+    "aliases": [
+      "CJC-1295+Pamorelin blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "real_gh",
+    "name": "real_gh",
+    "display_name": "real GH",
+    "aliases": [
+      "real GH"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "peptide_implied_cjc_1295ipamorelin_context",
+    "name": "peptide_implied_cjc_1295ipamorelin_context",
+    "display_name": "peptide (implied CJC-1295/Ipamorelin context)",
+    "aliases": [
+      "peptide (implied CJC-1295/Ipamorelin context)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glow_cream",
+    "name": "glow_cream",
+    "display_name": "GLOW cream",
+    "aliases": [
+      "GLOW cream"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "pharma_sema",
+    "name": "pharma_sema",
+    "display_name": "pharma sema",
+    "aliases": [
+      "pharma sema"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "pharma_lira",
+    "name": "pharma_lira",
+    "display_name": "pharma lira",
+    "aliases": [
+      "pharma lira"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "pharma_tirz",
+    "name": "pharma_tirz",
+    "display_name": "pharma tirz",
+    "aliases": [
+      "pharma tirz"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "grey_reta",
+    "name": "grey_reta",
+    "display_name": "grey reta",
+    "aliases": [
+      "grey reta"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157tb_500_blend",
+    "name": "bpc_157tb_500_blend",
+    "display_name": "BPC-157/TB-500 Blend",
+    "aliases": [
+      "BPC-157/TB-500 Blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157tb_500_combo",
+    "name": "bpc_157tb_500_combo",
+    "display_name": "BPC-157/TB-500 combo",
+    "aliases": [
+      "BPC-157/TB-500 combo"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "oral_bpc157",
+    "name": "oral_bpc157",
+    "display_name": "oral bpc157",
+    "aliases": [
+      "oral bpc157"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "nasal_spray_peptide_unspecified_implied_semaxselank",
+    "name": "nasal_spray_peptide_unspecified_implied_semaxselank",
+    "display_name": "nasal spray peptide (unspecified, implied semax/selank)",
+    "aliases": [
+      "nasal spray peptide (unspecified, implied semax/selank)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "nasal_spray_peptides_unspecified",
+    "name": "nasal_spray_peptides_unspecified",
+    "display_name": "nasal spray peptides (unspecified)",
+    "aliases": [
+      "nasal spray peptides (unspecified)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tesaipa_blend",
+    "name": "tesaipa_blend",
+    "display_name": "Tesa/IPA blend",
+    "aliases": [
+      "Tesa/IPA blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_no_dacipa",
+    "name": "cjc_no_dacipa",
+    "display_name": "CJC no Dac/Ipa",
+    "aliases": [
+      "CJC no Dac/Ipa"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "injectable_vitamin_c",
+    "name": "injectable_vitamin_c",
+    "display_name": "injectable vitamin c",
+    "aliases": [
+      "injectable vitamin c"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bromantane",
+    "name": "bromantane",
+    "display_name": "Bromantane",
+    "aliases": [
+      "Bromantane"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "5am1mq",
+    "name": "5am1mq",
+    "display_name": "5am1mq",
+    "aliases": [
+      "5am1mq"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "klow_mix",
+    "name": "klow_mix",
+    "display_name": "KLOW mix",
+    "aliases": [
+      "KLOW mix"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_ipa_no_dac",
+    "name": "cjc_ipa_no_dac",
+    "display_name": "cjc-ipa (no dac)",
+    "aliases": [
+      "cjc-ipa (no dac)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "nad_sublingual",
+    "name": "nad_sublingual",
+    "display_name": "NAD+ sublingual",
+    "aliases": [
+      "NAD+ sublingual"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "nmn_powder",
+    "name": "nmn_powder",
+    "display_name": "NMN powder",
+    "aliases": [
+      "NMN powder"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tb4tb500",
+    "name": "tb4tb500",
+    "display_name": "TB4/TB500",
+    "aliases": [
+      "TB4/TB500"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_with_dac",
+    "name": "cjc_with_dac",
+    "display_name": "CJC with DAC",
+    "aliases": [
+      "CJC with DAC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "semax_or_selank_unspecified",
+    "name": "semax_or_selank_unspecified",
+    "display_name": "semax or selank (unspecified)",
+    "aliases": [
+      "semax or selank (unspecified)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ostarine",
+    "name": "ostarine",
+    "display_name": "Ostarine",
+    "aliases": [
+      "Ostarine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cardarine",
+    "name": "cardarine",
+    "display_name": "Cardarine",
+    "aliases": [
+      "Cardarine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "selank_or_semax_unspecified",
+    "name": "selank_or_semax_unspecified",
+    "display_name": "Selank or Semax (unspecified)",
+    "aliases": [
+      "Selank or Semax (unspecified)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "microdose_gh",
+    "name": "microdose_gh",
+    "display_name": "microdose gh",
+    "aliases": [
+      "microdose gh"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "testosterone_undeconate",
+    "name": "testosterone_undeconate",
+    "display_name": "testosterone undeconate",
+    "aliases": [
+      "testosterone undeconate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "prostatilen_suppositories",
+    "name": "prostatilen_suppositories",
+    "display_name": "Prostatilen suppositories",
+    "aliases": [
+      "Prostatilen suppositories"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "prostatilen_oral",
+    "name": "prostatilen_oral",
+    "display_name": "Prostatilen oral",
+    "aliases": [
+      "Prostatilen oral"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ipa__cjc_no_dac",
+    "name": "ipa__cjc_no_dac",
+    "display_name": "Ipa + Cjc no dac",
+    "aliases": [
+      "Ipa + Cjc no dac"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghk_cu_mist_spray",
+    "name": "ghk_cu_mist_spray",
+    "display_name": "GHK-Cu mist spray",
+    "aliases": [
+      "GHK-Cu mist spray"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghk_cu_serum",
+    "name": "ghk_cu_serum",
+    "display_name": "GHK-Cu serum",
+    "aliases": [
+      "GHK-Cu serum"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "acetyl_l_carnitine",
+    "name": "acetyl_l_carnitine",
+    "display_name": "Acetyl-L-carnitine",
+    "aliases": [
+      "Acetyl-L-carnitine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "acetyl",
+    "name": "acetyl",
+    "display_name": "Acetyl",
+    "aliases": [
+      "Acetyl"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "shilajavit_acid",
+    "name": "shilajavit_acid",
+    "display_name": "Shilajavit Acid",
+    "aliases": [
+      "Shilajavit Acid"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "klow_blend_10105010",
+    "name": "klow_blend_10105010",
+    "display_name": "KLOW blend (10/10/50/10)",
+    "aliases": [
+      "KLOW blend (10/10/50/10)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "nandrolone",
+    "name": "nandrolone",
+    "display_name": "nandrolone",
+    "aliases": [
+      "nandrolone"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157tb_500_mix",
+    "name": "bpc_157tb_500_mix",
+    "display_name": "BPC-157/TB-500 mix",
+    "aliases": [
+      "BPC-157/TB-500 mix"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bb10_bpc_157tb_500_blend",
+    "name": "bb10_bpc_157tb_500_blend",
+    "display_name": "BB10 (BPC-157/TB-500 blend)",
+    "aliases": [
+      "BB10 (BPC-157/TB-500 blend)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "zinc_bisglycinate",
+    "name": "zinc_bisglycinate",
+    "display_name": "Zinc Bisglycinate",
+    "aliases": [
+      "Zinc Bisglycinate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "mast_p",
+    "name": "mast_p",
+    "display_name": "Mast P",
+    "aliases": [
+      "Mast P"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bac_water_from_amazon",
+    "name": "bac_water_from_amazon",
+    "display_name": "bac water from Amazon",
+    "aliases": [
+      "bac water from Amazon"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "amazon_bac_water",
+    "name": "amazon_bac_water",
+    "display_name": "Amazon bac water",
+    "aliases": [
+      "Amazon bac water"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bac_water_amazon",
+    "name": "bac_water_amazon",
+    "display_name": "BAC water (Amazon)",
+    "aliases": [
+      "BAC water (Amazon)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "yufeaia_brand_bac_water_amazon",
+    "name": "yufeaia_brand_bac_water_amazon",
+    "display_name": "Yufeaia brand BAC water (Amazon)",
+    "aliases": [
+      "Yufeaia brand BAC water (Amazon)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "retratide",
+    "name": "retratide",
+    "display_name": "Retratide",
+    "aliases": [
+      "Retratide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "unspecified_peptides",
+    "name": "unspecified_peptides",
+    "display_name": "unspecified peptides",
+    "aliases": [
+      "unspecified peptides"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "semaxselank_combo",
+    "name": "semaxselank_combo",
+    "display_name": "semax/selank combo",
+    "aliases": [
+      "semax/selank combo"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "caffeine",
+    "name": "caffeine",
+    "display_name": "caffeine",
+    "aliases": [
+      "caffeine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "reta_2mg",
+    "name": "reta_2mg",
+    "display_name": "Reta 2mg",
+    "aliases": [
+      "Reta 2mg"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "testosterone_cream",
+    "name": "testosterone_cream",
+    "display_name": "testosterone cream",
+    "aliases": [
+      "testosterone cream"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "nad_injected",
+    "name": "nad_injected",
+    "display_name": "NAD+ injected",
+    "aliases": [
+      "NAD+ injected"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "na_selank_intranasal",
+    "name": "na_selank_intranasal",
+    "display_name": "NA Selank intranasal",
+    "aliases": [
+      "NA Selank intranasal"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "selank_injecting",
+    "name": "selank_injecting",
+    "display_name": "Selank injecting",
+    "aliases": [
+      "Selank injecting"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "oxytocin_intranasal",
+    "name": "oxytocin_intranasal",
+    "display_name": "Oxytocin intranasal",
+    "aliases": [
+      "Oxytocin intranasal"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "dsip_injection",
+    "name": "dsip_injection",
+    "display_name": "DSIP injection",
+    "aliases": [
+      "DSIP injection"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cardigen",
+    "name": "cardigen",
+    "display_name": "cardigen",
+    "aliases": [
+      "cardigen"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "svetinorm",
+    "name": "svetinorm",
+    "display_name": "Svetinorm",
+    "aliases": [
+      "Svetinorm"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "liverra",
+    "name": "liverra",
+    "display_name": "Liverra",
+    "aliases": [
+      "Liverra"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tbbpc",
+    "name": "tbbpc",
+    "display_name": "TB/BPC",
+    "aliases": [
+      "TB/BPC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "501010_preblended",
+    "name": "501010_preblended",
+    "display_name": "50:10:10 preblended",
+    "aliases": [
+      "50:10:10 preblended"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "non_ghk_part_of_glow",
+    "name": "non_ghk_part_of_glow",
+    "display_name": "non ghk part of glow",
+    "aliases": [
+      "non ghk part of glow"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghk_only",
+    "name": "ghk_only",
+    "display_name": "ghk only",
+    "aliases": [
+      "ghk only"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghk_implied_from_context___ran_for_5_weeks",
+    "name": "ghk_implied_from_context___ran_for_5_weeks",
+    "display_name": "GHK (implied from context - ran for 5 weeks)",
+    "aliases": [
+      "GHK (implied from context - ran for 5 weeks)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "peptide_serum_with_copper",
+    "name": "peptide_serum_with_copper",
+    "display_name": "peptide serum (with copper)",
+    "aliases": [
+      "peptide serum (with copper)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "mounjaor_tirz",
+    "name": "mounjaor_tirz",
+    "display_name": "Mounjaor (tirz)",
+    "aliases": [
+      "Mounjaor (tirz)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghk_cu__kpv",
+    "name": "ghk_cu__kpv",
+    "display_name": "GHK-CU + KPV",
+    "aliases": [
+      "GHK-CU + KPV"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghk_cu_topical_serum",
+    "name": "ghk_cu_topical_serum",
+    "display_name": "GHK-CU topical serum",
+    "aliases": [
+      "GHK-CU topical serum"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "topical_ghk_serum",
+    "name": "topical_ghk_serum",
+    "display_name": "topical ghk serum",
+    "aliases": [
+      "topical ghk serum"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "semax_amidate",
+    "name": "semax_amidate",
+    "display_name": "Semax Amidate",
+    "aliases": [
+      "Semax Amidate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "gh_reta",
+    "name": "gh_reta",
+    "display_name": "gh Reta",
+    "aliases": [
+      "gh Reta"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157__tpc_500_blend",
+    "name": "bpc_157__tpc_500_blend",
+    "display_name": "BPC 157 + TPC 500 blend",
+    "aliases": [
+      "BPC 157 + TPC 500 blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "super_human",
+    "name": "super_human",
+    "display_name": "super human",
+    "aliases": [
+      "super human"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "mod_grfipa",
+    "name": "mod_grfipa",
+    "display_name": "mod-grf/ipa",
+    "aliases": [
+      "mod-grf/ipa"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cymbalta",
+    "name": "cymbalta",
+    "display_name": "Cymbalta",
+    "aliases": [
+      "Cymbalta"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_no_dac_5mgip_5mg",
+    "name": "cjc_no_dac_5mgip_5mg",
+    "display_name": "CJC no dac 5mg/IP 5mg",
+    "aliases": [
+      "CJC no dac 5mg/IP 5mg"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "oral_form_of_tirzepatide",
+    "name": "oral_form_of_tirzepatide",
+    "display_name": "oral form of tirzepatide",
+    "aliases": [
+      "oral form of tirzepatide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tirzepatide_injection",
+    "name": "tirzepatide_injection",
+    "display_name": "tirzepatide injection",
+    "aliases": [
+      "tirzepatide injection"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghkcukpv",
+    "name": "ghkcukpv",
+    "display_name": "GHKCU+KPV",
+    "aliases": [
+      "GHKCU+KPV"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "nad_injections",
+    "name": "nad_injections",
+    "display_name": "NAD injections",
+    "aliases": [
+      "NAD injections"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tb500bpc157",
+    "name": "tb500bpc157",
+    "display_name": "TB500/BPC157",
+    "aliases": [
+      "TB500/BPC157"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "lithium_orotate",
+    "name": "lithium_orotate",
+    "display_name": "lithium orotate",
+    "aliases": [
+      "lithium orotate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "dutasteride",
+    "name": "dutasteride",
+    "display_name": "Dutasteride",
+    "aliases": [
+      "Dutasteride"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "primo",
+    "name": "primo",
+    "display_name": "primo",
+    "aliases": [
+      "primo"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "normal_selank_nasal_spray",
+    "name": "normal_selank_nasal_spray",
+    "display_name": "normal selank nasal spray",
+    "aliases": [
+      "normal selank nasal spray"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glow_70_mg",
+    "name": "glow_70_mg",
+    "display_name": "Glow 70 mg",
+    "aliases": [
+      "Glow 70 mg"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "gb115",
+    "name": "gb115",
+    "display_name": "Gb115",
+    "aliases": [
+      "Gb115"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ketamine",
+    "name": "ketamine",
+    "display_name": "ketamine",
+    "aliases": [
+      "ketamine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "visoluten",
+    "name": "visoluten",
+    "display_name": "visoluten",
+    "aliases": [
+      "visoluten"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "vision_combo",
+    "name": "vision_combo",
+    "display_name": "vision combo",
+    "aliases": [
+      "vision combo"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "lumify_drops",
+    "name": "lumify_drops",
+    "display_name": "Lumify drops",
+    "aliases": [
+      "Lumify drops"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "klow_combo",
+    "name": "klow_combo",
+    "display_name": "KLOW combo",
+    "aliases": [
+      "KLOW combo"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "chinese_hgh",
+    "name": "chinese_hgh",
+    "display_name": "Chinese HGH",
+    "aliases": [
+      "Chinese HGH"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "pure_hgh",
+    "name": "pure_hgh",
+    "display_name": "pure HGH",
+    "aliases": [
+      "pure HGH"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "thymosin_alpha_1_peptide",
+    "name": "thymosin_alpha_1_peptide",
+    "display_name": "thymosin alpha 1 peptide",
+    "aliases": [
+      "thymosin alpha 1 peptide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "methelyne_blue",
+    "name": "methelyne_blue",
+    "display_name": "Methelyne Blue",
+    "aliases": [
+      "Methelyne Blue"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "moreline_variant",
+    "name": "moreline_variant",
+    "display_name": "moreline variant",
+    "aliases": [
+      "moreline variant"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "zepbound_tirzepatide",
+    "name": "zepbound_tirzepatide",
+    "display_name": "zepbound (tirzepatide)",
+    "aliases": [
+      "zepbound (tirzepatide)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "metformin",
+    "name": "metformin",
+    "display_name": "metformin",
+    "aliases": [
+      "metformin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "yohimbine_hcl",
+    "name": "yohimbine_hcl",
+    "display_name": "Yohimbine HCL",
+    "aliases": [
+      "Yohimbine HCL"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "l_carnitine_tartrate",
+    "name": "l_carnitine_tartrate",
+    "display_name": "L Carnitine Tartrate",
+    "aliases": [
+      "L Carnitine Tartrate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bcaa_powder",
+    "name": "bcaa_powder",
+    "display_name": "BCAA powder",
+    "aliases": [
+      "BCAA powder"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "dmaa_13",
+    "name": "dmaa_13",
+    "display_name": "DMAA 1,3",
+    "aliases": [
+      "DMAA 1,3"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "gabapentin",
+    "name": "gabapentin",
+    "display_name": "Gabapentin",
+    "aliases": [
+      "Gabapentin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "zinc_picolate",
+    "name": "zinc_picolate",
+    "display_name": "zinc picolate",
+    "aliases": [
+      "zinc picolate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "topical_ghk",
+    "name": "topical_ghk",
+    "display_name": "topical ghk",
+    "aliases": [
+      "topical ghk"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "50_10_10_10",
+    "name": "50_10_10_10",
+    "display_name": "50-10-10-10",
+    "aliases": [
+      "50-10-10-10"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "semax_at_1",
+    "name": "semax_at_1",
+    "display_name": "Semax at 1%",
+    "aliases": [
+      "Semax at 1%"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "phenylpiracetam_hydrazide",
+    "name": "phenylpiracetam_hydrazide",
+    "display_name": "Phenylpiracetam Hydrazide",
+    "aliases": [
+      "Phenylpiracetam Hydrazide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "aniracetam",
+    "name": "aniracetam",
+    "display_name": "Aniracetam",
+    "aliases": [
+      "Aniracetam"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "alpha_gpc",
+    "name": "alpha_gpc",
+    "display_name": "Alpha GPC",
+    "aliases": [
+      "Alpha GPC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "klow_pen",
+    "name": "klow_pen",
+    "display_name": "Klow pen",
+    "aliases": [
+      "Klow pen"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghk_cu_glow_protocol",
+    "name": "ghk_cu_glow_protocol",
+    "display_name": "GHK-Cu (GLOW protocol)",
+    "aliases": [
+      "GHK-Cu (GLOW protocol)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "peptides_unspecified_3_different",
+    "name": "peptides_unspecified_3_different",
+    "display_name": "peptides (unspecified, 3 different)",
+    "aliases": [
+      "peptides (unspecified, 3 different)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "peptides_7_8_unspecified",
+    "name": "peptides_7_8_unspecified",
+    "display_name": "peptides (7-8 unspecified)",
+    "aliases": [
+      "peptides (7-8 unspecified)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "nasal_semax",
+    "name": "nasal_semax",
+    "display_name": "nasal semax",
+    "aliases": [
+      "nasal semax"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ipamorelin_cjc",
+    "name": "ipamorelin_cjc",
+    "display_name": "Ipamorelin CJC",
+    "aliases": [
+      "Ipamorelin CJC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tesamorelinipamorelin_combo",
+    "name": "tesamorelinipamorelin_combo",
+    "display_name": "Tesamorelin/ipamorelin combo",
+    "aliases": [
+      "Tesamorelin/ipamorelin combo"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "propranolol",
+    "name": "propranolol",
+    "display_name": "propranolol",
+    "aliases": [
+      "propranolol"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "shots",
+    "name": "shots",
+    "display_name": "shots",
+    "aliases": [
+      "shots"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glow_50_10_10_blend",
+    "name": "glow_50_10_10_blend",
+    "display_name": "GLOW 50-10-10 blend",
+    "aliases": [
+      "GLOW 50-10-10 blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "copper_biglycinate",
+    "name": "copper_biglycinate",
+    "display_name": "copper biglycinate",
+    "aliases": [
+      "copper biglycinate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bam15",
+    "name": "bam15",
+    "display_name": "Bam15",
+    "aliases": [
+      "Bam15"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "trt_test_cypionate",
+    "name": "trt_test_cypionate",
+    "display_name": "TRT test cypionate",
+    "aliases": [
+      "TRT test cypionate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tesaipacjc_no_dac",
+    "name": "tesaipacjc_no_dac",
+    "display_name": "tesa/ipa/cjc (no dac)",
+    "aliases": [
+      "tesa/ipa/cjc (no dac)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ipa_frag",
+    "name": "ipa_frag",
+    "display_name": "ipa frag",
+    "aliases": [
+      "ipa frag"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "l_tyrosine",
+    "name": "l_tyrosine",
+    "display_name": "L-Tyrosine",
+    "aliases": [
+      "L-Tyrosine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "semorelin_and_ipamorelin_blend",
+    "name": "semorelin_and_ipamorelin_blend",
+    "display_name": "semorelin and ipamorelin blend",
+    "aliases": [
+      "semorelin and ipamorelin blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "n_acetyl_selank",
+    "name": "n_acetyl_selank",
+    "display_name": "N-acetyl-selank",
+    "aliases": [
+      "N-acetyl-selank"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpctb500",
+    "name": "bpctb500",
+    "display_name": "bpc/tb500",
+    "aliases": [
+      "bpc/tb500"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "low_dose_test",
+    "name": "low_dose_test",
+    "display_name": "low dose test",
+    "aliases": [
+      "low dose test"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "gold_blend",
+    "name": "gold_blend",
+    "display_name": "GOLD blend",
+    "aliases": [
+      "GOLD blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc157_oral",
+    "name": "bpc157_oral",
+    "display_name": "BPC157 oral",
+    "aliases": [
+      "BPC157 oral"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glow_injectable_stack",
+    "name": "glow_injectable_stack",
+    "display_name": "GLOW injectable stack",
+    "aliases": [
+      "GLOW injectable stack"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "topical_cream_voltarol",
+    "name": "topical_cream_voltarol",
+    "display_name": "topical cream (voltarol)",
+    "aliases": [
+      "topical cream (voltarol)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "kpv_klow_nightly",
+    "name": "kpv_klow_nightly",
+    "display_name": "KPV (Klow nightly)",
+    "aliases": [
+      "KPV (Klow nightly)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "oral_bpc_pda_salt",
+    "name": "oral_bpc_pda_salt",
+    "display_name": "oral BPC (PDA salt)",
+    "aliases": [
+      "oral BPC (PDA salt)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "klow_stack_blend",
+    "name": "klow_stack_blend",
+    "display_name": "KLOW stack blend",
+    "aliases": [
+      "KLOW stack blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "compounded_glp_1",
+    "name": "compounded_glp_1",
+    "display_name": "compounded GLP-1",
+    "aliases": [
+      "compounded GLP-1"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "compounded_glp",
+    "name": "compounded_glp",
+    "display_name": "Compounded GLP",
+    "aliases": [
+      "Compounded GLP"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tirzepatide_zepbound",
+    "name": "tirzepatide_zepbound",
+    "display_name": "Tirzepatide (Zepbound)",
+    "aliases": [
+      "Tirzepatide (Zepbound)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "wolverine_compound_bpc_157tb_500",
+    "name": "wolverine_compound_bpc_157tb_500",
+    "display_name": "Wolverine compound (BPC-157/TB-500)",
+    "aliases": [
+      "Wolverine compound (BPC-157/TB-500)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glow_or_klow",
+    "name": "glow_or_klow",
+    "display_name": "glow or klow",
+    "aliases": [
+      "glow or klow"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "novolin",
+    "name": "novolin",
+    "display_name": "novolin",
+    "aliases": [
+      "novolin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "rad_140",
+    "name": "rad_140",
+    "display_name": "Rad-140",
+    "aliases": [
+      "Rad-140"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "injectable_l_carn",
+    "name": "injectable_l_carn",
+    "display_name": "Injectable L carn",
+    "aliases": [
+      "Injectable L carn"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tb_500_tb4",
+    "name": "tb_500_tb4",
+    "display_name": "tb-500 (tb4)",
+    "aliases": [
+      "tb-500 (tb4)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glandokort",
+    "name": "glandokort",
+    "display_name": "glandokort",
+    "aliases": [
+      "glandokort"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "this",
+    "name": "this",
+    "display_name": "this",
+    "aliases": [
+      "this"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "a_different_peptide",
+    "name": "a_different_peptide",
+    "display_name": "a different peptide",
+    "aliases": [
+      "a different peptide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "test_pellet",
+    "name": "test_pellet",
+    "display_name": "test pellet",
+    "aliases": [
+      "test pellet"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ashwagandha_root",
+    "name": "ashwagandha_root",
+    "display_name": "ashwagandha root",
+    "aliases": [
+      "ashwagandha root"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "these_peps",
+    "name": "these_peps",
+    "display_name": "these peps",
+    "aliases": [
+      "these peps"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "frag",
+    "name": "frag",
+    "display_name": "frag",
+    "aliases": [
+      "frag"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "liraglutide",
+    "name": "liraglutide",
+    "display_name": "liraglutide",
+    "aliases": [
+      "liraglutide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "sermorelinipamorelin_combo",
+    "name": "sermorelinipamorelin_combo",
+    "display_name": "sermorelin/ipamorelin combo",
+    "aliases": [
+      "sermorelin/ipamorelin combo"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glutamine",
+    "name": "glutamine",
+    "display_name": "glutamine",
+    "aliases": [
+      "glutamine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "slu_one",
+    "name": "slu_one",
+    "display_name": "slu one",
+    "aliases": [
+      "slu one"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "trans_resveratrol",
+    "name": "trans_resveratrol",
+    "display_name": "trans resveratrol",
+    "aliases": [
+      "trans resveratrol"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "nacet",
+    "name": "nacet",
+    "display_name": "NACET",
+    "aliases": [
+      "NACET"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tmg_betaine",
+    "name": "tmg_betaine",
+    "display_name": "TMG betaine",
+    "aliases": [
+      "TMG betaine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "l_thymalin",
+    "name": "l_thymalin",
+    "display_name": "l thymalin",
+    "aliases": [
+      "l thymalin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "oral_slu_pp_332",
+    "name": "oral_slu_pp_332",
+    "display_name": "oral SLU-PP-332",
+    "aliases": [
+      "oral SLU-PP-332"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "genotropin",
+    "name": "genotropin",
+    "display_name": "Genotropin",
+    "aliases": [
+      "Genotropin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "copper_kpv_bpc_tb_500_blend",
+    "name": "copper_kpv_bpc_tb_500_blend",
+    "display_name": "copper kpv Bpc tb-500 blend",
+    "aliases": [
+      "copper kpv Bpc tb-500 blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "prostamax_injections",
+    "name": "prostamax_injections",
+    "display_name": "prostamax injections",
+    "aliases": [
+      "prostamax injections"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "vitaprost_oral",
+    "name": "vitaprost_oral",
+    "display_name": "Vitaprost oral",
+    "aliases": [
+      "Vitaprost oral"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "endoluten_peptide_bioregulators_oral",
+    "name": "endoluten_peptide_bioregulators_oral",
+    "display_name": "Endoluten peptide bioregulators oral",
+    "aliases": [
+      "Endoluten peptide bioregulators oral"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ipacjc_1295",
+    "name": "ipacjc_1295",
+    "display_name": "Ipa/CJC-1295",
+    "aliases": [
+      "Ipa/CJC-1295"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc1295_with_dac",
+    "name": "cjc1295_with_dac",
+    "display_name": "CJC1295 with DAC",
+    "aliases": [
+      "CJC1295 with DAC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "pharma_sermorelin",
+    "name": "pharma_sermorelin",
+    "display_name": "pharma sermorelin",
+    "aliases": [
+      "pharma sermorelin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "pharmaceutical_sublingual_sermorelin",
+    "name": "pharmaceutical_sublingual_sermorelin",
+    "display_name": "pharmaceutical sublingual sermorelin",
+    "aliases": [
+      "pharmaceutical sublingual sermorelin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ifg1_lr3",
+    "name": "ifg1_lr3",
+    "display_name": "ifg1-lr3",
+    "aliases": [
+      "ifg1-lr3"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "reta_4mg_weekly",
+    "name": "reta_4mg_weekly",
+    "display_name": "Reta 4mg weekly",
+    "aliases": [
+      "Reta 4mg weekly"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "estradiol_gel",
+    "name": "estradiol_gel",
+    "display_name": "estradiol gel",
+    "aliases": [
+      "estradiol gel"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "prometrium_100mg_daily",
+    "name": "prometrium_100mg_daily",
+    "display_name": "prometrium 100mg daily",
+    "aliases": [
+      "prometrium 100mg daily"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "testosterone_cream_5mg",
+    "name": "testosterone_cream_5mg",
+    "display_name": "testosterone cream 5mg",
+    "aliases": [
+      "testosterone cream 5mg"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "kiss",
+    "name": "kiss",
+    "display_name": "Kiss",
+    "aliases": [
+      "Kiss"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "laennec",
+    "name": "laennec",
+    "display_name": "Laennec",
+    "aliases": [
+      "Laennec"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "reta_iv",
+    "name": "reta_iv",
+    "display_name": "Reta Iv",
+    "aliases": [
+      "Reta Iv"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_and_ipamorelin",
+    "name": "cjc_and_ipamorelin",
+    "display_name": "CJC and Ipamorelin",
+    "aliases": [
+      "CJC and Ipamorelin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "compound_preparations_of_sermorelin",
+    "name": "compound_preparations_of_sermorelin",
+    "display_name": "compound preparations of Sermorelin",
+    "aliases": [
+      "compound preparations of Sermorelin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "n_acetyl_semax",
+    "name": "n_acetyl_semax",
+    "display_name": "N acetyl semax",
+    "aliases": [
+      "N acetyl semax"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "hgh_fragment_171_196",
+    "name": "hgh_fragment_171_196",
+    "display_name": "HGH FRAGMENT 171-196",
+    "aliases": [
+      "HGH FRAGMENT 171-196"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjcipamorelin_combo",
+    "name": "cjcipamorelin_combo",
+    "display_name": "CJC/Ipamorelin combo",
+    "aliases": [
+      "CJC/Ipamorelin combo"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "full_hgh",
+    "name": "full_hgh",
+    "display_name": "Full HGH",
+    "aliases": [
+      "Full HGH"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "na_version",
+    "name": "na_version",
+    "display_name": "NA version",
+    "aliases": [
+      "NA version"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "hgh_omnitrope",
+    "name": "hgh_omnitrope",
+    "display_name": "HGH (Omnitrope)",
+    "aliases": [
+      "HGH (Omnitrope)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "hexapeptide_8",
+    "name": "hexapeptide_8",
+    "display_name": "hexapeptide-8",
+    "aliases": [
+      "hexapeptide-8"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "nanopeptide_1",
+    "name": "nanopeptide_1",
+    "display_name": "Nanopeptide-1",
+    "aliases": [
+      "Nanopeptide-1"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tess_with_ipa_blend",
+    "name": "tess_with_ipa_blend",
+    "display_name": "tess with IPA blend",
+    "aliases": [
+      "tess with IPA blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ret_bottle",
+    "name": "ret_bottle",
+    "display_name": "ret bottle",
+    "aliases": [
+      "ret bottle"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cocktail_5_peptides_one_being_a_blend",
+    "name": "cocktail_5_peptides_one_being_a_blend",
+    "display_name": "cocktail (5 peptides, one being a blend)",
+    "aliases": [
+      "cocktail (5 peptides, one being a blend)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "slu_pp",
+    "name": "slu_pp",
+    "display_name": "Slu-pp",
+    "aliases": [
+      "Slu-pp"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_no_dac__ipa_5mg5mg_mix",
+    "name": "cjc_no_dac__ipa_5mg5mg_mix",
+    "display_name": "CJC no dac / Ipa 5mg/5mg mix",
+    "aliases": [
+      "CJC no dac / Ipa 5mg/5mg mix"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_no_dac__ipa",
+    "name": "cjc_no_dac__ipa",
+    "display_name": "CJC no dac / Ipa",
+    "aliases": [
+      "CJC no dac / Ipa"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_no_dac__ipa_blend",
+    "name": "cjc_no_dac__ipa_blend",
+    "display_name": "CJC no dac / Ipa blend",
+    "aliases": [
+      "CJC no dac / Ipa blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "monjouro",
+    "name": "monjouro",
+    "display_name": "Monjouro",
+    "aliases": [
+      "Monjouro"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghk_cu_cosmetic_grade_powder",
+    "name": "ghk_cu_cosmetic_grade_powder",
+    "display_name": "GHK-CU cosmetic grade powder",
+    "aliases": [
+      "GHK-CU cosmetic grade powder"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glp_implied_no_specific_peptide_named",
+    "name": "glp_implied_no_specific_peptide_named",
+    "display_name": "GLP (implied, no specific peptide named)",
+    "aliases": [
+      "GLP (implied, no specific peptide named)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "shot_implied_glpretatrutide",
+    "name": "shot_implied_glpretatrutide",
+    "display_name": "shot (implied GLP/Retatrutide)",
+    "aliases": [
+      "shot (implied GLP/Retatrutide)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glow_70_511_blend",
+    "name": "glow_70_511_blend",
+    "display_name": "Glow 70 5:1:1 blend",
+    "aliases": [
+      "Glow 70 5:1:1 blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glow_70_501010",
+    "name": "glow_70_501010",
+    "display_name": "glow 70 (50/10/10)",
+    "aliases": [
+      "glow 70 (50/10/10)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glow_or_klow_unspecified",
+    "name": "glow_or_klow_unspecified",
+    "display_name": "GLOW or KLOW (unspecified)",
+    "aliases": [
+      "GLOW or KLOW (unspecified)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "retraglp_3",
+    "name": "retraglp_3",
+    "display_name": "Retra/GLP-3",
+    "aliases": [
+      "Retra/GLP-3"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "trazadone",
+    "name": "trazadone",
+    "display_name": "trazadone",
+    "aliases": [
+      "trazadone"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "adderall",
+    "name": "adderall",
+    "display_name": "adderall",
+    "aliases": [
+      "adderall"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "reta_glp_3__retatrutide",
+    "name": "reta_glp_3__retatrutide",
+    "display_name": "Reta (GLP-3 / Retatrutide)",
+    "aliases": [
+      "Reta (GLP-3 / Retatrutide)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ipa_ipamorelin",
+    "name": "ipa_ipamorelin",
+    "display_name": "IPA (Ipamorelin)",
+    "aliases": [
+      "IPA (Ipamorelin)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cagri_5mg_weekly",
+    "name": "cagri_5mg_weekly",
+    "display_name": "Cagri (.5mg weekly)",
+    "aliases": [
+      "Cagri (.5mg weekly)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "oxytocin_nasal_spray",
+    "name": "oxytocin_nasal_spray",
+    "display_name": "oxytocin nasal spray",
+    "aliases": [
+      "oxytocin nasal spray"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cosmetic_grade_ghk_cu",
+    "name": "cosmetic_grade_ghk_cu",
+    "display_name": "cosmetic grade ghk-cu",
+    "aliases": [
+      "cosmetic grade ghk-cu"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "topical_ghk_cu",
+    "name": "topical_ghk_cu",
+    "display_name": "Topical GHK-Cu",
+    "aliases": [
+      "Topical GHK-Cu"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "hgh_fragment",
+    "name": "hgh_fragment",
+    "display_name": "HGH Fragment",
+    "aliases": [
+      "HGH Fragment"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "yohimbine",
+    "name": "yohimbine",
+    "display_name": "yohimbine",
+    "aliases": [
+      "yohimbine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "injectable_lcar",
+    "name": "injectable_lcar",
+    "display_name": "injectable lcar",
+    "aliases": [
+      "injectable lcar"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "aodcjc",
+    "name": "aodcjc",
+    "display_name": "AOD/CJC",
+    "aliases": [
+      "AOD/CJC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cerebroprotien",
+    "name": "cerebroprotien",
+    "display_name": "Cerebroprotien",
+    "aliases": [
+      "Cerebroprotien"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "retra_pen",
+    "name": "retra_pen",
+    "display_name": "Retra pen",
+    "aliases": [
+      "Retra pen"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "selank_semax_combo_blend",
+    "name": "selank_semax_combo_blend",
+    "display_name": "Selank Semax combo blend",
+    "aliases": [
+      "Selank Semax combo blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "zoloft",
+    "name": "zoloft",
+    "display_name": "Zoloft",
+    "aliases": [
+      "Zoloft"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "semax__selank_10_mg_blend",
+    "name": "semax__selank_10_mg_blend",
+    "display_name": "semax + selank 10 mg blend",
+    "aliases": [
+      "semax + selank 10 mg blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "zoloft_50_mg",
+    "name": "zoloft_50_mg",
+    "display_name": "Zoloft 50 mg",
+    "aliases": [
+      "Zoloft 50 mg"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "collagen_peptides",
+    "name": "collagen_peptides",
+    "display_name": "collagen peptides",
+    "aliases": [
+      "collagen peptides"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tirzepatide_monjaurozepbound",
+    "name": "tirzepatide_monjaurozepbound",
+    "display_name": "Tirzepatide (monjauro/zepbound)",
+    "aliases": [
+      "Tirzepatide (monjauro/zepbound)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "full_length_tb_4",
+    "name": "full_length_tb_4",
+    "display_name": "full-length TB-4",
+    "aliases": [
+      "full-length TB-4"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "lgd_4033",
+    "name": "lgd_4033",
+    "display_name": "LGD-4033",
+    "aliases": [
+      "LGD-4033"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "acp_105",
+    "name": "acp_105",
+    "display_name": "ACP-105",
+    "aliases": [
+      "ACP-105"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_1295imp",
+    "name": "cjc_1295imp",
+    "display_name": "CJC-1295/Imp",
+    "aliases": [
+      "CJC-1295/Imp"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "monjarozepbound",
+    "name": "monjarozepbound",
+    "display_name": "Monjaro/Zepbound",
+    "aliases": [
+      "Monjaro/Zepbound"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "kpv_peptide",
+    "name": "kpv_peptide",
+    "display_name": "KPV peptide",
+    "aliases": [
+      "KPV peptide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "b7_33",
+    "name": "b7_33",
+    "display_name": "B7-33",
+    "aliases": [
+      "B7-33"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "oral_peptide_unspecified_from_amazon",
+    "name": "oral_peptide_unspecified_from_amazon",
+    "display_name": "oral peptide (unspecified, from Amazon)",
+    "aliases": [
+      "oral peptide (unspecified, from Amazon)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ipajcj",
+    "name": "ipajcj",
+    "display_name": "IPA/JCJ",
+    "aliases": [
+      "IPA/JCJ"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glp_1_tirz",
+    "name": "glp_1_tirz",
+    "display_name": "glp-1 (tirz)",
+    "aliases": [
+      "glp-1 (tirz)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "growth_hormone_releasing_peptides",
+    "name": "growth_hormone_releasing_peptides",
+    "display_name": "growth hormone releasing peptides",
+    "aliases": [
+      "growth hormone releasing peptides"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjcipa_combo",
+    "name": "cjcipa_combo",
+    "display_name": "CJC/IPA combo",
+    "aliases": [
+      "CJC/IPA combo"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "lipo_c_vitamin_inject",
+    "name": "lipo_c_vitamin_inject",
+    "display_name": "Lipo-C vitamin inject",
+    "aliases": [
+      "Lipo-C vitamin inject"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "gh_releasers",
+    "name": "gh_releasers",
+    "display_name": "gh releasers",
+    "aliases": [
+      "gh releasers"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "gh_peps",
+    "name": "gh_peps",
+    "display_name": "Gh peps",
+    "aliases": [
+      "Gh peps"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "volufiline",
+    "name": "volufiline",
+    "display_name": "volufiline",
+    "aliases": [
+      "volufiline"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "secretagogues",
+    "name": "secretagogues",
+    "display_name": "secretagogues",
+    "aliases": [
+      "secretagogues"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tbbpc_blend",
+    "name": "tbbpc_blend",
+    "display_name": "TB/BPC blend",
+    "aliases": [
+      "TB/BPC blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "hgh_frag",
+    "name": "hgh_frag",
+    "display_name": "HGH Frag",
+    "aliases": [
+      "HGH Frag"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ipa_serm_combo",
+    "name": "ipa_serm_combo",
+    "display_name": "ipa serm combo",
+    "aliases": [
+      "ipa serm combo"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "circuprime",
+    "name": "circuprime",
+    "display_name": "circuprime",
+    "aliases": [
+      "circuprime"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157tb_500ghk_cu_stack",
+    "name": "bpc_157tb_500ghk_cu_stack",
+    "display_name": "BPC-157/TB-500/GHK-Cu stack",
+    "aliases": [
+      "BPC-157/TB-500/GHK-Cu stack"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glyx_13",
+    "name": "glyx_13",
+    "display_name": "glyx-13",
+    "aliases": [
+      "glyx-13"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "beta_blockers",
+    "name": "beta_blockers",
+    "display_name": "Beta blockers",
+    "aliases": [
+      "Beta blockers"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc5mg",
+    "name": "bpc5mg",
+    "display_name": "BPC5mg",
+    "aliases": [
+      "BPC5mg"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tb500_5mg",
+    "name": "tb500_5mg",
+    "display_name": "TB500 5mg",
+    "aliases": [
+      "TB500 5mg"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "valerian_root",
+    "name": "valerian_root",
+    "display_name": "valerian root",
+    "aliases": [
+      "valerian root"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "collagen_peptide_powder",
+    "name": "collagen_peptide_powder",
+    "display_name": "collagen peptide powder",
+    "aliases": [
+      "collagen peptide powder"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cosmetic_ghkcu",
+    "name": "cosmetic_ghkcu",
+    "display_name": "Cosmetic GHKCU",
+    "aliases": [
+      "Cosmetic GHKCU"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "matrixyl_300",
+    "name": "matrixyl_300",
+    "display_name": "Matrixyl 300",
+    "aliases": [
+      "Matrixyl 300"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glow_peptide_mix",
+    "name": "glow_peptide_mix",
+    "display_name": "glow peptide mix",
+    "aliases": [
+      "glow peptide mix"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "collagen_powder",
+    "name": "collagen_powder",
+    "display_name": "collagen powder",
+    "aliases": [
+      "collagen powder"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "khavinson_peptides",
+    "name": "khavinson_peptides",
+    "display_name": "Khavinson peptides",
+    "aliases": [
+      "Khavinson peptides"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "liposomal_glutathione",
+    "name": "liposomal_glutathione",
+    "display_name": "liposomal glutathione",
+    "aliases": [
+      "liposomal glutathione"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ipamorelincjc_1295",
+    "name": "ipamorelincjc_1295",
+    "display_name": "Ipamorelin/cjc-1295",
+    "aliases": [
+      "Ipamorelin/cjc-1295"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "generic_growth",
+    "name": "generic_growth",
+    "display_name": "generic growth",
+    "aliases": [
+      "generic growth"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157cjc_1295ipamorelin",
+    "name": "bpc_157cjc_1295ipamorelin",
+    "display_name": "BPC-157/CJC-1295/Ipamorelin",
+    "aliases": [
+      "BPC-157/CJC-1295/Ipamorelin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ipamoralintesamoralin_mix",
+    "name": "ipamoralintesamoralin_mix",
+    "display_name": "ipamoralin/tesamoralin mix",
+    "aliases": [
+      "ipamoralin/tesamoralin mix"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjcipa_blend",
+    "name": "cjcipa_blend",
+    "display_name": "CJC/Ipa blend",
+    "aliases": [
+      "CJC/Ipa blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_1295__ipa_pre_blend",
+    "name": "cjc_1295__ipa_pre_blend",
+    "display_name": "CJC-1295 + Ipa pre-blend",
+    "aliases": [
+      "CJC-1295 + Ipa pre-blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "peptides_8_in_stack",
+    "name": "peptides_8_in_stack",
+    "display_name": "peptides (8 in stack)",
+    "aliases": [
+      "peptides (8 in stack)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "different_peptides_unspecified",
+    "name": "different_peptides_unspecified",
+    "display_name": "different peptides (unspecified)",
+    "aliases": [
+      "different peptides (unspecified)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "trize",
+    "name": "trize",
+    "display_name": "trize",
+    "aliases": [
+      "trize"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157_pure_500_mcg_delayed_release_capsules",
+    "name": "bpc_157_pure_500_mcg_delayed_release_capsules",
+    "display_name": "BPC-157 Pure 500 mcg delayed release capsules",
+    "aliases": [
+      "BPC-157 Pure 500 mcg delayed release capsules"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "enclo",
+    "name": "enclo",
+    "display_name": "Enclo",
+    "aliases": [
+      "Enclo"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "compound_semaglutide",
+    "name": "compound_semaglutide",
+    "display_name": "compound semaglutide",
+    "aliases": [
+      "compound semaglutide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "lipo_shots",
+    "name": "lipo_shots",
+    "display_name": "lipo shots",
+    "aliases": [
+      "lipo shots"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_1295_no_dacipamorelin_mix_5mg5mg",
+    "name": "cjc_1295_no_dacipamorelin_mix_5mg5mg",
+    "display_name": "CJC 1295 (no dac)/Ipamorelin Mix 5mg/5mg",
+    "aliases": [
+      "CJC 1295 (no dac)/Ipamorelin Mix 5mg/5mg"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_1295_no_dacipamorelin_blend",
+    "name": "cjc_1295_no_dacipamorelin_blend",
+    "display_name": "CJC 1295 (no dac)/Ipamorelin blend",
+    "aliases": [
+      "CJC 1295 (no dac)/Ipamorelin blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "it_implied_glp_1reta",
+    "name": "it_implied_glp_1reta",
+    "display_name": "it (implied GLP-1/Reta)",
+    "aliases": [
+      "it (implied GLP-1/Reta)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "low_dose_long_ester_test",
+    "name": "low_dose_long_ester_test",
+    "display_name": "low dose long ester test",
+    "aliases": [
+      "low dose long ester test"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "aas_cycle",
+    "name": "aas_cycle",
+    "display_name": "AAS (cycle)",
+    "aliases": [
+      "AAS (cycle)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "l_carnitine_injections",
+    "name": "l_carnitine_injections",
+    "display_name": "L-carnitine injections",
+    "aliases": [
+      "L-carnitine injections"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "low_dose_hgh",
+    "name": "low_dose_hgh",
+    "display_name": "Low dose HGH",
+    "aliases": [
+      "Low dose HGH"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "test_prop",
+    "name": "test_prop",
+    "display_name": "Test Prop",
+    "aliases": [
+      "Test Prop"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "sema_microdose",
+    "name": "sema_microdose",
+    "display_name": "sema microdose",
+    "aliases": [
+      "sema microdose"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "oral_bpc157_arginate_or_hcl",
+    "name": "oral_bpc157_arginate_or_hcl",
+    "display_name": "oral BPC157 arginate or hcl",
+    "aliases": [
+      "oral BPC157 arginate or hcl"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "adex",
+    "name": "adex",
+    "display_name": "adex",
+    "aliases": [
+      "adex"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "healing_peptides",
+    "name": "healing_peptides",
+    "display_name": "healing peptides",
+    "aliases": [
+      "healing peptides"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "anabolic_steroids",
+    "name": "anabolic_steroids",
+    "display_name": "anabolic steroids",
+    "aliases": [
+      "anabolic steroids"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghk_cu__tb_500__bpc_157_blend_glow",
+    "name": "ghk_cu__tb_500__bpc_157_blend_glow",
+    "display_name": "GHK-CU + TB-500 + BPC-157 blend (GLOW)",
+    "aliases": [
+      "GHK-CU + TB-500 + BPC-157 blend (GLOW)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghk_cu__tb_500__bpc_157_blend",
+    "name": "ghk_cu__tb_500__bpc_157_blend",
+    "display_name": "GHK-CU + TB-500 + BPC-157 blend",
+    "aliases": [
+      "GHK-CU + TB-500 + BPC-157 blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghk_cu_klow_50101010_blend",
+    "name": "ghk_cu_klow_50101010_blend",
+    "display_name": "GHK-Cu (KLOW 50/10/10/10 blend)",
+    "aliases": [
+      "GHK-Cu (KLOW 50/10/10/10 blend)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tb_500_klow_50101010_blend",
+    "name": "tb_500_klow_50101010_blend",
+    "display_name": "TB-500 (KLOW 50/10/10/10 blend)",
+    "aliases": [
+      "TB-500 (KLOW 50/10/10/10 blend)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157_klow_50101010_blend",
+    "name": "bpc_157_klow_50101010_blend",
+    "display_name": "BPC-157 (KLOW 50/10/10/10 blend)",
+    "aliases": [
+      "BPC-157 (KLOW 50/10/10/10 blend)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "kpv_klow_50101010_blend",
+    "name": "kpv_klow_50101010_blend",
+    "display_name": "KPV (KLOW 50/10/10/10 blend)",
+    "aliases": [
+      "KPV (KLOW 50/10/10/10 blend)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157_arginate",
+    "name": "bpc_157_arginate",
+    "display_name": "BPC-157 arginate",
+    "aliases": [
+      "BPC-157 arginate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "lemon_bottle",
+    "name": "lemon_bottle",
+    "display_name": "Lemon bottle",
+    "aliases": [
+      "Lemon bottle"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "pharmaceutical_hgh",
+    "name": "pharmaceutical_hgh",
+    "display_name": "pharmaceutical HGH",
+    "aliases": [
+      "pharmaceutical HGH"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "pedspeptides",
+    "name": "pedspeptides",
+    "display_name": "PEDs/peptides",
+    "aliases": [
+      "PEDs/peptides"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glp_1_unspecified_microdosing",
+    "name": "glp_1_unspecified_microdosing",
+    "display_name": "GLP-1 (unspecified, microdosing)",
+    "aliases": [
+      "GLP-1 (unspecified, microdosing)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glp_1_unspecified",
+    "name": "glp_1_unspecified",
+    "display_name": "GLP-1 (unspecified)",
+    "aliases": [
+      "GLP-1 (unspecified)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "growth",
+    "name": "growth",
+    "display_name": "growth",
+    "aliases": [
+      "growth"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "hgh_somatropid",
+    "name": "hgh_somatropid",
+    "display_name": "HGH somatropid",
+    "aliases": [
+      "HGH somatropid"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_1295_w_dac",
+    "name": "cjc_1295_w_dac",
+    "display_name": "cjc 1295 w. DAC",
+    "aliases": [
+      "cjc 1295 w. DAC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "atomoxetine",
+    "name": "atomoxetine",
+    "display_name": "Atomoxetine",
+    "aliases": [
+      "Atomoxetine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "semaglutide_glp1",
+    "name": "semaglutide_glp1",
+    "display_name": "semaglutide glp1",
+    "aliases": [
+      "semaglutide glp1"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "morelins",
+    "name": "morelins",
+    "display_name": "morelins",
+    "aliases": [
+      "morelins"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "delta_9",
+    "name": "delta_9",
+    "display_name": "Delta 9",
+    "aliases": [
+      "Delta 9"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "delta_8__hhc",
+    "name": "delta_8__hhc",
+    "display_name": "Delta 8 + HHC",
+    "aliases": [
+      "Delta 8 + HHC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "blue_pill",
+    "name": "blue_pill",
+    "display_name": "blue pill",
+    "aliases": [
+      "blue pill"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "phenibut",
+    "name": "phenibut",
+    "display_name": "Phenibut",
+    "aliases": [
+      "Phenibut"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "kanna",
+    "name": "kanna",
+    "display_name": "Kanna",
+    "aliases": [
+      "Kanna"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "gelatinized_maca_powder",
+    "name": "gelatinized_maca_powder",
+    "display_name": "gelatinized Maca powder",
+    "aliases": [
+      "gelatinized Maca powder"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glp_1_drugs",
+    "name": "glp_1_drugs",
+    "display_name": "glp-1 drugs",
+    "aliases": [
+      "glp-1 drugs"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "test_cream",
+    "name": "test_cream",
+    "display_name": "test cream",
+    "aliases": [
+      "test cream"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "silicon_generic_scar_away_cream",
+    "name": "silicon_generic_scar_away_cream",
+    "display_name": "silicon (generic scar-away) cream",
+    "aliases": [
+      "silicon (generic scar-away) cream"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "trt_testosterone",
+    "name": "trt_testosterone",
+    "display_name": "TRT (testosterone)",
+    "aliases": [
+      "TRT (testosterone)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "servitude",
+    "name": "servitude",
+    "display_name": "Servitude",
+    "aliases": [
+      "Servitude"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "n_acetyl_amidate_semax",
+    "name": "n_acetyl_amidate_semax",
+    "display_name": "n-acetyl amidate Semax",
+    "aliases": [
+      "n-acetyl amidate Semax"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "selank_nasal_spray",
+    "name": "selank_nasal_spray",
+    "display_name": "selank nasal spray",
+    "aliases": [
+      "selank nasal spray"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "in_insulin",
+    "name": "in_insulin",
+    "display_name": "IN insulin",
+    "aliases": [
+      "IN insulin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "kybella",
+    "name": "kybella",
+    "display_name": "Kybella",
+    "aliases": [
+      "Kybella"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "longer_acting_version_of_selank",
+    "name": "longer_acting_version_of_selank",
+    "display_name": "longer acting version of Selank",
+    "aliases": [
+      "longer acting version of Selank"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "low_dose_naltrexone",
+    "name": "low_dose_naltrexone",
+    "display_name": "low dose naltrexone",
+    "aliases": [
+      "low dose naltrexone"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "desicated_thymus_and_kidney_peptide_bioregulators",
+    "name": "desicated_thymus_and_kidney_peptide_bioregulators",
+    "display_name": "desicated thymus and kidney (Peptide bioregulators)",
+    "aliases": [
+      "desicated thymus and kidney (Peptide bioregulators)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "argeriline",
+    "name": "argeriline",
+    "display_name": "argeriline",
+    "aliases": [
+      "argeriline"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpctb_implied_wolverine_stack",
+    "name": "bpctb_implied_wolverine_stack",
+    "display_name": "BPC/TB (implied wolverine stack)",
+    "aliases": [
+      "BPC/TB (implied wolverine stack)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ta_one",
+    "name": "ta_one",
+    "display_name": "TA one",
+    "aliases": [
+      "TA one"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "mic_plus",
+    "name": "mic_plus",
+    "display_name": "MIC plus",
+    "aliases": [
+      "MIC plus"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ipamorelin_troches",
+    "name": "ipamorelin_troches",
+    "display_name": "Ipamorelin troches",
+    "aliases": [
+      "Ipamorelin troches"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glow_protocol_combo",
+    "name": "glow_protocol_combo",
+    "display_name": "GLOW protocol combo",
+    "aliases": [
+      "GLOW protocol combo"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "nad_500mg",
+    "name": "nad_500mg",
+    "display_name": "NAD+ 500mg",
+    "aliases": [
+      "NAD+ 500mg"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "injection_implied_glp_1",
+    "name": "injection_implied_glp_1",
+    "display_name": "injection (implied GLP-1)",
+    "aliases": [
+      "injection (implied GLP-1)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "injectible_carnitine",
+    "name": "injectible_carnitine",
+    "display_name": "Injectible carnitine",
+    "aliases": [
+      "Injectible carnitine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc1295ipammorellin",
+    "name": "cjc1295ipammorellin",
+    "display_name": "cjc1295/ipammorellin",
+    "aliases": [
+      "cjc1295/ipammorellin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ipamodgrf",
+    "name": "ipamodgrf",
+    "display_name": "ipa/modgrf",
+    "aliases": [
+      "ipa/modgrf"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "160test",
+    "name": "160test",
+    "display_name": "160test",
+    "aliases": [
+      "160test"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "injectable_l_carnitine",
+    "name": "injectable_l_carnitine",
+    "display_name": "injectable L-carnitine",
+    "aliases": [
+      "injectable L-carnitine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "inj_carnitine",
+    "name": "inj_carnitine",
+    "display_name": "Inj Carnitine",
+    "aliases": [
+      "Inj Carnitine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "semorelinipa",
+    "name": "semorelinipa",
+    "display_name": "semorelin/ipa",
+    "aliases": [
+      "semorelin/ipa"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tirz_5mg",
+    "name": "tirz_5mg",
+    "display_name": "Tirz 5mg",
+    "aliases": [
+      "Tirz 5mg"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157tb500_1mg",
+    "name": "bpc_157tb500_1mg",
+    "display_name": "BPC-157/TB500 1mg",
+    "aliases": [
+      "BPC-157/TB500 1mg"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "brand_ozempic",
+    "name": "brand_ozempic",
+    "display_name": "brand ozempic",
+    "aliases": [
+      "brand ozempic"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "peptides_unspecified_cycles",
+    "name": "peptides_unspecified_cycles",
+    "display_name": "peptides (unspecified cycles)",
+    "aliases": [
+      "peptides (unspecified cycles)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "it_unspecified_context_implies_ipacjc",
+    "name": "it_unspecified_context_implies_ipacjc",
+    "display_name": "it (unspecified, context implies IPA/CJC)",
+    "aliases": [
+      "it (unspecified, context implies IPA/CJC)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "pharmacy_mounjaro",
+    "name": "pharmacy_mounjaro",
+    "display_name": "pharmacy mounjaro",
+    "aliases": [
+      "pharmacy mounjaro"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc_1295impamorlin",
+    "name": "cjc_1295impamorlin",
+    "display_name": "CJC-1295+Impamorlin",
+    "aliases": [
+      "CJC-1295+Impamorlin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glycine",
+    "name": "glycine",
+    "display_name": "Glycine",
+    "aliases": [
+      "Glycine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "taurine",
+    "name": "taurine",
+    "display_name": "Taurine",
+    "aliases": [
+      "Taurine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "coq10",
+    "name": "coq10",
+    "display_name": "coq10",
+    "aliases": [
+      "coq10"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "e_cyp",
+    "name": "e_cyp",
+    "display_name": "E Cyp",
+    "aliases": [
+      "E Cyp"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghk_cu_copper_powder",
+    "name": "ghk_cu_copper_powder",
+    "display_name": "GHK-CU copper powder",
+    "aliases": [
+      "GHK-CU copper powder"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "copper_serum",
+    "name": "copper_serum",
+    "display_name": "copper serum",
+    "aliases": [
+      "copper serum"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "semaglutide_peptide",
+    "name": "semaglutide_peptide",
+    "display_name": "semaglutide peptide",
+    "aliases": [
+      "semaglutide peptide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "research_peptide",
+    "name": "research_peptide",
+    "display_name": "research peptide",
+    "aliases": [
+      "research peptide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_nasal_spray",
+    "name": "bpc_nasal_spray",
+    "display_name": "BPC nasal spray",
+    "aliases": [
+      "BPC nasal spray"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_rollon",
+    "name": "bpc_rollon",
+    "display_name": "BPC rollon",
+    "aliases": [
+      "BPC rollon"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157__tb500_blend",
+    "name": "bpc_157__tb500_blend",
+    "display_name": "bpc 157 / tb500 blend",
+    "aliases": [
+      "bpc 157 / tb500 blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ipamorelincjc_blend",
+    "name": "ipamorelincjc_blend",
+    "display_name": "Ipamorelin/CJC blend",
+    "aliases": [
+      "Ipamorelin/CJC blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "oral_tb500",
+    "name": "oral_tb500",
+    "display_name": "oral TB500",
+    "aliases": [
+      "oral TB500"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "5htp",
+    "name": "5htp",
+    "display_name": "5htp",
+    "aliases": [
+      "5htp"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157_injectable",
+    "name": "bpc_157_injectable",
+    "display_name": "BPC-157 injectable",
+    "aliases": [
+      "BPC-157 injectable"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157tb4_oral_combo_implied_from_context",
+    "name": "bpc_157tb4_oral_combo_implied_from_context",
+    "display_name": "BPC-157/TB4 oral combo (implied from context)",
+    "aliases": [
+      "BPC-157/TB4 oral combo (implied from context)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "oral__injectable_peptides",
+    "name": "oral__injectable_peptides",
+    "display_name": "oral \u0026 injectable peptides",
+    "aliases": [
+      "oral \u0026 injectable peptides"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157_peptide_sciences",
+    "name": "bpc_157_peptide_sciences",
+    "display_name": "BPC-157 (Peptide Sciences)",
+    "aliases": [
+      "BPC-157 (Peptide Sciences)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tb4_peptide_sciences",
+    "name": "tb4_peptide_sciences",
+    "display_name": "TB4 (Peptide Sciences)",
+    "aliases": [
+      "TB4 (Peptide Sciences)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "oral_bpc_157_infiniwell_500mcg_rapid_pro",
+    "name": "oral_bpc_157_infiniwell_500mcg_rapid_pro",
+    "display_name": "oral bpc-157 infiniwell 500mcg rapid pro",
+    "aliases": [
+      "oral bpc-157 infiniwell 500mcg rapid pro"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157tb4_combo_peptide_sciences_implied",
+    "name": "bpc_157tb4_combo_peptide_sciences_implied",
+    "display_name": "BPC-157/TB4 combo (Peptide Sciences, implied)",
+    "aliases": [
+      "BPC-157/TB4 combo (Peptide Sciences, implied)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tb_500_thymosin_beta_4",
+    "name": "tb_500_thymosin_beta_4",
+    "display_name": "TB-500 (Thymosin Beta-4)",
+    "aliases": [
+      "TB-500 (Thymosin Beta-4)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_oral_version",
+    "name": "bpc_oral_version",
+    "display_name": "BPC (oral version)",
+    "aliases": [
+      "BPC (oral version)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bioregulators",
+    "name": "bioregulators",
+    "display_name": "bioregulators",
+    "aliases": [
+      "bioregulators"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "astragalus",
+    "name": "astragalus",
+    "display_name": "astragalus",
+    "aliases": [
+      "astragalus"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "senolitics",
+    "name": "senolitics",
+    "display_name": "senolitics",
+    "aliases": [
+      "senolitics"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "plla",
+    "name": "plla",
+    "display_name": "plla",
+    "aliases": [
+      "plla"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "semaglutidetirzepatide_implied",
+    "name": "semaglutidetirzepatide_implied",
+    "display_name": "semaglutide/tirzepatide (implied)",
+    "aliases": [
+      "semaglutide/tirzepatide (implied)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "semaglutide_prescription_wegovy",
+    "name": "semaglutide_prescription_wegovy",
+    "display_name": "semaglutide (prescription Wegovy)",
+    "aliases": [
+      "semaglutide (prescription Wegovy)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "semaglutide_peptide_supplier",
+    "name": "semaglutide_peptide_supplier",
+    "display_name": "semaglutide (peptide supplier)",
+    "aliases": [
+      "semaglutide (peptide supplier)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "nolva",
+    "name": "nolva",
+    "display_name": "nolva",
+    "aliases": [
+      "nolva"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ralox",
+    "name": "ralox",
+    "display_name": "ralox",
+    "aliases": [
+      "ralox"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "caber",
+    "name": "caber",
+    "display_name": "caber",
+    "aliases": [
+      "caber"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tirzepatide_implied_glp_1_agonist",
+    "name": "tirzepatide_implied_glp_1_agonist",
+    "display_name": "tirzepatide (implied GLP-1 agonist)",
+    "aliases": [
+      "tirzepatide (implied GLP-1 agonist)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tirzepatide_implied",
+    "name": "tirzepatide_implied",
+    "display_name": "tirzepatide (implied)",
+    "aliases": [
+      "tirzepatide (implied)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tirz_tirzepatide_implied",
+    "name": "tirz_tirzepatide_implied",
+    "display_name": "tirz (tirzepatide implied)",
+    "aliases": [
+      "tirz (tirzepatide implied)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cjc__ipqmorelin",
+    "name": "cjc__ipqmorelin",
+    "display_name": "cjc- ipqmorelin",
+    "aliases": [
+      "cjc- ipqmorelin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "frag176_peptide",
+    "name": "frag176_peptide",
+    "display_name": "Frag176 peptide",
+    "aliases": [
+      "Frag176 peptide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "vilon",
+    "name": "vilon",
+    "display_name": "Vilon",
+    "aliases": [
+      "Vilon"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "25mg_tirz",
+    "name": "25mg_tirz",
+    "display_name": "2.5mg tirz",
+    "aliases": [
+      "2.5mg tirz"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpctb_500_blend",
+    "name": "bpctb_500_blend",
+    "display_name": "BPC/TB-500 blend",
+    "aliases": [
+      "BPC/TB-500 blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tesamorelinipamorelin",
+    "name": "tesamorelinipamorelin",
+    "display_name": "Tesamorelin/Ipamorelin",
+    "aliases": [
+      "Tesamorelin/Ipamorelin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "oral_bpc157_arginate",
+    "name": "oral_bpc157_arginate",
+    "display_name": "oral BPC157 arginate",
+    "aliases": [
+      "oral BPC157 arginate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_injectable",
+    "name": "bpc_injectable",
+    "display_name": "BPC injectable",
+    "aliases": [
+      "BPC injectable"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "oral_bpc_arginate",
+    "name": "oral_bpc_arginate",
+    "display_name": "oral BPC arginate",
+    "aliases": [
+      "oral BPC arginate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "testofensine_oral",
+    "name": "testofensine_oral",
+    "display_name": "Testofensine oral",
+    "aliases": [
+      "Testofensine oral"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "rapamycin",
+    "name": "rapamycin",
+    "display_name": "Rapamycin",
+    "aliases": [
+      "Rapamycin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glutathione_injection",
+    "name": "glutathione_injection",
+    "display_name": "glutathione injection",
+    "aliases": [
+      "glutathione injection"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "insulin_pen_sized_injection",
+    "name": "insulin_pen_sized_injection",
+    "display_name": "insulin-pen-sized injection",
+    "aliases": [
+      "insulin-pen-sized injection"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "intramuscular_injection",
+    "name": "intramuscular_injection",
+    "display_name": "intramuscular injection",
+    "aliases": [
+      "intramuscular injection"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "hyaluronic_acid",
+    "name": "hyaluronic_acid",
+    "display_name": "hyaluronic acid",
+    "aliases": [
+      "hyaluronic acid"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "nmn_nicotinamide_mononucleotide",
+    "name": "nmn_nicotinamide_mononucleotide",
+    "display_name": "NMN (Nicotinamide Mononucleotide)",
+    "aliases": [
+      "NMN (Nicotinamide Mononucleotide)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "resveratrol",
+    "name": "resveratrol",
+    "display_name": "Resveratrol",
+    "aliases": [
+      "Resveratrol"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "calcium_d_glucarate",
+    "name": "calcium_d_glucarate",
+    "display_name": "Calcium D-Glucarate",
+    "aliases": [
+      "Calcium D-Glucarate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "nad_injectable",
+    "name": "nad_injectable",
+    "display_name": "NAD+ (Injectable)",
+    "aliases": [
+      "NAD+ (Injectable)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "dsip_delta_sleep_inducing_peptide",
+    "name": "dsip_delta_sleep_inducing_peptide",
+    "display_name": "DSIP (Delta Sleep-Inducing Peptide)",
+    "aliases": [
+      "DSIP (Delta Sleep-Inducing Peptide)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghk_cu_injectable",
+    "name": "ghk_cu_injectable",
+    "display_name": "GHK-Cu (Injectable)",
+    "aliases": [
+      "GHK-Cu (Injectable)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "hmb_beta_hydroxy_beta_methylbutyrate",
+    "name": "hmb_beta_hydroxy_beta_methylbutyrate",
+    "display_name": "HMB (Beta-Hydroxy Beta-Methylbutyrate)",
+    "aliases": [
+      "HMB (Beta-Hydroxy Beta-Methylbutyrate)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "carnosine",
+    "name": "carnosine",
+    "display_name": "Carnosine",
+    "aliases": [
+      "Carnosine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tadalafil_5mg",
+    "name": "tadalafil_5mg",
+    "display_name": "Tadalafil 5mg",
+    "aliases": [
+      "Tadalafil 5mg"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "vardenafil_5mg",
+    "name": "vardenafil_5mg",
+    "display_name": "Vardenafil 5mg",
+    "aliases": [
+      "Vardenafil 5mg"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "testosterone_replacement_therapy",
+    "name": "testosterone_replacement_therapy",
+    "display_name": "Testosterone Replacement Therapy",
+    "aliases": [
+      "Testosterone Replacement Therapy"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "leucine",
+    "name": "leucine",
+    "display_name": "Leucine",
+    "aliases": [
+      "Leucine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "coenzyme_q10",
+    "name": "coenzyme_q10",
+    "display_name": "Coenzyme Q10",
+    "aliases": [
+      "Coenzyme Q10"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "alpha_lipoic_acid",
+    "name": "alpha_lipoic_acid",
+    "display_name": "Alpha Lipoic Acid",
+    "aliases": [
+      "Alpha Lipoic Acid"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "lifewave_x39_and_x49_patches",
+    "name": "lifewave_x39_and_x49_patches",
+    "display_name": "Lifewave X39 and X49 Patches",
+    "aliases": [
+      "Lifewave X39 and X49 Patches"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "sulforaphane",
+    "name": "sulforaphane",
+    "display_name": "Sulforaphane",
+    "aliases": [
+      "Sulforaphane"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "quercetin",
+    "name": "quercetin",
+    "display_name": "Quercetin",
+    "aliases": [
+      "Quercetin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glynac_glycine_and_n_acetylcysteine",
+    "name": "glynac_glycine_and_n_acetylcysteine",
+    "display_name": "GlyNAC (Glycine and N-Acetylcysteine)",
+    "aliases": [
+      "GlyNAC (Glycine and N-Acetylcysteine)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "melantonin_2",
+    "name": "melantonin_2",
+    "display_name": "melantonin 2",
+    "aliases": [
+      "melantonin 2"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "peptide_sciences_gut_inflammation_research_formula",
+    "name": "peptide_sciences_gut_inflammation_research_formula",
+    "display_name": "Peptide Sciences gut inflammation research formula",
+    "aliases": [
+      "Peptide Sciences gut inflammation research formula"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ps_capsule_with_bpc_and_tb4",
+    "name": "ps_capsule_with_bpc_and_tb4",
+    "display_name": "PS capsule with BPC and TB4",
+    "aliases": [
+      "PS capsule with BPC and TB4"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "sub_bpc_157",
+    "name": "sub_bpc_157",
+    "display_name": "sub BPC-157",
+    "aliases": [
+      "sub BPC-157"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "oral_kpv",
+    "name": "oral_kpv",
+    "display_name": "oral KPV",
+    "aliases": [
+      "oral KPV"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "xce_peptides_unspecified",
+    "name": "xce_peptides_unspecified",
+    "display_name": "XCE peptides (unspecified)",
+    "aliases": [
+      "XCE peptides (unspecified)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "mk_677_ibutamoren",
+    "name": "mk_677_ibutamoren",
+    "display_name": "MK-677 (Ibutamoren)",
+    "aliases": [
+      "MK-677 (Ibutamoren)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tirz_compounded_with_bpc",
+    "name": "tirz_compounded_with_bpc",
+    "display_name": "Tirz compounded with BPC",
+    "aliases": [
+      "Tirz compounded with BPC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bronchogen",
+    "name": "bronchogen",
+    "display_name": "Bronchogen",
+    "aliases": [
+      "Bronchogen"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "biotin",
+    "name": "biotin",
+    "display_name": "biotin",
+    "aliases": [
+      "biotin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tb500__bpc_157_blend",
+    "name": "tb500__bpc_157_blend",
+    "display_name": "tb500 \u0026 bpc-157 blend",
+    "aliases": [
+      "tb500 \u0026 bpc-157 blend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bioidentical_estradiol",
+    "name": "bioidentical_estradiol",
+    "display_name": "bioidentical estradiol",
+    "aliases": [
+      "bioidentical estradiol"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "progesterone",
+    "name": "progesterone",
+    "display_name": "progesterone",
+    "aliases": [
+      "progesterone"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "mounjaro_mj",
+    "name": "mounjaro_mj",
+    "display_name": "Mounjaro (MJ)",
+    "aliases": [
+      "Mounjaro (MJ)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "qsc_sema",
+    "name": "qsc_sema",
+    "display_name": "QSC Sema",
+    "aliases": [
+      "QSC Sema"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "arctic_sema",
+    "name": "arctic_sema",
+    "display_name": "Arctic Sema",
+    "aliases": [
+      "Arctic Sema"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "sema_5_mg",
+    "name": "sema_5_mg",
+    "display_name": "Sema 5 mg",
+    "aliases": [
+      "Sema 5 mg"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "sema_sky",
+    "name": "sema_sky",
+    "display_name": "Sema (Sky)",
+    "aliases": [
+      "Sema (Sky)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "b12_mic",
+    "name": "b12_mic",
+    "display_name": "B12 MIC",
+    "aliases": [
+      "B12 MIC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghk_cu_topical_neel_3",
+    "name": "ghk_cu_topical_neel_3",
+    "display_name": "GHK-cu topical (Neel 3%)",
+    "aliases": [
+      "GHK-cu topical (Neel 3%)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ipamorelincjc_1295_wo_dac",
+    "name": "ipamorelincjc_1295_wo_dac",
+    "display_name": "ipamorelin/CJC 1295 w/o DAC",
+    "aliases": [
+      "ipamorelin/CJC 1295 w/o DAC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "thymogen",
+    "name": "thymogen",
+    "display_name": "thymogen",
+    "aliases": [
+      "thymogen"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "melonotan",
+    "name": "melonotan",
+    "display_name": "melonotan",
+    "aliases": [
+      "melonotan"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "intranasal_bromantane",
+    "name": "intranasal_bromantane",
+    "display_name": "intranasal Bromantane",
+    "aliases": [
+      "intranasal Bromantane"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tirzepatide_mounjaro",
+    "name": "tirzepatide_mounjaro",
+    "display_name": "Tirzepatide (Mounjaro)",
+    "aliases": [
+      "Tirzepatide (Mounjaro)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "those_two_peptides",
+    "name": "those_two_peptides",
+    "display_name": "those two peptides",
+    "aliases": [
+      "those two peptides"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "nasal_spray",
+    "name": "nasal_spray",
+    "display_name": "nasal spray",
+    "aliases": [
+      "nasal spray"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157_acetate_salt",
+    "name": "bpc_157_acetate_salt",
+    "display_name": "BPC-157 (acetate salt)",
+    "aliases": [
+      "BPC-157 (acetate salt)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157_arginine_salt",
+    "name": "bpc_157_arginine_salt",
+    "display_name": "BPC-157 arginine salt",
+    "aliases": [
+      "BPC-157 arginine salt"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_oral",
+    "name": "bpc_oral",
+    "display_name": "BPC (oral)",
+    "aliases": [
+      "BPC (oral)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "157500_combo_injection",
+    "name": "157500_combo_injection",
+    "display_name": "157/500 combo injection",
+    "aliases": [
+      "157/500 combo injection"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157pea_healthgevity_capsules",
+    "name": "bpc_157pea_healthgevity_capsules",
+    "display_name": "BPC 157/PEA (Healthgevity capsules)",
+    "aliases": [
+      "BPC 157/PEA (Healthgevity capsules)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157_pro_tablets_infiniwell",
+    "name": "bpc_157_pro_tablets_infiniwell",
+    "display_name": "BPC-157 Pro Tablets (Infiniwell)",
+    "aliases": [
+      "BPC-157 Pro Tablets (Infiniwell)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tb500_thymosin_4_fragment_17_23",
+    "name": "tb500_thymosin_4_fragment_17_23",
+    "display_name": "tb500 (thymosin 4 fragment 17-23)",
+    "aliases": [
+      "tb500 (thymosin 4 fragment 17-23)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "peptides_implied_bpc157tb500_from_context",
+    "name": "peptides_implied_bpc157tb500_from_context",
+    "display_name": "peptides (implied BPC157/TB500 from context)",
+    "aliases": [
+      "peptides (implied BPC157/TB500 from context)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ozempic_semaglutide",
+    "name": "ozempic_semaglutide",
+    "display_name": "Ozempic semaglutide",
+    "aliases": [
+      "Ozempic semaglutide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "saf_semaglutide",
+    "name": "saf_semaglutide",
+    "display_name": "SAF semaglutide",
+    "aliases": [
+      "SAF semaglutide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "pa_semaglutide",
+    "name": "pa_semaglutide",
+    "display_name": "PA semaglutide",
+    "aliases": [
+      "PA semaglutide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "semaglutide_from_saf",
+    "name": "semaglutide_from_saf",
+    "display_name": "Semaglutide from SAF",
+    "aliases": [
+      "Semaglutide from SAF"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc157_implied",
+    "name": "bpc157_implied",
+    "display_name": "BPC157 (implied)",
+    "aliases": [
+      "BPC157 (implied)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "victoza",
+    "name": "victoza",
+    "display_name": "Victoza",
+    "aliases": [
+      "Victoza"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "n_acetyl_amidate_epitalon",
+    "name": "n_acetyl_amidate_epitalon",
+    "display_name": "N-acetyl Amidate Epitalon",
+    "aliases": [
+      "N-acetyl Amidate Epitalon"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "igf_1_des",
+    "name": "igf_1_des",
+    "display_name": "IGF 1 DES",
+    "aliases": [
+      "IGF 1 DES"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tadalafil_amino_powder",
+    "name": "tadalafil_amino_powder",
+    "display_name": "tadalafil amino powder",
+    "aliases": [
+      "tadalafil amino powder"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "anabolics",
+    "name": "anabolics",
+    "display_name": "anabolics",
+    "aliases": [
+      "anabolics"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "anti_estrogens",
+    "name": "anti_estrogens",
+    "display_name": "anti estrogens",
+    "aliases": [
+      "anti estrogens"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "steroids",
+    "name": "steroids",
+    "display_name": "steroids",
+    "aliases": [
+      "steroids"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "folitropin",
+    "name": "folitropin",
+    "display_name": "Folitropin",
+    "aliases": [
+      "Folitropin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tamoxifen",
+    "name": "tamoxifen",
+    "display_name": "tamoxifen",
+    "aliases": [
+      "tamoxifen"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157_pills",
+    "name": "bpc_157_pills",
+    "display_name": "BPC-157 pills",
+    "aliases": [
+      "BPC-157 pills"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157_pinning",
+    "name": "bpc_157_pinning",
+    "display_name": "BPC-157 (pinning)",
+    "aliases": [
+      "BPC-157 (pinning)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "thymus_peptides",
+    "name": "thymus_peptides",
+    "display_name": "thymus peptides",
+    "aliases": [
+      "thymus peptides"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "nad_subq",
+    "name": "nad_subq",
+    "display_name": "NAD subq",
+    "aliases": [
+      "NAD subq"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "sr9011",
+    "name": "sr9011",
+    "display_name": "sr9011",
+    "aliases": [
+      "sr9011"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_nasal",
+    "name": "bpc_nasal",
+    "display_name": "BPC nasal",
+    "aliases": [
+      "BPC nasal"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ghk_cu_facial_spray",
+    "name": "ghk_cu_facial_spray",
+    "display_name": "GHK-CU facial spray",
+    "aliases": [
+      "GHK-CU facial spray"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "orexin_a",
+    "name": "orexin_a",
+    "display_name": "Orexin A",
+    "aliases": [
+      "Orexin A"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "trestment_with_trt",
+    "name": "trestment_with_trt",
+    "display_name": "trest/ment with trt",
+    "aliases": [
+      "trest/ment with trt"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bpc_157_chinese",
+    "name": "bpc_157_chinese",
+    "display_name": "BPC-157 (Chinese)",
+    "aliases": [
+      "BPC-157 (Chinese)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cerebropep",
+    "name": "cerebropep",
+    "display_name": "CerebroPep",
+    "aliases": [
+      "CerebroPep"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "liquid_stable_bpc_157",
+    "name": "liquid_stable_bpc_157",
+    "display_name": "LIQUID STABLE BPC-157",
+    "aliases": [
+      "LIQUID STABLE BPC-157"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "biopures_liquid_bpc157",
+    "name": "biopures_liquid_bpc157",
+    "display_name": "BioPure's liquid BPC157",
+    "aliases": [
+      "BioPure's liquid BPC157"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "reachgeniusses_bpc157",
+    "name": "reachgeniusses_bpc157",
+    "display_name": "reachgenius.se's BPC157",
+    "aliases": [
+      "reachgenius.se's BPC157"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "liquid_bpc_157",
+    "name": "liquid_bpc_157",
+    "display_name": "Liquid Bpc 157",
+    "aliases": [
+      "Liquid Bpc 157"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "liquid_bpc",
+    "name": "liquid_bpc",
+    "display_name": "liquid BPC",
+    "aliases": [
+      "liquid BPC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "biotinoyl",
+    "name": "biotinoyl",
+    "display_name": "Biotinoyl",
+    "aliases": [
+      "Biotinoyl"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "copper_peptide_serum",
+    "name": "copper_peptide_serum",
+    "display_name": "copper peptide serum",
+    "aliases": [
+      "copper peptide serum"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "vinpocetin",
+    "name": "vinpocetin",
+    "display_name": "Vinpocetin",
+    "aliases": [
+      "Vinpocetin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "9_me_bc",
+    "name": "9_me_bc",
+    "display_name": "9-Me-BC",
+    "aliases": [
+      "9-Me-BC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "alpha",
+    "name": "alpha",
+    "display_name": "alpha",
+    "aliases": [
+      "alpha"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "melanotan_mt2",
+    "name": "melanotan_mt2",
+    "display_name": "Melanotan MT2",
+    "aliases": [
+      "Melanotan MT2"
+    ],
+    "category": "other"
+  }
+]

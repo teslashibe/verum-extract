@@ -1,0 +1,40 @@
+{
+  "id": "7bf2b0fd-f48b-4d67-b9be-7252afee293c",
+  "source_id": "1c8ax9s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1c8ax9s/bpc_157_overdose/",
+  "author_hash": "b117e0c749a6034766ebb9202670c054844aba1733597b0057e528198af14012",
+  "confidence_tier": 4,
+  "date_published": "2024-04-19T16:12:19-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "general_wellness",
+      "description": "Felt great during use",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Waking up after 4 hours of sleep (also occurs with 5-HTP)",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Used 2mg daily for weeks. Mentioned anhedonia concerns at larger doses. Uses tryptophan supplementation to counteract potential serotonin interactions.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.697825Z"
+}

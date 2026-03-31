@@ -1,0 +1,59 @@
+{
+  "id": "cc2a5ba7-ad3c-4e40-8489-1d21e1a17dae",
+  "source_id": "1pd4pee",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pd4pee/motsc_and_gym_performancemood/",
+  "author_hash": "3185d2fcf1d63762e7ae9a90c9ff3ce7ac1551b7c1e540f923089130696ee163",
+  "confidence_tier": 4,
+  "date_published": "2025-12-03T05:51:27-08:00",
+  "reported_sex": "female",
+  "training_status": "cyclist and weightlifter",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5x weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "High energy, endless energy in the gym",
+      "severity": "significant",
+      "onset_days": 5
+    },
+    {
+      "category": "mood",
+      "description": "Mood rebounded, improved attitude/vibe",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "endurance",
+      "description": "Noticeable improvement in physical performance on bike and lifting, pushing hard climbs",
+      "severity": "significant",
+      "onset_days": 5
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Lump under skin at injection site",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 3
+    }
+  ],
+  "protocol_notes": "User noted immediate rebound in energy and mood upon resuming after 2 week break. Reported significant performance decline after cycling off (6 week on, 2 week off pattern). Asked about reasonable cycling durations.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.95,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.675508Z"
+}

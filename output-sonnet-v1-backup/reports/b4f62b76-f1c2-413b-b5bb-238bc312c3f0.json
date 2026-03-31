@@ -1,0 +1,60 @@
+{
+  "id": "b4f62b76-f1c2-413b-b5bb-238bc312c3f0",
+  "source_id": "1jsoy2w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jsoy2w/strongest_peptides/",
+  "author_hash": "c1f36fb53911722c5b502c3f54419b9e8b9da0b3f97264cef4d5f9ee7047f6c7",
+  "confidence_tier": 4,
+  "date_published": "2025-04-06T00:49:20-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 21 lbs without trying since starting Retatrutide on 2/18/25",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Skin looking near flawless after 6 weeks of GHK-Cu without missing a dose",
+      "severity": "significant",
+      "onset_days": 42
+    },
+    {
+      "category": "other",
+      "description": "HCG makes testicles bigger and increases ejaculate volume, especially with adequate hydration",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Retatrutide started 2/18/25 at 1.5 mg/week. GHK-Cu used daily for 6 weeks. HCG used concurrently; user notes hydration is important for HCG effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.286386Z"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "30f8ad1f-76d4-43cb-b1fc-9a7a2a0e2fb8",
+  "source_id": "1ae81wo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ae81wo/my_body_scan_today_vs_june_2023/",
+  "author_hash": "d8707a1f34a60e1cd9c94941656f71b53d2700e05b8c5b7d6c83c9e0b3e4a67b",
+  "confidence_tier": 3,
+  "date_published": "2024-01-29T14:21:31-08:00",
+  "reported_sex": "female",
+  "reported_weight": {
+    "value": 170,
+    "unit": "lbs"
+  },
+  "training_status": "moderate exercise",
+  "health_conditions": [
+    "binge eating disorder"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "once weekly (Mondays)",
+      "cycle_length_days": 245,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "once weekly (Thursdays)",
+      "cycle_length_days": 245,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 50 lbs over approximately 7 months while stacking tirz and sema; dropped approximately 10% body fat per scan comparison; started health journey at 270 lbs in November 2022, lost 50 lbs by June 2023 through diet alone, then started peptides to break a stall and lost an additional 50 lbs (220 to 170 lbs)",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Quiets the brain, super helpful for binge eating disorder",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Physical activity enabled by weight loss has been great for mental health",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Much easier to move body now",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started health journey at 270 lbs in November 2022; lost 50 lbs through diet change alone by June 2023; started stacking tirz (Mondays) and sema (Thursdays) in June 2023 to break a stall; following high protein/low carb diet and moderate exercise; body composition tracked via Me360 app body scan; starting weight for peptide phase was 220 lbs, current weight 170 lbs, goal weight 145 lbs.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.295236Z"
+}

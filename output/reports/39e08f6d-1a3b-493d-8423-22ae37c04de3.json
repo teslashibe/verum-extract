@@ -1,0 +1,44 @@
+{
+  "id": "39e08f6d-1a3b-493d-8423-22ae37c04de3",
+  "source_id": "1cvh68v",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1cvh68v/peptides_for_ivf/",
+  "author_hash": "f1daa3a122dcbea6e174c34c78b7ac87c2334232dd132d821366040976d52d44",
+  "confidence_tier": 4,
+  "date_published": "2024-05-18T22:44:06-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "low progesterone",
+    "irregular cycles"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "route": "intramuscular",
+      "frequency": "every other day",
+      "cycle_length_days": 12,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "blood_sugar",
+      "description": "Encouraged progesterone production by corpus luteum; normalized cycles",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "progesterone",
+      "timeframe_days": 12
+    }
+  ],
+  "protocol_notes": "Doctor prescribed for low progesterone and to normalize cycles during non-IVF period. Started 2 days after ovulation for approximately 12 days. Dosing not recalled precisely. Used to trick body into thinking pregnant to encourage progesterone production.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.415076Z"
+}

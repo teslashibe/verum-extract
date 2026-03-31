@@ -1,0 +1,33 @@
+{
+  "id": "49185c03-9288-42ce-8faf-af4d53a53a76",
+  "source_id": "1bp0035",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bp0035/has_anyone_had_these_kind_of_reactions_from_cjcipa/",
+  "author_hash": "a236e8b80345514850e9f0fc402c1f861ec453c71793c16ac9e82812e9e30b1b",
+  "confidence_tier": 5,
+  "date_published": "2024-03-27T04:53:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOD-GRF",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 60,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Allergic reactions from fillers in MOD-GRF; anaphylaxis at higher doses. Limits dose to 60 mcg to prevent allergic reaction.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Commenter attributes the allergic reaction to fillers used in MOD-GRF specifically, not the peptide itself. Caps dose at 60 mcg to avoid reaction.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294093Z"
+}

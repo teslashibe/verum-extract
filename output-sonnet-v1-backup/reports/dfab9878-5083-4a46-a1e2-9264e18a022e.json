@@ -1,0 +1,40 @@
+{
+  "id": "dfab9878-5083-4a46-a1e2-9264e18a022e",
+  "source_id": "z5y5on",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/z5y5on/elbow_tendonitis_recovery_using_bpc157/",
+  "author_hash": "4f5185f7ad322ee619c84e9e9c060d2963d8cdf79b0f4faf98d0e0b8233ef6a5",
+  "confidence_tier": 4,
+  "date_published": "2022-11-27T02:42:26-08:00",
+  "training_status": "Boxer",
+  "health_conditions": [
+    "hyperextended elbow (jab side)",
+    "shoulder issue"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "95% better after 3 weeks, then 100% better; hyperextended elbow with sharp pain on arm straightening resolved",
+      "severity": "significant",
+      "onset_days": 21
+    }
+  ],
+  "protocol_notes": "Used 1g/day total; 75% directed to elbow, 25% to shoulder. Did not use TB500. Recommends going back after 2-week break if necessary.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.428418Z"
+}

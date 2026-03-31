@@ -1,0 +1,39 @@
+{
+  "id": "3b1d2591-0137-44a9-9c3a-48ed583cff07",
+  "source_id": "1qr4qky",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qr4qky/bpc157tb500_kvp/",
+  "author_hash": "ba3459cae6945c337604725283e14c07b53681edfd9feccd662fb159755c10ed",
+  "confidence_tier": 5,
+  "date_published": "2026-01-30T04:57:28-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 235,
+    "unit": "lbs"
+  },
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "6'3\" tall; 235 lbs; started injections on Thursday (date unclear); accidentally ordered a blend (BB10) instead of separate compounds; considers 500mcg total starting dose appropriate; just begun protocol",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669107Z"
+}

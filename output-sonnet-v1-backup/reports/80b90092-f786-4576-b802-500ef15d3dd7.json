@@ -1,0 +1,52 @@
+{
+  "id": "80b90092-f786-4576-b802-500ef15d3dd7",
+  "source_id": "1p6bd1d",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p6bd1d/how_to_step_up_the_game/",
+  "author_hash": "bd23ded7560b9adfbad8cb282e3ba55d38bb2c267e595c3f0e2d91703c9f46e3",
+  "confidence_tier": 5,
+  "date_published": "2025-11-25T04:37:26-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SERMs",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin/ipamorelin combo",
+      "name_normalized": "tesamorelinipamorelin_combo",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "igf-lr3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Tesamorelin/ipamorelin combo good for leaning out"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Stacking igf-lr3 with tesamorelin/ipamorelin described as 'clean bulk God mode'",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "SERMs give low estrogen symptoms including achy joints"
+    }
+  ],
+  "protocol_notes": "Personal experience with SERMs causing low estrogen symptoms and achy joints. Recommends Tesamorelin/ipamorelin + IGF-LR3 stack for clean bulk.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.263323Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "07b51c98-0c77-49cb-9c84-6481035925cd",
+  "source_id": "1oskfrr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oskfrr/does_anyone_use_glp1_like_reta_or_tirz_in/",
+  "author_hash": "a03e6b59a1d87b3b04cc0aa975c1472038b7e336efc82479733bfa603e62218e",
+  "confidence_tier": 4,
+  "date_published": "2025-11-09T06:15:09-08:00",
+  "reported_weight": {
+    "value": 182,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "every 6 days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "every 6 days",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost approximately 40 pounds of fat",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Gained approximately 10 pounds of muscle",
+      "severity": "moderate"
+    },
+    {
+      "category": "body_composition",
+      "description": "Described as life changing",
+      "severity": "significant",
+      "onset_days": 120
+    }
+  ],
+  "protocol_notes": "Stacked 2.5mg Tirz with 1.5mg Reta, offset dosing with injections every 3 days. Starting weight 215 lbs, current 182 lbs, goal around 165 lbs. 4-month cycle.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.677664Z"
+}

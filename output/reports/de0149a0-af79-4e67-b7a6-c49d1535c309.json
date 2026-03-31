@@ -1,0 +1,56 @@
+{
+  "id": "de0149a0-af79-4e67-b7a6-c49d1535c309",
+  "source_id": "1qxl6y2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxl6y2/cycle_42m_on_trt_anyone_using_lowdose_retatrutide/",
+  "author_hash": "fd4788855fab4d8b62fe8102f0c989d5fed80d413b85dc28c73c0ffd98a3d1f2",
+  "confidence_tier": 4,
+  "date_published": "2026-02-06T07:48:37-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 140,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "every 3 days",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "can drop to low 190s or touch 180s at easily single digit body fat and still feel decent; without Retatrutide hangs at 195-200lbs at 10-12% body fat",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "makes things easier, takes stress out of tracking food",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "can function better at a leaniness that would normally struggle with",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Been on low-dose Retatrutide for over 1 year at approximately 2.3mg/week (1mg every 3 days). Recommends starting low and being cautious when approaching 3mg/week.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.666701Z"
+}

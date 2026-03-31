@@ -1,0 +1,56 @@
+{
+  "id": "71341542-0c60-4517-bc92-4358db645811",
+  "source_id": "1d1fsm9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1d1fsm9/bpc_157_and_cancer_growth/",
+  "author_hash": "f998d7362f4e2781438ea6ad36691cb100042fc74cf5c2cc2e6b57a5d009c92d",
+  "confidence_tier": 4,
+  "date_published": "2024-05-26T17:58:20-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Gut health improved",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "Brain was numb from dopaminergic drugs prior; BPC seemed to protect the body"
+    },
+    {
+      "category": "other",
+      "description": "Toxins seemed to have a different effect on the body; feels protective. Cannot get drunk while using it.",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_pressure",
+      "description": "BP got lower",
+      "severity": "mild"
+    },
+    {
+      "category": "other",
+      "description": "BPM (heart rate) got slower",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User claims to use BPC-157 continuously at 500mcg/day with no cycles. States it is one of the most profound peptides they have ever taken and has tried almost all of them. Noticeable effects from first injection.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.293059Z"
+}

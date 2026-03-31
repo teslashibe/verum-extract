@@ -1,0 +1,37 @@
+{
+  "id": "63f9bfe9-ac04-4e7a-98c6-1e435e684d10",
+  "source_id": "1qoaq7e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qoaq7e/ghkcu_copper_uglies_something_to_worry_about/",
+  "author_hash": "79f948b675541639449281a957bd5b5b600fb0867d02ebeb57f24a43c8eaa5e6",
+  "confidence_tier": 4,
+  "date_published": "2026-01-27T02:56:11-08:00",
+  "health_conditions": [
+    "Never had acne before use"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 35,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Cystic acne developed during cycles; appeared consistently in week 2 of injection cycles in same location (cheek/chin area). Resolved upon discontinuation.",
+      "severity": "significant",
+      "onset_days": 14,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User completed 3 separate 6-month-spaced injection cycles. First cycle: persisted for 5 weeks before noticing issues. Cycles 2 and 3: developed cystic acne by week 2 each time. Switched to topical GHK-Cu application which worked well without skin issues. Uses custom topical blend containing GHK-Cu, Snap 8, Argireline, HA, and Matrixyl.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.682928Z"
+}

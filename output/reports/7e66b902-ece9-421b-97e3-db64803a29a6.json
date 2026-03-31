@@ -1,0 +1,36 @@
+{
+  "id": "7e66b902-ece9-421b-97e3-db64803a29a6",
+  "source_id": "1pcyw2m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pcyw2m/ghkcu_2_weeks_in/",
+  "author_hash": "20cdba6d22a26faddd94c97be7d524be1a53c699094ee712e4f0b6cb5807029c",
+  "confidence_tier": 5,
+  "date_published": "2025-12-03T00:31:41-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "MOTS-C stings more than GHK-Cu",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Used GHK-Cu (KLOW brand) from large vial reconstituted with 6ml BAC water, which may have helped reduce stinging compared to MOTS-C.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.675588Z"
+}

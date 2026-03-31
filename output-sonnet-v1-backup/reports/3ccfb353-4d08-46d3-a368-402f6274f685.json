@@ -1,0 +1,44 @@
+{
+  "id": "3ccfb353-4d08-46d3-a368-402f6274f685",
+  "source_id": "1r6wmol",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6wmol/are_these_side_effects_normal/",
+  "author_hash": "94487f8fbf30dd83ac39217bd7ed6bb59d0794d03ad9298bbb6de3b23d755e21",
+  "confidence_tier": 5,
+  "date_published": "2026-02-16T20:42:42-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC with Ipa",
+      "name_normalized": "cjc_with_ipa",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Puts user into a very deep sleep",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Flushing experienced with CJC with Ipa",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Strong heartbeat",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Side effects described as creating a pulse, lasting 15-30 minutes.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.117377Z"
+}

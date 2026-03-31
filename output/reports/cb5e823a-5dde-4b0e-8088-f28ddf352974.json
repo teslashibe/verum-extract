@@ -1,0 +1,43 @@
+{
+  "id": "cb5e823a-5dde-4b0e-8088-f28ddf352974",
+  "source_id": "1pnukra",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pnukra/ghkcu_the_pain_how_to_inject/",
+  "author_hash": "50e6d45fa78d914436edcc505397f1b0fc650c3c2df4745359f5647c79b8ac6d",
+  "confidence_tier": 4,
+  "date_published": "2025-12-15T22:03:49-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Pain and stinging at injection site",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Used heavy dilution (0.6ml bac water + 0.12ml GHK-Cu dose). Also mentions adding GHK-Basic (10mg) to 50mg GHK-Cu to prevent stinging. Later used 50mg/20ml dilution protocol with air-drawn syringe method. GHK-Basic noted as hard to find.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.674319Z"
+}

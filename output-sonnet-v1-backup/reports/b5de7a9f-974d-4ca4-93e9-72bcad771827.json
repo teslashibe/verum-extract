@@ -1,0 +1,41 @@
+{
+  "id": "b5de7a9f-974d-4ca4-93e9-72bcad771827",
+  "source_id": "1r3p7gg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r3p7gg/major_flushing_with_bpc/",
+  "author_hash": "5abf43b07963945bac8e696e99e662b23b98da98916123c9d0456ab7b18e24f3",
+  "confidence_tier": 5,
+  "date_published": "2026-02-13T05:30:44-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Experienced flushing reaction with CJC1295/Ipamorelin/Tesamorelin stack but not with BPC 157."
+    }
+  ],
+  "protocol_notes": "Commenter notes flushing is characteristic of CJC-type peptides, not BPC 157, suggesting OP may have received mislabeled product.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.118368Z"
+}

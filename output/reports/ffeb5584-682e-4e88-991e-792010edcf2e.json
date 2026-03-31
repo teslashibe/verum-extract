@@ -1,0 +1,48 @@
+{
+  "id": "ffeb5584-682e-4e88-991e-792010edcf2e",
+  "source_id": "16gr706",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16gr706/can_i_stack/",
+  "author_hash": "1d1f4fe114ddfd22eaacf3c82d9189e75d540cceb7b6b84ac19d0db52a60dec9",
+  "confidence_tier": 4,
+  "date_published": "2023-09-12T06:19:06-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "25-29",
+  "reported_weight": {
+    "value": 129,
+    "unit": "lbs"
+  },
+  "training_status": "lifting consistently 4-6 days per week for 3 years",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 84,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 14 pounds over 12 weeks (from 143 to 129 lbs), previously struggled to lose weight with increased cardio and calorie reduction",
+      "severity": "significant",
+      "onset_days": 84
+    },
+    {
+      "category": "mood",
+      "description": "Client feeling very happy with results",
+      "severity": "moderate",
+      "onset_days": 84
+    }
+  ],
+  "protocol_notes": "Female client, 5'3\", started at 143 lbs at beginning of week 1. Semaglutide protocol: started at 0.25 mg and worked up to 1 mg weekly. Used for 12 weeks with significant fat loss despite previous difficulty losing weight through traditional methods. Planning to continue for another 12 weeks before considering additional compounds.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.420187Z"
+}

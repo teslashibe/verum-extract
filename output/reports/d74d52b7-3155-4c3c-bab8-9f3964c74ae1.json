@@ -1,0 +1,28 @@
+{
+  "id": "d74d52b7-3155-4c3c-bab8-9f3964c74ae1",
+  "source_id": "1kltilk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kltilk/checking_my_reconstitution_math/",
+  "author_hash": "b0f884cc291b441c0feea0914f3774a9a65596e3e9fa077597f581e877ee1650",
+  "confidence_tier": 5,
+  "date_published": "2025-05-13T11:30:45-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "IGF-1",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 30,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Previously used wellness center-provided IGF-1 at 100mcg/ml with 0.3ml (30mcg) daily dosage on 5-on-2-off schedule (20 doses per 4 weeks). Now planning self-reconstitution with 1mg vial. Final protocol: 1mg vial reconstituted in 3ml bacteriostatic water yields 333.3mcg/ml concentration; 9 units (0.09ml) = 30mcg dose.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.408122Z"
+}

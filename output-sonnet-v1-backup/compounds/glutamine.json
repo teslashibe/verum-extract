@@ -1,0 +1,62 @@
+{
+  "compound_id": "glutamine",
+  "display_name": "glutamine",
+  "category": "other",
+  "total_reports": 2,
+  "reports_by_tier": {
+    "4": 1,
+    "5": 1
+  },
+  "top_benefits": [
+    {
+      "category": "gut_health",
+      "count": 1,
+      "pct": 100
+    }
+  ],
+  "top_side_effects": null,
+  "common_doses": [
+    {
+      "route": "oral",
+      "dose": 30,
+      "unit": "mg",
+      "frequency": "",
+      "count": 1,
+      "pct": 50
+    },
+    {
+      "route": "oral",
+      "dose": 100,
+      "unit": "mg",
+      "frequency": "once daily",
+      "count": 1,
+      "pct": 50
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "glycine",
+      "display_name": "Glycine",
+      "report_count": 1
+    },
+    {
+      "compound_id": "taurine",
+      "display_name": "Taurine",
+      "report_count": 1
+    },
+    {
+      "compound_id": "hgh",
+      "display_name": "hgh",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.75,
+  "sentiment_breakdown": {
+    "positive": 1,
+    "mixed": 1,
+    "negative": 0,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.969252Z"
+}

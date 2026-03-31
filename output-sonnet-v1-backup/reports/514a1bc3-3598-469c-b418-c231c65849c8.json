@@ -1,0 +1,47 @@
+{
+  "id": "514a1bc3-3598-469c-b418-c231c65849c8",
+  "source_id": "1n0k8c9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n0k8c9/monjouro_to_retatrutide/",
+  "author_hash": "0fda60468cafcb727d55e71687cfd740f7fc8a24b9c21bb1672d649fa1f4e770",
+  "confidence_tier": 4,
+  "date_published": "2025-08-26T05:16:57-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 12.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight is moving in the right direction on Reta",
+      "severity": "mild"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Slowdown and appetite suppression on Reta, though less than Tirz",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Switched from 12.5mg tirz to 2mg reta to test for tachycardia. No tachycardia observed. Now on week 2 at 3mg. Plans to move to 4mg next week and titrate up as heart allows. May switch to Cag + Tirz or Sema if Reta doesn't work.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.273878Z"
+}

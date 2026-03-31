@@ -1,0 +1,68 @@
+{
+  "id": "2aa546e8-7d4b-4b6e-ab11-375c8d0ba2f3",
+  "source_id": "1r6n963",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6n963/klow_protocol/",
+  "author_hash": "c895a16c5184d27bb13b96280aeb446fef08e28ef0a185de8695c9520d400497",
+  "confidence_tier": 4,
+  "date_published": "2026-02-16T13:56:08-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 215,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "recent ankle surgery"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Post-surgery recovery (ankle surgery)"
+    }
+  ],
+  "protocol_notes": "Ankle surgery 2 weeks prior to starting protocol. Titration: Started with 5u twice daily, currently at 12u once before bed.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.675512Z"
+}

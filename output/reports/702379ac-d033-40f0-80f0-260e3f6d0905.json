@@ -1,0 +1,55 @@
+{
+  "id": "702379ac-d033-40f0-80f0-260e3f6d0905",
+  "source_id": "1acxqzz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1acxqzz/my_experience_rates_oral_bpc157_on_par_or/",
+  "author_hash": "d6ceb24ec37bff7980112cc7fd4201ac9fbcdc2155a57b4ba81aac017a47441b",
+  "confidence_tier": 4,
+  "date_published": "2024-01-28T00:07:34-08:00",
+  "health_conditions": [
+    "digestion issues",
+    "inflammation"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "frequency": "2x daily (1 morning, 1 evening)",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "helped with digestion issues",
+      "severity": "significant"
+    },
+    {
+      "category": "inflammation",
+      "description": "reduced inflammation",
+      "severity": "significant"
+    },
+    {
+      "category": "weight_change",
+      "description": "dropped 6 lbs in 12 days due to effects on water retention",
+      "severity": "moderate",
+      "onset_days": 12
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body weight",
+      "value_after": -6,
+      "unit": "lbs",
+      "timeframe_days": 12
+    }
+  ],
+  "protocol_notes": "Same oral BPC-157 from same supplier as OP. No improvements noted for tendon and joint problems despite digestive and inflammatory benefits.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.417135Z"
+}

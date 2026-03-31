@@ -1,0 +1,57 @@
+{
+  "id": "683383a7-f532-4fcd-8334-8c14a9d563d5",
+  "source_id": "1rfnur9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rfnur9/question_about_retatrutide_effects_beyond/",
+  "author_hash": "e74d35cd0f6a70256c5136dca50493ee99ff0ddd498220052415b47fea3cf026",
+  "confidence_tier": 4,
+  "date_published": "2026-02-26T13:59:45-08:00",
+  "training_status": "sedentary/poor",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "cycle_length_days": 70,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Pretty full after small meals, food noise decreased",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost tons of weight, looks very skinny",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Tired and weak, no motivation to go to the gym",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_cramp",
+      "description": "Lost tons of muscle mass",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Inguinal lymph nodes incredibly pronounced, not painful but visible",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Microdosing 1.5mg weekly for 10 weeks. Did not exercise or eat properly during cycle. Stopped due to adverse appearance and health concerns. Only side effect during dosing was occasional nausea.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.671621Z"
+}

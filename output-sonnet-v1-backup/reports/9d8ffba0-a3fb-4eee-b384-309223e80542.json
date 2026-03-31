@@ -1,0 +1,113 @@
+{
+  "id": "9d8ffba0-a3fb-4eee-b384-309223e80542",
+  "source_id": "18mtku1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/18mtku1/one_year_with_research_peptides_my_story_of/",
+  "author_hash": "0eb46cd9018a6fef0cbb447aa17883f30e381fc880d697f794b20cbe4e6b4109",
+  "confidence_tier": 4,
+  "date_published": "2023-12-20T04:34:53-08:00",
+  "reported_sex": "female",
+  "reported_weight": {
+    "value": 250,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "ADHD",
+    "anxiety",
+    "binge eating",
+    "postpartum weight gain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Significant weight loss journey over one year, cycling through Tirzepatide, Retatrutide, and Semaglutide; stalls broken by adding or cycling compounds",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression returned after adding Retatrutide and again when cycling back to Semaglutide; key for managing binge eating",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "No longer craves alcohol; previously used alcohol to self-medicate in social situations",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Reduced anxiety; able to attend social events that were previously unimaginable",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive",
+      "description": "Perceived help managing ADHD symptoms",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "BPC-157 and TB500 seemed to make her short-tempered and on edge; though concurrent grief from father's death makes attribution uncertain",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Sulfur burps as a known indicator of GLP-1 activity when on Semaglutide",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "One year of peptide use. Started with Tirzepatide (winged dosage, no strict protocol), added Retatrutide to break a stall, then cycled back to lower-dose Semaglutide. Also concurrently on PCP-prescribed ADHD and anxiety medications. Also using BPC-157, NAD+, GHK-Cu, and TB500. Previously used med spa Semaglutide at $600/month before switching to research peptides.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.295751Z"
+}

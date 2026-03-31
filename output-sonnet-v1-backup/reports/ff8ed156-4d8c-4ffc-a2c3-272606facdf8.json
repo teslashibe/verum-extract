@@ -1,0 +1,77 @@
+{
+  "id": "ff8ed156-4d8c-4ffc-a2c3-272606facdf8",
+  "source_id": "1n7n5ol",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n7n5ol/the_perfect_stack_update/",
+  "author_hash": "f5248c653f333ecf701ef3b667d23933ad1e6c4cd5b1cb0931fff5e52af7a3f9",
+  "confidence_tier": 4,
+  "date_published": "2025-09-03T11:41:27-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 326,
+    "unit": "lbs"
+  },
+  "training_status": "active, resistance training 3x/week minimum, cardio 1-2x/week, distance running",
+  "health_conditions": [
+    "obesity"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 8.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Slu-pp",
+      "name_normalized": "slu_pp",
+      "category": "other",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost over 40lbs since starting in June (~4 months)",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Muscle definition improving; Tesa attributed to muscle building and attacking visceral fat",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Struggling to eat 1500 calories a day; eating more moderately and maintaining healthy deficit attributed to Reta",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Workouts more energized; Slu-pp described as a game changer for workout energy",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Running endurance significantly increased; improved from 15-minute mile to 10-minute mile over 4 months",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started in June 2025 at 4mg Reta, 1mg Tesa, 500mcg Slu-pp. Currently at 8.5mg Reta, 2mg Tesa, 1mg Slu-pp. Doctor-supervised with compounding pharmacy. Plans to cycle off Tesa after ~2 more months. Does not plan to increase Reta dose further. Walks 5,000-7,500 steps daily. High-protein diet (chicken, beef, whey isolate, Greek yogurt). Starting weight was 326lbs due to obesity.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.272944Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "f4b393ad-3673-487d-a2c3-915fbf1d99ce",
+  "source_id": "1rjyp82",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rjyp82/looking_for_insight_into_bpc157_and_tb500_stack/",
+  "author_hash": "c3e9376753f9d853783fc98a597a064aaf571017ff2507d75cd7b388e3f4e2ea",
+  "confidence_tier": 4,
+  "date_published": "2026-03-03T11:22:14-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Moderate dose protocol: 250mcg AM and 250mcg PM. Notes most vendors sell actual TB4 (full 43 amino acid chain) rather than TB-500 fragment. Blends are acceptable. Can go up to 1mg daily of each split between AM/PM injections. Injectable sites should be at least 1-3 inches apart.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.65748Z"
+}

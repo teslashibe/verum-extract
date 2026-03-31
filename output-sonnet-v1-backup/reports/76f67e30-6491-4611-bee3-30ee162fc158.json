@@ -1,0 +1,34 @@
+{
+  "id": "76f67e30-6491-4611-bee3-30ee162fc158",
+  "source_id": "1nthftv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nthftv/tesamorelin_negative_reaction/",
+  "author_hash": "a3ba4adeb9fd5d157948aaa887a0e25976471c8958369dbea438f4dfe5e18074",
+  "confidence_tier": 4,
+  "date_published": "2025-09-29T06:02:39-07:00",
+  "compounds": [
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Itchy bump at every injection. Sometimes bruising and a hard knot that resolves after a couple of days.",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 2
+    }
+  ],
+  "protocol_notes": "20 days into Tesamorelin. Considers reaction normal as long as itching stops after a few minutes and bruising/rash doesn't spread.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.269602Z"
+}

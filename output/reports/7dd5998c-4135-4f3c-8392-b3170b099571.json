@@ -1,0 +1,66 @@
+{
+  "id": "7dd5998c-4135-4f3c-8392-b3170b099571",
+  "source_id": "1lbdq9h",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lbdq9h/assistance_with_peptide_stack_for_fat_loss_and/",
+  "author_hash": "80afc7fdc49efa95da72d5794177ba10c0ec2b97d8a96c2179064392cc056220",
+  "confidence_tier": 4,
+  "date_published": "2025-06-14T10:11:14-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "hCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Tesamorelin/Ipamorelin combination more effective for stubborn fat loss than CJC/Tesamorelin",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "hCG noted for testosterone boosting which aids fat loss",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "CJC and Tesamorelin stack made user hungry, reducing fat loss effectiveness",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User recommends testosterone level testing. Notes hCG for testosterone support. Compares CJC/Tesamorelin (increased appetite) versus Tesamorelin/Ipamorelin (more effective for stubborn fat loss).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.406257Z"
+}

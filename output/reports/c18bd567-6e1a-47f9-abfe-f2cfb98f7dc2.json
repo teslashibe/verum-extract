@@ -1,0 +1,49 @@
+{
+  "id": "c18bd567-6e1a-47f9-abfe-f2cfb98f7dc2",
+  "source_id": "1rb5vbn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rb5vbn/cjcno_dacipam_scary_effects_normal/",
+  "author_hash": "6aa42deeef43f8946827a7668e108ceb1425b9062dc952b05ac5b6cc18b121fa",
+  "confidence_tier": 5,
+  "date_published": "2026-02-21T15:25:23-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Face flushing normal within first 5-10 minutes of injection",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    },
+    {
+      "category": "cardiac",
+      "description": "Heart pounding normal within first 5-10 minutes of injection",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    }
+  ],
+  "protocol_notes": "Comment providing reassurance that reported side effects are normal. Describes expected differentiation between normal flushing/heart pounding vs allergic reaction (hives/full body itching).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.673626Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "9d8d529b-d288-466f-80f2-77b823bf8efa",
+  "source_id": "1jm4gjq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jm4gjq/using_same_syringe_for_multiple_peptides/",
+  "author_hash": "ef0d55659a6b2f267a2d4ee79173d5820ba19f0427090a20b3f321bef0cb3c7e",
+  "confidence_tier": 4,
+  "date_published": "2025-03-28T13:14:26-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User prepares weekly quantity by mixing BPC-157, TB-500, Ipamorelin, Tesamorelin, and GHK-Cu into a single sterile bottle, then uses one syringe for administration. User verifies peptide interactions before mixing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.693105Z"
+}

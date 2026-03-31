@@ -1,0 +1,55 @@
+{
+  "id": "76a70004-bf65-4cbc-a8f8-b2f7d213ec40",
+  "source_id": "1l0xkld",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1l0xkld/what_has_been_your_experience_taking_peptides_for/",
+  "author_hash": "58f558346573e136ac52c4f91136081be2498ee77dc29d8a8135ef8d8125a112",
+  "confidence_tier": 4,
+  "date_published": "2025-06-01T12:28:47-07:00",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "copper deficiency"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "oral",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Copper",
+      "name_normalized": "copper",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Zinc",
+      "name_normalized": "zinc",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Hair thicker/fuller, reduced grey hair, hair coming in brown instead of grey",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Took GHK-Cu in capsule form. Adjusted zinc and copper intake due to suspected copper deficiency.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.406932Z"
+}

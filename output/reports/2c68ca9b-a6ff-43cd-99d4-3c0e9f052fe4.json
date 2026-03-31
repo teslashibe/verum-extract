@@ -1,0 +1,45 @@
+{
+  "id": "2c68ca9b-a6ff-43cd-99d4-3c0e9f052fe4",
+  "source_id": "1rzuob8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzuob8/reta_failure/",
+  "author_hash": "fb976fbd41a980ccaf440aeb33e6580a3fcdf1d34238c8030ecaf4066074c61c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T08:43:18-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "almost instant appetite suppression, fewer cravings within hours, thought of food made them sick first week",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "first week was like hell, then got better for week 2, kicked back in after dosage increase to 5mg",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Currently on Tirzepatide 5mg weekly. First week had severe nausea, improved week 2, returned when dose increased to 5mg. Appetite suppression was nearly immediate. Mentioned considering Retatrutide in future but not currently using it.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660279Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a71a64b3-5cfd-4e6d-8b07-d18b9b8853a4",
+  "source_id": "1rys86u",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rys86u/bpc157_tb500_dosage_after_tendon_surgery_question/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 5,
+  "date_published": "2026-03-20T03:04:13-07:00",
+  "health_conditions": [
+    "distal bicep tendon rupture (scheduled surgery)"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 100,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 100,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "OP inquires about post-op dosing strategy: considering either 500mcg daily for 100 days or loading phase of 1000mcg daily for 2-4 weeks then dropping to 500mcg. Total supply: 50mg each compound.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.649453Z"
+}

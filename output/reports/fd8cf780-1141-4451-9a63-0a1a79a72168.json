@@ -1,0 +1,70 @@
+{
+  "id": "fd8cf780-1141-4451-9a63-0a1a79a72168",
+  "source_id": "1nh8nus",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nh8nus/glow/",
+  "author_hash": "b135b4aa045f31845312c5b112f801e91ccd6cbab602a5bac5c77089c6c4f18d",
+  "confidence_tier": 4,
+  "date_published": "2025-09-14T18:21:43-07:00",
+  "health_conditions": [
+    "rotator cuff tears (bilateral, partial)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2.65,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1.19,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.52,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "targeting rotator cuff repair; tendon and ligament healing"
+    },
+    {
+      "category": "anti_aging",
+      "description": "general anti-aging effects"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "stinging at injection site",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Custom-assembled blend labeled as 67-20-13 ratio. Mixed with 6ml bacteriostatic water. Cycling protocol: 6 weeks on, 2 weeks off. User previously obtained a batch through a Florida clinic and compounding pharmacy. Asking about whether blend composition is too aggressive.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.681773Z"
+}

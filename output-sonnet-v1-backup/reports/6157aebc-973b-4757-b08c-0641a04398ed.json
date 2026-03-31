@@ -1,0 +1,53 @@
+{
+  "id": "6157aebc-973b-4757-b08c-0641a04398ed",
+  "source_id": "1s2o6ub",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s2o6ub/ghkcu_100mg/",
+  "author_hash": "b7ee1e5d156135bbb5ffc63cf6384abd344d583afa549a43849731707a40ece7",
+  "confidence_tier": 4,
+  "date_published": "2026-03-24T12:43:37-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Uses KLOW blend vial (80mg total: 50mg GHK-Cu, 10mg BPC-157, 10mg TB-500, 10mg KPV). Reconstitutes to achieve desired mg per mL concentration. Detailed explanation of reconstitution math provided.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104642Z"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "5b3fafd8-15a8-4f64-83d8-2366cf3f9a12",
+  "source_id": "18g1yoh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/18g1yoh/semaglutide_peptide_for_weight_loss_dose/",
+  "author_hash": "689220e2187389502d77685989d417656afcb1f277c3d9f0cf05e9f6ad8ee57c",
+  "confidence_tier": 4,
+  "date_published": "2023-12-11T11:34:31-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "expect 2-3 lbs per week once at 1mg dose",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Detailed titration protocol: 250ug weekly for 2 weeks, 500ug weekly for 2 weeks, then 1mg weekly. Second vial reconstituted with 0.5ml BAC water. Mentions Tirzepatide as alternative at 10mg for $110.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.41805Z"
+}

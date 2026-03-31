@@ -1,0 +1,52 @@
+{
+  "id": "579ad183-7371-4806-9229-c23a55a3876b",
+  "source_id": "1rlm71k",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rlm71k/tesareta_stack/",
+  "author_hash": "8c523e1ba9674ce95c2bf00018c85c564c5117b8a59889846ce1dc86737a4296",
+  "confidence_tier": 5,
+  "date_published": "2026-03-05T08:33:00-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5 days on 2 days off",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 20 pounds on previous Reta cycle",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Lost some muscle on previous Reta cycle; hopes Tesamorelin will help preserve muscle"
+    }
+  ],
+  "protocol_notes": "OP previously ran Retatrutide alone and lost 20 lbs but also lost muscle. Now planning to stack with Tesamorelin to mitigate muscle loss. Considering 5 days on/2 days off for cost reasons.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112003Z"
+}

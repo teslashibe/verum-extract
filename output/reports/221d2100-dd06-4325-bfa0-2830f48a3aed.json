@@ -1,0 +1,43 @@
+{
+  "id": "221d2100-dd06-4325-bfa0-2830f48a3aed",
+  "source_id": "1rvi080",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvi080/collagen_peptides_cause_anyone_else_fatigue/",
+  "author_hash": "e62725bed729eb5616ee0977de30523183fdab6c16a5f8e09481abb3cae419a8",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T11:37:09-07:00",
+  "training_status": "active - exercising regularly",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Collagen peptides",
+      "name_normalized": "collagen_peptides",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 10,
+      "dose_unit": "g",
+      "frequency": "post-exercise",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Increased fatigue, reduced energy levels",
+      "severity": "moderate",
+      "onset_days": 30
+    },
+    {
+      "category": "recovery",
+      "description": "Increased muscle soreness and reduced recovery",
+      "severity": "moderate",
+      "onset_days": 30
+    }
+  ],
+  "protocol_notes": "Brand: Bulletproof Collagen peptide powder mixed with protein shake. Half the recommended dose (~10g) taken after evening exercise. User also increased exercise volume slightly during the same period. Took a deload week to rule out overtraining but fatigue persisted. No other dietary or lifestyle changes noted.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.662906Z"
+}

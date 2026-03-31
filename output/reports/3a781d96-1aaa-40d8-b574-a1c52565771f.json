@@ -1,0 +1,66 @@
+{
+  "id": "3a781d96-1aaa-40d8-b574-a1c52565771f",
+  "source_id": "1nr1qtw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nr1qtw/on_tirz_and_losing_slowly_need_help/",
+  "author_hash": "e33093c979ac6dd67b64e61c3e4ab47213b58adcb062e1cc43fc1e3091f5e131",
+  "confidence_tier": 4,
+  "date_published": "2025-09-26T06:44:30-07:00",
+  "reported_weight": {
+    "value": 165,
+    "unit": "lbs"
+  },
+  "training_status": "power lifting (currently building muscle)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 100 pounds in 10 months (Nov 2022 - Oct 2023) on Tirzepatide (brand Mounjaro), from 280 to 180 lbs. Current protocol aims for slower fat loss with muscle building.",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "muscle_loss",
+      "description": "Lost a LOT of muscle due to restricted diet during rapid weight loss phase",
+      "severity": "significant"
+    },
+    {
+      "category": "hair_change",
+      "description": "Lost enough hair that part widened about a half inch",
+      "severity": "moderate"
+    },
+    {
+      "category": "skin_reaction",
+      "description": "Some loose skin (not a ton, but still not ideal)",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Previous rapid weight loss protocol (Nov 2022-Oct 2023): Started 2.5mg Tirzepatide for ~6 months, then 5mg for extended period, briefly at 7.5mg for 1 month. Lost 100lbs in ~10 months (280→180), continued to lowest weight of 145lbs (Mar 2024). Took 6-month break from Tirzepatide. Now resumed at slower pace with current stack: 5mg Tirzepatide weekly + 1mg Retatrutide weekly. Current weight 165lbs, targeting ~150lbs with focus on muscle building. Reflective that rapid weight loss was not achieved healthily and wishes had gone slower.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.680705Z"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "0a12ae70-f647-43e2-a6b5-ea81a0e2a981",
+  "source_id": "1p6zwmc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p6zwmc/triz_vs_reta/",
+  "author_hash": "8fa03caecccc0f90ff16e488f262965de498bf6d887fc7ed9a6a41271d8899eb",
+  "confidence_tier": 4,
+  "date_published": "2025-11-25T21:49:17-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "frequency": "microdose",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Tirzepatide killed hunger and food noise at microdose",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Retatrutide produces fullness sensation but does not completely wipe out appetite",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_pressure",
+      "description": "Heart rate elevation on Retatrutide",
+      "severity": "mild"
+    },
+    {
+      "category": "nausea",
+      "description": "Nausea on Retatrutide",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User notes Tirzepatide had no side effects at microdose; Retatrutide shows glucagon effect with mild hunger suppression; effects noted at 3mg Retatrutide threshold",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.392683Z"
+}

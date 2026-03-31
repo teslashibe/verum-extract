@@ -1,0 +1,35 @@
+{
+  "id": "f165596b-ba2c-47dc-9d4b-5300b7ead85d",
+  "source_id": "1rkh5k3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rkh5k3/cjc_and_ipa_dose/",
+  "author_hash": "1c009250a046d34026e4e7e83ce9ff0c4895f7a86d34e5bbe659213bd154ef55",
+  "confidence_tier": 4,
+  "date_published": "2026-03-04T01:36:45-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and night, 3 hours after food or 30 min before)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and night, 3 hours after food or 30 min before)",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User provided dosing recommendation for CJC/IPA stack. Timing specified: 3 hours after food or 30 minutes before food.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.668987Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "7e1f3b31-3706-405c-960a-d98c541e76d4",
+  "source_id": "1ri9ltj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ri9ltj/peptides_with_a_moderately_safe_track_record_for/",
+  "author_hash": "cdc9bcaccfe04c8ca2d9a37e0c5047b02d86f099952b5cb71bfbb4770ccc0332",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T13:25:39-08:00",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Best sleep of your life.",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Wake up feeling ready to take on the world.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "CJC/Ipamorelin stack. Personal testimonial of significant benefit to sleep quality and morning readiness.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.670162Z"
+}

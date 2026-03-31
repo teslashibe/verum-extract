@@ -1,0 +1,48 @@
+{
+  "id": "051de6fd-8742-49d2-bbb9-172b2e51ccaf",
+  "source_id": "1rx7u9a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx7u9a/klow_fixed_something_unexpected/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T09:00:08-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "active lifestyle",
+  "health_conditions": [
+    "tendon nodule (base of middle finger)",
+    "hand pain/discomfort"
+  ],
+  "compounds": [
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 2.2,
+      "dose_unit": "mcg",
+      "frequency": "almost daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Tendon nodule on hand at base of middle finger essentially disappeared after 3 weeks of KLOW use. Nodule had persisted for 1.5 years despite cortisone injection ~1 year prior.",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "joint_pain",
+      "description": "Resolution of uncomfortable semi-painful nodule symptoms",
+      "severity": "significant",
+      "onset_days": 21
+    }
+  ],
+  "protocol_notes": "3 weeks KLOW almost daily (a few days missed), ~2.2 mcg subq. User explicitly notes 'correlation is not causation' and acknowledges difficulty linking directly to KLOW due to possibility of natural resolution or delayed effect from cortisone shot administered ~1 year prior. Male age 42, active lifestyle. Tendon nodule had been present for 1.5 years, was connected to middle finger tendon (moved with tendon movement). Previous cortisone injection provided 1-2 months relief. Surgery was contemplated as next step.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.661596Z"
+}

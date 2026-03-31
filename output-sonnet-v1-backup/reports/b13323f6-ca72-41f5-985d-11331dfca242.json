@@ -1,0 +1,53 @@
+{
+  "id": "b13323f6-ca72-41f5-985d-11331dfca242",
+  "source_id": "1lx6tdb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lx6tdb/bpc157_tb500_current_results_40m/",
+  "author_hash": "022fd669a641f035248b8bdebc2aa85712a16b0e7148d7f99754c905749ce2bb",
+  "confidence_tier": 4,
+  "date_published": "2025-07-11T06:23:53-07:00",
+  "training_status": "Active - weightlifting implied",
+  "health_conditions": [
+    "small shoulder tear",
+    "foot pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Healed a small shoulder tear; assists with post-workout DOMS; assisted with other recoveries, likely quicker",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Reduced post-workout DOMS",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Pain returns in foot after missing a few days, suggesting dependency on continued dosing for pain management",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Notes the stack is helpful but not a magic bullet; rest and recovery still critical. Compares effect to low-dose prednisone - helpful but requires continued use.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.279375Z"
+}

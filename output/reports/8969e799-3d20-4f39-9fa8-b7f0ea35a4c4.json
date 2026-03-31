@@ -1,0 +1,71 @@
+{
+  "id": "8969e799-3d20-4f39-9fa8-b7f0ea35a4c4",
+  "source_id": "1s3yfim",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3yfim/first_time_glp_user_tirzepatide_vs_retatrutide/",
+  "author_hash": "44a6146b4867840c82e8b19229cd64c11af1c9297fe50aae8f60b76e3f4353c5",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T22:07:06-07:00",
+  "training_status": "lifting",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 12,
+      "dose_unit": "mg",
+      "frequency": "every 6 days",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "More energy in the gym on retatrutide than off GLPs entirely, compared to tirzepatide which caused fatigue too severe to hit workout goals",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Retatrutide described as more effective compound; people in phase 3 trials losing too much weight, some lowering dosages or dropping out",
+      "severity": "significant"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Less GI distress on retatrutide compared to tirzepatide",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "On tirzepatide was too tired from fatigue to hit workout goals",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "GI distress on tirzepatide",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Has run all 3 main GLPs (semaglutide, tirzepatide, retatrutide). Currently on retatrutide 12mg every 6 days. States most people have less sides on retatrutide, particularly higher energy and less GI distress. Notes that muscle/LBM loss is preventable with adequate protein and resistance training regardless of compound.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.646682Z"
+}

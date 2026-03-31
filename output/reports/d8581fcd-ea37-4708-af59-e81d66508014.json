@@ -1,0 +1,56 @@
+{
+  "id": "d8581fcd-ea37-4708-af59-e81d66508014",
+  "source_id": "1m6eros",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m6eros/retatrutide/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2025-07-22T06:56:24-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 3kg in 3 days",
+      "severity": "significant",
+      "onset_days": 3
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Little to no appetite",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "Sleeping way better",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "libido_change",
+      "description": "Hardly any sex drive",
+      "severity": "significant"
+    },
+    {
+      "category": "fatigue",
+      "description": "Fatigue alot quicker",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User on 1000 calorie crash diet. Commenter context indicates fatigue and libido issues likely attributed to extreme caloric deficit rather than retatrutide itself.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.403496Z"
+}

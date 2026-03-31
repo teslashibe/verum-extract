@@ -1,0 +1,66 @@
+{
+  "id": "0abd29e3-a586-4edd-91e6-1385971d4544",
+  "source_id": "1rwhd5a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwhd5a/hypothalamic_damage_and_weight_gainloss/",
+  "author_hash": "974885ca238a014ee887f0ed9c127f109cd9d1215b22159ca1285fc1c7d2627d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-17T12:52:37-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 385,
+    "unit": "lbs"
+  },
+  "training_status": "very limited physical activity; can ride bike or walk on treadmill ~10 min",
+  "health_conditions": [
+    "craniopharyngioma (brain tumor)",
+    "hypothalamic obesity",
+    "Type 2 Diabetes",
+    "low testosterone"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Trulicity",
+      "name_normalized": "trulicity",
+      "category": "other",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Trulicity doing wonders for blood sugar and A1C",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Tirzepatide temporarily dulled hunger immediately after dose but hunger returned within hours",
+      "severity": "mild"
+    },
+    {
+      "category": "nausea",
+      "description": "Some nausea after Tirzepatide dose",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "OP had hypothalamic damage from craniopharyngioma surgery. Tirzepatide was titrated to max dose and deemed ineffective by doctors after a couple months at max dose. Trulicity currently being used for blood sugar control. Also on TRT following low testosterone symptoms predating diagnosis by ~10 years. Goal weight ~200 lbs.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.107132Z"
+}

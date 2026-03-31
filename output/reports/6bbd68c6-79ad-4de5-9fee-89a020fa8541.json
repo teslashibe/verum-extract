@@ -1,0 +1,62 @@
+{
+  "id": "6bbd68c6-79ad-4de5-9fee-89a020fa8541",
+  "source_id": "1rqhpf0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rqhpf0/best_ways_to_stack_peptides_doses/",
+  "author_hash": "2e28fe1cb952b27f28622cf6834632b3017068afdbe8acff98a9fc31c3e284f3",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T19:36:35-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "once daily before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "BPC-157 useful for recovery"
+    }
+  ],
+  "protocol_notes": "Commenter sharing recommended stacking protocol for similar stats/goals. Suggests titrating Retatrutide slowly and introducing compounds one at a time. Mentions alignment with natural GH pulses for Tesamorelin timing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.66582Z"
+}

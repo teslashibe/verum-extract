@@ -1,0 +1,47 @@
+{
+  "id": "131ad17f-08cc-45bf-8087-c2e0814ddca8",
+  "source_id": "1r4qcvt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r4qcvt/glow_peptide_and_nad/",
+  "author_hash": "7b03139396b65c14350a029f60fea7fbaf9847ed984613b33ccc4bc870536962",
+  "confidence_tier": 4,
+  "date_published": "2026-02-14T09:23:47-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Hard lumps at injection site on stomach, creating rippled dimpled effect. Described as 'not a pretty sight'. Lumps persisted for over a month after injection site rotation.",
+      "severity": "significant",
+      "onset_days": 30,
+      "resolved": false
+    },
+    {
+      "category": "injection_site",
+      "description": "Stinging/pain on injection site at butt cheek, completely bearable but still present",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Both NAD+ and GHK-Cu described as 'spicy' on injection. Rotated injection sites from stomach to glutes after lumps developed. User reports no noticeable benefits from either peptide as of posting.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.663879Z"
+}

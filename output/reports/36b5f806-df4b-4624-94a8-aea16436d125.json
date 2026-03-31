@@ -1,0 +1,58 @@
+{
+  "id": "36b5f806-df4b-4624-94a8-aea16436d125",
+  "source_id": "1rieex3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rieex3/help_on_body_recomp/",
+  "author_hash": "dec5a8e52de2fbdd32fc2251d6c3c71d9727d929cc93e8b5990833b8a19e7c8d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T16:43:40-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 165,
+    "unit": "lbs"
+  },
+  "training_status": "previous athlete (volleyball), solid base, can hit newbie gains",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Stack initiated for body recomposition (muscle gain while losing fat)"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Stack initiated to drop from 16% to 10-12% body fat"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "value_before": 16,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Height 5'11\". Just started CJC/IPA+IGF-1 LR3 stack. User inquired about adding AOD-9604 or SLU-PP for additional fat loss, but wants to avoid GLP-1 agonists (Retatrutide) to preserve muscle growth during recomposition.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.67001Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "b2d799d0-324e-4624-8ead-64a245665d15",
+  "source_id": "1rmyf77",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmyf77/reta_tingle/",
+  "author_hash": "619704059f73ccdfab34df9a70ef6565e096da13aa2cfe85de77274bfdf19364",
+  "confidence_tier": 4,
+  "date_published": "2026-03-06T18:55:53-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "Severe tingling and discomfort during sleep at 7.5mg; mild tingling at 6mg",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Titrating with 0.5mg step-ups. Severe symptoms at 7.5mg requiring dose reduction to 6mg where side effect became mild.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.667699Z"
+}

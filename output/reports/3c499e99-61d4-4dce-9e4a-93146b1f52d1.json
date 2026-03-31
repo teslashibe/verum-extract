@@ -1,0 +1,32 @@
+{
+  "id": "3c499e99-61d4-4dce-9e4a-93146b1f52d1",
+  "source_id": "1okspu3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1okspu3/lost_22lbs_in_one_month_on_retatrutide/",
+  "author_hash": "4e2eb9e4c470f945da38fd3a1ba9e575c1252c388e30ba05e436f4907f3b5c69",
+  "confidence_tier": 4,
+  "date_published": "2025-10-31T05:04:46-07:00",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Stomach pain, pain in organs on right hand side",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Previous experience with stomach pain/organ pain at 0.25mg dose. Considering trying again at half dosage (0.125mg). Note: User may have confused mg with mcg (250 mcg = 0.25 mg).",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.394723Z"
+}

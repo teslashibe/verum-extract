@@ -1,0 +1,40 @@
+{
+  "id": "d3be8de8-6a04-4959-9a3e-817616f76bd0",
+  "source_id": "1hxojdc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1hxojdc/can_i_use_the_same_syringe_to_inject_two_sites/",
+  "author_hash": "86b952b9ebd2ff1cb387712882c5c9a62f128296b7a36b30bf67d83fb6edb335",
+  "confidence_tier": 4,
+  "date_published": "2025-01-09T14:01:21-08:00",
+  "health_conditions": [
+    "elbow injury",
+    "knee injury"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Healed elbow injury",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Also healed knee injury as side benefit",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Injected BPC-157 into stomach (subcutaneous) to heal elbow injury; knee healing occurred as secondary benefit. User advocates for systemic injection rather than local site injection.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.694564Z"
+}

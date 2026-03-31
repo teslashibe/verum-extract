@@ -1,0 +1,36 @@
+{
+  "id": "5219ad1f-3f17-474f-ba20-eb7791e236da",
+  "source_id": "1nfa9oe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nfa9oe/started_sermorelin_at_bed_time_and_this_happened/",
+  "author_hash": "8dbb01f14d4dc1e2bccdc57f5dcb8827b0883111740aa1c48d713d81a368564d",
+  "confidence_tier": 4,
+  "date_published": "2025-09-12T11:04:13-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Insomnia from CJC and Ipamorelin combination",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Takes 5-6 sleep supplements nightly prior to peptide use, had shotty sleep baseline. Insomnia from CJC/Ipam was worse than baseline.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.398278Z"
+}

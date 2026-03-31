@@ -1,0 +1,143 @@
+{
+  "id": "e497be18-7085-4e29-855c-94cf75309f94",
+  "source_id": "1qffh0x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qffh0x/for_those_of_you_who_research_multiple_peptides/",
+  "author_hash": "c54c6deff3a47cdf857c131bb28087c1c3b08434eec48a59941a284f17299907",
+  "confidence_tier": 4,
+  "date_published": "2026-01-17T07:04:45-08:00",
+  "training_status": "unable to exercise due to chronic illness",
+  "health_conditions": [
+    "ME/CFS"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "frequency": "weekdays",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Liposomal Vitamin C",
+      "name_normalized": "liposomal_vitamin_c",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "weekdays",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "VIP",
+      "name_normalized": "vip",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 0.3,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "SS-31 at 10mg daily doubled energy levels initially, decreased illness severity from moderate to low end of mild",
+      "severity": "significant"
+    },
+    {
+      "category": "endurance",
+      "description": "VIP improved respiratory, HRV and oxygen scores per Apple Watch; feels like could run for days",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "recovery",
+      "description": "Illness improved significantly from very severe to moderate with peptides combined with mestinon medication",
+      "severity": "significant"
+    },
+    {
+      "category": "activity_tolerance",
+      "description": "Doubled upright time in day; prior to peptides mostly in bed, now able to sit up longer and run errands daily",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "VIP causes face flush 5 minutes after injection, similar to Melanotan",
+      "severity": "mild",
+      "onset_days": 0
+    },
+    {
+      "category": "cardiac",
+      "description": "Retatrutide increased resting heart rate by about 7 bpm",
+      "severity": "moderate",
+      "resolved": false
+    },
+    {
+      "category": "tolerance",
+      "description": "SS-31 efficacy decreased over time after initial doubling of energy",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "HRV",
+      "timeframe_days": 14
+    },
+    {
+      "marker_name": "Oxygen scores",
+      "timeframe_days": 14
+    },
+    {
+      "marker_name": "Resting heart rate",
+      "unit": "bpm"
+    }
+  ],
+  "protocol_notes": "Rotates injection sites: left thigh, right thigh, left stomach, right stomach. On max day ~12 injections. VIP on market for 2 months. Started peptides ~10 months ago due to desperation from chronic illness. Also taking mestinon medication which helped more than peptides alone. Planning to try LL-37 next month. Currently taking Glutathione SQ (not exceeding 60 units) and considering IM route for higher dosages. Uses both syringes and pens; buys needles in bulk from diabetes online stores, never reuses.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.684047Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "6b10d03b-6747-4189-a214-d728b96e5ef5",
+  "source_id": "1rrpd1g",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rrpd1g/cjc_and_ipa_used_to_give_me_great_sleep_but_now/",
+  "author_hash": "c97997d1f76ce7c345c7a03d824b86302d7da6cb9acc21b90d65ca5214c24f69",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T05:25:33-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "cjc",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "First shot of CJC/IPA at 100/100 mcg. Plans to increase to 160/160 mcg within a week and maintain that dose for approximately 8-9 weeks.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109446Z"
+}

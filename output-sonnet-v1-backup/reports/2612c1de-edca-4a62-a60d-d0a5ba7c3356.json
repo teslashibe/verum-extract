@@ -1,0 +1,54 @@
+{
+  "id": "2612c1de-edca-4a62-a60d-d0a5ba7c3356",
+  "source_id": "1s6fnok",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6fnok/progress/",
+  "author_hash": "b62b378edffcc3ec91c26c0ed97af482259361c621b49bdf0abe16f1040a5888",
+  "confidence_tier": 4,
+  "date_published": "2026-03-28T16:40:21-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "reported_weight": {
+    "value": 285,
+    "unit": "lbs"
+  },
+  "training_status": "Strength trains 5-6x per week, cardio 6-7x per week",
+  "compounds": [
+    {
+      "name_raw": "r3ta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "r3ta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost from 285lbs to 208lbs (77lbs total), partially naturally then with r3ta when weight loss became very difficult",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Commenter noted muscle was preserved during transformation"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Implied by overall positive response to compound"
+    }
+  ],
+  "protocol_notes": "Started at 0.5mg then moved up to 1mg. Eats mostly clean but allows one cheat meal per week (fast food). Takes daily vitamins but no other supplements. Does not take D3/K2 or other commonly recommended supplements.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.1034Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "d74b3947-570d-4b5c-acad-31bf76367ce6",
+  "source_id": "1ls7k5c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ls7k5c/bpc157_tb500/",
+  "author_hash": "90c11e05d24181a95740ddb86d7c8ab7c6093ff74d4e249b84a19e1af0d0aec7",
+  "confidence_tier": 4,
+  "date_published": "2025-07-05T04:18:16-07:00",
+  "health_conditions": [
+    "distal biceps/brachialis issue"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "New cycle. Running BPC-157 (250-500mcg daily), TB500 (500mcg 2x/week), and GHK-CU daily as the 'GLOW protocol'. Pinning BPC/TB near the injury site (distal biceps/brachialis). Using individual vials rather than a blend.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.280045Z"
+}

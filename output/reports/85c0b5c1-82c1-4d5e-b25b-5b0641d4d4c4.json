@@ -1,0 +1,43 @@
+{
+  "id": "85c0b5c1-82c1-4d5e-b25b-5b0641d4d4c4",
+  "source_id": "1p815hb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p815hb/waking_up_90_minutes_earlier_with_reta/",
+  "author_hash": "f1ee710ee42548e66d50a676eb844af2e0e37cee5c26527f4a153c8bf2f38f84",
+  "confidence_tier": 4,
+  "date_published": "2025-11-27T04:35:56-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mcg",
+      "frequency": "weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Waking up 90 minutes earlier than normal, wide awake unable to return to sleep",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 7
+    },
+    {
+      "category": "appetite_change",
+      "description": "Loss of appetite for weeks, described as identical to losing appetite while having the flu, food sounds awful",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Extremely sensitive to peptides affecting sleep. Previously unable to tolerate CJC-1295 at any dose. Can tolerate Tesamorelin under 500 mcg daily. Stopped Retatrutide after one week due to severe sleep disruption and appetite loss.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.676179Z"
+}

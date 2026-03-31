@@ -1,0 +1,48 @@
+{
+  "id": "a59908ce-ace3-486d-9d23-7f266bfd71d7",
+  "source_id": "1af4vjf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1af4vjf/taking_glp1_tirz_seems_to_not_be_working_after_1/",
+  "author_hash": "ccc667ea38fd54d3dd7d30af9749146d52e0e6323744309d6184ddc1dc255173",
+  "confidence_tier": 4,
+  "date_published": "2024-01-30T16:59:04-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 152,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "every 5-7 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Reached maintenance weight",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "No appetite and severe aversion to food in beginning days",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Age 52 at start. Starting weight 152 lbs. Kept dosing low and slow. Maintained high protein intake (135g) to preserve muscle. Emphasized importance of smaller meals with protein priority. Now at maintenance. Describes tirzepatide as 'amazing peptide.'",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.417006Z"
+}

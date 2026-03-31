@@ -1,0 +1,64 @@
+{
+  "id": "6e2b5fc3-49bc-4abb-a991-ce0a5119da24",
+  "source_id": "1m06irh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m06irh/almost_to_goal_thinking_about_peptides_help/",
+  "author_hash": "ba8cdc99360488325e17912561ed8210c38e7f10099fc28bbcf05fe2cd777db3",
+  "confidence_tier": 4,
+  "date_published": "2025-07-14T19:51:47-07:00",
+  "health_conditions": [
+    "loose skin",
+    "post-tirzepatide energy depletion"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "SS-31 helped recover baseline energy levels after tirzepatide use",
+      "severity": "moderate"
+    },
+    {
+      "category": "skin",
+      "description": "GLOW (GHK-Cu/BPC-157/TB-500) plus KPV for loose skin - subtle effect after ~2 months",
+      "severity": "mild",
+      "onset_days": 60
+    }
+  ],
+  "protocol_notes": "Previously on tirzepatide. Using GLOW stack (GHK-Cu, BPC-157, TB-500) combined with KPV for approximately 2 months. Also dermarolling and using vitamin C serum on abdomen for loose skin. Reports subtle effects on skin appearance.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.40421Z"
+}

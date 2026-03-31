@@ -1,0 +1,39 @@
+{
+  "id": "e48db0f1-8c43-45e6-b41a-fd68d12d163a",
+  "source_id": "1qn2mxw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qn2mxw/gd_needles_wrecking_my_injection_sites/",
+  "author_hash": "4e686a1d04d8348cb584827ab9c1ee9da1221c26a79faffcdd1f4a517c9d1827",
+  "confidence_tier": 5,
+  "date_published": "2026-01-25T17:54:23-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Decrease in ISR (injection site reaction) redness and welts after KPV shot",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Redness and welts at injection sites with Easy Touch syringes (1ml, 0.5ml, and 0.3ml all problematic)",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Tried Easy Touch syringes in multiple sizes (1ml, 0.5ml, 0.3ml) from various vendors (Vitality Medical, Diabetic Pro, and others) and found all problematic. Uses KPV first in protocol. Recommends filtering peptides and using pens instead of syringes. Experienced injection site reactions with multiple suppliers of Easy Touch brand.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.683218Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ae28fa46-a01e-4331-a873-130658cd0eca",
+  "source_id": "1qqf4e9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqf4e9/whats_the_best_peptide_for_fatigue_and_depression/",
+  "author_hash": "0d57fe37eec36cee22158732fa22203b47e788e6a6f0fefc04dc8eb90b298bad",
+  "confidence_tier": 4,
+  "date_published": "2026-01-29T09:33:00-08:00",
+  "health_conditions": [
+    "mental health issues"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "GHK-Cu really messed with mental health for a while",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "zinc"
+    }
+  ],
+  "protocol_notes": "User discovered zinc deficiency was contributing factor. Recommends zinc supplementation (ensuring supplement doesn't have excess copper). Mental health issues resolved after addressing zinc deficiency.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.682439Z"
+}

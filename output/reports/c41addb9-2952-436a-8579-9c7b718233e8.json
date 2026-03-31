@@ -1,0 +1,47 @@
+{
+  "id": "c41addb9-2952-436a-8579-9c7b718233e8",
+  "source_id": "1s4hnpa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4hnpa/how_to_stack/",
+  "author_hash": "b6cad7ce19386ae826faa8ebbacb650206a455e85d0b6e17da3b27f63d948963",
+  "confidence_tier": 5,
+  "date_published": "2026-03-26T12:42:19-07:00",
+  "training_status": "high-intensity weightlifting 5-6x weekly",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User is seeking stacking advice for first peptide cycle. Reported body fat ~15-17%. No doses or timeline specified.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.646528Z"
+}

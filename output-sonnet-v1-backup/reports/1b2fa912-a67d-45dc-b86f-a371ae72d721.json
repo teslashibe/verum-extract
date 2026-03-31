@@ -1,0 +1,65 @@
+{
+  "id": "1b2fa912-a67d-45dc-b86f-a371ae72d721",
+  "source_id": "1r9jkny",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9jkny/tesamorelin_initial_results_after_6_weeks/",
+  "author_hash": "d762146b29aca95df4ac24675a7dc5aa76f22e61f9866fcbf915306ae3cc2ac5",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T18:46:38-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 300,
+    "unit": "lbs"
+  },
+  "training_status": "Advanced powerlifter, 6 days/week, 500lb deadlift, 1100lb powerlifting club",
+  "health_conditions": [
+    "obesity (formerly 550 lbs)",
+    "type 2 diabetes (A1C 4.7, controlled)",
+    "excess visceral fat"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily before bed",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mounjaro",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Significant visible reduction in visceral/abdominal fat; gut noticeably deflating; able to zip up coat that previously didn't fit; gym member commented unsolicited on the change",
+      "severity": "significant",
+      "onset_days": 30
+    },
+    {
+      "category": "other",
+      "description": "Lost approximately 5 pounds total, attributed to visceral fat reduction specifically rather than general weight loss",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C",
+      "value_after": 4.7,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Fasted at least 3 hours before injection. On prescribed Mounjaro (cost covered by insurance due to diabetes diagnosis). Plans to reduce dose to 1mg due to cost and continue for at least 6 months. Lost 250 lbs over 3 years prior to Tesamorelin use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.11636Z"
+}

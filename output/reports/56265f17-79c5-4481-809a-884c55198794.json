@@ -1,0 +1,44 @@
+{
+  "id": "56265f17-79c5-4481-809a-884c55198794",
+  "source_id": "1nzgtl7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nzgtl7/peptide_thatll_get_rid_of_sugar_cravings/",
+  "author_hash": "232964797527748626b4634c23d9b1f6349d64d2bb3a9f2405125fb25b18c7f5",
+  "confidence_tier": 4,
+  "date_published": "2025-10-06T04:48:33-07:00",
+  "health_conditions": [
+    "pre-diabetic"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Ended sugar cravings",
+      "severity": "significant"
+    },
+    {
+      "category": "blood_sugar",
+      "description": "A1c improved from 5.8 to 5.2",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C",
+      "value_before": 5.8,
+      "value_after": 5.2,
+      "unit": "%"
+    }
+  ],
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.396405Z"
+}

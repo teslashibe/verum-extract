@@ -1,0 +1,117 @@
+{
+  "id": "13940a64-55b7-4b9d-88b0-57a6176a790d",
+  "source_id": "1rtra6z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rtra6z/ss31_severe_fatigue_and_tiredness/",
+  "author_hash": "db95cc0ecbe4b7a9af74130697b9fa265aac759352fdb6eabc89da75eca98979",
+  "confidence_tier": 4,
+  "date_published": "2026-03-14T11:42:49-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "2-3 times per week",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "oral",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Magnesium",
+      "name_normalized": "magnesium",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CoQ10",
+      "name_normalized": "coq10",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "slight mental clarity expected week 1-2",
+      "severity": "mild",
+      "onset_days": 7
+    },
+    {
+      "category": "energy",
+      "description": "subtle energy improvement, more stable energy, reduced fatigue crashes",
+      "severity": "moderate",
+      "onset_days": 21
+    },
+    {
+      "category": "recovery",
+      "description": "improved exercise endurance, better recovery",
+      "severity": "moderate",
+      "onset_days": 28
+    },
+    {
+      "category": "sleep",
+      "description": "sometimes better sleep quality",
+      "severity": "moderate",
+      "onset_days": 42
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "headache",
+      "description": "rare, mild headache possible",
+      "severity": "mild"
+    },
+    {
+      "category": "nausea",
+      "description": "rare, mild nausea possible",
+      "severity": "mild"
+    },
+    {
+      "category": "fatigue",
+      "description": "MOTS-C may cause slight transient fatigue day of injection",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Planned 60-day stack with detailed timing. Rationale: SS-31 repairs mitochondria, NAD+ and CoQ10 fuel repair, MOTS-C signals new mitochondrial biogenesis, magnesium stabilizes ATP. Optional: L-carnitine 500-1000mg, alpha-lipoic acid 100-200mg, red/NIR light therapy. Site rotation for injection site irritation prevention.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.9,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.652024Z"
+}

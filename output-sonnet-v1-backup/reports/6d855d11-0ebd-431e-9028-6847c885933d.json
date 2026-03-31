@@ -1,0 +1,58 @@
+{
+  "id": "6d855d11-0ebd-431e-9028-6847c885933d",
+  "source_id": "1ltauhp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ltauhp/peptides_and_autoimmune_diseases/",
+  "author_hash": "614871b5ca6f02dabea0de332314b28458db05ff7fdaf4a035778aa990b5fe80",
+  "confidence_tier": 4,
+  "date_published": "2025-07-06T13:14:33-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "autoimmune disease (unspecified)",
+    "seasonal allergies"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TA-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "frequency": "10-day protocol twice yearly with periodic maintenance",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Thymulin",
+      "name_normalized": "thymulin",
+      "category": "immune",
+      "route": "subcutaneous",
+      "frequency": "10-day protocol twice yearly with periodic maintenance",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Klow",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "immune",
+      "description": "TA-1 and Thymulin protocol described as 'changed my life' for autoimmune issues",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Cured seasonal allergies; Oklahoma air used to try and kill her 10 months out of the year",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Uses an insulin pen. Mixes TA-1 and Thymulin at 2:1 ratio (2 vials TA-1 and 1 vial Thymulin) in 3ml BAC water. Dials to 30 units for 10-day protocol done only twice yearly; maintenance at 10 units. Also runs Klow for autoimmune benefits.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.279869Z"
+}

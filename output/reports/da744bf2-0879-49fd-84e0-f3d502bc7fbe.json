@@ -1,0 +1,35 @@
+{
+  "id": "da744bf2-0879-49fd-84e0-f3d502bc7fbe",
+  "source_id": "1qp04sn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qp04sn/how_much_to_take/",
+  "author_hash": "73bd23e01d12acc491ee563a7439cb5c5502d3807d7172aac61775e6de9c6ca7",
+  "confidence_tier": 4,
+  "date_published": "2026-01-27T19:30:25-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "User runs GHK-Cu (mentions 'KLOW') at 2.5mg/day. Notes typical Tesamorelin dosing at 1-2mg/day based on consensus but states personal inexperience with Tesa. Recommends starting lower than suggested dosages and ramping up after tolerance testing.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.682878Z"
+}

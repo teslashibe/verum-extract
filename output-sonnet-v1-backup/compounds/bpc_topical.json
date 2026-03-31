@@ -1,0 +1,43 @@
+{
+  "compound_id": "bpc_topical",
+  "display_name": "BPC topical",
+  "category": "other",
+  "total_reports": 1,
+  "reports_by_tier": {
+    "5": 1
+  },
+  "top_benefits": null,
+  "top_side_effects": null,
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "hgh",
+      "display_name": "GHK",
+      "report_count": 1
+    },
+    {
+      "compound_id": "oral_finasteride",
+      "display_name": "oral Finasteride",
+      "report_count": 1
+    },
+    {
+      "compound_id": "oral_minoxidil",
+      "display_name": "oral minoxidil",
+      "report_count": 1
+    },
+    {
+      "compound_id": "topical_minoxidil",
+      "display_name": "topical minoxidil",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.25,
+  "sentiment_breakdown": {
+    "positive": 0,
+    "mixed": 0,
+    "negative": 0,
+    "neutral": 1
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.970241Z"
+}

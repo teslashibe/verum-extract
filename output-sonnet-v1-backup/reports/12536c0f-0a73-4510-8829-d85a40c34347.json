@@ -1,0 +1,30 @@
+{
+  "id": "12536c0f-0a73-4510-8829-d85a40c34347",
+  "source_id": "1myi1hg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1myi1hg/interesting_find_with_mdma_and_retatrutide/",
+  "author_hash": "13b47458f832d44e62743907245bf1d0f0d6305945779f5bb69a29c5c7da068d",
+  "confidence_tier": 5,
+  "date_published": "2025-08-23T17:47:33-07:00",
+  "compounds": [
+    {
+      "name_raw": "ret",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "While on both SSRI and Retatrutide, took MDMA and experienced overheating (possible serotonin syndrome symptoms), requiring Advil, Tylenol, hydration, and cold showers. Lost euphoric effects of MDMA; only retained energy effect.",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User is on an SSRI in addition to Retatrutide ('ret'). MDMA experience resulted in possible serotonin syndrome symptoms. No dose or protocol details for Retatrutide provided.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.274329Z"
+}

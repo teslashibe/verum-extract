@@ -1,0 +1,35 @@
+{
+  "id": "75a030f7-fca3-4c2b-96be-f1a333f1bfa3",
+  "source_id": "1rg4bkx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rg4bkx/is_retatrutide_dangerous_for_me_i_am_addicted_to/",
+  "author_hash": "c48ebe3b11d65c4a99fc455745bdc857e9967d90d7e0c6d95418e8d23df7c026",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T03:34:41-08:00",
+  "health_conditions": [
+    "kratom use (under 2.5g)"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Severe difficulty moving bowels from combining Reta and kratom even at very low doses of each; stopped Reta as a result",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Stopped Reta at micro-dose of 0.5mg due to bowel difficulty when combined with kratom (under 2.5g). Considered the combination bad for them.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114339Z"
+}

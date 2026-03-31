@@ -1,0 +1,65 @@
+{
+  "id": "fd7813d2-1057-4ea1-a1ad-ee58cf1c081c",
+  "source_id": "1m1x5w8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m1x5w8/full_rupture_of_distal_bicep_tendon_my_protocol/",
+  "author_hash": "2634a9ef9d5f07466094c7c94c4517c60ba31559e7a76d3b66774f01917a0e00",
+  "confidence_tier": 4,
+  "date_published": "2025-07-16T20:33:29-07:00",
+  "training_status": "active_resistance_training",
+  "health_conditions": [
+    "full bicep tendon tear"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "once or twice daily",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "once or twice daily",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Reduced recovery time by 30-50% for full bicep tendon tear",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "Sleep quality improvements",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Enhanced training recovery and reduced inflammation",
+      "severity": "moderate"
+    },
+    {
+      "category": "inflammation",
+      "description": "Reduced inflammation",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Used separate BPC-157 and TB-500 vials rather than blended product. Initially injected in forearm, then transitioned to fat stores (stomach/abdomen) with no apparent difference in efficacy. Recommended 4-6 week cycle. 6 months post-injury still has some tightness in range of motion (full supine stretch and rotation), improving with continued training. Currently training back levers and one-arm pull-ups. Doctors noted amazement at recovery speed.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.687202Z"
+}

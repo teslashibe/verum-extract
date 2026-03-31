@@ -1,0 +1,54 @@
+{
+  "id": "90557e43-9fb4-4f49-90f9-0ba67d9a2105",
+  "source_id": "1rx3dlr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx3dlr/tirz_to_reta/",
+  "author_hash": "bbd54555faadb10fb9afac62c53f13aabd0b9192199467af189dbabd44f4eb97",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T06:06:33-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Consistent appetite suppression throughout the week; described as smoother than tirz with less intense spike",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Better energy partitioning compared to tirz; glucagon receptor component perceived to help with energy",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Glucagon receptor component perceived to target visceral fat better"
+    }
+  ],
+  "protocol_notes": "No washout performed. Started reta 2mg the week after last tirz shot, bumped to 4mg week 2, cruising at 6mg. Was on tirz ~7.5mg for ~2 months. Describes tirz as giving more food noise reduction, reta as providing better energy partitioning. Switch described as seamless.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106843Z"
+}

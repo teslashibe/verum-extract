@@ -1,0 +1,41 @@
+{
+  "id": "81172329-b5a8-418b-92f7-35bb579a2e54",
+  "source_id": "18g1yoh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/18g1yoh/semaglutide_peptide_for_weight_loss_dose/",
+  "author_hash": "c5c53305cb200286fe6f590bc9b227834be95dacd3d9c4b14aec76149c290395",
+  "confidence_tier": 4,
+  "date_published": "2023-12-11T11:34:31-08:00",
+  "compounds": [
+    {
+      "name_raw": "semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost a lot of weight on the lowest dose over four weeks",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Gets nauseous if starting above 0.25mg weekly",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "States 'less is more' and to go slow when raising dose. Also describes a friend who accidentally took 10x the dose and was hospitalized for 3 days.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.295787Z"
+}

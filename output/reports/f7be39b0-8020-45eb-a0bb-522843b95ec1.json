@@ -1,0 +1,82 @@
+{
+  "id": "f7be39b0-8020-45eb-a0bb-522843b95ec1",
+  "source_id": "1lh0fgl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lh0fgl/my_brain_crashes_and_motivation_drops_anywhere/",
+  "author_hash": "4b0005c34dc0087a7da56a47cae968a20af9c45a3659b88b9a922af9b4aabe39",
+  "confidence_tier": 4,
+  "date_published": "2025-06-21T09:22:51-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 0,
+    "unit": ""
+  },
+  "training_status": "recreational (mountain biking)",
+  "health_conditions": [
+    "ADHD",
+    "anxiety",
+    "leaky gut",
+    "psoriasis"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "weight loss from tirzepatide",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "brain crash and motivation drop 1-4 hours after work starts; general lack of motivation despite enjoying activities",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone"
+    },
+    {
+      "marker_name": "free testosterone"
+    }
+  ],
+  "protocol_notes": "Age 43, height 5'10\". Also taking Wellbutrin and Buspar. Also takes omega-3 and large turmeric dosage for inflammation. Recently started Selank and Semax but reports not seeing much effect. Has done extensive blood work and multiple doctor consultations. Reports being resistant to many drugs and requires high doses (e.g., hero's dose of psilocybin for normal effects). Tried tirzepatide for a few months with weightloss but limited other benefits.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.405729Z"
+}

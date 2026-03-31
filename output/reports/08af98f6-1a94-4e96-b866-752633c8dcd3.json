@@ -1,0 +1,38 @@
+{
+  "id": "08af98f6-1a94-4e96-b866-752633c8dcd3",
+  "source_id": "1c8ax9s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1c8ax9s/bpc_157_overdose/",
+  "author_hash": "4e66850fb6c5b2485d542abe802ef0905c36654126065a663149fb66222d7da8",
+  "confidence_tier": 4,
+  "date_published": "2024-04-19T16:12:19-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 120,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "elbow injury",
+    "lack of motion",
+    "intense elbow pain"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 10000,
+      "dose_unit": "mcg",
+      "frequency": "single dose",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Injected directly into painful elbow by an 'unofficial therapist'. Dose was 10mg (entire vial) in a single injection. User is concerned about potential side effects from this high single dose.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.41549Z"
+}

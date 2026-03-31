@@ -1,0 +1,46 @@
+{
+  "id": "adc51ad5-ae7e-44a5-8d27-5a0e53fc2e64",
+  "source_id": "1r8kmy8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r8kmy8/high_igf1_levels/",
+  "author_hash": "84bf76dc03748c9e9304673464aef9e85a288b1f221ed9d8d03561d8b1faf686",
+  "confidence_tier": 4,
+  "date_published": "2026-02-18T16:38:01-08:00",
+  "health_conditions": [
+    "insomnia"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "sleeping so good now, insomniac experiencing improvement",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 134,
+      "value_after": 506,
+      "timeframe_days": 28
+    }
+  ],
+  "protocol_notes": "Titration protocol: 1iu week 1 morning fasted, 2iu week 2 morning fasted, 3iu week 3 morning fasted, 4iu week 4 evenings before bed. User reports no side effects during titration. Plans to reduce to 2iu and retest in 4 weeks.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.674702Z"
+}

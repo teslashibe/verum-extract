@@ -1,0 +1,59 @@
+{
+  "id": "9fd3a6e4-e405-4db2-bcd0-c4d1bd4c7eb7",
+  "source_id": "p9kfuf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/p9kfuf/neuroregenerative_peptides/",
+  "author_hash": "181ccfb22df2dcd41c2aa0d5d0d478662863ab58d0a6e90a038ef3453a130c45",
+  "confidence_tier": 4,
+  "date_published": "2021-08-22T13:38:37-07:00",
+  "training_status": "weight lifting",
+  "health_conditions": [
+    "histamine response"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "heat_sensitivity",
+      "description": "Heat sensitivity reduction",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "Resting heart rate increased by 30-40 BPM to approximately 100 BPM even while sleeping; histamine response suspected",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 4
+    },
+    {
+      "category": "anxiety",
+      "description": "Psychological discomfort from persistently elevated resting heart rate around 100 BPM",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "resting heart rate",
+      "value_after": 100,
+      "unit": "BPM"
+    },
+    {
+      "marker_name": "blood pressure"
+    }
+  ],
+  "protocol_notes": "One of few experiencing histamine response to BPC-157. Effects taper by 4th day. Blood pressure remained normal. Heart rate increases remain below 160 BPM during intense weight lifting. Ruled out bronchitis and other factors. Wearing smart watch for monitoring.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.71,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.702631Z"
+}

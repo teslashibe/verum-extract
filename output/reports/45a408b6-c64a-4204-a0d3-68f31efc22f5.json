@@ -1,0 +1,39 @@
+{
+  "id": "45a408b6-c64a-4204-a0d3-68f31efc22f5",
+  "source_id": "1rfnur9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rfnur9/question_about_retatrutide_effects_beyond/",
+  "author_hash": "3edf0199e07dc9ef0507e461cba590488982cc0d05c0f0adf455c311826d6e38",
+  "confidence_tier": 4,
+  "date_published": "2026-02-26T13:59:45-08:00",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Felt like flu first week",
+      "severity": "moderate",
+      "onset_days": 7,
+      "resolved": true,
+      "resolution_days": 21
+    },
+    {
+      "category": "skin_reaction",
+      "description": "Small amount of skin sensitivity near waist",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Four weeks into use. Mostly resolved side effects by week 4.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.65954Z"
+}

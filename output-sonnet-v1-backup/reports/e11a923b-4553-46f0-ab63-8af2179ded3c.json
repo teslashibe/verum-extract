@@ -1,0 +1,93 @@
+{
+  "id": "e11a923b-4553-46f0-ab63-8af2179ded3c",
+  "source_id": "19faw3y",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/19faw3y/glp1_to_lean/",
+  "author_hash": "8df0f7086fae72f33d1dc4cd82f97f3cebfad8dcb5946f575c20ec1e353e24ce",
+  "confidence_tier": 4,
+  "date_published": "2024-01-25T06:42:43-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 140,
+    "unit": "lbs"
+  },
+  "training_status": "Active; 1 hour daily heavy weights or HIIT",
+  "health_conditions": [
+    "high natural testosterone",
+    "possibly PCOS",
+    "elevated fasting blood glucose (upper 90s)",
+    "on HRT (estrogen and testosterone pellets, recently stopped testosterone)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "AOD",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "1x daily",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Down 5 lbs after a week and a half on combined AOD + 2mg Tirz; some likely water weight",
+      "severity": "moderate",
+      "onset_days": 10
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Had trouble eating at all after second dose of Tirz at 2mg",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Significant appetite suppression making it hard to eat enough after 2nd dose of 2mg Tirz; considering dropping to 1mg",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "other",
+      "description": "Slightly elevated heart rate noted",
+      "severity": "mild",
+      "onset_days": 7
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C",
+      "value_before": 5.15,
+      "unit": "%"
+    },
+    {
+      "marker_name": "Fasting blood glucose",
+      "unit": "mg/dL"
+    },
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "Female, ~50 years old, 5'4\", 140 lbs, ~20% BF. Eats 1500-2000 kcal/day, ~150g protein, lower carbs (~100-150g). Takes AOD in morning fasted, injects into fattier areas (arms, inner thighs for spot reduction). Added 2mg Tirz weekly after ~2 months on AOD. Wearing CGM; BG still sitting in upper 90s despite barely eating. Previously tried CJC/IPA with no results. Noted high natural testosterone and IGF-1. A1C typically 5-5.3. On RT with estrogen; recently stopped testosterone pellets.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.295445Z"
+}

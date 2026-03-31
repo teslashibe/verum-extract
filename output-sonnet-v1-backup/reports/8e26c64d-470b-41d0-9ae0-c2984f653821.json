@@ -1,0 +1,40 @@
+{
+  "id": "8e26c64d-470b-41d0-9ae0-c2984f653821",
+  "source_id": "132jdr6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/132jdr6/just_taken_2nd_dose_of_semaglutide_but_no_side/",
+  "author_hash": "b9836f455fa99c8482bea81aee22bfdb7091bdfe58555b07cbbfddffca48f7c4",
+  "confidence_tier": 5,
+  "date_published": "2023-04-28T21:40:45-07:00",
+  "reported_sex": "female",
+  "reported_weight": {
+    "value": 124,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Felt effects from the first dose; follows standard dosing schedule starting at 0.25mg for week 1 then escalating to 0.5mg",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Follows a standard titration schedule: 0.25mg for week 1, then up to 0.5mg. Weighs 124 lbs. Claims effects felt immediately at first dose.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.427435Z"
+}

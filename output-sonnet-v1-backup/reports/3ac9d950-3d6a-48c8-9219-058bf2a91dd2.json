@@ -1,0 +1,51 @@
+{
+  "id": "3ac9d950-3d6a-48c8-9219-058bf2a91dd2",
+  "source_id": "1ol90l7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ol90l7/fatty_liver/",
+  "author_hash": "559d4b1839eb9cb485b9032e50eff77b4dbe57da64474d49641bf54354fb2e8e",
+  "confidence_tier": 3,
+  "date_published": "2025-10-31T16:09:05-07:00",
+  "health_conditions": [
+    "alcoholic liver disease",
+    "alcoholism (recovered)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC 1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Liver healing rapidly according to panels; nearly normalized liver values at a rapid pace per physician",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "liver panels"
+    }
+  ],
+  "protocol_notes": "Was alcoholic, stopped drinking since July. Using ipamorelin/CJC 1295 and IGF-1 stack. Liver healing confirmed via panels by physician. Confounding factor: sobriety noted by commenter.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.266082Z"
+}

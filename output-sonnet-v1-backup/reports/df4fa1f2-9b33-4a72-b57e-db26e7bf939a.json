@@ -1,0 +1,44 @@
+{
+  "id": "df4fa1f2-9b33-4a72-b57e-db26e7bf939a",
+  "source_id": "1rl8bzz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rl8bzz/improper_injection/",
+  "author_hash": "604334741dd8a4db4bccbf01f5fa8fad0495ea2aeae2fc22a13f1f70aae8a9e9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-04T20:47:49-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "2x weekly (Monday and Thursday)",
+      "cycle_length_days": 63,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "IU",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Painful injection with sensation of feeling liquid flow and move through the stomach upon first HGH injection in abdomen",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "OP had 9 weeks of painless reta injections on the abdomen, alternating sides. Pain and unusual sensation occurred on first HGH injection. Was told 3 IU was the recommended starting dose but commenter advised this was too high and suggested starting at 1 IU and increasing by 1 IU every 3-4 weeks while monitoring morning glucose levels.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112108Z"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "4c2f18ed-d638-447e-b5b8-9a93eb1e3629",
+  "source_id": "1r01t37",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r01t37/new_to_peptides_looking_for_feedback_on_bpc157/",
+  "author_hash": "fcfc6e54c60d560f1cc823360db50eb570246da623253fea7c942762498c3ba9",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T03:29:50-08:00",
+  "health_conditions": [
+    "chronic patellar tendinitis",
+    "bilateral knee pain"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly (split every other day)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Chronic patellar tendinitis causing pain on stairs, squatting, and waking from sleep; seeking improvement; early sensations at injection site after one week"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Increased inflammation or activity sensation in the patella area approximately one week into protocol",
+      "severity": "mild",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "OP injects BPC-157 and TB-500 combined in one syringe subcutaneously into fatty tissue above the knee; GHK-Cu injected separately into stomach. All injections taken in the evening ~2 hours after dinner. After community feedback, OP tapered BPC-157 down to 500mcg daily. Originally started at 500mcg before briefly increasing to 1mg.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.120107Z"
+}

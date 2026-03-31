@@ -1,0 +1,54 @@
+{
+  "id": "f632f257-1fd7-403e-aad5-b75bb2c2a9db",
+  "source_id": "1rwczgz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwczgz/retatrutide_and_cjcipamorelin_33_years_old/",
+  "author_hash": "5b8cb378dc753719cf5f8bcaf6e12c0e6ff35241b83529c4f13beb1513746db9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-17T10:22:29-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "Monday/Thursday minimum",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Recommends starting Retatrutide at 2mg to test side effect profile. Suggests administering CJC/Ipamorelin daily via insulin syringe. Criticizes current testosterone dosing schedule as suboptimal.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.662297Z"
+}

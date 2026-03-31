@@ -1,0 +1,35 @@
+{
+  "id": "87079c4d-84c3-4e19-88b5-051fdc600cc2",
+  "source_id": "1rzjf6b",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzjf6b/retatesa/",
+  "author_hash": "ee6bd0e92c84845ae04c82ec3a9e5a5a60fb68eebb90692f884c3f045f492f47",
+  "confidence_tier": 5,
+  "date_published": "2026-03-20T22:34:45-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "once or twice a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "First stack. User asking about dosing schedule (split days vs same day). Tesamorelin dosing recommendation: 2mg in evening, 2-3 hours after last meal. Retatrutide dosed once or twice weekly. Recommendation to get baseline IGF-1 and retest after one month.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.649088Z"
+}

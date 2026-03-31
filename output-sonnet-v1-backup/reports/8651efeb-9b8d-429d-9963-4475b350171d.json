@@ -1,0 +1,35 @@
+{
+  "id": "8651efeb-9b8d-429d-9963-4475b350171d",
+  "source_id": "1kf7gp5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kf7gp5/reta_bpc_157/",
+  "author_hash": "2915cf448fecf7db70101e907cbee43859a67d750fe29a8694972a414269a4ba",
+  "confidence_tier": 5,
+  "date_published": "2025-05-05T02:35:18-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "bpc",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Currently using BPC and tirzepatide together with no issues. Plans to switch to Reta next week.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.284507Z"
+}

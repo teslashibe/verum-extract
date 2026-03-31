@@ -1,0 +1,52 @@
+{
+  "id": "c1004fca-fbb3-44a6-ad0f-8fe0ba2e2d14",
+  "source_id": "1n4b3vp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n4b3vp/side_effects/",
+  "author_hash": "325aeba47313835edb214cb014da5f8b14e0dac2f7a6d866126a55902ee2ecdc",
+  "confidence_tier": 4,
+  "date_published": "2025-08-30T13:02:12-07:00",
+  "reported_sex": "female",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "once weekly or less",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "libido",
+      "description": "husband was a happy man",
+      "severity": "significant",
+      "onset_days": 5
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "no appetite",
+      "severity": "moderate",
+      "onset_days": 1
+    },
+    {
+      "category": "nausea",
+      "description": "nausea and random gagging the day after",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Uses Zofran and peppermint tea to manage side effects. At least one week between uses. Onset to effect approximately 5-6 hours.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.683181Z"
+}

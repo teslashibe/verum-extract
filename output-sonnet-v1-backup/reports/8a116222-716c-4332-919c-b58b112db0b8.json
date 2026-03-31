@@ -1,0 +1,39 @@
+{
+  "id": "8a116222-716c-4332-919c-b58b112db0b8",
+  "source_id": "1qx614h",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qx614h/5_amino_1mq/",
+  "author_hash": "58cd423d215687fbf377643ed76b7c658c5d37d4befb36c03e44471e1f7eb79f",
+  "confidence_tier": 4,
+  "date_published": "2026-02-05T18:59:24-08:00",
+  "compounds": [
+    {
+      "name_raw": "5amino",
+      "name_normalized": "5_amino",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GLP-1",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Significant energy improvement; done wonders for energy levels",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Primary goal was energy, not fat loss. Also on a GLP-1 for weight management. Reports 5-amino has done wonders for energy.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121073Z"
+}

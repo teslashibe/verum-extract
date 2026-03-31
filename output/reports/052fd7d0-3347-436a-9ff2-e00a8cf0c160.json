@@ -1,0 +1,47 @@
+{
+  "id": "052fd7d0-3347-436a-9ff2-e00a8cf0c160",
+  "source_id": "1rhy9zv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rhy9zv/bpc157tb500/",
+  "author_hash": "90a8b3056690cb1ac73b4f4cafe2dba8c9bf45de8cc202920b52a40c2db7d4ac",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T06:13:16-08:00",
+  "health_conditions": [
+    "labrum tear",
+    "supraspinatus tear"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Labrum and supraspinatus tear improvement",
+      "severity": "significant",
+      "onset_days": 30
+    }
+  ],
+  "protocol_notes": "AM fasted dosing. No off days. Running for 8 weeks with planned 4 more weeks before break.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.670461Z"
+}

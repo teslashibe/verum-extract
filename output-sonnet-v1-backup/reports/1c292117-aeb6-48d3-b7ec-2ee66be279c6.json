@@ -1,0 +1,55 @@
+{
+  "id": "1c292117-aeb6-48d3-b7ec-2ee66be279c6",
+  "source_id": "1rupax2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rupax2/just_got_lipo_recovery_stack_recommendations/",
+  "author_hash": "8de131c935a6dc910bc5321206336ad149fa0bcccc5e5d3eb5bd6649eb0fd8b5",
+  "confidence_tier": 5,
+  "date_published": "2026-03-15T13:47:06-07:00",
+  "compounds": [
+    {
+      "name_raw": "Glow/klow",
+      "name_normalized": "glowklow",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "hgh",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "2-3 times per day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "anavar",
+      "name_normalized": "anavar",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "multi collagen peptides supplement",
+      "name_normalized": "multi_collagen_peptides_supplement",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 40,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Stack claimed to aid in healing, collagen synthesis, and provide building blocks for healing tissue"
+    }
+  ],
+  "protocol_notes": "Commenter is recommending a recovery stack to OP, not necessarily describing personal usage. Recommends slight calorie surplus alongside. Anavar recommendation conditional on being male. Note: 40g (not mg) collagen supplement is likely the intended unit.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.25,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.10804Z"
+}

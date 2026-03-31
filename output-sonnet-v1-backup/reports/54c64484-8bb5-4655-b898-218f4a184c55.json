@@ -1,0 +1,48 @@
+{
+  "id": "54c64484-8bb5-4655-b898-218f4a184c55",
+  "source_id": "1ppb5xu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ppb5xu/probably_not_but_is_there_a_peptide_for_more/",
+  "author_hash": "eb70e56481ae84b9f3a15815fea1c57250794cc8d8f42f6f9c336b84c56a2bb5",
+  "confidence_tier": 4,
+  "date_published": "2025-12-17T15:10:48-08:00",
+  "health_conditions": [
+    "ADHD"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Adamax",
+      "name_normalized": "adamax",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 175,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Adamax makes a huge difference for executive functioning and task initiation; non-responsive to many ADHD meds but Adamax helps",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Selank and Semax do nothing for this user. Adamax sweet spot is 150-200mcg injectable (states ~200mcg initially, then clarifies 150-200mcg range). Non-responsive to many ADHD medications.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.26006Z"
+}

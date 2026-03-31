@@ -1,0 +1,68 @@
+{
+  "id": "fcd5eac6-23c2-4155-98fa-788efa675c87",
+  "source_id": "1b55g35",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1b55g35/45_months_progress_50_lbs/",
+  "author_hash": "572e290609ec82315a98553a3ee24125e7a6184ef8dabec07368f9bba68bc057",
+  "confidence_tier": 4,
+  "date_published": "2024-03-02T18:02:04-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 175,
+    "unit": "lbs"
+  },
+  "training_status": "moderate resistance training 3-4x/week, 20-30 min per session, no cardio",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 127,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost approximately 50 lbs (226 lbs to 175 lbs) over ~4.5 months with improved body composition (15% body fat), visible abdominal definition (4-pack)",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Significantly reduced appetite, making caloric deficit easier to maintain",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Severe appetite suppression",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_weight",
+      "value_before": 226,
+      "value_after": 175,
+      "unit": "lbs",
+      "timeframe_days": 127
+    },
+    {
+      "marker_name": "body_fat_percentage",
+      "value_after": 15,
+      "unit": "%",
+      "timeframe_days": 127
+    }
+  ],
+  "protocol_notes": "Started September 23, 2023 at 0.25 mg/week, increased to 0.5 mg/week after 2 weeks (accelerated titration vs standard 4-week schedule). Maintained 0.5 mg/week as maintenance dose. Combined with resistance training 3-4x/week and dietary modifications. User noted previous testosterone replacement therapy at men's clinic. Did not use additional energy supplements during semaglutide cycle. Mentioned taking B12+CoQ10+D3 previously during TRT. End date approximately January 27, 2024.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698647Z"
+}

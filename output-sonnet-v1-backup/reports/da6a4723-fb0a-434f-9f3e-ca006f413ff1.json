@@ -1,0 +1,60 @@
+{
+  "id": "da6a4723-fb0a-434f-9f3e-ca006f413ff1",
+  "source_id": "1rwnrkp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwnrkp/obese_male_needs_advice/",
+  "author_hash": "7a7464749752f4bf03a40fa9dad04f3e516a0a83a1c7d08f5f89630835eca8cd",
+  "confidence_tier": 5,
+  "date_published": "2026-03-17T16:48:03-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 376,
+    "unit": "lbs"
+  },
+  "training_status": "lifting 3x a week plus cardio",
+  "health_conditions": [
+    "obesity",
+    "balding",
+    "low testosterone"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "clomid",
+      "name_normalized": "enclomiphene",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "anastrozole",
+      "name_normalized": "anastrozole",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Down from 419 lbs to 376 lbs (43 lbs lost)",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "46M, 5'11\", 376 lbs down from 419 lbs. On strict 1650 cal/174g protein diet. Goal is 3-5 lb fat loss/week with muscle recomp to ~179 lbs. Urologist prescribed clomid and anastrozole.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106998Z"
+}

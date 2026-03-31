@@ -1,0 +1,99 @@
+{
+  "id": "9e580859-ae7d-4341-ad99-c8eb68d93228",
+  "source_id": "1rum95a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rum95a/experiences_with_cjc1295ipamorelin_while_on/",
+  "author_hash": "62019fd499881daccbd302bbb432b6b806a468f1ec6ed3325ba62c92d9523313",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T11:51:32-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 230,
+    "unit": "lbs"
+  },
+  "training_status": "trained - BJJ, lift weights, blue collar job, 4-5 days/week training",
+  "health_conditions": [
+    "rotator cuff surgery recovery"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 98,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 98,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 98,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "recover really fast, can push intensity in workouts and next day soreness minimal",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "sleep has been good",
+      "severity": "moderate"
+    },
+    {
+      "category": "injury_healing",
+      "description": "recovering from rotator cuff surgery, can increase therapy intensity",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "NAD+ added recently gives extra energy",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "carried a few pounds of water weight consistently through cycle",
+      "severity": "mild"
+    },
+    {
+      "category": "appetite_change",
+      "description": "appetite increase while on CJC/Ipa with tirzepatide 6mg",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 129,
+      "value_after": 308,
+      "timeframe_days": 98
+    }
+  ],
+  "protocol_notes": "54M, 6'3\". Completed 14 week CJC-1295/Ipamorelin cycle. Plans to start Tesamorelin/Ipamorelin cycle in about 1 month for comparison. Also taking NAD+.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.663441Z"
+}

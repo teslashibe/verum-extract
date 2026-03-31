@@ -1,0 +1,50 @@
+{
+  "id": "b60daa3e-444b-4007-833c-b6a80a5fd375",
+  "source_id": "1rvpa2a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvpa2a/na_semax_dosage/",
+  "author_hash": "dd5cb38f07fcc14fcde87dece14d924eace5a5b2355be0738b0cb5e123fd0ef5",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T15:58:13-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Enhanced focus and cognitive effects; requires careful dosing to avoid overstimulation",
+      "onset_days": 3
+    },
+    {
+      "category": "mood",
+      "description": "Mood improvement"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "anxiety",
+      "description": "Irritability and overstimulation at higher doses; wired or edgy feeling",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Can interfere with sleep if taken late in day",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Recommended starting dose of 300mcg with dose titration based on tolerance. Run 4-6 weeks on, 1-2 weeks off to prevent tolerance. Morning dosing recommended. Effects typically noticeable within days.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.662763Z"
+}

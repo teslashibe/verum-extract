@@ -1,0 +1,42 @@
+{
+  "id": "7678a640-6ebe-40c9-85c8-199e30d85d4f",
+  "source_id": "1mbhbop",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mbhbop/do_your_research/",
+  "author_hash": "904c9ddd8f62d2013bc8c23f53cc63e1717af1ad8923ebccefe0ce9caa0ef079",
+  "confidence_tier": 4,
+  "date_published": "2025-07-28T07:14:25-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Barely felt like getting out of bed, felt awful, wanted to die, bedridden/very low energy for approximately a week",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 7
+    },
+    {
+      "category": "other",
+      "description": "Significant gastrointestinal distress - gas from both ends, uneasy stomach persisting for 7+ days",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "OP intended to take 0.50mg but accidentally administered 5mg as their very first dose due to confusion between units on syringe and mg. Used a 12mg vial reconstituted with 1.2mL BAC water. OP is planning to wait approximately one week before attempting a very small microdose. Confirmed accidental overdose due to misunderstanding of measurement conversions.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.277392Z"
+}

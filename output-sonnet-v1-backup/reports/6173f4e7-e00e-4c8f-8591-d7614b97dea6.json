@@ -1,0 +1,65 @@
+{
+  "id": "6173f4e7-e00e-4c8f-8591-d7614b97dea6",
+  "source_id": "1mfyf3p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mfyf3p/has_anyone_tried_epitalon/",
+  "author_hash": "9b808f5ee6593ddd1c693f14b50bf043d73734024577fc7a18c464a6dcb9c011",
+  "confidence_tier": 4,
+  "date_published": "2025-08-02T12:01:51-07:00",
+  "health_conditions": [
+    "Lyme disease",
+    "Long Covid"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mots-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Feels energized and alert",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "cognitive",
+      "description": "Memory feels sharper, vocabulary recall improved; was brain foggy before",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "sleep",
+      "description": "Dreams are more vivid; sleep not deeper but feels mostly well rested waking up",
+      "severity": "mild",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "First week of Epitalon at 300 mcg daily stacked with 1 mg SS-31 daily. Plans to run 100 day cycle of Epitalon to prime mitochondria before introducing Mots-c. Goal is more sustained energy to address Lyme and Long Covid symptoms.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.276762Z"
+}

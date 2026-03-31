@@ -1,0 +1,86 @@
+{
+  "id": "17c019be-1416-4ac2-986b-c1ee43f7b59d",
+  "source_id": "1lowms0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lowms0/tb500_and_bpc157_are_life_changing/",
+  "author_hash": "7c233e131023a1fc869b9f94caf505025b3ed3dad7f9395ced43493cb06f6a0a",
+  "confidence_tier": 4,
+  "date_published": "2025-07-01T01:48:56-07:00",
+  "reported_sex": "female",
+  "reported_weight": {
+    "value": 65,
+    "unit": "kg"
+  },
+  "training_status": "returning to gym after injury/illness, was previously active",
+  "health_conditions": [
+    "chronic left knee pain",
+    "history of significant injury and illness resulting in muscle loss",
+    "sleep issues"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "2x daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "2x daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Dramatically reduced DOMS from debilitating (4-5 days, unable to function) to minimal/absent after gym sessions",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "joint_pain",
+      "description": "Left knee pain much better and less bothersome while lifting",
+      "severity": "moderate",
+      "onset_days": 21
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Hit personal bests and able to lift ~10% heavier; improved gym performance",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "sleep",
+      "description": "Sleeping better since starting peptides",
+      "severity": "moderate",
+      "onset_days": 21
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "BPC stings before injection if needle cap not recapped and allowed to sit; possible increased sensitivity in stomach injection area from repeated injections",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Loading phase for 6 weeks then maintenance. Injecting 2x per day, 2x per week via subcutaneous stomach injections (5mg vials with 1ml bac water). Did not combine injections into one shot. Prior blood test ~1 year ago showed elevated testosterone (slightly higher than normal for females) and high iron levels. Plans to retest after cycle. Height 5'7\", target weight 65kg.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.405094Z"
+}

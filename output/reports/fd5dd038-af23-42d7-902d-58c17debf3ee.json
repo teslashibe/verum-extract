@@ -1,0 +1,69 @@
+{
+  "id": "fd5dd038-af23-42d7-902d-58c17debf3ee",
+  "source_id": "1mdymo0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mdymo0/where_can_i_optimize_full_stack_listed/",
+  "author_hash": "75d8bfbe01a3761ad7ea2b5f0d1804121c8cb33f700d1eadffd3ef2fb809b5d9",
+  "confidence_tier": 4,
+  "date_published": "2025-07-31T04:07:55-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 195,
+    "unit": "lbs"
+  },
+  "training_status": "weightlifting 5 days a week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "4x per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "frequency": "once a week",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 20 lbs from March to current (215 to 195 lbs)",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Continuing to build muscle while cutting fat",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Tirzepatide making it hard to eat enough protein",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Poor sleep quality despite stopping benzodiazepines",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Started TRT in March 2025 at 50mg/week (200mg split 4x weekly). Started Tirzepatide in June 2025, currently at 7.5mg weekly. Extensive supplement stack including multivitamins, magnesium, vitamin D, B vitamins, L-theanine, L-tyrosine, amino acids, Cialis 5mg daily, Reishi, Lions Mane, Ashwagandha, ALA, NAC, zinc, L-arginine, fish oil, creatine, DIM, milk thistle, and pre/probiotics. Diet: 100-125g protein daily, low carb, no processed foods. User is impatient with progress despite acknowledging good direction. Takes Adderall as needed. Stopped benzodiazepines on psychiatrist recommendation.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.402588Z"
+}

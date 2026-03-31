@@ -1,0 +1,44 @@
+{
+  "id": "7815deda-97c6-4929-a698-ae8aa882d999",
+  "source_id": "1r4qcvt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r4qcvt/glow_peptide_and_nad/",
+  "author_hash": "7b03139396b65c14350a029f60fea7fbaf9847ed984613b33ccc4bc870536962",
+  "confidence_tier": 5,
+  "date_published": "2026-02-14T09:23:47-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Glow peptide",
+      "name_normalized": "glow_peptide",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Developed hard lumps at injection sites on stomach, creating a rippled/dimpled effect. About 5 hard lumps persisting over a month after rotating away from stomach site.",
+      "severity": "moderate",
+      "resolved": false
+    },
+    {
+      "category": "other",
+      "description": "Stinging/spicy sensation at injection sites on stomach and buttock",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "OP has been on peptides for approximately one month. Rotated injection sites from stomach to butt cheek due to lumps. States they have never injected the same spot twice. Notes low skin elasticity in stomach area. Has not noticed subjective benefits from either peptide.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.118203Z"
+}

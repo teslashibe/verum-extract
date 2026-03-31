@@ -1,0 +1,50 @@
+{
+  "id": "edf2d319-d98a-4ff8-8b74-70779d95d0ba",
+  "source_id": "1s3p6qw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3p6qw/anhedonia_from_bpc157_at_lower_dosages/",
+  "author_hash": "0f12258159c2cf3433e65c47975293a1665a96d7fcae513adb9e0f7ac6ed0747",
+  "confidence_tier": 5,
+  "date_published": "2026-03-25T15:15:12-07:00",
+  "health_conditions": [
+    "anxiety"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "Selank helps with anxiety",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Anhedonia / feeling blah, hard to pinpoint cause as using 6 other peptides and also taking edibles nightly",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Using 6 peptides total. Started all peptides around the same time. Also uses cannabis edibles nightly, making it difficult to isolate cause of anhedonia. Recently upped selank dose hoping it helps.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104304Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "8c0953d8-dbd4-465c-831f-7301ed1fb6f1",
+  "source_id": "1af4vjf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1af4vjf/taking_glp1_tirz_seems_to_not_be_working_after_1/",
+  "author_hash": "26f29c8c45edec1e8222c006a7496bb88d7508bc6a708ed7f3ae867e1c274308",
+  "confidence_tier": 4,
+  "date_published": "2024-01-30T16:59:04-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 260,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "obesity (initial)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "frequency": "weekly (eventually)",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost approximately 15 lbs in first month (water weight + fat loss), then steadily lost 10 lbs per month thereafter until reaching approximately 190 lbs, then slowed. Currently stalled at 165 lbs with BMI 22-23",
+      "severity": "significant",
+      "onset_days": 30
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "BMI",
+      "value_before": 38,
+      "value_after": 22.5
+    }
+  ],
+  "protocol_notes": "User reports initial BMI of 38 at weight 260 lbs. Progressive titration: 5mg → 7.5mg → 10mg → 12.5mg, advancing monthly initially (user notes this may have been too aggressive). Eventually reached stall at 165 lbs (BMI 22-23). Discovered through measurements that has medium-to-small frame, not large frame as assumed during obesity. User advises others to titrate more slowly and wait until genuinely stalled before dose increases. Maxed out at 15mg. Notes concern about GLP-1 resistance if pushed too hard too quickly.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.699211Z"
+}

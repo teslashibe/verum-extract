@@ -1,0 +1,44 @@
+{
+  "id": "e193a220-7657-42bf-82e8-2a1b3bc64a34",
+  "source_id": "1bpsf65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bpsf65/semaglutide_is_amazing/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2024-03-28T03:39:16-07:00",
+  "health_conditions": [
+    "binge eating disorder",
+    "rapid weight gain"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "No cravings for sweets/fast food, fuller for longer between meals, no food noise, satisfied with regular portions, cut servings in half, eating more slowly",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "A little fatigue and tiredness",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "2 weeks into protocol at 0.25mg per week. Describes history of binge eating and rapid weight gain from junk food and sweets.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294028Z"
+}

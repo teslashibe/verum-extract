@@ -1,0 +1,84 @@
+{
+  "id": "6d37db91-c7f8-46c0-8774-8ae91e9c7a75",
+  "source_id": "1kpkzto",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kpkzto/different_protocols_and_cycles_noted_down_for_you/",
+  "author_hash": "40255abdade3cfac2d8efe3890de8c18ab73f69496f3114225da13af1b088189",
+  "confidence_tier": 4,
+  "date_published": "2025-05-18T07:16:23-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Semaglutide: way less hunger and food noise",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Semaglutide: lost more weight at 0.75mg/week",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Retatrutide: may be better for body recomp",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Retatrutide: doesn't shut hunger down as much as Semaglutide",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User reports 7 months of continuous use across three compounds. Stacked Tirzepatide 2mg and Retatrutide 2mg for 2 weeks. Planning to dose Retatrutide at 6mg split between 2 days/week or 1mg daily. Prefers Semaglutide for appetite suppression over both Tirzepatide and Retatrutide.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.69101Z"
+}

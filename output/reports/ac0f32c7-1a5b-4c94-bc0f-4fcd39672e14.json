@@ -1,0 +1,41 @@
+{
+  "id": "ac0f32c7-1a5b-4c94-bc0f-4fcd39672e14",
+  "source_id": "t1xmac",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/t1xmac/a_cautionary_tale/",
+  "author_hash": "bd5b9ccaf3065672e42b6f49c4b389c61884a644f040998fb61b481fcecf3532",
+  "confidence_tier": 4,
+  "date_published": "2022-02-26T05:54:54-08:00",
+  "reported_sex": "male",
+  "training_status": "advanced bodybuilder",
+  "health_conditions": [
+    "stage 5 kidney failure"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "FTTP",
+      "name_normalized": "thymulin",
+      "category": "immune",
+      "route": "intramuscular",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "kidney damage",
+      "description": "Stage 5 kidney failure attributed to FTTP use at 5mg daily for approximately one month",
+      "severity": "significant",
+      "onset_days": 30
+    }
+  ],
+  "protocol_notes": "Bostin Loyd was known for extreme dosages. Also concurrently using 1g testosterone and 1g primobolan. No human studies existed for this peptide at the time; arbitrarily used 1 bottle per day despite known acute kidney injury in animal trials. Deceased at age 29.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.702334Z"
+}

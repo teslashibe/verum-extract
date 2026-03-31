@@ -1,0 +1,44 @@
+{
+  "id": "9c8737e5-f72c-4378-bc76-ef8ee51fe18f",
+  "source_id": "1qpzv81",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qpzv81/ghkcu_flakes_in_vial/",
+  "author_hash": "20f6579e5679263ba0a69265480b739bff94addacf453635649e105f82e88a6e",
+  "confidence_tier": 4,
+  "date_published": "2026-01-28T21:28:38-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "GHK-Cu vial developed visible flakes/particles after reconstitution with vendor bacteriostatic water",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Tesamorelin turned into gel after reconstitution with same vendor's bacteriostatic water",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Used vendor-supplied bacteriostatic water (3ml vial that was under volume) to reconstitute GHK-Cu and Tesamorelin. Experienced contamination issues with vendor's bac water. Switched to Hospira bacteriostatic water for subsequent reconstitution with clean results. Discarded contaminated vials. Changed vendors.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669562Z"
+}

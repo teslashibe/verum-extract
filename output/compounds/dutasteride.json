@@ -1,0 +1,52 @@
+{
+  "compound_id": "dutasteride",
+  "display_name": "Dutasteride",
+  "category": "other",
+  "total_reports": 4,
+  "reports_by_tier": {
+    "4": 2,
+    "5": 2
+  },
+  "top_benefits": null,
+  "top_side_effects": [
+    {
+      "category": "mood_change",
+      "count": 1,
+      "pct": 50,
+      "avg_severity": 3
+    },
+    {
+      "category": "libido_change",
+      "count": 1,
+      "pct": 50,
+      "avg_severity": 3
+    }
+  ],
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "tadalafil",
+      "display_name": "Tadalafil",
+      "report_count": 2
+    },
+    {
+      "compound_id": "finasteride",
+      "display_name": "Finasteride",
+      "report_count": 2
+    },
+    {
+      "compound_id": "minoxidil",
+      "display_name": "Minoxidil",
+      "report_count": 2
+    }
+  ],
+  "avg_sentiment_score": 0.25,
+  "sentiment_breakdown": {
+    "positive": 0,
+    "mixed": 1,
+    "negative": 1,
+    "neutral": 2
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T04:48:57.356195Z"
+}

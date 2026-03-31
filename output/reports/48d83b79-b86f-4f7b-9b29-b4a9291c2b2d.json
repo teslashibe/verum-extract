@@ -1,0 +1,57 @@
+{
+  "id": "48d83b79-b86f-4f7b-9b29-b4a9291c2b2d",
+  "source_id": "1oa2qdq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oa2qdq/the_switch_from_tirz_to_reta/",
+  "author_hash": "b439b9847db404ca2aadfa40f8ed29dba58a706e0d97f2abd31984db02224eb1",
+  "confidence_tier": 4,
+  "date_published": "2025-10-18T11:05:49-07:00",
+  "training_status": "lifts heavy and trains a lot",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "cycle_length_days": 240,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Gut benefits from tirzepatide"
+    },
+    {
+      "category": "inflammation",
+      "description": "Anti-inflammatory benefits from tirzepatide"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Lack of food noise on tirzepatide"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Seeking fat burning benefit from retatrutide for body recomposition"
+    }
+  ],
+  "protocol_notes": "Currently on HRT. Planning to switch from tirzepatide 2.5mg (8 months duration) to retatrutide. Seeking guidance on best transition protocol. Goal is body recomposition rather than weight loss.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.6792Z"
+}

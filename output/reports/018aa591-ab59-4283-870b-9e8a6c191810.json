@@ -1,0 +1,43 @@
+{
+  "id": "018aa591-ab59-4283-870b-9e8a6c191810",
+  "source_id": "1rbvmmm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rbvmmm/tesamorelin_histamine_reaction_anyone/",
+  "author_hash": "a5b40a23a6ea431b3935a09affe07ac1f85b59a2733d65f85d356c96d69cab9c",
+  "confidence_tier": 4,
+  "date_published": "2026-02-22T11:51:40-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Swelling and itching from tesamorelin, started around week 4 and progressed",
+      "severity": "moderate",
+      "onset_days": 28
+    }
+  ],
+  "protocol_notes": "Wife experienced tesamorelin histamine reaction without heart rate increase. Switched to CJC. Ipamorelin causes no issues for her.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.67345Z"
+}

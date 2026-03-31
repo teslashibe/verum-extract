@@ -1,0 +1,66 @@
+{
+  "id": "010f0fc7-bd48-4405-86bc-affc5846179b",
+  "source_id": "1jkuet4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jkuet4/is_my_liver_fucked_chat_lol/",
+  "author_hash": "1323956be0eb844452b72c66f28aaa92a8a08b6f9e0a26603b81fef19ada6fc2",
+  "confidence_tier": 4,
+  "date_published": "2025-03-26T20:06:03-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "reported_weight": {
+    "value": 195,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "fatty liver disease",
+    "enlarged spleen"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "elevated liver enzymes (ALT, AST), elevated alkaline phosphatase, elevated GGT, low HDL, elevated triglycerides, elevated CRP",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "ALT"
+    },
+    {
+      "marker_name": "AST"
+    },
+    {
+      "marker_name": "Alkaline Phosphatase",
+      "value_after": 152
+    },
+    {
+      "marker_name": "GGT"
+    },
+    {
+      "marker_name": "CRP",
+      "value_after": 1.2
+    },
+    {
+      "marker_name": "HDL"
+    },
+    {
+      "marker_name": "Triglycerides"
+    }
+  ],
+  "protocol_notes": "User took semaglutide for 3 months, discontinued 3 months prior to bloodwork. Off-cycle for 3 months at time of testing. User is 5'6\" tall. Ultrasound confirmed fatty liver disease and enlarged spleen.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.693192Z"
+}

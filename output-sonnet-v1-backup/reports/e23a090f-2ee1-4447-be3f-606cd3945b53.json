@@ -1,0 +1,41 @@
+{
+  "id": "e23a090f-2ee1-4447-be3f-606cd3945b53",
+  "source_id": "1r4qcvt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r4qcvt/glow_peptide_and_nad/",
+  "author_hash": "7a090966c3e3620d39e73f9dab67f8323a9b0633c92c2f6adc343748fe09f250",
+  "confidence_tier": 5,
+  "date_published": "2026-02-14T09:23:47-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Glow",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "klow",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Glow caused lumps and stinging at injection site; switching to glutes resolved sting and lumps. Was also pinning klow and other compounds daily.",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Was injecting multiple compounds including Glow and klow daily. Recommends rotating sites by at least 2 cm and not injecting too much liquid in one site. Switched to glutes to avoid lumps and sting.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.118203Z"
+}

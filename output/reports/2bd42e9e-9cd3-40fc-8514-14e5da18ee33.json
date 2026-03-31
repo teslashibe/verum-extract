@@ -1,0 +1,53 @@
+{
+  "id": "2bd42e9e-9cd3-40fc-8514-14e5da18ee33",
+  "source_id": "1rq8pi1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rq8pi1/what_do_i_need/",
+  "author_hash": "429c5858552bba3ea01f325c564a5109e80e93bc7e0192adbab1c2fb8959337a",
+  "confidence_tier": 5,
+  "date_published": "2026-03-10T13:38:19-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "TB-500/BPC-157 stack for general recovery",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "Recommends blood test for IGF-1 levels as baseline before starting CJC-1295/Ipamorelin. Also recommends regular blood tests to track overall health markers.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.653958Z"
+}

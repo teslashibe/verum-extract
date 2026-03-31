@@ -1,0 +1,43 @@
+{
+  "id": "08be953c-885e-44cb-bc72-2278c8eea047",
+  "source_id": "1s6kkaw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6kkaw/how_long_is_this_sustainable/",
+  "author_hash": "3e6a74a22e7272bb3f218dbe74526800300ae70e02f86be6db3ff057e7ca72ca",
+  "confidence_tier": 4,
+  "date_published": "2026-03-28T20:33:19-07:00",
+  "reported_weight": {
+    "value": 245,
+    "unit": "lbs"
+  },
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped from 245 to 225 lbs in approximately one month, then stalled weeks 5-7, recovered after carb loading and lost additional 5 lbs the following week",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Felt like shit during weeks 5-7; glycogen depletion from insufficient carb intake",
+      "severity": "moderate",
+      "onset_days": 35,
+      "resolved": true,
+      "resolution_days": 28
+    }
+  ],
+  "protocol_notes": "Weight stalled weeks 5-7 due to glycogen depletion from low carb intake. Carb loaded for 3-4 days, scale went up 2 lbs, felt better, then the extra 2 lbs were gone the following week plus an additional 5 lbs lost. Emphasizes electrolytes, sodium, and listening to your body.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.103371Z"
+}

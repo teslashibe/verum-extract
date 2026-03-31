@@ -1,0 +1,57 @@
+{
+  "id": "04d95df0-01a2-4a6f-970c-0d93149f8959",
+  "source_id": "1g5hs6m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1g5hs6m/what_are_some_things_you_wish_you_knew_before/",
+  "author_hash": "8113be980046dc0994da53edb29760722f59b93b0146e80998f6603b7161b0fe",
+  "confidence_tier": 4,
+  "date_published": "2024-10-16T20:30:44-07:00",
+  "training_status": "weightlifter",
+  "health_conditions": [
+    "hamstring/glute strain",
+    "partial rotator cuff tear"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Hamstring/glute strain from 1rm deadlift attempt resolved within 1 month; could not sit on toilet without extreme pain, completely gone after treatment",
+      "severity": "significant",
+      "onset_days": 30
+    },
+    {
+      "category": "injury_healing",
+      "description": "Partial rotator cuff tear rehabbed successfully with stack and mobility work, avoiding need for surgery",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Wolverine stack. Protocol: lower dose for 6-8 weeks, then 2-3 week break. Used concurrently with weekly mobility coach for tissue work and challenging movements. User has 2 children under 3 and avoided rotator cuff surgery with this approach.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.413053Z"
+}

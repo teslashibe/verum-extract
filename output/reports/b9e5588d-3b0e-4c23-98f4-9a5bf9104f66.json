@@ -1,0 +1,35 @@
+{
+  "id": "b9e5588d-3b0e-4c23-98f4-9a5bf9104f66",
+  "source_id": "1qvm4dq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qvm4dq/taking_klow_tips_to_make_it_not_hurt/",
+  "author_hash": "2ca3422cb5ca3c86607de27aacea9d26067977c86c7ad284e9dd92c877c17c50",
+  "confidence_tier": 5,
+  "date_published": "2026-02-04T03:30:20-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Stinging sensation on injection",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Injection site stinging resolved after one week of use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.680145Z"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "f814296d-00c1-4f31-b351-d0c8d6f695ec",
+  "source_id": "17ge9m5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17ge9m5/semaglutide_dose_question/",
+  "author_hash": "147f29e5b9802e26097f0ae39d411e268b7aa546e28b11dca226facd2fa165ef",
+  "confidence_tier": 4,
+  "date_published": "2023-10-25T13:29:56-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 75 pounds on tirzepatide",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Exhaustion on tirzepatide",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_change",
+      "description": "Hunger creeping back in on day 3 or 4 of tirzepatide dosing cycle",
+      "severity": "moderate",
+      "onset_days": 3
+    },
+    {
+      "category": "nausea",
+      "description": "Nausea on tirzepatide, resolved after switching to retatrutide",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Switched from tirzepatide to retatrutide due to exhaustion and appetite suppression wearing off by day 3-4. Reports no exhaustion or nausea on day 2 of retatrutide. Used tirzepatide for 75 pound weight loss, hoping glucagon inhibitor in retatrutide helps with remaining 30 pounds.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.700232Z"
+}

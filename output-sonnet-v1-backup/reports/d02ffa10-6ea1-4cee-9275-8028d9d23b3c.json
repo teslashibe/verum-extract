@@ -1,0 +1,66 @@
+{
+  "id": "d02ffa10-6ea1-4cee-9275-8028d9d23b3c",
+  "source_id": "1qc12en",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qc12en/just_want_to_share_my_experience_peptide/",
+  "author_hash": "ec4dcd817ae0bd14d65e9f0ba4b41c613b2ece548ddc77eb243af03bbf83d68c",
+  "confidence_tier": 4,
+  "date_published": "2026-01-13T11:40:50-08:00",
+  "reported_weight": {
+    "value": 268,
+    "unit": "lbs"
+  },
+  "training_status": "physical job with constant lifting 40-60 lbs hundreds of times daily, 20-28k steps per day, 70+ hours 6 days a week; no formal gym workouts",
+  "health_conditions": [
+    "poor rest/sleep due to work schedule"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 37 lbs (268 to 231 lbs) from August 12, 2025 to January 13, 2026 (~154 days)",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression, no longer binge eating, no longer craving sugar or alcohol",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Improved health markers",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "No longer wanting to drink alcohol",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Previously took Tirzepatide alone; now on Retatrutide stacked with small dose Semaglutide for prolonged appetite suppression. Results better than Tirzepatide alone. Started at 268 lbs on August 12, 2025; down to 231 lbs by January 13, 2026.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.125002Z"
+}

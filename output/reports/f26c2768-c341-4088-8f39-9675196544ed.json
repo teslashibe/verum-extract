@@ -1,0 +1,55 @@
+{
+  "id": "f26c2768-c341-4088-8f39-9675196544ed",
+  "source_id": "1qcumm0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qcumm0/cymbalta_blocks_glp1s/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-01-14T10:10:10-08:00",
+  "health_conditions": [
+    "depression"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 1095,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Initial 40 lbs weight loss, maintained on lower dose for 3 years",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Strong appetite suppression for 3 years",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Appetite suppression completely lost after Cymbalta introduction; eating more than usual despite doubling Retatrutide dose",
+      "severity": "significant",
+      "onset_days": 90,
+      "resolved": false
+    },
+    {
+      "category": "weight_change",
+      "description": "+7 pounds gained in 3 months after Cymbalta introduction, still climbing",
+      "severity": "significant",
+      "onset_days": 90,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "On Cymbalta (antidepressant) for 3 months. Initially lost 40 lbs over 3 years, then doubled Retatrutide dose without effect after Cymbalta started. Suspects drug-drug interaction.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.671153Z"
+}

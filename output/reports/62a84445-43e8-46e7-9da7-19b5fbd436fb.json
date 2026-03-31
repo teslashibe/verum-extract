@@ -1,0 +1,46 @@
+{
+  "id": "62a84445-43e8-46e7-9da7-19b5fbd436fb",
+  "source_id": "1fc20k7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fc20k7/tesaipa_amazing_benefits_after_1_week/",
+  "author_hash": "46592ab4d98ebba40b8bc5bd228c9a7bb3d8449466af10f0289b81adfc852498",
+  "confidence_tier": 4,
+  "date_published": "2024-09-08T09:36:29-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "5 days on / 2 days off",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "good results with Tesa/Ipa stack",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Ran Tesamorelin/Ipamorelin 1.0mg/150mcg for 3 months (90 days) on 5 days on/2 days off schedule. Reports good results. Notes that secretagogues like Tesa/Ipa/Ser will only allow body to release max GH naturally, so older individuals may have diminishing returns compared to exogenous GH. Recommends finding valid source with testing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.413794Z"
+}

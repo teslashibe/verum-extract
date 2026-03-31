@@ -1,0 +1,48 @@
+{
+  "id": "d065a1d3-2148-454f-ace4-e5315c02ab8e",
+  "source_id": "1ri9ltj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ri9ltj/peptides_with_a_moderately_safe_track_record_for/",
+  "author_hash": "58be5da1900e739f6dd8f7cfd3001dd18f138d4060d4c8405598ca3721883f48",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T13:25:39-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Methylene Blue",
+      "name_normalized": "methylene_blue",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Brain fog gone after a day on Methylene Blue",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "energy",
+      "description": "Huge difference in energy noticed just after a couple days on Methylene Blue",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "energy",
+      "description": "Reta also helping with energy/fatigue symptoms",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Stacking Methylene Blue and Reta; advises DYOR before taking MB",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.113302Z"
+}

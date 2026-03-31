@@ -1,0 +1,48 @@
+{
+  "id": "97c99ac8-7af7-457c-8028-116bbfffb740",
+  "source_id": "1pyrf9t",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pyrf9t/mom_putting_me_on_peptides/",
+  "author_hash": "c54c6deff3a47cdf857c131bb28087c1c3b08434eec48a59941a284f17299907",
+  "confidence_tier": 4,
+  "date_published": "2025-12-29T08:55:34-08:00",
+  "health_conditions": [
+    "chronic illness",
+    "mitochondrial issues"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ss31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ta1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Both SS31 and TA1 really help with chronic illness management",
+      "severity": "significant"
+    },
+    {
+      "category": "immune",
+      "description": "TA1 is great for immunity issues"
+    }
+  ],
+  "protocol_notes": "Chronically ill user taking ss31 and ta1 daily. Notes ss31 requires 10mg daily for mitochondrial treatment and recommends mitochondria functioning tests first. States ss31 will do nothing for those under 40 without mito issues. Reports no interference with Prozac.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.25789Z"
+}

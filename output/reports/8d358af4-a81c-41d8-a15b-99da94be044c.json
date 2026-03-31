@@ -1,0 +1,43 @@
+{
+  "id": "8d358af4-a81c-41d8-a15b-99da94be044c",
+  "source_id": "1rsffnd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rsffnd/night_shift_work_new/",
+  "author_hash": "fc89164405ac75d88767cb4122b7b53dd8673aa2857e2e493339b1ed09a14e0d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T23:07:11-07:00",
+  "training_status": "shift work",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Retatrutide raises metabolism causing sleep disruption during daytime sleep on shift work. Mid-night blood sugar drop and cortisol spike causes waking and inability to stay asleep.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "On Retatrutide protocol. Carbs before bed help somewhat with blood sugar/cortisol issues but limited success. Deep sleep is not the issue—staying asleep is. Recently reconstituted DSIP. Planning to try glutathione.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.58,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.664749Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "1bbf9c38-8cb2-4f83-b7c9-d86234c113c7",
+  "source_id": "1k3n65z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k3n65z/bpc157_side_effects/",
+  "author_hash": "3ed65003e66d815065f1f0ccb1837a16cdad2835429c0d622d1542c5a0f59e81",
+  "confidence_tier": 4,
+  "date_published": "2025-04-20T07:00:05-07:00",
+  "health_conditions": [
+    "gut issues"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Initial improvements",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Very thin stools",
+      "severity": "significant",
+      "onset_days": 14,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Former BPC-157 user. Experienced positive effects first couple weeks, then deterioration. Discontinued due to stool changes which normalized after stopping.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.692325Z"
+}

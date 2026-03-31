@@ -1,0 +1,72 @@
+{
+  "id": "755bdd9f-8c53-4832-9b0f-dd8d924aa14c",
+  "source_id": "1k9ghnu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k9ghnu/healed_necrotic_wound_scar/",
+  "author_hash": "2fc109ad47351be75a8f580e33b05c0d9f72ddd3363fd09434453e2d2cc5f1b4",
+  "confidence_tier": 4,
+  "date_published": "2025-04-27T15:35:20-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "necrotic wound",
+    "surgical scar (tummy tuck)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Scar indentions filled in, skin strength improved at wound site",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Scar tissue became stronger and stopped reopening",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Small bubbles formed at intradermal injection site, then absorbed",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "skin_reaction",
+      "description": "Scabbing from needle tracks crossing wound area",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Tummy tuck surgery November 21 with necrosis onset 3 days post-op; wound closure achieved approximately 5 months later. User attempting intradermal (between skin layers) injection of GHK-Cu to concentrate peptides locally near scar tissue rather than systemic distribution. Ipamorelin, TB-500, and BPC-157 used concurrently for wound healing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.408944Z"
+}

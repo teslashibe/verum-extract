@@ -1,0 +1,66 @@
+{
+  "id": "e25c4fcf-51e9-4ecd-92ca-10afc04763eb",
+  "source_id": "1r01t37",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r01t37/new_to_peptides_looking_for_feedback_on_bpc157/",
+  "author_hash": "fcfc6e54c60d560f1cc823360db50eb570246da623253fea7c942762498c3ba9",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T03:29:50-08:00",
+  "health_conditions": [
+    "chronic patellar tendinitis"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Increased activity at injection site, believed to be initial response to peptides",
+      "severity": "mild",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Increased inflammation or activity in patella",
+      "severity": "mild",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Originally started at 1 mg BPC daily, then tapered to 500 mcg after feedback. Injecting BPC/TB subcutaneously above the knee, GHK-Cu subcutaneously into abdomen. Logging pain daily using 1-10 scale. Concurrent rehabbing for ~12-18 months prior without significant progress.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.678457Z"
+}

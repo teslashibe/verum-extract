@@ -1,0 +1,45 @@
+{
+  "id": "2cb3f1da-c7d6-4346-b123-a351ded51ce9",
+  "source_id": "1rcl5y0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rcl5y0/motsc/",
+  "author_hash": "fc145a917fbe42e0f45d30ec901cdf83c0387a02104b569910a3679824e1c641",
+  "confidence_tier": 4,
+  "date_published": "2026-02-23T07:55:02-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "mots-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "ss-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "MOTS-C works great for user (general positive effect noted)",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "blood glucose level",
+      "timeframe_days": 14
+    }
+  ],
+  "protocol_notes": "User wore a CGM for 2 weeks while taking 5 mg MOTS-C; reported no significant change in blood glucose levels (neither high nor low). Plans to try SS-31 soon.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.115579Z"
+}

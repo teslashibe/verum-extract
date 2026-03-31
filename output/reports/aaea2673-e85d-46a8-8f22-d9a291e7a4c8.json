@@ -1,0 +1,75 @@
+{
+  "id": "aaea2673-e85d-46a8-8f22-d9a291e7a4c8",
+  "source_id": "1qeh9rd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qeh9rd/best_growth_hormone_peptide_to_pair_with/",
+  "author_hash": "d19de10b10599e2889a379f4b803b37ded95089f658b7a3083b0222c31940503",
+  "confidence_tier": 4,
+  "date_published": "2026-01-16T06:23:03-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "evening fasted before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "morning fasted and evening fasted",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "once before bed",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Ran with Reta to cut visceral fat",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Muscle retention during cut",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "Sleep improved with HGH; felt great with tesa/ipa blend",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Little water retention when went up to 2mg tesa; dropped water weight in a couple days after cycle ended",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 2
+    }
+  ],
+  "protocol_notes": "Ran tesa/ipa before switching to HGH. Ipa morning fasted, tesa/ipa evening fasted before bed. Main complaint with tesa/ipa was multiple pins. Struggled with evening fasting due to Reta delayed gastric emptying. With HGH, one pin before bed. Prefers HGH route - cheaper and less pinning. Still too soon to see benefits from HGH other than sleep.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.67095Z"
+}

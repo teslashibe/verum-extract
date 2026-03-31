@@ -1,0 +1,56 @@
+{
+  "id": "118d9aae-6cf6-4cf3-9541-841c5fee6698",
+  "source_id": "1mrif03",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mrif03/going_from_tirz_to_reta/",
+  "author_hash": "7b88432ddfb4fea1fdc465e6c4602e9eddcf95641cb0069c83d9ce6a2ed63df6",
+  "confidence_tier": 4,
+  "date_published": "2025-08-15T19:40:45-07:00",
+  "training_status": "Weight training 6 days per week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 6.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "split into 2 doses",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Feels full after eating less on Reta",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Can still snack excessively despite feeling full after meals; no hunger suppression in first week on Reta",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Bloating issues on Reta",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Was on 5-7.5mg Tirz before switching to Reta. Used Tirz first week of switch because Reta had no appetite suppression. Now on week 3 of Reta: started at 2mg (split), now at 4mg (split). Has not used Tirz since first week but considering adding 1mg back. Mixed feelings overall. High protein needs due to weight training.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.74,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.275341Z"
+}

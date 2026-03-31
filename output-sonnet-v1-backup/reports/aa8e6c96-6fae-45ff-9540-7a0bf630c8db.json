@@ -1,0 +1,64 @@
+{
+  "id": "aa8e6c96-6fae-45ff-9540-7a0bf630c8db",
+  "source_id": "1s3jnju",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3jnju/kisspeptin_vs_hcg_vs_trt/",
+  "author_hash": "2fdf69b27d1987ebe45e94255f8190a2f9d0681a44e9054eca97f9fffb61246c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T11:52:27-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "test cyp",
+      "name_normalized": "test_cyp",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 150,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "route": "subcutaneous",
+      "dose_value": 30,
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Maintained fertility while on TRT + HCG stack; wife conceived twice",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Massive benefits from constantly stable testosterone levels on TRT",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Elevated estradiol levels while on HCG; led to cutting HCG",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "total testosterone",
+      "value_after": 1400,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "Ran TRT + HCG stack for fertility; stopped test for ~1 month prior to conception attempt but continued HCG. Total T came back at 1400 a few months later, prompting dose reduction to 120mg/week and eventual discontinuation of HCG due to high estradiol. HCG dose stated as 30 units per shot 3x weekly; exact mcg equivalent not recalled.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104407Z"
+}

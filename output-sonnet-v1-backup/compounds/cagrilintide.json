@@ -1,0 +1,148 @@
+{
+  "compound_id": "cagrilintide",
+  "display_name": "Cagrilintide",
+  "category": "body_composition",
+  "total_reports": 20,
+  "reports_by_tier": {
+    "4": 14,
+    "5": 6
+  },
+  "top_benefits": [
+    {
+      "category": "appetite_suppression",
+      "count": 11,
+      "pct": 78.6
+    },
+    {
+      "category": "fat_loss",
+      "count": 3,
+      "pct": 21.4
+    },
+    {
+      "category": "energy",
+      "count": 2,
+      "pct": 14.3
+    },
+    {
+      "category": "injury_healing",
+      "count": 1,
+      "pct": 7.1
+    },
+    {
+      "category": "sleep",
+      "count": 1,
+      "pct": 7.1
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "appetite_change",
+      "count": 3,
+      "pct": 21.4,
+      "avg_severity": 2.7
+    },
+    {
+      "category": "fatigue",
+      "count": 2,
+      "pct": 14.3,
+      "avg_severity": 3
+    },
+    {
+      "category": "water_retention",
+      "count": 1,
+      "pct": 7.1,
+      "avg_severity": 1
+    },
+    {
+      "category": "sleep_disruption",
+      "count": 1,
+      "pct": 7.1,
+      "avg_severity": 2
+    },
+    {
+      "category": "energy",
+      "count": 1,
+      "pct": 7.1,
+      "avg_severity": 3
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 1,
+      "unit": "mg",
+      "frequency": "",
+      "count": 3,
+      "pct": 15
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 0.5,
+      "unit": "mg",
+      "frequency": "",
+      "count": 3,
+      "pct": 15
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 1,
+      "unit": "mg",
+      "frequency": "weekly",
+      "count": 2,
+      "pct": 10
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 0.25,
+      "unit": "mg",
+      "frequency": "",
+      "count": 1,
+      "pct": 5
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 1.5,
+      "unit": "mg",
+      "frequency": "weekly",
+      "count": 1,
+      "pct": 5
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Reta",
+      "report_count": 8
+    },
+    {
+      "compound_id": "tirzepatide",
+      "display_name": "Tirzepatide",
+      "report_count": 4
+    },
+    {
+      "compound_id": "mots_c",
+      "display_name": "MOTS-C",
+      "report_count": 2
+    },
+    {
+      "compound_id": "tesamorelin",
+      "display_name": "Tesamorelin",
+      "report_count": 2
+    },
+    {
+      "compound_id": "klow",
+      "display_name": "KLOW80",
+      "report_count": 1
+    }
+  ],
+  "avg_cycle_length_days": 51,
+  "avg_sentiment_score": 0.65,
+  "sentiment_breakdown": {
+    "positive": 9,
+    "mixed": 5,
+    "negative": 0,
+    "neutral": 6
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.969305Z"
+}

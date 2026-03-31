@@ -1,0 +1,45 @@
+{
+  "id": "5ba2cea1-8c6c-4e27-a404-e8da9f37b539",
+  "source_id": "1ivfcak",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ivfcak/tirzepatide_review_works_way_too_damn_well/",
+  "author_hash": "f19d81e74aa2c4aaf9f8a334c26be8503515297bb6b5466d39153c0dfb44c973",
+  "confidence_tier": 5,
+  "date_published": "2025-02-22T01:50:04-08:00",
+  "health_conditions": [
+    "obesity (needs to lose ~80 lbs total)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Down 40 lbs total; self-describes as a 'low responder'; slow progress initially on Sema then Tirz, improved as dose increased; now stacking with Reta",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Self-described 'low responder'. Started on Sema, switched to Tirz, now stacking Tirz with Reta. Expects to be on medication for years. Judges progress by fat percentage rather than weight. Needs to lose another ~40 lbs.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.287715Z"
+}

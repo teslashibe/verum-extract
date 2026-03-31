@@ -1,0 +1,59 @@
+{
+  "id": "346e3c81-c98f-4589-9bfc-067511d20ae4",
+  "source_id": "1s3yfim",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3yfim/first_time_glp_user_tirzepatide_vs_retatrutide/",
+  "author_hash": "fcb01fd88b60dec2bfaebdc5cce324d4d8d5f429420001a6e8974738d2964d00",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T22:07:06-07:00",
+  "reported_weight": {
+    "value": 284,
+    "unit": "lbs"
+  },
+  "training_status": "lifting, includes bench press",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "cycle_length_days": 133,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 34 lbs (284 to 250 lbs) over 19 weeks",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Strong hunger suppression on tirzepatide",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Minimal nausea waves lasting about 10 minutes, occasional",
+      "severity": "mild"
+    },
+    {
+      "category": "other",
+      "description": "Constipation noted as a side effect"
+    },
+    {
+      "category": "other",
+      "description": "Muscle and strength loss; lost 30 lbs off incline bench press",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "19 weeks on Tirzepatide, currently at 6mg. Started at 2.5mg and stayed there for 7 weeks until food noise returned and weight stalled before titrating up. Now on TRT. Currently 250 lbs from starting weight of 284 lbs.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104198Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "5990c5cd-1b7f-41e7-ac62-a4d95d36ccae",
+  "source_id": "1l7e7f3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1l7e7f3/i_had_a_severe_mast_cell_reaction_to_sermorelin/",
+  "author_hash": "eea2d10f22d25045463ddef44262c81cd7e844e862253149cb23b576322a83ad",
+  "confidence_tier": 4,
+  "date_published": "2025-06-09T12:37:03-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC/IPA",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "route": "subcutaneous",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Allergic reaction after 2+ months of first sermorelin run; not as severe as OP but described as bad and scary. Repeated allergic reaction after ~8 weeks of CJC/IPA, one year later.",
+      "severity": "significant",
+      "onset_days": 60,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Took a year off after sermorelin reaction before trying CJC/IPA. Switched to HGH as resolution. Believes the reaction is due to IgE-mediated immune response to the peptides. States reaction is quite common.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.282385Z"
+}

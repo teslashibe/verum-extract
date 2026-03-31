@@ -1,0 +1,52 @@
+{
+  "id": "9e26f765-bb74-4067-82d6-9c170e2b5780",
+  "source_id": "1kzzlbh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kzzlbh/trt_vs_hgh_peptides/",
+  "author_hash": "c01ed36ef6a7164c8c21b2bf2f9054e1eefa4bc646c180a0c54a494fe56a32a4",
+  "confidence_tier": 4,
+  "date_published": "2025-05-31T08:20:45-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Enclo",
+      "name_normalized": "enclo",
+      "category": "other",
+      "route": "oral",
+      "cycle_length_days": 365,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 365,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Testosterone increased from 223 to 1241 over 1 year",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost 100+ pounds over 1 year (on Tirz)",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_before": 223,
+      "value_after": 1241,
+      "timeframe_days": 365
+    }
+  ],
+  "protocol_notes": "Used enclomiphene and Tirzepatide together for approximately 1 year. Notes that weight loss likely also contributed to T increase.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.282819Z"
+}

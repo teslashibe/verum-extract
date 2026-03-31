@@ -1,0 +1,51 @@
+{
+  "id": "5edcc792-fa50-4201-8a44-96ea932601d5",
+  "source_id": "rpc3zw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/rpc3zw/horrible_reaction_from_25_units_of_b500/",
+  "author_hash": "35d8264399baa16647f86839b2f085d32612d2dfad911dedf34f6f70c7b3c6ad",
+  "confidence_tier": 4,
+  "date_published": "2021-12-26T18:16:06-08:00",
+  "health_conditions": [
+    "HIV",
+    "Gut leakage (dysbiosis)",
+    "Chronic neuropathic pain",
+    "Severed trigeminal nerve",
+    "Metal plates in cheek"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1500,
+      "dose_unit": "mcg",
+      "frequency": "3 times per week",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 750,
+      "dose_unit": "mcg",
+      "frequency": "2-3 times per week",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "TB-500 gives more energy",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Currently uses 750-1000 mcg twice or thrice per week. Previously used 1500 mcg 3x per week without issues. Suggests commenter has underlying viral infection or accumulated damage causing immune overreaction. Mentions past surgery in 2013 for trigeminal nerve severing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.130155Z"
+}

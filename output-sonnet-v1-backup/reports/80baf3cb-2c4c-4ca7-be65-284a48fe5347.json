@@ -1,0 +1,73 @@
+{
+  "id": "80baf3cb-2c4c-4ca7-be65-284a48fe5347",
+  "source_id": "1e4ai7g",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1e4ai7g/tesamorelin_no_recomp_occurring/",
+  "author_hash": "fe461ad124ba178357496846ac14f37f7505c502bdacaf5e61b6247f226a3876",
+  "confidence_tier": 4,
+  "date_published": "2024-07-15T17:08:38-07:00",
+  "reported_sex": "female",
+  "training_status": "recreational, limited by injury/health conditions",
+  "health_conditions": [
+    "nerve healing post-surgery",
+    "muscle wasting",
+    "shoulder condition",
+    "nerve pain requiring Lyrica",
+    "started Cymbalta"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 450,
+      "dose_unit": "mcg",
+      "frequency": "6 nights on, 1 night off per week",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Better relief from muscle soreness",
+      "severity": "mild"
+    },
+    {
+      "category": "energy",
+      "description": "Some increased energy at current dose",
+      "severity": "mild"
+    },
+    {
+      "category": "libido",
+      "description": "Increased libido at current dose",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Wrists aching/joint pain",
+      "severity": "moderate",
+      "resolved": false
+    },
+    {
+      "category": "mood_change",
+      "description": "Aggression",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 212
+    }
+  ],
+  "protocol_notes": "Prescribed by functional medicine office, dosed lower than standard due to medication sensitivity. Using 12mg bottle with 6ml water, 25 units per injection. Taking at night. Also on Lyrica (increased dose during cycle, noted to cause insulin resistance) and Cymbalta. Primary goal was nerve growth post-decompression surgery, secondary goal was body recomposition. Activity limited to 1-2 cardio sessions/week and 6-7k steps. Eating at maintenance calories. Considering switching to CJC/IPA.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.292529Z"
+}

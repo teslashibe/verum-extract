@@ -1,0 +1,58 @@
+{
+  "id": "3c5362fd-93e3-4dbd-bc0f-722808823920",
+  "source_id": "1qxv98o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxv98o/stack_for_mitochondrial_repair_questions/",
+  "author_hash": "27fb3f00dbf5a22f183a738b8eae0fd8683c1f748a0aee3f5339fd1070edbdfa",
+  "confidence_tier": 4,
+  "date_published": "2026-02-06T13:57:56-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily, titrating to 2mg daily",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "5-Amino-1MQ",
+      "name_normalized": "5_amino_1mq",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "daily in morning",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Weeks 1-4: NAD+ 100mg 3x/week, SS-31 1-2mg daily (titrate), 5-Amino-1MQ 500mcg-1mg daily SC. Weeks 5-12: NAD+ 100mg 3x/week, MOTS-c 1-3mg 3x/week (titrate), 5-Amino-1MQ 500mcg-1mg daily SC. Intended for cellular/mitochondrial repair cycle.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.679218Z"
+}

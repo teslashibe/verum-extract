@@ -1,0 +1,55 @@
+{
+  "id": "25bcc528-865d-4b33-b3aa-938f8146719a",
+  "source_id": "1enmty8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1enmty8/bpc157_and_ghkcu_have_changed_my_life/",
+  "author_hash": "7526ac29d17a655dd0bcfd4ea850bd81c0df49ca476b27149c409e29bbb9de49",
+  "confidence_tier": 4,
+  "date_published": "2024-08-08T18:10:35-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Cycle progressing well at day 30",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Stinging pain at injection sites if not properly diluted; severe pain lasting days if not mixed correctly",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Mixes 5mg GHK-Cu with 15 units BPC-157 on the pin. BPC-157 reconstituted at 500mcg per 10 units. Then draws up 1.5 units of bacteriostatic water to dilute to total of 4 units for injection. Still stings slightly after injection but pain resolves quickly. Learned proper mixing technique to avoid multi-day injection site pain.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.414332Z"
+}

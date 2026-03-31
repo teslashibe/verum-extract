@@ -1,0 +1,41 @@
+{
+  "id": "2e2c51cc-3582-439a-a9cd-63f87df3f6f7",
+  "source_id": "1s1tng9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1tng9/ghk_cu_5_weeks_results/",
+  "author_hash": "2fdf69b27d1987ebe45e94255f8190a2f9d0681a44e9054eca97f9fffb61246c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T14:07:52-07:00",
+  "health_conditions": [
+    "seborrheic dermatitis"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "3-4x weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "soreness later in the day from pinning",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "No noticeable benefits yet from GHK-Cu despite being on it for a bit. Pins 3-4 times per week due to soreness. Plans to layer in BPC-157 for gut repair component to help with seb derm. Found that significantly lowering processed carbs helps but does not eliminate seb derm.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.64779Z"
+}

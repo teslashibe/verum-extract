@@ -1,0 +1,36 @@
+{
+  "id": "d8040952-ec0e-4dc9-9bc0-03d3cfdf0763",
+  "source_id": "1okspu3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1okspu3/lost_22lbs_in_one_month_on_retatrutide/",
+  "author_hash": "a2f5c82d602fb698625dfa3f03c17b8910a932373eeedf4a7e92f4e8b40ce9ef",
+  "confidence_tier": 5,
+  "date_published": "2025-10-31T05:04:46-07:00",
+  "reported_weight": {
+    "value": 234,
+    "unit": "lbs"
+  },
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly, considering increase to 2mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 32 lbs from 234 to 202 lbs (September to late October)",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started September at 234 lbs, reached 202 lbs by late October. Asking about escalating from 1mg to 2mg per week. Vague protocol details.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.394723Z"
+}

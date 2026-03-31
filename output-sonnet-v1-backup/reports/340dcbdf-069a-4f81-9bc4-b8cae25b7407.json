@@ -1,0 +1,84 @@
+{
+  "id": "340dcbdf-069a-4f81-9bc4-b8cae25b7407",
+  "source_id": "1ktzjt5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ktzjt5/would_i_benefit_from_reta/",
+  "author_hash": "bc47a28e11df77c1f77d59208be81cf51aaa93114af8577fe847d92dfcf24e24",
+  "confidence_tier": 4,
+  "date_published": "2025-05-23T18:03:50-07:00",
+  "reported_weight": {
+    "value": 172,
+    "unit": "lbs"
+  },
+  "training_status": "runner",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "frequency": "twice a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "trt",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 140,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "hexarelin",
+      "name_normalized": "hexarelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "cjc1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ss-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "kisspeptin",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Went from 183 down to 172 in first month. 5'7\" runner.",
+      "severity": "significant",
+      "onset_days": 30
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Sucks to be on calorie restriction energy-wise even if not hungry.",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "5'7\" runner. Went from 183 to 172 in first month. On TRT 140mg/week split into daily injections. Also doing hexarelin transitioning to IPA and CJC1295. Taking SS-31 and kisspeptin. Recommends only going up on Reta dose after a month. Notes calorie restriction is tough energy-wise even without hunger.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.283638Z"
+}

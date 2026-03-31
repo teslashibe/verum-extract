@@ -1,0 +1,50 @@
+{
+  "id": "b7097dc3-32eb-493f-b874-968c876192ea",
+  "source_id": "1qxl6y2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxl6y2/cycle_42m_on_trt_anyone_using_lowdose_retatrutide/",
+  "author_hash": "51a25dfbf3b6cfac00854a69cb1718c28a9625d49405742274c3177c18792ddb",
+  "confidence_tier": 4,
+  "date_published": "2026-02-06T07:48:37-08:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 250,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "every 5 days",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "lost 35 lbs steadily while maintaining and building new muscle",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "doesn't think about food anymore, has to remind himself to eat",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User started at 0.5mg Retatrutide and worked up to 6mg over 10 weeks. Noticed nothing until jumping from 2mg to 4mg dose. Currently week 10 at 6mg dose.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.67948Z"
+}

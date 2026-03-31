@@ -1,0 +1,46 @@
+{
+  "id": "9a7e8ac7-8be6-4805-93ed-7dd2007819ca",
+  "source_id": "1nsq3ll",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nsq3ll/motsc_is_the_golf_peptide/",
+  "author_hash": "e86c8a3acdedbcfa6637407c9284ee710a02c1dbcbe20ee16128122f8d88213a",
+  "confidence_tier": 5,
+  "date_published": "2025-09-28T07:43:44-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "trans resveratrol",
+      "name_normalized": "trans_resveratrol",
+      "category": "other",
+      "route": "topical",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NACET",
+      "name_normalized": "nacet",
+      "category": "other",
+      "route": "topical",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TMG betaine",
+      "name_normalized": "tmg_betaine",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Makes suppositories with trans resveratrol and NACET together to avoid acidic pH issues. Also takes 2g TMG betaine orally. Mentions mixing NAD+, NMN, NR, and three types of glutathione for best experience. Prefers NAD+ over MOTS-C.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.269714Z"
+}

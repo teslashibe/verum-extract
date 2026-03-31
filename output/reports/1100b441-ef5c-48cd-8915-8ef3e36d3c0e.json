@@ -1,0 +1,43 @@
+{
+  "id": "1100b441-ef5c-48cd-8915-8ef3e36d3c0e",
+  "source_id": "1s1y4t8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1y4t8/middle_of_the_night_cjc1295ipa/",
+  "author_hash": "5efa3ec143b5d28a24fa0d19d00f1d54f1cd10f402ffd6f02de8586f77bcbb00",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T17:00:35-07:00",
+  "health_conditions": [
+    "hyperglycemia"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "middle of the night",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "middle of the night",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "blood_sugar",
+      "description": "Lowered fasted blood sugar issues",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Injects GH or CJC in the middle of the night when waking to urinate. User reports hyperglycemia condition that improved.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.647677Z"
+}

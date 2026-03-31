@@ -1,0 +1,61 @@
+{
+  "id": "01bf05ce-efb1-4e8d-aa51-214577ceb0fd",
+  "source_id": "1plg50s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1plg50s/will_reta_save_me/",
+  "author_hash": "e94fccf9a9fe1c133abf8a7700ac4368aaeb98be50992b42950747a98fbd68c2",
+  "confidence_tier": 4,
+  "date_published": "2025-12-13T00:00:34-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "twice weekly (Monday and Thursday)",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "down 2.5 kg in 2 weeks at 0.5 mg twice weekly",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "still able to eat what needed to maintain muscle",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Protocol: Monday 0.5mg, Thursday 0.5mg for 2 weeks (lost 2.5 kg). Next phase: 0.75mg twice weekly for couple weeks. Then 1mg twice weekly. Zero side effects reported. Describes it as best dieting drug.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.74,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.674581Z"
+}

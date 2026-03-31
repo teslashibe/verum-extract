@@ -1,0 +1,79 @@
+{
+  "id": "bc1f2a85-b2b8-4a15-953b-5acb57b353cc",
+  "source_id": "1rl5pt1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rl5pt1/missing_anything/",
+  "author_hash": "1e0631ecc6126dc5d119778dfa547288b9ccd9be15ec24cec9b013d4106e14ee",
+  "confidence_tier": 5,
+  "date_published": "2026-03-04T18:42:51-08:00",
+  "compounds": [
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "Antioxidant support and cellular health"
+    },
+    {
+      "category": "energy",
+      "description": "Mitochondrial energy production"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "total testosterone"
+    },
+    {
+      "marker_name": "free testosterone"
+    },
+    {
+      "marker_name": "IGF-1"
+    },
+    {
+      "marker_name": "prolactin"
+    },
+    {
+      "marker_name": "hematocrit"
+    },
+    {
+      "marker_name": "A1C"
+    },
+    {
+      "marker_name": "lipids"
+    }
+  ],
+  "protocol_notes": "Recommendations for glutathione and NAD+ for cellular health and antioxidant support. Notes evidence for systemic oral NAD+ boosters is mixed. Suggests some people use Ipamorelin with Tesamorelin blends or add CJC-1295. Notes stacking additional secretagogues may not add much if IGF-1 is already adequate. Recommends bloodwork baseline assessment.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.656868Z"
+}

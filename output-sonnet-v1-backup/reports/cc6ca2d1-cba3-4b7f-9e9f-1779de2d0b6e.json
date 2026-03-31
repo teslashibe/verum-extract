@@ -1,0 +1,34 @@
+{
+  "id": "cc6ca2d1-cba3-4b7f-9e9f-1779de2d0b6e",
+  "source_id": "1paamn0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1paamn0/peptide_injection_pens/",
+  "author_hash": "9d27f6f15de989e009ef4120d1b975bf563ca2c0eca39f747753ab462902d876",
+  "confidence_tier": 4,
+  "date_published": "2025-11-29T21:47:17-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "semorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "5 days on, 2 off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "bi-weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "OP is using semorelin 300mcg 5 days on 2 off along with bi-weekly testosterone. Reports approximately 28 syringes per month and is seeking injection pen alternatives to reduce waste.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.262538Z"
+}

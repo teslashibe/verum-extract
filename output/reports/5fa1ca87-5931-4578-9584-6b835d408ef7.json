@@ -1,0 +1,49 @@
+{
+  "id": "5fa1ca87-5931-4578-9584-6b835d408ef7",
+  "source_id": "1rayuvi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rayuvi/look_for_libido_boost_help/",
+  "author_hash": "8ffd36b5f9b95a9242938699d05e0c3753e7f1ae1fa8bbf9f98ec2416a6308d6",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T10:39:16-08:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "low LH levels"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Kisspeptin",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "libido",
+      "description": "Noticeable libido boost, tingling sensation in genital area",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "LH"
+    },
+    {
+      "marker_name": "testosterone"
+    },
+    {
+      "marker_name": "FSH"
+    }
+  ],
+  "protocol_notes": "User received low LH levels on blood test with normal testosterone and FSH. Taking kisspeptin-10. Planning to check testosterone levels on next blood test to assess if kisspeptin increases test. Referenced clinical data on kisspeptin-10 and kisspeptin-54.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661588Z"
+}

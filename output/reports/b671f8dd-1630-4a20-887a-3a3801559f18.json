@@ -1,0 +1,40 @@
+{
+  "id": "b671f8dd-1630-4a20-887a-3a3801559f18",
+  "source_id": "1qq7ov7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qq7ov7/has_anyone_who_has_experienced_heartburn_while/",
+  "author_hash": "8996fff59def476e3358c304019cb865333d02ba879419dc66ce98fd5bc55fae",
+  "confidence_tier": 5,
+  "date_published": "2026-01-29T04:50:16-08:00",
+  "health_conditions": [
+    "sulfur burps",
+    "slowed gastric emptying"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Omeprazole",
+      "name_normalized": "omeprazole",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Sulfur burps at next level bad; felt like food rotting in stomach from combination of omeprazole causing low acid plus slowed gastric emptying from Retatrutide",
+      "severity": "significant"
+    }
+  ],
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669479Z"
+}

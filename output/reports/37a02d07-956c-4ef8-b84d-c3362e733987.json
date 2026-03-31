@@ -1,0 +1,70 @@
+{
+  "id": "37a02d07-956c-4ef8-b84d-c3362e733987",
+  "source_id": "1mamwcr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mamwcr/do_youshould_you_cycle_kisspeptin10/",
+  "author_hash": "fc3321f536f74827e57503911e97c3cceefdbc166ad11d8b335cf0c8acc24747",
+  "confidence_tier": 4,
+  "date_published": "2025-07-27T06:55:17-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "low testosterone"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Kisspeptin-10",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "5 days on, 2 days off",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Weight loss of 15 pounds from prior stack",
+      "severity": "moderate"
+    },
+    {
+      "category": "body_composition",
+      "description": "Testosterone increase from 369 to 468 (99 point increase) after prior protocol",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_before": 369,
+      "value_after": 468,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "47-year-old male. Initial protocol with Reta, KLOW blend (CJC-1295/Ipamorelin), and earlier testing resulted in 99 point testosterone increase and 15 lb weight loss. Now on Kisspeptin protocol (5 days on, 2 days off, 250mcg, 4 weeks then 4 weeks off, then another 4 weeks on before bloodwork). Goal is to reach 800-900 ng/dL testosterone. Expects additional 100-200 point increase from Kisspeptin. Plans to use Enclomiphene as next step before considering TRT.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.686319Z"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "660ea8e8-edea-47bd-822b-d467bef9bc23",
+  "source_id": "mw9zui",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/mw9zui/bpc_157_nootroo_review_took_for_gi_issues_and/",
+  "author_hash": "161577c802c3c2062c1570e251e5d21f947f83ed5db7208d81e83a73638feb6c",
+  "confidence_tier": 4,
+  "date_published": "2021-04-22T10:29:37-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "training_status": "returning to intense weightlifting after 5 years off; previously competitive powerlifter",
+  "health_conditions": [
+    "chronic GI issues (constipation, diarrhea, heartburn, dumping syndrome)",
+    "insomnia",
+    "ADHD (inattentive/hyperfocus type)",
+    "joint and back pain from overtraining"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "frequency": "3 injections total",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Completely eliminated chronic GI issues (constipation, diarrhea, heartburn, dumping syndrome, nausea) within 24 hours after 3 weeks of treatment",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "sleep",
+      "description": "Cured severe insomnia; able to sleep naturally without Lunesta; wakes refreshed",
+      "severity": "significant",
+      "onset_days": 3
+    },
+    {
+      "category": "cognitive",
+      "description": "Improved task prioritization and motivation; reduced procrastination; gained ability to find reward in mundane tasks; reported feeling physical changes in frontal lobe and sustained epiphany-like state",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Improved recovery from intense workouts and physical labor; tendons strengthened faster",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Rapid strength gains with improved muscle hardness and vascularity; bench press increased from 205 to 225 lbs x15 reps in 4 weeks; squat increased from 225 to 300+ lbs; maintained pump throughout day",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Acne completely healed during treatment period",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cognitive_impairment",
+      "description": "Reduced stimulant effect from Vyvanse and caffeine; moved from main processing to background processing; eliminated hyperactive/jittery feeling from stimulants and caffeine",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Reconstituted 5mg vial with 3ml bacteriostatic water. Oral administration via insulin syringe (12.5 units = ~250mcg) squirted into back of mouth on empty stomach. Also attempted 3 intramuscular injections (2 in stomach fat, 1 in wrist) which subjectively felt less effective than oral route. Subject spent over $50k on prior healthcare for GI issues. Used alongside Vyvanse 70mg daily, caffeine 100-200mg daily, and Clonidine for stimulant comedown. Post-treatment note: subject later reported GHRP-6 was more effective for complete symptom resolution.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.703188Z"
+}

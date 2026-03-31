@@ -1,0 +1,57 @@
+{
+  "id": "e2483246-3480-4551-a6e8-b0ce87b0f71a",
+  "source_id": "1kys9zo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kys9zo/brand_name_wegovy_worked_so_much_better_than/",
+  "author_hash": "2ef9a1d719edd2bf87d584a2b7f206ad108873e36093475fe0c46f393ba748e4",
+  "confidence_tier": 4,
+  "date_published": "2025-05-29T18:45:55-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost about 20lbs on Retatrutide; body fat under 20%",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Food noise went away at low dose of 2.5mg Retatrutide",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Plateaued on new batch of semaglutide from different pharmacy; had to nearly double dose",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Gained about 10lbs back after stopping semaglutide",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "First 6 months on semaglutide were fine; plateau occurred after pharmacy switch. Had to nearly double dose on new batch; stopped when it ran out. Later switched to Retatrutide from a peptide company at low dose of 2.5mg with nearly zero side effects.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.282862Z"
+}

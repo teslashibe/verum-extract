@@ -1,0 +1,44 @@
+{
+  "id": "b448cfe6-ad6b-4982-99cc-6540927e5e96",
+  "source_id": "1hiz4az",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1hiz4az/just_saw_teizepatide_was_approved_for_sleep_apnea/",
+  "author_hash": "60136f33aca475afce4de4472537f421fd3cef3f71914f3742cbee1f3691b808",
+  "confidence_tier": 4,
+  "date_published": "2024-12-20T17:31:12-08:00",
+  "health_conditions": [
+    "sleep apnea"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "CPAP machine no longer needed, sleep apnea resolved",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Currently using Tirz, about 5lbs from weight loss goal",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Semaglutide used first with success for sleep apnea. Currently on Tirzepatide for continued weight loss.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.411947Z"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "09df5438-ceaf-465d-acf6-0f9a3576f6f6",
+  "source_id": "1qn2mxw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qn2mxw/gd_needles_wrecking_my_injection_sites/",
+  "author_hash": "02436a953a0a655b22256eb2e8e46efcb24804e62b01d47107e1943c55e61c0f",
+  "confidence_tier": 4,
+  "date_published": "2026-01-25T17:54:23-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "training_status": "low 20s bf%",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Normal injection experience with sharp needles from box 2"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Severe itching and raised welts lasting 3-10 days with Easy Touch 0.3mL syringes from box 3",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "injection_site",
+      "description": "Burning sensation during injection with dull needles, burrs on needle ends",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "Allergic reaction to one entire box of Sol-M syringes",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Uses 8mm syringes, prefers 90 degree injection angle. Injects subcutaneously at multiple sites. Uses reconstituted peptides from stopper vials with bacteriostatic water. Experienced severe issues with Easy Touch 0.3mL and 0.5mL syringes from Amazon; had better results with box 2 and prior BD syringes. Planning to switch to BD or TruePlus syringes. Does not filter peptides, believes proper reconstitution and stopper vial use eliminate need for filtering.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.670142Z"
+}

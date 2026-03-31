@@ -1,0 +1,35 @@
+{
+  "id": "66aa6fec-25f6-4cf5-a54d-c899ffe1a7b7",
+  "source_id": "1mx2uhe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mx2uhe/ghkcu_weekly_dose_instead_of_daily/",
+  "author_hash": "28a06f24e0a85fe63a02b7d103505e413695cfb482f06759cc69c6312bb55e42",
+  "confidence_tier": 4,
+  "date_published": "2025-08-22T03:30:45-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Stinging pain that lasted for days. Pain resolved by adding extra BAC water and changing injection sites (lower back/gluteal area and inside thigh). Injection site pain occurs with this peptide.",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "From 50mg vial, uses 10-20 units of BAC water mixed with dose. Injects in lower back area where glute meets it, or inside right thigh. Notes individual variation in tolerance and injection site selection.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.400541Z"
+}

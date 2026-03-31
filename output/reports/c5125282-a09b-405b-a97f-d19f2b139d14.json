@@ -1,0 +1,77 @@
+{
+  "id": "c5125282-a09b-405b-a97f-d19f2b139d14",
+  "source_id": "1q0mqb9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q0mqb9/chinese_hgh/",
+  "author_hash": "1d80de5c8a95439549e11669cc92a992222a4573306cfa498a7564f3784d0c42",
+  "confidence_tier": 4,
+  "date_published": "2025-12-31T12:33:13-08:00",
+  "reported_age_range": "40-49",
+  "training_status": "active (gym training)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 120,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Maintaining weight despite varying food intake; muscle gains",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "Improved sleep at lower dose (4 IU on non-training days)",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "Hands and arms getting numb with pins and needles at night",
+      "severity": "moderate",
+      "onset_days": 90,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Waking up several times per night",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "blood glucose",
+      "timeframe_days": 120
+    }
+  ],
+  "protocol_notes": "Chinese-sourced HGH, 24 IU vials at $130, sufficient for ~1 year of use. Running 3x weekly 30-min sauna sessions. Dose adjusted from 5 IU to 4 IU on non-training days due to sleep disruption. Age 38. Training-dependent dosing strategy. Also stacking with Test and Retatrutide. Total planned cycle ~6 more months (9 months total).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.672224Z"
+}

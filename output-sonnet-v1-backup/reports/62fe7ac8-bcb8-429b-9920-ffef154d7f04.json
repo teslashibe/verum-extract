@@ -1,0 +1,56 @@
+{
+  "id": "62fe7ac8-bcb8-429b-9920-ffef154d7f04",
+  "source_id": "1pgta89",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pgta89/low_dose_tirzepatide_so_far/",
+  "author_hash": "fe55aaa2300df85ea4c66f1ee725c48c515932ca831b5a1c13c4868f99347ba0",
+  "confidence_tier": 4,
+  "date_published": "2025-12-07T12:53:11-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 218,
+    "unit": "lbs"
+  },
+  "training_status": "Consistent gym training, calorie counting, macro optimization",
+  "health_conditions": [
+    "lower leg edema (historical)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "once weekly (shifted to every 5 days)",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Edge taken off hunger, better hunger control week over week, reduced food noise during holidays",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost from 218lbs down to 193lbs over the protocol; visually leaner around midsection and legs; belt noticeably shorter; body fat reduced including visceral and SubQ fat",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Body composition scale indicated skeletal muscle gain while losing fat",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "57M, 6'0\", on TRT + HCG. Started at 218lbs ~22-24% BF. Prior to peptide use reached 200lbs 18-20% BF through diet and gym. Added 1mg tirzepatide weekly from a 10mg vial. Bumped to 2mg one week (after Thanksgiving). Shifted dosing interval to every 5 days. Did not log meals during holidays but continued dosing. Final reported weight 193lbs with improved body composition. Does not plan long-term use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.261384Z"
+}

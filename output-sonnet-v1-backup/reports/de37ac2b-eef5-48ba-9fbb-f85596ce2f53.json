@@ -1,0 +1,38 @@
+{
+  "id": "de37ac2b-eef5-48ba-9fbb-f85596ce2f53",
+  "source_id": "1rw378v",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rw378v/which_peptide_for_hsv2/",
+  "author_hash": "7eced37680c65cbaf4c17a1bd591573dd6d89ff02b38351b695af850f1e07e8a",
+  "confidence_tier": 5,
+  "date_published": "2026-03-17T03:52:30-07:00",
+  "compounds": [
+    {
+      "name_raw": "L-Lysine",
+      "name_normalized": "l_lysine",
+      "category": "other",
+      "route": "oral",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Valtrex (valacyclovir)",
+      "name_normalized": "valtrex_valacyclovir",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "immune",
+      "description": "Combination of high-dose L-lysine and Valtrex described as 'epic good' for HSV management",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User reports high-dose L-Lysine combined with Valtrex was highly effective. Notes that L-Lysine tablets are large and required taking quite a bit per day to be effective. States the two work through completely different mechanisms.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.10745Z"
+}

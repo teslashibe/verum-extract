@@ -1,0 +1,44 @@
+{
+  "id": "e9918c80-b207-4fed-8d03-e56e4d6a0704",
+  "source_id": "1s4rulr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4rulr/tesamorelin_at_small_dose/",
+  "author_hash": "abad6b9e752a02240b6ddc8747c26d60758a435da7ceda47305fb42321e6bb37",
+  "confidence_tier": 4,
+  "date_published": "2026-03-26T19:34:08-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Worked great overall",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Taken daily first thing in the AM",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.103968Z"
+}

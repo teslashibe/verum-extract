@@ -1,0 +1,38 @@
+{
+  "id": "55751adf-a428-4175-a5bf-cc0d09106e03",
+  "source_id": "1rrcg7p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rrcg7p/stopper_popped_when_reconstituting_help/",
+  "author_hash": "51dec98dd518971489017babb5af9a6ae25658000e89e4793abd4727e404397a",
+  "confidence_tier": 5,
+  "date_published": "2026-03-11T17:56:46-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "nasal",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Mild chills after using potentially compromised vial; OP notes this could be a common cold and injection site looks completely normal",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Reconstitution incident: rubber stopper popped out briefly due to overpressure when adding BAC water. OP administered 3 pins from the compromised vial (1 on day 1, 2 on day 2) before switching to intranasal route. Ordered replacement vial. Considering oral use to avoid wasting remaining solution.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109473Z"
+}

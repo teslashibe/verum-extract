@@ -1,0 +1,39 @@
+{
+  "id": "feaa20c9-c2b2-4b9d-99ce-f67a85b7a817",
+  "source_id": "1rk287p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rk287p/hgh_secretagogue_bloodwork/",
+  "author_hash": "62019fd499881daccbd302bbb432b6b806a468f1ec6ed3325ba62c92d9523313",
+  "confidence_tier": 3,
+  "date_published": "2026-03-03T13:32:01-08:00",
+  "training_status": "bjj",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_after": 308,
+      "unit": "ng/ml",
+      "timeframe_days": 90
+    }
+  ],
+  "protocol_notes": "Z-score: 1.9. Had baseline before starting.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.657425Z"
+}

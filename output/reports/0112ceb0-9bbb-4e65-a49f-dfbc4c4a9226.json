@@ -1,0 +1,45 @@
+{
+  "id": "0112ceb0-9bbb-4e65-a49f-dfbc4c4a9226",
+  "source_id": "1ng83kh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ng83kh/is_anyone_nervous_about_the_glp1_lawsuits/",
+  "author_hash": "e1c423153200302907729f0465997f2cb59bd8c3b7f2be858c7dd9e2fe02ef58",
+  "confidence_tier": 4,
+  "date_published": "2025-09-13T13:37:15-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 84,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Significant weight loss at 2.5mg and 5mg doses",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Vomiting at 7.5mg dose",
+      "severity": "significant",
+      "onset_days": 57
+    },
+    {
+      "category": "fatigue",
+      "description": "Very low energy at 7.5mg dose",
+      "severity": "significant",
+      "onset_days": 57
+    }
+  ],
+  "protocol_notes": "Family member protocol: 12-week course with tirzepatide dosing: 2.5mg weeks 1-4 (no side effects), 5mg weeks 4-8 (no side effects), 7.5mg weeks 8-12 (vomiting and low energy). Weight loss plateaued at 7.5mg despite increased dose. User notes sensitivity variation and importance of consulting doctor about side effects.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.681905Z"
+}

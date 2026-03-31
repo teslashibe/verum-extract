@@ -1,0 +1,37 @@
+{
+  "id": "57aa882f-bc77-4bed-adda-7fc2267aad2d",
+  "source_id": "1ryc00h",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ryc00h/blood_glucose_testing/",
+  "author_hash": "f4f2bff4faab680d7f70be045f8d1e95d2fd02fcd31afc670a698aad7e781095",
+  "confidence_tier": 5,
+  "date_published": "2026-03-19T13:50:22-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "blood_sugar",
+      "description": "Maintain good blood sugar range and keep insulin sensitivity high"
+    }
+  ],
+  "protocol_notes": "User taking large doses of GH and planning to run Retatrutide at 2-10mg to monitor and manage blood glucose levels. Planning to use CGM for monitoring.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.661105Z"
+}

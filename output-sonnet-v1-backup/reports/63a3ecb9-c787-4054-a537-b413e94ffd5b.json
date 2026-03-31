@@ -1,0 +1,74 @@
+{
+  "id": "63a3ecb9-c787-4054-a537-b413e94ffd5b",
+  "source_id": "1qkdemd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qkdemd/split_lyophilized_powder_into_2_vials/",
+  "author_hash": "bb55c40086a703d510853ab87f3a963d3ce1b06c6235b5544cb1301053f3b24f",
+  "confidence_tier": 4,
+  "date_published": "2026-01-22T17:40:31-08:00",
+  "health_conditions": [
+    "high IGF-1",
+    "joint pain (side effect of tesa)"
+  ],
+  "compounds": [
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "5 days on / 2 days off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "5 days on / 2 days off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Goal is fat loss"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Goal is muscle building"
+    },
+    {
+      "category": "recovery",
+      "description": "Goal is recovery"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Joint pain described as side effect of tesa, causing trouble working out",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "OP noted high IGF-1 levels on labs. Reduced tesa dose to 0.5mg due to joint pain side effects. Planning 5 days on / 2 days off protocol.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.124253Z"
+}

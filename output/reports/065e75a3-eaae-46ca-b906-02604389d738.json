@@ -1,0 +1,40 @@
+{
+  "id": "065e75a3-eaae-46ca-b906-02604389d738",
+  "source_id": "1rrr3sk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rrr3sk/stacking_suggestions/",
+  "author_hash": "29fee74286f7486a9a0c9725046d8d39f9c6834fef711869df68e11b03160361",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T06:43:15-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "5 days on / 2 days off",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "frequency": "5 days on / 2 days off",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "frequency": "weekends",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "5 days on/2 days off schedule for CJC-1295 and Ipamorelin stack; Retatrutide dosed on weekends.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.665055Z"
+}

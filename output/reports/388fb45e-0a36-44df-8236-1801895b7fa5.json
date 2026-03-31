@@ -1,0 +1,44 @@
+{
+  "id": "388fb45e-0a36-44df-8236-1801895b7fa5",
+  "source_id": "1p0sjyw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p0sjyw/has_anyone_else_hit_a_point_where_the_hunger/",
+  "author_hash": "16d08fd25f62fea3e9f473eeacc01fccdb9874a9d95e6b2064f4a3ee8ab91115",
+  "confidence_tier": 4,
+  "date_published": "2025-11-18T16:11:04-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "every 3 days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "every 3 days",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite control with slight snackiness twice daily; reports perfect appetite control",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Alternates between 2.5mg tirzepatide and 5mg retatrutide every 3 days. Reports no negative side effects and no increased hunger from missed meals.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.676939Z"
+}

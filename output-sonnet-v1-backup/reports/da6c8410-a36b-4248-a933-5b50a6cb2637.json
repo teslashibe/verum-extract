@@ -1,0 +1,49 @@
+{
+  "id": "da6c8410-a36b-4248-a933-5b50a6cb2637",
+  "source_id": "19faw3y",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/19faw3y/glp1_to_lean/",
+  "author_hash": "73c1d850f67a1326cbec24c08ef93c764a857a2da47814fb63133fcd4f56815a",
+  "confidence_tier": 3,
+  "date_published": "2024-01-25T06:42:43-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 220,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GLP",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 365,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Minimal response; GLP-1 agonist appears to do almost nothing to appetite and has not changed A1C over past year of use",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C",
+      "value_before": 5,
+      "value_after": 5,
+      "unit": "%",
+      "timeframe_days": 365
+    }
+  ],
+  "protocol_notes": "43-year-old male, 6'0\", 220 lbs, 17% BF. On 2+ different GLP-1 agonists over the past year at 2.5mg/week. A1C has been 5 on last 2 blood works. Minimal effect on appetite or A1C. Notes girlfriend (smaller, higher BF) using 1mg/week lost 30 lbs in 3 months with same peptide. Speculates that lower BF and lower A1C may reduce GLP-1 efficacy. On TRT.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.295445Z"
+}

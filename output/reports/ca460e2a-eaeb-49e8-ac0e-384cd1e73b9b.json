@@ -1,0 +1,92 @@
+{
+  "id": "ca460e2a-eaeb-49e8-ac0e-384cd1e73b9b",
+  "source_id": "1ivfcak",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ivfcak/tirzepatide_review_works_way_too_damn_well/",
+  "author_hash": "b13423a0fa1bc589612cc37718856ac74ea10fec3901a307c591f46f3f9ccfdd",
+  "confidence_tier": 4,
+  "date_published": "2025-02-22T01:50:04-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 180.6,
+    "unit": "lbs"
+  },
+  "training_status": "works out to maintain muscle mass",
+  "health_conditions": [
+    "motor nerve damage post covid",
+    "muscular stiffness and weakness"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 12.6 lbs in 3 weeks; visibly lost fat, not water weight",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Full from 400-500 calorie breakfast; reduced daily intake from 4000 to 1400-2000 calories",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "energy",
+      "description": "Energy levels good or better than before",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "No longer waking up in middle of night due to extreme hunger",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Height: 5'10\". Using BPC-157/TB-500 blend (split 1mg total per day across 2x daily). GHK-Cu dosed at 4mg per day split 2x daily. Planning to discontinue Tirzepatide after reaching target weight due to concern about long-term side effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.693872Z"
+}

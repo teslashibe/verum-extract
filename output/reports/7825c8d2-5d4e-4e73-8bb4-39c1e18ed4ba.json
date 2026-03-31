@@ -1,0 +1,59 @@
+{
+  "id": "7825c8d2-5d4e-4e73-8bb4-39c1e18ed4ba",
+  "source_id": "1nr1qtw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nr1qtw/on_tirz_and_losing_slowly_need_help/",
+  "author_hash": "e296e64a13cf9c3612f76b58ceab42005c53b92fe48b07a7bdc2435513ce1978",
+  "confidence_tier": 4,
+  "date_published": "2025-09-26T06:44:30-07:00",
+  "reported_sex": "female",
+  "training_status": "limited due to spine injury (L5-S1 and L3-L5 fusion, 10lb weight limit, 15-20 min walking tolerance)",
+  "health_conditions": [
+    "spinal fusion",
+    "chronic spine pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "27 pounds lost over 14 weeks",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "appetite is definitely down",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "A LOT of nausea when stacked with Cagrilintide",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started at 2.5mg, no weight loss in first month. Currently on 7.5mg weekly with 1400 calorie diet tracked in MyFitnessPal. High protein focus. Planned to increase to 10mg upon finishing current vial. Previously stacked with Cagrilintide but discontinued due to nausea and no additional weight loss benefit. Currently experiencing 4-week plateau with no weight loss.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.680705Z"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "cc9e1397-1e07-493b-bad7-30df90fa435f",
+  "source_id": "1eu2ahc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1eu2ahc/im_lost/",
+  "author_hash": "60732606419f8c3b522b87b29421ff2fce2776b289e81e82ba86e8cd0190bb69",
+  "confidence_tier": 4,
+  "date_published": "2024-08-16T15:46:04-07:00",
+  "health_conditions": [
+    "mental_health_issues"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Cut out food noise to eat unhealthy things",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Helped with weight loss regimen",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Major nausea the day of and day after injection. Felt physically fine afterward.",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 2
+    },
+    {
+      "category": "mood_change",
+      "description": "Mental issues while on tirzepatide",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Stopped after 6 weeks due to mental issues and cost. Notes that tirzepatide is a tool to help manage food noise and hunger, but relationship with food needs to be addressed separately to maintain weight loss.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696746Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "0f57456e-82d7-4516-a707-03ab3c564cf7",
+  "source_id": "1ndkbtv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ndkbtv/looking_for_suggestions_on_best_peptide_for_fat/",
+  "author_hash": "6e4d06f61a8485e6e898a00447810b16e4814e85c4fa68d32293053cf51fee5b",
+  "confidence_tier": 4,
+  "date_published": "2025-09-10T10:16:57-07:00",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "every 3 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Fat loss driven by CICO, may be slow process",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Still suppresses appetite but allows food enjoyment at low dose",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Low dose protocol intended to minimize appetite suppression while maintaining fat loss",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.682177Z"
+}

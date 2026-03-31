@@ -1,0 +1,57 @@
+{
+  "id": "850aa7d7-8eb8-41b5-b60e-4e48490b9233",
+  "source_id": "1qa18sr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qa18sr/nad_and_weight_loss/",
+  "author_hash": "f5ef1b83a737116eebde25c4e9ead091d6746963550414b17a1866dc55e83f16",
+  "confidence_tier": 4,
+  "date_published": "2026-01-11T06:52:17-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 25,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "3 times weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 4 lbs in first week despite being in a stall on Tirzepatide alone",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "energy",
+      "description": "Feels better with more energy",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "On Tirzepatide already. Started NAD+ and MOTS-c stack one week prior to report. Breaking a weight loss stall.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.684622Z"
+}

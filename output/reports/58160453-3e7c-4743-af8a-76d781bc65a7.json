@@ -1,0 +1,47 @@
+{
+  "id": "58160453-3e7c-4743-af8a-76d781bc65a7",
+  "source_id": "1ikftl8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ikftl8/thank_god_for_whoever_invented_tb500_and_bpc157/",
+  "author_hash": "7728334fa0a5b4b29aa88cb2ab854b4b140bddbf36cb2eb0f27e85d7f566fa5b",
+  "confidence_tier": 4,
+  "date_published": "2025-02-07T21:16:07-08:00",
+  "health_conditions": [
+    "knee pain"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "knee burned and throbbed for over 8 months, after 1 month pain free",
+      "severity": "significant",
+      "onset_days": 30
+    },
+    {
+      "category": "injury_healing",
+      "description": "avoided orthopedic surgery",
+      "severity": "significant",
+      "onset_days": 30
+    }
+  ],
+  "protocol_notes": "Used pre-mixed formulation. Probably dosed higher than typical.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.694135Z"
+}

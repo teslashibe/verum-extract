@@ -1,0 +1,52 @@
+{
+  "id": "05bd4a19-c7b9-4412-976e-7b45956998d2",
+  "source_id": "1rokp5s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rokp5s/cjc1295ipamorelin_blend_and_tirz_stack/",
+  "author_hash": "03b7ba9c206f7bf2639f43dfe3a906d770af0706782cee40a7ae8b7f8582c4a9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-08T16:58:29-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 45,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Ripped visceral fat off body; went from apple shape with stomach as problem area to visibly ripped at 15% body fat",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "value_after": 15,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Progression: started with Tirz + Sermorelin, then switched to CJC/IPA stack, then moved to Tesamorelin which she found most effective. Has been running Tesamorelin for 1.5 months. Recommends Tesamorelin over the others but found all combinations helpful.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.110803Z"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "5b2a9e5e-2c99-48a6-8190-5093a13728f0",
+  "source_id": "1rk287p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rk287p/hgh_secretagogue_bloodwork/",
+  "author_hash": "9719d2829f47ccd17ee7186657c5363bc38fe7e1e674ecbde3982d04af838afc",
+  "confidence_tier": 3,
+  "date_published": "2026-03-03T13:32:01-08:00",
+  "training_status": "active lifter",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorlin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5 days on, 2 days off",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep was good on Tesamorelin, much better on HGH",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "After-workout recovery described as insane on HGH",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Skin feels absolutely amazing on HGH",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 154,
+      "value_after": 459,
+      "timeframe_days": 30
+    },
+    {
+      "marker_name": "IGF-1 z-score",
+      "value_after": 2.8,
+      "timeframe_days": 30
+    },
+    {
+      "marker_name": "IGF-1",
+      "value_before": 154,
+      "value_after": 489,
+      "timeframe_days": 60
+    },
+    {
+      "marker_name": "IGF-1 z-score",
+      "value_after": 3,
+      "timeframe_days": 60
+    }
+  ],
+  "protocol_notes": "Month 1 pinning 1mg Tesamorelin in morning before labs (possibly spiked result). Month 2 switched to pinning before bed. Identified as hyper-responder. Switched to HGH 0.5mg starting Feb 2nd to lower IGF-1, targeting 300-350 range in peak lifting phases. Awaiting new labs at time of posting.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.9,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112655Z"
+}

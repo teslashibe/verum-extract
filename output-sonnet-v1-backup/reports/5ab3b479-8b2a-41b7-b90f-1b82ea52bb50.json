@@ -1,0 +1,43 @@
+{
+  "id": "5ab3b479-8b2a-41b7-b90f-1b82ea52bb50",
+  "source_id": "1c37s5x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1c37s5x/considering_tesamorelin_ipamorelin_cjc_1295_stack/",
+  "author_hash": "f187a408b293ece14590b42bc5ff4568768067edc100232729c7a3afc907b584",
+  "confidence_tier": 5,
+  "date_published": "2024-04-13T10:54:16-07:00",
+  "reported_sex": "female",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "DEXA scan body composition"
+    }
+  ],
+  "protocol_notes": "About to start a Tesa/Ipa stack and considering adding CJC/mod. Protocol based on Dr. Seeds podcast recommendation: 1mg Tesa at night, 100mcg Ipa twice daily. Moving away from blends. Has had 3 DEXA scans.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.293692Z"
+}

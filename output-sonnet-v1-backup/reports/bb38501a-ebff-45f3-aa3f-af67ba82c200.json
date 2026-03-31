@@ -1,0 +1,51 @@
+{
+  "id": "bb38501a-ebff-45f3-aa3f-af67ba82c200",
+  "source_id": "1rx4r77",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx4r77/which_of_these_could_cause_frecklesbirthmarks/",
+  "author_hash": "2fc93ff50604ac4c19499ba5a90bce88bf3968646757f3b6aafb60e0276502ff",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T07:02:45-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Klow",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "New or darker dark freckles appearing on shoulders, torso, and legs despite minimal sun exposure over winter",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "User describes fair skin and no sun exposure except arms and face during winter. Freckles randomly distributed on shoulders, torso, and legs. Cycle length of 28 days inferred from '4 weeks' stated in post.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106788Z"
+}

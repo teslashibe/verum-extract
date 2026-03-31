@@ -1,0 +1,75 @@
+{
+  "id": "4dff1d29-a2f6-4706-9da3-55b6d74ed455",
+  "source_id": "1l7e7f3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1l7e7f3/i_had_a_severe_mast_cell_reaction_to_sermorelin/",
+  "author_hash": "6b027dbc050c0f3d9cf462304fe4c52434ccaa84009936b2913c890c5fa87683",
+  "confidence_tier": 4,
+  "date_published": "2025-06-09T12:37:03-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "perimenopause",
+    "on HRT with testosterone and estrogen pellets"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "cycle_length_days": 70,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Support for body composition and healthy aging",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Recovery support from peptide stack",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Mild itching at injection site for 9-10 weeks",
+      "severity": "mild"
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "Severe mast cell activation event at week 10: intense itching all over lower abdomen and back, 4 bumps swelled up at prior injection sites, severe abdominal and uterine cramping like labor pain radiating down legs and into lower back, lasted for hours",
+      "severity": "significant",
+      "onset_days": 70,
+      "resolved": true,
+      "resolution_days": 4
+    }
+  ],
+  "protocol_notes": "Sermorelin vial kept for 10+ weeks (provider said safe for 3 months). Reaction occurred on day 8 of menstrual cycle (peak estrogen, low progesterone). Also consumed red wine evening of reaction. Previous good tolerance of CJC+Ipamorelin and TB-500. On micronized progesterone in addition to HRT pellets. Recovery protocol included Quercetin 500mg 2x/day, Vitamin C 1000mg/day, Magnesium glycinate, Zyrtec daily x 3-5 days, low-histamine diet and hydration.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.406739Z"
+}

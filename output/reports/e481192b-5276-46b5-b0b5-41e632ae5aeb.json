@@ -1,0 +1,58 @@
+{
+  "id": "e481192b-5276-46b5-b0b5-41e632ae5aeb",
+  "source_id": "1rs3i7s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rs3i7s/crazy_hungry_after_ta1/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T14:15:34-07:00",
+  "training_status": "weight training regularly",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "twice a week",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Strong appetite increase around 15 minutes after injection",
+      "severity": "significant",
+      "onset_days": 0
+    },
+    {
+      "category": "sleep",
+      "description": "Makes user tired",
+      "severity": "moderate",
+      "onset_days": 0
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Very strong appetite increase and cravings, prevents sleep until food is consumed",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": false
+    },
+    {
+      "category": "dizziness",
+      "description": "Gets kinda dizzy after injection",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Injected at night. User reports enjoying the appetite increase side effect due to no weight problems and active training status.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.652802Z"
+}

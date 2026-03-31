@@ -1,0 +1,77 @@
+{
+  "id": "fa7aeeea-62ad-469a-bb33-ff7dc7a92be1",
+  "source_id": "1ryxm0f",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ryxm0f/which_peptide_to_lose_that_last_little_stubborn/",
+  "author_hash": "ce5ca0acbfde39fd130a0a903fa75cfcb495d592fedc42a29894adfc44d6144a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-20T07:22:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Down 40+ lbs on tirzepatide",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Gaining muscle while losing fat on tirzepatide (body scanner confirmed)",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "Depth of sleep is amazing on CJC-1295/Ipamorelin",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Initial fluid retention on CJC-1295/Ipamorelin",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": false
+    },
+    {
+      "category": "flushing",
+      "description": "Initial flushing on CJC-1295/Ipamorelin that dissipates over time",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_weight",
+      "value_after": -40,
+      "unit": "lbs"
+    }
+  ],
+  "protocol_notes": "Started tirzepatide in November. Added CJC-1295+Ipamorelin about one month prior to report. Tracking with body scanner. Uncertain about continued efficacy after adding CJC-1295/Ipamorelin; clothes getting bigger but weight stalled for several weeks. Experiencing good sleep quality.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660801Z"
+}

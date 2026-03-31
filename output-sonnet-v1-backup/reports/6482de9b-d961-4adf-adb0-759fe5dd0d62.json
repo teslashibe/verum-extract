@@ -1,0 +1,42 @@
+{
+  "id": "6482de9b-d961-4adf-adb0-759fe5dd0d62",
+  "source_id": "1rr6ddm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr6ddm/dsip/",
+  "author_hash": "07c2a3adaa74d216d174fbeecb2d8523c40e31451319d2a9c87327da57171712",
+  "confidence_tier": 4,
+  "date_published": "2026-03-11T14:03:58-07:00",
+  "health_conditions": [
+    "insomnia"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Epitalon gave great sleep; woke refreshed even at minimum viable dose of 500mcg nightly",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "DSIP was ineffective across different doses and times. Epitalon was the winner. Notes that best peptides have shortest protocols that need to be spaced out.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109598Z"
+}

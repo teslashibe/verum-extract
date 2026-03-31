@@ -1,0 +1,70 @@
+{
+  "id": "eb4d8142-4c01-44f1-ad07-acb86ba64df8",
+  "source_id": "1qn6v47",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qn6v47/reta_stopped_working/",
+  "author_hash": "d8e8a7353c1ee311a3792537531911e6afe53ed515ccc66a5849ca791328063e",
+  "confidence_tier": 4,
+  "date_published": "2026-01-25T21:07:53-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC/ipa",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Switching to 5mg Reta + 5mg Tirz helped with food noise; complete abstinence from sugar also helped significantly",
+      "severity": "moderate",
+      "onset_days": 28
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "TRT caused increased appetite/eating drive; 10mg Reta/week stopped working for appetite suppression",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 28
+    },
+    {
+      "category": "other",
+      "description": "Went up about 4kg in weight, then returned to previous number",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Was using test and CJC/ipamorelin stack. 10mg Reta/week stopped working. Switched to 5mg Reta + 5mg Tirz. High protein intake, simple carbs only, complete abstinence from sugar helped with food noise over ~4 weeks. Now backing off GLP-1s.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.124026Z"
+}

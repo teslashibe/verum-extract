@@ -1,0 +1,68 @@
+{
+  "id": "804f4a61-22f1-4c6c-9a20-1a55eacd2b99",
+  "source_id": "1f2qj0w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1f2qj0w/bpc157_is_like_a_magic_shot_pain_eraser/",
+  "author_hash": "8984da13d5331d33dbd473d7d3b7ad0cac043a0553bc15303bd1940ed39fe97b",
+  "confidence_tier": 4,
+  "date_published": "2024-08-27T12:55:03-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1670,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Mixing BPC-157 and TB-500 with NAD+ and GHK-Cu eliminated injection burn entirely; no pain during or after injection",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "NAD+ subcutaneous injections cause significant burning pain lasting hours; GHK-Cu also burns, possibly more than NAD+",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Using GLOW protocol (BPC-157 + TB-500) mixed with GHK-Cu and NAD+. Mixes peptides into same vial: 3ml added to 75mg GHK vial, 2ml added to 6mg/6mg BPC/TB vial, 1ml of GHK moved to BPC/TB vial. Injects 20 units per dose, yielding 15 doses at 1670mcg GHK-Cu / 400mcg BPC-157 / 400mcg TB-500 per dose. Added ~500mcg BPC/TB combo to 300mg NAD+ to eliminate burn. Also takes zinc 30mg, 2-3x per week to balance copper from GHK-Cu. Reports no noticeable subjective benefits from NAD+ yet; considers it a long-term DNA repair compound.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.291633Z"
+}

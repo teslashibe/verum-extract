@@ -1,0 +1,42 @@
+{
+  "id": "69c669a1-967c-42d4-84d7-a98ed47030dc",
+  "source_id": "1qc2xpw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qc2xpw/blends_are_bunk/",
+  "author_hash": "e7c6a560f4fd2167aca870188788444707f8bf943756fbe1ea471272e3753987",
+  "confidence_tier": 5,
+  "date_published": "2026-01-13T12:50:26-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Peptide degradation from improper pH compatibility in blends (GHK-Cu with other peptides, KPV/GLOW causing denaturation forming jelly)",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Theoretical discussion: GHK-Cu should not be mixed with other peptides due to pH incompatibility. KLOW/GLOW blends invite peptide degradation. BPC-157 requires neutral solution, TB-500 requires slightly alkaline solution. BAC water pH unknown, causing potential denaturation. Notes blends work for some people but degradation not quantified (estimates less than 80% loss).",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.58,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.68444Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ffb53cbf-1aca-4548-900a-b1f7f479a946",
+  "source_id": "1pie9fk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pie9fk/klow_80_advice_wanted/",
+  "author_hash": "6e5b31c1f21f299414a377fd3db53e4e98e99c5382ecb1621414099d5d8d9409",
+  "confidence_tier": 4,
+  "date_published": "2025-12-09T09:54:55-08:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "3 C-sections (CS) resulting in abdominal numbness"
+  ],
+  "compounds": [
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Very tiny bruising around pinned sites",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Uses same mix and dosage as grlymax (5ml BAC, 20 units = 2.0mg GHK). Has deadening of feeling in abdomen from prior C-sections so cannot assess pain well.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.261117Z"
+}

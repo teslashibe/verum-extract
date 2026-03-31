@@ -1,0 +1,34 @@
+{
+  "id": "8d436dda-e4e6-44bf-93ab-3da824df9044",
+  "source_id": "1kne8nh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kne8nh/is_it_essential_to_pin_ghkcu_ed/",
+  "author_hash": "57813108641ad65e708cfc539756b11eda02f2e054d9937686b5f92de62ef547",
+  "confidence_tier": 5,
+  "date_published": "2025-05-15T10:35:33-07:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "good burn at injection site the following day with somewhat of a welt",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Just started GHK-Cu at 1mg per day. Injected in belly (subcutaneous abdominal region). Experienced local injection site reaction.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.691077Z"
+}

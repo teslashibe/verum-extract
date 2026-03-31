@@ -1,0 +1,42 @@
+{
+  "id": "9a90dcae-dbd8-4a8c-8173-60a7cf16e589",
+  "source_id": "1jvh4mr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jvh4mr/scared_to_try_cjc_ipa/",
+  "author_hash": "c6441dfddcd870873d92b23f27959f2306cd5311b6a7483f2a3c241b37ae79c7",
+  "confidence_tier": 5,
+  "date_published": "2025-04-09T14:20:02-07:00",
+  "compounds": [
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IPA",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Mild reddening of skin similar to a milder grade niacin flush",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Mild elevated heart rate lasting no longer than 10 minutes",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Side effects lasted no longer than 10 minutes.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.286226Z"
+}

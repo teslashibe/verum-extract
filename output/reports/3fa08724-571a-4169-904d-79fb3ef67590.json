@@ -1,0 +1,88 @@
+{
+  "id": "3fa08724-571a-4169-904d-79fb3ef67590",
+  "source_id": "1oc415d",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oc415d/anything_ipa_to_help_with_lower_belly_fat/",
+  "author_hash": "4db52443bf89b44e424641df80f1df9d71937306755294f62f4a8bf84eecbd55",
+  "confidence_tier": 4,
+  "date_published": "2025-10-20T21:56:23-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 161,
+    "unit": "lbs"
+  },
+  "training_status": "weight training 2-3 days per week, 40lbs weighted vest at max incline treadmill for 1 mile",
+  "health_conditions": [
+    "primary hypogonadism"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Estradiol",
+      "value_before": 14.9,
+      "unit": "pg/mL"
+    },
+    {
+      "marker_name": "T4",
+      "value_before": 1.28,
+      "unit": "ng/dL"
+    },
+    {
+      "marker_name": "T3",
+      "value_before": 2.9,
+      "unit": "pg/mL"
+    },
+    {
+      "marker_name": "Blood glucose",
+      "value_before": 88,
+      "unit": "mg/dL"
+    },
+    {
+      "marker_name": "Hemoglobin A1C",
+      "value_before": 5.2,
+      "unit": "%"
+    },
+    {
+      "marker_name": "Insulin",
+      "value_before": 4.7,
+      "unit": "uIU/mL"
+    }
+  ],
+  "protocol_notes": "Considering fat burning stack of MOTS-C, Tesamorelin, and AOD-9604. Currently eating 1400-1600 calories daily (previously 1100-1300), mostly carnivore diet. Started at 210lbs, now 161lbs (49lbs lost total). Low T3 conversion noted. Trying to delay TRT due to primary hypogonadism. Has low protein intake (~120g/day) which user acknowledges needs to be increased. Been on carnivore/animal-based diet for about 1 year, lost 30 of 40lbs during 2022-2023 animal-based phase.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.395386Z"
+}

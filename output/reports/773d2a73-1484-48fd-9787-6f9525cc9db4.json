@@ -1,0 +1,47 @@
+{
+  "id": "773d2a73-1484-48fd-9787-6f9525cc9db4",
+  "source_id": "1rokp5s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rokp5s/cjc1295ipamorelin_blend_and_tirz_stack/",
+  "author_hash": "dd3a265295c724b1a61f5f25912d93904cac5f766ea79dd970500f07ef8528f1",
+  "confidence_tier": 5,
+  "date_published": "2026-03-08T16:58:29-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Muscle retention goal",
+      "severity": "moderate"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Anti-aging goal",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started stack 1 week prior to comment. On aggressive dose of Tirzepatide. Insufficient data for outcomes yet.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.655234Z"
+}

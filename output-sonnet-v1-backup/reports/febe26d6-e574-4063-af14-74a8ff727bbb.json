@@ -1,0 +1,57 @@
+{
+  "id": "febe26d6-e574-4063-af14-74a8ff727bbb",
+  "source_id": "1ppct1r",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ppct1r/lower_your_dose/",
+  "author_hash": "09ecccdfa426fbd378debf4fcb703554ed434ff28a2778b8960fe3be811986ae",
+  "confidence_tier": 4,
+  "date_published": "2025-12-17T16:22:49-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Was stalled losing the same 2-3 pounds on 10mg; after reducing to 5mg, dropped 5 pounds and broke through the weight loss stall",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Increased heart rate correlated with higher dose (10mg)",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "appetite_change",
+      "description": "At 10mg, appetite suppression was absent; was reaching for snacks and candy more often. Stress response to higher dose may have driven increased consumption.",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "OP titrated up to 10mg tirzepatide and stalled for 2 months, then reduced back to 5mg (a previously effective dose) and resumed consistent weight loss. OP attributes the stall at 10mg to physiological stress and lack of appetite suppression at higher dose. Still using same vendor throughout. No bloodwork reported.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.259939Z"
+}

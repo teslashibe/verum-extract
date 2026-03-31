@@ -1,0 +1,113 @@
+{
+  "id": "7e208aba-483e-4caf-9db0-f4267a3f94c2",
+  "source_id": "1s0t6kt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s0t6kt/do_i_need_to_add_anything_else/",
+  "author_hash": "c48bd871b55b412328336b537f5ad91a6976546ae84714c89768217da4c60483",
+  "confidence_tier": 4,
+  "date_published": "2026-03-22T11:26:38-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 125,
+    "unit": "kg"
+  },
+  "training_status": "Swimming twice a week (fast front crawl) and 7-10k steps daily",
+  "health_conditions": [
+    "menopause",
+    "water retention"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "2x weekly (Sundays and Wednesdays)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Magnesium Glycinate",
+      "name_normalized": "magnesium_glycinate",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 1875,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "L Citrulline",
+      "name_normalized": "l_citrulline",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 3000,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Diosmin and Hesperidin",
+      "name_normalized": "diosmin_and_hesperidin",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Electrolyte Capsules",
+      "name_normalized": "electrolyte_capsules",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Berberine HCL Supplement High Strength",
+      "name_normalized": "berberine_hcl_supplement_high_strength",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 2000,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Combined patches",
+      "name_normalized": "combined_patches",
+      "category": "other",
+      "route": "topical",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Magnesium Glycinate (375mg elemental) improved sleep",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Female, 51 years old, 5ft 11in, 125kg, goal weight 99kg. Menopausal, on HRT combined patches. High protein low carb diet. Based in UK. Brand mentioned for Berberine: EVO NUTRITION from Amazon. Elemental magnesium dose noted as 375mg.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105597Z"
+}

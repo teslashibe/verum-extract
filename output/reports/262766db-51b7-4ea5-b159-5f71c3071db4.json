@@ -1,0 +1,58 @@
+{
+  "id": "262766db-51b7-4ea5-b159-5f71c3071db4",
+  "source_id": "1rq8pi1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rq8pi1/what_do_i_need/",
+  "author_hash": "429c5858552bba3ea01f325c564a5109e80e93bc7e0192adbab1c2fb8959337a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T13:38:19-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "CJC-1295 and Ipamorelin stack recommended if IGF-1 is low",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "TB-500 and BPC-157 stack for general recovery",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "Recommends checking IGF-1 levels via blood test before starting CJC-1295/Ipamorelin stack. Also recommends regular blood tests on basic health markers to track overall health. Suggested stack: CJC-1295/Ipamorelin for muscle if IGF-1 is low, and TB-500/BPC-157 for general recovery.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.666069Z"
+}

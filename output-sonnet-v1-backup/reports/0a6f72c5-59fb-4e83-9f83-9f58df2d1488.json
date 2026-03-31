@@ -1,0 +1,35 @@
+{
+  "id": "0a6f72c5-59fb-4e83-9f83-9f58df2d1488",
+  "source_id": "1nyng4c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nyng4c/new_to_peptides_goal_is_fat_loss_advice_needed/",
+  "author_hash": "7d74031b8bf90820dff5a2c00e3bc72b14510af7732493e1f41c16944fb7af47",
+  "confidence_tier": 5,
+  "date_published": "2025-10-05T05:54:25-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Increased hunger attributed to ipamorelin while stacking with CJC-1295"
+    }
+  ],
+  "protocol_notes": "Taking ipamorelin with CJC-1295; recently noticed increased hunger and suspects ipamorelin is the cause.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.269084Z"
+}

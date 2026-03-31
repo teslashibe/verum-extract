@@ -1,0 +1,84 @@
+{
+  "id": "05e61056-2088-4556-8973-fb4f739bb3ac",
+  "source_id": "1o053oo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o053oo/hgh_reta_vs_tesaipa_tirz/",
+  "author_hash": "2334ef663d577dc4d4abf62db60078772096abce68e4d260a3050d00d406424a",
+  "confidence_tier": 4,
+  "date_published": "2025-10-06T21:24:34-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "training_status": "personal trainer \u0026 group fitness instructor, lifting 3x/week, fasted cardio 2-4 days/week, sauna 2-4x/week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "cycle_length_days": 105,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "L-Carnitine",
+      "name_normalized": "l_carnitine",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Body fat reduced from 24% to 18% with no muscle loss",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Food noise muted",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "No titration on tirzepatide. Strict caloric deficit, zero alcohol, high quality sleep, fasted cardio 2-4 days/week, lifting 3x/week, sauna 2-4x/week. Planning sequential cycles: SS-31, then MOTS-c, then NAD+. Extensive hormonal panel completed showing higher end values for age, not perimenopausal. Experiencing plateau in progressive overload.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.396316Z"
+}

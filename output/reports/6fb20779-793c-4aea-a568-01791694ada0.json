@@ -1,0 +1,47 @@
+{
+  "id": "6fb20779-793c-4aea-a568-01791694ada0",
+  "source_id": "tujyzs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/tujyzs/semaglutide_is_magic/",
+  "author_hash": "97b8a5fbcada7eb7b0a48e8bcf679cfd51eb8a6cae118dd216d38dddc7c9d6e4",
+  "confidence_tier": 4,
+  "date_published": "2022-04-02T07:21:40-07:00",
+  "training_status": "Strongman competitor",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 75,
+      "dose_unit": "mcg",
+      "frequency": "1x weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Impulsive behavior suppressing. Stops bingeing, quickly reaches uncomfortably full signal. Does not raid fridge before bed.",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost about 6-8 lbs",
+      "severity": "moderate",
+      "onset_days": 21
+    },
+    {
+      "category": "other",
+      "description": "Reduces impulsive spending behavior and shopping urges",
+      "severity": "moderate",
+      "onset_days": 21
+    }
+  ],
+  "protocol_notes": "From Peptidesciences. User reports effect diminished after week three. Paused experimentation for summer during Strongman competition prep (weight loss not primary concern). Recently price increased to $120/vial. Reports saving money overall due to reduced impulsive purchases.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.129919Z"
+}

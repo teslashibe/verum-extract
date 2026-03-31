@@ -1,0 +1,62 @@
+{
+  "id": "6eafdc4b-d90a-421d-92cc-0e156c5ae022",
+  "source_id": "1kl4pte",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kl4pte/1_week_anecdotal_pinealon_experience_curious/",
+  "author_hash": "b4564445bf1d28961c1321f473b3910338086e004b6249f28df698ef52f5e2c4",
+  "confidence_tier": 4,
+  "date_published": "2025-05-12T14:33:59-07:00",
+  "health_conditions": [
+    "delayed sleep phase disorder",
+    "CFS/fibromyalgia symptoms"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "pinealon",
+      "name_normalized": "pinealon",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 20,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "sema microdose",
+      "name_normalized": "sema_microdose",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Felt sharper and more ready to do intellectual work in the evening",
+      "severity": "mild"
+    },
+    {
+      "category": "energy",
+      "description": "Felt more energized and positive on the day they stopped taking it",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Felt wired before bed; wanted to stay up until 3-4am; doses above 1mg/day caused insomnia; lower doses caused interrupted sleep; worsening of monitored sleep quality on Oura ring",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "appetite_change",
+      "description": "Increased appetite while on sema microdose",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Researched BPC 157, TB 500, MOTs-C, and NAD+ before trying pinealon. Used 20mg vial reconstituted with 2ml bac water; tried 5, 10, then 15 units in a 0.5ml syringe. Experimented with timing (evening, midmorning, upon waking) with no notable difference in effect. Monitors sleep with Oura ring. Plans to try lower doses (\u003c1mg), and considers trying Epitalon and DSIP in the future.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.284144Z"
+}

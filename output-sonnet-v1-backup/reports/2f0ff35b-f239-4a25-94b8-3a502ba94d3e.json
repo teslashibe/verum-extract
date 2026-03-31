@@ -1,0 +1,53 @@
+{
+  "id": "2f0ff35b-f239-4a25-94b8-3a502ba94d3e",
+  "source_id": "1fc20k7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fc20k7/tesaipa_amazing_benefits_after_1_week/",
+  "author_hash": "e4fca7e996acb8c8eee8dd8be363abc21506286a8ecec74255d0716975d7828d",
+  "confidence_tier": 4,
+  "date_published": "2024-09-08T09:36:29-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once daily in the AM",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "frequency": "once daily in the AM",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Loved the results from multiple cycles of Tesa/Ipa"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Evening dose of Tesa/Ipa interfered with sleep; resolved by switching to once daily AM dosing",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Initially split dosing twice daily but switched to once daily AM after evening dose disrupted sleep. Ran multiple cycles. Typical cycle length around 10 weeks. Sweet spot dose was 2mg Tesa / 400mcg Ipa.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.291171Z"
+}

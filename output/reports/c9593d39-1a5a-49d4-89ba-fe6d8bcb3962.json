@@ -1,0 +1,49 @@
+{
+  "id": "c9593d39-1a5a-49d4-89ba-fe6d8bcb3962",
+  "source_id": "1rdpx3y",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdpx3y/why_is_glow_making_me_feel_good_mentally/",
+  "author_hash": "8da091a3ab09ffe8bfc721525dabb9883737e0963d61d22a52b577a4c95e899e",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T11:25:24-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "mood lift from oral BPC-157, can put in really good mood for a while",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "oral BPC-157 can have opposite effect, potential negative mood effect possibly related to gut-brain axis",
+      "severity": "moderate"
+    },
+    {
+      "category": "fatigue",
+      "description": "GHK-Cu makes a little lethargic",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Has experience with BPC-157 oral and GHK-Cu. Notes that BPC-157 injections are considered better for skin benefits. Mentions experiencing both positive and negative mood effects from oral BPC-157.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.660445Z"
+}

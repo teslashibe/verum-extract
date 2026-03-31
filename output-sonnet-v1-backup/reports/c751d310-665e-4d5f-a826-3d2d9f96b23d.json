@@ -1,0 +1,65 @@
+{
+  "id": "c751d310-665e-4d5f-a826-3d2d9f96b23d",
+  "source_id": "1ryxm0f",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ryxm0f/which_peptide_to_lose_that_last_little_stubborn/",
+  "author_hash": "ce5ca0acbfde39fd130a0a903fa75cfcb495d592fedc42a29894adfc44d6144a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-20T07:22:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Down 40+ lbs on tirz since November; body recomp with muscle gain while losing fat tracked with body scanner",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Gaining muscle while losing fat on tirz, tracked with body scanner",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Amazing depth of sleep on CJC1295+ipa",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Initial fluid retention of approximately 5-6 lbs after starting CJC1295+ipa",
+      "severity": "moderate"
+    },
+    {
+      "category": "flushing",
+      "description": "Initial flushing on CJC1295+ipa, dissipates over time",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started tirz in November, down 40+ lbs. Added CJC1295+ipa about a month ago. Weight has stalled within the same range for the last few weeks due to fluid retention, but clothes are getting bigger. Uncertainty about whether CJC1295+ipa is objectively helping. Tracked body composition with a body scanner.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106281Z"
+}

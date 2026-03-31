@@ -1,0 +1,70 @@
+{
+  "compound_id": "bpc_157_delayed",
+  "display_name": "BPC 157 delayed",
+  "category": "other",
+  "total_reports": 1,
+  "reports_by_tier": {
+    "4": 1
+  },
+  "top_benefits": null,
+  "top_side_effects": [
+    {
+      "category": "other",
+      "count": 1,
+      "pct": 100,
+      "avg_severity": 3
+    },
+    {
+      "category": "fatigue",
+      "count": 1,
+      "pct": 100,
+      "avg_severity": 3
+    },
+    {
+      "category": "headache",
+      "count": 1,
+      "pct": 100,
+      "avg_severity": 0
+    },
+    {
+      "category": "sleep_disruption",
+      "count": 1,
+      "pct": 100,
+      "avg_severity": 0
+    },
+    {
+      "category": "mood_change",
+      "count": 1,
+      "pct": 100,
+      "avg_severity": 3
+    }
+  ],
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "bpc_157_250_mcg_delayed",
+      "display_name": "BPC 157 250 mcg delayed",
+      "report_count": 1
+    },
+    {
+      "compound_id": "bpc_157",
+      "display_name": "BPC 157",
+      "report_count": 1
+    },
+    {
+      "compound_id": "kpv",
+      "display_name": "KPV",
+      "report_count": 1
+    }
+  ],
+  "avg_cycle_length_days": 7,
+  "avg_sentiment_score": 0,
+  "sentiment_breakdown": {
+    "positive": 0,
+    "mixed": 0,
+    "negative": 1,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.970266Z"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "562ebee8-f8f3-4fde-ad80-cf0e12ec237f",
+  "source_id": "1rjyp82",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rjyp82/looking_for_insight_into_bpc157_and_tb500_stack/",
+  "author_hash": "aaf5c7ca5654a0d73bf0c5f1111d530e28248d088eb145c51bd493012752ed37",
+  "confidence_tier": 4,
+  "date_published": "2026-03-03T11:22:14-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "healing",
+      "description": "Solid combo for healing and recovery",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Solid combo for healing and recovery",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Uses separate vials. Sources from NextGenPeps. Conservative starting approach.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.669369Z"
+}

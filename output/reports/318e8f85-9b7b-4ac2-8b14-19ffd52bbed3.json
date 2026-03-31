@@ -1,0 +1,55 @@
+{
+  "id": "318e8f85-9b7b-4ac2-8b14-19ffd52bbed3",
+  "source_id": "1r36kn6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r36kn6/allergic_reaction_to_bpc_157_and_tb_500/",
+  "author_hash": "c236c1efdf1673a618fe0de0d8da19858e6523363de83987efeb953f0040346c",
+  "confidence_tier": 4,
+  "date_published": "2026-02-12T13:48:58-08:00",
+  "health_conditions": [
+    "anaphylaxis to nuts and peanuts"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "units",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "units",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Helped a lot in previous 3-month cycle a year ago",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Big hive-like red rashes on lower back",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "Pre-filled syringes from pain management clinic. 20 units BPC-157 and TB-500 mixed blend. Injected an hour before bed. Previous 3-month cycle a year ago had no issues. Current cycle started 2 weeks ago when reaction began. Same vendor as previous successful cycle.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.6768Z"
+}

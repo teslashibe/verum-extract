@@ -1,0 +1,49 @@
+{
+  "id": "00f6fd0c-d7a5-4c2b-93f8-ba0e4eba7423",
+  "source_id": "1pwxe25",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pwxe25/cagrilintide/",
+  "author_hash": "0aa71080a51d71e2d009627a67ba0dc9e261b46d42f6c2959b25b329e48dd562",
+  "confidence_tier": 4,
+  "date_published": "2025-12-27T05:05:32-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.3,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression works well at 0.3mg",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "No energy and felt awful on 3mg for a week",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 7
+    },
+    {
+      "category": "appetite_change",
+      "description": "No appetite on 3mg for a week",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Effective dose is 0.3mg. Once took 3mg (dose error) and experienced severe fatigue and appetite suppression with no GI side effects lasting 1 week.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.672958Z"
+}

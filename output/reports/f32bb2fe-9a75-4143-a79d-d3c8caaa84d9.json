@@ -1,0 +1,36 @@
+{
+  "id": "f32bb2fe-9a75-4143-a79d-d3c8caaa84d9",
+  "source_id": "1rg4bkx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rg4bkx/is_retatrutide_dangerous_for_me_i_am_addicted_to/",
+  "author_hash": "6e373161712102e2cedeef8faa0ec0d6b7399de36946a25c8979d9385f8d364a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T03:34:41-08:00",
+  "health_conditions": [
+    "kratom dependence"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Constipation when combining Retatrutide with kratom during first week; resolved by discontinuing kratom",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "User discontinued kratom to avoid GI complications with Retatrutide. Emphasized importance of hydration and fiber supplementation.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.659377Z"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "301bbfe7-6159-4efd-8560-eb675cfd6f1f",
+  "source_id": "1s4j9xn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4j9xn/ipacjc_timing/",
+  "author_hash": "fab066ff3f1217c533e46fa637236b200513f27c6cb4321fd811f977ecddaa75",
+  "confidence_tier": 4,
+  "date_published": "2026-03-26T13:42:32-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "frequency": "right before sleep",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "right before sleep",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Retatrutide causes significant appetite suppression; skips dinner or eats very small meal at 6pm",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Retatrutide significantly reduces appetite, resulting in minimal food intake at dinner",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Stacks MOTS-c with Reta and CJC-IPA. Injects right before sleep (bed between 9-10pm). Dinner at 6pm with Reta-induced appetite suppression.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.657618Z"
+}

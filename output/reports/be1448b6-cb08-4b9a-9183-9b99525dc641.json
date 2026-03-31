@@ -1,0 +1,41 @@
+{
+  "id": "be1448b6-cb08-4b9a-9183-9b99525dc641",
+  "source_id": "1m6wd15",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m6wd15/how_do_you_keep_track_of_multiple_peptides/",
+  "author_hash": "d65c1f90ce6276e7d113fe6c67c1e7aaf32da0ffdc0180c3be2b4da518d7291e",
+  "confidence_tier": 4,
+  "date_published": "2025-07-22T18:34:00-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "1x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "5x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "5x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User running Tirzepatide 1x weekly with CJC/Ipamorelin 5x weekly stack. Uses MyTherapy app on Android for tracking.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.403452Z"
+}

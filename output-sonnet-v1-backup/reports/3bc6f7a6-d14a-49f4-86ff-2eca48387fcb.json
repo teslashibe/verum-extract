@@ -1,0 +1,53 @@
+{
+  "id": "3bc6f7a6-d14a-49f4-86ff-2eca48387fcb",
+  "source_id": "1r9umrd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9umrd/side_effects_from_glow_combo/",
+  "author_hash": "8ec5455c5cec63596e3450d3bce3ac7ef5c1f88b0612ccee1289d9e443b25ccc",
+  "confidence_tier": 4,
+  "date_published": "2026-02-20T04:56:25-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHKCU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 4,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 4,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 4,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "headache",
+      "description": "2 headaches per day back to back, occurring each day since starting",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "OP mixed GHKCU (50mg), BPC 157 (10mg), and TB500 (10mg) into a single vial by reconstituting each separately with 1mL bacteriostatic water, then combining TB500 and BPC 157 into the GHKCU vial, creating a 70mg 50/10/10 combined vial. Dosing at 12 units daily. Has 16 years experience with MT2 but was off it for a couple months. Also on TRT. Received purity tests with purchase confirming correct concentration.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.116209Z"
+}

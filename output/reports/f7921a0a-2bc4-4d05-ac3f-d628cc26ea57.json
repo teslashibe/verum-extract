@@ -1,0 +1,33 @@
+{
+  "id": "f7921a0a-2bc4-4d05-ac3f-d628cc26ea57",
+  "source_id": "1rk287p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rk287p/hgh_secretagogue_bloodwork/",
+  "author_hash": "c928fe15db48a7845f1cb08f6e842796e6197a39ca7239ad4b7670929b57062a",
+  "confidence_tier": 3,
+  "date_published": "2026-03-03T13:32:01-08:00",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 109,
+      "value_after": 227,
+      "unit": "ng/ml"
+    }
+  ],
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.657425Z"
+}

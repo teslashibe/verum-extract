@@ -1,0 +1,52 @@
+{
+  "id": "78eeff55-cae9-4b97-bf7f-1929af9f221f",
+  "source_id": "10umccs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/10umccs/bpc157_and_tb500_cured_my_chronic_pain_success/",
+  "author_hash": "f45f71a8d65f33a863d358a768a20348a29569aec5e13cab01c9c43deeecf6dc",
+  "confidence_tier": 4,
+  "date_published": "2023-02-05T12:20:10-08:00",
+  "training_status": "active, increased workout frequency and intensity during protocol",
+  "health_conditions": [
+    "high hamstring pain (8 years)",
+    "severe disc issues T11/12"
+  ],
+  "compounds": [
+    {
+      "name_raw": "peptides (implied BPC157/TB500 from context)",
+      "name_normalized": "peptides_implied_bpc157tb500_from_context",
+      "category": "other",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Great improvement in hamstring pain and complete loss of pain in back (T11/12 disc issues). Lasted about three months.",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Able to increase frequency and intensity of workouts; both conditions more manageable after stopping.",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "libido_change",
+      "description": "Severe lack of physical and emotional sensation developed (anhedonia). Physical sensation during sex was most noticeable change; emotional numbness to things that used to excite. Stopped the cycle due to concern it would lead to depression.",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "No effect from caffeine, though not abnormally tired. Described as a weird state.",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Could only maintain protocol for a couple months due to side effects (anhedonia/lack of sensation). Benefits lasted about three months after stopping. May try again in future if conditions worsen.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.427947Z"
+}

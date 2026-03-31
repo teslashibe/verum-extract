@@ -1,0 +1,37 @@
+{
+  "id": "c149cbc8-4eb7-4a5a-b105-4bc1d744a86a",
+  "source_id": "1r6cad0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6cad0/crazy_acne_first_week_on_ghkcu/",
+  "author_hash": "b343d891cd0e18731ae6096a93ff23426b6f81b1c6a84b9c039a2abf14971dec",
+  "confidence_tier": 4,
+  "date_published": "2026-02-16T07:17:06-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 5,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Severe acne breakout, worst since age 13",
+      "severity": "significant",
+      "onset_days": 5
+    }
+  ],
+  "protocol_notes": "First cycle. User also takes 50 mg zinc citrate daily. User suspects this is a purging reaction that should resolve within 2-3 weeks.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.66325Z"
+}

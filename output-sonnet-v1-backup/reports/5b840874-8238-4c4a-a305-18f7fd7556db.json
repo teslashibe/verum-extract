@@ -1,0 +1,50 @@
+{
+  "id": "5b840874-8238-4c4a-a305-18f7fd7556db",
+  "source_id": "1ljzhud",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ljzhud/lab_tests_are_in/",
+  "author_hash": "5c270956e453be04627469000dbb661799a7a801b923edeb2b804b0d9cf0a26c",
+  "confidence_tier": 5,
+  "date_published": "2025-06-25T00:38:57-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "enclomaphine",
+      "name_normalized": "enclomiphene",
+      "category": "hormonal",
+      "route": "oral",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 120,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Loving life after switching from enclomiphene to testosterone TRT at 120mg/week",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Enclomiphene raised total testosterone but did very little for symptoms; free testosterone stayed relatively low",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Was on enclomiphene for 3 months, total testosterone increased but free testosterone remained low and symptoms unresolved. Switched to 120mg/week testosterone TRT with better results.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.280817Z"
+}

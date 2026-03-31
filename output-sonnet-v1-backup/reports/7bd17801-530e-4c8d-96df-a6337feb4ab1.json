@@ -1,0 +1,50 @@
+{
+  "id": "7bd17801-530e-4c8d-96df-a6337feb4ab1",
+  "source_id": "1rjg6q1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rjg6q1/bad_hgh/",
+  "author_hash": "4fda4ba8cb404530c44ade1e3d76d3f46a93ceb3f83432f345a2d9dc3698d08e",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T20:50:06-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "Trains 5x per week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "hgh",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Edema",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "numbness_tingling",
+      "description": "Carpal tunnel",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "45 years old. Takes 6IU HGH before bed daily; no longer cycles off HGH. Wife takes 1IU per day. Also takes higher dose testosterone. Notes side effects subside if you start low.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112805Z"
+}

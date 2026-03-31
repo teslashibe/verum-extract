@@ -1,0 +1,55 @@
+{
+  "id": "d48fde18-b51b-4e9d-a6dd-dd46f6d94273",
+  "source_id": "1qc2xpw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qc2xpw/blends_are_bunk/",
+  "author_hash": "7ebb1a73f459e6e3c34d6f2e06024c43e6999451faa3b61294bb72d1173c5eca",
+  "confidence_tier": 4,
+  "date_published": "2026-01-13T12:50:26-08:00",
+  "health_conditions": [
+    "autoimmune condition"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "inflammation",
+      "description": "KPV helps tremendously with inflammation related to autoimmune condition",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Uses CJC/Ipamorelin but doses, cycles, and phases everything separately from blends. Will consolidate Klow components into same vial for convenience. Does not cycle KPV. Takes KPV with a grain of salt regarding blend efficacy but likes its effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.671189Z"
+}

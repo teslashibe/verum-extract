@@ -1,0 +1,52 @@
+{
+  "id": "a725bf00-b023-493b-8d71-8943f373a8ca",
+  "source_id": "1rs1999",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rs1999/best_pep_for_acne_not_ghkcu/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T12:54:56-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "18-24",
+  "health_conditions": [
+    "acne",
+    "hormonal acne"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "oral",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Spironolactone",
+      "name_normalized": "spironolactone",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 365,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "faded previous scars",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User is on Spironolactone 100mg daily for acne management. GHK-Cu cycle completed 2 months with modest scar fading but persistent acne breakouts remain despite treatment.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.66492Z"
+}

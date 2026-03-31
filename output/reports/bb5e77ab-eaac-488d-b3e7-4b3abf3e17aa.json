@@ -1,0 +1,68 @@
+{
+  "id": "bb5e77ab-eaac-488d-b3e7-4b3abf3e17aa",
+  "source_id": "1l7e7f3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1l7e7f3/i_had_a_severe_mast_cell_reaction_to_sermorelin/",
+  "author_hash": "c1ecc119a7505bdd508e23c4dd463b9db7533e246198ae956ad3c2d5f8186624",
+  "confidence_tier": 4,
+  "date_published": "2025-06-09T12:37:03-07:00",
+  "health_conditions": [
+    "MCAS-like allergies",
+    "possible long COVID"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 90 lbs using Retatrutide, but visceral fat did not budge until adding tesamorelin and ipamorelin",
+      "severity": "significant"
+    },
+    {
+      "category": "anti_aging",
+      "description": "KPV used for MCAS-like allergies and mast cell stabilization",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Recent MCAS reaction to BPC-157 with 2 days of suffering before relief",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 2
+    }
+  ],
+  "protocol_notes": "User lost 90 lbs with Retatrutide but visceral fat did not respond. Added tesamorelin and ipamorelin to address visceral fat. Recently had MCAS reaction to BPC-157 but found KPV to act like an antidote, providing relief after 2 days. Now uses KPV ongoing for MCAS-like allergies. Reports KPV has no known bad side effects and is made of 3 amino acids, 2 of which are essential.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.406739Z"
+}

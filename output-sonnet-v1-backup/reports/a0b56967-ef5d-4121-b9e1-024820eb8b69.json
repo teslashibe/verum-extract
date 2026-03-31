@@ -1,0 +1,46 @@
+{
+  "id": "a0b56967-ef5d-4121-b9e1-024820eb8b69",
+  "source_id": "1rvz0a4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvz0a4/reta_dosage/",
+  "author_hash": "3bb9a4939a2294e6bef83b064cea42f36c8587ea7b65ac25c3f762c1805b74f8",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T23:33:02-07:00",
+  "reported_weight": {
+    "value": 78,
+    "unit": "kg"
+  },
+  "training_status": "gym 5 days a week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1.2,
+      "dose_unit": "mg",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 4kg in 2 months (82kg to 78kg)",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Still feeling hungry despite being on 1.2mg; appetite suppression insufficient",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Eating 2 meals a day totaling ~1500 calories. Previous weight was 82kg. Asking about increasing dose to 1.5mg or 2mg due to insufficient appetite suppression.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.107467Z"
+}

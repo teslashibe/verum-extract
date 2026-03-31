@@ -1,0 +1,52 @@
+{
+  "id": "943307a0-3d5d-45f0-946c-efebe93abfe3",
+  "source_id": "l7vp4j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/l7vp4j/as_per_research_study_bpc157_was_found_to_be_more/",
+  "author_hash": "f26717c3bcdcd05a12fd563c123f85e13a3ea247264b4574968c35d862e57af3",
+  "confidence_tier": 4,
+  "date_published": "2021-01-29T07:43:20-08:00",
+  "health_conditions": [
+    "anxiety",
+    "depression"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anxiety_relief",
+      "description": "Anxiety reduced to 15% of previous levels",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "mood",
+      "description": "Depression reduced to 15% of previous levels; subjective feeling of brain neuron healing",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Stack of BPC-157 and TB-500; injected subcutaneously in shoulder; 1 week into protocol at time of report",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.131937Z"
+}

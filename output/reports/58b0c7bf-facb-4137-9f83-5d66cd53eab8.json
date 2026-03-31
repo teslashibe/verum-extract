@@ -1,0 +1,62 @@
+{
+  "id": "58b0c7bf-facb-4137-9f83-5d66cd53eab8",
+  "source_id": "1rgqppm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rgqppm/need_help_breaking_reta_stall_what_to_stack/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T18:33:51-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 225,
+    "unit": "lbs"
+  },
+  "training_status": "minimal (newborn, limited workouts)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 12.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Previous weight loss from 265 to 180 lbs on Mounjaro; currently on Retatrutide with appetite suppression present but minimal weight loss over 2 months",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression still present on Retatrutide, less constipation than on Tirzepatide",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Constipation was worse on Tirzepatide than Retatrutide",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "On TRT (testosterone replacement therapy). History of Mounjaro use starting end of 2022, down to 180 lbs by Summer 2023. Stopped TRT and took Clomid for fertility (wife became pregnant May 2025), experienced weight gain back to 240 lbs. Restarted TRT and titrated Tirzepatide up to 12.5 mg, reached 225 lbs. Currently on Retatrutide titrated from 4 mg to 10 mg (5 mg twice weekly) over past 2 months with stalled weight loss. Previously tried Retatrutide at 8 mg/month (felt supply was bad or ineffective). Considering titration to 12 mg Reta or switching back to Tirzepatide. Interested in stacking with Cagri or HGH.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.670723Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "a4963502-2e02-4489-a76f-4815fe06d289",
+  "source_id": "1rlm71k",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rlm71k/tesareta_stack/",
+  "author_hash": "4cc8dd7d1a89a798961860cd391540c96a435817a01c94a50a7a846382d61052",
+  "confidence_tier": 5,
+  "date_published": "2026-03-05T08:33:00-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5 days on, 2 days off",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped 20 pounds on previous Reta cycle",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "muscle_loss",
+      "description": "Lost some muscle on previous Reta cycle",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Planning to stack Tesamorelin with Retatrutide to preserve muscle while achieving fat loss. Considering 5 days on / 2 days off dosing protocol for cost effectiveness.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.656617Z"
+}

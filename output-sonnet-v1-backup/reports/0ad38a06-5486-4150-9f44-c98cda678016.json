@@ -1,0 +1,73 @@
+{
+  "id": "0ad38a06-5486-4150-9f44-c98cda678016",
+  "source_id": "1h3p2hn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1h3p2hn/what_peptides/",
+  "author_hash": "5a403e9653c4d69c2d38bd82a36faaf7c50011ad1067e021e1a83c8a65078286",
+  "confidence_tier": 4,
+  "date_published": "2024-11-30T15:12:08-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "PT141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "frequency": "as needed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Melanotan 2",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "as needed, 30-40 minutes before UV exposure",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-IPA",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "1x a day (5 on 2 off)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 300,
+      "dose_unit": "mg",
+      "frequency": "every 3 days",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss peptides described as biggest winners"
+    },
+    {
+      "category": "libido",
+      "description": "Sexual arousal improvement from PT141/MT2"
+    },
+    {
+      "category": "skin",
+      "description": "Tanning effect from Melanotan 2"
+    },
+    {
+      "category": "recovery",
+      "description": "Recovery and muscle retention/growth from CJC-IPA"
+    },
+    {
+      "category": "other",
+      "description": "General health and healing from NAD+"
+    }
+  ],
+  "protocol_notes": "MT2 dose range 300-500 mcg before UV exposure; CJC/IPA dose range 250-500 mcg. Philosophy is to find lowest effective dose, less is more. Use as needed.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.289237Z"
+}

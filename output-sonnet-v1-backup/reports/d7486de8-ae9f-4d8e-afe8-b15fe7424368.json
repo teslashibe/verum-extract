@@ -1,0 +1,59 @@
+{
+  "id": "d7486de8-ae9f-4d8e-afe8-b15fe7424368",
+  "source_id": "1n5qiin",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n5qiin/tesaipa_vs_hgh_cost_effectiveness_and_longterm/",
+  "author_hash": "d4de6cad8c9e04dd84f06261b629f25954100ed92725c60862e9e7924ba280ca",
+  "confidence_tier": 4,
+  "date_published": "2025-09-01T07:40:54-07:00",
+  "reported_age_range": "25-29",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "cjc",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "frequency": "3x day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "3x day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "daily or every other day",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "CJC+IPA 3x/day in mid-20s produced roughly comparable results to ~2 IU HGH now",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Developed injection site reactions to the *morelins",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Ran CJC and IPA 3x/day years ago in mid-20s. Later switched to HGH. Anecdotally, both produced similar results at those respective doses/ages. Switched to HGH for convenience (once daily or EOD, no meal timing). Developed injection site reactions to the morelins which also drove the switch.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.273127Z"
+}

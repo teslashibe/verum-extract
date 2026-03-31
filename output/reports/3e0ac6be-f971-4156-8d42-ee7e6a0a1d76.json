@@ -1,0 +1,63 @@
+{
+  "id": "3e0ac6be-f971-4156-8d42-ee7e6a0a1d76",
+  "source_id": "1rzuob8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzuob8/reta_failure/",
+  "author_hash": "886c00a50612f3267e36a25c1c2de344722f11d5db974ba361a83239779f9174",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T08:43:18-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "reported_weight": {
+    "value": 210,
+    "unit": "lbs"
+  },
+  "training_status": "actively works out and moves",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "severe fatigue, struggling to get out of bed, slow and tired throughout day",
+      "severity": "significant",
+      "onset_days": 7,
+      "resolved": false
+    },
+    {
+      "category": "cognitive_impairment",
+      "description": "bad brain fog",
+      "severity": "significant",
+      "onset_days": 14,
+      "resolved": false
+    },
+    {
+      "category": "mood_change",
+      "description": "feels somewhat good/normal at times or super tired and worn out",
+      "severity": "moderate",
+      "onset_days": 21
+    },
+    {
+      "category": "headache",
+      "description": "brutal headaches after drinking alcohol",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Week 1: 1mg, Week 2: 2mg, Week 3: 2mg, Week 4: 1.5mg. User reports zero appetite suppression and continues eating like an animal at night. Concerned about drinking interactions. Discontinued use after 4 weeks due to intolerable fatigue and brain fog. User states he is already lean and was using Retatrutide for potential anti-cancer/tumor growth reduction benefits in addition to cutting body fat.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660279Z"
+}

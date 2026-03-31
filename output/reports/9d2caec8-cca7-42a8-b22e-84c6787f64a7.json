@@ -1,0 +1,31 @@
+{
+  "id": "9d2caec8-cca7-42a8-b22e-84c6787f64a7",
+  "source_id": "1cznwgw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1cznwgw/ghkcu_mixed_with_2ml_bacteriostatic_water_can_i/",
+  "author_hash": "bcab4d9fb8d0a851d9ba455159096ed20774f53756bbb8c9573bcfea3e243725",
+  "confidence_tier": 5,
+  "date_published": "2024-05-24T08:48:04-07:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "horrible lumps and itching at injection site",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Mixed 3ml bacteriostatic water with GHK-Cu (dose amount unclear). Experienced severe lumps and itching, discontinued use.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.697486Z"
+}

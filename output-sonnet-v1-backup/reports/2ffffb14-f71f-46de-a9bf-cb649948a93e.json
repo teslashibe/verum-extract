@@ -1,0 +1,56 @@
+{
+  "id": "2ffffb14-f71f-46de-a9bf-cb649948a93e",
+  "source_id": "1nnr882",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nnr882/anyone_stacking_test_reta_tesa/",
+  "author_hash": "ba04c7c9d927626a2e38f2fbba8b87d294f10e89c85d51aede654b60ecc27274",
+  "confidence_tier": 4,
+  "date_published": "2025-09-22T09:29:07-07:00",
+  "reported_weight": {
+    "value": 227,
+    "unit": "lbs"
+  },
+  "training_status": "Currently not in gym due to hernia surgery",
+  "health_conditions": [
+    "hernia surgery"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Down from 268 lbs to 227 lbs since May (approximately 4-5 months)",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Good body recomp, feeling great",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "On Test/Reta for several months, added Tesa one month ago. Down 41 lbs since May despite zero gym time due to hernia surgery.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.270475Z"
+}

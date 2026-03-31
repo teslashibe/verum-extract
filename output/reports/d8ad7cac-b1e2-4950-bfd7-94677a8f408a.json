@@ -1,0 +1,35 @@
+{
+  "id": "d8ad7cac-b1e2-4950-bfd7-94677a8f408a",
+  "source_id": "1r1lg6n",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r1lg6n/has_anyone_used_peptides_to_treat_for_severe_gerd/",
+  "author_hash": "fbddc16c0f6810477e614c8c1c7d34d485e1144d964df8bf1dea42c8ebcb0bb3",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T18:46:46-08:00",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 75,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Promotes healing of gastric mucosa and reduces inflammation in GI tract; most people see improvement within 2-4 weeks of consistent dosing",
+      "severity": "significant",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "Recommended protocol: 250-500mcg daily subcutaneous injection (abdomen). Take on empty stomach, wait 30 minutes before eating. Can run for 60-90 days safely. Promotes actual tissue repair rather than masking symptoms like PPIs.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665088Z"
+}

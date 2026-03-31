@@ -1,0 +1,48 @@
+{
+  "id": "80ab6a51-1aff-4640-9119-a28e986e6834",
+  "source_id": "1rsqa3b",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rsqa3b/i_think_the_general_public_is_overcomplicating/",
+  "author_hash": "0d7ffb12c9a0328433884b17b85ff61a950ecb02d0c88bce758b69941abc7686",
+  "confidence_tier": 5,
+  "date_published": "2026-03-13T08:23:05-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "klow",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Overshot weight loss targets",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User tried many peptides, overshot weight loss goals, stopped taking everything, plans to return to just Reta and GHK-Cu",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.108949Z"
+}

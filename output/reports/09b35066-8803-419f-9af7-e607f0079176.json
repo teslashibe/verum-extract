@@ -1,0 +1,74 @@
+{
+  "id": "09b35066-8803-419f-9af7-e607f0079176",
+  "source_id": "1fc20k7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fc20k7/tesaipa_amazing_benefits_after_1_week/",
+  "author_hash": "d69e18600d2b976ab6e19b1ea580344509ef52312b3c3954410425210352d298",
+  "confidence_tier": 4,
+  "date_published": "2024-09-08T09:36:29-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Capromorelin",
+      "name_normalized": "capromorelin",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Tesamorelin and ipamorelin plus helped with energy",
+      "severity": "moderate",
+      "onset_days": 2
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "helped with appetite",
+      "severity": "moderate",
+      "onset_days": 2
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Capromorelin made user so tired could barely function for a day or two after injection",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User on Tirzepatide for a few months, tried adding Capromorelin for last 10lbs but experienced severe fatigue for 1-2 days after each injection. Connected dots after 3 injections and discontinued. Added Tesamorelin and Ipamorelin (plus 'mic') 2 days prior to comment, which helped with energy and appetite. Planning to ditch Capromorelin and return to Retatrutide if needing weight loss boost later.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696385Z"
+}

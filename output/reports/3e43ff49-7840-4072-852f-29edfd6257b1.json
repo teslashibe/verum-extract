@@ -1,0 +1,70 @@
+{
+  "id": "3e43ff49-7840-4072-852f-29edfd6257b1",
+  "source_id": "1p0i2wh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p0i2wh/help_me_design_my_stack/",
+  "author_hash": "3d74877975cd0896e25de53db30f0b460eca07e2cae1f0ecbe59847966102938",
+  "confidence_tier": 4,
+  "date_published": "2025-11-18T09:27:48-08:00",
+  "reported_sex": "male",
+  "training_status": "similar build to OP, 6'3\", legs/glutes not growing well",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone Cypionate",
+      "name_normalized": "testosterone_cypionate",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Losing 2 lbs per week while increasing muscle and strength at week 6",
+      "severity": "significant",
+      "onset_days": 42
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Increasing a little muscle and strength",
+      "severity": "mild",
+      "onset_days": 42
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "At 3mg/week, struggling to eat and sick thinking about food. At 4mg/week dose, was too severe, returned to 3mg/week.",
+      "severity": "significant",
+      "onset_days": 28,
+      "resolved": false
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep difficulties at higher retatrutide doses",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Week 6 of protocol. Started at 1mg/week, increased to 3mg/week at week 4, attempted 4mg/week at week 5 but reverted to 3mg/week due to appetite suppression. Recommends starting at 1mg/week and titrating up. Noted that HGH/Tesa doesn't seem as beneficial as expected compared to moderate PEDs, diet and training.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.393395Z"
+}

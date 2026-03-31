@@ -1,0 +1,44 @@
+{
+  "id": "5a96475d-917a-4e6e-85c2-fc92c366e6d9",
+  "source_id": "1r4qcvt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r4qcvt/glow_peptide_and_nad/",
+  "author_hash": "c54c6deff3a47cdf857c131bb28087c1c3b08434eec48a59941a284f17299907",
+  "confidence_tier": 5,
+  "date_published": "2026-02-14T09:23:47-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "NAD+ had low pH (3-4 from some vendors vs ideal 5-6), causing spicy/painful injections. Adding sodium bicarbonate Hospira BAC water resolved pH issues, enabling injection in tummy and thighs without issue.",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "injection_site",
+      "description": "KLOW too spicy for stomach injection; no issues injecting in buttock.",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Checks pH of NAD+ with pH strips; uses sodium bicarbonate Hospira BAC water to manage pH. Injects KLOW in gluteal region to avoid irritation.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.118203Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "288dc4c4-5551-4704-8dab-6943fbb95026",
+  "source_id": "1pc0rhu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pc0rhu/first_time_reconstituting_did_i_screw_this_up/",
+  "author_hash": "8f7d90dd1dabff0d9b494010caad6569c8d69f3e439dc229677846dccc6d9797",
+  "confidence_tier": 4,
+  "date_published": "2025-12-01T21:55:42-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Peptide gelled frequently in vial",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Previously took 2 mg daily (approximately 95 units with 6ml BAC reconstitution, or 10 units with 1.2ml 10:1 concentration). Experienced vial gelling with BAC, resolved by switching to Acetic Acid (AA) instead of BAC.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.392055Z"
+}

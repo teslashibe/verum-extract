@@ -1,0 +1,38 @@
+{
+  "id": "947450ec-6aca-4013-a0ab-686b670664e5",
+  "source_id": "1pkpsyg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pkpsyg/hgh_gut_from_peptides/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 5,
+  "date_published": "2025-12-12T03:41:07-08:00",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "once nightly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "once nightly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User specifies 'CJC No DAC' which is CJC-1295 without DAC (no drug affinity complex). Protocol duration only 1 week at time of posting.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.674694Z"
+}

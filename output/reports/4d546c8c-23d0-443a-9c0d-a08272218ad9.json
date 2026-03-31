@@ -1,0 +1,58 @@
+{
+  "id": "4d546c8c-23d0-443a-9c0d-a08272218ad9",
+  "source_id": "1m44bjy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m44bjy/cjcipa_impact_on_sleep_quality/",
+  "author_hash": "614cac9663429d3a1ee9b3929328275bb480ce38629224b735a5acd98c18a235",
+  "confidence_tier": 4,
+  "date_published": "2025-07-19T12:09:42-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep improved including percentage of deep sleep; wakes up feeling more rested than have in a long time",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiovascular",
+      "description": "Resting heart rate and heart rate variability gotten a little worse",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "resting heart rate"
+    },
+    {
+      "marker_name": "heart rate variability"
+    }
+  ],
+  "protocol_notes": "Dose of 250 mcg each. Gets less total sleep but wakes more rested. Notes individual variation in sleep impacts of CJC/IPA combo.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.87,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.687015Z"
+}

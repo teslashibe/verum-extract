@@ -1,0 +1,34 @@
+{
+  "id": "5365860e-d734-4325-a0f5-41b815bf3bc4",
+  "source_id": "1rmyf77",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmyf77/reta_tingle/",
+  "author_hash": "33d2a76e4bcd349ca1387c52adbfc58449087427a950b9aee8cdc616e5a60325",
+  "confidence_tier": 4,
+  "date_published": "2026-03-06T18:55:53-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "cycle_length_days": 70,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "Severe skin tingles during titration weeks",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Working with 4 training subjects titrated to 4mg at 6 weeks. Personally at week 10 and 2.5mg dose with severe tingles during titration. Notes side effect is individual dependent and primarily occurs during titration weeks.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.667699Z"
+}

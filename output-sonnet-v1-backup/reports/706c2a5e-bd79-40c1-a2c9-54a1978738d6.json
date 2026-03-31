@@ -1,0 +1,58 @@
+{
+  "id": "706c2a5e-bd79-40c1-a2c9-54a1978738d6",
+  "source_id": "1lc6sdp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lc6sdp/the_power_of_retatrutide/",
+  "author_hash": "f52a88469891406c54102e85943d9fe3c05f354c9f21207dba4b14b12a55c1d3",
+  "confidence_tier": 4,
+  "date_published": "2025-06-15T11:05:37-07:00",
+  "reported_sex": "male",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 50 pounds over 6 months, shed fat while preserving almost all muscle",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Never hungry, crushed desire to eat",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Allowed for more energy",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Burned more calories at rest",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Nausea once dose reached around 7mg a week; went back down to 6.5mg to manage",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started at 2mg per week and slowly titrated up to 8mg, then reduced back down due to nausea returning. Currently maintaining at 6.5mg per week. Diet and cardio also used alongside peptide.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.281777Z"
+}

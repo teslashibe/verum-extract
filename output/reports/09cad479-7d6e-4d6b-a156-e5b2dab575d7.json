@@ -1,0 +1,38 @@
+{
+  "id": "09cad479-7d6e-4d6b-a156-e5b2dab575d7",
+  "source_id": "1ro7ax7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ro7ax7/igf_levels_and_hgh/",
+  "author_hash": "f5c466dec34eb521e7ba3ff66f950813d95d88413c40613d202af6c54188de5b",
+  "confidence_tier": 5,
+  "date_published": "2026-03-08T08:13:15-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 5,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_after": 550,
+      "unit": "ng/mL"
+    },
+    {
+      "marker_name": "IGF-1 Z-score",
+      "value_after": 2.2,
+      "unit": "Z-score"
+    }
+  ],
+  "protocol_notes": "Running 5iu daily with IGF-1 at 550 ng/mL and Z-score of 2.2.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.65558Z"
+}

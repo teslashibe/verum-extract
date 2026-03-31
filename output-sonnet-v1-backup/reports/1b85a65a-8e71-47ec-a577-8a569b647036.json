@@ -1,0 +1,108 @@
+{
+  "id": "1b85a65a-8e71-47ec-a577-8a569b647036",
+  "source_id": "1mabyts",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mabyts/what_was_the_combo_you_found_that_broke_your/",
+  "author_hash": "69a61101aa51b5d25fa5e08cae2a0de12a6fdff167c74613d7b7c4782dc27f6a",
+  "confidence_tier": 4,
+  "date_published": "2025-07-26T20:15:55-07:00",
+  "reported_weight": {
+    "value": 82,
+    "unit": "kg"
+  },
+  "training_status": "progressive overload training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "Monday to Friday",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "5amino",
+      "name_normalized": "5_amino",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "Monday to Friday",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "klow",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "Monday to Friday",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "3x a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tessa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "Monday to Friday",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipam",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "Monday to Friday",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "3x a week",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "2kg down first week, 1kg in second and third week, all fat. Total of 33kg lost prior to plateau break, now at 82kg",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "other",
+      "description": "Feels amazing overall",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "blood work (unspecified)"
+    }
+  ],
+  "protocol_notes": "Has been cycling peptides for 12 months. Previously tried Tessa and ipam together without same results. Increased calories from 2200 to 2600 during current cycle. Maintains progressive overload training and high protein diet. NAD reconstituted with BAC water: 1000mg vial with 2.5ml BAC, 25 units = 100mg.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.277805Z"
+}

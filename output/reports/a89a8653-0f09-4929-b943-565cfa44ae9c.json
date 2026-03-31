@@ -1,0 +1,35 @@
+{
+  "id": "a89a8653-0f09-4929-b943-565cfa44ae9c",
+  "source_id": "1p0sjyw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p0sjyw/has_anyone_else_hit_a_point_where_the_hunger/",
+  "author_hash": "1fcd4c6d4af1c9528fe0e13c581f5bf18a59593325a7fecef1da1635ac752636",
+  "confidence_tier": 4,
+  "date_published": "2025-11-18T16:11:04-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Experienced tolerance at month 2, titrating up dose to restore effect",
+      "severity": "mild",
+      "onset_days": 60
+    }
+  ],
+  "protocol_notes": "User hit tolerance quickly at month 2. Started at 1mg twice weekly, increased to 2mg twice weekly, now planning to increase to 3mg twice weekly.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.676939Z"
+}

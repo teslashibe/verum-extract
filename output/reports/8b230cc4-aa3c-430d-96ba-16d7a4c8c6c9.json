@@ -1,0 +1,78 @@
+{
+  "id": "8b230cc4-aa3c-430d-96ba-16d7a4c8c6c9",
+  "source_id": "1krod1i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1krod1i/peptides_for_body_building_show_prep/",
+  "author_hash": "91b7bb56e412f87d5684a0e4268da68453f9a4b93e3ebc6ba99eacd859a80c0c",
+  "confidence_tier": 5,
+  "date_published": "2025-05-20T20:40:46-07:00",
+  "training_status": "bodybuilder",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Retatrutide for appetite suppression"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Reta for retaining muscle"
+    },
+    {
+      "category": "fat_loss",
+      "description": "CJC/Ipamorelin for fat-burning"
+    },
+    {
+      "category": "recovery",
+      "description": "CJC/Ipamorelin for recovery"
+    },
+    {
+      "category": "gut_health",
+      "description": "BPC-157 for gut health during high protein diet"
+    },
+    {
+      "category": "joint_pain",
+      "description": "BPC-157 for joint support with excessive cardio and training"
+    },
+    {
+      "category": "immune",
+      "description": "Glutathione for immune system at low body fat"
+    }
+  ],
+  "protocol_notes": "Stacked recommendation for bodybuilding show prep. User prefers CJC-1295/Ipamorelin combination as GH secretagogue choice.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.407928Z"
+}

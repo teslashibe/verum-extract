@@ -1,0 +1,44 @@
+{
+  "id": "966dab18-332d-458f-8ff4-e197f1cc5edf",
+  "source_id": "1rtra6z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rtra6z/ss31_severe_fatigue_and_tiredness/",
+  "author_hash": "dc613ec5e904537519132358dccdd7a773007978e6a8bfd3bd46c365603b3b7e",
+  "confidence_tier": 4,
+  "date_published": "2026-03-14T11:42:49-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 2,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "felt a bit of a pep",
+      "severity": "mild",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "itchy after pin",
+      "severity": "mild",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Day 2 of use at 1mg daily. Minimal positive effects so far, mainly injection site irritation.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.652024Z"
+}

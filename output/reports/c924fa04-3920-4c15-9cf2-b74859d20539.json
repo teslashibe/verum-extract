@@ -1,0 +1,76 @@
+{
+  "id": "c924fa04-3920-4c15-9cf2-b74859d20539",
+  "source_id": "1lkp6za",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lkp6za/best_peptides_for_skin_texture_collagen_glow_etc/",
+  "author_hash": "561b7760813158fcd4f6d8a56f833c0a47be8f0bb3f9b8e35bfb9b3273c20b48",
+  "confidence_tier": 4,
+  "date_published": "2025-06-25T19:53:28-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "50-59",
+  "health_conditions": [
+    "sun damage",
+    "mild Melasma"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "GHK-Cu made hair grow a lot",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "discoloration almost gone, skin much brighter with Glutathione",
+      "severity": "significant",
+      "onset_days": 56
+    },
+    {
+      "category": "recovery",
+      "description": "used stack after surgery",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Female with sun damage and mild Melasma. Used blend of BPC-157/GHK-Cu/KPV/TB-500 after surgery. Glutathione taken separately. Results visible at 8-10 weeks.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.405339Z"
+}

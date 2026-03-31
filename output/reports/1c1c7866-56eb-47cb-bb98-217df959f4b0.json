@@ -1,0 +1,34 @@
+{
+  "id": "1c1c7866-56eb-47cb-bb98-217df959f4b0",
+  "source_id": "1s3p6qw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3p6qw/anhedonia_from_bpc157_at_lower_dosages/",
+  "author_hash": "a6478ccf09c71c5aa72d251a46a14c18cbb8c66f452e22c0679fef23d5a5ea73",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T15:15:12-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Anhedonia experienced initially, resolved over time",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User refers to 'glow blend'; currently on 1mg/day BPC-157 with no issues reported at time of writing",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.657955Z"
+}

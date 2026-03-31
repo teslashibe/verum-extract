@@ -1,0 +1,39 @@
+{
+  "id": "e90f2db6-757d-42d4-83d0-dba66215dc33",
+  "source_id": "1riovis",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1riovis/motsc/",
+  "author_hash": "e319b385d5d8f0605063834f8e415455f099db3aea7adcf888a555a9b605fe8b",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T02:01:45-08:00",
+  "training_status": "active, tracks workout performance",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "noticed performance increase starting at 2.5mg 3x/week; workouts improved significantly at 3x5mg/week",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "improved workout performance",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started at 2.5mg 3x/week, titrated up to 5mg 3x/week. Both doses produced noticeable benefits, with current dose producing significant workout improvement.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.113143Z"
+}

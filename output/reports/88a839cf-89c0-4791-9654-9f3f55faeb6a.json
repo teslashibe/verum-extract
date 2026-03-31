@@ -1,0 +1,35 @@
+{
+  "id": "88a839cf-89c0-4791-9654-9f3f55faeb6a",
+  "source_id": "1s74bbc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s74bbc/motsc_dosage_with_reta/",
+  "author_hash": "2cec8b3c95cbb674a197457dfbb5594f8b898c7bb895690743070153bb9e5892",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T12:23:13-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "7 days per week was too much for this user",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Previously ran 7 days per week but found it excessive, now switched to 5 days on, 2 days off at 2mg daily.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.656008Z"
+}

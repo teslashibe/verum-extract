@@ -1,0 +1,64 @@
+{
+  "id": "c8cd4307-cf45-485f-b9c5-80f1c0892035",
+  "source_id": "1qsuf9o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qsuf9o/ss31_motsc_nad_analysis_of_a_14week_mitochondrial/",
+  "author_hash": "c7f1798833983b602e7052d90823e0989f11e280c39bcb1971713b307dfaf481",
+  "confidence_tier": 4,
+  "date_published": "2026-02-01T01:54:29-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "2x per week",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "3x per week",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Increased energy",
+      "severity": "significant"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Feeling younger",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Feeling better about everything",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User at week 12 of 14-week mitochondrial enhancement protocol. Was healthy going into the cycle.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.681492Z"
+}

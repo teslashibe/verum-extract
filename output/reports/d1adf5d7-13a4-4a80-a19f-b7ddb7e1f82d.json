@@ -1,0 +1,53 @@
+{
+  "id": "d1adf5d7-13a4-4a80-a19f-b7ddb7e1f82d",
+  "source_id": "1ni172o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ni172o/has_anyone_here_ever_stacked_peptides_with/",
+  "author_hash": "255b7459385c20854aa76c849211c1af7c34d7f9c900c1a03239de70a1fe9541",
+  "confidence_tier": 4,
+  "date_published": "2025-09-15T16:09:31-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Metformin",
+      "name_normalized": "metformin",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "helped stay level with appetite",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "rough GI side effects at first",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 21
+    }
+  ],
+  "protocol_notes": "Semaglutide 1mg weekly plus metformin 500mg twice daily. Side effects resolved after 2-3 weeks.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.681746Z"
+}

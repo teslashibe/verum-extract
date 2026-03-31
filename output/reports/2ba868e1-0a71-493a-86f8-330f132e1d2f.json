@@ -1,0 +1,48 @@
+{
+  "id": "2ba868e1-0a71-493a-86f8-330f132e1d2f",
+  "source_id": "1rslanz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rslanz/starting_ipamorelin_at_19/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 5,
+  "date_published": "2026-03-13T04:56:21-07:00",
+  "reported_age_range": "18-24",
+  "training_status": "gym 5x per week, healthy lifestyle",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "potential increase in deep sleep; currently averaging 45 minutes of deep sleep per night"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "deep sleep duration",
+      "value_before": 45,
+      "unit": "minutes"
+    },
+    {
+      "marker_name": "REM sleep",
+      "value_before": 1.5,
+      "unit": "hours"
+    },
+    {
+      "marker_name": "total sleep time",
+      "value_before": 8,
+      "unit": "hours"
+    }
+  ],
+  "protocol_notes": "User is 19 years old, considering starting ipamorelin for deep sleep optimization. Currently takes glycine and magnesium as supplements. Has good sleep hygiene and healthy lifestyle. Post is largely exploratory/questioning whether to start rather than reporting actual usage.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.652634Z"
+}

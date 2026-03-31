@@ -1,0 +1,61 @@
+{
+  "id": "0c4a9d99-09c8-4edb-9b4e-59f01fb141e5",
+  "source_id": "1ro80g9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ro80g9/gum_recession_improvement_from_ghkcu/",
+  "author_hash": "fd1d5d0f05687a9ae7ee2e8b7313227a9522d64053388965e69b35e5140ca3f2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-08T08:42:25-07:00",
+  "health_conditions": [
+    "gum recession"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "3x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Possible gum recession improvement, not sure if placebo",
+      "severity": "mild"
+    },
+    {
+      "category": "skin",
+      "description": "Skin feels smoother and more hydrated",
+      "severity": "mild"
+    },
+    {
+      "category": "hair",
+      "description": "Increased body hair growth and more defined hairline; widows peak slowly returning, possibly placebo",
+      "severity": "mild"
+    },
+    {
+      "category": "immune",
+      "description": "Inflammation in gums possibly neutralized by KPV",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Started GHK-Cu in January at 3mg daily, gradually increased to 15mg daily over 3 injections (5mg x3). KPV blended in at 1.5mg/day. Self-described as research into effects of high dose GHK-Cu. Notes that higher dose does not necessarily mean better results beyond a certain threshold.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.11096Z"
+}

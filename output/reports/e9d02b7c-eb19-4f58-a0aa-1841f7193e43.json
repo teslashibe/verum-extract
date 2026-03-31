@@ -1,0 +1,51 @@
+{
+  "id": "e9d02b7c-eb19-4f58-a0aa-1841f7193e43",
+  "source_id": "1rjt8gv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rjt8gv/peptides_for_bone_fractures_jaw_surgery/",
+  "author_hash": "c2b08f3b695c8fc0aaf69859c0113e6c452943aee94797594d9906b393395683",
+  "confidence_tier": 4,
+  "date_published": "2026-03-03T08:05:22-08:00",
+  "health_conditions": [
+    "stress fractures"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Cut stress fracture recovery time in half",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Used for stress fractures. Notes that secretagogue choice is individual and side effects vary by person. Mentions CJC-1295 no DAC as most popular option.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.657507Z"
+}

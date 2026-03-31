@@ -1,0 +1,70 @@
+{
+  "id": "05f03251-3285-4635-8f66-0cdd42a9b07e",
+  "source_id": "1s4nb6z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4nb6z/semorelin_vs_cjc_vs_tesamorelin/",
+  "author_hash": "8d1d3461ffe2c6474f63408682c51ee070506fecbb0d5da4d217823b8ab72683",
+  "confidence_tier": 4,
+  "date_published": "2026-03-26T16:19:12-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Literally out shopping for smaller pants after first Ipa/Tesa cycle, had not happened in years",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Better recovery with Ipa/CJC no-DAC",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Ipa/CJC no-DAC helps sleep more than Tesa",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Hit several new PRs with Ipa/CJC",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Workout intensity and frequency shoot up within a few weeks of starting Ipa/CJC",
+      "severity": "moderate",
+      "onset_days": 21
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Fewer sides with Ipa/CJC no-DAC compared to other combinations",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "8-10 cycles of Ipa + CJC (both DAC and no-DAC) before trying Tesa. Prefers Ipa/CJC no-DAC despite fat loss benefits of Tesa.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.657542Z"
+}

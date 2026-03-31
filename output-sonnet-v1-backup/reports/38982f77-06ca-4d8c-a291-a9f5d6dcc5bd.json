@@ -1,0 +1,38 @@
+{
+  "id": "38982f77-06ca-4d8c-a291-a9f5d6dcc5bd",
+  "source_id": "1rbvmmm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rbvmmm/tesamorelin_histamine_reaction_anyone/",
+  "author_hash": "b02c3f4c18a146bca451820d22a41d2c25567707d7a832a46283a1eeaab788f3",
+  "confidence_tier": 4,
+  "date_published": "2026-02-22T11:51:40-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC/ipa",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Head rush, injection site itching, histamine reaction, and feeling warmer upon starting CJC/ipamorelin. Symptoms improved over time as body adjusted.",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "injection_site",
+      "description": "Injection site itching, improved by switching from 6mm to 8mm needle to ensure injection is far enough from skin.",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Initially used 6mm needle, switched to 8mm (5/16 inch) needle which helped reduce reactions. Recommends 1/2 inch needle for some users.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.115841Z"
+}

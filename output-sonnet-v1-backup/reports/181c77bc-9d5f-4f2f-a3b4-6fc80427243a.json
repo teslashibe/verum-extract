@@ -1,0 +1,44 @@
+{
+  "id": "181c77bc-9d5f-4f2f-a3b4-6fc80427243a",
+  "source_id": "1rvp24a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvp24a/ss31_fatigue_and_brain_fog_and_mitigation/",
+  "author_hash": "3159b5e4d4d993686c2748bbfd6159b457ec382d9420daa6605713104209c2bc",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T15:50:02-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 3,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Severe brain fog at 300mcg for 3 days",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 2
+    },
+    {
+      "category": "fatigue",
+      "description": "Severe fatigue at 300mcg for 3 days",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 2
+    }
+  ],
+  "protocol_notes": "Took a break from SS-31 and added TMG, B12, and folinic acid. Returned to baseline after 2 days off. Plans to restart at lower doses 3 times per week instead of daily injections.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.10763Z"
+}

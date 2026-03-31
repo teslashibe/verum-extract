@@ -1,0 +1,45 @@
+{
+  "id": "bdd7f304-ac61-4167-89e1-5442aaccd7e1",
+  "source_id": "1rux4ga",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rux4ga/not_sure_what_to_do/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T19:16:10-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 285,
+    "unit": "lbs"
+  },
+  "training_status": "lifting 4x per week, 4-5 cardio sessions per week (30-45 min each)",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "cycle_length_days": 70,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Body fat % decreased slightly; total weight loss from 365 to 285 lbs over ~1 year",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Implied by GLP-1 RA mechanism; enabled adherence to 1800-2200 cal daily intake",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started at 365 lbs, currently 285 lbs, goal 200 lbs. On 15 mg dose for last 10 weeks with no additional weight loss but body composition improving. Consuming 1800-2200 calories daily with 200-220g protein. Considering switching to Retatrutide and/or Retatrutide + Cagrilintide.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.663168Z"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "61c46eec-62ed-4c92-889e-53cde31ad6ff",
+  "source_id": "1rvpa2a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvpa2a/na_semax_dosage/",
+  "author_hash": "1a5735a21d0a8c3d5c16d67dd65909af61c5fa30bddc5248a3990b2424bd06e3",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T15:58:13-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "Feeling great at 500mcg",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Angry and annoyed all day after increasing to 1mg",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Tolerated 500mcg SubQ well. Negative experience after increasing to 1mg for experimentation purposes.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.650982Z"
+}

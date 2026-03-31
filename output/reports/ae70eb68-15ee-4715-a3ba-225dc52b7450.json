@@ -1,0 +1,40 @@
+{
+  "id": "ae70eb68-15ee-4715-a3ba-225dc52b7450",
+  "source_id": "1o1hiiv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o1hiiv/58_173lbs_started_reta_10_days_ago_2mg_a_week/",
+  "author_hash": "3e46a249dd3a072b4c0b1fd36556ee2a1c5161a931c1abcae6e0b623c495c1d5",
+  "confidence_tier": 4,
+  "date_published": "2025-10-08T10:48:00-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 173,
+    "unit": "lbs"
+  },
+  "training_status": "gym every day",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "cycle_length_days": 10,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "User mentions appetite suppression as a mechanism but reports no weight loss yet after 10 days"
+    }
+  ],
+  "protocol_notes": "Height 5'8\", 1600 calories/day deficit, approximately 14,000 steps daily, gym every day. User reports high stress levels and very poor sleep quality. Diet consists of chicken/beef, broccoli, rice with strict protein tracking. User describes themselves as approximately 10% body fat.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.396187Z"
+}

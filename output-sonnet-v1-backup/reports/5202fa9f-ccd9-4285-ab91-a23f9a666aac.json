@@ -1,0 +1,35 @@
+{
+  "id": "5202fa9f-ccd9-4285-ab91-a23f9a666aac",
+  "source_id": "1riovis",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1riovis/motsc/",
+  "author_hash": "39c99dfd39a257972b1bd3d3721c5092b17b12645f005a36570a1e544e001b76",
+  "confidence_tier": 5,
+  "date_published": "2026-03-02T02:01:45-08:00",
+  "training_status": "competitive runner/cyclist",
+  "compounds": [
+    {
+      "name_raw": "motsc",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "single dose mentioned",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "kind-of-hypoglycemic after first 5mg dose",
+      "severity": "moderate",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "OP took first 5mg dose two days ago and experienced hypoglycemia. Asking about lower starting doses (1-3mg 3x/week) and performance implications as a competitive endurance athlete.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.113143Z"
+}

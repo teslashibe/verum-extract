@@ -1,0 +1,40 @@
+{
+  "id": "22396e5d-8865-410a-b451-6133f997b66d",
+  "source_id": "17ujerw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17ujerw/warning_massive_allergic_reaction_to_tb500/",
+  "author_hash": "d50228094e66dd7533e87be3dd2ababa87ec49987788cc8f815d1e203e5a52ae",
+  "confidence_tier": 5,
+  "date_published": "2023-11-13T12:03:32-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Medicine works for intended purpose",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Local reaction around injection site with red circles that resolve over about a week",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Slightly improved with hydrocortisone and antihistamines but still bothersome.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.699929Z"
+}

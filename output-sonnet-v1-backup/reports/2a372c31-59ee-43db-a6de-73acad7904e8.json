@@ -1,0 +1,60 @@
+{
+  "id": "2a372c31-59ee-43db-a6de-73acad7904e8",
+  "source_id": "1s2lvz5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s2lvz5/is_this_normal/",
+  "author_hash": "f13870e14649dd644f444ec3bd453da21fdd53cc228e2df0286fcf057b28c13f",
+  "confidence_tier": 4,
+  "date_published": "2026-03-24T11:21:37-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "18-24",
+  "health_conditions": [
+    "dry skin",
+    "skin discoloration",
+    "enlarged pores"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "ghk",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 2,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Cystic pimple on cheek and several other breakouts across face, described as 'copper uglies' associated with GHK-Cu; unusual given normally clear skin",
+      "severity": "moderate",
+      "onset_days": 7,
+      "resolved": false
+    },
+    {
+      "category": "nausea",
+      "description": "Subtle nausea in the morning",
+      "severity": "mild",
+      "onset_days": 2,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "OP takes zinc every morning. Started GHK ~1 week ago, Reta ~2 days ago. Goals are pore reduction, dry skin, and skin discoloration. Dosing GHK and Reta both at 1mg daily. Noted lack of appetite suppression from Reta so far.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104677Z"
+}

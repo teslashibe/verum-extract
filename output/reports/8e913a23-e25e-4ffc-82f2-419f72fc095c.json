@@ -1,0 +1,39 @@
+{
+  "id": "8e913a23-e25e-4ffc-82f2-419f72fc095c",
+  "source_id": "18g1yoh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/18g1yoh/semaglutide_peptide_for_weight_loss_dose/",
+  "author_hash": "6070539a0653de91fffa8d1724d38256121961ca3f3e779c1e9b0e014d54f190",
+  "confidence_tier": 4,
+  "date_published": "2023-12-11T11:34:31-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "weekly, titrating up",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Expected 5 lbs per week with large caloric deficit",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression effects",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Protocol: Start at 250mcg, increase to 500mcg when side effects disappear or appetite suppression wears off (2-4 weeks). Becomes less effective over time. Notes that 10mg reconstituted with 3ml BAC water requires 7.5 IU (1ml/100IU insulin syringe) for 250mcg dose, 15IU for 500mcg.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.699772Z"
+}

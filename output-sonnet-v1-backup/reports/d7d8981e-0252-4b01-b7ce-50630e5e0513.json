@@ -1,0 +1,113 @@
+{
+  "id": "d7d8981e-0252-4b01-b7ce-50630e5e0513",
+  "source_id": "1k6ktpw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k6ktpw/bpc_157_for_necrotic_scars_and_incisional_scars/",
+  "author_hash": "2fc109ad47351be75a8f580e33b05c0d9f72ddd3363fd09434453e2d2cc5f1b4",
+  "confidence_tier": 4,
+  "date_published": "2025-04-23T22:45:36-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "60+",
+  "health_conditions": [
+    "surgical scars",
+    "necrotic/incisional scars",
+    "high ferritin/iron levels (\u003e1500, possibly up to 20000)",
+    "previously on spironolactone"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "topical",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Lemon bottle",
+      "name_normalized": "lemon_bottle",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Injecting BPC-157 into the wound area stopped bleeding quickly",
+      "severity": "moderate"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Ipamorelin helped fill in large indentations in scars; scar is now healed and thickening/looking better",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Serum iron levels greater than 1500 (normal 10-300); possibly caused by spironolactone or inflammation-lowering peptides reducing hepcidin",
+      "severity": "significant"
+    },
+    {
+      "category": "mood_change",
+      "description": "Significant anxiety related to elevated iron levels and not disclosing peptide use to doctor or husband",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Serum Iron",
+      "value_after": 1500,
+      "unit": "µg/dL or above (normal 10-300; counter stops at 15000)"
+    }
+  ],
+  "protocol_notes": "OP is 6 months post-op, using BPC-157 topically mixed with collagen and covered with silicone tape, as well as injecting BPC-157 directly into the wound site. Also injecting Ipamorelin for scar filling. Running a large stack including TB500, Lemon bottle, Semax, Reta, Sema, Tirz. Recently stopped spironolactone due to suspected link to high iron via hepcidin suppression. Plans to donate blood to lower iron levels. Some peptides (MOTS-C, SS31, Snap-8) were obtained but not yet used. Does not have physician oversight for peptide use.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.285304Z"
+}

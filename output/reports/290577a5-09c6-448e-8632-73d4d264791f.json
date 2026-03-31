@@ -1,0 +1,45 @@
+{
+  "id": "290577a5-09c6-448e-8632-73d4d264791f",
+  "source_id": "1r02usu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r02usu/my_1_year_3_months_journey_with_reta/",
+  "author_hash": "79f2b1b639738e7722f34f39026218fcc773f98a497cc96cd3f79def97a3b02e",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T04:25:46-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Tirzepatide caused extreme appetite suppression and disgust at food. Retatrutide allows more normal eating behavior without nausea when exposed to food.",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Tirzepatide caused nausea/disgust when looking at food, to the point of nearly vomiting at bakery",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Prefers Retatrutide over Tirzepatide due to more moderate appetite suppression that allows normal human functioning in food environments",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.6658Z"
+}

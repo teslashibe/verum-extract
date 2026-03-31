@@ -1,0 +1,56 @@
+{
+  "id": "2fd742a7-d302-4ec6-b94b-0db19172bc81",
+  "source_id": "1s42qzl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s42qzl/question_about_mixing_klow/",
+  "author_hash": "ee54a7fd12e7c8c08ca46fb45d38d44c98b563d067aea39b5cef05b3abc8d34b",
+  "confidence_tier": 5,
+  "date_published": "2026-03-26T02:31:57-07:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2.33,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 233,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 233,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 233,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "OP is planning a 'klow' mixture (GHK-Cu + BPC-157 + TB-500 + KPV). Considering 100mg GHK-Cu in the vial but noted typical formulations use 50mg. Reconstituting with 3ml BAC water yielding ~7 units per dose of GHK-Cu. Ultimately decided to keep GHK-Cu separate rather than mixing. Protocol appears planned/prospective rather than already in use.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104086Z"
+}

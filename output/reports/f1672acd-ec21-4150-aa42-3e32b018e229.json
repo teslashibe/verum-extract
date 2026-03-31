@@ -1,0 +1,61 @@
+{
+  "id": "f1672acd-ec21-4150-aa42-3e32b018e229",
+  "source_id": "1pie9fk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pie9fk/klow_80_advice_wanted/",
+  "author_hash": "50064956b5d84d24a98f727796341662d435b7e6898732ea11b0ffd254d0b2c0",
+  "confidence_tier": 4,
+  "date_published": "2025-12-09T09:54:55-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Using KLOW blend"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "No stinging reported",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "2ml BAC water reconstitution, 20 injections per vial, glute injections, been on protocol for 1 week at time of comment",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.674817Z"
+}

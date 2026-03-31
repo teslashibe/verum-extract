@@ -1,0 +1,45 @@
+{
+  "id": "56fa84b6-037b-4aa6-bf0c-edb7f13fbf54",
+  "source_id": "1ru9j9d",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ru9j9d/tesa_vs_cjcipa/",
+  "author_hash": "b84f49c85717ea18260e642e7c382613891df33f1ad838364202c6b5151dfdd4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T02:18:19-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Helps get more protein in; appetite non-existent half the time",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Ipamorelin triggers ravenous hunger approximately 20 minutes after injection",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "Ipamorelin triggers ghrelin receptor activation causing appetite increase. User does not mind this effect as it helps with protein intake. Notes that Tirzepatide is slightly stronger than CJC.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.663779Z"
+}

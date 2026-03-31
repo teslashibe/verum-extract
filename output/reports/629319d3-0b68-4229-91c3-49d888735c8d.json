@@ -1,0 +1,36 @@
+{
+  "id": "629319d3-0b68-4229-91c3-49d888735c8d",
+  "source_id": "1r2ib0v",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2ib0v/tesamorelin_and_ipamorelin/",
+  "author_hash": "62c4ed7ea0a49b0d1ad9c3e87110ca3e6356cb46d95af7da3aca7c3f50ca3d06",
+  "confidence_tier": 4,
+  "date_published": "2026-02-11T19:09:40-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "every 5 days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Tesamorelin: 10mg reconstituted with 2ml BAC water, one vial used every 5 days. Kept separate from Ipamorelin due to stability concerns (Tesamorelin unstable, can gel in vial if reconstituted longer than 7 days). Ipamorelin: 10mg in 3ml pen vial for easier dosing. Typical Ipamorelin dose 250mcg-300mcg. Compounds are NOT mixed together.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677207Z"
+}

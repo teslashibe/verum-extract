@@ -1,0 +1,78 @@
+{
+  "id": "cd172b34-b906-4bb1-a93e-2f414497f517",
+  "source_id": "1ldt88j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ldt88j/peptides_for_endurance_athletes/",
+  "author_hash": "82ffcc362a9f9a1755ad5b1a9c8be49acbf63b4fbc8fadb5ee3f4dbbb2d45945",
+  "confidence_tier": 4,
+  "date_published": "2025-06-17T10:26:18-07:00",
+  "training_status": "endurance athlete, marathon runner, 50-70 mpw training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "frequency": "divided over last 3 days before race",
+      "cycle_length_days": 3,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "endurance",
+      "description": "able to increase heart rate capacity in second half of marathon, improved from 3:10:10 to 3:04 with maintained initial pacing",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "improved recovery during training block",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "marathon time",
+      "value_before": 3.167,
+      "value_after": 3.067,
+      "unit": "hours"
+    },
+    {
+      "marker_name": "heart rate second half of marathon",
+      "value_before": 164,
+      "value_after": 174,
+      "unit": "bpm"
+    }
+  ],
+  "protocol_notes": "Plans to use MOTS-c mid-training block and week or two before race. Also uses BPC-157, TB-500, and CJC-1295 + Ipamorelin stack throughout training. Running similar mileage as OP (around 50 mpw currently, peaking at 70 mpw).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.688993Z"
+}

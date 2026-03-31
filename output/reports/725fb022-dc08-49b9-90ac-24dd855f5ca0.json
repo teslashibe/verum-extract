@@ -1,0 +1,44 @@
+{
+  "id": "725fb022-dc08-49b9-90ac-24dd855f5ca0",
+  "source_id": "1s1lurk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1lurk/na_semax_na_selank/",
+  "author_hash": "899a6cb5b9c006fb68edacde50eb6d49116670c05a8f65e39a83cd04732dafcd",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T09:34:23-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Pronounced effects; duration of 8 hours when dosed subcutaneously while fasted, one hour before work",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "500mcg subcutaneous dose taken fasted, 1 hour before work. Effects begin after breakfast intake without diminishment. Uses both compounds together at same time.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.659216Z"
+}

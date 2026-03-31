@@ -1,0 +1,52 @@
+{
+  "id": "b138dd8f-838a-458b-9b15-51b1bf4616dd",
+  "source_id": "1q7ww65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q7ww65/hair_loss/",
+  "author_hash": "0441432cf6ecd878c767eb9005f79f7d03e9ccfb0dea3e66f415dd065e7ddc49",
+  "confidence_tier": 4,
+  "date_published": "2026-01-08T19:08:34-08:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "hair loss"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Dutasteride",
+      "name_normalized": "dutasteride",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Minoxidil",
+      "name_normalized": "minoxidil",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tadalafil",
+      "name_normalized": "tadalafil",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "libido_change",
+      "description": "Finasteride can have permanent sexual side effects",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Recently started red light hat therapy. Uses oral minoxidil and Dutasteride for hair loss. Takes 5mg tadalafil daily. Notes that Finasteride had concerning sexual side effect profile but prefers Dutasteride approach.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.387751Z"
+}

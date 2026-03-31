@@ -1,0 +1,56 @@
+{
+  "id": "00fb0929-9c65-46cf-95c4-6058d86ae980",
+  "source_id": "1mrif03",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mrif03/going_from_tirz_to_reta/",
+  "author_hash": "bf885c1f2934b73ec5209e783ea951616863d93a03410e27974fd9480e8e8194",
+  "confidence_tier": 4,
+  "date_published": "2025-08-15T19:40:45-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Retatrutide most effective for fat loss",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "High estradiol on Retatrutide causes water retention; resolved 5-7lbs water loss after aromatase inhibitor use",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Estradiol"
+    }
+  ],
+  "protocol_notes": "On TRT. Recommends titrating Tirzepatide weekly to max dose (15mg), holding for ~3 months to fully exhaust progress, then switching to Retatrutide. Experienced high estradiol on Retatrutide causing water retention; managed with aromatase inhibitor to normal levels without crashing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.79,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.401192Z"
+}

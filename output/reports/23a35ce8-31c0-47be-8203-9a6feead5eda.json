@@ -1,0 +1,85 @@
+{
+  "id": "23a35ce8-31c0-47be-8203-9a6feead5eda",
+  "source_id": "174cra9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/174cra9/noob_trying_to_gain_weight/",
+  "author_hash": "b4d87c0efdb65ac92ce796ac03cc0d7fe99265b7726d864bd11039ada0171eb0",
+  "confidence_tier": 4,
+  "date_published": "2023-10-09T21:44:29-07:00",
+  "training_status": "actively lifting and doing cardio",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHRP-6",
+      "name_normalized": "ghrp_6",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "3 times daily",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 25,
+      "dose_unit": "mcg",
+      "frequency": "post-workout",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "wakes up pumped and stays pumped all day",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "skin glows",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "recovery is ridiculous",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "headache",
+      "description": "headaches quite a bit",
+      "severity": "moderate"
+    },
+    {
+      "category": "joint_pain",
+      "description": "joints dry out",
+      "severity": "moderate"
+    },
+    {
+      "category": "hormonal",
+      "description": "sorta kinda makes me hypo (hypothyroid-like symptoms)",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "4 weeks on, 4 weeks off cycle. Uses 2mg CJC-1295 once weekly, GHRP-6 100mcg 3x daily, and IGF-1 LR3 25mcg post-workout. Requires strict diet and heavy training. Dose adjusted based on symptoms.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.419708Z"
+}

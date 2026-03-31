@@ -1,0 +1,47 @@
+{
+  "id": "be084223-88d9-4caa-a2bd-43354436b956",
+  "source_id": "1bpsf65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bpsf65/semaglutide_is_amazing/",
+  "author_hash": "f38e2014152e6430f4db17e882c68477699924b49480709a497c0da6ecca9ed5",
+  "confidence_tier": 4,
+  "date_published": "2024-03-28T03:39:16-07:00",
+  "reported_weight": {
+    "value": 179,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Awesome results initially, weight loss from 297 lbs (HW) to 251 lbs (SW) to current 179 lbs (CW). Goal weight 190 lbs.",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "tolerance",
+      "description": "Semaglutide eventually stopped doing anything, switched to Tirzepatide",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "HW (highest weight) 297 lbs, SW (starting weight) 251 lbs, GW (goal weight) 190 lbs, CW (current weight) 179 lbs. On Tirzepatide now for remaining weight and maintenance.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.415931Z"
+}

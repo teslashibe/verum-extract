@@ -1,0 +1,45 @@
+{
+  "id": "e230ec12-57d1-44c9-aeb7-4945f3790d48",
+  "source_id": "1qgfzsl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qgfzsl/psa_do_not_mix_retra_and_ss31_on_the_same_syringe/",
+  "author_hash": "b34c0ea52b5c244446e54fbb850325448ceb64d53a77189952a56f771af534e9",
+  "confidence_tier": 4,
+  "date_published": "2026-01-18T10:19:44-08:00",
+  "reported_age_range": "40-49",
+  "training_status": "active (30 minutes fast walking)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 3.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Energy no longer fades in the evening; went from waking up hard to waking up clear-headed; no longer needs a break during 30 minutes of fast walking",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "Waking up clear-headed instead of groggy",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started SS-31 at 1mg with good results, increased to 3.5mg which was described as transformative. Recommends pairing with mitochondrial helpers: r-lipoic acid, acetyl-l-carnitine, ubiquinol, Urolithin A (Neurogan brand), nicotinamide riboside. Suggests SS-31 may be less effective without these co-supplements. Recommends for at least middle-aged users.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.124558Z"
+}

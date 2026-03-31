@@ -1,0 +1,54 @@
+{
+  "id": "e7e848a6-da32-4958-8fb8-a4db4e41d22a",
+  "source_id": "1rhy9zv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rhy9zv/bpc157tb500/",
+  "author_hash": "90a8b3056690cb1ac73b4f4cafe2dba8c9bf45de8cc202920b52a40c2db7d4ac",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T06:13:16-08:00",
+  "health_conditions": [
+    "tear in labrum",
+    "tear in supraspinadous"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC157/TB500",
+      "name_normalized": "bpc157tb500",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "daily, no off days",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily, AM fasted",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "5Amino",
+      "name_normalized": "5_amino",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "daily, AM fasted",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Labrum tear and supraspinatus tear started to improve after 30 days",
+      "severity": "moderate",
+      "onset_days": 30
+    }
+  ],
+  "protocol_notes": "Pins all compounds at 6am fasted, eats around 9am (3 hour fast post-injection). Has been running BPC157/TB500 for 8 weeks, plans to take a break after 4 more weeks (12 weeks total). Stacks with Tesamorelin and 5-Amino1P.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.113575Z"
+}

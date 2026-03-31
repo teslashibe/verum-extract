@@ -1,0 +1,33 @@
+{
+  "id": "c7669009-41b0-49c6-91d8-c596cb13120a",
+  "source_id": "1rdagli",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdagli/cjc_1295_ipamorelin_no_dac_reconstitutiondosing/",
+  "author_hash": "6b700e47410a1f6991f597b74945c0dc0f7189d7b123320520ae1ec0bdc60751",
+  "confidence_tier": 5,
+  "date_published": "2026-02-24T00:09:51-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Shared reconstitution protocol: 5mg+5mg (10mg total) with 2ml bacteriostatic water yields 500mcg per 0.1ml (10 units). Typical dosing: 100mcg = 2 units, 150mcg = 3 units, 200mcg = 4 units, 250mcg = 5 units. Alternative: 1ml total water yields 1000mcg per 10 units (higher concentration, smaller injection volume).",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.25,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.660774Z"
+}

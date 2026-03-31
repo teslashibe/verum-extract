@@ -1,0 +1,37 @@
+{
+  "id": "2f2bf9be-d1d3-4d63-b6d7-917474874278",
+  "source_id": "1jx4cu5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jx4cu5/glow_protocol_seems_to_have_fixed_my_liver_issues/",
+  "author_hash": "04c41eb60398484ecb0b59c98c4c634a01a472fdb40b41d407054ef4b0d40e67",
+  "confidence_tier": 5,
+  "date_published": "2025-04-11T17:00:57-07:00",
+  "health_conditions": [
+    "elevated bilirubin (3-4 years)"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GLOW Protocol",
+      "name_normalized": "klow_protocol",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Bilirubin levels dropped from top/slightly above reference range to towards the bottom of the range after following GLOW Protocol",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "bilirubin"
+    }
+  ],
+  "protocol_notes": "OP followed the GLOW Protocol. Had elevated bilirubin for 3-4 years, no formal diagnosis. Admits to not having been kind to their liver previously. Cannot attribute improvement to any single peptide specifically.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.285955Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "842417dd-c57e-482f-9378-d2dd07902898",
+  "source_id": "1rkh5k3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rkh5k3/cjc_and_ipa_dose/",
+  "author_hash": "1c009250a046d34026e4e7e83ce9ff0c4895f7a86d34e5bbe659213bd154ef55",
+  "confidence_tier": 5,
+  "date_published": "2026-03-04T01:36:45-08:00",
+  "compounds": [
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and night, 3 hours after food or 30 minutes before)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IPA",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and night, 3 hours after food or 30 minutes before)",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User provided dosage recommendation: 100mcg CJC and 200mcg IPA, morning and night, 3 hours after food or half an hour before. Not clear if this reflects personal use or general advice.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112352Z"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "100b6e38-cc96-4627-82e6-5f46274db1e1",
+  "source_id": "1rwlbyx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwlbyx/tesaipa_igf1_levels/",
+  "author_hash": "f6062b3e803739e12b3a12729ee7c8cda9558134543dec37c97f0f33f21621ff",
+  "confidence_tier": 4,
+  "date_published": "2026-03-17T15:16:03-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "active gym training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "daily before bed",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "daily before bed",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Went down a belt size within 3 weeks despite no weight loss",
+      "severity": "moderate",
+      "onset_days": 21
+    },
+    {
+      "category": "sleep",
+      "description": "Definitely getting better sleep",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Better recovery (gym recovery has been moderate at best)",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "Minor hand and finger numbness in the morning",
+      "severity": "mild"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Joint aches and stiffness",
+      "severity": "mild"
+    },
+    {
+      "category": "water_retention",
+      "description": "Water retention largely went away after a few weeks",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 21
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 143,
+      "value_after": 255,
+      "unit": "ng/mL",
+      "timeframe_days": 35
+    },
+    {
+      "marker_name": "IGF-1 Z-score",
+      "value_before": 0.1,
+      "value_after": 1.3,
+      "unit": "z-score",
+      "timeframe_days": 35
+    }
+  ],
+  "protocol_notes": "Fasted administration before bed 7 nights per week. Previously on Tirzepatide for 3 months before starting Tesa/Ipa. User planned to increase to 2mg Tesa and add additional Ipamorelin dose in AM. Total cycle planned for 12 weeks with another IGF test at end. Planning 30-60 day washout after. Has 2 additional kits available (purple top) for potential 16-week extension if results remain promising.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.662091Z"
+}

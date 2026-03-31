@@ -1,0 +1,49 @@
+{
+  "id": "d2c03818-a40a-4a08-b2a8-3d533f0a0d36",
+  "source_id": "1qu28vg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qu28vg/have_you_found_hgh_to_reduce_fat_loss_by/",
+  "author_hash": "f7bb46d6fbd23952227e014d57a8e7eb5711002da4dd421b66030d3ceac26a92",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T09:55:20-08:00",
+  "health_conditions": [
+    "gynecomastia"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Expected fat loss from HGH and Retatrutide in caloric deficit",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Significant water retention from microdose HGH limiting visible fat loss results despite being in caloric deficit. Water retention does not subside over the month of use. Bloating persists even with 5g potassium, 5g taurine, and salt/water adjustments.",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Microdose HGH. On caloric deficit with refeeds. Tried 3g potassium daily, 5g taurine daily, dandelion root diuretic (discontinued due to skin drying), 5g salt per day in 4 liters of water (bloating lasted ~1 week). Used HGH on and off for approximately 1 month. Also reports worsening gynecomastia and avoids creatine and glucosamine due to water retention sensitivity.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.680831Z"
+}

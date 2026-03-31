@@ -1,0 +1,40 @@
+{
+  "id": "9ede209a-5958-47dd-81e0-0224563889c3",
+  "source_id": "1rqir2m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rqir2m/hands_swelling_means_good_hgh/",
+  "author_hash": "0ddee1db707be7543c1d47ab610c85963ad383035bcb6e4630d4eef18f750bf6",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T20:24:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "General benefits from GH usage"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Water retention, especially noticeable when cutting",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Titration protocol: Started at 1 IU, increased by 0.5 IU every two weeks. Noted that upping dose too fast was a mistake. Currently at 4 IU daily at night before bed. Previously ran up to 6 IU but reduced due to water retention during cutting phase.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.66579Z"
+}

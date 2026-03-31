@@ -1,0 +1,50 @@
+{
+  "id": "663eee80-1086-4a3c-810e-f2f2883ac076",
+  "source_id": "1rb2yq1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rb2yq1/does_reta_dosing_depend_on_weight/",
+  "author_hash": "7eced37680c65cbaf4c17a1bd591573dd6d89ff02b38351b695af850f1e07e8a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T13:24:38-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 250,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight coming off quite nicely; started at 2mg, moved to 4mg",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Used Tesa for visceral fat and it also seemed to work",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started at almost 250lbs, 2mg dose with no real side effects. Moved up to 4mg last month, planning 6mg next month. Used a round of Tesa for visceral fat. Note: same username as commenter about wife - this appears to be a separate personal report from the same user.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.116084Z"
+}

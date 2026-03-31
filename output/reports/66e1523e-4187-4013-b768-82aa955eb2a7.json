@@ -1,0 +1,62 @@
+{
+  "id": "66e1523e-4187-4013-b768-82aa955eb2a7",
+  "source_id": "1ldahe3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ldahe3/best_non_glp1s_for_weight_loss/",
+  "author_hash": "3a6cb9c90be983f3c1b8c920c61a3fa6fcedfe87e0bdeb5485538297dcd0f520",
+  "confidence_tier": 4,
+  "date_published": "2025-06-16T18:21:48-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "2x daily (AM and before bed)",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5x weekly, AM",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "preferential fat burn from waistline/visceral region",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Tesamorelin may be hurting sleep; difficult to isolate cause",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "8-week cycle. On 5 days on, 2 days off schedule for Tesamorelin. Stack makes it difficult to isolate individual compound effects.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.689078Z"
+}

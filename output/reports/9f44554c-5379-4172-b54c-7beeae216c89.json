@@ -1,0 +1,32 @@
+{
+  "id": "9f44554c-5379-4172-b54c-7beeae216c89",
+  "source_id": "1rfnur9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rfnur9/question_about_retatrutide_effects_beyond/",
+  "author_hash": "10ea5eaa0d0e57595f515d522b0dc2d80f9a0d99cc874d0dafcb9da017b31759",
+  "confidence_tier": 4,
+  "date_published": "2026-02-26T13:59:45-08:00",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Skin hurts; dose-dependent - higher doses cause worse skin pain",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User reports that going above 5mg weekly causes skin sensitivity that worsens with higher doses.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.65954Z"
+}

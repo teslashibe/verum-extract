@@ -1,0 +1,37 @@
+{
+  "id": "72d0772e-c63a-4af7-92f5-9e3605dee5ec",
+  "source_id": "1jlds0z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jlds0z/did_peptides_cause_my_autoimmune_disease/",
+  "author_hash": "730a59abaae3733be5360b93bbc13b584b329a412645c492892068190e08b6f5",
+  "confidence_tier": 4,
+  "date_published": "2025-03-27T14:08:45-07:00",
+  "health_conditions": [
+    "MCTD"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "inflammation",
+      "description": "Mast cell stabilizing benefits and inflammation reduction",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User has MCTD (developed after COVID infection). Takes semaglutide at low dose for mast cell stabilization and symptom control.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.410332Z"
+}

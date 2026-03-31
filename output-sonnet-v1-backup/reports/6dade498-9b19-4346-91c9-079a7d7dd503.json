@@ -1,0 +1,71 @@
+{
+  "id": "6dade498-9b19-4346-91c9-079a7d7dd503",
+  "source_id": "1qz1qrp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qz1qrp/my_significant_other_has_been_on_sema_for_2/",
+  "author_hash": "b134487994a476d82b9102f94580029c76eb6799509ec3eea5f00de2999d22cf",
+  "confidence_tier": 4,
+  "date_published": "2026-02-07T22:36:11-08:00",
+  "reported_sex": "female",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.8,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "No appetite during months 1 and 2 at 0.25mg and 0.50mg doses",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Vomiting starting 2 days after dosing at ~0.80mg, reduced to nausea by day 6",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "other",
+      "description": "Diarrhea starting 2 days after dosing at ~0.80mg, reduced to 2 episodes by day 6",
+      "severity": "significant",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "Subject is OP's significant other. Titrated from 0.25mg (month 1) to 0.50mg (month 2) with no side effects except appetite suppression. Attempted increase to 1mg but only administered ~0.80mg (12 units instead of 15) due to caution. Experienced vomiting and diarrhea from day 2 post-dose. OP is asking whether to drop back to 0.5mg, try 0.75mg, or switch to Tirzepatide. Price was cited as reason for choosing semaglutide over Tirzepatide.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.120411Z"
+}

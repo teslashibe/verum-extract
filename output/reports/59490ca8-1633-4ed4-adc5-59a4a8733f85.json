@@ -1,0 +1,50 @@
+{
+  "id": "59490ca8-1633-4ed4-adc5-59a4a8733f85",
+  "source_id": "1rgh517",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rgh517/mots_c_insanity/",
+  "author_hash": "6dd68d95d624dce00cd3f162cc7155d724a759ac028dff301a1108c1fa8cc6cd",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T11:58:27-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "nasal",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Mental clarity under duress",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "recovery",
+      "description": "Better recovery from higher exhaustion points",
+      "severity": "moderate"
+    },
+    {
+      "category": "cardiovascular",
+      "description": "More in-tune cardiovascular when injected compared to nasal",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User compares nasal spray (2 weeks experience) with injected form; reports nasal less effective than injection but still provides benefits",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.659074Z"
+}

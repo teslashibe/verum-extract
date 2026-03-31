@@ -1,0 +1,72 @@
+{
+  "id": "6cf642cd-b52c-439c-8743-9387bb9d0bd9",
+  "source_id": "1nfzgo4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nfzgo4/glow_blend_cleared_my_butt_acne/",
+  "author_hash": "497f84ef96789e2c3422e7ae284e2f956330826f58b96c812240b86b7babf99b",
+  "confidence_tier": 4,
+  "date_published": "2025-09-13T07:52:28-07:00",
+  "health_conditions": [
+    "butt acne",
+    "stretch marks"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GLOW blend",
+      "name_normalized": "glow_blend",
+      "category": "other",
+      "frequency": "5x a week",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "ghkcu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 70,
+      "dose_unit": "mg",
+      "frequency": "5x a week",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tb500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "5x a week",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "bpc",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "5x a week",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Butt acne completely cleared up after approximately 4 weeks",
+      "severity": "significant",
+      "onset_days": 28
+    },
+    {
+      "category": "skin",
+      "description": "Stretch marks less visible; blend better with natural skin tone",
+      "severity": "mild",
+      "onset_days": 28
+    }
+  ],
+  "protocol_notes": "GLOW blend composition: 70mg GHK-Cu, 10mg TB500, 10mg BPC per vial. Per dosage: 1.75mg GHK-Cu, dosed 5x per week. Diet, workout schedule, and daily routines unchanged. Wife also using GLOW.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.271595Z"
+}

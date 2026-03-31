@@ -1,0 +1,39 @@
+{
+  "id": "17b60130-4dc6-4d94-82f9-7d551701fd01",
+  "source_id": "1r9bto9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9bto9/injectable_ghk_cu_side_effects/",
+  "author_hash": "13b47458f832d44e62743907245bf1d0f0d6305945779f5bb69a29c5c7da068d",
+  "confidence_tier": 5,
+  "date_published": "2026-02-19T13:21:46-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Spicy feeling at injection site lasting about half a day to a full day",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "other",
+      "description": "Overall buzzed feeling, like being pulled to bed",
+      "severity": "mild",
+      "onset_days": 0
+    }
+  ],
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.116566Z"
+}

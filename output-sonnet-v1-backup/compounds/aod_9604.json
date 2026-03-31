@@ -1,0 +1,162 @@
+{
+  "compound_id": "aod_9604",
+  "display_name": "AOD-9604",
+  "category": "body_composition",
+  "total_reports": 30,
+  "reports_by_tier": {
+    "3": 2,
+    "4": 15,
+    "5": 13
+  },
+  "top_benefits": [
+    {
+      "category": "fat_loss",
+      "count": 15,
+      "pct": 88.2
+    },
+    {
+      "category": "muscle_gain",
+      "count": 6,
+      "pct": 35.3
+    },
+    {
+      "category": "appetite_suppression",
+      "count": 5,
+      "pct": 29.4
+    },
+    {
+      "category": "sleep",
+      "count": 4,
+      "pct": 23.5
+    },
+    {
+      "category": "other",
+      "count": 3,
+      "pct": 17.6
+    },
+    {
+      "category": "recovery",
+      "count": 3,
+      "pct": 17.6
+    },
+    {
+      "category": "energy",
+      "count": 3,
+      "pct": 17.6
+    },
+    {
+      "category": "injury_healing",
+      "count": 2,
+      "pct": 11.8
+    },
+    {
+      "category": "skin",
+      "count": 2,
+      "pct": 11.8
+    },
+    {
+      "category": "mood",
+      "count": 2,
+      "pct": 11.8
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "other",
+      "count": 3,
+      "pct": 17.6,
+      "avg_severity": 1.7
+    },
+    {
+      "category": "appetite_change",
+      "count": 1,
+      "pct": 5.9,
+      "avg_severity": 2
+    },
+    {
+      "category": "injection_site",
+      "count": 1,
+      "pct": 5.9,
+      "avg_severity": 1
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 5,
+      "unit": "mg",
+      "frequency": "",
+      "count": 3,
+      "pct": 10
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 350,
+      "unit": "mcg",
+      "frequency": "every morning",
+      "count": 1,
+      "pct": 3.3
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 300,
+      "unit": "mg",
+      "frequency": "1x daily",
+      "count": 1,
+      "pct": 3.3
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 250,
+      "unit": "mcg",
+      "frequency": "5 days a week",
+      "count": 1,
+      "pct": 3.3
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 300,
+      "unit": "mcg",
+      "frequency": "2x daily",
+      "count": 1,
+      "pct": 3.3
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "tirzepatide",
+      "display_name": "tirzepatide",
+      "report_count": 11
+    },
+    {
+      "compound_id": "ipamorelin",
+      "display_name": "Ipamorelin",
+      "report_count": 8
+    },
+    {
+      "compound_id": "tesamorelin",
+      "display_name": "tesamorelin",
+      "report_count": 7
+    },
+    {
+      "compound_id": "semaglutide",
+      "display_name": "semaglutide",
+      "report_count": 4
+    },
+    {
+      "compound_id": "bpc_157",
+      "display_name": "BPC157",
+      "report_count": 4
+    }
+  ],
+  "avg_cycle_length_days": 52.3,
+  "avg_sentiment_score": 0.667,
+  "sentiment_breakdown": {
+    "positive": 16,
+    "mixed": 3,
+    "negative": 1,
+    "neutral": 10
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.970579Z"
+}

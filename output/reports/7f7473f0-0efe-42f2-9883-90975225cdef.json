@@ -1,0 +1,68 @@
+{
+  "id": "7f7473f0-0efe-42f2-9883-90975225cdef",
+  "source_id": "1rfjcnn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rfjcnn/looking_for_general_experiences_with_retatrutide/",
+  "author_hash": "ba3459cae6945c337604725283e14c07b53681edfd9feccd662fb159755c10ed",
+  "confidence_tier": 4,
+  "date_published": "2026-02-26T11:12:17-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 235,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Noticeable appetite suppression after 2-3 weeks at 2mg. By week 6 at 3mg, eating half as much as before with no food noise.",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "fat_loss",
+      "description": "Down 20 pounds in 6 weeks",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Reduced dopamine-chasing and emotion regulation improved",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Food moves slower, constipation, burping especially at higher doses",
+      "severity": "moderate"
+    },
+    {
+      "category": "libido_change",
+      "description": "Decreased libido and interest in sex",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Cannot tolerate alcohol; severe stomach aches and low energy the next day",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "6'3\" tall. Started at 0.5mg for first two doses (spaced 5 days apart), then titrated up to 2mg where appetite suppression became apparent, reached 3mg by week 6. Emphasis on maintaining high protein intake (200g target) to preserve muscle during weight loss.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.87,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.659625Z"
+}

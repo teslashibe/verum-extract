@@ -1,0 +1,50 @@
+{
+  "id": "b119a12c-fbb8-4705-acf1-e9bacb183b49",
+  "source_id": "1s3yfim",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3yfim/first_time_glp_user_tirzepatide_vs_retatrutide/",
+  "author_hash": "ba1c5ea822532142289b001ebca2e11b8589d32916d90807c7bb3d6b9329cc0f",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T22:07:06-07:00",
+  "reported_weight": {
+    "value": 273,
+    "unit": "lbs"
+  },
+  "training_status": "Training 5 days a week",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "cycle_length_days": 35,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 18 lbs (273 to 255 lbs) in 5 weeks; lost 4 inches on waist",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Hitting PRs in the gym every week",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Some nausea the day after dose increases, but not much",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "On week 5 of Retatrutide at 3mg. In calorie deficit. Started at 273 lbs, currently 255 lbs.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104198Z"
+}

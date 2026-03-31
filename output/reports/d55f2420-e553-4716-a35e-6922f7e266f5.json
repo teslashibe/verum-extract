@@ -1,0 +1,64 @@
+{
+  "id": "d55f2420-e553-4716-a35e-6922f7e266f5",
+  "source_id": "1kzzlbh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kzzlbh/trt_vs_hgh_peptides/",
+  "author_hash": "5f4eb09b8b8c66e7cde01d413548afa7e47b18370f80df2d55a28ca14fd132ca",
+  "confidence_tier": 4,
+  "date_published": "2025-05-31T08:20:45-07:00",
+  "training_status": "resistance training (pre-workout injection)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "intramuscular",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "3x per week",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Kisspeptin-10",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x per week",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Legitimate impressive strength gains and muscle fullness, especially after starting IGF-1 LR3. Gains persisted after cycling off IGF but progress normalized afterwards.",
+      "severity": "significant"
+    },
+    {
+      "category": "strength",
+      "description": "Legitimate impressive strength gains",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_sugar",
+      "description": "Risk of developing hypoglycemia due to muscles absorbing glucose and amino acids; recommended to eat carb-heavy meal when injecting IGF",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User reports 6-week cycle of IGF-1 LR3 pre-workout with carb-heavy meals. Also using Tesamorelin and IGF-1 LR3 together. Mentions Kisspeptin-10 acts upstream to LH/FSH with potentially less risk than downstream analogs for prolonged use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.690044Z"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "370a479f-a5b7-438b-9365-de24852268a9",
+  "source_id": "o4xqfn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/o4xqfn/started_bpc_yesterday/",
+  "author_hash": "161577c802c3c2062c1570e251e5d21f947f83ed5db7208d81e83a73638feb6c",
+  "confidence_tier": 4,
+  "date_published": "2021-06-21T08:28:37-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "drug_interaction",
+      "description": "Gradual reduction in efficacy of stimulant medications and blood pressure medications during first two cycles",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "drug_interaction",
+      "description": "Total shutdown of response to medications/drugs/caffeine after 2 days on third dose",
+      "severity": "significant",
+      "onset_days": 2,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "other",
+      "description": "Blunted medication effects persist longer after discontinuation with each cycle",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Third dose was oral form. Previous two doses were via injection (route not specified). Experienced cumulative effects with repeated cycles.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.131169Z"
+}

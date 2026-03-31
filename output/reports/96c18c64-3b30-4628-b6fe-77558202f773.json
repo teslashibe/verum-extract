@@ -1,0 +1,52 @@
+{
+  "id": "96c18c64-3b30-4628-b6fe-77558202f773",
+  "source_id": "1kne8nh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kne8nh/is_it_essential_to_pin_ghkcu_ed/",
+  "author_hash": "56e210d2418b9ce301b2827f7806ad8feade963b4fbba4f37dfbc51afd210db5",
+  "confidence_tier": 4,
+  "date_published": "2025-05-15T10:35:33-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "measurable difference in facial skin quality",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "copper toxicity",
+      "timeframe_days": 60
+    }
+  ],
+  "protocol_notes": "Age 68. Running 5mg GHK-Cu 2x daily (10mg total) for 2 months with BPC-157 at 0.5mcg per dose. No zinc supplement used. Bloodwork shows no copper toxicity issues. Calculated copper intake at 1.4mg per 10mg dose, well below 10mg daily limit for adults.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.691077Z"
+}

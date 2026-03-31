@@ -1,0 +1,35 @@
+{
+  "id": "9b71d2c5-ea8c-4f30-9258-b8267ec66ade",
+  "source_id": "1s1m3gc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1m3gc/tesamorelin/",
+  "author_hash": "50e6d45fa78d914436edcc505397f1b0fc650c3c2df4745359f5647c79b8ac6d",
+  "confidence_tier": 5,
+  "date_published": "2026-03-23T09:42:47-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "timeframe_days": 365
+    }
+  ],
+  "protocol_notes": "References a community member (not themselves) who A/B tested tesa/ipa fasted vs with a modest meal over a year. That member repeatedly saw larger IGF-1 response when taken with a meal, which was counterintuitive. Commenter is skeptical of fasting protocols, noting thin evidence base. Not clearly the commenter's own personal protocol.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105175Z"
+}

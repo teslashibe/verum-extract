@@ -1,0 +1,34 @@
+{
+  "id": "a04c3336-4ac9-47e8-8e97-72d0e85dead7",
+  "source_id": "1r01h8a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r01h8a/nad_motsc_post_injecting/",
+  "author_hash": "9511eea6d55e1974de61fdba299e04b4d4009268e5818f55832de0d45f625980",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T03:10:47-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Itchy sort of rash at injection site",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "10mg vial reconstituted with 1ml bacteriostatic water. Considering changing concentration to reduce injection fluid volume. User is investigating whether injection concentration is causing rash.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.678503Z"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "0c0d6fe1-eccc-4615-ac2a-72ce5f173784",
+  "source_id": "1n0k8c9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n0k8c9/monjouro_to_retatrutide/",
+  "author_hash": "60739203b29a12e4b55fabf87a79995bb505f8cddb5e271b4865369ba73bb62e",
+  "confidence_tier": 4,
+  "date_published": "2025-08-26T05:16:57-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 205,
+    "unit": "lbs"
+  },
+  "training_status": "actively lifting daily, light cardio on stair climber",
+  "health_conditions": [
+    "back injury (current week)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ozempic",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "frequency": "weekly",
+      "cycle_length_days": 425,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "frequency": "weekly",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 20 lbs quickly on Ozempic, then 30 lbs total over 14 months",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Down 42 lbs over 3 months on Reta",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Eats just enough to get protein on Reta",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Even on max dose of Ozempic, appetite suppression stopped working",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "6'1\" 205 lbs male. Was on Ozempic, lost 20 lbs quickly then stalled even at max dose; total 30 lbs in 14 months. Now 3 months on Reta, down 42 lbs. Lifts daily to maintain/build muscle.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.273878Z"
+}

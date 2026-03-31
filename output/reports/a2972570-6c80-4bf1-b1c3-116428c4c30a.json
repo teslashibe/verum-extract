@@ -1,0 +1,42 @@
+{
+  "id": "a2972570-6c80-4bf1-b1c3-116428c4c30a",
+  "source_id": "1s7f48b",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s7f48b/is_my_reta_dosage_too_high/",
+  "author_hash": "75050fb2971af1c4559ad653fe25578b960f38efc033a5a1b4b6ac6d08c93c4e",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T20:04:11-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 265,
+    "unit": "lbs"
+  },
+  "training_status": "active training - gym hard, dieting strictly",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Suspected body recomposition occurring despite weight stall",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Male, age 32. Started at 295 lbs, currently 265 lbs. Stalled at 265 for 8 weeks. Titrated retatrutide up to 6mg/week during stall period. Also on additional peptides (not specified). Hitting gym hard, dieting strictly. Believes time and patience are key factors.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.655788Z"
+}

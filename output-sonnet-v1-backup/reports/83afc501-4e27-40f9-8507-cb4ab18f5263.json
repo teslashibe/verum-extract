@@ -1,0 +1,53 @@
+{
+  "id": "83afc501-4e27-40f9-8507-cb4ab18f5263",
+  "source_id": "1s411r1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s411r1/ipamorelin_messing_up_my_sleep/",
+  "author_hash": "b0df32c81e3e2400843575c97c44b8b3f09f1391051f4f74f1c27ac43af45059",
+  "confidence_tier": 4,
+  "date_published": "2026-03-26T00:43:37-07:00",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "cycle_length_days": 2,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Reduced deep sleep (10 min first night, 5 min second night); REM sleep still good at 2+ hours; total sleep 7-9h but waking up tired",
+      "severity": "moderate",
+      "onset_days": 1
+    },
+    {
+      "category": "other",
+      "description": "Feeling super cold when sleeping, never experienced before",
+      "severity": "moderate",
+      "onset_days": 1
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "More restless during sleep",
+      "severity": "mild",
+      "onset_days": 1
+    },
+    {
+      "category": "fatigue",
+      "description": "Waking up tired",
+      "severity": "mild",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Dosing approximately 10 minutes before bed; fasting 2-3 hours prior to injection",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104136Z"
+}

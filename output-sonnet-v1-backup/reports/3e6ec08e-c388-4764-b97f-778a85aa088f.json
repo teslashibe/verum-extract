@@ -1,0 +1,72 @@
+{
+  "id": "3e6ec08e-c388-4764-b97f-778a85aa088f",
+  "source_id": "1qx9nat",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qx9nat/reaction_to_peptides/",
+  "author_hash": "2f8ec48ebadf1e058b9ae249bfe98dc6dedb255d85914d00bc5eed5e12ec056e",
+  "confidence_tier": 4,
+  "date_published": "2026-02-05T21:59:53-08:00",
+  "health_conditions": [
+    "urticaria",
+    "allergic reaction with hives/blisters"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHKcu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1.25,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 750,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 750,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Urticaria lasting multiple days; rash on buttocks and shoulders; widespread itching all over body; small isolated red blisters resembling mosquito bites. Zyrtec taken without success.",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Compounds sourced from multiple vendors/blends: GLOW blend (GHKcu, BPC157, TB500), separate BPC+TB blend vial, and KPV from a separate vial. KPV was a new batch used for the first time. NAD+ last used Saturday morning, peptide stack last administered Sunday night. Subject had been using the same GLOW, BPC/TB, and NAD+ batches for months. Rash initially appeared on areas in contact with a shakti mat, then generalized. Concerned about risk of anaphylaxis on rechallenge.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121022Z"
+}

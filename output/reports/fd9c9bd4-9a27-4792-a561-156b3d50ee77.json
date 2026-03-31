@@ -1,0 +1,52 @@
+{
+  "id": "fd9c9bd4-9a27-4792-a561-156b3d50ee77",
+  "source_id": "1rq1iil",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rq1iil/ghkcu_injection_skin_issues/",
+  "author_hash": "3a4178c7c79f714d6c773da1cd38803ee0a8c31507f8d442c4e2655711def481",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T09:24:42-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "rosacea"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Skin completely clear after initial irritation resolved",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Full body systemic benefits from injection versus topical application"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Red breakout bumps on cheek, incredibly dry skin - referred to as 'copper uglies'",
+      "severity": "moderate",
+      "onset_days": 7,
+      "resolved": true,
+      "resolution_days": 10
+    }
+  ],
+  "protocol_notes": "1 mg daily subcutaneous injection. Takes zinc supplement to balance copper. Gets zinc and copper levels checked every three months. Initial irritation lasted approximately 1.5 weeks before skin completely cleared.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.654031Z"
+}

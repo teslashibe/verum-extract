@@ -1,0 +1,88 @@
+{
+  "id": "fa2a5308-5bba-42e6-85e7-5ad57d281645",
+  "source_id": "1n5cz5m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n5cz5m/melanotan_overdose/",
+  "author_hash": "5bba06a2df3e63d7b281aec5c7e42bc691d2b6ac248cf3878d0b464bfe39e670",
+  "confidence_tier": 4,
+  "date_published": "2025-08-31T19:29:41-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "mt2",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "single accidental dose",
+      "cycle_length_days": 1,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "mots-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Became very flushed instantly after injection",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "libido_change",
+      "description": "Prolonged erection (priapism) lasting approximately 5-6 hours, eventually became painful",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "appetite_change",
+      "description": "Complete loss of appetite, partially returned after sleeping it off",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "other",
+      "description": "Uncontrollable full body yawning and stretching every 5-10 seconds starting about 1 hour after dosing, lasted a while",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "nausea",
+      "description": "Nausea bad enough to leave work early",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "fatigue",
+      "description": "Body ached like having the flu, had to sleep it off",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Accidental overdose — OP intended to inject MOTS-C but injected MT2 instead due to unlabeled vials. Total recovery occurred within approximately 1 day.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.273235Z"
+}

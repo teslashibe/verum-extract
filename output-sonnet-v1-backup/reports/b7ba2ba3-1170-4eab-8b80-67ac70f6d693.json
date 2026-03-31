@@ -1,0 +1,79 @@
+{
+  "id": "b7ba2ba3-1170-4eab-8b80-67ac70f6d693",
+  "source_id": "1nkr3t9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nkr3t9/increasing_libido/",
+  "author_hash": "bd6f71060ca4c4154e6644bf1f185fd5779faa8abd01b947932881a7a1c1233e",
+  "confidence_tier": 5,
+  "date_published": "2025-09-18T19:03:21-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "perimenopause",
+    "low libido"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta 4mg weekly",
+      "name_normalized": "reta_4mg_weekly",
+      "category": "other",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Glow",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "estradiol gel",
+      "name_normalized": "estradiol_gel",
+      "category": "other",
+      "route": "topical",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "prometrium 100mg daily",
+      "name_normalized": "prometrium_100mg_daily",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "testosterone cream 5mg",
+      "name_normalized": "testosterone_cream_5mg",
+      "category": "other",
+      "route": "topical",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "Feels most relaxed and at peace than in a long time",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "libido_change",
+      "description": "Libido described as dead and buried despite current hormone regimen",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "42-year-old perimenopausal woman on hormone replacement therapy seeking libido restoration. Prometrium bumped to 200mg from day 21 of cycle. Prescribed regimen managed by physician.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.270859Z"
+}

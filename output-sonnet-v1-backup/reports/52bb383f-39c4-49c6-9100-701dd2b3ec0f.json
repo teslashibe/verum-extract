@@ -1,0 +1,47 @@
+{
+  "id": "52bb383f-39c4-49c6-9100-701dd2b3ec0f",
+  "source_id": "1s6uant",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6uant/hgh_sides/",
+  "author_hash": "f4f2bff4faab680d7f70be045f8d1e95d2fd02fcd31afc670a698aad7e781095",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T05:52:38-07:00",
+  "training_status": "bodybuilder/PED user",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 4,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "God-tier pumps noted at 18 IU/day previously",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Slight hand swollenness and maybe a little numbness at 18 IU/day; no carpal tunnel experienced at any dose",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_after": 800
+    }
+  ],
+  "protocol_notes": "Currently on a 'health phase' at 4 IU. Previously was 'blasting' at 18 IU/day. Also using other PEDs (unspecified). IGF-1 reached only 800 even at 18 IU. Advocates finding minimum dose to achieve peak IGF-1.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.103255Z"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "eb1572a4-7158-480f-9845-4741e03c584f",
+  "source_id": "1r02usu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r02usu/my_1_year_3_months_journey_with_reta/",
+  "author_hash": "e2041e585bcb1c9a1c2fd1ec1e90e5ba8766b43f1661a08736384117e0386be8",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T04:25:46-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "lira",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Tirz absolutely crushes hunger and causes disgust toward snacks and alcohol; sema and lira had some suppression effect; reta mildly better than sema and lira for hunger suppression"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Excessive sweating on reta — back sweat and swamp ass when sitting too long, especially on flights or long periods of sitting; BO issues",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_change",
+      "description": "Reta makes user want to snack and drink; no meaningful hunger or appetite suppression compared to tirz",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "LDL"
+    },
+    {
+      "marker_name": "HDL"
+    }
+  ],
+  "protocol_notes": "Has used pharma versions of liraglutide, semaglutide, and tirzepatide, as well as grey market retatrutide. Sema notably tanked LDL and raised HDL. Works from home standing most of the day; travels 1-2 times/month for business. Finds reta significantly inferior to tirz for appetite suppression and overall effectiveness. Considers reta mildly better than sema/lira but not by much.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.120064Z"
+}

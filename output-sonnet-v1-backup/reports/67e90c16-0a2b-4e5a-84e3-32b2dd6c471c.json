@@ -1,0 +1,61 @@
+{
+  "id": "67e90c16-0a2b-4e5a-84e3-32b2dd6c471c",
+  "source_id": "1r9beod",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9beod/final_boss_mega_stack_question/",
+  "author_hash": "b7ee1e5d156135bbb5ffc63cf6384abd344d583afa549a43849731707a40ece7",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T13:06:13-08:00",
+  "training_status": "active gym goer",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "as needed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "as needed (evening)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_unit": "IU",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Semax made workouts more focused, gets things done in the gym without wasting time",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "Selank in the evening to calm everything down",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "HGH recommended for better sleep (not personal report, recommendation only)"
+    }
+  ],
+  "protocol_notes": "Takes Semax 1mg subq for workouts, Selank 1mg subq in the evening. Works within 30 minutes. Can be taken as needed or more frequently to build in system. Also recommends HGH at 2-3 IU. Recommends Semax for workout focus rather than only task-oriented use as most people use it.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.116622Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "958452bf-8bdf-4151-b776-beeb154419ea",
+  "source_id": "1mxnltc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mxnltc/first_ghkcu_run_my_experience_so_far/",
+  "author_hash": "cdee347560345ed65f966793b226a72054765b19d1f92b921e8e08456b337211",
+  "confidence_tier": 4,
+  "date_published": "2025-08-22T17:46:14-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Major discomfort at injection site, could not get comfortable, sleep disruption, resolved with heat application",
+      "severity": "significant",
+      "onset_days": 3,
+      "resolved": true,
+      "resolution_days": 0
+    }
+  ],
+  "protocol_notes": "Recently restarted GHK-Cu. First injection had no discomfort. Third day had major discomfort relieved immediately by heating pad. Variable response between injections.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.683948Z"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "a63b8702-a979-4900-a84b-a3e0dab4d550",
+  "source_id": "1pu1484",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pu1484/cjc_ipa/",
+  "author_hash": "ce38fefd70fe59143728a450a6788457b63b2186d96499f7e5db11b5994d0d2d",
+  "confidence_tier": 4,
+  "date_published": "2025-12-23T10:22:19-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "great results over 3 months",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "amazing sleep quality",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "vascular flushing for 5-10 minutes after injection, goes away in less than 10 minutes",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    },
+    {
+      "category": "injection_site",
+      "description": "swelling and mild itching at injection site similar to mosquito bite, lasts about one hour",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "cardiac",
+      "description": "stronger/faster heart beat sensation, hearing blood flow in ears",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    },
+    {
+      "category": "nausea",
+      "description": "severe nausea and vomiting with heart rate elevation to 140s resting for 30 minutes; occurred when combining Tadalafil, creatine, liquid glycerol with insufficient hydration before injection",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    }
+  ],
+  "protocol_notes": "CJC-1295 No DAC variant. Duration: 3 months with no long-term issues. Administration: 2-3 hours after a meal, as close as possible to sleep onset. Critical: must maintain hydration (at least 2L water daily). Avoid combining with Tadalafil or other blood pressure-lowering compounds before injection. The flushing/histamine reaction is a normal vasodilation response.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.673543Z"
+}

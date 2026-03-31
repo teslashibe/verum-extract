@@ -1,0 +1,61 @@
+{
+  "id": "799533f4-b150-46fd-81c8-0c2164dcebca",
+  "source_id": "1s029qy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s029qy/my_dad_has_3cm_tears_in_his_rotary_cuff_will/",
+  "author_hash": "0ac5a9f2417d033c3d3de5221572176e71245130ee7b6a5ac9ba89821e9199f2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T13:45:17-07:00",
+  "training_status": "post-surgical",
+  "health_conditions": [
+    "rotator cuff surgery"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "oral",
+      "dose_value": 3.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "3x weekly (M,W,F)",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Post-surgical rotator cuff healing. Surgeon removed patient from sling at 10-day post-op and requested the peptide protocol.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "6-8 week protocol. User notes distinction between 'fixing' and 'healing' the tear - peptides will not fix the structural tear but will heal/support the surgical repair. Surgeon approved and interested in protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660133Z"
+}

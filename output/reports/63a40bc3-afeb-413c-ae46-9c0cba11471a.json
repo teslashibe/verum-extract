@@ -1,0 +1,38 @@
+{
+  "id": "63a40bc3-afeb-413c-ae46-9c0cba11471a",
+  "source_id": "1rusiw3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rusiw3/reta_or_tesa_to_get_rid_of_stubborn_abdominal_and/",
+  "author_hash": "f9ad254eec7ab8fc21b1d1d141f45fe7a556dae2d01799e10d46b256565f3eed",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T15:54:33-07:00",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "10lbs lost in first 2 weeks (attributed to water loss), then 1lb loss per week progression",
+      "severity": "significant",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Retains a ton of water on TRT",
+      "resolved": true,
+      "resolution_days": 14
+    }
+  ],
+  "protocol_notes": "User is on moderate TRT dose. Initial 10lbs loss attributed to water retention resolution. Steady-state loss rate of 1lb per week achieved after initial phase.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.651462Z"
+}

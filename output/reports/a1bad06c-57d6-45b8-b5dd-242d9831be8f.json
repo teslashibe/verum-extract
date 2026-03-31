@@ -1,0 +1,35 @@
+{
+  "id": "a1bad06c-57d6-45b8-b5dd-242d9831be8f",
+  "source_id": "1rggqi9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rggqi9/accidentally_injected_5mg_instead_of_500mgc/",
+  "author_hash": "cdf092754b8ad8ae2e524fa7c17e60d15cb6acb33e992270d5c2b9367c879dc9",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T11:43:09-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "First ever peptide injection. 5mg/5mg blend mixed with 2ml bacteriostatic water. Accidentally injected 1ml solution (2.5mg TB-500 + 2.5mg BPC-157) instead of intended 0.1ml (500mcg). Dosing error due to misreading syringe markings.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.659097Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "88041b6d-e660-4212-8412-eb0d8c07fa28",
+  "source_id": "1e4ai7g",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1e4ai7g/tesamorelin_no_recomp_occurring/",
+  "author_hash": "395131c2ca0394a0794a1f933ec561e37bbe552d145a8d9b72e164b9a9a01a1c",
+  "confidence_tier": 5,
+  "date_published": "2024-07-15T17:08:38-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "semorelin/ipa",
+      "name_normalized": "semorelinipa",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cjc/ipa",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Got results with tesa; better results with semorelin/ipa and CJC/ipa"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Wrist/joint pain with Tesamorelin",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Switched from Tesamorelin to semorelin/IPA and CJC/IPA due to joint pain. Got results with Tesa but joint pain was too significant.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.292529Z"
+}

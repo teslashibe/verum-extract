@@ -1,0 +1,47 @@
+{
+  "id": "cf3380ec-bc3d-48ba-91f1-0849e0e50382",
+  "source_id": "1m44bjy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m44bjy/cjcipa_impact_on_sleep_quality/",
+  "author_hash": "a0e4b64bd7c3fd3d289fd8753aa07152e461f07a2039d52e7ac5d40227dc4584",
+  "confidence_tier": 5,
+  "date_published": "2025-07-19T12:09:42-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "before bed",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Ipamorelin before bed no problems",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "When CJC is added to Ipamorelin it's a mess",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Can tolerate Ipamorelin before bed but adding CJC causes sleep issues.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.687015Z"
+}

@@ -1,0 +1,118 @@
+{
+  "id": "9f0242ad-7f6d-495f-a479-dda8c7e44a35",
+  "source_id": "1qpbv7o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qpbv7o/sense_check_on_planned_peptide_stack_overkill_or/",
+  "author_hash": "3942e36083b5902bbc40659568c30e7ca7c5236cc1a4841913bf40cbec8acf7e",
+  "confidence_tier": 4,
+  "date_published": "2026-01-28T05:50:15-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 78,
+    "unit": "kg"
+  },
+  "health_conditions": [
+    "poor sleep since childhood"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 273,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Klow",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Oxytocin",
+      "name_normalized": "oxytocin",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "5-Amino-1MQ",
+      "name_normalized": "5_amino_1mq",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost ~12 kg before starting tirzepatide, continued loss with retatrutide transition",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body weight",
+      "value_before": 110,
+      "value_after": 78,
+      "unit": "kg",
+      "timeframe_days": 365
+    }
+  ],
+  "protocol_notes": "Transitioned from tirzepatide (10 mg/week) to retatrutide (10 mg/week) in December 2025 after ~9 months on tirzepatide. Initial weight gain of ~4-6 lb after retatrutide transition, followed by continued downward trend. Considering stacking 8 additional peptides.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.682781Z"
+}

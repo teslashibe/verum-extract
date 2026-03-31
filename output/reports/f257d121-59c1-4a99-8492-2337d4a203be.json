@@ -1,0 +1,33 @@
+{
+  "id": "f257d121-59c1-4a99-8492-2337d4a203be",
+  "source_id": "1q4vdjh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q4vdjh/reta_allergy_development_or_just_expired_product/",
+  "author_hash": "081f49a2d6a3c506f08168b2ee6bfcbb4ab0ebf059b8020aa04250a893ea1bc0",
+  "confidence_tier": 4,
+  "date_published": "2026-01-05T11:27:29-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Red, itchy rash at injection site. Rash resolves by next injection week.",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Retatrutide is the only peptide that causes this reaction for this user. Wipes with alcohol swabs before reconstitution and injection. Uses fresh needle each time. Rash is recurring but manageable, resolving between injections.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.671773Z"
+}

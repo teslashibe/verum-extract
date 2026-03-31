@@ -1,0 +1,56 @@
+{
+  "id": "0e0f71bc-26f7-4c4a-9f8f-647706a45040",
+  "source_id": "1s6olky",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6olky/igf_lr3/",
+  "author_hash": "32a4459fad9b2ea1fe2fea0bce5dc941aa3267cb657e117ff8cd534540d6eab3",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T00:23:07-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "igf lr3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "bpc",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tb",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "A few strength gains noted alongside water weight",
+      "severity": "mild"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Some additional healing benefit when stacked with BPC/TB, but not strong enough to recommend for that purpose",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "2-3kg of water gain",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Tried 2 different sources. Dosing ranged from 20-100mcg daily. Used IGF-LR3 mainly as an addition to BPC/TB for healing. Did not notice faster recovery.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.103309Z"
+}

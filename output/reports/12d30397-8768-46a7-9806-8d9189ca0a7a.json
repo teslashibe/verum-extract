@@ -1,0 +1,49 @@
+{
+  "id": "12d30397-8768-46a7-9806-8d9189ca0a7a",
+  "source_id": "1rr12jp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr12jp/round_2_of_semaglutide_not_working/",
+  "author_hash": "fb976fbd41a980ccaf440aeb33e6580a3fcdf1d34238c8030ecaf4066074c61c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-11T10:57:01-07:00",
+  "training_status": "cutting",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Completely killed appetite - felt sick just thinking of food the day after first injection",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "fat_loss",
+      "description": "Maintaining 500 kcal below target deficit, planned 750 kcal deficit",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Makes user tired. First week felt sluggish, improved in second week",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Currently on 2.5mg Tirzepatide dose, planning to maintain for cutting cycle.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.665547Z"
+}

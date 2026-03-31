@@ -1,0 +1,73 @@
+{
+  "id": "efe6cee3-9359-4efe-881c-c54ac3615114",
+  "source_id": "1pq19ic",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pq19ic/retratutide_is_king_31kg_in_3_months/",
+  "author_hash": "24ff68731d0efd1280939bf9de998520e0297ca9e2442cd507f611edd1b6a321",
+  "confidence_tier": 4,
+  "date_published": "2025-12-18T12:27:22-08:00",
+  "reported_weight": {
+    "value": 93.1,
+    "unit": "kg"
+  },
+  "training_status": "sedentary",
+  "health_conditions": [
+    "obesity"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 12,
+      "dose_unit": "mg",
+      "frequency": "2x weekly (3mg per dose)",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "Monday to Friday before sleep",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "frequency": "once in a while",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 31kg (68 lbs) in 3 months; weight dropped from ~124kg to 93.1kg",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Used Tesamorelin to avoid significant lean mass loss; estimated ~5kg muscle loss out of 31kg total weight loss",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Struggle to eat at 6mg dose; difficulty with food intake requiring dose splitting",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started September 2025 at ~119-124kg. Dosage escalation: Month 1 up to 3mg (1x weekly), Month 2 up to 6mg (split 3mg twice weekly), Month 3 up to 12mg (split 3mg twice weekly). No reported side effects at end of cycle. Planning 3-month break from Retatrutide starting January. Tesamorelin dosed 2mg Monday-Friday before sleep with 2-hour fasting window. Medical checks done during cycle reported as normal. User acknowledged missing protein intake and not training during this period. Planning to add gym training and improve nutrition post-break. Estimated starting lean muscle mass ~80kg, estimated lean mass loss ~5kg.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.390364Z"
+}

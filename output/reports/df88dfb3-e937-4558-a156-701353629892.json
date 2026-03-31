@@ -1,0 +1,36 @@
+{
+  "id": "df88dfb3-e937-4558-a156-701353629892",
+  "source_id": "1rf2esd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rf2esd/can_ghkcu_make_you_sick/",
+  "author_hash": "352d30508e21b362dd88b3414c55480e1bd53f6b5a072ebf888638220fb64fc3",
+  "confidence_tier": 5,
+  "date_published": "2026-02-25T22:06:53-08:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "respiratory",
+      "description": "cold-like symptoms",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Attributed to histamine reaction. Treated with Zyrtec and zinc supplementation. Symptoms resolved after initial period.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.659696Z"
+}

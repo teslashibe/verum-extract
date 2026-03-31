@@ -1,0 +1,47 @@
+{
+  "id": "c2aa0820-bdb0-4628-8a3b-9e061d1210b6",
+  "source_id": "1rjgofg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rjgofg/bpc157_anyone_inject_in_their_rear_shoulder_by/",
+  "author_hash": "bc6aa745c77a01e4268bb3c0836ccc8d2ef94e6bc315a3fdb2bf3bee11bc0cc4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T21:15:00-08:00",
+  "health_conditions": [
+    "shoulder pain (seeing chiropractor for 1 year with no progression)"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tb-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Shoulder pain resolved after 2 months on peptides; no more need for chiropractic visits",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Full recovery from chronic shoulder issue that had not responded to 1 year of chiropractic care",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Injected BPC-157 and TB-500 stack in side delt. Pain was completely gone after 2 months.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112767Z"
+}

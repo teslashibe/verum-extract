@@ -1,0 +1,44 @@
+{
+  "id": "8c5cc915-d500-4d2c-8ec2-77428dead603",
+  "source_id": "1qkeyc4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qkeyc4/just_started_out_with_reta/",
+  "author_hash": "8c0cec1fcff72b87e58715a5ace7f252ee73aa785b4f9ef5becd440c8074cd4b",
+  "confidence_tier": 4,
+  "date_published": "2026-01-22T18:49:41-08:00",
+  "reported_sex": "male",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite is more controlled, feeling full off smaller amounts of food",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Ate a pop tart and stomach felt uneasy",
+      "severity": "mild",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Starting at 1mg, planning to increase by 0.5mg every two weeks up to 2.5mg. Taking slowly to minimize side effects. Dosed at 8pm.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.683414Z"
+}

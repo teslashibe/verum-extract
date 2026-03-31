@@ -1,0 +1,32 @@
+{
+  "id": "58996300-f328-48df-aaa7-7e77f0158fc6",
+  "source_id": "1eu2ahc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1eu2ahc/im_lost/",
+  "author_hash": "841a505825ab432cfb1b8df3947aa5f3cf98b8befb416422b92919955db11304",
+  "confidence_tier": 4,
+  "date_published": "2024-08-16T15:46:04-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Nausea from injections",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Found dietary protocol eliminated nausea: eat protein an hour before injection and every couple hours after (even small amounts like chicken breast or nuts). No food after 7-8pm.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.414194Z"
+}

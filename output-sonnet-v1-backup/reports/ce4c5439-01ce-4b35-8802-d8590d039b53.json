@@ -1,0 +1,46 @@
+{
+  "id": "ce4c5439-01ce-4b35-8802-d8590d039b53",
+  "source_id": "1rhzrso",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rhzrso/tesamorelin/",
+  "author_hash": "e3d4fe9904005a7e3dcfc58e6921e30373a2339deb6f9d20319e2576b20f13a9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T07:16:40-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Water weight caused carpal tunnel; excruciating pain in pinky, ring and middle finger at night",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Waking up at night with excruciating pain in fingers due to carpal tunnel",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Stopped Tesa, symptoms resolving after a few days off. Plans to restart at no more than 1mg. Also on Reta for weight loss.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.113543Z"
+}

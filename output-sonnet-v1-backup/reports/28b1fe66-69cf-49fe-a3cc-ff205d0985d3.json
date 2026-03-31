@@ -1,0 +1,41 @@
+{
+  "id": "28b1fe66-69cf-49fe-a3cc-ff205d0985d3",
+  "source_id": "1ixcri5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ixcri5/followup_thread_my_experience_with_epitalon/",
+  "author_hash": "87e47dad8c0e6f8f278d28b0d393a01d075282363ead9138a8952779d324732e",
+  "confidence_tier": 4,
+  "date_published": "2025-02-24T12:57:01-08:00",
+  "compounds": [
+    {
+      "name_raw": "epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep steadily improving, averaging about 20 minutes more per night after approximately one month",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep was going down after a week at 500mcg dose; reduced to 250mcg",
+      "severity": "moderate",
+      "onset_days": 7,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started at 500mcg daily but sleep declined after a week; backed off to 250mcg daily. Has been taking for about a month total. Notes possible translation issue in original Russian papers regarding dosing (5-10mg in original study may refer to different formulation).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.287581Z"
+}

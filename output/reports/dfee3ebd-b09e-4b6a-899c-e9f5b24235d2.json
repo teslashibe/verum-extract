@@ -1,0 +1,61 @@
+{
+  "id": "dfee3ebd-b09e-4b6a-899c-e9f5b24235d2",
+  "source_id": "1beywks",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1beywks/tb500_reversed_greying_of_my_hair/",
+  "author_hash": "6d01a4f463493051d04f5c4edc639d384a3261e81c11a0e1cef145826d8d23f9",
+  "confidence_tier": 4,
+  "date_published": "2024-03-14T16:04:49-07:00",
+  "health_conditions": [
+    "soreness",
+    "nagging injuries"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Reversal of greying on the sides of hair",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "injury_healing",
+      "description": "Addressed extreme soreness and light nagging injuries",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "No sides reported; caffeine still affects user normally"
+    }
+  ],
+  "protocol_notes": "TB-500 sourced from Peptide Sciences (full 43 amino acid thymosin beta-4 sequence). Injections primarily in belly and glute; sometimes combined BPC-157 and TB-500 in same syringe.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.416217Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "d5cf8f0f-c130-4546-8517-28730a3fe55e",
+  "source_id": "1hqojs9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1hqojs9/what_would_you_say_is_the_ideal_fat_loss_peptide/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2024-12-31T13:32:25-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "T4",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "User is in diet phase with coach; T4 dosed Friday; BPC-157 dosed first thing morning and last thing before bed",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.69473Z"
+}

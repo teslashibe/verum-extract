@@ -1,0 +1,41 @@
+{
+  "id": "6b1f6532-c6d0-4bca-a61f-9e04d05073ac",
+  "source_id": "1rg012q",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rg012q/24m_207_lbs_62_lift_34x_a_week_low_dosing/",
+  "author_hash": "16211341dc382fc3c39bce151fa4939b75268efa30ff9df354467192b5610b71",
+  "confidence_tier": 5,
+  "date_published": "2026-02-26T23:19:52-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "reported_weight": {
+    "value": 207,
+    "unit": "lbs"
+  },
+  "training_status": "lift 3-4x per week",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "turn on receptors to burn more fat; activate all 3 receptors"
+    }
+  ],
+  "protocol_notes": "Considering escalation to 1mg weekly. Plans to run for a couple of months. User is cost-conscious and wants to stay on lower end of dosing.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.659404Z"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "9114b30a-6ba4-46db-a5ae-05243502cffc",
+  "source_id": "1r02wnf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r02wnf/just_diagnosed_with_moderate_osteoarthritis/",
+  "author_hash": "9bb6f5dbe260f936f1c9b3c2a63ecbef3251819f866be3f3030e23533f030809",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T04:28:23-08:00",
+  "training_status": "active, lifting",
+  "health_conditions": [
+    "joint issues",
+    "knee pain",
+    "shoulder pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "nagging issues with knee and shoulder faded considerably",
+      "severity": "moderate"
+    },
+    {
+      "category": "inflammation",
+      "description": "anti-inflammatory effects were noticeable",
+      "severity": "moderate"
+    },
+    {
+      "category": "tissue_repair",
+      "description": "GHK-Cu for tissue repair and collagen (long game)"
+    }
+  ],
+  "protocol_notes": "User ran BPC-157 and TB-500 for a different reason than OA but saw joint benefits. Recommends starting low and tracking effects week to week. GHK-Cu mentioned as longer-term tissue repair strategy.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.678328Z"
+}

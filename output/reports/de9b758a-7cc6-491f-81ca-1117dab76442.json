@@ -1,0 +1,45 @@
+{
+  "id": "de9b758a-7cc6-491f-81ca-1117dab76442",
+  "source_id": "1oypf61",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oypf61/from_278_to_the_low_200s_still_pushing_still/",
+  "author_hash": "12bdd383beb5cd5c5fefc123df7e03e17b0a28278602093e175b4325280cf258",
+  "confidence_tier": 4,
+  "date_published": "2025-11-16T08:03:47-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 291,
+    "unit": "lbs"
+  },
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 20 lbs in 5 weeks",
+      "severity": "significant",
+      "onset_days": 35
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body weight",
+      "value_before": 291,
+      "value_after": 271,
+      "unit": "lbs",
+      "timeframe_days": 35
+    }
+  ],
+  "protocol_notes": "On similar journey to OP. Goal is to reach 210 lbs or lower by next year. Recently got a smart scale which helped understand calorie intake and body composition. Working on figuring out caloric maintenance and maximum intake to reach goal.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.6773Z"
+}

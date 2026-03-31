@@ -1,0 +1,47 @@
+{
+  "id": "288c56b0-bb6b-4ed5-b452-69f9ca6294b3",
+  "source_id": "1okqkin",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1okqkin/almost_died_from_cjd1295_and_ghrp2_combo/",
+  "author_hash": "8a903ed15825c0eb1fb20858f985e9d3775b362661d97cb4784defd9d0171213",
+  "confidence_tier": 4,
+  "date_published": "2025-10-31T03:07:40-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "nausea and flush after every injection",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "flushing",
+      "description": "flush after every injection",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Discontinued after two weeks. Wife tolerated the combo better and used remaining peptides.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.678476Z"
+}

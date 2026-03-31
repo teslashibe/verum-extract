@@ -1,0 +1,47 @@
+{
+  "id": "1748537c-b113-4466-8177-27b5e2c6e3e5",
+  "source_id": "1rux4ga",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rux4ga/not_sure_what_to_do/",
+  "author_hash": "55350d64a77eafc71a0fa03bd18f42df0d292dd1b097adda20ac823b68cc8ace",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T19:16:10-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 285,
+    "unit": "lbs"
+  },
+  "training_status": "Lifts 4x per week, 4-5 cardio sessions per week (30-45 min each)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "frequency": "weekly (implied)",
+      "cycle_length_days": 365,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 80 lbs over approximately 1 year (365 to 285 lbs), though stalled for last 10 weeks",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Body fat percentage decreased slightly despite scale not moving during stall",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Starting weight 365 lbs, goal weight 200 lbs. Eating 1800-2200 calories daily with 200-220g protein. Stalled for 10 weeks at 15mg tirz. Considering switching to retatrutide and/or retatrutide + cagrilintide.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.107875Z"
+}

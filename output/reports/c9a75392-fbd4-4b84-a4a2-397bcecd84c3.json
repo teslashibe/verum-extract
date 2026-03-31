@@ -1,0 +1,45 @@
+{
+  "id": "c9a75392-fbd4-4b84-a4a2-397bcecd84c3",
+  "source_id": "sxjsqp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/sxjsqp/best_sleep_of_my_life_on_cjc_1295ipamorelin/",
+  "author_hash": "c6bb3da001828431298fd21661966037e43fd32879ed778236fb65fdfd0f99e2",
+  "confidence_tier": 4,
+  "date_published": "2022-02-20T19:48:51-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHRP-2",
+      "name_normalized": "ghrp_2",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Two positive altered sleep experiences; described as teleporting sensation where time passes without memory of sleep process. Bed remains made except for body position. No memory of sleep process but woke without excessive tiredness or fatigue.",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Major insomnia and huge night sweats for first 3 nights; no sleep at all on first 3 nights",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "CJC-1295 and GHRP-2 combination. Had to reset and taper up after initial severe insomnia and night sweats. Only experienced positive sleep effects twice since January (implied started January). Protocol adjusted after initial adverse response.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.130009Z"
+}

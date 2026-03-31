@@ -1,0 +1,46 @@
+{
+  "id": "2e586b03-0052-491f-8d84-898d49583547",
+  "source_id": "1m44bjy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m44bjy/cjcipa_impact_on_sleep_quality/",
+  "author_hash": "3bc0f5e7342e41aedcec15014ed144d3fe45d675e4ef5e7f6576c4d2f8c0975b",
+  "confidence_tier": 5,
+  "date_published": "2025-07-19T12:09:42-07:00",
+  "compounds": [
+    {
+      "name_raw": "Gh peps",
+      "name_normalized": "gh_peps",
+      "category": "other",
+      "frequency": "before sleep",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ibutamoren",
+      "name_normalized": "mk_677",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "tb+bpc",
+      "name_normalized": "tbbpc",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Ibutamoren works well for sleep. TB+BPC is really great as well."
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "GH peptides before sleep don't work for this user."
+    }
+  ],
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.278581Z"
+}

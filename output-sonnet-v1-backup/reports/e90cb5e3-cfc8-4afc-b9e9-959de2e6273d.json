@@ -1,0 +1,32 @@
+{
+  "id": "e90cb5e3-cfc8-4afc-b9e9-959de2e6273d",
+  "source_id": "1beywks",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1beywks/tb500_reversed_greying_of_my_hair/",
+  "author_hash": "7bafdead6225c03f209e5f96f77b6fe956d1d2d74e588dd0ca3c4a075aec4b12",
+  "confidence_tier": 5,
+  "date_published": "2024-03-14T16:04:49-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "BPC causes stimulants (caffeine, DMAA, synephrine, ephedrine, yohimbine) to stop working; can sleep on 400mg caffeine while on BPC. Slight shakiness on stims but no wired feeling. After stopping BPC, 1-2 weeks later 100mg caffeine feels extremely potent.",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 10
+    }
+  ],
+  "protocol_notes": "Speculates BPC affects neurotransmitters. After stopping BPC, stimulant sensitivity returns strongly within 1-2 weeks.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294322Z"
+}

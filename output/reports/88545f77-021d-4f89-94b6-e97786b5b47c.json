@@ -1,0 +1,42 @@
+{
+  "id": "88545f77-021d-4f89-94b6-e97786b5b47c",
+  "source_id": "1rokp5s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rokp5s/cjc1295ipamorelin_blend_and_tirz_stack/",
+  "author_hash": "64ef84eb2a13c30a623a152c97500567c4846d44b0e9ef09c90911adc8f0cc01",
+  "confidence_tier": 4,
+  "date_published": "2026-03-08T16:58:29-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Better fat reduction with Tesamorelin compared to CJC/IPA",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Ran CJC/IPA blend in cycles for approximately 6 months. Substituted CJC-1295 with Tesamorelin and found improved results. Confirmed compounds work via different mechanisms of action.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.655234Z"
+}

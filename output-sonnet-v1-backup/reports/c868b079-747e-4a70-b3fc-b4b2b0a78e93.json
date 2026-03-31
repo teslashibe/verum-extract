@@ -1,0 +1,60 @@
+{
+  "id": "c868b079-747e-4a70-b3fc-b4b2b0a78e93",
+  "source_id": "1r9v80b",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9v80b/beginner_stack/",
+  "author_hash": "044e5c2a50448c656cb565d597e02ac1c0f4a6161166f373fdc8521677173099",
+  "confidence_tier": 4,
+  "date_published": "2026-02-20T05:22:37-08:00",
+  "training_status": "trains and follows diet",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "cjc",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ghk",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "ghk",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "topical",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost weight more easily with ipa/cjc, though diet and training helped more",
+      "severity": "mild"
+    },
+    {
+      "category": "skin",
+      "description": "Skin looks and feels a lot better after 2 months using GHK via injection and topical serum",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User injects GHK and also made a topical serum. Acknowledges improved skincare routine (cleansing and moisturising morning and night) may have contributed to skin results. IPA/CJC described as working in the background for weight loss.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.116191Z"
+}

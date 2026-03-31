@@ -1,0 +1,31 @@
+{
+  "id": "e1e63e04-3172-4df4-89f2-f2dfd00f9025",
+  "source_id": "1jbp95k",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jbp95k/can_i_prefill_a_syringe_with_multiple_doses/",
+  "author_hash": "bf19a68059289dca396e8da18f4e0b225dd301bbeabd1864ae01ddd175723318",
+  "confidence_tier": 5,
+  "date_published": "2025-03-14T23:46:45-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 0.4,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "User dilutes all peptides to 25 unit doses for consistency. BPC-157 from 10mg vial diluted to 6.25ml BAC water in a 10ml sterile vial. Uses 4x BAC water to minimize waste per injection. Tirz is handled differently.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.287009Z"
+}

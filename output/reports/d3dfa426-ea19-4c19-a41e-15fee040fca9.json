@@ -1,0 +1,41 @@
+{
+  "id": "d3dfa426-ea19-4c19-a41e-15fee040fca9",
+  "source_id": "1rvupom",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvupom/tesa_question/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T19:46:34-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "Arms feel numb and tingly upon waking",
+      "severity": "moderate",
+      "onset_days": 28
+    }
+  ],
+  "protocol_notes": "On Tesamorelin for approximately 4-5 weeks; on week 2 of Retatrutide concurrently. Numbness/tingling started after about 1 week of Tesamorelin use.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.650903Z"
+}

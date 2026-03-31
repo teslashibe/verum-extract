@@ -1,0 +1,37 @@
+{
+  "id": "9491e88f-53f7-42be-a5f2-a6c27fc5dbe4",
+  "source_id": "1rf2esd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rf2esd/can_ghkcu_make_you_sick/",
+  "author_hash": "352d30508e21b362dd88b3414c55480e1bd53f6b5a072ebf888638220fb64fc3",
+  "confidence_tier": 5,
+  "date_published": "2026-02-25T22:06:53-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHKCU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "melanotan 2",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Cold-like symptoms when first starting both GHKCU and melanotan 2, possibly due to histamine reaction",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User took Zyrtec and zinc which helped. Symptoms resolved after a little bit. Uncertain if coincidental allergies/cold or peptide-related.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114641Z"
+}

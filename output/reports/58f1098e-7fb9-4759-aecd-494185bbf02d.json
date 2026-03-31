@@ -1,0 +1,45 @@
+{
+  "id": "58f1098e-7fb9-4759-aecd-494185bbf02d",
+  "source_id": "1qqwqer",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqwqer/reta_and_hgh/",
+  "author_hash": "99e921fc55806aede11a36aeb3c3dd1ca014546a9e2069f09c4e289aa901ddd4",
+  "confidence_tier": 4,
+  "date_published": "2026-01-29T21:28:31-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "dose_value": 130,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User notes they are not a high responder to Retatrutide at 10mg/week. Considering adding Var (Anavar).",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.68224Z"
+}

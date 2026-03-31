@@ -1,0 +1,58 @@
+{
+  "id": "cb9b2a82-294c-436c-9aef-6a41cb1358ff",
+  "source_id": "1l7e7f3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1l7e7f3/i_had_a_severe_mast_cell_reaction_to_sermorelin/",
+  "author_hash": "eea2d10f22d25045463ddef44262c81cd7e844e862253149cb23b576322a83ad",
+  "confidence_tier": 4,
+  "date_published": "2025-06-09T12:37:03-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "bad allergic reaction, less severe than OP's reaction",
+      "severity": "significant",
+      "onset_days": 60,
+      "resolved": true
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "same allergic reaction after ~8 weeks of CJC/IPA",
+      "severity": "significant",
+      "onset_days": 56,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Male subject. First sermorelin reaction at 2+ months. Took 1 year break, then started CJC/IPA and had same reaction within ~8 weeks. Theory: immune system mistaking peptides for harmful substances (bacteria/viruses), triggering IgE antibody production. Believes reaction is common and likely to recur with future GHRH use. Switched to HGH to avoid further reactions.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.689703Z"
+}

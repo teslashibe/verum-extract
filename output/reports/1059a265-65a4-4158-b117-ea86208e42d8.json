@@ -1,0 +1,37 @@
+{
+  "id": "1059a265-65a4-4158-b117-ea86208e42d8",
+  "source_id": "1m44bjy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m44bjy/cjcipa_impact_on_sleep_quality/",
+  "author_hash": "a0e4b64bd7c3fd3d289fd8753aa07152e461f07a2039d52e7ac5d40227dc4584",
+  "confidence_tier": 5,
+  "date_published": "2025-07-19T12:09:42-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "bedtime",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Can do Ipamorelin before bed without problems but adding CJC-1295 creates issues",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Ipamorelin alone before bed tolerated well. Adding CJC-1295 to combination causes sleep problems.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.403764Z"
+}

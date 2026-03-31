@@ -1,0 +1,51 @@
+{
+  "id": "09018eda-0e5d-4722-b5fb-ce90b5e25960",
+  "source_id": "1r2afsa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2afsa/explain_to_me_like_im_5_years_old/",
+  "author_hash": "80a83c5da69da25aa7faefb4cbe4bc6c6ed9a450fe6e0558f4036e79ba92f2cb",
+  "confidence_tier": 4,
+  "date_published": "2026-02-11T13:36:50-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "1x daily (morning, fasted)",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "1x daily (before bed, fasted)",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "improved sleep almost right away",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "body_composition",
+      "description": "body recomp visible after approximately one month",
+      "severity": "moderate",
+      "onset_days": 30
+    }
+  ],
+  "protocol_notes": "User reports that higher doses may be needed for more noticeable effects. Suggests CJC-1295 No DAC / Ipamorelin stack format based on context.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677249Z"
+}

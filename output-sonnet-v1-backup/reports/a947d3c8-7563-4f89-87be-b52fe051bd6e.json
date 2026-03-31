@@ -1,0 +1,55 @@
+{
+  "id": "a947d3c8-7563-4f89-87be-b52fe051bd6e",
+  "source_id": "1ot8zjj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ot8zjj/best_stack_for_surviving_first_month_with_newborn/",
+  "author_hash": "4a1b1316a6a7d86d313cfd9ffae5e6db2544f5dcc1b43a274ec17f4d9c419204",
+  "confidence_tier": 4,
+  "date_published": "2025-11-10T01:01:40-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 119,
+    "unit": "kg"
+  },
+  "health_conditions": [
+    "low energy",
+    "low natural testosterone"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ss31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "mots-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Father expecting second child, concerned about sleep deprivation. Using SS31 for 2 weeks for energy. Plans to use MOTS-C at 2.5mg 2x/week. Using reta for weight loss. On testosterone therapy due to virtually non-existent natural testosterone. Caffeine has no effect on him.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.265047Z"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "7c91f4b1-2c44-4e3d-881f-7319c687e4a4",
+  "source_id": "1rlf6uk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rlf6uk/combos/",
+  "author_hash": "9244ae4db494cb7002ac033817923d5d95691ed80270de084354a5f32fc46ed7",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T03:27:12-08:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "joint pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Joint pain relief with consistent testosterone dosing",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Joint pain returns if dose is missed or late",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User does 20mg testosterone per week via injection. Reports joint pain relief is dose-dependent and returns quickly if schedule is missed.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.656764Z"
+}

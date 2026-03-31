@@ -1,0 +1,45 @@
+{
+  "id": "3e2047ee-df7e-424d-980a-ee9878a915cd",
+  "source_id": "1s4j9xn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4j9xn/ipacjc_timing/",
+  "author_hash": "50e6d45fa78d914436edcc505397f1b0fc650c3c2df4745359f5647c79b8ac6d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-26T13:42:32-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "varies (fasted vs with meal)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "varies (fasted vs with meal)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_increase",
+      "description": "Ipamorelin increases food intake and appetite; can help counteract appetite suppression from GLP-1 agents",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "References a friend's year-long A/B testing study comparing fasted vs non-fasted administration of Tesamorelin/Ipamorelin. Repeated IGF-1 testing showed better response with meals rather than fasted. Notes that Tesamorelin (Theratechnologies pharma product) does not recommend fasting. Discusses that GHRP/Ipamorelin can increase appetite (contrary to community belief) and may be useful for bulking when combined with GLP-1 agents like Retatrutide which suppress appetite.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.646493Z"
+}

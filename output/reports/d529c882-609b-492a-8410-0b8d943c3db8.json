@@ -1,0 +1,46 @@
+{
+  "id": "d529c882-609b-492a-8410-0b8d943c3db8",
+  "source_id": "1lv3hmv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lv3hmv/hit_a_vein_what_a_wild_ride/",
+  "author_hash": "639da5c91a17c22c30bcef8b53410da1f5ff44732226e29714bba98581df77bb",
+  "confidence_tier": 4,
+  "date_published": "2025-07-08T16:18:49-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Helps with recovery and growth",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Hands felt like they caught on fire, face got hot, feet got itchy",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "skin_reaction",
+      "description": "Hives on belly",
+      "severity": "moderate",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "On vial 4, previously used IPA/Sermorelin combo a month earlier with no problems. Injected left side of belly and saw blood, suggesting may have injected too deep or hit a vein. User considering switching to Tesamorelin or IPA due to reaction.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.404619Z"
+}

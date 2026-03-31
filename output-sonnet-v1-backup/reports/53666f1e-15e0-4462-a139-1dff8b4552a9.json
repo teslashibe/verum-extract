@@ -1,0 +1,61 @@
+{
+  "id": "53666f1e-15e0-4462-a139-1dff8b4552a9",
+  "source_id": "1mz0i47",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mz0i47/solved_epitalon_dosing_timing_and_strength_for/",
+  "author_hash": "b87b46987fa5e53940cd2758b389592a8fcc183e3b08fa94fe6ce60875861690",
+  "confidence_tier": 4,
+  "date_published": "2025-08-24T09:40:50-07:00",
+  "health_conditions": [
+    "sleep disruption while on Retatrutide"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "dose_value": 75,
+      "dose_unit": "mcg",
+      "frequency": "as needed, 3 hours before bed",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Great results from DSIP for sleep while on Retatrutide; Epitalon also helped sleep when switched to morning dosing from night",
+      "severity": "significant"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Using Epitalon for anti-aging purposes"
+    },
+    {
+      "category": "immune",
+      "description": "Using Epitalon for enhanced immune function"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Had trouble sleeping when Epitalon was dosed at night; resolved by switching to morning dosing",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Pins Epitalon in the morning for circadian rhythm/sleep regulation. Pins 75mcg DSIP 3 hours before bed. Sleep stack alternates between Ultra Red Reishi Extra or Lemon Balm. Also uses Magnesium, Boron, and Cistanche. Currently on Retatrutide. Uses Epitalon for anti-aging, pineal gland regulation, and immune function in addition to sleep.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.274219Z"
+}

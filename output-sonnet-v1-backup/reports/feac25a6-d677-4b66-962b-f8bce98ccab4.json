@@ -1,0 +1,58 @@
+{
+  "id": "feac25a6-d677-4b66-962b-f8bce98ccab4",
+  "source_id": "13o0qe1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/13o0qe1/bpc157_love/",
+  "author_hash": "1116ce54b3d42b777eda82665d846a4d160711c05924035761ecba567328e07f",
+  "confidence_tier": 4,
+  "date_published": "2023-05-21T10:22:37-07:00",
+  "training_status": "active lifter",
+  "health_conditions": [
+    "ulnar wrist injury",
+    "shoulder tendonopathy (2 years)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Ulnar wrist injury healed within 5 days with para-care (brace, ice, mindful positioning)",
+      "severity": "significant",
+      "onset_days": 5
+    },
+    {
+      "category": "injury_healing",
+      "description": "Shoulder tendonopathy of 2 years healed within a week, not the intended target of treatment",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "mood",
+      "description": "500mcg/day improved mood; 1mg/day caused anhedonia",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "1mg/day was somewhat anhedonic; repeated use eventually caused anxious anhedonia",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started at 500mcg twice daily (1mg/day), then switched to 250mcg twice daily. Injected subq above the pain site. Notes that source quality made a significant difference — previous source from last summer produced no effects. Currently continuing use for a different purpose.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.297572Z"
+}

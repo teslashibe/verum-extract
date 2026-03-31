@@ -1,0 +1,49 @@
+{
+  "id": "5054fbec-6bda-41e1-b8f7-cf4a0ac94541",
+  "source_id": "1qtsnge",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtsnge/cjc_1295ipamorelin_sleep_problems/",
+  "author_hash": "a2a9a03768169795b4fd3059a862e6066027129e02ff5193349d1c06d0bee1d0",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T03:34:14-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep normalized after initial waking throughout night resolved",
+      "severity": "moderate",
+      "onset_days": 2
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Initial waking throughout the night",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 2
+    }
+  ],
+  "protocol_notes": "Used twice-daily dosing split throughout the day, which user hypothesizes contributed to better sleep outcomes.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.681078Z"
+}

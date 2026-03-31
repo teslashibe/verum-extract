@@ -1,0 +1,52 @@
+{
+  "id": "7184bb72-c32f-4513-b342-a4d0863e228d",
+  "source_id": "1r425h1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r425h1/cjc1295pamorelin_rapid_heart_rate/",
+  "author_hash": "0cd044ecfc3cea08bd9434b7997ff4ce6a0f3d5ff6ed27fe026b3513fb74c0a0",
+  "confidence_tier": 4,
+  "date_published": "2026-02-13T13:45:21-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "headache",
+      "description": "head pressure",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    },
+    {
+      "category": "flushing",
+      "description": "flushing",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    },
+    {
+      "category": "cardiac",
+      "description": "elevated heart rate",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    }
+  ],
+  "protocol_notes": "Effects start around 5 minutes after taking and last 10-15 minutes. Reports this happens to almost everyone.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.67647Z"
+}

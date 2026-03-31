@@ -1,0 +1,56 @@
+{
+  "id": "a682ff92-52a1-4345-9672-93beec6d1369",
+  "source_id": "1imsetr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1imsetr/anyone_on_carnivore_using_sermorelin/",
+  "author_hash": "08d2f55ad26b358b169a5100a4c7f9706ff19f4f4b164249c1b3a50a38575492",
+  "confidence_tier": 4,
+  "date_published": "2025-02-10T22:31:42-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Fat melts off quick during PSMF diet stint",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep is terrible",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Everything else is suffering",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 230,
+      "value_after": 127,
+      "unit": "ng/mL"
+    }
+  ],
+  "protocol_notes": "PSMF diet (protein-sparing modified fast) with calorie deficit, 2% macros from carbs, doing short stints annually. Baseline: natty, no calorie deficit, 40% carbs - IGF-1 230 ng/mL. Current protocol: PSMF with Ipa/Tesa, 2% carbs - IGF-1 127 ng/mL.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.694088Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "bdf6309a-e8bd-4666-8b05-289f46f3ff75",
+  "source_id": "1rjyp82",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rjyp82/looking_for_insight_into_bpc157_and_tb500_stack/",
+  "author_hash": "c58166c59b281cbba919ca0d42cf27e0d00213fdbb4d8594ba68906642e29c36",
+  "confidence_tier": 4,
+  "date_published": "2026-03-03T11:22:14-08:00",
+  "health_conditions": [
+    "shoulder impingement"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 700,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 700,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Zero improvement in shoulder impingement after nearly 10 weeks"
+    }
+  ],
+  "protocol_notes": "Used separate vials. Nearly 10 weeks of use (~70 days). Planned to stop once vials empty. Dose noted as 700mg in post but almost certainly 700mcg based on context.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112706Z"
+}

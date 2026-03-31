@@ -1,0 +1,51 @@
+{
+  "id": "4fac61d7-91ad-4fbb-ab5c-f812d9b17dfe",
+  "source_id": "1rzv4yt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzv4yt/ghk_dosing/",
+  "author_hash": "86fc7e88c40ce0cb28eda58dccd8c978df2325004546920c3050978560b9635f",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T09:01:46-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "chemotherapy history",
+    "hair loss post-chemo"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Nails stronger and growing faster",
+      "severity": "moderate",
+      "onset_days": 35
+    },
+    {
+      "category": "skin",
+      "description": "Skin looked better and fine lines softening",
+      "severity": "moderate",
+      "onset_days": 120
+    },
+    {
+      "category": "hair",
+      "description": "New hair growth in areas where hair was lost during chemo and never came back",
+      "severity": "significant",
+      "onset_days": 150
+    }
+  ],
+  "protocol_notes": "Used 2mg daily. Noticed nail improvements at 4-5 weeks, skin improvements at 4 months, and new hair regrowth in chemo-related hair loss areas between 5-6 months.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105907Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "c2468045-fc56-4c07-82de-6efa0d25d18c",
+  "source_id": "1oa10ew",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oa10ew/ghk_cu/",
+  "author_hash": "e4f1868bbace42187dd477a1bbc43d5779b23c125951478a06b77ece837e2038",
+  "confidence_tier": 4,
+  "date_published": "2025-10-18T09:58:24-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Reduced loose skin during weight loss, particularly in stomach area",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Stinging and welts when injecting in stomach area; no issues with upper glutes injection",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User progressed from 1-2mg daily to 5mg daily. Reports best injection results in upper glute area or just under hip bone, avoiding stomach area.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.679238Z"
+}

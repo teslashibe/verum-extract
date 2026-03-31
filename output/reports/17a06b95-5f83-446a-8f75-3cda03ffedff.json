@@ -1,0 +1,66 @@
+{
+  "id": "17a06b95-5f83-446a-8f75-3cda03ffedff",
+  "source_id": "1j8ardp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1j8ardp/for_those_who_are_taking_peptides_without_dr/",
+  "author_hash": "7605f963cce71f1e7ac87b98920753bbc0f1e97b2a8098ca0e0407d7f216988c",
+  "confidence_tier": 4,
+  "date_published": "2025-03-10T15:01:46-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "60+",
+  "reported_weight": {
+    "value": 255,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "hypertension",
+    "elevated LDL cholesterol"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 365,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "down 50 lbs over one year",
+      "severity": "significant"
+    },
+    {
+      "category": "cardiovascular",
+      "description": "hypertension resolved",
+      "severity": "significant"
+    },
+    {
+      "category": "blood_sugar",
+      "description": "LDL went from 150 to 73, no longer needs statins",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "weight",
+      "value_before": 255,
+      "value_after": 205,
+      "unit": "lbs",
+      "timeframe_days": 365
+    },
+    {
+      "marker_name": "LDL cholesterol",
+      "value_before": 150,
+      "value_after": 73,
+      "timeframe_days": 365
+    }
+  ],
+  "protocol_notes": "60-year-old male on Reta for 1 year. Reports excellent health markers. Drinks 2 bottles of wine and cocktails nightly. Discloses use to physician.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.41071Z"
+}

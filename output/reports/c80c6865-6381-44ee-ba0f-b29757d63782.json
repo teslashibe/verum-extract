@@ -1,0 +1,41 @@
+{
+  "id": "c80c6865-6381-44ee-ba0f-b29757d63782",
+  "source_id": "17ujerw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17ujerw/warning_massive_allergic_reaction_to_tb500/",
+  "author_hash": "71fefb252801e05f3c0e336f11fbf127c50375366b8ffb8bbde57d6fe53feaa8",
+  "confidence_tier": 4,
+  "date_published": "2023-11-13T12:03:32-08:00",
+  "health_conditions": [
+    "chronic injuries"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Helping with long-lasting chronic injuries",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Anaphylactic reaction resulting in brief cardiac arrest in ER",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Year 2015. Uncertain if reaction was to TB-500 itself, mannitol, or BAC water. Never determined causative agent.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.699929Z"
+}

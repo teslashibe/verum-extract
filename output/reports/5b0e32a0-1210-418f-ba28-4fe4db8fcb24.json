@@ -1,0 +1,92 @@
+{
+  "id": "5b0e32a0-1210-418f-ba28-4fe4db8fcb24",
+  "source_id": "1pqah67",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pqah67/on_the_fence_with_ghk_cu/",
+  "author_hash": "71ac552cbd5a41f7ef58fd19110308e9e3b02e1a882a989e6020d211beded3de",
+  "confidence_tier": 4,
+  "date_published": "2025-12-18T19:14:59-08:00",
+  "health_conditions": [
+    "lipodermatosclerosis",
+    "loose skin from weight loss"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "as needed for injection site pain",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Helping with loose skin from weight loss; floppy skin bits starting to shrink",
+      "severity": "moderate",
+      "onset_days": 60
+    },
+    {
+      "category": "injury_healing",
+      "description": "Made real progress against lipodermatosclerosis over two months; almost all wood-like texture of skin gone",
+      "severity": "significant",
+      "onset_days": 60
+    },
+    {
+      "category": "skin",
+      "description": "Skin all over is now softer and smoother",
+      "severity": "moderate",
+      "onset_days": 60
+    },
+    {
+      "category": "hair",
+      "description": "Hair becoming more healthy",
+      "severity": "mild",
+      "onset_days": 30
+    },
+    {
+      "category": "skin",
+      "description": "Appearance of scars may diminish",
+      "severity": "mild",
+      "onset_days": 30
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Severe burning/sting sensation at injection site; described as murder hornet sting in sensitive individuals; mitigated by adding extra BAC water to dilute, massaging area, or using ice pack",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Unable to sleep from giant murder hornet sting after taking full 2 mg dose without proper dilution",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "hormonal",
+      "description": "Copper content can ramp up if zinc intake is insufficient from daily dosing; copper/zinc balance maintenance required",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User is in rare hyper-sensitive group to copper ions. Uses BAC water and sometimes BPC-157 to mitigate injection site sting. Recommends starting with 250 mcg to gauge reaction. Stacks with collagen peptides (bovine collagen powder), Vitamin C, bio-silica supplements, and red light therapy for enhanced collagen/elastin production (320% improvement per clinical trials). Takes daily zinc picolinate supplement for copper/zinc balance. Also uses GHK-Cu topically mixed with sterile water and hyaluronic acid as a gel. Weight loss reported as 60+ pounds.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.39031Z"
+}

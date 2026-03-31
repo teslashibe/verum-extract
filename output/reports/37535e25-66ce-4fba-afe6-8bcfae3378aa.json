@@ -1,0 +1,74 @@
+{
+  "id": "37535e25-66ce-4fba-afe6-8bcfae3378aa",
+  "source_id": "1n5cz5m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n5cz5m/melanotan_overdose/",
+  "author_hash": "5bba06a2df3e63d7b281aec5c7e42bc691d2b6ac248cf3878d0b464bfe39e670",
+  "confidence_tier": 4,
+  "date_published": "2025-08-31T19:29:41-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "single dose",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Instant flushing upon injection",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "libido_change",
+      "description": "Persistent erection lasting 5-6 hours, initially painful, required sleep to resolve, continued upon waking",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "appetite_change",
+      "description": "Complete loss of appetite",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "muscle_cramp",
+      "description": "Uncontrollable full body stretches every 5-10 seconds lasting several hours",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "nausea",
+      "description": "Nausea experienced next morning, had to leave work early",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Body aches similar to flu, yawning",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Accidental overdose. User mistakenly injected 5mg Melanotan II instead of intended 5mg MOTS-c due to unlabeled vials. Initially experienced flushing, then prolonged erection with subsequent flu-like symptoms including nausea, body aches, and appetite loss. Uncontrollable yawning and stretching were particularly bothersome. All symptoms resolved within approximately 24 hours.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.399603Z"
+}

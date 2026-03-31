@@ -1,0 +1,57 @@
+{
+  "id": "d571072e-f5f9-4112-8269-b97c6c9c1d12",
+  "source_id": "1rpfqrk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpfqrk/glow_stack/",
+  "author_hash": "c9368323a879df5bbdc5db26b14eed7bde56a2f50f2fe67b032da727d754e457",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T15:58:13-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "compounds": [
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC/TB",
+      "name_normalized": "bpctb",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 0.8,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Crazy hair growth, especially facial hair; had to increase haircut frequency from once or twice a month to weekly",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Decent skin results",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Nails growing very fast, staying short for no longer than 2-3 days",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "OP is using the GLOW stack (GHK-CU + BPC/TB blend). Started at 2mg GHK-CU, then increased to 4mg after a week or so on lower dose. No stinging or adverse effects reported. Uncertain about how much of the hair growth is due to peptides vs age/hormones.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.110403Z"
+}

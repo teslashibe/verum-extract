@@ -1,0 +1,38 @@
+{
+  "id": "58dc4473-b007-4980-80c1-9ae6a5cd8102",
+  "source_id": "1rkc3ut",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rkc3ut/ghkcu_copper_peptide_use/",
+  "author_hash": "852ff80bb716cc953614769b17e16d963d8e11d4c3f1074c5db5cad81135b824",
+  "confidence_tier": 4,
+  "date_published": "2026-03-03T20:40:31-08:00",
+  "health_conditions": [
+    "eczema"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "large injection welts",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Approximately 1mg/day over 2-3 months. Used subcutaneous injection at 45 degree angle based on researchdosing.com guide. Did not perform bloodwork.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.657182Z"
+}

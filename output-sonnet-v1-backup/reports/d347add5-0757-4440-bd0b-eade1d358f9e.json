@@ -1,0 +1,43 @@
+{
+  "id": "d347add5-0757-4440-bd0b-eade1d358f9e",
+  "source_id": "1najnq4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1najnq4/accidentally_went_beast_mode/",
+  "author_hash": "c4d226f6340a8a09687687028d3909c0ae280a16d9e6fd3f50e3fb85919b5e99",
+  "confidence_tier": 4,
+  "date_published": "2025-09-06T21:11:40-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Having trouble finishing meals at 2mg",
+      "severity": "moderate",
+      "onset_days": 15
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Super nauseated at 2mg, faintest hint of nausea after eating yogurt at 1mg",
+      "severity": "moderate",
+      "onset_days": 15
+    }
+  ],
+  "protocol_notes": "Titrated from 0.5mg week 1, 1mg week 2, 2mg week 3. No side effects at 0.5mg or 1mg. Considering moving up to 4mg as studies suggest fat loss begins there.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.27237Z"
+}

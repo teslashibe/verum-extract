@@ -1,0 +1,43 @@
+{
+  "id": "c8de3bc5-d0cc-43fd-b1fb-18338f1cc32a",
+  "source_id": "1gptorb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1gptorb/need_combination_advise_i_am_kidney_disease/",
+  "author_hash": "bd8e46019468e1961c08a4a31ba58780e55c4b76f7d0bedf986785046d21e7bd",
+  "confidence_tier": 5,
+  "date_published": "2024-11-12T11:51:44-08:00",
+  "health_conditions": [
+    "chronic kidney disease stage 4"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "OP seeking advice on frequency and dosing intervals for three-compound stack. States doctor and naturopath approval. Notes Tirzepatide being investigated for reno-protective effects in GLP-1 class drugs for non-diabetic kidney disease. Obtaining Tirzepatide through peptide supplier due to insurance non-coverage.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.41274Z"
+}

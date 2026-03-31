@@ -1,0 +1,50 @@
+{
+  "id": "6b2e65a9-5924-4bfb-83f2-211fe3328e0c",
+  "source_id": "1riovis",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1riovis/motsc/",
+  "author_hash": "e319b385d5d8f0605063834f8e415455f099db3aea7adcf888a555a9b605fe8b",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T02:01:45-08:00",
+  "training_status": "athlete (mentions workouts)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "endurance",
+      "description": "performance increase, workouts have improved significantly",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "workouts improved significantly",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started at 2.5mg 3x weekly, titrated to 5mg 3x weekly. Reports subjective performance improvements.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.669958Z"
+}

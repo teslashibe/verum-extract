@@ -1,0 +1,47 @@
+{
+  "id": "85704550-326e-493a-9c2c-45326b76e932",
+  "source_id": "na2a95",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/na2a95/my_dad_65_wants_to_know_the_best_peptides_for/",
+  "author_hash": "adbd7dc57090acda9a898a0f22917546af47dd9637d9b4040b65d1fe6b4f2155",
+  "confidence_tier": 3,
+  "date_published": "2021-05-11T10:22:11-07:00",
+  "health_conditions": [
+    "insulin resistance",
+    "near type 2 diabetes diagnosis"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MK677",
+      "name_normalized": "mk_677",
+      "category": "gh_secretagogue",
+      "route": "oral",
+      "dose_value": 12.5,
+      "dose_unit": "mg",
+      "frequency": "every day",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Caused insulin resistance to the point of being very close to a type 2 diabetes diagnosis within 3 months on only 12.5mg ED",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 60
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "fasted blood glucose",
+      "timeframe_days": 150
+    }
+  ],
+  "protocol_notes": "Took 2 months of very clean living to get fasted blood glucose back within range after stopping MK677. Recommends using a blood glucose monitor if using MK677.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.430251Z"
+}

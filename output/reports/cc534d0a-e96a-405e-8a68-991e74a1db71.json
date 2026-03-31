@@ -1,0 +1,51 @@
+{
+  "id": "cc534d0a-e96a-405e-8a68-991e74a1db71",
+  "source_id": "1r6hf9j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6hf9j/the_beauty_blend/",
+  "author_hash": "ae58274e7ebaf6a63953e9062bc169c2548083d849345b06ec3151c0bc698e47",
+  "confidence_tier": 4,
+  "date_published": "2026-02-16T10:22:10-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Less injection site irritation compared to GHK-Cu alone",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Reduced sting/bite when blended with KPV compared to GHK-Cu alone; some residual bite still present",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Home blend of GHK-Cu and KPV with 4 ml BAC water. Injects 20 units daily. Pins lower stomach area between belt line and belly button level (at least 2 inches from belly button). Notes thigh injections are spicier than stomach.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.663192Z"
+}

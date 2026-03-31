@@ -1,0 +1,60 @@
+{
+  "id": "ee336817-4751-4936-ac08-41bae67cfde0",
+  "source_id": "1rp18dv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rp18dv/my_experience_with_grey_cost_testing_and_risk/",
+  "author_hash": "f5c155635a0020e47060f017e37535dd9eead774d99b86b96394b49cdf21c893",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T07:10:23-07:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "severe gastrointestinal problems",
+    "stomach damage"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "L-Arginine",
+      "name_normalized": "l_arginine",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 3,
+      "dose_unit": "g",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Able to eat again without throwing up; moved from minimal food intake to regaining weight and sleeping at night",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Healing of extensive stomach damage from repeated self-injury",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User escalated BPC-157 doses well beyond standard dosing due to severe GI condition: started at 1mg daily for months, then escalated to 1mg 3x daily, then 3mg morning + 3mg noon + 4mg night (total 10mg daily). SQ injections with oral L-arginine 3g daily. User has 20 years of peptide experience since 2006 (when CJC came out), was well-informed on BPC-157 efficacy from decade of previous use. User explicitly states this was a desperate 'hail mary' approach and does not recommend others follow this protocol. Mentioned buying grey market in bulk.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.654676Z"
+}

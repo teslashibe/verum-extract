@@ -1,0 +1,72 @@
+{
+  "id": "e736d88f-c11a-4660-a25b-9f30eb25b3f2",
+  "source_id": "1me8d30",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1me8d30/ehlersdanlos_syndrome_eds/",
+  "author_hash": "c44f180bf631223cbf7416558608bf67cc5c1c228fe313491792365356a5618b",
+  "confidence_tier": 4,
+  "date_published": "2025-07-31T10:48:58-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "training_status": "active (running)",
+  "health_conditions": [
+    "Ehlers-Danlos Syndrome",
+    "chronic fatigue",
+    "idiopathic hypersomnia",
+    "joint instability",
+    "muscle tension",
+    "asymmetrical movement patterns"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "5x per week",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Hip pain resolved",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "joint_pain",
+      "description": "Shoulders feel more stable",
+      "severity": "moderate",
+      "onset_days": 2
+    },
+    {
+      "category": "recovery",
+      "description": "Recovering much more quickly from exercise, specifically shin splints from running",
+      "severity": "moderate",
+      "onset_days": 2
+    },
+    {
+      "category": "body_composition",
+      "description": "Easier to hold body in proper posture",
+      "severity": "moderate",
+      "onset_days": 2
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "New cherry angioma or two",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Injectable BPC-157, alternated between injection sites near unstable joints (hips, ankles, shoulders) and belly fat. User notes possible placebo effect but states no significant side effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.402544Z"
+}

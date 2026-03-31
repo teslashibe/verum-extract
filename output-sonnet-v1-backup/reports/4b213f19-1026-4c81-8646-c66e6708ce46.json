@@ -1,0 +1,78 @@
+{
+  "id": "4b213f19-1026-4c81-8646-c66e6708ce46",
+  "source_id": "1okspu3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1okspu3/lost_22lbs_in_one_month_on_retatrutide/",
+  "author_hash": "f2a03ce2ccee03096d209d1a290838fc6968dc5b11e10da7f1afa0735c37aa4a",
+  "confidence_tier": 4,
+  "date_published": "2025-10-31T05:04:46-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 228,
+    "unit": "lbs"
+  },
+  "training_status": "6x per week, 1.5-2 hours, mile run plus weight lifting",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 31,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "dose_value": 112.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 22lbs in one month (228 to 206.2 lbs). Visible differences in love handles, face, and arms.",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Extreme caloric deficit from reduced appetite; sweet tooth cravings eliminated completely.",
+      "severity": "significant"
+    },
+    {
+      "category": "libido",
+      "description": "OP reports improved libido, more active sex life than in their 30s.",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Bloating noted at week 1.",
+      "severity": "mild",
+      "onset_days": 7
+    },
+    {
+      "category": "injection_site",
+      "description": "6mg injection stung and hurt for about 3 days.",
+      "severity": "moderate",
+      "onset_days": 21,
+      "resolved": true,
+      "resolution_days": 3
+    }
+  ],
+  "protocol_notes": "Dose escalation over the month: 1mg week 1, 2mg week 2, 4mg week 3, 6mg week 4, then back to 4mg. Also on TRT at 100-125mg testosterone per week for ~2 years. Goal weight 195lbs, plans to taper down to 2mg after reaching goal. 6mg noted as too much. First month ever using retatrutide.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.266178Z"
+}

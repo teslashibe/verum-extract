@@ -1,0 +1,44 @@
+{
+  "id": "852e61b1-dd7f-43f3-93be-a302da6def6c",
+  "source_id": "161scfy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/161scfy/anyone_ever_used_nu_science/",
+  "author_hash": "4e66850fb6c5b2485d542abe802ef0905c36654126065a663149fb66222d7da8",
+  "confidence_tier": 5,
+  "date_published": "2023-08-26T04:10:36-07:00",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "irritability, getting annoyed easily",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User asking about irritability on Tesamorelin 1mg daily; also inquiring about TB-500 and BPC-157 sources",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.700908Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "4e904193-c7f3-4315-821b-c578d4b9187c",
+  "source_id": "1go5kl7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1go5kl7/what_has_been_your_holy_grail_peptidestack_for/",
+  "author_hash": "a10155c45ecd703f6823b87f90c5d859581338d8cb4ce16e5e76f411ef5b3a38",
+  "confidence_tier": 4,
+  "date_published": "2024-11-10T09:16:32-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Laennec",
+      "name_normalized": "laennec",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "ml",
+      "frequency": "weekly",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Significantly improved skin texture, smoothness, and softness. Skin clarity and reduced wrinkling comparable to people in their 30s.",
+      "severity": "significant"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Improved skin clarity and reduced wrinkling.",
+      "severity": "significant"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Injected into creaky knee, reported as fixed within a week.",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "User is 57 years old, raised in San Diego. Follows meat-based/carnivore diet cyclically. Uses desiccated organs for 3 years. Also uses microneedling 1.5mm every 6-8 weeks for approximately 4 years. Cycle is 2 months on, 1 month off for the last year. Uses lidocaine cream for microneedling. Treats face, neck, chest, and forearms. Has been on current peptide routine for 1 year. GHK-Cu and Laennec on separate schedules.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.412809Z"
+}

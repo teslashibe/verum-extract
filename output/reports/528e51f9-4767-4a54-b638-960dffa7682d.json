@@ -1,0 +1,32 @@
+{
+  "id": "528e51f9-4767-4a54-b638-960dffa7682d",
+  "source_id": "1r9jkny",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9jkny/tesamorelin_initial_results_after_6_weeks/",
+  "author_hash": "f4369a6e7958a918508fc24a7e8d7513fccd996d2032030bccdc7157c1f53bb2",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T18:46:38-08:00",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Severe knee pain that prevented sleep; required ice packs for relief",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Discontinued tesamorelin. Pain resolved about 1 week after stopping.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661857Z"
+}

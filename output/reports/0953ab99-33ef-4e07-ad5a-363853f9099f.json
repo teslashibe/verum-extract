@@ -1,0 +1,63 @@
+{
+  "id": "0953ab99-33ef-4e07-ad5a-363853f9099f",
+  "source_id": "16gr706",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16gr706/can_i_stack/",
+  "author_hash": "7c37c7edf55a67dcf04abc0218868d2704907c5965d0ea6ea25b93a218cd98d1",
+  "confidence_tier": 4,
+  "date_published": "2023-09-12T06:19:06-07:00",
+  "training_status": "regular workout routine",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 10 pounds over 2 months, muscle to fat ratio improved",
+      "severity": "moderate",
+      "onset_days": 60
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite cut to nothing after adding Ipamorelin/CJC",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "strength",
+      "description": "Improved strength and endurance from peptides",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Improved endurance",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started with AOD-9604 for 2 months (60 days), experienced plateau, then added Ipamorelin/CJC-1295 combination approximately 3 weeks ago. Planning to discontinue AOD-9604 and continue with Ipamorelin/CJC-1295.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.420187Z"
+}

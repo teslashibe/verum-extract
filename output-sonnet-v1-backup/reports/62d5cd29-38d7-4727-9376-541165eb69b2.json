@@ -1,0 +1,56 @@
+{
+  "id": "62d5cd29-38d7-4727-9376-541165eb69b2",
+  "source_id": "1b7lbob",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1b7lbob/food_noise_and_hunger_after_my_1st_tirzepatide/",
+  "author_hash": "92a1a5ea8676041583fe5db3cdc812189cb16b8ab4d8595b5da924fea57302b5",
+  "confidence_tier": 4,
+  "date_published": "2024-03-05T16:17:11-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Carnitine",
+      "name_normalized": "lcarnatine",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ozempic",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Hunger calmed by day 3 on first Tirzepatide/Carnitine course from Magnum Compounding Pharmacy",
+      "severity": "moderate",
+      "onset_days": 3
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost 3 pounds in first month eating in a caloric deficit; gained 2 pounds during 1-month break without medication",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Still experiencing hunger/food noise after first injection on new course (Hallandale); hunger persisted initially",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Previously on Ozempic, then switched to Tirzepatide with Carnitine from Magnum Compounding Pharmacy for first course. Took a 1-month break, then restarted with Tirzepatide from Hallandale pharmacy. Reports eating in a caloric deficit during first course.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294534Z"
+}

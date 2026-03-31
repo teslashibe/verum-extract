@@ -1,0 +1,42 @@
+{
+  "id": "42b42433-047e-401d-81a1-29944120a0aa",
+  "source_id": "1s1hbwi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1hbwi/anyone_taking_just_solely_peptides_for_muscle_mass/",
+  "author_hash": "f8a845a6da9a979e8c21ab84cde364af6877b9f938470786ab7f8468e1841f2b",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T06:46:44-07:00",
+  "training_status": "experienced",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 10,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "solid results running combination",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Can only maintain this stack for 2-3 months due to cost. User confirms effectiveness but notes prohibitive expense.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.648173Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "e2de2b01-d63a-4fa7-9dde-1d6cc83942da",
+  "source_id": "1maxgru",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1maxgru/am_i_taking_too_many_things_at_once/",
+  "author_hash": "e3d4fe9904005a7e3dcfc58e6921e30373a2339deb6f9d20319e2576b20f13a9",
+  "confidence_tier": 4,
+  "date_published": "2025-07-27T14:01:17-07:00",
+  "reported_age_range": "50-59",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Losing approximately 0.5 lbs per week",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Still feels full sooner but built up tolerance to appetite suppression",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Hunger came back after 6 weeks, had to reduce dose from 3mg twice weekly to 4mg total. Difficulty consuming enough protein due to appetite suppression.",
+      "severity": "moderate",
+      "onset_days": 42,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Age 54. Originally on 3mg Retatrutide twice weekly (6mg total per week), built tolerance after 6 weeks so reduced to 4mg twice weekly. Planning to drop to 3mg twice weekly to avoid losing more than 2 lbs per week. Struggles with protein consumption due to appetite suppression effects. On TRT at 200mg testosterone weekly.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.686241Z"
+}

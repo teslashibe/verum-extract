@@ -1,0 +1,51 @@
+{
+  "id": "48a18313-5981-401b-b1f0-a33151bda954",
+  "source_id": "1qtku4l",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtku4l/effect_of_reta_on_postop_catabolic_stress/",
+  "author_hash": "c2036fb1c46849698899ff7b188ecb4f1c4d93aae47a7d1f70cdb6d386637399",
+  "confidence_tier": 5,
+  "date_published": "2026-02-01T20:11:02-08:00",
+  "training_status": "active_with_injury_limitation",
+  "health_conditions": [
+    "orthopedic_labrum_repair_planned"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "OP is planning post-operative recovery protocol to minimize muscle loss from orthopedic labrum repair surgery. Considering Retatrutide to reduce insulin resistance and gluconeogenesis during post-op catabolic stress. Plans to use BPC-157 and TB-500 for injury healing. Reconsidering CJC-1295 and Ipamorelin due to concerns about increased insulin resistance from elevated GH during post-op period. No actual protocol implemented yet—this is theoretical planning.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.681127Z"
+}

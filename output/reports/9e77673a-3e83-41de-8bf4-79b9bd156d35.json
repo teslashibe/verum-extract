@@ -1,0 +1,35 @@
+{
+  "id": "9e77673a-3e83-41de-8bf4-79b9bd156d35",
+  "source_id": "1qsuf9o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qsuf9o/ss31_motsc_nad_analysis_of_a_14week_mitochondrial/",
+  "author_hash": "1916f79df3b4ffa9f88410b450cef407405f2b179dbbd5bcf41e7ee9aae07fa9",
+  "confidence_tier": 4,
+  "date_published": "2026-02-01T01:54:29-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NMN",
+      "name_normalized": "humanin",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Running modified protocol using NMN instead of NAD+. Also incorporating Acetyl-L-carnitine and PQQ. Suggests adding PQQ after SS-31 but before MOTS-C.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.681492Z"
+}

@@ -1,0 +1,79 @@
+{
+  "compound_id": "humanin",
+  "display_name": "Humanin",
+  "category": "metabolic",
+  "total_reports": 9,
+  "reports_by_tier": {
+    "4": 2,
+    "5": 7
+  },
+  "top_benefits": [
+    {
+      "category": "other",
+      "count": 2,
+      "pct": 100
+    },
+    {
+      "category": "hair",
+      "count": 1,
+      "pct": 50
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "libido_change",
+      "count": 1,
+      "pct": 50,
+      "avg_severity": 3
+    },
+    {
+      "category": "skin",
+      "count": 1,
+      "pct": 50,
+      "avg_severity": 2
+    },
+    {
+      "category": "mood_change",
+      "count": 1,
+      "pct": 50,
+      "avg_severity": 3
+    }
+  ],
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "mots_c",
+      "display_name": "MOTS-c",
+      "report_count": 3
+    },
+    {
+      "compound_id": "creatine",
+      "display_name": "creatine",
+      "report_count": 3
+    },
+    {
+      "compound_id": "aniracetam",
+      "display_name": "Oxiracetam",
+      "report_count": 2
+    },
+    {
+      "compound_id": "ss_31",
+      "display_name": "ss-31",
+      "report_count": 1
+    },
+    {
+      "compound_id": "acetyl_l_carnitine",
+      "display_name": "Acetyl-L-carnitine",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.611,
+  "sentiment_breakdown": {
+    "positive": 4,
+    "mixed": 2,
+    "negative": 1,
+    "neutral": 2
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.969324Z"
+}

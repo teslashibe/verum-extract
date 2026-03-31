@@ -1,0 +1,65 @@
+{
+  "id": "c7a101d0-7e2e-470b-8ef6-aa4b226ef654",
+  "source_id": "1rdje5x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdje5x/overdose_of_ipamorelin_cjc1295/",
+  "author_hash": "74dc0b054107884520f37164452835c5148e62674f48138cea8e7feb31275059",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T07:33:53-08:00",
+  "reported_age_range": "25-29",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 600,
+      "dose_unit": "mcg",
+      "frequency": "daily (morning, sometimes with night injection)",
+      "cycle_length_days": 2,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 600,
+      "dose_unit": "mcg",
+      "frequency": "daily (morning, sometimes with night injection)",
+      "cycle_length_days": 2,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Saw changes in skin in a week with previous batch in 2022",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "recovery",
+      "description": "Originally taking for recovery benefits"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Flushing occurred with previous batch at 100mcg dose, used as indicator of efficacy",
+      "severity": "mild"
+    },
+    {
+      "category": "appetite_change",
+      "description": "Stomach growling about an hour after injection at 600mcg dose",
+      "severity": "mild",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Current batch: 8mg total ipamorelin+CJC-1295 (100mg of each stated in comment clarification, likely mcg intended based on context). Previous experience in 2022: 100mcg daily for 2 months from different supplier with positive results. Current batch from unreliable supplier with no Janoshik COA report; previous batch from same supplier was effective. Reports possible degradation or purity issues with current batch. Fasting: 3 hours after morning injection, 4 hours before night injection. Not mixing injections in same syringe. Escalated dose from 100mcg to 600mcg after 3 weeks of no perceived effects on current batch.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.660647Z"
+}

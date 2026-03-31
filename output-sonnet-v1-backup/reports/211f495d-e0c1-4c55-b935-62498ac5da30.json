@@ -1,0 +1,76 @@
+{
+  "id": "211f495d-e0c1-4c55-b935-62498ac5da30",
+  "source_id": "1fyprjn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fyprjn/effects_of_gchku_and_bpc157_injections_for_almost/",
+  "author_hash": "0373ad79d6cf3997d852b93439a605b1247e30cba1fd2260c10d470a6bbbd66d",
+  "confidence_tier": 4,
+  "date_published": "2024-10-07T19:42:56-07:00",
+  "health_conditions": [
+    "dry skin",
+    "acne scars",
+    "chronic skin lesion on shin"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1.75,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 350,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Noticeable eyebrow hair growth; gray hairs darkened; hair growing where it hadn't in years",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "skin",
+      "description": "Reduced need for moisturiser; historically dry facial skin improved",
+      "severity": "moderate"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Chronic pimple/mass on shin that dermatologists could not resolve retreated back into skin and redness fading within about a week",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "skin",
+      "description": "Acne scars on cheek turned red and raised, possibly beginning a healing process",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Stings quite a lot at injection site around belly button, fades fairly quickly and feels like a mild bruise for the rest of the day",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Both peptides combined into one vial, one injection daily into subcutaneous fat around belly button. Primary motivation was skin benefits; eyebrow hair growth was unexpected. Approximately 2 weeks of use at time of post.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.290181Z"
+}

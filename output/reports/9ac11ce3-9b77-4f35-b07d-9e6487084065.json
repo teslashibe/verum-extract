@@ -1,0 +1,52 @@
+{
+  "id": "9ac11ce3-9b77-4f35-b07d-9e6487084065",
+  "source_id": "1nq8xhl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nq8xhl/any_sagging_belly_skin_peptides/",
+  "author_hash": "29550c4932c5c283fece526ef284e55fb4dabee4dbd3d454462bb416f1dfbc28",
+  "confidence_tier": 4,
+  "date_published": "2025-09-25T07:54:04-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "TB-500 and BPC-157 help with welts/injection site reactions",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Welts that hurt in a weird way, waking up at night. Significant injection site reactions even when diluted with BAC water and spread into 3 injection sites",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Dilutes peptides with BAC water and spreads injections into 3 sites to manage reactions. Recently started KLOW to see if it improves injection site response. Notes that injection site reactions don't happen for everyone but are true for some users.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.397167Z"
+}

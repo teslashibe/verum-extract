@@ -1,0 +1,56 @@
+{
+  "id": "71a6731c-0620-4832-8efb-12e5ad00be32",
+  "source_id": "mcr0m7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/mcr0m7/stunning_results_for_wifes_hip/",
+  "author_hash": "7122b410519ed99eb05c607c858820e24cb1b751ac8e94a1d76c763b44c7831f",
+  "confidence_tier": 4,
+  "date_published": "2021-03-24T22:38:08-07:00",
+  "health_conditions": [
+    "chronic hip pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "twice daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "twice daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Chronic hip pain resolved after 2 months of BPC-157 and TB-500 treatment",
+      "severity": "significant",
+      "onset_days": 60
+    },
+    {
+      "category": "recovery",
+      "description": "Wife no longer needs daily stretching, foam rolling, and massage therapy",
+      "severity": "significant",
+      "onset_days": 60
+    }
+  ],
+  "protocol_notes": "Wife's treatment. Used Peptide Sciences combo vials initially ($56 for 10mg bottle of BPC/TB combo), then switched to Alibaba sourced peptides (10 5mg bottles for ~$52). Subcutaneous injections. Wife had been experiencing chronic hip pain for over a year despite daily stretching, foam rolling, and massage therapy before starting peptides.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.703229Z"
+}

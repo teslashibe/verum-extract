@@ -1,0 +1,47 @@
+{
+  "id": "a9f103a0-6350-413b-9360-4a82b09d3d1c",
+  "source_id": "1q7ww65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q7ww65/hair_loss/",
+  "author_hash": "8da091a3ab09ffe8bfc721525dabb9883737e0963d61d22a52b577a4c95e899e",
+  "confidence_tier": 5,
+  "date_published": "2026-01-08T19:08:34-08:00",
+  "health_conditions": [
+    "hair loss"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Finasteride",
+      "name_normalized": "finasteride",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Dutasteride",
+      "name_normalized": "dutasteride",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Was fine on Finasteride for years",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Got awful side effects from Dutasteride",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User reports years of tolerance to Finasteride but switched to Dutasteride and experienced negative effects.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.67149Z"
+}

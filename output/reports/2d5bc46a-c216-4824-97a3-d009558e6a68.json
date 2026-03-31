@@ -1,0 +1,61 @@
+{
+  "id": "2d5bc46a-c216-4824-97a3-d009558e6a68",
+  "source_id": "1r32bf1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r32bf1/tesaipa_blend/",
+  "author_hash": "50e6d45fa78d914436edcc505397f1b0fc650c3c2df4745359f5647c79b8ac6d",
+  "confidence_tier": 4,
+  "date_published": "2026-02-12T11:06:37-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Cleared gastric tract issues and improved food movement",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Ravenous appetite at higher doses; even 1mg was noticeable",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Used full-dose Ipamorelin for gastric tract issues; continued for one week then stopped without reoccurrence of prior issues. Recommends low-dose Ipamorelin with GHRH for synergistic effect on GH without appetite suppression issues.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.676953Z"
+}

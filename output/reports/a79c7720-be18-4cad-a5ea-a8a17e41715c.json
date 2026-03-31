@@ -1,0 +1,47 @@
+{
+  "id": "a79c7720-be18-4cad-a5ea-a8a17e41715c",
+  "source_id": "1quw4sr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1quw4sr/reta_sleep_problems/",
+  "author_hash": "3e6a74a22e7272bb3f218dbe74526800300ae70e02f86be6db3ff057e7ca72ca",
+  "confidence_tier": 4,
+  "date_published": "2026-02-03T08:13:13-08:00",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Feel fine, more than fine",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Barely getting 6 hours of sleep on week 2",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "other",
+      "description": "HRV all out of wack, Whoop tracking shows significant changes",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Started with 0.75mg/week dose. Using Whoop band for HRV tracking.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.667501Z"
+}

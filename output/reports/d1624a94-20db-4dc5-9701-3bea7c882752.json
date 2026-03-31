@@ -1,0 +1,53 @@
+{
+  "id": "d1624a94-20db-4dc5-9701-3bea7c882752",
+  "source_id": "1n1bxxx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n1bxxx/first_injection_of_cjc_no_dac_ipa_5mg5mg_mix/",
+  "author_hash": "9aced6c4f750e7d15304345e75ba91051f44bbf03471bbf070a85bb02414475a",
+  "confidence_tier": 4,
+  "date_published": "2025-08-27T02:02:47-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "1x daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "1x daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Flushing and increased heart rate after injection",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "anxiety",
+      "description": "Psyches self out regarding injection effects; uses monitoring equipment to rule out medical causes",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Reconstituted same blend (5mg/5mg) with 1mL bac water, started same dose as OP intended (4 IU/100mcg). Started cycle approximately 1 week prior to comment. Uses fasted injection protocol. Has experience with anxiety management during injections; uses blood pressure cuff, oximeter, and glucometer to monitor vitals and ease anxiety.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.399899Z"
+}

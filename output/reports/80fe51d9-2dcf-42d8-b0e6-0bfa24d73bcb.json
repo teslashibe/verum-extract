@@ -1,0 +1,58 @@
+{
+  "id": "80fe51d9-2dcf-42d8-b0e6-0bfa24d73bcb",
+  "source_id": "1q1z8qj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q1z8qj/favorite_peptide_for_social_anxiety_and/",
+  "author_hash": "b18cc0b1c78770d3d4d652ad3bc46d4433fe65c47a3a0a640aa90cc16ced4e0f",
+  "confidence_tier": 4,
+  "date_published": "2026-01-02T05:56:51-08:00",
+  "health_conditions": [
+    "depression"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "nasal",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "as needed",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "Two sprays of Selank provides immediate improvement in mood when feeling depressed or down, 180 degree shift in minutes",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "DSIP gave insomnia",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Made own nasal Selank: 10mg Selank mixed with 1ml bac water, then mixed with 9ml saline in nasal spray bottle, resulting in approximately 100mcg per spray. Tried Semax and noticed nothing. Tried adding DSIP but discontinued due to insomnia. Selank is kept as regular use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.672056Z"
+}

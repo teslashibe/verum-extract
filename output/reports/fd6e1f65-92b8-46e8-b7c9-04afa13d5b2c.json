@@ -1,0 +1,57 @@
+{
+  "id": "fd6e1f65-92b8-46e8-b7c9-04afa13d5b2c",
+  "source_id": "1s1tng9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1tng9/ghk_cu_5_weeks_results/",
+  "author_hash": "185fb6161bf1e236f4a47a8cba5cf9191cf200ff47baea386a78eacc8a713116",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T14:07:52-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injection_site",
+      "description": "sting reduced to near zero when combining GHK-Cu with BPC-157 and TB-500",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "initial sting that improves with time and body adjustment",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Injects in gluteal area. Uses 30ml BAC water with 2-3mg GHK-Cu per syringe. Body adjusts after about a week, reducing sting significantly. Combining with BPC-157 and TB-500 reduces injection site pain to nearly zero.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.64779Z"
+}

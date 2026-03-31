@@ -1,0 +1,51 @@
+{
+  "id": "283d3c3a-8ccf-4048-95b9-08ad44b690dd",
+  "source_id": "1r8803l",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r8803l/eye_bags/",
+  "author_hash": "412e5f713ec6b26cb4d43e118ed65732d123330095b98c6ce359614f028ac757",
+  "confidence_tier": 4,
+  "date_published": "2026-02-18T08:41:05-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 20,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 4,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Started dreaming every day and sleep quality improved significantly",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Reduction of eye bags; people nearby reported looking more attractive",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User notes this may be a 'false positive' and plans to monitor results over time. Attributed improvements to sleep quality and duration.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.674845Z"
+}

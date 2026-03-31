@@ -1,0 +1,42 @@
+{
+  "id": "98debe40-127f-4d2b-88a7-2973ebfb3b1f",
+  "source_id": "1f1lxlv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1f1lxlv/maxed_on_tirz_add_reta/",
+  "author_hash": "6fbaafef81eb6d3e4c5d46f55b25be1d3e7187822af55c4f57e0039f3fbf25dd",
+  "confidence_tier": 4,
+  "date_published": "2024-08-26T04:33:14-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 12.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost over 100 lbs in less than a year",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Combined Tirzepatide (never exceeded 12.5mg/week) with Semaglutide. Used MacroFactor app for caloric tracking and dietary management. Emphasized dietary approach (salads, celery, cabbage, pickles) for satiety.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696642Z"
+}

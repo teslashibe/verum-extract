@@ -1,0 +1,33 @@
+{
+  "id": "c9e4f7f1-5c04-4bb6-bdbb-e92b5dca2635",
+  "source_id": "1esn2ze",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1esn2ze/anyone_injecting_ghkcu_and_bpc157_in_their_azz/",
+  "author_hash": "eed301e4765bf5697de57c5a5ef0e32a3233a3dbaa4a38394e4d6929a46168aa",
+  "confidence_tier": 4,
+  "date_published": "2024-08-14T22:16:08-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Marks on stomach 80% of the time; no sting or irritation with current reconstitution protocol",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "50mg GHK-Cu reconstituted with 3ml BAC water produces no sting in either glute or stomach; prefers glute injection to avoid marks",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696783Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1f7d7185-2467-4725-b779-48fa67f16c60",
+  "source_id": "1rmyf77",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmyf77/reta_tingle/",
+  "author_hash": "b78002fef919e0462d8c374bd8849d74debfe0b064bb812754a379e369a491b2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-06T18:55:53-08:00",
+  "training_status": "active",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "cycle_length_days": 63,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "Skin tingles on body",
+      "severity": "moderate",
+      "onset_days": 54,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Titrated from 0.5mg to 1mg to 1.5mg over 9 weeks. Side effect started randomly after 6 days at current dose. Tingles resolve during workouts. Considering zinc picolinate supplementation.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.655917Z"
+}

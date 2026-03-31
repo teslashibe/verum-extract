@@ -1,0 +1,54 @@
+{
+  "id": "38192905-09a2-4d93-a029-d069b79faba9",
+  "source_id": "1r6cjww",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6cjww/anyone_else_get_weird_skin_reactions_from_tirz/",
+  "author_hash": "4b9980ce04cda2f44c68da99ea2234f253858eee9e71805251a31e4c65cbdf62",
+  "confidence_tier": 4,
+  "date_published": "2026-02-16T07:27:15-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 75,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "weight loss",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "abnormally dry skin and cracking in places, especially hands",
+      "severity": "moderate",
+      "onset_days": 30,
+      "resolved": false
+    },
+    {
+      "category": "skin_reaction",
+      "description": "weird rashes and patches of flaky/itchy skin around body",
+      "severity": "moderate",
+      "resolved": false
+    },
+    {
+      "category": "injection_site",
+      "description": "injection site turns red and starts to itch about 24 hours after injection",
+      "severity": "moderate",
+      "onset_days": 24,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Grey Tirzepatide. Injection site reactions started a few weeks ago after 2.5 months of use. User concerned about possible allergy development. Considering switching to Retatrutide but worried about skin issues.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.66324Z"
+}

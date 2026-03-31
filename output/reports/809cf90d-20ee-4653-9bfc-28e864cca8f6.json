@@ -1,0 +1,58 @@
+{
+  "id": "809cf90d-20ee-4653-9bfc-28e864cca8f6",
+  "source_id": "1qqnksq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqnksq/please_review_stack/",
+  "author_hash": "192ec0705cf0b39acab7697a4800a5bf3471a4064d930acb6867be6e02968e4a",
+  "confidence_tier": 5,
+  "date_published": "2026-01-29T14:41:57-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "felt something at higher MOTS-c dosage",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User reports 2mg MOTS-c was invisible, felt effects at 5mg 3x weekly. 100mg NAD+ daily was not noticeable (possibly bunk). Used reconstitution ratio of 10mg total (CJC/IPA) in 2.5mL bacteriostatic water, resulting in 4mg per 100 units. Dosed at 400mcg (200 CJC/200 IPA) or 10 units.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669317Z"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "db1f0e54-ae0e-4716-b8fa-fd2b53215710",
+  "source_id": "1ltauhp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ltauhp/peptides_and_autoimmune_diseases/",
+  "author_hash": "c2ebe32132c80674b5c5f0aac3842cd41f52c9d16097f6d00fc0e8210c62f136",
+  "confidence_tier": 4,
+  "date_published": "2025-07-06T13:14:33-07:00",
+  "health_conditions": [
+    "Sjogren's syndrome"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "glow",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ghk cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 1.4,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tb",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 0.238,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "bpc",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 0.238,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Hands feel smaller and can feel the bones; reduced inflammation",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Feet no longer take a while to warm up; can walk around first thing in the morning",
+      "severity": "moderate"
+    },
+    {
+      "category": "immune",
+      "description": "No flare ups since starting tirzepatide; inflammation resolved almost within a few days of starting",
+      "severity": "significant",
+      "onset_days": 3
+    },
+    {
+      "category": "recovery",
+      "description": "Feels better after working out with Glow",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Dry mouth and eyes persist but described as manageable",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Takes tirzepatide 4.0mg/week as primary intervention; credits it with doing the heavy lifting on inflammation. Also uses the 'standard Glow 70' stack: GHK-Cu 1.4mg/day, TB and BPC each ~0.238mg/day. Inflammation started improving almost within days of starting tirzepatide.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.279869Z"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "c9d66d0c-1a1b-42e3-b4ae-15c40d59a031",
+  "source_id": "1r4zb8b",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r4zb8b/2_weeks_into_wolverine_stack_bpctb_starting/",
+  "author_hash": "a6ff3c01479e2ee906bd7f645685dbdd7dc56856c4dda2335bfe0c9905ffe845",
+  "confidence_tier": 3,
+  "date_published": "2026-02-14T15:31:30-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "reported_weight": {
+    "value": 190,
+    "unit": "lbs"
+  },
+  "training_status": "5× lift/week, 7–10k steps daily, recomp phase",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 600,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 600,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH Fragment 176-191",
+      "name_normalized": "hgh_fragment_176_191",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MK-677",
+      "name_normalized": "mk_677",
+      "category": "gh_secretagogue",
+      "route": "oral",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "nasal",
+      "frequency": "cycling",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "nasal",
+      "frequency": "cycling",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Less soreness, better pumps",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Early fullness in arms/shoulders with V-taper hints noted in progress pics",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Total Testosterone",
+      "value_after": 894,
+      "unit": "ng/dL",
+      "timeframe_days": 14
+    },
+    {
+      "marker_name": "Insulin",
+      "value_after": 3.6,
+      "unit": "µIU/mL",
+      "timeframe_days": 14
+    },
+    {
+      "marker_name": "Fasting Glucose",
+      "value_after": 73,
+      "unit": "mg/dL",
+      "timeframe_days": 14
+    },
+    {
+      "marker_name": "HbA1c",
+      "value_after": 4.7,
+      "unit": "%",
+      "timeframe_days": 14
+    },
+    {
+      "marker_name": "Total Cholesterol",
+      "value_after": 163,
+      "unit": "mg/dL",
+      "timeframe_days": 14
+    },
+    {
+      "marker_name": "Triglycerides",
+      "value_after": 49,
+      "unit": "mg/dL",
+      "timeframe_days": 14
+    },
+    {
+      "marker_name": "HDL",
+      "value_after": 69,
+      "unit": "mg/dL",
+      "timeframe_days": 14
+    },
+    {
+      "marker_name": "WBC",
+      "value_after": 5.56,
+      "unit": "10^3/µL",
+      "timeframe_days": 14
+    },
+    {
+      "marker_name": "RBC",
+      "value_after": 4.97,
+      "unit": "10^6/µL",
+      "timeframe_days": 14
+    },
+    {
+      "marker_name": "Hemoglobin",
+      "value_after": 15.7,
+      "unit": "g/dL",
+      "timeframe_days": 14
+    },
+    {
+      "marker_name": "Hematocrit",
+      "value_after": 45.8,
+      "unit": "%",
+      "timeframe_days": 14
+    },
+    {
+      "marker_name": "BUN",
+      "value_after": 25,
+      "unit": "mg/dL",
+      "timeframe_days": 14
+    }
+  ],
+  "protocol_notes": "Stack called 'Wolverine Stack' (BPC-157 + TB-500 blend). Planned phased introduction: Wolverine Feb 1–Mar 1 (600–1000 mcg/day); Retatrutide Feb 18+ (1 mg/week titrating to 4–6 mg/week); CJC-1295 + Ipamorelin March 2 (200–600 mcg total nightly); HGH Fragment 176-191 March 5 (250–500 mcg 2×/day); MK-677 late March (10–20 mg/night conditional on bloods). Taper phase mid-April pre-AT (Reta → 0.25 mg; injectables → half-dose 3–5 days pre-AT; MK-677 7–10 days pre-AT). AT (late April, 2 weeks) with zero peptides. Restart May onward. Daily supplements: Vitamin D3 2000 IU, collagen 10 g + Vit C 500 mg, creatine 3 g, magnesium glycinate 300–400 mg pre-bed, fish oil 2 g, glycine 3 g, 2 kiwis 90 min pre-bed. Diet: 2100–2250 kcal, 170–185 g protein/day. Goal: sub-9% BF by Oct 2026. User claims high ROI acceleration compared to 5-year natty progression.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.663783Z"
+}

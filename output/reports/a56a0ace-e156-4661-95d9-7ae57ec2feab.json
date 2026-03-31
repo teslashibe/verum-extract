@@ -1,0 +1,34 @@
+{
+  "id": "a56a0ace-e156-4661-95d9-7ae57ec2feab",
+  "source_id": "1qtsnge",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtsnge/cjc_1295ipamorelin_sleep_problems/",
+  "author_hash": "a10523c4ca16005a5c419d8202e209e1f6d1680a9f0b7095659de22e52ea9bcd",
+  "confidence_tier": 5,
+  "date_published": "2026-02-02T03:34:14-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "at bedtime",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Taking it right as going to sleep makes them sleep better",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Uses smallest dose possible at 100mcg right before bed for optimal sleep.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.668141Z"
+}

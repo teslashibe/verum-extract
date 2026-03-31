@@ -1,0 +1,48 @@
+{
+  "id": "b32d75ae-32ac-466a-bc7b-e6846d1b910e",
+  "source_id": "16gr706",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16gr706/can_i_stack/",
+  "author_hash": "31f819cdf44471150d20f7f5e65d12ac7862c0d5d33b80ea08f0780d3bd1405b",
+  "confidence_tier": 4,
+  "date_published": "2023-09-12T06:19:06-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 145,
+    "unit": "lbs"
+  },
+  "training_status": "very active, works out 4-5 days per week, 5'2\" height",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Goal is weight loss while maintaining or building muscle mass. Age 37, female, 5'2\", 145 lbs, very active, works out 4-5 days per week. This is a planned stack (not yet implemented).",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.7008Z"
+}

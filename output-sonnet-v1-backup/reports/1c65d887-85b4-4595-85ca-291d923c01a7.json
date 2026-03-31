@@ -1,0 +1,66 @@
+{
+  "id": "1c65d887-85b4-4595-85ca-291d923c01a7",
+  "source_id": "1qzw2n9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qzw2n9/motsc_day_1_anecdotal_experience/",
+  "author_hash": "1de4c4e285b100fcf8011af4282b4aea2510e2f95a9b30aa6ccc4b93d76c8757",
+  "confidence_tier": 4,
+  "date_published": "2026-02-08T21:44:55-08:00",
+  "training_status": "active gym user",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "MOTS-C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Felt energized within 20-30 minutes of injection despite being slightly hungover",
+      "severity": "moderate",
+      "onset_days": 0
+    },
+    {
+      "category": "mood",
+      "description": "Slightly euphoric and mood elevation noted shortly after injection",
+      "severity": "mild",
+      "onset_days": 0
+    },
+    {
+      "category": "recovery",
+      "description": "Expected gym session to suffer due to hangover but felt great during workout",
+      "severity": "moderate",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "Day 1 experience. Does not use caffeine frequently; no pre-workout used on day of report. On TRT 200mg/week for 5 months (started at 100mg in October 2024). Started Reta 1mg for 3 weeks, now on 2mg in week 4.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.120218Z"
+}

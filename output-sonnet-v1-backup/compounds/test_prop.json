@@ -1,0 +1,47 @@
+{
+  "compound_id": "test_prop",
+  "display_name": "Test Prop",
+  "category": "other",
+  "total_reports": 1,
+  "reports_by_tier": {
+    "5": 1
+  },
+  "top_benefits": null,
+  "top_side_effects": null,
+  "common_doses": [
+    {
+      "route": "intramuscular",
+      "dose": 350,
+      "unit": "mg",
+      "frequency": "weekly",
+      "count": 1,
+      "pct": 100
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "primo",
+      "display_name": "Primo",
+      "report_count": 1
+    },
+    {
+      "compound_id": "hgh",
+      "display_name": "HGH",
+      "report_count": 1
+    },
+    {
+      "compound_id": "igf_1_lr3",
+      "display_name": "IGF-1 LR3",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.5,
+  "sentiment_breakdown": {
+    "positive": 0,
+    "mixed": 1,
+    "negative": 0,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.966418Z"
+}

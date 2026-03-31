@@ -1,0 +1,32 @@
+{
+  "id": "f942d37b-1bfd-4a32-8251-f00d22494f66",
+  "source_id": "1mfyf3p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mfyf3p/has_anyone_tried_epitalon/",
+  "author_hash": "e9b5a3a6f74b69a5f625305f0a49f0aed8d1289b7825d4df33340beabdd4c265",
+  "confidence_tier": 5,
+  "date_published": "2025-08-02T12:01:51-07:00",
+  "compounds": [
+    {
+      "name_raw": "epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "100mcg helps reset circadian rhythm; test subject reset circadian in about 3 days",
+      "severity": "moderate",
+      "onset_days": 3
+    }
+  ],
+  "protocol_notes": "References a 'test subject' rather than themselves directly. Claims 100mcg resets circadian rhythm more quickly than natural 30-40 day consistent sleep scheduling, with reset occurring in about 3 days.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.276762Z"
+}

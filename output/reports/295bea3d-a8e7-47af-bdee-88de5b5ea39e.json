@@ -1,0 +1,51 @@
+{
+  "id": "295bea3d-a8e7-47af-bdee-88de5b5ea39e",
+  "source_id": "1rlf6uk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rlf6uk/combos/",
+  "author_hash": "88728cf420050c0076b770460d471422dbeee378901748f59dbb01c6da6f1eff",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T03:27:12-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "oral",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Slow building histamine response to MOTS-C",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User tried MOTS-C and developed histamine response. Skeptical of AOD-9604 efficacy. Recommends low-dose HGH or GH secretagogues (tesamorelin 2 IU or less, ipamorelin) as nuclear option. States NAD+ only works orally.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.656764Z"
+}

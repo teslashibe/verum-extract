@@ -1,0 +1,75 @@
+{
+  "id": "c1b49fda-6546-49de-b2a6-6df7ec429a50",
+  "source_id": "1rokp5s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rokp5s/cjc1295ipamorelin_blend_and_tirz_stack/",
+  "author_hash": "03b7ba9c206f7bf2639f43dfe3a906d770af0706782cee40a7ae8b7f8582c4a9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-08T16:58:29-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 45,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Ripped visceral fat off body, went from apple shape to visibly ripped",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Achieved 15% body fat",
+      "severity": "significant"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Anti-aging properties",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_fat_percentage",
+      "value_after": 15,
+      "unit": "%",
+      "timeframe_days": 45
+    }
+  ],
+  "protocol_notes": "Progressed from Tirz + Sermorelin to CJC/IPA blend, then switched to Tesamorelin. Tesamorelin had the most significant fat reduction compared to previous compounds. Female, almost 42 years old.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.667046Z"
+}

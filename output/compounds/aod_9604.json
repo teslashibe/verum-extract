@@ -1,0 +1,216 @@
+{
+  "compound_id": "aod_9604",
+  "display_name": "AOD-9604",
+  "category": "body_composition",
+  "total_reports": 153,
+  "reports_by_tier": {
+    "3": 2,
+    "4": 95,
+    "5": 56
+  },
+  "top_benefits": [
+    {
+      "category": "fat_loss",
+      "count": 67,
+      "pct": 69.1
+    },
+    {
+      "category": "energy",
+      "count": 20,
+      "pct": 20.6
+    },
+    {
+      "category": "muscle_gain",
+      "count": 16,
+      "pct": 16.5
+    },
+    {
+      "category": "sleep",
+      "count": 11,
+      "pct": 11.3
+    },
+    {
+      "category": "body_composition",
+      "count": 11,
+      "pct": 11.3
+    },
+    {
+      "category": "appetite_suppression",
+      "count": 10,
+      "pct": 10.3
+    },
+    {
+      "category": "cognitive",
+      "count": 10,
+      "pct": 10.3
+    },
+    {
+      "category": "recovery",
+      "count": 9,
+      "pct": 9.3
+    },
+    {
+      "category": "mood",
+      "count": 8,
+      "pct": 8.2
+    },
+    {
+      "category": "endurance",
+      "count": 7,
+      "pct": 7.2
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "allergic_reaction",
+      "count": 11,
+      "pct": 11.3,
+      "avg_severity": 2.7
+    },
+    {
+      "category": "gastrointestinal",
+      "count": 6,
+      "pct": 6.2,
+      "avg_severity": 2
+    },
+    {
+      "category": "other",
+      "count": 6,
+      "pct": 6.2,
+      "avg_severity": 1.5
+    },
+    {
+      "category": "appetite_change",
+      "count": 5,
+      "pct": 5.2,
+      "avg_severity": 2.2
+    },
+    {
+      "category": "injection_site",
+      "count": 5,
+      "pct": 5.2,
+      "avg_severity": 1.8
+    },
+    {
+      "category": "skin_reaction",
+      "count": 2,
+      "pct": 2.1,
+      "avg_severity": 1
+    },
+    {
+      "category": "cognitive_impairment",
+      "count": 2,
+      "pct": 2.1,
+      "avg_severity": 2.5
+    },
+    {
+      "category": "nausea",
+      "count": 2,
+      "pct": 2.1,
+      "avg_severity": 3
+    },
+    {
+      "category": "water_retention",
+      "count": 2,
+      "pct": 2.1,
+      "avg_severity": 2.5
+    },
+    {
+      "category": "joint_pain",
+      "count": 1,
+      "pct": 1,
+      "avg_severity": 2
+    },
+    {
+      "category": "fatigue",
+      "count": 1,
+      "pct": 1,
+      "avg_severity": 2
+    },
+    {
+      "category": "gelling",
+      "count": 1,
+      "pct": 1,
+      "avg_severity": 2
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 5,
+      "unit": "mg",
+      "frequency": "",
+      "count": 9,
+      "pct": 5.9
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 300,
+      "unit": "mcg",
+      "frequency": "1x daily",
+      "count": 2,
+      "pct": 1.3
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 10,
+      "unit": "mg",
+      "frequency": "",
+      "count": 2,
+      "pct": 1.3
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 50,
+      "unit": "mcg",
+      "frequency": "nightly",
+      "count": 1,
+      "pct": 0.7
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 250,
+      "unit": "mcg",
+      "frequency": "5 days per week",
+      "count": 1,
+      "pct": 0.7
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "ipamorelin",
+      "display_name": "Ipamorelin",
+      "report_count": 54
+    },
+    {
+      "compound_id": "tirzepatide",
+      "display_name": "Tirzepatide",
+      "report_count": 43
+    },
+    {
+      "compound_id": "mots_c",
+      "display_name": "MOTS-c",
+      "report_count": 39
+    },
+    {
+      "compound_id": "cjc_1295_no_dac",
+      "display_name": "CJC-1295",
+      "report_count": 38
+    },
+    {
+      "compound_id": "tesamorelin",
+      "display_name": "Tesamorelin",
+      "report_count": 36
+    }
+  ],
+  "avg_cycle_length_days": 43.8,
+  "avg_sentiment_score": 0.662,
+  "sentiment_breakdown": {
+    "positive": 82,
+    "mixed": 15,
+    "negative": 9,
+    "neutral": 47
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T04:48:57.363624Z"
+}

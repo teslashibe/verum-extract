@@ -1,0 +1,48 @@
+{
+  "id": "2f47bd73-b1d1-4487-8c7e-d7fa0691cd65",
+  "source_id": "1r01h8a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r01h8a/nad_motsc_post_injecting/",
+  "author_hash": "893c79c413f38c876a37b5e27fb94e67276de778092d457648db195cd6c3be7a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T03:10:47-08:00",
+  "training_status": "training_hard",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "frequency": "before workouts",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "frequency": "before workouts",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Loves the effects before hard workouts",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Would not be able to sleep if taken at night",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Takes both compounds before very hard workouts in the morning/daytime.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665874Z"
+}

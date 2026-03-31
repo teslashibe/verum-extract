@@ -1,0 +1,79 @@
+{
+  "id": "4034b06c-bacc-4dc7-92e6-f9e394039187",
+  "source_id": "1nah17y",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nah17y/hot_flashes_be_gone/",
+  "author_hash": "62765b84f427695f24dfca2891f04f51192923448744d6cdf1842e7662701c16",
+  "confidence_tier": 4,
+  "date_published": "2025-09-06T18:52:51-07:00",
+  "health_conditions": [
+    "IBS",
+    "water retention/bloating"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tb500/bc157",
+      "name_normalized": "tb500bpc157",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "frequency": "before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TAI",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Fixed IBS",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Improved skin appearance",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Heals quickly",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Better sleep; epithalon specifically attributed to sleep improvement",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Runs faster",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "No longer bloated/water retention resolved; KPV attributed as most helpful for this",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User is on a peptide protocol prescribed by a peptide doc. Takes KPV separately 2x daily to avoid frequency limitations of KLOW (which contains GHK-Cu). Epithalon taken before bed for sleep. Also uses hormones in addition to peptides.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.272425Z"
+}

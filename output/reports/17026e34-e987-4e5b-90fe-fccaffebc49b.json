@@ -1,0 +1,58 @@
+{
+  "id": "17026e34-e987-4e5b-90fe-fccaffebc49b",
+  "source_id": "1kys9zo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kys9zo/brand_name_wegovy_worked_so_much_better_than/",
+  "author_hash": "2ef9a1d719edd2bf87d584a2b7f206ad108873e36093475fe0c46f393ba748e4",
+  "confidence_tier": 4,
+  "date_published": "2025-05-29T18:45:55-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost about 20lbs on Retatrutide, body fat under 20%",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Food noise went away on Retatrutide",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Nearly zero side effects on Retatrutide",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "value_after": 20,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "First 6 months on Semaglutide worked well, then new pharmacy batch did not work as well. Doubled dose and ran out quickly. Stopped Semaglutide and gained 10lbs back. Later switched to Retatrutide at 2.5mg obtained through peptide company. Cost effective alternative.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.690069Z"
+}

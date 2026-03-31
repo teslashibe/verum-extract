@@ -1,0 +1,47 @@
+{
+  "id": "806edfde-6a34-4988-9451-d3698a9b768b",
+  "source_id": "1qqwqer",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqwqer/reta_and_hgh/",
+  "author_hash": "99e921fc55806aede11a36aeb3c3dd1ca014546a9e2069f09c4e289aa901ddd4",
+  "confidence_tier": 4,
+  "date_published": "2026-01-29T21:28:31-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "trt",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "dose_value": 130,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ret",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "hgh",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Self-described as not a high responder to reta at 10mg/week. Considering adding var to the stack.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123148Z"
+}

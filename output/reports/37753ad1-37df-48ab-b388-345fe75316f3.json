@@ -1,0 +1,45 @@
+{
+  "id": "37753ad1-37df-48ab-b388-345fe75316f3",
+  "source_id": "1ou063d",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ou063d/build_me_a_stack/",
+  "author_hash": "2b665b9132dac790816039cc480f85b7e6d5ac0296c88c820e5c09add6688af5",
+  "confidence_tier": 4,
+  "date_published": "2025-11-10T20:30:02-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 105,
+    "unit": "kg"
+  },
+  "training_status": "exercises heavily every day",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "waist line slimming down",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User mentioned 'ipa frag' which likely refers to Ipamorelin fragment. Taking HCG and Ipamorelin for approximately one month.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.677423Z"
+}

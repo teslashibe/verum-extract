@@ -1,0 +1,55 @@
+{
+  "id": "4b427c88-4130-4e3b-bbcd-f23bf9bce8c8",
+  "source_id": "1lbdq9h",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lbdq9h/assistance_with_peptide_stack_for_fat_loss_and/",
+  "author_hash": "80afc7fdc49efa95da72d5794177ba10c0ec2b97d8a96c2179064392cc056220",
+  "confidence_tier": 4,
+  "date_published": "2025-06-14T10:11:14-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Tesamorelin/Ipamorelin better for stubborn fat loss than CJC/Tesamorelin stack",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "CJC + Tesamorelin stack made them hungry, reducing fat loss effectiveness",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Personal experience comparing stacks. Recommends HCG for testosterone boost. Mentions TRT as alternative. Notes CJC+Tesamorelin causes appetite increase.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.689253Z"
+}

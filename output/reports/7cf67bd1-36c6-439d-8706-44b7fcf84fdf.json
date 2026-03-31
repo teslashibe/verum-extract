@@ -1,0 +1,77 @@
+{
+  "id": "7cf67bd1-36c6-439d-8706-44b7fcf84fdf",
+  "source_id": "1n9jv18",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n9jv18/how_to_lose_the_lower_belly_fat/",
+  "author_hash": "1aebbb3c9b2f91534e2d84e5e3ae993c04ba109c16fc404e7a06d146c9bda2e2",
+  "confidence_tier": 4,
+  "date_published": "2025-09-05T16:04:07-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "skin looked great",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "sleep improved",
+      "severity": "moderate"
+    },
+    {
+      "category": "body_composition",
+      "description": "slight body recomp that became apparent in the mirror",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "lift recovery was fantastic",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "numbness and tingling in fingers, likely due to elevated GH from being a high responder",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 21
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 190,
+      "unit": "ng/mL"
+    }
+  ],
+  "protocol_notes": "User was 47 years old with baseline IGF-1 in the 190s (upper end of normal). Ran 2mg Tesamorelin with 250mcg Ipamorelin. Experienced numbness/tingling in fingers which resolved weeks after stopping. Plans next cycle at 1mg Tesa with 100mcg Ipa and will measure IGF-1 after 8-10 weeks.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.399163Z"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "3612e81b-82eb-4288-9b46-1b27e18df60f",
+  "source_id": "1qqwqer",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqwqer/reta_and_hgh/",
+  "author_hash": "b51a312d3e6fcf55db9629f26f2ee049ae38ea0f86f9c0e356a1249155935f79",
+  "confidence_tier": 4,
+  "date_published": "2026-01-29T21:28:31-08:00",
+  "reported_weight": {
+    "value": 200,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "every 10 days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost weight from 300 lbs to 200 lbs",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User achieved 100 lb weight loss but lost muscle in process. Now at maintenance dose of 1mg Reta every 10 days. Inquired about carpal tunnel issues.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.68224Z"
+}

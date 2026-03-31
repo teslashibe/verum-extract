@@ -1,0 +1,80 @@
+{
+  "id": "32de853c-55ae-488d-a359-5509e1eebf70",
+  "source_id": "1r8r26a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r8r26a/allergic_reaction_while_using_cjc_1295_no_dac_and/",
+  "author_hash": "fa406c170bd5c78bae0974f0926f098cce10bf52813aa56e46721d69f462b032",
+  "confidence_tier": 4,
+  "date_published": "2026-02-18T21:44:59-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC 1295 (no dac)",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB 500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Extreme itchiness inside ears and neck within one minute of injection",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "flushing",
+      "description": "Face and upper chest became flushed and red",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Lips and tongue swelled to about twice their normal size",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": false
+    },
+    {
+      "category": "injection_site",
+      "description": "Localized site reaction with TB 500 each time used"
+    }
+  ],
+  "protocol_notes": "First time using CJC 1295 (no dac) and ipamorelin. Has prior experience with BPC 157 and GHK-CU for several years, and tried TB 500 previously. Took antihistamines and Benadryl after reaction; 90% of itchiness and half the swelling resolved after 1.5 hours. Considering trying very small doses of each compound individually on separate days, or switching to tesamorelin.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.11686Z"
+}

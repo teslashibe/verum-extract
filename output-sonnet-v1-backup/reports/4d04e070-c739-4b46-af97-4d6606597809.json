@@ -1,0 +1,82 @@
+{
+  "id": "4d04e070-c739-4b46-af97-4d6606597809",
+  "source_id": "1s1342s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1342s/protocol_feedback/",
+  "author_hash": "c4d226f6340a8a09687687028d3909c0ae280a16d9e6fd3f50e3fb85919b5e99",
+  "confidence_tier": 4,
+  "date_published": "2026-03-22T18:10:46-07:00",
+  "reported_weight": {
+    "value": 200,
+    "unit": "lbs"
+  },
+  "training_status": "off training for 6-7 months due to injury, previously athletic",
+  "health_conditions": [
+    "injury (unspecified, 6-7 months)"
+  ],
+  "compounds": [
+    {
+      "name_raw": "CJC Ipamorelin",
+      "name_normalized": "cjc_ipamorelin",
+      "category": "other",
+      "frequency": "5x/week",
+      "cycle_length_days": 32,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "frequency": "2x/week",
+      "cycle_length_days": 32,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "frequency": "2x/week",
+      "cycle_length_days": 32,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "5x/week",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "1x/week",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "frequency": "2x/week",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "frequency": "2x/week",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Doctor approved protocol. Two rounds planned: Round 1 (32 days) CJC+IPA, Glutathione, NAD. Round 2 (10 weeks) Tesamorelin, Tirzepatide, Glutathione, NAD. Goal is fat loss, lean physique, feeling good. Target weight 175-180 lbs lean from 200 lbs.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105471Z"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "efc16679-3b43-4843-b6c3-3f7ccaf08349",
+  "source_id": "1s5bcdz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s5bcdz/cjc1295_and_ipamorelin/",
+  "author_hash": "9dfc08c3c89b4eb180d50f41dd8241ae3285cc43bd25a3369b1e23d8d35b3737",
+  "confidence_tier": 4,
+  "date_published": "2026-03-27T10:49:28-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Amazing sleep and recovery",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Water retention causing 5 lb weight loss in 2 days upon discontinuation",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 2
+    }
+  ],
+  "protocol_notes": "Approximately 200mcg each nightly. Emphasis on having other lifestyle factors dialed in (diet, sleep, habits) for effectiveness. Recommends hydration management and potassium supplementation (sodium-free salt). Advises pinning in fasted state (at least 2 hours after last meal).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.657202Z"
+}

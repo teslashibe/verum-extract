@@ -1,0 +1,39 @@
+{
+  "id": "8e0cf189-fcc5-4a30-a875-504ebe31b145",
+  "source_id": "1bvpfim",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bvpfim/semaglutide/",
+  "author_hash": "10a96676a99e0ccbab2668c0fd24674582a60fcb0272354787c26d223f7588f9",
+  "confidence_tier": 5,
+  "date_published": "2024-04-04T08:02:52-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost inches but scale weight unchanged after one month",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Feels weaker and semi lethargic on semaglutide",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "OP is one month into semaglutide use; concerned about no scale change despite losing inches; notes feeling weaker and semi lethargic",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.293841Z"
+}

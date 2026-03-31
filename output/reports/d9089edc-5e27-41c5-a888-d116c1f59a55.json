@@ -1,0 +1,33 @@
+{
+  "id": "d9089edc-5e27-41c5-a888-d116c1f59a55",
+  "source_id": "1rek1dp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rek1dp/risk_of_non_tested_peptides/",
+  "author_hash": "48d420ad026800add6f91ca97291164e2c8475f3059eb7c46805131dc15dd4e8",
+  "confidence_tier": 4,
+  "date_published": "2026-02-25T09:40:26-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Received retatrutide instead of intended tirzepatide (5 mg mass equivalent). Reported this was manageable, suggesting prior experience managing the unexpected compound.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.671942Z"
+}

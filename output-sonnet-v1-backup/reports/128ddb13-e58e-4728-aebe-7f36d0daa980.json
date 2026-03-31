@@ -1,0 +1,45 @@
+{
+  "id": "128ddb13-e58e-4728-aebe-7f36d0daa980",
+  "source_id": "1rr3dd5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr3dd5/cjcipa_timing_issue/",
+  "author_hash": "98fd4795978e8cb60af7b329f641e5f894f083f35e66e3675805c4074d6f490f",
+  "confidence_tier": 5,
+  "date_published": "2026-03-11T12:17:14-07:00",
+  "training_status": "BJJ practitioner",
+  "compounds": [
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IPA",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Taking primarily for recovery",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Sleeping super deeply",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Takes CJC+Ipamorelin combo at night, 2 hours fasted, 30 minutes before bed. Has scheduling issues one day a week due to BJJ class.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109661Z"
+}

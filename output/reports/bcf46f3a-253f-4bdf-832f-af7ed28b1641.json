@@ -1,0 +1,84 @@
+{
+  "id": "bcf46f3a-253f-4bdf-832f-af7ed28b1641",
+  "source_id": "1junpb0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1junpb0/scaling_back/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2025-04-08T13:28:45-07:00",
+  "training_status": "4x/week gym routine",
+  "health_conditions": [
+    "janky knees",
+    "janky shoulders"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost a bunch of weight",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Have no appetite with Tirzepatide + Retatrutide stack; Retatrutide alone keeps appetite in check but still allows hunger when needed",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "No appetite with full stack - would go a day without eating, which is problematic",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Original protocol: Tirzepatide + Retatrutide + IGF-1 LR3 + Tesamorelin + Ipamorelin (all for fat loss and body composition). New protocol: Retatrutide only, dropped Tirzepatide, IGF-1 LR3, Tesamorelin, and Ipamorelin. Considering adding BPC-157 in future for joint health (knees and shoulders) to potentially avoid surgery. User emphasizes this is a personal decision to address root causes rather than using peptides as band-aids.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.409931Z"
+}

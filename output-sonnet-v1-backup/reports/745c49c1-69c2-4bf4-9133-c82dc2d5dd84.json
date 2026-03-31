@@ -1,0 +1,61 @@
+{
+  "id": "745c49c1-69c2-4bf4-9133-c82dc2d5dd84",
+  "source_id": "1qqwqer",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqwqer/reta_and_hgh/",
+  "author_hash": "0ddee1db707be7543c1d47ab610c85963ad383035bcb6e4630d4eef18f750bf6",
+  "confidence_tier": 4,
+  "date_published": "2026-01-29T21:28:31-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 3.5,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "intramuscular",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Helps maintain insulin sensitivity"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Ankles swelled up from going up on GH dose too fast",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Working up to 5IU GH per day. Notes that going up too fast on GH caused ankle swelling. Reta dose is maintenance level at 1mg/week.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123148Z"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "b88099a2-a961-4380-a9e2-9cadadd924a3",
+  "source_id": "1krod1i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1krod1i/peptides_for_body_building_show_prep/",
+  "author_hash": "44396deb81aaabff1927715c0d2e9bd6aa35f6e54317b99b8ca16b02ea76a9f7",
+  "confidence_tier": 4,
+  "date_published": "2025-05-20T20:40:46-07:00",
+  "training_status": "bodybuilder",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Primobolan",
+      "name_normalized": "primobolan",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 300,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone Propionate",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 350,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Felt great, improved recovery",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Noticed muscle gain from IGF-1 LR3",
+      "severity": "moderate"
+    },
+    {
+      "category": "body_composition",
+      "description": "Got more ripped on full cycle",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User regrets not starting all compounds simultaneously. States current cycle is cut short and could have achieved 5x better results if started together. This is a steroid-heavy cycle with peptides as adjuncts.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.407928Z"
+}

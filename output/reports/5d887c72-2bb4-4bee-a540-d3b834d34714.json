@@ -1,0 +1,66 @@
+{
+  "id": "5d887c72-2bb4-4bee-a540-d3b834d34714",
+  "source_id": "1r6n963",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6n963/klow_protocol/",
+  "author_hash": "7c193f6360488d4c1285d6c9ebdf44af4181f97a1ba2a79b52ed7f0fd5b61697",
+  "confidence_tier": 4,
+  "date_published": "2026-02-16T13:56:08-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Stinging at injection site",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "KLOW80 reconstituted with 3ml BAC water. 12 units daily subcutaneous (0.12ml per day). Cycle: 8-12 weeks. Mitigation for stinging: draw more bac water into syringe before injecting.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.675512Z"
+}

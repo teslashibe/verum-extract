@@ -1,0 +1,51 @@
+{
+  "id": "926cae14-7cb4-4db1-aa84-0d5005f8ed67",
+  "source_id": "1r1md35",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r1md35/reta_weight_stall_fast/",
+  "author_hash": "10b2bf67711c7ef08d2bc4c38423cd62bb15fa254f280276cf673ced30751136",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T19:28:03-08:00",
+  "reported_weight": {
+    "value": 187,
+    "unit": "lbs"
+  },
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost approximately 12 lbs (~187 to ~175 lbs) within 3-4 weeks. Reports this is the leanest they have been almost their entire life.",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Maintained approximately 1000 calorie deficit",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Effects from Reta varied from day to day, only stabilizing around week 6",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 42
+    }
+  ],
+  "protocol_notes": "Started at 1mg, currently at 2.5mg. Experienced initial rapid drop then weight loss slowed and became more variable. Attributes slower progress to being at a very lean starting point. Dose escalated during early weeks with no reported side effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.119242Z"
+}

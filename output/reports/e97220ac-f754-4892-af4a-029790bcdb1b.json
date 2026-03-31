@@ -1,0 +1,82 @@
+{
+  "id": "e97220ac-f754-4892-af4a-029790bcdb1b",
+  "source_id": "1bzxg90",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bzxg90/direct_peptides_oral_bpc_and_tb500_it_works/",
+  "author_hash": "40c230bc5f1bdda515ac8cfbe8c60b601cbb234f5f2ab44cf50a845f12fb99ca",
+  "confidence_tier": 4,
+  "date_published": "2024-04-09T10:10:10-07:00",
+  "training_status": "active (skydiving, training)",
+  "health_conditions": [
+    "femoral patella injury (October)",
+    "grade 2 bicep tendon tear (October)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Femoral patella tendon healed from grade 2 tear to 95% healed within approximately 4 months of treatment. MRI confirmed significant improvement.",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Bicep tendon tear improved from grade 2 to between acute trauma and grade 1 within approximately 4 months of treatment.",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Expected return to jumping and training in 4-6 weeks from time of second MRI.",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Crepitus (crackling sensation) still present in knee",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "patella tendon healing (MRI)",
+      "value_after": 95,
+      "unit": "% healed",
+      "timeframe_days": 120
+    },
+    {
+      "marker_name": "bicep tendon tear grade (MRI)",
+      "value_before": 2,
+      "value_after": 1,
+      "unit": "grade",
+      "timeframe_days": 120
+    }
+  ],
+  "protocol_notes": "Oral administration from Direct Peptides vendor. Second course at time of post. Initial injury October, began physiotherapy 6 weeks before first MRI in early February. Second MRI approximately 4 months after initial injury. User notes oral route is less bioavailable than injection but still effective for their purposes and preferred to avoid GH or GH secretagogue use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698046Z"
+}

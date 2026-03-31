@@ -1,0 +1,83 @@
+{
+  "id": "2fc750fb-43e3-4640-891d-e8e89eba2b7f",
+  "source_id": "1rthpan",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rthpan/avoided_meniscus_surgery_with_bpctbghk_8week/",
+  "author_hash": "1c168feb1b419d95995b5baea48b7cde84af3dec0ca72da82b08c05f9a3f6adc",
+  "confidence_tier": 3,
+  "date_published": "2026-03-14T05:05:05-07:00",
+  "training_status": "active (yoga, stretching, running)",
+  "health_conditions": [
+    "medial meniscus tear with 0.4cm flap",
+    "knee pain",
+    "joint effusion"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Meniscus flap tear resolved; swelling and inflammation significantly reduced; pain resolution within 1-2 weeks; asymptomatic in daily activities",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "joint_pain",
+      "description": "Complete resolution of knee pain with walking and running; minor residual pain only at extremes of external rotation",
+      "severity": "significant",
+      "onset_days": 14
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "meniscus flap size",
+      "value_before": 0.4,
+      "value_after": 0,
+      "unit": "cm",
+      "timeframe_days": 90
+    },
+    {
+      "marker_name": "joint effusion severity",
+      "timeframe_days": 90
+    }
+  ],
+  "protocol_notes": "Initial subcutaneous injections in stomach; switched to local subcutaneous injections near knee injury site after 4 weeks. Increased BPC-157 and TB-500 to 1mg daily during final few weeks of protocol. Orthopedic surgeon approved protocol trial and confirmed MRI results showing flap resolution and reduced inflammation. Patient maintained yoga and stretching regimen throughout 8-week cycle.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.95,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.66401Z"
+}

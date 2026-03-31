@@ -1,0 +1,45 @@
+{
+  "id": "4fc3d201-a20b-4d00-aa69-4252f5ae44ca",
+  "source_id": "1qvth9x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qvth9x/cagri/",
+  "author_hash": "ce02f3648ec64f3367a3379848719e5fc87b9a7178e7d1cf25cd6e992898a84c",
+  "confidence_tier": 4,
+  "date_published": "2026-02-04T08:39:30-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Cagri",
+      "name_normalized": "cagri",
+      "category": "other",
+      "dose_value": 750,
+      "dose_unit": "mcg",
+      "frequency": "almost 2x a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Finds Cagri effective at higher doses",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Switched from Tirz to Reta over a month ago, supplementing with Cagri. Currently ramping up Reta.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121339Z"
+}

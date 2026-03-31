@@ -1,0 +1,44 @@
+{
+  "id": "b3a2f837-f8da-45a7-9f15-48b57a03393a",
+  "source_id": "1s1lurk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1lurk/na_semax_na_selank/",
+  "author_hash": "8151faf75f4158f941f72f22ad8653f33c6d767f55d4e73e370e1d2c75df304c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T09:34:23-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Effects more pronounced when fasted",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "N-acetyl variants (NA-Semax, NA-Selank). Started at 100mcg, increased to 200mcg after 1.5 weeks. Using both compounds simultaneously; planning to stagger doses with Selank moved to afternoon. Noticed effects are more pronounced fasted.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.647977Z"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "b2e17dea-3fd1-48f6-acb5-f3d5a8bd0568",
+  "source_id": "1r1cmd8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r1cmd8/ghkcu_kpv_and_motsc_blend/",
+  "author_hash": "6f79d9dd5fe9aa11e03978bd95beca46b8e5931d9204eb7bc89cf1b088914d51",
+  "confidence_tier": 5,
+  "date_published": "2026-02-10T12:45:12-08:00",
+  "health_conditions": [
+    "tendon injury"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "improvement noted for tendon injury",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User received a blend (GHK-Cu, KPV, MOTS-c) instead of ordered product (Glow). Blend described as mysterious combination. User considering using for injury cycle. Intended to use Glow (which appears to be GHK-Cu based) for injury instead.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.67772Z"
+}

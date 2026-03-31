@@ -1,0 +1,105 @@
+{
+  "id": "ddd186ee-a333-4da7-b8c3-c59ce156fbe7",
+  "source_id": "1lcj57t",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lcj57t/my_peptide_progress/",
+  "author_hash": "5874ce1a0e5378aa5316eddf56e4485e441953a67fcac7d6ad3bb8ffb18850ed",
+  "confidence_tier": 4,
+  "date_published": "2025-06-15T20:48:49-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 183,
+    "unit": "lbs"
+  },
+  "training_status": "experienced - 16 years on and off, PPL program, 6 days per week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 7 lbs in 6 weeks during cutting phase (175 to 183 lbs, retaining muscle from bulk). Previous cut May 2024-March 2025: 230 to 175 lbs (55 lbs total). Body fat reduced from ~18% to ~13%.",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Retained muscle mass during aggressive cut with 800-900 kcal deficit. InBody scale showed skeletal muscle mass increase during recent cut.",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Visually noticeable reduction in love handles/sides.",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Bad acid reflux from Tirzepatide early in protocol, managed with supplements and dietary modifications",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "value_before": 18,
+      "value_after": 13,
+      "unit": "%"
+    },
+    {
+      "marker_name": "visceral fat rating",
+      "value_after": 4,
+      "unit": "InBody scale"
+    },
+    {
+      "marker_name": "skeletal muscle mass"
+    },
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "Currently on week 5 of 8-12 week total cycle. Previous Tirzepatide-only phase (May 2024-March 2025) resulted in 55 lbs fat loss. March-May 2025 bulk phase with no peptides (7 lbs gained, mostly water). Current cutting phase (May-June 2025) uses stack of 4 compounds at 800-900 kcal deficit with PPL 6-day workout. AOD-9604 injected locally on love handles. Plans to obtain InBody scan and bloodwork for IGF-1 levels. Reconstituted with 5mg bottle and 3ml bac water. Acknowledges uncertainty about AOD-9604 efficacy due to mixed reviews.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.406173Z"
+}

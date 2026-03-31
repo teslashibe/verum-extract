@@ -1,0 +1,40 @@
+{
+  "id": "c226a45f-b256-4095-8c13-ebdcc742177a",
+  "source_id": "1qtsnge",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtsnge/cjc_1295ipamorelin_sleep_problems/",
+  "author_hash": "c3d929eff783c92a67697f47dadc832c3d7b24f467f0b9bace25b49db37c2c7a",
+  "confidence_tier": 5,
+  "date_published": "2026-02-02T03:34:14-08:00",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "once daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep issues when taking before bed",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": false
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Progressively worse sleep issues when switched to morning fasted administration",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Initial attempt: 2 IU before bed caused sleep issues. Switched to morning fasted dosing but experienced worsening issues.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.681078Z"
+}

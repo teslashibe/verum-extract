@@ -1,0 +1,36 @@
+{
+  "id": "012a7197-4164-492e-8b05-2a75e2dd14b1",
+  "source_id": "17ujerw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17ujerw/warning_massive_allergic_reaction_to_tb500/",
+  "author_hash": "999a7b064f1f3421fe3dd13e17134641b49b06be5d42b2632d55a3ef44d103da",
+  "confidence_tier": 4,
+  "date_published": "2023-11-13T12:03:32-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "single dose",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Massive head rush, fainting, vomiting, diarrhea, dizziness, weakness, swelling of lips/eyes/neck, stomach pain, periodic watery stool, difficulty walking, major head rushes upon standing, uncontrolled sneezing",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Product labeled as TB-500 (Thymosin Beta 4) 5mg but OP later discovered it was actually TB4. Prior usage 6 weeks earlier at same dose (2.5mg) caused no reaction. Had taken BPC-157 and TB-500 together starting 2 months prior for 3 weeks, then stopped due to persistent itching. This dose was newly reconstituted with same BAC water. Suspected possible allergic sensitization from prior exposure. Source: NAPS.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.95,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.699929Z"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "3fb3248e-6258-4b03-9aaf-b27a42fb1ab8",
+  "source_id": "1m06irh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m06irh/almost_to_goal_thinking_about_peptides_help/",
+  "author_hash": "ba8cdc99360488325e17912561ed8210c38e7f10099fc28bbcf05fe2cd777db3",
+  "confidence_tier": 4,
+  "date_published": "2025-07-14T19:51:47-07:00",
+  "health_conditions": [
+    "loose skin"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "SS-31 helped recover baseline energy levels after taking tirzepatide",
+      "severity": "moderate"
+    },
+    {
+      "category": "skin",
+      "description": "GLOW plus KPV for loose skin - effect has been subtle after about two months; also dermarolling and using vitamin C serum on abdomen",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Has loose skin. Used SS-31 previously with good energy results. Currently on GLOW plus KPV for approximately 2 months for loose skin with subtle results so far. Also using dermarolling and vitamin C serum topically.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.279132Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "805638de-f4f0-42db-89d3-411942876d3d",
+  "source_id": "1rm3dbk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rm3dbk/mt_2/",
+  "author_hash": "e7f9870483fba6cf5e3d4dfaf200283a3218b9ed2a18955a548451cf30199be4",
+  "confidence_tier": 5,
+  "date_published": "2026-03-05T19:48:37-08:00",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "dose_value": 1.25,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Tanning effect",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Lips started changing color, getting dark, almost bluish",
+      "severity": "significant",
+      "onset_days": 7,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User stopped taking MT2 immediately due to lip discoloration side effect",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.656414Z"
+}

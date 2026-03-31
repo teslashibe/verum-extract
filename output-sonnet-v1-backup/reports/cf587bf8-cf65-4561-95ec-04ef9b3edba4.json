@@ -1,0 +1,63 @@
+{
+  "id": "cf587bf8-cf65-4561-95ec-04ef9b3edba4",
+  "source_id": "1orc5f1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1orc5f1/weight_loss_question_for_the_ladies/",
+  "author_hash": "a9b07db28bc8ff44d11fa90e565f91413141659500581993ac0cde21b558e3d8",
+  "confidence_tier": 4,
+  "date_published": "2025-11-07T17:12:41-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 136,
+    "unit": "lbs"
+  },
+  "training_status": "3-4x per week bodyweight training, 30-40 minutes",
+  "health_conditions": [
+    "perimenopause",
+    "amenorrhea/irregular periods",
+    "weight loss plateau"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cagri",
+      "name_normalized": "cagri",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 64 pounds over the course of a year, going from 200 lbs to 136 lbs",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Adding Cagri allowed further reduction of calorie intake to 1250-1350 cal/day after weight loss slowed and hunger increased on Tirz alone",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Period stopped completely after prolonged low calorie intake; initially irregular (60-day gap, then spotting), then ceased entirely. Possibly related to caloric deficit and/or perimenopause progression.",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "OP is 5'7\", 48 years old, perimenopause. Was on 15mg Tirz, added Cagri when weight loss stalled in August and hunger increased. Calorie intake 1250-1350/day. Goal weight 60kg (132 lbs). Currently in a 4-week stall at 136 lbs. Considering switching to maintenance mode. Previously lost 64 lbs over approximately one year.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.265252Z"
+}

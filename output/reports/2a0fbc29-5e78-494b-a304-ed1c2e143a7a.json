@@ -1,0 +1,42 @@
+{
+  "id": "2a0fbc29-5e78-494b-a304-ed1c2e143a7a",
+  "source_id": "1dby1dt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1dby1dt/mold_toxicity_and_gh_boosting_peptides/",
+  "author_hash": "4062ac0ecfbf799d86dd1b1152e0753e35ff2c0f8db9a5ea8533e92edb1ed500",
+  "confidence_tier": 5,
+  "date_published": "2024-06-09T09:41:05-07:00",
+  "health_conditions": [
+    "possible mold exposure",
+    "neurological symptoms",
+    "possible long COVID"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "neurological",
+      "description": "myriad of neurological symptoms",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "One week cycle of Ipamorelin and CJC-1295. Symptoms persist for 14 months. Uncertain whether peptides contributed or if symptoms are from long COVID or mold exposure.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.415008Z"
+}

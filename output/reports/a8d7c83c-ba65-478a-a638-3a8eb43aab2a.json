@@ -1,0 +1,36 @@
+{
+  "id": "a8d7c83c-ba65-478a-a638-3a8eb43aab2a",
+  "source_id": "1pnukra",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pnukra/ghkcu_the_pain_how_to_inject/",
+  "author_hash": "61174abc26a2a0120ce91a3da9967cb3a2e6aeca57613ffac1fea2fc656d0f33",
+  "confidence_tier": 4,
+  "date_published": "2025-12-15T22:03:49-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Stinging at injection site that decreases with repeated injections and site rotation",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 14
+    }
+  ],
+  "protocol_notes": "Daily injections with site rotation. Pain reduced to 2 minutes after approximately 2 weeks of consistent use",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.674319Z"
+}

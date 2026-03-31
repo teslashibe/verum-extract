@@ -1,0 +1,47 @@
+{
+  "id": "96d287be-1591-42a6-8614-9007cb77ab91",
+  "source_id": "1bk96xj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bk96xj/the_nugget_tesaipa_question/",
+  "author_hash": "eafd2a7714ffc89082c9b969ebde87567fb2ae8aa07627961324ef55ad8eb072",
+  "confidence_tier": 4,
+  "date_published": "2024-03-21T08:26:42-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "IPA keeps subject awake when administered; determined by testing CJC/IPA together and separately, and Tesa alone",
+      "severity": "moderate"
+    },
+    {
+      "category": "numbness_tingling",
+      "description": "Terrible carpal tunnel in hands upon waking when using Tesa alone; reads it is a reported side effect",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Tested compounds separately to identify which caused sleep disruption: found IPA (both standalone and combined with CJC) causes wakefulness; Tesa alone does not cause sleep issues but causes carpal tunnel symptoms. Testing conducted on 'test subject'.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.416122Z"
+}

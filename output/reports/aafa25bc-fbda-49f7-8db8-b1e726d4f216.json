@@ -1,0 +1,35 @@
+{
+  "id": "aafa25bc-fbda-49f7-8db8-b1e726d4f216",
+  "source_id": "1qt5xtp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qt5xtp/gain_weightmuscle/",
+  "author_hash": "9aced6c4f750e7d15304345e75ba91051f44bbf03471bbf070a85bb02414475a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-01T10:13:31-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHRP-6",
+      "name_normalized": "ghrp_6",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hormonal",
+      "description": "Prolactin was elevated; GHRP-6 identified as the cause despite concurrent use of other PEDs",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "prolactin"
+    }
+  ],
+  "protocol_notes": "User was on multiple PEDs concurrently; GHRP-6 was identified as having unusually high impact on prolactin compared to other peptides",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.668396Z"
+}

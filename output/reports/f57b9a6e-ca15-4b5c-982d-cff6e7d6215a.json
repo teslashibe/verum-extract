@@ -1,0 +1,52 @@
+{
+  "id": "f57b9a6e-ca15-4b5c-982d-cff6e7d6215a",
+  "source_id": "pikmpm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/pikmpm/thymosin_alpha_1/",
+  "author_hash": "086625067351b8354fe2c533db85cbba3c4669c487daeef7243b00dc7dc169fb",
+  "confidence_tier": 4,
+  "date_published": "2021-09-05T13:26:20-07:00",
+  "health_conditions": [
+    "ear infection"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "immune",
+      "description": "Appears to be helping clear ear infection after 4 days",
+      "severity": "moderate",
+      "onset_days": 4
+    },
+    {
+      "category": "anti_aging",
+      "description": "Sermorelin for anti-aging results"
+    }
+  ],
+  "protocol_notes": "Thymosin Alpha-1: 5mg vial reconstituted with water, taking 1mg daily for 4 days. Sermorelin: 2mg mixed with 2ml water, injecting 0.3ml per evening for anti-aging. User is self-described novice with injection technique concerns.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.130465Z"
+}

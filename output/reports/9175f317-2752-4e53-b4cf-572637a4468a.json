@@ -1,0 +1,89 @@
+{
+  "id": "9175f317-2752-4e53-b4cf-572637a4468a",
+  "source_id": "1rzerz6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzerz6/mots_c_side_effects/",
+  "author_hash": "1446d00d4a53e09a9c784e1a147f3cebb2c764cdbb7f2dd229d4485c839410fe",
+  "confidence_tier": 4,
+  "date_published": "2026-03-20T18:37:39-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "active (lifting, stairmaster, treadmill)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Great energy boost immediately after injection, felt great all day",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "Chest tightening after lifting, elevated heart rate 160-170 on stairmaster (normally 130-140 max), tachycardia",
+      "severity": "significant",
+      "onset_days": 6
+    },
+    {
+      "category": "blood_pressure",
+      "description": "Resting heart rate slowly increasing daily per Whoop tracking",
+      "severity": "moderate",
+      "onset_days": 1
+    },
+    {
+      "category": "anxiety",
+      "description": "Stress levels elevated per Whoop bracelet, more activated at nighttime",
+      "severity": "moderate",
+      "onset_days": 1
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep inconsistent, activated at nighttime",
+      "severity": "moderate",
+      "onset_days": 3
+    },
+    {
+      "category": "injection_site",
+      "description": "Burning sensation at injection site at 500mcg dose",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "resting heart rate",
+      "unit": "bpm",
+      "timeframe_days": 7
+    },
+    {
+      "marker_name": "heart rate during stairmaster",
+      "value_before": 130,
+      "value_after": 160,
+      "unit": "bpm",
+      "timeframe_days": 6
+    },
+    {
+      "marker_name": "stress level",
+      "timeframe_days": 7
+    }
+  ],
+  "protocol_notes": "10mg bottle with 2cc water = 500mcg per 1/10cc injection. User is on TRT for 12 years. Tracked metrics with Whoop bracelet. Had seasonal allergies onset same time as MOTS-C initiation. User concerned about cardiac effects and considering discontinuation.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.649163Z"
+}

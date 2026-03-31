@@ -1,0 +1,45 @@
+{
+  "id": "62f6c705-cd6a-409a-b211-8a3a104805bb",
+  "source_id": "1qc2xpw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qc2xpw/blends_are_bunk/",
+  "author_hash": "7ebb1a73f459e6e3c34d6f2e06024c43e6999451faa3b61294bb72d1173c5eca",
+  "confidence_tier": 5,
+  "date_published": "2026-01-13T12:50:26-08:00",
+  "health_conditions": [
+    "autoimmune condition"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "cjc/ipa",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "klow",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "KPV helps with inflammation related to autoimmune condition tremendously; does not need to be cycled",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Uses CJC/IPA blend but doses, cycles, and phases KLOW differently, keeping it separate. Will pull KLOW components into the same syringe. Reports KPV does not need to be cycled.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.124948Z"
+}

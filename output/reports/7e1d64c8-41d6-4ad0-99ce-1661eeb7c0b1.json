@@ -1,0 +1,50 @@
+{
+  "id": "7e1d64c8-41d6-4ad0-99ce-1661eeb7c0b1",
+  "source_id": "1pfunqn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pfunqn/anyone_use_oxytocin/",
+  "author_hash": "6c10bc9f1ec9b5c331a62bcc8d15ada4b15bb944cbae14f225a19ee7dde860c8",
+  "confidence_tier": 4,
+  "date_published": "2025-12-06T09:23:51-08:00",
+  "health_conditions": [
+    "occasional constipation"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Oxytocin",
+      "name_normalized": "oxytocin",
+      "category": "hormonal",
+      "route": "intramuscular",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gastrointestinal",
+      "description": "Dramatically increases smooth-muscle activity in intestines; acts as effective laxative",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Intense warm feeling in head, pressurized warmth around brain",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Must release everything from intestines",
+      "severity": "moderate",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "Injection route causes effects within 2 minutes (head warmth) and 10-20 minutes (bowel effects). Reports no psychoactive or mood-improving effects.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.391407Z"
+}

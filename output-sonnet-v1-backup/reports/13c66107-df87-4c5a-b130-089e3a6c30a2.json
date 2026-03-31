@@ -1,0 +1,36 @@
+{
+  "id": "13c66107-df87-4c5a-b130-089e3a6c30a2",
+  "source_id": "1qs75hv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qs75hv/mt2_and_ghkcu/",
+  "author_hash": "8f94cfc8fa04cef82e2419d4c010aa8f4b2dfdc5a782d9290fa3e2e6d644d38f",
+  "confidence_tier": 5,
+  "date_published": "2026-01-31T08:40:37-08:00",
+  "compounds": [
+    {
+      "name_raw": "mt2",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "every day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "every day",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "OP is starting MT2 and GHK-Cu stack and asking whether the two peptides can be mixed in the same syringe.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.122652Z"
+}

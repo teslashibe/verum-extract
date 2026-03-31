@@ -1,0 +1,47 @@
+{
+  "id": "f987ef60-c1be-437a-8609-85b516e49250",
+  "source_id": "1r8r26a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r8r26a/allergic_reaction_while_using_cjc_1295_no_dac_and/",
+  "author_hash": "fa406c170bd5c78bae0974f0926f098cce10bf52813aa56e46721d69f462b032",
+  "confidence_tier": 4,
+  "date_published": "2026-02-18T21:44:59-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "single dose",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "single dose",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Itching inside ears and neck within one minute, followed by flushed and red face and upper chest, swelling of lips and tongue to approximately twice normal size",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    }
+  ],
+  "protocol_notes": "First time using CJC-1295 (no dac) and Ipamorelin together. Previous experience with BPC-157, GHK-Cu (on and off for several years), and TB-500 (had localized site reactions each time). Treated acute reaction with antihistamines and Benadryl.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.95,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662329Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "6773e391-8dfd-47cd-b77d-cce17240218f",
+  "source_id": "1qtzwq8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtzwq8/concern_about_reta_effectiveness/",
+  "author_hash": "b99e40d2efb7217cf82c0308e856be10ff5bad301786500202129571c4ef1886",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T08:34:00-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "No effects felt at initial dose. Moved to 1mg twice weekly for 4 weeks, then increased to 1.5mg.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.680908Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e91e0184-2f0b-495d-9f7f-e54f01e97d3d",
+  "source_id": "1s3p6qw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3p6qw/anhedonia_from_bpc157_at_lower_dosages/",
+  "author_hash": "fccdf87a4349a90d7ee893244b1af17f137b23c6c6cd48d0002a1ed1804b5962",
+  "confidence_tier": 5,
+  "date_published": "2026-03-25T15:15:12-07:00",
+  "health_conditions": [
+    "IT band injury"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "KLOW protocol",
+      "name_normalized": "klow_protocol",
+      "category": "other",
+      "dose_value": 0.4,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "OP is on Wellbutrin and has not yet started the protocol. Researching anhedonia risk from BPC-157 before beginning. Interested in KLOW protocol primarily for IT band injury rehabilitation.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104304Z"
+}

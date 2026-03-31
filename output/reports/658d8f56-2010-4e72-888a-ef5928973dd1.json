@@ -1,0 +1,31 @@
+{
+  "id": "658d8f56-2010-4e72-888a-ef5928973dd1",
+  "source_id": "1s22wuo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s22wuo/sore_with_glo/",
+  "author_hash": "64e973922bb3bcb916faaefae5d7ec5f6556d88aa3170abea3c119dced191395",
+  "confidence_tier": 5,
+  "date_published": "2026-03-23T20:30:41-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Stinging pain at injection site lasting 2-3 days, occurs regardless of injection location",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User is using a GLO blend (appears to contain GHK-Cu). Injection site pain persists across multiple injection sites.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.658647Z"
+}

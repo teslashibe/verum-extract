@@ -1,0 +1,44 @@
+{
+  "id": "b3ae00b9-726c-4999-98f6-6eb7d95b4ee6",
+  "source_id": "1r32bf1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r32bf1/tesaipa_blend/",
+  "author_hash": "50e6d45fa78d914436edcc505397f1b0fc650c3c2df4745359f5647c79b8ac6d",
+  "confidence_tier": 4,
+  "date_published": "2026-02-12T11:06:37-08:00",
+  "health_conditions": [
+    "gastric motility issues"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "twice daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Full-dose IPA resolved gastric tract motility issues immediately; continued for a week with no recurrence after stopping.",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Ravenous hunger at higher doses (up to 3mg twice daily); even 1mg was noticeable for increased appetite.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User notes IPA is a ghrelin agonist and recommends low doses synergized with GHRH (tesa) for GH benefit without excessive appetite stimulation. Max comfortable dose noted as 500mcg. Higher doses discouraged for body composition goals.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.118656Z"
+}

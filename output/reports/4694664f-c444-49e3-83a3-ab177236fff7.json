@@ -1,0 +1,78 @@
+{
+  "id": "4694664f-c444-49e3-83a3-ab177236fff7",
+  "source_id": "1qidto9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qidto9/realistically_how_effective_would_it_be_to_add/",
+  "author_hash": "9ee522f985a9dc28bf1941adf1afdcad1bc6997bb20cf9cbf9ca2447edec265a",
+  "confidence_tier": 4,
+  "date_published": "2026-01-20T13:16:55-08:00",
+  "reported_age_range": "40-49",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "1x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "6 on 2 off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "6 on 2 off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Small energy increase from MOTS-c",
+      "severity": "mild"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Very small gains in strength",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Gained 5 lbs of water weight from Tesamorelin",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_change",
+      "description": "Increased hunger from Ipamorelin",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Almost 50 years old. Worked up to doses gradually. Did not respond favorably to Tesamorelin or Ipamorelin. Continuing with Reta and MOTS-c only. Did not think the stack was worth the cost. Made very small gains overall.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.683711Z"
+}

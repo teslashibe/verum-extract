@@ -1,0 +1,72 @@
+{
+  "id": "a9b9be30-654f-4384-aa35-e10b011cdea1",
+  "source_id": "1s7f48b",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s7f48b/is_my_reta_dosage_too_high/",
+  "author_hash": "7d96434b0b16457d3f0b0d81c1422f3438142265720324c5454bcb70822b2053",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T20:04:11-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 229,
+    "unit": "lbs"
+  },
+  "training_status": "active training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 126,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Testosterone Cypionate",
+      "name_normalized": "testosterone_cypionate",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Cut from 244 lbs to 229 lbs over 18 weeks",
+      "severity": "moderate"
+    },
+    {
+      "category": "body_composition",
+      "description": "Abs starting to show, appears to be in recomposition phase",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_fat_percentage",
+      "value_after": 17,
+      "unit": "%",
+      "timeframe_days": 365
+    },
+    {
+      "marker_name": "body_weight",
+      "value_before": 244,
+      "value_after": 229,
+      "unit": "lbs",
+      "timeframe_days": 126
+    }
+  ],
+  "protocol_notes": "Titrated dose: 1mg → 2mg → 4mg → 5mg → 6mg per week. Currently on 2300 cal/day with 225g protein. On testosterone cypionate 200mg/week concurrently. Height 6'. Started at 265 lbs one year ago, reached 244 lbs after test cyp and initial cut. Body type mesomorph. Concerned about weight loss plateau at 229 lbs with stubborn lower belly fat and love handles.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.64493Z"
+}

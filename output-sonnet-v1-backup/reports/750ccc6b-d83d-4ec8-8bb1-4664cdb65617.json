@@ -1,0 +1,33 @@
+{
+  "id": "750ccc6b-d83d-4ec8-8bb1-4664cdb65617",
+  "source_id": "1mx2uhe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mx2uhe/ghkcu_weekly_dose_instead_of_daily/",
+  "author_hash": "9c705a1599af863f2b12812701765113cf42412cbc3c858eb72dab59671f848b",
+  "confidence_tier": 4,
+  "date_published": "2025-08-22T03:30:45-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Injection site reactions (ISRs) are a common reason researchers abandon GHK-Cu studies; created a protocol specifically to minimize painful ISRs",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Claims to have created one of the original GHK-Cu protocols called 'Anela Protocols', focused on painless GHK-Cu administration. Protocol is 6 weeks on, 3 weeks off (break optional, taken due to copper accumulation concerns). Emphasizes daily dosing is essential given short ~30-minute half-life. GHK-Cu is not a secretagogue so no days-off within the week are needed. Specific injection technique used to prevent painful ISRs.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.274618Z"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "7816b0ed-0778-4753-8887-f258cd751c20",
+  "source_id": "1rkh5k3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rkh5k3/cjc_and_ipa_dose/",
+  "author_hash": "c58166c59b281cbba919ca0d42cf27e0d00213fdbb4d8594ba68906642e29c36",
+  "confidence_tier": 4,
+  "date_published": "2026-03-04T01:36:45-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "IGF-1 increased 10% at lower dose",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "No DAC (Drug Affinity Complex) used. User doubled dose and tested IGF-1 6 weeks later with no improvement over lower dose. Reports feeling none of the expected benefits despite biomarker improvement at initial dose.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.668987Z"
+}

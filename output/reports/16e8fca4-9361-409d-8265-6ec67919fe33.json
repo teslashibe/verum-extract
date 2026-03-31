@@ -1,0 +1,37 @@
+{
+  "id": "16e8fca4-9361-409d-8265-6ec67919fe33",
+  "source_id": "1p815hb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p815hb/waking_up_90_minutes_earlier_with_reta/",
+  "author_hash": "21606f3e92242a6c6bdb007a236ef9d279977fb10fb46b4bca3575e95c99e0d0",
+  "confidence_tier": 5,
+  "date_published": "2025-11-27T04:35:56-08:00",
+  "reported_sex": "female",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Tirzepatide caused sleep problems; Retatrutide does not affect sleep",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User notes individual variation in response to GLP-1/GIP agonists. Tirzepatide negatively impacted sleep while Retatrutide had no sleep effects.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.392484Z"
+}

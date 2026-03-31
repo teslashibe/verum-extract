@@ -1,0 +1,34 @@
+{
+  "id": "cbc6ca9c-ed11-4aa8-bf61-de477eca24ad",
+  "source_id": "1nthftv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nthftv/tesamorelin_negative_reaction/",
+  "author_hash": "94a800f2972d5cfa008a914500bb2ea998931b1430f7f349efd539addadf90c6",
+  "confidence_tier": 4,
+  "date_published": "2025-09-29T06:02:39-07:00",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Welts getting bigger every day starting around week 6. Welts gone by next morning.",
+      "severity": "moderate",
+      "onset_days": 42,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Also uses 0.22 micron filter during reconstitution. No issues initially. Now at 6 weeks and getting worsening welts. Uncertain whether to stop.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.269602Z"
+}

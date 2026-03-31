@@ -1,0 +1,44 @@
+{
+  "id": "04f6232c-2016-4a04-9404-667e9d7ddbee",
+  "source_id": "1r787u9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r787u9/before_you_buy/",
+  "author_hash": "ff6e033126888841332d31b9cb4af337f87c014cff79db03671b31134b09ba47",
+  "confidence_tier": 4,
+  "date_published": "2026-02-17T06:58:24-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Adderall",
+      "name_normalized": "adderall",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Cannot eat more than maintenance calories without nausea when combined with Adderall",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Would throw up if attempting to eat above maintenance calories",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User wakes at 5am, does not eat until 1pm most days. Combined with Adderall.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662843Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "b65eb5f7-2bf0-469a-9104-e3c3a91b8245",
+  "source_id": "1q5mh9i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q5mh9i/horrible_skin_from_klow/",
+  "author_hash": "c48ebe3b11d65c4a99fc455745bdc857e9967d90d7e0c6d95418e8d23df7c026",
+  "confidence_tier": 4,
+  "date_published": "2026-01-06T08:00:12-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Skin discoloration from old breakouts completely resolved; now impervious to breakouts; clear skin after purging phase",
+      "severity": "significant",
+      "onset_days": 56
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Purging and breakouts similar to Retin-A experience; mini purge after starting KLOW",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 56
+    }
+  ],
+  "protocol_notes": "User had prior experience with Retin-A and similar purging effect. Recommends pushing through to approximately 8 weeks to see benefits.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.387958Z"
+}

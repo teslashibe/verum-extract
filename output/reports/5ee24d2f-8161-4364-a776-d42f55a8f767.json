@@ -1,0 +1,72 @@
+{
+  "id": "5ee24d2f-8161-4364-a776-d42f55a8f767",
+  "source_id": "1qp6qlv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qp6qlv/want_to_do_cjcipatesa_one_vial_instead_of_the_old/",
+  "author_hash": "5d25994302045900695077f9f8adc487c09f9c1c01e714b883ef1dbdfa9e3c78",
+  "confidence_tier": 4,
+  "date_published": "2026-01-28T01:26:15-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 185,
+    "unit": "lbs"
+  },
+  "training_status": "lifelong athlete, currently training for maintenance, dealing with shoulder injury",
+  "health_conditions": [
+    "shoulder injury",
+    "history of boxing-related injury"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "frequency": "3-4x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "frequency": "3-4x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Achieved good physique; people think he is on steroids despite not using protein shakes or strict macros",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Immediate flushing after pinning",
+      "severity": "moderate",
+      "onset_days": 0
+    },
+    {
+      "category": "dizziness",
+      "description": "Lightheadedness after pinning",
+      "severity": "moderate",
+      "onset_days": 0
+    },
+    {
+      "category": "skin_reaction",
+      "description": "Hives and potential wheezing reaction",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "5 years prior experience with CJC/Ipa prescribed by doctor for a couple months. Current consideration of 6/3/3 Tesamorelin/CJC/Ipamorelin blend. Pins at night on empty stomach, fasts all day until night. Height 6'1\". Concerned about stubborn lower stomach fat. Experienced flushing and lightheadedness with previous CJC/Ipa dosing at unknown dose.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669765Z"
+}

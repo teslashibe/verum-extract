@@ -1,0 +1,48 @@
+{
+  "id": "47c0feee-f1d6-46e4-a5b7-678b2341c4b3",
+  "source_id": "1qpeogu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qpeogu/help_spot_on_glute/",
+  "author_hash": "7e52fae5b46e85fbb8f1369af727fababd0b78372210cca0c0bb7be1c90e44f1",
+  "confidence_tier": 5,
+  "date_published": "2026-01-28T07:38:26-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MT2",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin",
+      "description": "Large brown patch approximately 12 cm x 7 cm developed on glute, suspected to be related to MT2 use",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "OP stopped MT2 immediately upon noticing the brown patch. Concerned about potential skin cancer. Patch does not itch or hurt.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123638Z"
+}

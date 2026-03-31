@@ -1,0 +1,174 @@
+{
+  "id": "99166414-d4e6-4dc0-82d5-5f41433cc894",
+  "source_id": "1r35gk6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r35gk6/peptides_for_long_covid_cognitive_issues/",
+  "author_hash": "fbed26c8a7a23cc47348dc5b982f752e4063de985bc7534373a6b7fac6dac6e9",
+  "confidence_tier": 4,
+  "date_published": "2026-02-12T13:05:49-08:00",
+  "training_status": "formerly athletic (6 days/week pre-COVID)",
+  "health_conditions": [
+    "long COVID",
+    "cognitive dysfunction",
+    "brain fog",
+    "headache",
+    "post-exertional malaise"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 1,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "nasal",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "nasal",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Pinealon",
+      "name_normalized": "pinealon",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "ongoing",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_unit": "mg",
+      "frequency": "every other day, titrating to every 2-3 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "TB500 helped significantly with brain fog and cognitive symptoms while taking it; benefits wore off after cycle",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive",
+      "description": "GHK-Cu helped with cognitive symptoms, not quite as much as TB500; benefits wore off after cycle",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive",
+      "description": "KPV maybe helped a tiny bit",
+      "severity": "mild"
+    },
+    {
+      "category": "cognitive",
+      "description": "Pinealon maybe slight improvement",
+      "severity": "mild"
+    },
+    {
+      "category": "cognitive",
+      "description": "Tirzepatide 0.1mg/week seems to have slight benefit",
+      "severity": "mild"
+    },
+    {
+      "category": "cognitive",
+      "description": "SS-31 helps but not as much as TB500/GHK-Cu",
+      "severity": "moderate"
+    },
+    {
+      "category": "cognitive",
+      "description": "MOTS-C helps but not as much as TB500/GHK-Cu",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "KPV led to anhedonia",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 7
+    },
+    {
+      "category": "mood_change",
+      "description": "BPC-157 led to anhedonia immediately",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "headache",
+      "description": "Selank made headache/brain fog worse",
+      "severity": "moderate"
+    },
+    {
+      "category": "headache",
+      "description": "Semax made headache a bit worse",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Intranasal glutathione also found to be helpful. User reports that peptides affecting vascular health have been most helpful. Concerned about potential oncogenicity of TB500/GHK-Cu. Currently considering CJC-1295 no DAC + Ipamorelin or Tesamorelin. Hesitant about VIP due to Reddit case reports of side effects. Considering P21, ACD-856, PE-22-28 but noted cognitive-specific peptides have been less helpful than vascular/inflammation-focused ones.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.66437Z"
+}

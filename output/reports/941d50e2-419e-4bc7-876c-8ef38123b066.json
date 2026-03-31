@@ -1,0 +1,56 @@
+{
+  "id": "941d50e2-419e-4bc7-876c-8ef38123b066",
+  "source_id": "1r98xrv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r98xrv/dsip_300_mcg_or_1000_mcg/",
+  "author_hash": "5b31a9c000874f6e14ba5827fc644b5c6d6de1110f1667a58ad0c34016f99b3e",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T11:34:03-08:00",
+  "health_conditions": [
+    "insomnia",
+    "sleep maintenance difficulty"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "every other day or every third day",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "100-150 mcg DSIP knocks user out; CJC/IPA combination has helped with sleep maintenance",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User takes multiple sleep supplements: D3, K2, magnesium glycinate, melatonin, glycine, lions mane, chaga, ashwagandha. Reports that lower DSIP doses (100-150 mcg) work better than 300 mcg. Uses every other day or every third day dosing schedule.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662168Z"
+}

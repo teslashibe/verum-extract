@@ -1,0 +1,57 @@
+{
+  "id": "23f9d7be-3274-457e-b202-7be5518511f6",
+  "source_id": "1rglxf2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rglxf2/so_yeah_i_ended_up_buying_retatrutide/",
+  "author_hash": "18c1b00d86207fd9d7faa5889ec3bf214b94885062eda6ee0efb66a73997a160",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T15:04:05-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 215,
+    "unit": "lbs"
+  },
+  "training_status": "exercises a lot",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 10lbs in 2 weeks, but much was water weight and some muscle loss",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "At 2.5mg barely ate; at 1.25mg still too suppressive for diet goals",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body weight",
+      "value_before": 215,
+      "value_after": 205,
+      "unit": "lbs",
+      "timeframe_days": 14
+    }
+  ],
+  "protocol_notes": "Male, 6'1\", 10% BF at start. Started at 0.5mg, titrated to 1mg then 2.5mg. Currently using 1.25mg weekly. Partner also using tirzepatide. Goal: reach 5-6% BF while maintaining 200+ lbs. Source: paid $500 for 300mg (third party tested).",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.670844Z"
+}

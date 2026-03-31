@@ -1,0 +1,39 @@
+{
+  "id": "8063ae20-f8cf-4168-b9ff-8f493a834701",
+  "source_id": "1psoe59",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1psoe59/reta_week_3_update/",
+  "author_hash": "f050c7d678a65bd0991c5cd14ca09f64fb6c00639ae70e6b49ae3d90f1021a8f",
+  "confidence_tier": 4,
+  "date_published": "2025-12-21T18:45:05-08:00",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 7 lbs total over 3 weeks",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Not experiencing massive appetite suppression but craving less than before",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Started 12/6, plans to assess progress with InBody scan. Considering dose increase to 1.5-2.0mg.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.673633Z"
+}

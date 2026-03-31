@@ -1,0 +1,49 @@
+{
+  "id": "d17ab120-132b-4784-a557-59abd1a0036a",
+  "source_id": "1rjyp82",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rjyp82/looking_for_insight_into_bpc157_and_tb500_stack/",
+  "author_hash": "c58166c59b281cbba919ca0d42cf27e0d00213fdbb4d8594ba68906642e29c36",
+  "confidence_tier": 4,
+  "date_published": "2026-03-03T11:22:14-08:00",
+  "health_conditions": [
+    "shoulder impingement"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 700,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 700,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "ZERO improvement for shoulder impingement",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Used separate vials. No improvement after nearly 10 weeks. Stopping once current vials empty.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.65748Z"
+}

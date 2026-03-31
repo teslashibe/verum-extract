@@ -1,0 +1,50 @@
+{
+  "id": "479b7143-bd1f-4b4c-b2c7-71ac1b8696be",
+  "source_id": "1ox6xhw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ox6xhw/what_next_tesa/",
+  "author_hash": "72bc3913566ae445a9eaf1674586d9920e4e5009dd85214b3c222ebaf9d5d2d4",
+  "confidence_tier": 4,
+  "date_published": "2025-11-14T12:02:48-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "reported_weight": {
+    "value": 190,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "cycle_length_days": 135,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped from 270 to 190 lbs",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "MOTS-c was good",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "6ft tall, 28 years old male. Currently on low dose Retatrutide 3mg. Previously used MOTS-c. Considering adding Tesamorelin and KPV for 3 months. Currently experiencing weight loss plateau for 2-3 weeks.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.393672Z"
+}

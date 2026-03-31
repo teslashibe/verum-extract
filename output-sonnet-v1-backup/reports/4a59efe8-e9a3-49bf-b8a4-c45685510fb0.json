@@ -1,0 +1,40 @@
+{
+  "id": "4a59efe8-e9a3-49bf-b8a4-c45685510fb0",
+  "source_id": "1ry993p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ry993p/need_help_assessing_what_to_take/",
+  "author_hash": "e88e07cb6a9051d4c1403a3b28d6fe2889ba3f5d5359f36bc118093b2488779d",
+  "confidence_tier": 5,
+  "date_published": "2026-03-19T11:57:34-07:00",
+  "health_conditions": [
+    "low testosterone"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "trt",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Big change noted even starting from 400 ng/dL",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Testosterone",
+      "value_before": 400,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "User states they are on TRT, had testosterone of 400 before, and noted a big change.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106505Z"
+}

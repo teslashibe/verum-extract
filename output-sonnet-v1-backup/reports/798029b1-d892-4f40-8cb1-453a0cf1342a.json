@@ -1,0 +1,48 @@
+{
+  "id": "798029b1-d892-4f40-8cb1-453a0cf1342a",
+  "source_id": "1s3kq0k",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3kq0k/hgh_sweet_spot/",
+  "author_hash": "9511eea6d55e1974de61fdba299e04b4d4009268e5818f55832de0d45f625980",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T12:30:52-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 140,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "Looking for anti-aging properties from HGH"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "timeframe_days": 90
+    }
+  ],
+  "protocol_notes": "OP is starting HGH at 2IU and plans to get bloodwork after 3 months to check IGF levels. Has been on TRT for about a year, recently increased from 100mg/week to 140mg/week. Planning to run Chinese HGH indefinitely for anti-aging. Considering titrating up to 4IU over time.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104372Z"
+}

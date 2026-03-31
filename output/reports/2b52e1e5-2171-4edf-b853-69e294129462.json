@@ -1,0 +1,63 @@
+{
+  "id": "2b52e1e5-2171-4edf-b853-69e294129462",
+  "source_id": "1qt5xtp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qt5xtp/gain_weightmuscle/",
+  "author_hash": "ea73ee4297601dacc247e24bae34677f40724fe28382a3198570bdce35fa4b5b",
+  "confidence_tier": 4,
+  "date_published": "2026-02-01T10:13:31-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHRP-6",
+      "name_normalized": "ghrp_6",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "15 minutes before eating",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "IU",
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "pre-workout",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Follistatin",
+      "name_normalized": "follistatin_344",
+      "category": "muscle_performance",
+      "route": "subcutaneous",
+      "frequency": "pre-workout",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "GHRP-6 produced ravenous appetite; able to consume 7000 calories with ease during bulk",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Stack worked great for bulking",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User described this as a 'great bulk stack'. Stack included GHRP-6, HGH 5IU 3x/week, IGF-1 LR3 pre-workout, and Follistatin pre-workout.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.668396Z"
+}

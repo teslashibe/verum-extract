@@ -1,0 +1,72 @@
+{
+  "id": "1058f893-07f4-4a06-a735-e45d0c1376ea",
+  "source_id": "1rk287p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rk287p/hgh_secretagogue_bloodwork/",
+  "author_hash": "9719d2829f47ccd17ee7186657c5363bc38fe7e1e674ecbde3982d04af838afc",
+  "confidence_tier": 3,
+  "date_published": "2026-03-03T13:32:01-08:00",
+  "training_status": "weightlifter",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily (5 days on, 2 days off)",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep was good with Tesamorelin, much better on HGH",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "After-workout recovery is insane",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Skin feels absolutely amazing",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 154,
+      "value_after": 459,
+      "unit": "ng/mL",
+      "timeframe_days": 30
+    },
+    {
+      "marker_name": "IGF-1",
+      "value_before": 459,
+      "value_after": 489,
+      "unit": "ng/mL",
+      "timeframe_days": 60
+    }
+  ],
+  "protocol_notes": "Z-scores: 2.8 after 1 month, +3.0 after 2 months. User describes self as hyper-responsive. Started morning pinning, switched to bedtime pinning. Started HGH 0.5mg on Feb 2 to lower IGF-1 to 300-350 range during peak lifting phases.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.93,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.669307Z"
+}

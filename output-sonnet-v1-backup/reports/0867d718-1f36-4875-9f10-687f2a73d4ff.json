@@ -1,0 +1,38 @@
+{
+  "id": "0867d718-1f36-4875-9f10-687f2a73d4ff",
+  "source_id": "1m44bjy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m44bjy/cjcipa_impact_on_sleep_quality/",
+  "author_hash": "614cac9663429d3a1ee9b3929328275bb480ce38629224b735a5acd98c18a235",
+  "confidence_tier": 5,
+  "date_published": "2025-07-19T12:09:42-07:00",
+  "compounds": [
+    {
+      "name_raw": "CJC/IPA combo",
+      "name_normalized": "cjcipa_combo",
+      "category": "other",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep has improved including percentage of deep sleep. Wakes up feeling more rested than in a long time.",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Resting heart rate and heart rate variability have gotten a little worse.",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Notes sleep impacts are very individual — some report worse sleep, better sleep, or no change. Unit listed as 250mg but likely 250mcg given context.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.278581Z"
+}

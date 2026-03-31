@@ -1,0 +1,44 @@
+{
+  "id": "0cc13e67-e552-4153-aca5-83038c53a33a",
+  "source_id": "1p0sjyw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p0sjyw/has_anyone_else_hit_a_point_where_the_hunger/",
+  "author_hash": "44ab8ba6b75d1814d38f56b58af8880f05bdaba31fed7ddc8ae6868803d8d315",
+  "confidence_tier": 4,
+  "date_published": "2025-11-18T16:11:04-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Stacking retatrutide with high-dose tirzepatide appears to restore appetite suppression",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Long-term user at maximum tirzepatide dose (15mg weekly) experienced appetite suppression decline. Recently added 2mg retatrutide and reports early promising results. Notes it is too early to draw conclusions.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.676939Z"
+}

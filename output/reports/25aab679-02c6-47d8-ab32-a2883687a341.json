@@ -1,0 +1,67 @@
+{
+  "id": "25aab679-02c6-47d8-ab32-a2883687a341",
+  "source_id": "1s76933",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s76933/tirz_sides/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T13:37:19-07:00",
+  "reported_weight": {
+    "value": 228,
+    "unit": "lbs"
+  },
+  "training_status": "active gym and cardio, recently decreased",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression working as expected",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Weight loss averaging 1.7 lbs/week, down from 247 lbs to 228 lbs",
+      "severity": "significant",
+      "onset_days": 28
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "dizziness",
+      "description": "Increased lightheadedness and vertigo, woke up with room spinning intensely after rolling over in bed",
+      "severity": "significant"
+    },
+    {
+      "category": "mood_change",
+      "description": "Increased irritability and feeling 'not great' while eating",
+      "severity": "moderate"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Aware of potential GI related side effects"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "blood_pressure",
+      "value_after": 109,
+      "unit": "systolic/diastolic mmHg (109/67)",
+      "timeframe_days": 28
+    }
+  ],
+  "protocol_notes": "2.5 mg Tirzepatide for 4 weeks. Caloric intake 1800-2100 calories daily, 120g carbs, 50-60g fat, approximately 1 gallon water per day. Estimated expenditure ~2500 calories at starting weight of 247 lbs. Introduced electrolytes. Started weight 247 lbs, current 228 lbs (19 lb loss over 4 weeks). Gym and cardio activity decreased significantly during protocol. User reports BP usually normal.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.65595Z"
+}

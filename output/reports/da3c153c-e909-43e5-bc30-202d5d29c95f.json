@@ -1,0 +1,49 @@
+{
+  "id": "da3c153c-e909-43e5-bc30-202d5d29c95f",
+  "source_id": "1qek46x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qek46x/why_the_microstack_beats_the_megadose/",
+  "author_hash": "de9515c26f97ddaf06645960d1b6a7eb21217fc91791c95b5b8f9f754d671e71",
+  "confidence_tier": 5,
+  "date_published": "2026-01-16T08:10:08-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "every 4 days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "frequency": "every 4 days",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Stacked low doses maintain appetite suppression while avoiding tolerance buildup",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Weight loss results from receptor optimization without tolerance development",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Theoretical protocol only - no personal usage data reported. OP advocates for micro-stacking (1.5mg Tirz + 0.75mg Reta every 4 days) over single high-dose GLP-1 to avoid receptor internalization and tolerance. References Mike Israel's Retatrutide + Tirzepatide stack. Claims split dosing maintains sub-saturation state and prevents concentration spikes.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.68412Z"
+}

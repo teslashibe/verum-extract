@@ -1,0 +1,53 @@
+{
+  "id": "f14f1704-af45-4c30-978f-4ea003238412",
+  "source_id": "1rvuxmf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvuxmf/peptide_use_side_effects_cancer_risk_and_posttbi/",
+  "author_hash": "4adc28df42612ca8d8098c169b977b3e1b25975a5b58d8ab50cad6c526b6a20d",
+  "confidence_tier": 5,
+  "date_published": "2026-03-16T19:56:53-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "pituitary tumor",
+    "endometriosis",
+    "TBI (traumatic brain injury)",
+    "vocal cord damage from tracheotomy",
+    "nausea"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "once a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "Monday, Tuesday, Thursday, Friday at night",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Nausea from tirzepatide",
+      "resolved": false
+    },
+    {
+      "category": "injection_site",
+      "description": "Injection site on lower abdomen stings a bit",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "OP is new to peptides. Currently on tirzepatide weekly and recently started GHK-Cu. Considering MOTS-C, retatrutide, CJC-1295/Ipamorelin, and BPC-157/TB-500. Has family history of cancer and is hesitant about growth-factor-stimulating peptides. Also interested in peptides for post-TBI brain health support.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.107486Z"
+}

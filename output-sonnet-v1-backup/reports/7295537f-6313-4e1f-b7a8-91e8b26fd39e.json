@@ -1,0 +1,70 @@
+{
+  "id": "7295537f-6313-4e1f-b7a8-91e8b26fd39e",
+  "source_id": "1nh8nus",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nh8nus/glow/",
+  "author_hash": "b135b4aa045f31845312c5b112f801e91ccd6cbab602a5bac5c77089c6c4f18d",
+  "confidence_tier": 4,
+  "date_published": "2025-09-14T18:21:43-07:00",
+  "health_conditions": [
+    "partially torn rotator cuffs (bilateral)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2.65,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1.19,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.52,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Hoping to assist with partially torn rotator cuffs; also cited GHK-Cu for tendon and ligament repair"
+    },
+    {
+      "category": "anti_aging",
+      "description": "General anti-aging goal with GHK-Cu component"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Blend stings quite a bit at injection site",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Self-assembled GLOW blend at 67-20-13 ratio (GHK-Cu:BPC-157:TB-500). Previously sourced first batch through a clinic and compounding pharmacy in Florida. Plans 6 weeks on, 2 weeks off cycle. Blend reconstituted; commenter mentions 6ml bac water with 20 units/day as a reference point.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.271385Z"
+}

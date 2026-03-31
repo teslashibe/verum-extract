@@ -1,0 +1,61 @@
+{
+  "id": "128e4bcb-d3fc-4633-994a-f936b87300b4",
+  "source_id": "1orc5f1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1orc5f1/weight_loss_question_for_the_ladies/",
+  "author_hash": "a9b07db28bc8ff44d11fa90e565f91413141659500581993ac0cde21b558e3d8",
+  "confidence_tier": 4,
+  "date_published": "2025-11-07T17:12:41-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 136,
+    "unit": "lbs"
+  },
+  "training_status": "bodyweight training 3-4x per week, 30-40 minutes",
+  "health_conditions": [
+    "perimenopause"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 64 pounds over the year, from 200 lbs to 136 lbs. Added Cagri (Retatrutide) when weight loss slowed and hunger increased, allowing further calorie reduction.",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Initially on Tirzepatide 15mg, became hungrier in August, added Retatrutide to suppress appetite further and enable lower calorie intake",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hormonal",
+      "description": "Period stopped coming after 60 days, then only spotting, now stopped completely. Concerns about low calorie intake (1250-1350 cal/day) triggering amenorrhea.",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Female, 5'7\" tall. Lost weight from 200 lbs to 136 lbs over approximately 1 year. Currently on Tirzepatide 15mg and Retatrutide (dose unspecified). Consuming 1250-1350 calories per day. Goal weight was 132 lbs (60 kg). Currently in 4-week weight loss plateau. High muscle mass reported by scale.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.394122Z"
+}

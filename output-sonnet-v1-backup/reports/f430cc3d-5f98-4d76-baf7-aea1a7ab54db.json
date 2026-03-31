@@ -1,0 +1,68 @@
+{
+  "id": "f430cc3d-5f98-4d76-baf7-aea1a7ab54db",
+  "source_id": "1refvpq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1refvpq/hgh_and_test/",
+  "author_hash": "27caba2cad95e8f39b37f60f54c10e8f2da1382eda66a7cc656187c286f85f8f",
+  "confidence_tier": 3,
+  "date_published": "2026-02-25T07:13:45-08:00",
+  "health_conditions": [
+    "elevated A1C",
+    "NAFLD risk",
+    "blood glucose elevation"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Used higher dose reta initially for fat loss"
+    },
+    {
+      "category": "other",
+      "description": "A1C lowered into lower end of normal reference range (4.9-5.2) from elevated levels",
+      "severity": "significant"
+    },
+    {
+      "category": "gut_health",
+      "description": "Blood glucose no longer spikes or stays elevated between meals, persisted 4 months after stopping reta",
+      "severity": "significant"
+    },
+    {
+      "category": "immune",
+      "description": "Inflammation reduction benefit from reta"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C",
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Used all three together (GH, test, reta). Started at higher reta dose for fat loss, then reduced to low dose (1-2mg/week) for health benefits. A1C was creeping up, reta lowered it to 4.9-5.2 range. Has been off reta for four months and blood glucose improvements persist. Notes reta helps with insulin sensitivity and NAFLD reduction.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114804Z"
+}

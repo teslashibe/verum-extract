@@ -1,0 +1,34 @@
+{
+  "id": "cc7cb32e-9e98-4ce5-b7d0-107c15eadad9",
+  "source_id": "1s1lurk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1lurk/na_semax_na_selank/",
+  "author_hash": "cd93e0f230a30fe0dc3e6cec7908a11a4dbbcedac9c385b0956ff8959206cfca",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T09:34:23-07:00",
+  "compounds": [
+    {
+      "name_raw": "NA semax",
+      "name_normalized": "na_semax",
+      "category": "other",
+      "route": "nasal",
+      "dose_value": 800,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NA semax",
+      "name_normalized": "na_semax",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Started nasal spray at 200mcg, felt nothing. Escalated up to 800mcg nasal with no effect. Switched to 500mcg subcutaneous, still unable to feel any effects.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105207Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "79c0e53f-156b-4c2f-870c-0b8b84406ef7",
+  "source_id": "1rakpi0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rakpi0/am_i_missing_something_ghkcu/",
+  "author_hash": "6e033fd897245488118971652b48c8b4fcdeec0857a079b7b39715bb8cf05583",
+  "confidence_tier": 4,
+  "date_published": "2026-02-20T23:14:18-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Uses 1-2mg GHK-Cu daily with KPV. Reports good tolerance when combined.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661624Z"
+}

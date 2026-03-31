@@ -1,0 +1,44 @@
+{
+  "id": "ccf74847-e5e4-48c4-bbcc-59e2dfc3501b",
+  "source_id": "1rdsnxd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdsnxd/any_difference_between_grey_and_pharma_mounjaro/",
+  "author_hash": "deabb6c5456eddbd8f1b6054051986b32a06cb5065a82f138e0af2c521810e41",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T13:04:00-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "name brand Mounjaro",
+      "name_normalized": "name_brand_mounjaro",
+      "category": "other",
+      "cycle_length_days": 730,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "gray market tirzepatide",
+      "name_normalized": "gray_market_tirzepatide",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 215 pounds since starting tirzepatide (pharma then grey market)",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Felt hit and miss throughout — weeks where it seemed to stop working, weeks where it felt good; attributed to body adjusting rather than product quality",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Used name brand Mounjaro for 2 years before switching to grey market. Janoshik testing of grey market product came back as advertised. Variability in effect attributed to body adjustment, not product quality.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.115161Z"
+}

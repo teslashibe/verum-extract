@@ -1,0 +1,39 @@
+{
+  "id": "f9b46486-3505-4183-94bb-42ea17a55609",
+  "source_id": "1s1tng9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1tng9/ghk_cu_5_weeks_results/",
+  "author_hash": "c1a4b910fa052e2fc9eacea5f52614212882cd71eb786ac79cceb3cdef301ca6",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T14:07:52-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "red itchy bumps after injection with pure GHK-Cu, resolved with KPV blend",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Previously experienced red itchy bumps and prolonged healing with pure GHK-Cu injections. Switched to GHK-Cu with KPV blend which almost completely resolved the injection site reaction.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.658969Z"
+}

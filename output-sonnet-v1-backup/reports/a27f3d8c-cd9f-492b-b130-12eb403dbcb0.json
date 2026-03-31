@@ -1,0 +1,31 @@
+{
+  "id": "a27f3d8c-cd9f-492b-b130-12eb403dbcb0",
+  "source_id": "1ayhxto",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ayhxto/not_losing_weight_or_am_i_expecting_too_much/",
+  "author_hash": "5c9d5d03c2ec3b99f4c0222171684da08fd7052fafaa8ff4f3a14ea24185d707",
+  "confidence_tier": 3,
+  "date_published": "2024-02-23T17:27:33-08:00",
+  "training_status": "active, 10,000 steps per day",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirzepatide (implied GLP-1 agonist)",
+      "name_normalized": "tirzepatide_implied_glp_1_agonist",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 75 lbs since September with no muscle loss, confirmed by body scans",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Consumes 200g protein per day (~800 calories from protein). Follows specific dietary practices: eating veggies first then protein then carbs, drinking half body weight in ounces of water per day, eliminating simple sugars, consuming higher good fats. Body scans confirmed fat loss with no muscle loss.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294682Z"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "c57640ac-d539-48b5-aed8-3f9ba3f71e3a",
+  "source_id": "1f2qj0w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1f2qj0w/bpc157_is_like_a_magic_shot_pain_eraser/",
+  "author_hash": "8984da13d5331d33dbd473d7d3b7ad0cac043a0553bc15303bd1940ed39fe97b",
+  "confidence_tier": 4,
+  "date_published": "2024-08-27T12:55:03-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Zero injection pain and burn when BPC-157 and TB-500 are mixed with NAD+ and GHK-Cu; complete elimination of pain that was previously severe and lasted hours",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Significant burning pain during and after NAD+ injection (100mg doses), lasting hours; GHK-Cu also caused burning pain",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    }
+  ],
+  "protocol_notes": "Mixing protocol: 3ml added to 75mg GHK vial; 2ml added to 6/6mg BPC/TB vial; 1ml of GHK moved to BPC/TB vial; injecting 20u per dose. Final mixed protocol dosage: 1670mcg GHK-Cu with 400mcg BPC-157 and 400mcg TB-500 per 20u injection (15 total doses). Initial experiment: ~500mcg of BPC/TB combo (250 each) mixed into 300mg NAD+. Later: 5u of BPC mix in 40u NAD+. Also taking 2-3 zinc supplements per week at 30mg each. Used multi-peptide calculator (blendify.glitch.me) for dosing. Injection site: upper thigh between outside and front area.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.413966Z"
+}

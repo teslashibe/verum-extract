@@ -1,0 +1,36 @@
+{
+  "id": "fd32f579-5d79-4b52-b476-c589e8f85adc",
+  "source_id": "1n0kom6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n0kom6/accidentally_pinned_1mg_bpc/",
+  "author_hash": "39825c785bb9c0f90e25a67e975535dfdbe28252dcc34924be90c19e4a6c33e5",
+  "confidence_tier": 5,
+  "date_published": "2025-08-26T05:38:00-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Runs 1mg daily for the first 1-2 weeks then drops to 500mcg.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.273741Z"
+}

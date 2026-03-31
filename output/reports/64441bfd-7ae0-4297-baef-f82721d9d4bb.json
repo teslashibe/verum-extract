@@ -1,0 +1,104 @@
+{
+  "id": "64441bfd-7ae0-4297-baef-f82721d9d4bb",
+  "source_id": "1nnpcen",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nnpcen/what_the_hell_happened_to_me_after_taking_cjc1295/",
+  "author_hash": "7bcc026250fd43f6e604cafa426c43da1af90bf936ec21aaeae9876e54b604d2",
+  "confidence_tier": 4,
+  "date_published": "2025-09-22T08:18:42-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "reported_weight": {
+    "value": 180,
+    "unit": "lbs"
+  },
+  "training_status": "5-6 days per week consistent workout",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "attempted once weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "attempted once weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "User was hoping to gain muscle mass; reported natural testosterone levels of 400-440 ng/dL"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Injection site started to burn immediately after first injection",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "numbness_tingling",
+      "description": "Left arm completely numb and tingling the second day after first injection. Tingling persisted in both arms for days afterwards, even while typing. Described as extremely sensitive numbness and tingling with any activity",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "muscle_cramp",
+      "description": "Muscles have been hurting, back pain, feeling of pulled muscles in legs despite no actual injury",
+      "severity": "moderate",
+      "onset_days": 1
+    },
+    {
+      "category": "appetite_change",
+      "description": "Appetite went away completely; had to force eating. User naturally has massive appetite but this was suppressed",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "mood_change",
+      "description": "Lost confident and strong feeling from testosterone; now just existing",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_before": 420,
+      "unit": "ng/dL"
+    },
+    {
+      "marker_name": "estrogen",
+      "value_before": 25
+    }
+  ],
+  "protocol_notes": "User was concurrently running 200mg/week testosterone (week 7 of 10-week cycle). User admitted in update that they misunderstood measurements and overdosed significantly—reconstituted with 2mL bacteriostatic water into 10mg vials, then injected 0.5mL CJC-1295 with DAC and 0.3mL Ipamorelin, which equated to approximately 2.5mg CJC-1295 and 1.5mg Ipamorelin per injection (not the intended starter doses). Only completed 2 injections before stopping. User later acknowledged this was their error and not a compound issue.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.397478Z"
+}

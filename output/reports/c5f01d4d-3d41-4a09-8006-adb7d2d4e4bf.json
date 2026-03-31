@@ -1,0 +1,50 @@
+{
+  "id": "c5f01d4d-3d41-4a09-8006-adb7d2d4e4bf",
+  "source_id": "1s4wrye",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4wrye/tesamorelin_motsc_reta_in_caloric_surplus/",
+  "author_hash": "afb5d699a298548a74000b4acb9cc98bd46ee8433c065a9ad23ca5f4f5447905",
+  "confidence_tier": 4,
+  "date_published": "2026-03-26T23:50:11-07:00",
+  "training_status": "trained",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Controls appetite and reduces cravings/hunger during caloric surplus",
+      "severity": "moderate"
+    },
+    {
+      "category": "body_composition",
+      "description": "Helps maintain lean body mass and direct calories toward muscle gain during surplus",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User reports being able to eat well despite retatrutide at 1mg dose. Currently in caloric surplus (~2600 cals daily) with high carbs and protein, low fats. Previous cut from 20% to 10-11% bodyfat over several months. Planning to maintain lean gains during bulk phase.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.646244Z"
+}

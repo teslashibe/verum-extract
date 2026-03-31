@@ -1,0 +1,58 @@
+{
+  "id": "4463c915-474c-4852-8fab-a12bb39de2c8",
+  "source_id": "1r112tw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r112tw/once_or_twice_a_day_cjc1295_ipamorelin/",
+  "author_hash": "39adc99f8dc7f35ac0cce8f448f8d4e112a543d38eb2a16634bb6739c35131ef",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T05:43:07-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "1x daily (after switching from 2x daily)",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "1x daily (after switching from 2x daily)",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Better sleep quality with 1x daily dosing",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Able to push harder in the weight room",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Probable few extra pounds of muscle gain indirectly from improved recovery",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Didn't feel sleep benefits with 2x daily dosing",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "No DAC version. Prior cycles (at least 3 total, currently on 3rd cycle). First two cycles had better results than current batch. Preferred 1x daily to 2x daily with slightly higher total daily dose.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665453Z"
+}

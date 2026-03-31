@@ -1,0 +1,65 @@
+{
+  "id": "6dd6a68f-dcdd-4d44-8ea5-62edbb6d2227",
+  "source_id": "1rr6ddm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr6ddm/dsip/",
+  "author_hash": "f5c155635a0020e47060f017e37535dd9eead774d99b86b96394b49cdf21c893",
+  "confidence_tier": 4,
+  "date_published": "2026-03-11T14:03:58-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "frequency": "morning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "frequency": "morning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "frequency": "before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "frequency": "before bed",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "extra 45 minutes of deep sleep measured by Aura Ring",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "deep sleep",
+      "unit": "minutes"
+    }
+  ],
+  "protocol_notes": "Takes Epitalon and DSIP in morning when seeing sunrise, CJC/Ipamorelin and HGH before bed. Notes sleep needs to be dialed in for DSIP to work. DSIP does not help with falling asleep. Obsessed with sleep optimization.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.665398Z"
+}

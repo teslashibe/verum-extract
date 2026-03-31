@@ -1,0 +1,43 @@
+{
+  "id": "6046ec7d-6a7a-4172-b0d7-df0a1898775e",
+  "source_id": "17nqlxa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17nqlxa/one_month_taking_peptide_sciences_gut/",
+  "author_hash": "10e13514a5a4b4709f37a5b1d9271e070ac308cedfd04a50487eec047430a927",
+  "confidence_tier": 4,
+  "date_published": "2023-11-04T10:28:50-07:00",
+  "health_conditions": [
+    "shoulder injury"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Shoulder injury showing improvement",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Using KPV and BPC-157 arginate (subcutaneous) for about one week for shoulder injury. Reports 'so far so good'.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.419521Z"
+}

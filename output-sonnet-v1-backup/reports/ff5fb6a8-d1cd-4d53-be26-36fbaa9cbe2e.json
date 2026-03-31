@@ -1,0 +1,34 @@
+{
+  "id": "ff5fb6a8-d1cd-4d53-be26-36fbaa9cbe2e",
+  "source_id": "1f2qj0w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1f2qj0w/bpc157_is_like_a_magic_shot_pain_eraser/",
+  "author_hash": "2bfa5084d4565aac62256b3fe8368fcee89ebb5f7b659a92d9b2ca42852f9ebe",
+  "confidence_tier": 5,
+  "date_published": "2024-08-27T12:55:03-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Minimal pain with GHK-Cu when concentration is 10mg/ml at 2mg per day dose",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Notes that wrong peptide combinations can react and turn cloudy, requiring disposal. Suggests diluting NAD+ with bacteriostatic water as alternative to mixing with other peptides.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.291633Z"
+}

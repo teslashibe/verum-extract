@@ -1,0 +1,48 @@
+{
+  "id": "53362595-7da4-4db6-916b-1a4d68464133",
+  "source_id": "1qiz63m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qiz63m/ghkcu_results/",
+  "author_hash": "619704059f73ccdfab34df9a70ef6565e096da13aa2cfe85de77274bfdf19364",
+  "confidence_tier": 4,
+  "date_published": "2026-01-21T06:22:22-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Worried about sting from injection, did 3 separate small injections but then realized they were part of the ~8% who don't experience this reaction",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 14
+    }
+  ],
+  "protocol_notes": "Did a GLOW cycle (GHK-Cu + BPC-157 + TB-500). 2 weeks in discovered injection site pain was not an issue for them personally.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.683572Z"
+}

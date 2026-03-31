@@ -1,0 +1,67 @@
+{
+  "id": "2ecc8537-4163-467a-bc39-80393bf37376",
+  "source_id": "1s1ng2g",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1ng2g/looking_for_help_for_my_gf_dealing_with_pain/",
+  "author_hash": "e77f7e8d3aefe857f7027b9150b4ac23cf41293049ed7e4b591af3b86b6c3216",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T10:28:36-07:00",
+  "health_conditions": [
+    "back issues",
+    "knee issues"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Effective for back issues",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Noticeable skin health improvement",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Developed an allergy to CJC-1295 DAC and can no longer tolerate it",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "injection_site",
+      "description": "Burn if injected incorrectly; off-putting for newbies",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Previously used CJC-1295 DAC with excellent results for back pain ('miracle' effect). Developed allergy. Currently using a GLOW blend (undefined stack) for back and knees. Planning to try KLOW blend. Skeptical about synergistic claims of multi-peptide stacks but willing to experiment.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.659097Z"
+}

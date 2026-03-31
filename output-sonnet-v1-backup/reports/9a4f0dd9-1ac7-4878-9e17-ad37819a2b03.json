@@ -1,0 +1,67 @@
+{
+  "id": "9a4f0dd9-1ac7-4878-9e17-ad37819a2b03",
+  "source_id": "1r112tw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r112tw/once_or_twice_a_day_cjc1295_ipamorelin/",
+  "author_hash": "45cada021ff291e065f8561aa66a68e5888cb0740a63f90848f38dae7a28cc27",
+  "confidence_tier": 5,
+  "date_published": "2026-02-10T05:43:07-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "twice daily (morning fasted and before bed)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "twice daily (morning fasted and before bed)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Needle fatigue from multiple daily injections",
+      "severity": "mild",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "One week into protocol. No DAC version of CJC-1295. Considering switching from twice daily to once daily in the evening due to needle fatigue from stacking with TRT, Reta, TB500, and BPC157.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.119763Z"
+}

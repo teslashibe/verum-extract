@@ -1,0 +1,61 @@
+{
+  "id": "05ec6981-bf4b-4d6e-8ef5-786727529b22",
+  "source_id": "1nr1qtw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nr1qtw/on_tirz_and_losing_slowly_need_help/",
+  "author_hash": "e296e64a13cf9c3612f76b58ceab42005c53b92fe48b07a7bdc2435513ce1978",
+  "confidence_tier": 4,
+  "date_published": "2025-09-26T06:44:30-07:00",
+  "training_status": "limited due to spine injury",
+  "health_conditions": [
+    "spine injury",
+    "rods and screws in L5-S1",
+    "pending surgery for L3-L5",
+    "severe pain and mobility issues"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 98,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cagri",
+      "name_normalized": "cagri",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 27 pounds over 14 weeks (~2 lbs/week), currently experiencing a stall of ~4 weeks with no loss",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite is definitely down; not snacking, not overeating",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "A LOT of nausea when stacking with Cagri",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Tracking calories at 1400/day via MyFitnessPal. Focus on protein with carbs allowed within calorie limit. Started at 2.5mg with no weight loss in first month (not counted in the 14 weeks). Planning to increase to 10mg after finishing current vial. Tried stacking with Cagri briefly but discontinued due to nausea and no additional weight loss. Has approximately 100 lbs total to lose. Walking limited to 15-20 minutes before severe pain. 10 lb weight limit.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.269897Z"
+}

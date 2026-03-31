@@ -1,0 +1,38 @@
+{
+  "id": "4dc745df-c996-4a54-b648-786ffcec4b53",
+  "source_id": "1rvaquf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvaquf/timing_question/",
+  "author_hash": "e6a4e31bdd58c4846d1a2d8c17e890614a36c1b515ff455ff8f5df28478fc901",
+  "confidence_tier": 5,
+  "date_published": "2026-03-16T07:19:38-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "frequency": "morning fasted",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin/Ipamorelin blend",
+      "name_normalized": "tesamorelinipamorelin_blend",
+      "category": "other",
+      "frequency": "before bed",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Terrible recovery score on Whoop and poor sleep on training days; sleep and recovery dramatically improve on days off",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "OP is new to peptides. Suspects timing of the Tesamorelin/Ipamorelin blend before bed is negatively impacting sleep/recovery. Asking whether shifting the dose a few hours earlier would still be effective. Uses Whoop device to track recovery and sleep.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.107787Z"
+}

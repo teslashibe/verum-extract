@@ -1,0 +1,41 @@
+{
+  "id": "f472f4cf-bc0c-41a6-94cb-17a0de92a31e",
+  "source_id": "1rayuvi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rayuvi/look_for_libido_boost_help/",
+  "author_hash": "1ca36f80b6644cc853bed48a37474ad072f1f199e54bf0617197cd2b9a710215",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T10:39:16-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Bad acid reflux at standard 1mg dose, persisted when reduced to 0.5mg",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Started at standard dose of 1mg PT-141, reduced to 0.5mg but acid reflux persisted. Unable to tolerate PT-141 due to stomach issues.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661588Z"
+}

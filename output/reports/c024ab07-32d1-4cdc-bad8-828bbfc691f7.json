@@ -1,0 +1,39 @@
+{
+  "id": "c024ab07-32d1-4cdc-bad8-828bbfc691f7",
+  "source_id": "1no1qt3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1no1qt3/what_are_truly_the_best_antiaging_peptides_for/",
+  "author_hash": "86d3237526a6ba160b0f26377311b6509a2c0527daf17214444c5065dbc7ce34",
+  "confidence_tier": 4,
+  "date_published": "2025-09-22T16:19:02-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 150,
+      "dose_unit": "mg",
+      "frequency": "three times per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "Added glutathione; strong positive effect described as 'that shit slaps'",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "NAD+ 150mg three times per week plus Glutathione. Cleaned up sleep routine prior to starting compounds.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.681096Z"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "e903c72a-29fb-4ef4-81b5-4dde8d57ebd4",
+  "source_id": "o4xqfn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/o4xqfn/started_bpc_yesterday/",
+  "author_hash": "b84c007af5928bdfad638219c56632d599ae575f9010053b5a793c65eded44ea",
+  "confidence_tier": 4,
+  "date_published": "2021-06-21T08:28:37-07:00",
+  "health_conditions": [
+    "bulging disc",
+    "thoracic pain",
+    "tight mid and lower traps"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 20,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Improved thoracic mobility after two doses",
+      "severity": "moderate",
+      "onset_days": 1
+    },
+    {
+      "category": "inflammation",
+      "description": "Anti-inflammatory effects noted",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Pinning near the area of injury. Pain still present but mobility improved significantly.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.131169Z"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "1b9ed902-66f6-4382-b1ce-d383a3d5398f",
+  "source_id": "1p0i2wh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p0i2wh/help_me_design_my_stack/",
+  "author_hash": "58e4e54639188c2014396ae9659f46d1f677fd9aa770ae72672293a92c6895a3",
+  "confidence_tier": 4,
+  "date_published": "2025-11-18T09:27:48-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 193,
+    "unit": "lbs"
+  },
+  "training_status": "Lifting 4-6x/week for ~6 months on trainer-designed program, mostly cardio in 30s",
+  "health_conditions": [
+    "ADHD",
+    "history of dramatic weight fluctuations",
+    "skin tightening surgery",
+    "sobriety (7 years)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TRT test cypionate",
+      "name_normalized": "trt_test_cypionate",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 180,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "frequency": "3-4x/week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 30,
+      "frequency": "4x/week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tadalafil",
+      "name_normalized": "tadalafil",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "General health and sobriety maintenance; historically slow muscle gain, seeking improvement"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Conscious of needing to eat to add muscle; portion control is an issue",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "55-year-old male, 32/33 inch waist, body fat mid-20s. Goals: add muscle (arms, pecs, glutes, quads), reduce BF to mid-teens. Previously on Wegovy, stopped July for colonoscopy. Plans to start retatrutide at ~2-3mg/week. Takes creatine, fat-soluble vitamin C, zinc, CoQ10, alpha GPC, methylene blue, plans to start phenylpiracetam. Protein intake ~1g/lb bodyweight. Note: NAD+ dose listed as '100 ml' and Sermorelin as '30 ml' — likely dose units are incorrect (probably mcg or mg), flagged by another commenter.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.264328Z"
+}

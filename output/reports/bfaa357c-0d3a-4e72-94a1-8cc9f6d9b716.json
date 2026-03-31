@@ -1,0 +1,42 @@
+{
+  "id": "bfaa357c-0d3a-4e72-94a1-8cc9f6d9b716",
+  "source_id": "1r5rk32",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r5rk32/bpc157_first_timer/",
+  "author_hash": "de5aabd40371267ee5a317fd687697b4ffc0f51a5cd9db4b66d467597b0a8252",
+  "confidence_tier": 4,
+  "date_published": "2026-02-15T14:06:12-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "cycle_length_days": 49,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_pressure",
+      "description": "Dropped blood pressure in father; required discontinuation of blood pressure medications for several days to a week",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started at 0.25mg daily split AM/PM. After 1 month increased to 0.5mg split. Reached 1mg daily. Recommends 7-week cycles followed by 1-month off period. Reports no blood pressure effect on self but significant effect on father. Same injection site used throughout (shoulder area).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.675989Z"
+}

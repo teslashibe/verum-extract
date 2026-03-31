@@ -1,0 +1,42 @@
+{
+  "id": "fb93898c-6ae7-4674-883f-4be74c0b7542",
+  "source_id": "1rgcopl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rgcopl/peptide_for_alopecia_thymosin_alpha_1_as_an/",
+  "author_hash": "a3b4f00447f9bade18e9036952357d39f97ae8384d6545fd7aaec492ca804e55",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T09:15:17-08:00",
+  "health_conditions": [
+    "Long COVID",
+    "hair loss"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "cycle_length_days": 12,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Hair growing back, thicker hair all over, receding hairline spots growing back with baby hairs",
+      "severity": "moderate",
+      "onset_days": 12
+    }
+  ],
+  "protocol_notes": "User has Long COVID-related hair loss. Started KPV before TA1. Both peptides used in combination.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.671244Z"
+}

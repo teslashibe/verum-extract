@@ -1,0 +1,109 @@
+{
+  "id": "e06db9bf-b772-4654-bf6b-13fd78aecfe6",
+  "source_id": "1s1342s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1342s/protocol_feedback/",
+  "author_hash": "1b9bbfcb72e935329824301ef769c2964f8912c92efbf428f753e863d26153d4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-22T18:10:46-07:00",
+  "reported_sex": "male",
+  "training_status": "actively training",
+  "health_conditions": [
+    "past injuries"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "BPC-157 + TB-500 combo is great at healing stubborn injuries and amazing for gym/sports recovery",
+      "severity": "significant"
+    },
+    {
+      "category": "joint_pain",
+      "description": "GHK-Cu is great for joints, skin, hair, and nails",
+      "severity": "moderate"
+    },
+    {
+      "category": "inflammation",
+      "description": "KPV is great for anti-inflammatory aspects and makes the GHK-Cu sting less",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost 6cm off waist circumference without losing any scale weight from Tesamorelin + training",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "MOTS-C for increased energy levels and improved training output",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Glutathione injections burn and aren't nice",
+      "severity": "moderate"
+    },
+    {
+      "category": "skin_reaction",
+      "description": "GHK-Cu stings",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "waist circumference",
+      "unit": "cm"
+    }
+  ],
+  "protocol_notes": "Commenter's personal protocol recommendation. Describes KLOW stack (BPC-157 + TB-500 + GHK-Cu + KPV) as default 'go to'. Notes Tesamorelin is strongest endogenous GHRH available. Prefers Tirzepatide over Retatrutide for sustainability. NAD and Glutathione described as 'insurance policies at best' with minimal direct benefit.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.659556Z"
+}

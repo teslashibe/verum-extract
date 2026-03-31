@@ -1,0 +1,49 @@
+{
+  "id": "418d011e-ce52-4eb1-9b93-73900a324550",
+  "source_id": "pikmpm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/pikmpm/thymosin_alpha_1/",
+  "author_hash": "086625067351b8354fe2c533db85cbba3c4669c487daeef7243b00dc7dc169fb",
+  "confidence_tier": 5,
+  "date_published": "2021-09-05T13:26:20-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "ear infection"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "thymosin alpha 1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "every evening",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "immune",
+      "description": "Thinks TA1 may be helping clear an ear infection after 4 days at 1mg daily",
+      "severity": "mild",
+      "onset_days": 4
+    }
+  ],
+  "protocol_notes": "Taking sermorelin 2mg mixed with 2ml water, injecting 0.3ml per evening for anti-aging. Taking TA1 1mg daily for 4 days for immunity/ear infection. Self-described as a complete novice to injection/reconstitution.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.428959Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "b84e8ad1-3feb-4303-8a16-388c421ac6f4",
+  "source_id": "1r2afsa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2afsa/explain_to_me_like_im_5_years_old/",
+  "author_hash": "80a83c5da69da25aa7faefb4cbe4bc6c6ed9a450fe6e0558f4036e79ba92f2cb",
+  "confidence_tier": 4,
+  "date_published": "2026-02-11T13:36:50-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "peptide (implied CJC-1295/Ipamorelin context)",
+      "name_normalized": "peptide_implied_cjc_1295ipamorelin_context",
+      "category": "other",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "once in AM fasted",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "peptide (implied CJC-1295/Ipamorelin context)",
+      "name_normalized": "peptide_implied_cjc_1295ipamorelin_context",
+      "category": "other",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "once before bed fasted",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Improved sleep reported almost immediately",
+      "severity": "mild",
+      "onset_days": 1
+    },
+    {
+      "category": "fat_loss",
+      "description": "Body recomposition takes more than a month to start seeing results",
+      "onset_days": 30
+    }
+  ],
+  "protocol_notes": "Doses 100mcg fasted in AM and 150mcg fasted before bed. Notes that results for body recomp take over a month, but sleep improvements are almost immediate.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.118969Z"
+}

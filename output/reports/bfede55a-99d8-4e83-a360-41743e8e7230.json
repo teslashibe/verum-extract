@@ -1,0 +1,40 @@
+{
+  "id": "bfede55a-99d8-4e83-a360-41743e8e7230",
+  "source_id": "1qq7ov7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qq7ov7/has_anyone_who_has_experienced_heartburn_while/",
+  "author_hash": "f71d25c19afa41585d1401262ee880bc224ba0b8365c130fde8b0c7514a39815",
+  "confidence_tier": 5,
+  "date_published": "2026-01-29T04:50:16-08:00",
+  "health_conditions": [
+    "acid reflux"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Acid reflux worsened by Retatrutide",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Uses omeprazole to control acid reflux caused by Retatrutide",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669479Z"
+}

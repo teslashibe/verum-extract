@@ -1,0 +1,33 @@
+{
+  "id": "0637460c-68f6-440a-9897-d63fc2e4d4ff",
+  "source_id": "1rzbaf0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzbaf0/pain_when_injected/",
+  "author_hash": "3ca1e389b1e3170407849db974d282c72e1586aca67930daf2a13a114a953fc9",
+  "confidence_tier": 5,
+  "date_published": "2026-03-20T16:06:18-07:00",
+  "training_status": "lean, ~13% bodyfat",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ghk",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Sharp pain upon needle insertion and bleeding when needle was withdrawn; likely nicked a small blood vessel or nerve",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "OP injects GHK-Cu subcutaneously in the abdominal region at approximately 30-35 degree angle. Reports being lean (~13% bodyfat). Experienced a one-off injection incident with sharp pain and bleeding, likely due to nicking a blood vessel or nerve ending.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106173Z"
+}

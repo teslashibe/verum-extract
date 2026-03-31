@@ -1,0 +1,43 @@
+{
+  "id": "6e65d3d1-fbe8-4c68-bf4d-802b9c6e8533",
+  "source_id": "1rqea54",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rqea54/allergic_reaction_all_of_a_sudden/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T17:08:56-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Histamine reaction with huge welts on previous injection sites, itching on hands feet and face, watery eyes",
+      "severity": "significant"
+    },
+    {
+      "category": "skin_reaction",
+      "description": "Welts localized to previous injection sites on buttocks and stomach",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User has been cycling MOTS-c from same source for over a year with no prior issues. Reaction occurred when taking MOTS-c with NAD+. Reaction repeated when retrying MOTS-c alone. Welts appeared only on previous injection sites (buttocks and stomach).",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.653737Z"
+}

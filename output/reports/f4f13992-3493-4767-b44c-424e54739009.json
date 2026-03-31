@@ -1,0 +1,44 @@
+{
+  "id": "f4f13992-3493-4767-b44c-424e54739009",
+  "source_id": "1r787u9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r787u9/before_you_buy/",
+  "author_hash": "ff6e033126888841332d31b9cb4af337f87c014cff79db03671b31134b09ba47",
+  "confidence_tier": 4,
+  "date_published": "2026-02-17T06:58:24-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Amphetamine",
+      "name_normalized": "amphetamine",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Combined with Adderall, cannot eat more than maintenance calories without nausea; wakes at 5am but does not eat until 1pm",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Throwing up if attempting to eat more than maintenance calories",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Using Tirzepatide with concurrent Adderall use",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.675195Z"
+}

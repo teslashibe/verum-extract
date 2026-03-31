@@ -1,0 +1,65 @@
+{
+  "id": "778cb62a-d6ff-40d8-9c28-d29ee120e00e",
+  "source_id": "1rusiw3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rusiw3/reta_or_tesa_to_get_rid_of_stubborn_abdominal_and/",
+  "author_hash": "1b9bbfcb72e935329824301ef769c2964f8912c92efbf428f753e863d26153d4",
+  "confidence_tier": 3,
+  "date_published": "2026-03-15T15:54:33-07:00",
+  "reported_weight": {
+    "value": 83,
+    "unit": "kg"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "nightly, fasted, 7 days a week",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 6cm of waist circumference (100cm to 94cm) without losing scale weight; attributed to subcutaneous abdominal fat loss replaced by lean mass",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Scale weight unchanged at 83kg despite 6cm waist reduction, suggesting lean mass gain (muscle, water, glycogen)",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "visceral fat mass",
+      "value_before": 520,
+      "unit": "g"
+    },
+    {
+      "marker_name": "waist circumference",
+      "value_before": 100,
+      "value_after": 94,
+      "unit": "cm",
+      "timeframe_days": 42
+    },
+    {
+      "marker_name": "body weight",
+      "value_before": 83,
+      "value_after": 83,
+      "unit": "kg",
+      "timeframe_days": 42
+    }
+  ],
+  "protocol_notes": "Had DEXA scan before starting; baseline visceral fat was already reasonably low at 520g. Arm, leg, chest, and hip measurements remained the same or very similar. Protocol was fasted nightly injections.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.9,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.107993Z"
+}

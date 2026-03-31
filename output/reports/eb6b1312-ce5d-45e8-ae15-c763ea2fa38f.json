@@ -1,0 +1,57 @@
+{
+  "id": "eb6b1312-ce5d-45e8-ae15-c763ea2fa38f",
+  "source_id": "1s2o6ub",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s2o6ub/ghkcu_100mg/",
+  "author_hash": "b7ee1e5d156135bbb5ffc63cf6384abd344d583afa549a43849731707a40ece7",
+  "confidence_tier": 4,
+  "date_published": "2026-03-24T12:43:37-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "per injection",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "per injection",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "per injection",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "per injection",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Using a pre-mixed blend (KLOW) containing 80mg total: 50mg GHK-Cu, 10mg BPC-157, 10mg TB-500, 10mg KPV. Each injection delivers the specified doses by reconstituting with appropriate bacteriostatic water to achieve desired mg/mL concentration.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.647348Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "48ecfee0-a7e9-4985-8d85-54bbf89a6a9d",
+  "source_id": "ba2ard",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/ba2ard/ukpeptides_thymosinbeta4_lab_results/",
+  "author_hash": "85165965e51be9428e24b00d1af95aec5d1132546512504e85e5d5b906a801ea",
+  "confidence_tier": 3,
+  "date_published": "2019-04-06T01:25:55-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "TB-500 content by HPLC/DAD",
+      "value_after": 1.05,
+      "unit": "mg"
+    },
+    {
+      "marker_name": "TB-500 purity by HPLC/DAD",
+      "value_after": 98,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Purchased 2mg vial from UK-PEPTIDES vendor. Independent HPLC/DAD testing revealed vial contained 1.05mg of active TB-500 (approximately 52.5% of advertised dose). Purity was high at 98%+. Testing performed by third-party lab using comparison to 4.55mg known standard sample. Vendor claims to perform in-house HPLC and Mass Spectrometry testing but did not respond to inquiry about discrepancy. Vendor previously had Eroids score reset to zero for paying for fake reviews.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.95,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.703765Z"
+}

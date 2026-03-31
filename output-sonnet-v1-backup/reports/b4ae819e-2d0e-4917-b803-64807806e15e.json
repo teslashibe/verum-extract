@@ -1,0 +1,87 @@
+{
+  "id": "b4ae819e-2d0e-4917-b803-64807806e15e",
+  "source_id": "1ruhwqb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ruhwqb/bpc_157_awful_fatigue/",
+  "author_hash": "744d0715b78c8f73b696fa4c40a1c38d4cee2ae4bc021616c819843e5d0fbb59",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T09:05:29-07:00",
+  "health_conditions": [
+    "MCAS",
+    "gut issues",
+    "fatigue"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC 157 250 mcg delayed",
+      "name_normalized": "bpc_157_250_mcg_delayed",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "twice daily",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "twice daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC 157 delayed",
+      "name_normalized": "bpc_157_delayed",
+      "category": "other",
+      "route": "oral",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Bone deep level of fatigue, zero energy or motivation, can barely drag herself/himself out of bed",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "headache",
+      "description": "Headache during BPC 157 + KPV phase"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Insane dreams during BPC 157 + KPV phase"
+    },
+    {
+      "category": "mood_change",
+      "description": "Zero motivation",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "other",
+      "description": "Brain fog",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Protocol prescribed by a naturopathic doctor (ND). First phase: BPC 157 250mcg delayed release twice daily for ~6 months for gut issues while managing MCAS-related fatigue. Second phase: switched to BPC 157 + KPV stack for ~2 months, which caused headache, insane dreams, and zero energy. Third phase (~1 week at time of post): switched back to BPC 157 delayed release alone, experiencing severe fatigue and brain fog.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.108186Z"
+}

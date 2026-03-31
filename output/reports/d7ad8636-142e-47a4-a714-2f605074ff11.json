@@ -1,0 +1,80 @@
+{
+  "id": "d7ad8636-142e-47a4-a714-2f605074ff11",
+  "source_id": "1q5mh9i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q5mh9i/horrible_skin_from_klow/",
+  "author_hash": "3185d2fcf1d63762e7ae9a90c9ff3ce7ac1551b7c1e540f923089130696ee163",
+  "confidence_tier": 4,
+  "date_published": "2026-01-06T08:00:12-08:00",
+  "reported_age_range": "40-49",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "12 units per injection",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "12 units per injection",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "12 units per injection",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "12 units per injection",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Skin improved significantly after pushing through initial purge phase; described as 'never looked better'",
+      "severity": "significant",
+      "onset_days": 42
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Severe dryness and flakiness, cystic acne (never had before)",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 42
+    }
+  ],
+  "protocol_notes": "KLOW brand pre-mixed blend (80 mg vial total). Reconstituted with 3 mL BAC water, dosed 12 units per injection. Initially stopped at 4 weeks, then resumed and continued. Later did additional full cycle of GHK-Cu alone. Skin purging resolved after exfoliating every other day with chemical peel pads.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.671701Z"
+}

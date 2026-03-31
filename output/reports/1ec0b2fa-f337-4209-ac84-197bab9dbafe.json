@@ -1,0 +1,65 @@
+{
+  "id": "1ec0b2fa-f337-4209-ac84-197bab9dbafe",
+  "source_id": "o4xqfn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/o4xqfn/started_bpc_yesterday/",
+  "author_hash": "400057fb0cfea2f9905c1ffb63acb55831227f1e3f905b79d08a1e90dd29b0b3",
+  "confidence_tier": 4,
+  "date_published": "2021-06-21T08:28:37-07:00",
+  "training_status": "out of gym/sports for 5 months due to injury",
+  "health_conditions": [
+    "tennis elbow",
+    "golf elbow"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 7,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Recovery from tennis elbow and golf elbow - able to return to gentle lifting after 5 months out",
+      "severity": "significant",
+      "onset_days": 35
+    },
+    {
+      "category": "pain_relief",
+      "description": "No longer unable to wipe face or open doors without pain",
+      "severity": "significant",
+      "onset_days": 35
+    }
+  ],
+  "protocol_notes": "Started with oral BPC-157 250mcg morning and night. Switched to injected (subcutaneous) BPC-157 400mcg morning and night after initial period. Combined with TB-500 7mg weekly. 5 weeks total into protocol. 3 days back into gentle lifting routine.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.702881Z"
+}

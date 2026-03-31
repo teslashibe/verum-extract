@@ -1,0 +1,36 @@
+{
+  "id": "9a62cfca-aefb-45cf-aaa9-de139bd9a8a0",
+  "source_id": "1rf2esd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rf2esd/can_ghkcu_make_you_sick/",
+  "author_hash": "8e241df9b15fadd57f91257f03eb5d0a9992b78333aa9c0c0190fac48e5f9f95",
+  "confidence_tier": 4,
+  "date_published": "2026-02-25T22:06:53-08:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "cycle_length_days": 11,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Runny nose, sore throat, lungs/chest feeling off",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Reconstituted 100mg GHK-CU with 3ml BAC water, dosing 2mg (6 units). Injected before sleep every night. Sister and coworkers were also sick around the same time, suggesting possible coincidental viral illness.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114641Z"
+}

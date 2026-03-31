@@ -1,0 +1,74 @@
+{
+  "id": "98f59b55-f12e-41a7-9380-a2da9445b684",
+  "source_id": "1agr41t",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1agr41t/bad_reaction_to_ipamorelincjc1295/",
+  "author_hash": "a9e4aa573cbe7ca86fdb0f68a421e23c6fb96b5dd06f5d26158f9b8f8874430f",
+  "confidence_tier": 4,
+  "date_published": "2024-02-01T17:02:40-08:00",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "extreme allergic reaction including increased heart rate, swelling, flushed skin, dizziness, and GI issues",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "cardiac",
+      "description": "increased heart rate",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "skin_reaction",
+      "description": "swelling, flushed skin",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "dizziness",
+      "description": "dizziness",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "GI issues",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Dose was 0.3 ml of a 5 mg / 2 ml mix (0.75 mg total). Took Claritin and reaction resolved. Incident occurred last week.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.699131Z"
+}

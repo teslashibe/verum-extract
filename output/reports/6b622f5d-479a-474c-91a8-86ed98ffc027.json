@@ -1,0 +1,52 @@
+{
+  "id": "6b622f5d-479a-474c-91a8-86ed98ffc027",
+  "source_id": "1s3iwcr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3iwcr/best_stack_combo_for_weightloss/",
+  "author_hash": "ba1c5ea822532142289b001ebca2e11b8589d32916d90807c7bb3d6b9329cc0f",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T11:25:24-07:00",
+  "training_status": "training hard at the gym",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "lost 20 pounds this month and 4 inches",
+      "severity": "significant",
+      "onset_days": 30
+    },
+    {
+      "category": "muscle_gain",
+      "description": "seeing huge gains at the gym",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "In calorie deficit and training hard. Using Retatrutide 3mg, CJC-1295 + Ipamorelin stack.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.647081Z"
+}

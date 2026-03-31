@@ -1,0 +1,96 @@
+{
+  "id": "2e2decda-97a9-4892-b5a7-d7d9cfb5ca4f",
+  "source_id": "1rsgi97",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rsgi97/going_to_start_with_cjc_ipa/",
+  "author_hash": "204be1da619e6e7a558d4468be3c19111c607aba5f140d371dd9bfb42d30cd56",
+  "confidence_tier": 4,
+  "date_published": "2026-03-13T00:11:50-07:00",
+  "training_status": "high activity (does a lot of sport)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Wolverine",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Looking for faster recovery"
+    },
+    {
+      "category": "sleep",
+      "description": "Looking for good rest"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Looking to get lean"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "At 1.5 mg retatrutide dose, felt very bad and ill for a week",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "User is a high responder to retatrutide. Starting CJC-1295 no DAC with ipamorelin. Considering reducing CJC dose due to potential side effects. Currently using retatrutide 1 mg/week for 2 months with good response.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.664684Z"
+}

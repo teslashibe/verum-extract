@@ -1,0 +1,93 @@
+{
+  "id": "73701900-4ef1-45ff-b72d-07aa8f490638",
+  "source_id": "1rsgi97",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rsgi97/going_to_start_with_cjc_ipa/",
+  "author_hash": "204be1da619e6e7a558d4468be3c19111c607aba5f140d371dd9bfb42d30cd56",
+  "confidence_tier": 4,
+  "date_published": "2026-03-13T00:11:50-07:00",
+  "training_status": "active, does a lot of sport",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC no dac",
+      "name_normalized": "cjc_no_dac",
+      "category": "other",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "5 days on 2 off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "5 days on 2 off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "wolverine",
+      "name_normalized": "wolverine",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "looking for faster recovery"
+    },
+    {
+      "category": "sleep",
+      "description": "looking for good rest"
+    },
+    {
+      "category": "fat_loss",
+      "description": "looking to get lean"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Felt very bad and ill for a week when increasing reta to 1.5 mg",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "High responder to reta; stable at 1 mg/week for 2 months. Planning to possibly lower CJC dose depending on response. Considering 5 days on, 2 days off schedule for CJC+Ipa.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109063Z"
+}

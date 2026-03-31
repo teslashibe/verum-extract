@@ -1,0 +1,35 @@
+{
+  "id": "77b246b4-dd12-4e32-8bb7-d4326e6f3089",
+  "source_id": "1s6eydv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6eydv/mixing_peptides_in_sterile_vial/",
+  "author_hash": "ae58274e7ebaf6a63953e9062bc169c2548083d849345b06ec3151c0bc698e47",
+  "confidence_tier": 4,
+  "date_published": "2026-03-28T16:09:22-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Mixed GHK-Cu (50mg vial) and KPV (1ml of 10mg drawn) in single vial with 3ml BAC water. Practice of combining peptides in sterile vials.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.645635Z"
+}

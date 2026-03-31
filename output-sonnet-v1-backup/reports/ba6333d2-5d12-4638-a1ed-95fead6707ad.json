@@ -1,0 +1,141 @@
+{
+  "id": "ba6333d2-5d12-4638-a1ed-95fead6707ad",
+  "source_id": "1addn5u",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1addn5u/my_experience_with_peptides_for_fitness_and/",
+  "author_hash": "b2081daed7cc8e36ec9c07cae42b4277946872e4b403a18daf54451d5048b433",
+  "confidence_tier": 4,
+  "date_published": "2024-01-28T13:28:26-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "reported_weight": {
+    "value": 235,
+    "unit": "lbs"
+  },
+  "training_status": "Active in sports (skateboarding, basketball, martial arts); regular gym training",
+  "health_conditions": [
+    "chronic neck pain",
+    "chronic shoulder pain",
+    "chronic knee pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC/TB-500 blend",
+      "name_normalized": "bpctb_500_blend",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "daily, 5 days on 2 days off, at 10pm before bed",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC/IPA blend",
+      "name_normalized": "cjcipa_blend",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "twice daily (morning fasted, and ~3:30pm pre-workout)",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mcg",
+      "frequency": "nightly 5 days on 2 days off (Sun-Thu), 3 hours before sleep; loaded at 100mcg/night for first 2 weeks",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Kisspeptin",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "route": "subcutaneous",
+      "frequency": "nightly at 10pm before bed",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "5 days a week",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Chronic neck, shoulder, and knee pain significantly reduced; felt like 17 again in terms of knee pain",
+      "severity": "significant",
+      "onset_days": 30
+    },
+    {
+      "category": "recovery",
+      "description": "Eradicated most workout-related pains, allowed training harder and more effectively",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "30lb gain in muscle mass with minimal fat during bulking phase on CJC/IPA stack",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "DSIP significantly improved sleep quality; woke up feeling refreshed and rested",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Slight subjective improvements in aggression from Kisspeptin",
+      "severity": "mild"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Dropped 25lbs in 2 months using Tirzepatide during cut cycle, hit goal weight",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "CJC/IPA significantly increased appetite, making balanced diet challenging",
+      "severity": "moderate"
+    },
+    {
+      "category": "injection_site",
+      "description": "Multiple daily injections caused visible bruising and small dots on stomach area",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_before": 428,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "Used pre-blended BPC/TB and CJC/IPA vials for cost and convenience. Pinned different peptides at different times: CJC/IPA first thing in the morning fasted, DSIP at 7pm, BPC/TB \u0026 Kisspeptin at 10pm before bed. DSIP load phase: 100mcg/night for 2 weeks, then dropped to 50mcg. Cut cycle planned for March-May with Tirzepatide then AOD9604. Supplements included vitamin D, C, B12, elderberries, fish oil, pre-workout with creatine. Ordered from Peptide Sciences. Documented full protocol in Google Docs including BAC water reconstitution, dosing, timing, and pricing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.295282Z"
+}

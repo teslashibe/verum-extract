@@ -1,0 +1,51 @@
+{
+  "id": "ac592132-251a-4d76-af71-eece541a143d",
+  "source_id": "1ru9j9d",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ru9j9d/tesa_vs_cjcipa/",
+  "author_hash": "b84f49c85717ea18260e642e7c382613891df33f1ad838364202c6b5151dfdd4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T02:18:19-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Tirzepatide suppresses appetite",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Ipamorelin helps with protein intake when appetite is non-existent",
+      "severity": "moderate",
+      "onset_days": 20
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Ipamorelin makes ravenously hungry about 20 minutes after injection",
+      "severity": "significant",
+      "onset_days": 20,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "User reports Ipamorelin triggers ghrelin receptor and causes significant hunger spike. User has naturally low appetite and utilizes this hunger window to consume more protein. Tirzepatide is noted as stronger appetite suppressant than CJC.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.651863Z"
+}

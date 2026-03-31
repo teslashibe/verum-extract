@@ -1,0 +1,43 @@
+{
+  "id": "c0f35139-a0d9-405e-9a42-56d83b784a3c",
+  "source_id": "1rdje5x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdje5x/overdose_of_ipamorelin_cjc1295/",
+  "author_hash": "4901501e8bca393b8b2ea85260680e40f9a1be654aca8f818284555654e5674e",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T07:33:53-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 125,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and before bed)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 125,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and before bed)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Describes synergistic effects of dosing twice daily; notes nighttime injection may be more important; has experience comparing batches from multiple suppliers"
+    }
+  ],
+  "protocol_notes": "Recommends 100-150mcg of each compound twice daily (morning as pre-workout and before bed). Mixes both peptides in the same syringe. Advises 30 min fasting before morning dose, 1-2 hours before bed dose. Notes inconsistent results often stem from batch purity issues rather than complete product failure. Recommends suppliers with COA/Janoshik reports per batch.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.115363Z"
+}

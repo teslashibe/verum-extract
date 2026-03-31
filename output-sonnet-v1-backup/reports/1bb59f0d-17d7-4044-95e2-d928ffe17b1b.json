@@ -1,0 +1,85 @@
+{
+  "id": "1bb59f0d-17d7-4044-95e2-d928ffe17b1b",
+  "source_id": "1nsptr0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nsptr0/reta_interval_walking_lifestyle_change_works/",
+  "author_hash": "ec6004326573916c766ea1ac1d88a4c984422c3edbefef19b7b82b256c7793b5",
+  "confidence_tier": 3,
+  "date_published": "2025-09-28T07:32:23-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 173,
+    "unit": "lbs"
+  },
+  "training_status": "beginner/recreational — interval walking 6 days/week, starting kettlebell and bodyweight work",
+  "health_conditions": [
+    "elevated cholesterol"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "weekly (implied)",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "5 days on, 2 off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "5 days on, 2 off",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 30 lbs (173 to 143 lbs) in approximately 2 months",
+      "severity": "significant",
+      "onset_days": 30
+    },
+    {
+      "category": "energy",
+      "description": "Feels more energized than ever",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Got a handle on appetite and food intake without strict dieting",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Feels stronger and healthier, more confident",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C"
+    },
+    {
+      "marker_name": "Cholesterol"
+    }
+  ],
+  "protocol_notes": "Started Reta at 0.5 mg for 1 month, ramped to 1 mg until mid-September, then reduced back to 0.5 mg. Combined with interval walking (3 min fast / 3 min slow, ~10,000 steps/day, 6 days/week). Cheat meal once a week. Added ipamorelin and tesamorelin (ipa and tesa) 5 days on / 2 off after initial weight loss phase. Kaiser PCP refused TRT prescription. First month was mostly water weight loss per OP. No prior peptide or pinning experience.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.269755Z"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "cdbdbc10-167f-46a2-a01f-60325847a5ea",
+  "source_id": "1rmquwa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmquwa/36_days_in/",
+  "author_hash": "898129b0e8a84e4f09c875b7c307442327f6c593d45a8abae5233416c8865f4b",
+  "confidence_tier": 4,
+  "date_published": "2026-03-06T13:32:36-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 192,
+    "unit": "lbs"
+  },
+  "training_status": "works 12 hrs a day on drill line",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "units",
+      "frequency": "weekly",
+      "cycle_length_days": 36,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "dose_value": 15,
+      "dose_unit": "units",
+      "frequency": "daily, 5 days a week",
+      "cycle_length_days": 36,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "frequency": "daily",
+      "cycle_length_days": 36,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 28 lbs in 36 days (192 to 164 lbs); attributed to peptide stack, quitting alcohol, 12-hour daily physical work, one meal a day, and high protein intake",
+      "severity": "significant",
+      "onset_days": 36
+    }
+  ],
+  "protocol_notes": "Started February 2nd. Stack consisted of Retatrutide (20 units/week), KLOW (15 units/day, 5 days/week), and NAD+ (daily). Also quit alcohol, works physically demanding job, eating OMAD (one meal a day), high protein intake, plenty of water. Height: 5'8\".",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.65606Z"
+}

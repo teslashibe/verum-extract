@@ -1,0 +1,80 @@
+{
+  "id": "e776c12f-6916-44b1-b68d-50d7f7265646",
+  "source_id": "1n2ytoq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n2ytoq/i_went_to_the_er_tonight_bpc157_side_effects/",
+  "author_hash": "bf3a96cf67d10ef841b468d5d95e1fd0d23d92b16009b59fe74088e653dd24cc",
+  "confidence_tier": 4,
+  "date_published": "2025-08-28T22:19:28-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 150,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "IBS",
+    "history of preeclampsia",
+    "CRIS",
+    "POTS",
+    "long covid",
+    "CFS",
+    "celiac"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Building fatigue over several days",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "nausea",
+      "description": "Nausea building over several days",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "headache",
+      "description": "Horrible migraine",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "blood_pressure",
+      "description": "BP elevated to 170/98 at home, 170/110 at ER; treated with clonidine; resolved to 127/80 at discharge",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "dizziness",
+      "description": "Felt like she was going to pass out",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Blood Pressure (systolic/diastolic)",
+      "unit": "mmHg"
+    }
+  ],
+  "protocol_notes": "OP is a 34-year-old female, 5'5\", 150 lbs, 6 years sober, history of preeclampsia requiring emergency c-section and magnesium drip. BP was 170/98 at home, 170/110 at ER. Treated with clonidine in ER, discharged at 127/80. Fatigue, headache, and high BP resolved upon stopping the peptide. Had an NAD+ injection approximately one week prior with no adverse effects beyond brief flushing. COVID and flu tests negative at ER. OP discontinued BPC-157 and reported feeling significantly better. ER doctor attributed symptoms to peptide and advised stopping for a few days before retrying. Prescribing doctor also suspected BPC-157. Dose was 0.5mg morning and night subcutaneously (implied by context).",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.273402Z"
+}

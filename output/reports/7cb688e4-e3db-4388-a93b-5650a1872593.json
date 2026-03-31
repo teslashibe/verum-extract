@@ -1,0 +1,39 @@
+{
+  "id": "7cb688e4-e3db-4388-a93b-5650a1872593",
+  "source_id": "1rnwbxi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rnwbxi/is_peptides_safe_to_take_while_on_vyvanse/",
+  "author_hash": "fbeb16382f77af2d9e7e746764804ea60885a7d5d8390c6cec76174a71c5e2da",
+  "confidence_tier": 4,
+  "date_published": "2026-03-07T21:27:42-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Vyvanse completely ineffective on first day after Retatrutide administration",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Found that Vyvanse effectiveness was completely compromised on the first day after Reta injection, but normalized after 24 hours. Also taking Selank and mentions using 'klow' (likely Kisspeptin or similar). No issues with other peptides.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.655684Z"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "10062d99-c180-4b88-b8e4-f9bfbe9935a2",
+  "source_id": "1mhnhxn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mhnhxn/reta_if_im_not_overweight/",
+  "author_hash": "56ff992b7cfb1e36cd0203d960bd422b3b5f96b8a949e8868ea1d48c93c42b0c",
+  "confidence_tier": 4,
+  "date_published": "2025-08-04T12:40:43-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 90,
+    "unit": "kg"
+  },
+  "training_status": "fit",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "every 4-5 days",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 3kg in first month; reduced cravings; ~25% less food intake at meals",
+      "severity": "significant",
+      "onset_days": 30
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite cut back just enough to reduce meal portion sizes",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Light tummy upset on injection day",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Age 51M, height 185cm (6'1\"); previously tried Semaglutide with more side effects (tummy upset, constipation, cramps, wind); described Reta as brilliant with minimal sides; plans to cycle off after 3 months and run Tesofensine for 6-8 weeks then return to Reta",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.685458Z"
+}

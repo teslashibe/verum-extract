@@ -1,0 +1,40 @@
+{
+  "id": "e5acca03-7478-4bd0-8054-0c8901821490",
+  "source_id": "1r6xwh6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6xwh6/does_this_look_defective_tirzpatide/",
+  "author_hash": "5f70cd83f41001ea7280b77db07081046065609fc97cdd8641af162516ef1380",
+  "confidence_tier": 5,
+  "date_published": "2026-02-16T21:49:06-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "User reconstituted 20mg tirzepatide with 1ml bac water initially, which caused cloudiness. Added another 1ml and vial cleared up. Used Amazon branded bac water. Also uses Retatrutide and Tesamorelin without reconstitution issues with same water source.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662877Z"
+}

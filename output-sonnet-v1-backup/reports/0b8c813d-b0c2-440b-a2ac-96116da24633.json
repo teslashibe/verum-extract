@@ -1,0 +1,102 @@
+{
+  "id": "0b8c813d-b0c2-440b-a2ac-96116da24633",
+  "source_id": "1qt5m91",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qt5m91/tirz_has_been_amazing_for_weight_loss_but_i_want/",
+  "author_hash": "deabb6c5456eddbd8f1b6054051986b32a06cb5065a82f138e0af2c521810e41",
+  "confidence_tier": 4,
+  "date_published": "2026-02-01T10:02:19-08:00",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "naturally low testosterone (220 ng/dL at age 41)",
+    "carpal tunnel (from tesamorelin)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mots-C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 215 pounds total",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Added a ton of muscle mass; gets comments about being jacked when clothed",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "More drive and positive attitude on TRT",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Significant increase in progressive overload capability with TRT",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Carpal tunnel from tesamorelin, had to discontinue",
+      "severity": "significant"
+    },
+    {
+      "category": "libido_change",
+      "description": "Out of control libido during first few weeks on TRT that 'borderline got me in trouble'",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Felt nothing on Mots-C",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_before": 220,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "TRT combined with tirzepatide described as a 'god send'. Low-dose GH at 2IU/day but couldn't pinpoint any benefit. Tesamorelin was working but caused carpal tunnel, had to discontinue. Mots-C felt nothing. Now considering skin removal surgery due to excess skin from weight loss. Mentions addictive personality as a downside risk with test dosing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.122437Z"
+}

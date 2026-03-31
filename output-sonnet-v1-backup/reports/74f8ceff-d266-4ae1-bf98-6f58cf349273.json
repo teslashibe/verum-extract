@@ -1,0 +1,55 @@
+{
+  "id": "74f8ceff-d266-4ae1-bf98-6f58cf349273",
+  "source_id": "1ridbfy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ridbfy/newbie_wanting_to_start_reta/",
+  "author_hash": "7eced37680c65cbaf4c17a1bd591573dd6d89ff02b38351b695af850f1e07e8a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T15:55:54-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "5 days on, few days off (cycling)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Down 40 pounds on Reta, 50 pounds total; about 15 pounds from goal",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Belt goes in 1 notch in a few days after stopping Tesa cycle; remarkably smaller",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Helped drink less alcohol",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Tesa causes a bit of water retention, which resolves when stopping Tesa",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Currently cycling Tesamorelin. Water weight comes off when Tesa cycle paused, resulting in noticeable waistline reduction.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.113225Z"
+}

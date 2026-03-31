@@ -1,0 +1,56 @@
+{
+  "id": "fa7074e0-7a7c-47e4-8439-cc545406627f",
+  "source_id": "1nyng4c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nyng4c/new_to_peptides_goal_is_fat_loss_advice_needed/",
+  "author_hash": "9e907260029dc360cf591418ed7de16d32aea3c8846015328696da9cf36f0f8c",
+  "confidence_tier": 4,
+  "date_published": "2025-10-05T05:54:25-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tesofensine",
+      "name_normalized": "tesofensine",
+      "category": "body_composition",
+      "dose_value": 0.25,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Tesofensine helps with focus"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Reta + tesofensine helps control the ipa/tesa combo"
+    }
+  ],
+  "protocol_notes": "Stack recommendation: Reta + tesamorelin + ipamorelin. Suggests adding tesofensine at 0.250 mcg to wean off Reta and help with focus. Reta at 2.5 mg and tesofensine at 0.250 mcg to control the ipa/tesa combo. Note: dose unit for tesofensine may be mg rather than mcg as stated.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.269084Z"
+}

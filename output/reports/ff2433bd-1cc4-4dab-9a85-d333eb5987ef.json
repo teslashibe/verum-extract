@@ -1,0 +1,37 @@
+{
+  "id": "ff2433bd-1cc4-4dab-9a85-d333eb5987ef",
+  "source_id": "1s4j9xn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4j9xn/ipacjc_timing/",
+  "author_hash": "7813e014e9372fd64a9d879ea42e76f272a94c8d7d22da1534ebf8f3e76e01a9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-26T13:42:32-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and before bed)",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and before bed)",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Recommends 250 mcg fasted dosing in morning and before bed.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.646493Z"
+}

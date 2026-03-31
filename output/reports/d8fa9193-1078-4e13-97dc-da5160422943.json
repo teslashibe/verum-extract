@@ -1,0 +1,62 @@
+{
+  "id": "d8fa9193-1078-4e13-97dc-da5160422943",
+  "source_id": "1rpfqrk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpfqrk/glow_stack/",
+  "author_hash": "a5eadb39ef26055637c183726b0c23b07a7d17b88bb2690cf66f8fe686d845ab",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T15:58:13-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.8,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Crazy hair growth, especially facial",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Decent skin results",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "GLOW stack. Titrated up from 2mg to 4mg GHK-Cu after one week due to lack of adverse effects. No stinging or adverse effects reported. User notes 4mg is clearing effects more than 2mg. Nails growing very fast, requiring trimming every 2-3 days.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.654331Z"
+}

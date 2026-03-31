@@ -1,0 +1,54 @@
+{
+  "id": "4f8d5fbf-2e9d-455c-8b0c-853ce10429a6",
+  "source_id": "1rryih0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rryih0/motsc_im_injection/",
+  "author_hash": "2687ed181c51bb64fc08717d78ac4de4c00644582601ed9d9f48045a1ac61745",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T11:16:00-07:00",
+  "health_conditions": [
+    "type 2 diabetes",
+    "insulin resistance"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "3 times a week",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "frequency": "3 times a week",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Blood sugar normalized with MOTS-C and reta at micro doses; reports never having had normal blood sugar since T2 diabetes diagnosis until starting this protocol",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Small red welts/bumps at SubQ injection site appearing 12-24 hours post injection, suspected histamine response",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "OP started getting injection site welts after approximately 2 weeks of SubQ injections. Planning to try diluting with more bac water and allowing syringe to warm to room temperature before injection to reduce histamine response. Mentions stacking with 'reta' at micro doses 3x/week for insulin resistance and T2 diabetes management.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109303Z"
+}

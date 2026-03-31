@@ -1,0 +1,45 @@
+{
+  "id": "12861dea-bdec-405c-895a-bf16e0824c5c",
+  "source_id": "1lysf1p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lysf1p/mild_cjcipa_allergy_turned_into_anaphylactic/",
+  "author_hash": "0b1a60c757cd2d04a67314512d171825e49fb147517a6170b7a411ed45f8265d",
+  "confidence_tier": 4,
+  "date_published": "2025-07-13T06:08:35-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "nightly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Initial mild local itching at injection site, progressed over time",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Progressed to immediate itching and swelling of hands on subsequent dose",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Tongue and throat swelling with palpitations on next dose; near-anaphylactic reaction managed with pre-taken Benadryl with 911 pre-dialed",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Self-identified RN with 30+ years experience. Took nightly Benadryl during peptide use. Had pre-taken Benadryl ~30 minutes before the severe reaction which may have helped manage the episode. Confirms proper injection technique was used.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.279299Z"
+}

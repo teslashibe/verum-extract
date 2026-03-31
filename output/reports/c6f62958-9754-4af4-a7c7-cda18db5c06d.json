@@ -1,0 +1,68 @@
+{
+  "id": "c6f62958-9754-4af4-a7c7-cda18db5c06d",
+  "source_id": "zf6a6e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/zf6a6e/hgh_has_helped_me_in_so_many_ways_sleep_quality/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2022-12-07T08:50:48-08:00",
+  "training_status": "active in gym",
+  "health_conditions": [
+    "knee pain"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "once daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep quality is better",
+      "severity": "moderate"
+    },
+    {
+      "category": "skin",
+      "description": "Skin looks so much younger",
+      "severity": "moderate"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Knee pain is gone",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Gains in gym are improving",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Fat is melting off",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Recovery time is cut in half",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Overall mood is way better",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Planning to increase to 4 IU daily in 4 weeks. Taking after fasted cardio in the morning.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.12915Z"
+}

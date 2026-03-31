@@ -1,0 +1,44 @@
+{
+  "id": "2902fdb1-9489-4f23-977a-9bf671db979a",
+  "source_id": "1rllqkl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rllqkl/anyone_get_side_effects_from_mt2_switch_to_mt1/",
+  "author_hash": "191c31d0c9f70aac255e4dd1bb600b1ac253d8a13a5257b40dd21fcfb09cfd38",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T08:15:35-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "frequency": "macro dosing",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Melanotan I",
+      "name_normalized": "melanotan_1",
+      "category": "tanning",
+      "frequency": "daily microdosing",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Tanning effect"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Nausea experienced with both MT2 and MT1, but less severe with MT1",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User switched from macro dosing MT2 to daily microdosing MT1 for tanning purposes. Reports fewer side effects with MT1 but still experiences nausea.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.668506Z"
+}

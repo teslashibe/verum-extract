@@ -1,0 +1,55 @@
+{
+  "id": "7d5ea88b-2272-4936-a056-d358adc2c6c1",
+  "source_id": "1n5qiin",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n5qiin/tesaipa_vs_hgh_cost_effectiveness_and_longterm/",
+  "author_hash": "d53a5f9faf28a7828b5721da64f7e2e35548590e643f373d22955f98128d19d1",
+  "confidence_tier": 4,
+  "date_published": "2025-09-01T07:40:54-07:00",
+  "training_status": "trained",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Beer belly flattening, visible body composition changes",
+      "severity": "moderate"
+    },
+    {
+      "category": "strength",
+      "description": "Able to hit personal records",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Improved recovery",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Improved sleep",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "bloodwork (general)"
+    }
+  ],
+  "protocol_notes": "Running 5 IU daily; reports no issues, no sides; bloodwork looks good; recommends starting at 2-3 IU and remaining there for at least 2 weeks before titrating up",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.399536Z"
+}

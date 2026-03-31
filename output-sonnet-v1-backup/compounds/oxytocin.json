@@ -1,0 +1,140 @@
+{
+  "compound_id": "oxytocin",
+  "display_name": "Oxytocin",
+  "category": "hormonal",
+  "total_reports": 26,
+  "reports_by_tier": {
+    "4": 14,
+    "5": 12
+  },
+  "top_benefits": [
+    {
+      "category": "mood",
+      "count": 7,
+      "pct": 50
+    },
+    {
+      "category": "cognitive",
+      "count": 6,
+      "pct": 42.9
+    },
+    {
+      "category": "other",
+      "count": 6,
+      "pct": 42.9
+    },
+    {
+      "category": "fat_loss",
+      "count": 3,
+      "pct": 21.4
+    },
+    {
+      "category": "energy",
+      "count": 3,
+      "pct": 21.4
+    },
+    {
+      "category": "gut_health",
+      "count": 2,
+      "pct": 14.3
+    },
+    {
+      "category": "libido",
+      "count": 2,
+      "pct": 14.3
+    },
+    {
+      "category": "sleep",
+      "count": 1,
+      "pct": 7.1
+    },
+    {
+      "category": "recovery",
+      "count": 1,
+      "pct": 7.1
+    },
+    {
+      "category": "joint_pain",
+      "count": 1,
+      "pct": 7.1
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "other",
+      "count": 7,
+      "pct": 50,
+      "avg_severity": 2.8
+    },
+    {
+      "category": "flushing",
+      "count": 3,
+      "pct": 21.4,
+      "avg_severity": 2.7
+    },
+    {
+      "category": "blood_pressure",
+      "count": 1,
+      "pct": 7.1,
+      "avg_severity": 1
+    },
+    {
+      "category": "headache",
+      "count": 1,
+      "pct": 7.1,
+      "avg_severity": 1
+    },
+    {
+      "category": "mood_change",
+      "count": 1,
+      "pct": 7.1,
+      "avg_severity": 1
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 2,
+      "unit": "mg",
+      "frequency": "",
+      "count": 1,
+      "pct": 3.8
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "selank",
+      "display_name": "Selank",
+      "report_count": 7
+    },
+    {
+      "compound_id": "semax",
+      "display_name": "Semax",
+      "report_count": 6
+    },
+    {
+      "compound_id": "pt_141",
+      "display_name": "PT141",
+      "report_count": 4
+    },
+    {
+      "compound_id": "tesamorelin",
+      "display_name": "Tesamorelin",
+      "report_count": 2
+    },
+    {
+      "compound_id": "ipamorelin",
+      "display_name": "Ipamorelin",
+      "report_count": 2
+    }
+  ],
+  "avg_sentiment_score": 0.635,
+  "sentiment_breakdown": {
+    "positive": 12,
+    "mixed": 7,
+    "negative": 3,
+    "neutral": 4
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.971385Z"
+}

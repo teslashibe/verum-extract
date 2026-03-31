@@ -1,0 +1,30 @@
+{
+  "id": "4584a702-eab3-45dc-9c03-94adeaef3bd6",
+  "source_id": "1rzjf6b",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzjf6b/retatesa/",
+  "author_hash": "04c41eb60398484ecb0b59c98c4c634a01a472fdb40b41d407054ef4b0d40e67",
+  "confidence_tier": 5,
+  "date_published": "2026-03-20T22:34:45-07:00",
+  "compounds": [
+    {
+      "name_raw": "tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_unit": "mg",
+      "frequency": "5 or 7 days a week at night",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "timeframe_days": 30
+    }
+  ],
+  "protocol_notes": "Advises 1-2mg 5 or 7 days a week at night, avoid eating 2-3 hours before taking. Recommends baseline IGF-1 and retest after a month. Not clearly personal protocol vs general advice.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106045Z"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "afa1d43f-c5ea-44d4-bdb1-c5856a2ccbad",
+  "source_id": "1mrif03",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mrif03/going_from_tirz_to_reta/",
+  "author_hash": "18aafa3fe68ee921af23ec161fe95acc297cd1329d379d42572b4d44b1fefa1a",
+  "confidence_tier": 4,
+  "date_published": "2025-08-15T19:40:45-07:00",
+  "reported_sex": "male",
+  "training_status": "bodybuilder",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "unknown",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "unknown",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Tirzepatide superior for appetite suppression and weight loss; Retatrutide useful for water retention management",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Retatrutide at equivalent dose (10mg) provides insufficient appetite suppression - 'smashing cereal at night'",
+      "severity": "moderate"
+    },
+    {
+      "category": "blood_sugar",
+      "description": "Fasting blood glucose suffered on Retatrutide",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Switched from Tirzepatide to Retatrutide and found it inferior. Currently uses low-dose Retatrutide for water management while maintaining Tirzepatide for weight loss phase. Bodybuilder perspective - prefers Tirzepatide for appetite suppression and body composition during cutting phases.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.401192Z"
+}

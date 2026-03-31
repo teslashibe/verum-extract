@@ -1,0 +1,32 @@
+{
+  "id": "d34fe00b-cd84-42dd-b62d-093c3442e8e4",
+  "source_id": "17ujerw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17ujerw/warning_massive_allergic_reaction_to_tb500/",
+  "author_hash": "d0a6562590aea83088265abd99dacf96ab3e8719a2032d90d16361ea7e293749",
+  "confidence_tier": 4,
+  "date_published": "2023-11-13T12:03:32-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 600,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Symptoms similar to OP's reaction at around 600mcg dose",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Reports that product labeled TB500 is actually TB4 (confirmed with NAPS products). Better protocol for TB4 is 100-500mcg 1x or 2x daily. At ~600mcg experiences significant symptoms like OP's. Different people react differently to compounds.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.418548Z"
+}

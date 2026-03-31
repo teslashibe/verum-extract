@@ -1,0 +1,32 @@
+{
+  "id": "40ec232d-34a8-41fd-8774-4a210e4f3b86",
+  "source_id": "1qnrkj9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qnrkj9/retatrutide/",
+  "author_hash": "d7e43e9760b56fd0adf4e4cb658b367b44c0b8c8be4d38b2dac417d08d05e048",
+  "confidence_tier": 4,
+  "date_published": "2026-01-26T12:17:10-08:00",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "vision_change",
+      "description": "Struggling to focus on text, not taking in information clearly",
+      "severity": "moderate",
+      "onset_days": 3,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Calories tracked within normal range, electrolytes supplemented. Issue resolved after addressing blood sugar levels.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.68303Z"
+}

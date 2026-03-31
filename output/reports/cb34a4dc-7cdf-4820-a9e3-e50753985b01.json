@@ -1,0 +1,79 @@
+{
+  "id": "cb34a4dc-7cdf-4820-a9e3-e50753985b01",
+  "source_id": "1p0i2wh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p0i2wh/help_me_design_my_stack/",
+  "author_hash": "58e4e54639188c2014396ae9659f46d1f677fd9aa770ae72672293a92c6895a3",
+  "confidence_tier": 4,
+  "date_published": "2025-11-18T09:27:48-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 193,
+    "unit": "lbs"
+  },
+  "training_status": "lifting 4-6 times per week, 6 months consistent training",
+  "health_conditions": [
+    "ADHD",
+    "history of weight instability",
+    "post-skin tightening surgery"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone Cypionate",
+      "name_normalized": "testosterone_cypionate",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 180,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "ml",
+      "frequency": "3-4x per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 30,
+      "dose_unit": "ml",
+      "frequency": "4x per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "goal to add muscle mass in upper arms, pecs, glutes and quads"
+    },
+    {
+      "category": "fat_loss",
+      "description": "goal to reduce body fat from mid-20s to mid-teens"
+    }
+  ],
+  "protocol_notes": "Also taking: creatine, fat soluble vitamin C, zinc, CoQ10, alpha GPC, methylene blue, about to start phenylpiracetam. Daily tadalafil 10mg Rx. Previously on Wegovy, stopped in July. Planning to start retatrutide at 2-3 mg per week. 1g protein per lb of body weight intake. Body fat currently mid-20s, waist 32-33 inches.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.393395Z"
+}

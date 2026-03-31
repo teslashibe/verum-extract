@@ -1,0 +1,43 @@
+{
+  "id": "0b3285dd-7d92-475d-bab9-c73f39834186",
+  "source_id": "1rt68tn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rt68tn/reta_anxiety_attacks/",
+  "author_hash": "6ce18c96860c317342c8c55ab3d1916164b6a215778a644d5310d6cd3b02408d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-13T18:30:56-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "Resting heart rate increased from 57 to 77 bpm",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "resting heart rate",
+      "value_before": 57,
+      "value_after": 77,
+      "unit": "bpm",
+      "timeframe_days": 42
+    }
+  ],
+  "protocol_notes": "6 weeks in, dose increased to 4mg by week 5. No anxiety attacks reported. Notes elevated resting heart rate as common side effect.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.66425Z"
+}

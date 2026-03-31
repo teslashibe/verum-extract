@@ -1,0 +1,42 @@
+{
+  "id": "b9b2732a-2575-42f0-8719-d2f5593b76a4",
+  "source_id": "1quqz3p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1quqz3p/ghrp_ghrh_recommendations_for_beginner_female/",
+  "author_hash": "d4de6cad8c9e04dd84f06261b629f25954100ed92725c60862e9e7924ba280ca",
+  "confidence_tier": 5,
+  "date_published": "2026-02-03T04:45:20-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "GHRPs can spike hunger",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Commenter advises against using GHRPs with GLPs (like semaglutide) due to appetite spike; mentions secretagogues may not increase above natural levels in late 20s; recommends HGH as more consistent option",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.25,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.680475Z"
+}

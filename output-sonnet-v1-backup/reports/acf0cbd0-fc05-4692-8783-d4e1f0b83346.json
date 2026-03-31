@@ -1,0 +1,72 @@
+{
+  "id": "acf0cbd0-fc05-4692-8783-d4e1f0b83346",
+  "source_id": "1l7e7f3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1l7e7f3/i_had_a_severe_mast_cell_reaction_to_sermorelin/",
+  "author_hash": "6b027dbc050c0f3d9cf462304fe4c52434ccaa84009936b2913c890c5fa87683",
+  "confidence_tier": 4,
+  "date_published": "2025-06-09T12:37:03-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "perimenopause",
+    "hormone pellet HRT (testosterone + estrogen)",
+    "micronized progesterone use"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "nightly, 5 days a week",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "No notable benefits described; used for body composition, recovery, and healthy aging"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Occasional mild itching at injection site during weeks 1-3; progressed to inflammation and itching at injection sites weeks 4-8; prior injection sites swelled into bumps (4 bumps on abdomen) at week 10",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Severe mast cell activation event at week 10: intense itching all over lower abdomen and back, severe abdominal and uterine cramping radiating down legs and into lower back, lasting several hours",
+      "severity": "significant",
+      "onset_days": 70,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Compounded sermorelin from a single vial used over 10 weeks (provider indicated 3-month use was safe). OP also used CJC+Ipamorelin in a prior cycle and experienced localized reactions around weeks 6-7, with visible injection site irritation by week 8, discontinuing around week 10. Currently on testosterone/estrogen pellets and micronized progesterone. Red wine consumed evening of the severe reaction. Post-reaction mast cell recovery protocol: Quercetin 500mg 2x/day, Vitamin C 1000mg/day, Magnesium glycinate, Zyrtec daily x3-5 days, low-histamine diet.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.282385Z"
+}

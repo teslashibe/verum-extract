@@ -1,0 +1,34 @@
+{
+  "id": "51e55f54-38a0-423a-aefc-b765be1284b7",
+  "source_id": "1q4vdjh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q4vdjh/reta_allergy_development_or_just_expired_product/",
+  "author_hash": "081f49a2d6a3c506f08168b2ee6bfcbb4ab0ebf059b8020aa04250a893ea1bc0",
+  "confidence_tier": 5,
+  "date_published": "2026-01-05T11:27:29-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Injection site reaction with Reta only; does not occur with other peptides; usually resolves by the next weekly injection",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Reports reaction only with Reta and not other peptides. Uses alcohol swabs before reconstitution and injection, and uses each needle only once.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.256269Z"
+}

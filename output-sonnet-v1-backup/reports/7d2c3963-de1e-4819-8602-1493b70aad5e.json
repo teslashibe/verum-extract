@@ -1,0 +1,45 @@
+{
+  "id": "7d2c3963-de1e-4819-8602-1493b70aad5e",
+  "source_id": "1o053oo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o053oo/hgh_reta_vs_tesaipa_tirz/",
+  "author_hash": "44a6146b4867840c82e8b19229cd64c11af1c9297fe50aae8f60b76e3f4353c5",
+  "confidence_tier": 4,
+  "date_published": "2025-10-06T21:24:34-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Able to cut fine on 4-6mg reta without heavy appetite suppression; found it pleasant",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "At 9mg reta could not eat enough — excessive appetite suppression",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Prefers HGH over secretagogues. Tried reta at 4-6mg and 9mg; found 9mg too suppressive. Notes reta appetite suppression kicks in around 4-9mg for most people. Suggests adding low dose cagri if needed.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.268801Z"
+}

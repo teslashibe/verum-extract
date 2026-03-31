@@ -1,0 +1,40 @@
+{
+  "id": "a46556df-f35e-4cf3-918f-7926baed632e",
+  "source_id": "1s6uant",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6uant/hgh_sides/",
+  "author_hash": "356c2fe2649650a08778436ac73f12ff7c6ee81de8864a0e2a5d9a5d72bbe651",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T05:52:38-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "2x daily",
+      "cycle_length_days": 5,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Strong fatigue lasting whole day",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "other",
+      "description": "Wrist pain / carpal tunnel symptoms",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Taking 1 IU in the morning and 1 IU before bed. 5 days into protocol. Mentioned fasting not possible due to work/life schedule.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.103255Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "110c7075-a507-483e-a3bd-11f9f98ad634",
+  "source_id": "1quw4sr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1quw4sr/reta_sleep_problems/",
+  "author_hash": "7c18d44ffec12c18ad0e41b6ee2e522462de1665bad6dee408882d2221037478",
+  "confidence_tier": 4,
+  "date_published": "2026-02-03T08:13:13-08:00",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Feels fine despite poor sleep metrics",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep problems present even at low dose, never resolved. Resting heart rate elevated, HRV low.",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Started at 500mcg, escalated to 2mg weekly. Sleep problems persisted throughout dose escalation. Takes OTC sleeping pill to manage. Resting heart rate still elevated and HRV low.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121601Z"
+}

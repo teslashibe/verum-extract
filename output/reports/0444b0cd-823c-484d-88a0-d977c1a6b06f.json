@@ -1,0 +1,53 @@
+{
+  "id": "0444b0cd-823c-484d-88a0-d977c1a6b06f",
+  "source_id": "1s0t6kt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s0t6kt/do_i_need_to_add_anything_else/",
+  "author_hash": "a435495b980d2d5957dcc82f0243c5ca42b60fb6c7ee1cbe3d0410dece71c027",
+  "confidence_tier": 4,
+  "date_published": "2026-03-22T11:26:38-07:00",
+  "health_conditions": [
+    "menopause"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Berberine",
+      "name_normalized": "berberine",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "blood_sugar",
+      "description": "fasting glucose improved",
+      "severity": "moderate",
+      "onset_days": 60
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "gentler on stomach than generic brand",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "generic brand upset stomach",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "fasting glucose",
+      "timeframe_days": 60
+    }
+  ],
+  "protocol_notes": "Using Meo Nutrition berberine brand (2 months duration). Previously used generic brand which caused stomach upset.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.648497Z"
+}

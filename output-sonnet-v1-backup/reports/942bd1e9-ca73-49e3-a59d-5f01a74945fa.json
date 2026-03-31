@@ -1,0 +1,59 @@
+{
+  "id": "942bd1e9-ca73-49e3-a59d-5f01a74945fa",
+  "source_id": "1ol90l7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ol90l7/fatty_liver/",
+  "author_hash": "d62ad43d6d37ec4497fd620ba8abb0143f826b995f8a920ae92d702bfca82f0c",
+  "confidence_tier": 3,
+  "date_published": "2025-10-31T16:09:05-07:00",
+  "health_conditions": [
+    "fatty liver disease (chemo-related)",
+    "pre-diabetes"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 1.9,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Fatty liver disease completely resolved; all liver enzymes now in exact middle of normal range",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Blood sugar/pre-diabetes managed",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost 10 lbs (not the primary goal)",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Reduced appetite; had to consciously eat despite not being hungry",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "liver enzymes"
+    }
+  ],
+  "protocol_notes": "Started on lowest dose (1.2 mg/week), worked up to half dose before bloodwork showed normalized liver functions. Stayed at 1.2 mg for over a year. Now at 1.9 mg due to returning hunger and slight weight regain after 2 years. Plans to stay on it lifelong. Fatty liver was caused by chemotherapy, not diet/alcohol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.266082Z"
+}

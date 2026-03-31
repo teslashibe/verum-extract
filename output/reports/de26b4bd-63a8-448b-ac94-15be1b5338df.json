@@ -1,0 +1,54 @@
+{
+  "id": "de26b4bd-63a8-448b-ac94-15be1b5338df",
+  "source_id": "1rv84y8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rv84y8/advice_on_the_best_peptides_for_knee_repair_and/",
+  "author_hash": "dd5cb38f07fcc14fcde87dece14d924eace5a5b2355be0738b0cb5e123fd0ef5",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T05:32:15-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "BPC-157 typically used for soft tissue repair"
+    },
+    {
+      "category": "skin",
+      "description": "GHK-Cu for skin collagen support"
+    }
+  ],
+  "protocol_notes": "Educational comment providing typical dosing ranges. BPC-157 250-500mcg daily subcutaneously. GHK-Cu 1-2mg daily for systemic effects or topical for localized skin application. Recommends discussion with sports medicine physician and prioritizing third-party testing documentation.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.663067Z"
+}

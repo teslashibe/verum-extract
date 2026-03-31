@@ -1,0 +1,55 @@
+{
+  "id": "ce5c4f4b-764c-42c1-b551-a32e7af9bb18",
+  "source_id": "1gwt5mp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1gwt5mp/peptides_for_perimenopause_and_menopause/",
+  "author_hash": "416218bf27267b75a24000841778d505883490f6e2114683062fd270674c3a2f",
+  "confidence_tier": 4,
+  "date_published": "2024-11-21T15:08:32-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Improved energy",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Improved mood",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Improved strength",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Red and itchy injection sites that spread to hives all over body (arms, legs, belly, back, face). Allergic reaction worsened with time.",
+      "severity": "significant",
+      "onset_days": 150,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Used Tesa/Ipa for 5 months at 1mg/day before developing allergic reaction. Tried restarting at lower dose but same reaction occurred. Felt like 25 years old while on it. Became allergic and had to stop to prevent anaphylaxis.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.412542Z"
+}

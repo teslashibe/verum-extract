@@ -1,0 +1,45 @@
+{
+  "id": "79ae652f-4097-448f-8cac-f7b709980d2d",
+  "source_id": "1mrvy0p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mrvy0p/update_on_retratutide/",
+  "author_hash": "be392a65e436e451a9f0cccd5e29caef2fc4693b31501cf09db0ccbbb0ae92c1",
+  "confidence_tier": 5,
+  "date_published": "2025-08-16T06:54:58-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression feeling a little different but comparable to prior Tirzepatide regimen",
+      "severity": "moderate",
+      "onset_days": 3
+    }
+  ],
+  "protocol_notes": "Switched from 3.3mg Tirzepatide (2x weekly) to 1.2mg Retatrutide + 0.25mg Cagrilintide (weekly). Day 3 post-injection report.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.684531Z"
+}

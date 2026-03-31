@@ -1,0 +1,42 @@
+{
+  "id": "2070b9b9-3622-4461-a548-523b1bcd1b05",
+  "source_id": "1r9bto9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9bto9/injectable_ghk_cu_side_effects/",
+  "author_hash": "1ca36f80b6644cc853bed48a37474ad072f1f199e54bf0617197cd2b9a710215",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T13:21:46-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "skin purging during first bottle, good results on second bottle at 1mg dose",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "skin purge for full cycle of first bottle",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started at 250mcg, experienced skin purging on first bottle. Second bottle at 1mg showing good results. Recommends titrating dose.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662046Z"
+}

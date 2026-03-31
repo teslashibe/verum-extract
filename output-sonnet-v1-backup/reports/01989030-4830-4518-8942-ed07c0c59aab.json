@@ -1,0 +1,46 @@
+{
+  "id": "01989030-4830-4518-8942-ed07c0c59aab",
+  "source_id": "1o2xl8j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o2xl8j/bpc157_tb500_for_chronic_shoulder_pain_30_days/",
+  "author_hash": "18291d0b60a47265a4c0c02e15c34de3f9a23c5d110cf266c5ce0d4a79a83b9d",
+  "confidence_tier": 4,
+  "date_published": "2025-10-10T03:49:39-07:00",
+  "health_conditions": [
+    "shoulder injury (fall from ladder, 4 months ago)",
+    "three-level spinal fusion (1 year ago)",
+    "chronic back pain"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "every 3 days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "every 3 days",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "By day 9, shoulder pain still present but increased range of motion and less immediate pain when lifting arm upward",
+      "severity": "mild",
+      "onset_days": 9
+    }
+  ],
+  "protocol_notes": "Injecting SubQ in stomach, upper buttocks, and near shoulder area. Initial shoulder pain 8-9/10. Back pain from spinal fusion still ~7/10 at day 9. Starting yoga and gym activity alongside peptide use.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.268472Z"
+}

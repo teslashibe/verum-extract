@@ -1,0 +1,35 @@
+{
+  "id": "cbd1d699-0527-406c-9060-568d9e65537c",
+  "source_id": "1no254w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1no254w/reta_admission_learn_from_my_mistakes/",
+  "author_hash": "e73565d98281760ccec911c7d9f86ec7f29543662934d77a9eb1803486206846",
+  "confidence_tier": 4,
+  "date_published": "2025-09-22T16:37:20-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "better food intuition, fullness, decreased food noise",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "OP accidentally reconstituted with incorrect BAC volume documentation, resulting in half intended dose (0.25mg twice weekly instead of 0.5mg twice weekly). Reported genuine impact despite lower dose. Also attempted 1mg dose once which was deemed too much too fast. Vial size: 6mg.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.681021Z"
+}

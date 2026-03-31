@@ -1,0 +1,41 @@
+{
+  "id": "552ca841-5f08-4228-a753-a4e04ccdc59e",
+  "source_id": "1qtsnge",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtsnge/cjc_1295ipamorelin_sleep_problems/",
+  "author_hash": "39d930d074ed4fa53716e87b0f5a6e6423da919a1c32e345839c019fc8eaf220",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T03:34:14-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC 1295/Ipamorelin",
+      "name_normalized": "cjc_1295ipamorelin",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "nightly before bed",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Legs feel less sore than they normally would 2 days after working them",
+      "severity": "mild",
+      "onset_days": 2
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Complete inability to sleep first night; woke up periodically throughout the night after lowering dose and adding melatonin and L-Theanine",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Started at 15 units (clinic-recommended dose), pinned 3 hours fasted before bed. Updated to 12 units with melatonin 3mg, L-Theanine 200mg 1 hour before bed, and Magnesium Glycinate 240mg 30 minutes before bed, 2 hours fasted. Planning to lower dose further to 8 units.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.122203Z"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3d285157-fb6b-40be-808e-d0c72e54f40f",
+  "source_id": "1fv4rz5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fv4rz5/body_recomp_on_ozempic_what_peptides_can_i_stack/",
+  "author_hash": "0c6f6d193a9e5fcc6aa557043199785ebed82bb2c3456b5208e0a7892c341bec",
+  "confidence_tier": 5,
+  "date_published": "2024-10-03T03:46:13-07:00",
+  "training_status": "active, cardio 15-30 min daily at 130-140 bpm HR",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "intramuscular",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Primo",
+      "name_normalized": "primo",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Var",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "oral",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "HGH dose listed as 3-5 IU/day. Recommends eating clean, focusing on protein, adjusting calories by 250 if weight jumps up. This appears to be a recommendation rather than a personal report — extracting with low confidence as it may be protocol advice rather than personal use.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.290275Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "a24dc944-25df-4755-be7f-6bd1dd4fac3f",
+  "source_id": "1r01t37",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r01t37/new_to_peptides_looking_for_feedback_on_bpc157/",
+  "author_hash": "9bb6f5dbe260f936f1c9b3c2a63ecbef3251819f866be3f3030e23533f030809",
+  "confidence_tier": 5,
+  "date_published": "2026-02-09T03:29:50-08:00",
+  "health_conditions": [
+    "knee issues",
+    "shoulder issues"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "BPC-157 at 250mcg subq worked great for knees and shoulders; injecting closer to the injury site (above knee) made a noticeable difference vs abdominal injection",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Previously ran a 'Glow combo' stack and regretted it because could not isolate effects of individual peptides. Now advocates for lower BPC dose and local injection near injury site.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.120107Z"
+}

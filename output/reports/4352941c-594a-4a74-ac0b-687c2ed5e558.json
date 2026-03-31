@@ -1,0 +1,41 @@
+{
+  "id": "4352941c-594a-4a74-ac0b-687c2ed5e558",
+  "source_id": "1rq1iil",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rq1iil/ghkcu_injection_skin_issues/",
+  "author_hash": "548c0f59b55dfcec284c87da2b63942ef388c24246480cf327f9ade80441b2f8",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T09:24:42-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Skin looks great and healthy, rarely gets even a single pimple after copper uglies resolved",
+      "severity": "significant",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Horrible breakouts on chin and forehead - copper uglies",
+      "severity": "significant",
+      "onset_days": 7,
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Experienced copper uglies in first week but pushed through. Breakouts resolved within a week.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.654031Z"
+}

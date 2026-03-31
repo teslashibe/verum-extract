@@ -1,0 +1,67 @@
+{
+  "id": "e38c140c-3417-4cbc-8cc6-c38ce45b96f6",
+  "source_id": "15zt2no",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/15zt2no/30lbs_gone_with_semaglutide/",
+  "author_hash": "4cac2debd6b53433dd2269c77a910e489e00b33a15bd9151062f5009f50609a8",
+  "confidence_tier": 3,
+  "date_published": "2023-08-23T22:58:06-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "25-29",
+  "training_status": "lightly active (walking daily, previously sedentary)",
+  "health_conditions": [
+    "obesity",
+    "pregnancy (ended use)"
+  ],
+  "compounds": [
+    {
+      "name_raw": "semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 30 lbs total (22 lbs fat, 8 lbs muscle per body scan) since May 28th, working toward losing 46 more lbs",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Cut out all sweets because they no longer taste good; reduced overall appetite",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "By losing weight, all she wants to do is be active and do things",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Muscle loss: 8 lbs muscle lost per body scan",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "fat mass lost (body scan)",
+      "unit": "lbs"
+    },
+    {
+      "marker_name": "muscle mass lost (body scan)",
+      "unit": "lbs"
+    }
+  ],
+  "protocol_notes": "Started May 28th 2023. Currently on 1mg weekly. Had two body composition scans showing 8 lbs muscle lost and 22 lbs fat lost. Diet includes high protein, lots of produce, half gallon of water daily, no sweets. Exercise is primarily daily walking. Ended up pregnant and had to quit.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.29714Z"
+}

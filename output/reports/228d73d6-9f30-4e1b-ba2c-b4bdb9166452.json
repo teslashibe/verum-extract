@@ -1,0 +1,50 @@
+{
+  "id": "228d73d6-9f30-4e1b-ba2c-b4bdb9166452",
+  "source_id": "1s029qy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s029qy/my_dad_has_3cm_tears_in_his_rotary_cuff_will/",
+  "author_hash": "1c168feb1b419d95995b5baea48b7cde84af3dec0ca72da82b08c05f9a3f6adc",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T13:45:17-07:00",
+  "health_conditions": [
+    "medial meniscus tear with 4mm flap"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "All pain resolved within a few weeks",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "injury_healing",
+      "description": "4mm flap in meniscus vanished; confirmed with before and after MRIs",
+      "severity": "significant",
+      "onset_days": 56
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "meniscus tear size",
+      "value_before": 4,
+      "value_after": 0,
+      "unit": "mm",
+      "timeframe_days": 56
+    }
+  ],
+  "protocol_notes": "Referred to as 'Glow' in comments. Confirmed with MRI before and after.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.648864Z"
+}

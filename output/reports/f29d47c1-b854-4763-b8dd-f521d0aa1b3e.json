@@ -1,0 +1,55 @@
+{
+  "id": "f29d47c1-b854-4763-b8dd-f521d0aa1b3e",
+  "source_id": "1addn5u",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1addn5u/my_experience_with_peptides_for_fitness_and/",
+  "author_hash": "c4f5a86956b4e9dfcc055b1d79aff2e6339e6821fbfcb8e6b253091da1c7ffcf",
+  "confidence_tier": 5,
+  "date_published": "2024-01-28T13:28:26-08:00",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Great aid for sleep",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Energy benefits",
+      "severity": "moderate"
+    },
+    {
+      "category": "endurance",
+      "description": "Stamina benefits",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Recovery benefits",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "Commenter recommends Tesamorelin/Ipamorelin combination as a 'do it all' peptide. States Tesamorelin is the most effective and fast-acting GHRP available, producing quickest IGF-1 increase. Did not provide personal protocol details.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.25,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.417092Z"
+}

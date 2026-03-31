@@ -1,0 +1,40 @@
+{
+  "id": "e8bab6a8-73a6-48a7-807a-77b2f264aa44",
+  "source_id": "1quqz3p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1quqz3p/ghrp_ghrh_recommendations_for_beginner_female/",
+  "author_hash": "2a11b38ee02302baa1cb87f89b6f5c15efd99144d1282564ea5b427aef1eb148",
+  "confidence_tier": 5,
+  "date_published": "2026-02-03T04:45:20-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "Commenter mentions CJC + IPA stack; recommends checking IGF levels; notes secretagogues unlikely to increase above natural levels at late 20s; HGH cited as only consistent method; references r/steroids wiki for risks and sides",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.2,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.680475Z"
+}

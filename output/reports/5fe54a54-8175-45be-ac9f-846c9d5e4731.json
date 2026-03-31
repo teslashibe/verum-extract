@@ -1,0 +1,52 @@
+{
+  "id": "5fe54a54-8175-45be-ac9f-846c9d5e4731",
+  "source_id": "1k1cvh2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k1cvh2/tirz_5mg_10mg_or_15mg/",
+  "author_hash": "04c41eb60398484ecb0b59c98c4c634a01a472fdb40b41d407054ef4b0d40e67",
+  "confidence_tier": 4,
+  "date_published": "2025-04-17T06:32:20-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "health_conditions": [
+    "anemia"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost almost 20 lbs",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "weight_change",
+      "description": "Lost excessive muscle mass along with fat",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "hemoglobin/hematocrit (anemia)",
+      "timeframe_days": 90
+    }
+  ],
+  "protocol_notes": "Age 24. 2mg was 'insanely strong'. Lost ~20 lbs in 3 months. Experienced excessive muscle loss and became anemic, leading to discontinuation. Recommends starting as low as possible.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.6925Z"
+}

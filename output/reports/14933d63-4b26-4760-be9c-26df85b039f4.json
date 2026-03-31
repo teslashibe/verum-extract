@@ -1,0 +1,75 @@
+{
+  "id": "14933d63-4b26-4760-be9c-26df85b039f4",
+  "source_id": "1qtzwq8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtzwq8/concern_about_reta_effectiveness/",
+  "author_hash": "a1fb416c070a463357860a580e2be77e9130a0bf68b04914542db3dd89008c6e",
+  "confidence_tier": 3,
+  "date_published": "2026-02-02T08:34:00-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 120,
+    "unit": "lbs"
+  },
+  "training_status": "lean",
+  "health_conditions": [
+    "food noise"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "cycle_length_days": 84,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression kicked in within 48 hours and got stronger by week 3. Food noise and cravings completely gone after a few weeks. No hunger cues, able to eat on schedule.",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost 10 pounds in 12 weeks. Previously unable to get under 120lbs as an adult since age 16.",
+      "severity": "significant"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Body fat 15.9% on Dexa scan after 12 weeks. Total cholesterol and LDL dropped over 40 points after first 10 weeks. LDL at lowest in over a decade.",
+      "severity": "significant",
+      "onset_days": 70
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Total Cholesterol",
+      "unit": "mg/dL",
+      "timeframe_days": 70
+    },
+    {
+      "marker_name": "LDL",
+      "unit": "mg/dL",
+      "timeframe_days": 70
+    },
+    {
+      "marker_name": "Body Fat",
+      "value_after": 15.9,
+      "unit": "%",
+      "timeframe_days": 84
+    }
+  ],
+  "protocol_notes": "46F, 5'2\". Started 0.50mg once weekly, moved up to 0.75mg. Height listed as 5'2\", weight entered as 120lbs represents goal weight achieved. User had time-restricted eating window prior to Reta. Stopped dieting late December, added calories and carbs back. Plan to lower dose as calorie intake increases.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.667989Z"
+}

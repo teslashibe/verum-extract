@@ -1,0 +1,63 @@
+{
+  "id": "98fbd77c-4e48-487a-8dd4-3ccdc54b7ed4",
+  "source_id": "1qffh0x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qffh0x/for_those_of_you_who_research_multiple_peptides/",
+  "author_hash": "a457bf8ffb4fd9cc5c830d9869cd85b2016dd59ec18ffc83279648f22d5d82e0",
+  "confidence_tier": 5,
+  "date_published": "2026-01-17T07:04:45-08:00",
+  "health_conditions": [
+    "ME/CFS (myalgic encephalomyelitis/chronic fatigue syndrome)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "mod-grf/ipa",
+      "name_normalized": "mod_grfipa",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "frequency": "cycled",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "frequency": "cycled",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "TB500, tirz, and mod-grf/ipa have made a huge difference in quality of life for ME/CFS.",
+      "severity": "significant"
+    },
+    {
+      "category": "immune",
+      "description": "GHK-CU helped to heal lungs."
+    }
+  ],
+  "protocol_notes": "User has ME/CFS. Cycles KPV and GHK-CU. Not sure how much KPV has contributed but GHK-CU helped heal lungs.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.124664Z"
+}

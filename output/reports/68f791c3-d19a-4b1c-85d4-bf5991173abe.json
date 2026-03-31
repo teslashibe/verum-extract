@@ -1,0 +1,43 @@
+{
+  "id": "68f791c3-d19a-4b1c-85d4-bf5991173abe",
+  "source_id": "1c8ax9s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1c8ax9s/bpc_157_overdose/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2024-04-19T16:12:19-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 120,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "elbow pain",
+    "reduced elbow motion"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "dose_value": 10000,
+      "dose_unit": "mcg",
+      "frequency": "single dose",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Potential elbow pain and mobility improvement"
+    }
+  ],
+  "protocol_notes": "Single 10 mg injection into painful elbow following fall in December. Administered by unofficial therapist. Recommended safe joint injection dosage is 3 mg per joint according to functional medicine NP commenter.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.697825Z"
+}

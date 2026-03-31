@@ -1,0 +1,54 @@
+{
+  "id": "a379d182-9bbb-4eb6-86d7-73c01c4b9814",
+  "source_id": "1rcaza0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rcaza0/any_peptides_for_adhd/",
+  "author_hash": "4d107f38125afe7e5d966fca7a32e9a6f7d571f708d8c49385f7284ca808bd41",
+  "confidence_tier": 4,
+  "date_published": "2026-02-22T23:25:39-08:00",
+  "health_conditions": [
+    "ADHD"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 49,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "broke the dopamine reward from food, helps eat better",
+      "severity": "significant",
+      "onset_days": 0
+    },
+    {
+      "category": "fat_loss",
+      "description": "down ~23lb in 7 weeks",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive",
+      "description": "fixed sugar/carb binge eating issues, reduced food noise",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "weight",
+      "value_after": 23,
+      "unit": "lbs",
+      "timeframe_days": 49
+    }
+  ],
+  "protocol_notes": "Considering running Retatrutide at low dose long term to maintain lower food noise",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.673258Z"
+}

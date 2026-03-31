@@ -1,0 +1,53 @@
+{
+  "id": "4dd5f1e4-e2dd-49a3-af22-3219937cece0",
+  "source_id": "17bv0wa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17bv0wa/time_to_attack_this_hamstring_injury/",
+  "author_hash": "aa14041adb73c4d30793c9e300c131c33319cc515068d7f3ded66ce2f835efab",
+  "confidence_tier": 4,
+  "date_published": "2023-10-19T15:03:29-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "HGH can draw a lot of water which is not good for muscle injuries as it can increase inflammation at injury site",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Providing dosing recommendations for hamstring injury recovery. Suggests TB-500 range 5-10mg per week. Recommends HGH at 1-2 IU daily maximum due to water retention concerns with muscle injuries. Notes that HGH takes months to load and cautions against excessive dosing.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.419642Z"
+}

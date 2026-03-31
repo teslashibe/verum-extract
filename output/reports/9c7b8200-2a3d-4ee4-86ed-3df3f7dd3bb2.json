@@ -1,0 +1,46 @@
+{
+  "id": "9c7b8200-2a3d-4ee4-86ed-3df3f7dd3bb2",
+  "source_id": "1r98xrv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r98xrv/dsip_300_mcg_or_1000_mcg/",
+  "author_hash": "bcfda9b4bc0bb5d9b7a4e7b28fca5a8fe710cf131f282ea5b014dbf8eb0510bd",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T11:34:03-08:00",
+  "health_conditions": [
+    "insomnia"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "frequency": "3 hours before bed",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "1 mg DSIP dosed 3 hours before bed enables sleep",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User found 250 mcg ineffective, titrated to 1 mg taken 3 hours before bed for better results.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662168Z"
+}

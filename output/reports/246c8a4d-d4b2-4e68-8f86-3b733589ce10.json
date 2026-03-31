@@ -1,0 +1,100 @@
+{
+  "id": "246c8a4d-d4b2-4e68-8f86-3b733589ce10",
+  "source_id": "1rn103l",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rn103l/any_peptides_for_bone_healing/",
+  "author_hash": "54502371d3e160b5a9e87026a9e4fa71cee2659b4445869e8ab0951118b74710",
+  "confidence_tier": 4,
+  "date_published": "2026-03-06T21:03:19-08:00",
+  "health_conditions": [
+    "ankle fracture"
+  ],
+  "compounds": [
+    {
+      "name_raw": "DHEA",
+      "name_normalized": "dihexa",
+      "category": "cognitive",
+      "route": "oral",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "once a day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Curcumin",
+      "name_normalized": "curcumin",
+      "category": "other",
+      "route": "oral",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Fish Oil",
+      "name_normalized": "fish_oil",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 3,
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CoQ10",
+      "name_normalized": "coq10",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "L-Glutamine",
+      "name_normalized": "l_glutamine",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 5000,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Zyflamend",
+      "name_normalized": "zyflamend",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 2,
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Vitamin D",
+      "name_normalized": "vitamin_d",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 5000,
+      "dose_unit": "IU",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Quercetin",
+      "name_normalized": "quercetin",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 2,
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Protocol used for ankle fracture recovery"
+    }
+  ],
+  "protocol_notes": "User adjusted TRT regimen to boost testosterone levels concurrently with supplement protocol. Mireva formulation mentioned with Curcumin.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.667643Z"
+}

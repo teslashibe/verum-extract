@@ -1,0 +1,42 @@
+{
+  "id": "165d0cc7-19cb-43c8-a3db-fdb112b88e06",
+  "source_id": "17lvtdn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17lvtdn/semaglutide_dosing/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2023-11-01T21:43:44-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 600,
+      "dose_unit": "mcg",
+      "frequency": "weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppressed after 2 weeks at 600 mcg",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "No nausea reported"
+    }
+  ],
+  "protocol_notes": "User inadvertently took 600 mcg weekly for first 2 weeks (intended dose not specified). Proposed titration schedule: Weeks 1-2: 600 mcg, Weeks 3-4: 500 mcg, Weeks 5-8: 750 mcg, Weeks 9-12: 1 mg, Weeks 12-16: 1.25 mg, Weeks 16-20: 1.5 mg. Route assumed subcutaneous based on context. User seeking advice on dose reduction strategy.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.700194Z"
+}

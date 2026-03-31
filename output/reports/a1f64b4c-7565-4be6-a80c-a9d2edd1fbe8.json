@@ -1,0 +1,63 @@
+{
+  "id": "a1f64b4c-7565-4be6-a80c-a9d2edd1fbe8",
+  "source_id": "1lc6sdp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lc6sdp/the_power_of_retatrutide/",
+  "author_hash": "f52a88469891406c54102e85943d9fe3c05f354c9f21207dba4b14b12a55c1d3",
+  "confidence_tier": 4,
+  "date_published": "2025-06-15T11:05:37-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 50 pounds in 6 months",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Never hungry",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Preserved almost all muscle despite not eating the best and being sick multiple times",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Allowed for more energy",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Burned more calories at rest",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Nausea once reaching around 7mg a week, but it went away. Nausea returned when trying to increase back up",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started at 2mg per week and slowly increased to 8mg per week, then decreased back to 6.5mg per week due to nausea. Diet and cardio also contributed to results. Did not measure waist loss.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.6892Z"
+}

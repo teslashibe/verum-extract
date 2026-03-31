@@ -1,0 +1,79 @@
+{
+  "id": "b34b4283-fb8d-447d-9a3e-84d6fd159714",
+  "source_id": "1rtra6z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rtra6z/ss31_severe_fatigue_and_tiredness/",
+  "author_hash": "db95cc0ecbe4b7a9af74130697b9fa265aac759352fdb6eabc89da75eca98979",
+  "confidence_tier": 4,
+  "date_published": "2026-03-14T11:42:49-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "2-3x weekly",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Nicotinamide Riboside",
+      "name_normalized": "nicotinamide_riboside",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Magnesium",
+      "name_normalized": "magnesium",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CoQ10",
+      "name_normalized": "coq10",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Expected subtle mental clarity and energy improvement weeks 1-2; more stable energy and reduced fatigue crashes weeks 3-4; improved endurance and recovery weeks 4-6; stronger sustained energy weeks 6-8",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User planning to start mitochondrial support stack. Rotation of injection sites recommended. Optional enhancers include L-carnitine, alpha-lipoic acid, and red/NIR light therapy. Stack designed as AI-generated protocol.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.663945Z"
+}

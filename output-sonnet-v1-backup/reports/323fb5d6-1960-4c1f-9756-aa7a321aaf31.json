@@ -1,0 +1,43 @@
+{
+  "id": "323fb5d6-1960-4c1f-9756-aa7a321aaf31",
+  "source_id": "1qqnksq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqnksq/please_review_stack/",
+  "author_hash": "192ec0705cf0b39acab7697a4800a5bf3471a4064d930acb6867be6e02968e4a",
+  "confidence_tier": 5,
+  "date_published": "2026-01-29T14:41:57-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC/IPA",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Found 2mg MOTS-c invisible/ineffective; only felt effects at 5mg 3x weekly. NAD at 100mg daily was not noticeable (possibly bunk). Used CJC/IPA at 400mcg total (200 CJC / 200 IPA) dosed as 10 units with 10mg/2.5mL reconstitution.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123284Z"
+}

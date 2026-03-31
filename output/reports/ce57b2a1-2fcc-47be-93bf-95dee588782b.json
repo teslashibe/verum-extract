@@ -1,0 +1,45 @@
+{
+  "id": "ce57b2a1-2fcc-47be-93bf-95dee588782b",
+  "source_id": "1rglewh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rglewh/any_male_lifters_here_microdosing_with_tirz_or/",
+  "author_hash": "595b023d6b3d9f5144f17519b275e26e7bd6e5bcf9f6783dddf2df6328f8955f",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T14:43:19-08:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Got very lean (peeled)",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_sugar",
+      "description": "Became hypoglycemic; had to switch from keto to moderate carb diet",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "glucose"
+    }
+  ],
+  "protocol_notes": "User now tests glucose if running GLP-1. Referred to as GLP.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.670995Z"
+}

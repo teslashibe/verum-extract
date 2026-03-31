@@ -1,0 +1,39 @@
+{
+  "id": "c70802fa-1a21-4032-be75-df8f919c850c",
+  "source_id": "1mtsaq2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mtsaq2/stack_recommendations/",
+  "author_hash": "167c42aee35c2fa758de3863dd2fb753315247681d58495c464ddc7389c98696",
+  "confidence_tier": 4,
+  "date_published": "2025-08-18T10:18:26-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "L-Carnitine",
+      "name_normalized": "l_carnitine",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "with fasted cardio",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Noticed sleep effects when dosed before bed, took about a week to manifest",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Uses Retatrutide at low dose, L-Carnitine with fasted cardio. Considering weekly Lipo C. Recommends starting slow and low with Retatrutide for those without significant weight to drop. Has only dosed before bed but heard others have success with AM and PM dosing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.684279Z"
+}

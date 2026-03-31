@@ -1,0 +1,66 @@
+{
+  "id": "e80d7679-7277-4830-8117-b0a571a498e5",
+  "source_id": "1mbkyz4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mbkyz4/seeking_experienced_bam15_users_dosage_safety/",
+  "author_hash": "6ed0380306742de86d4eacf1d85a74584071dd83d6e96b342ffbe122314d898a",
+  "confidence_tier": 4,
+  "date_published": "2025-07-28T09:31:22-07:00",
+  "training_status": "active (cardio training mentioned)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BAM15",
+      "name_normalized": "bm15",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "100mg at 11am-2pm + 100mg prior to bed",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Feeling the best in terms of energy output",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Improved physical appearance",
+      "severity": "moderate"
+    },
+    {
+      "category": "cognitive",
+      "description": "Mental clarity",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "Higher heart rate during cardio",
+      "severity": "mild"
+    },
+    {
+      "category": "endurance",
+      "description": "Initially felt BAM15 was impacting cardio slightly; improved after changing dosing schedule",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Full blood panel"
+    },
+    {
+      "marker_name": "Testosterone"
+    }
+  ],
+  "protocol_notes": "Started end of May at 150mg/day (50mg 3x daily), escalated to 300mg/day (100mg 3x daily), then adjusted to 200mg/day (100mg 2x daily). Final schedule: 100mg between 11am-2pm depending on training time, then 100mg prior to bed. Also on TRT (recently started). Blood panels taken: April (suspected low T check), and again after TRT initiation to verify dose. No observable effects from BAM15 on bloodwork. Considers injectable L-Carnitine causes more sweating than BAM15. Using multiple peptides concurrently (not specified which). Considering dropping BAM15 for time off.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.686105Z"
+}

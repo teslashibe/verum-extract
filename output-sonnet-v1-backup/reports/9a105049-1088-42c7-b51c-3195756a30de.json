@@ -1,0 +1,61 @@
+{
+  "id": "9a105049-1088-42c7-b51c-3195756a30de",
+  "source_id": "1mpzkut",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mpzkut/easiest_18_lbs_i_ever_lost_50_m_5_9/",
+  "author_hash": "ec6004326573916c766ea1ac1d88a4c984422c3edbefef19b7b82b256c7793b5",
+  "confidence_tier": 4,
+  "date_published": "2025-08-14T05:42:34-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "training_status": "Zone 2/Zone 3 cardio (slow walking with inclines), previously sedentary",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "weekly (every 7 days)",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly (every 7 days)",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 18 lbs; body fat % went from 25.6% to 15.9% per scale app; noticeable fat loss in face, gut, hips, and buttocks",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Reduced food noise, improved appetite control, reduced portion sizes, earlier fullness signal; moved to 2 meals/day then 1 meal/day with 1-hour eating window",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "value_before": 25.6,
+      "value_after": 15.9,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Ordered 20 mg from USA-based website; used BAC water and syringes. Started at 0.5 mg weekly for ~4 weeks, then increased to 1 mg weekly. Felt reduced effect on days 5-7 at 0.5 mg dose which motivated the increase. Briefly experimented with 0.5 mg mid-week pin at days 3.5/4.5 after upping to 1 mg but did not find it necessary. Diet consisted mainly of healthy proteins, some carbs, and occasional Ninja Creami treats. No prior GLP or peptide use. Muscle mass reportedly stable per scale. No loss of strength reported. Height 5'9\". Currently at 15% BF and aiming for 10%. Considering 0.25 mg as maintenance dose.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.275497Z"
+}

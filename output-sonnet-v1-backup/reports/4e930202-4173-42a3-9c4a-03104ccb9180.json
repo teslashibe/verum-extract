@@ -1,0 +1,57 @@
+{
+  "id": "4e930202-4173-42a3-9c4a-03104ccb9180",
+  "source_id": "1no254w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1no254w/reta_admission_learn_from_my_mistakes/",
+  "author_hash": "ced9a73c9dd9e7578086a9ec9543bdee5e955b8542c41a2f5316404d38f4d2f1",
+  "confidence_tier": 4,
+  "date_published": "2025-09-22T16:37:20-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 70,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost lots of weight at 2.5mg/week",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Nausea when escalating to 5mg",
+      "severity": "moderate",
+      "onset_days": 14,
+      "resolved": true
+    },
+    {
+      "category": "appetite_change",
+      "description": "Barely ate when at 5mg",
+      "severity": "significant",
+      "onset_days": 14,
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Constipation and bloating when at 5mg",
+      "severity": "moderate",
+      "onset_days": 14,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started at 2.5mg, escalated to 5mg after 2 weeks and felt unwell. Took a week off (holiday), then returned to 2.5mg for 10 weeks. Found 2.5mg to be the sweet spot with good results and manageable side effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.270257Z"
+}

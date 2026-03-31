@@ -1,0 +1,42 @@
+{
+  "id": "d37f4a97-df83-4d13-8315-b8257f81c74e",
+  "source_id": "1r9bto9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9bto9/injectable_ghk_cu_side_effects/",
+  "author_hash": "d501b3785e20beadb08a5bea36bcfc6e0985c4f6e1cef9acd99e777542b5ef7b",
+  "confidence_tier": 5,
+  "date_published": "2026-02-19T13:21:46-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "ghkcu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Pressure in head, feeling slow, feeling out of it, almost like being on something, brain foggy",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "fatigue",
+      "description": "Fatigue noticed after continuing injections",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "29 y/o male. Purchased from a source seen on TikTok. First injection at 2mg. Later concluded reaction was likely histamine-related. Continued injecting after first pin with diminished side effects. Was not supplementing zinc initially.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.116566Z"
+}

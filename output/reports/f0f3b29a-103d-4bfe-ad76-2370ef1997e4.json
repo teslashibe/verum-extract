@@ -1,0 +1,40 @@
+{
+  "id": "f0f3b29a-103d-4bfe-ad76-2370ef1997e4",
+  "source_id": "1r9jkny",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9jkny/tesamorelin_initial_results_after_6_weeks/",
+  "author_hash": "7bae32376ffc43c9bd92abe7ba282c78ff50260482a3123b35754999bbddeb4d",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T18:46:38-08:00",
+  "training_status": "lifter",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Significant water weight in legs that interfered with lifting",
+      "severity": "significant"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Joint pain throughout body",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Discontinued after 6 weeks due to intolerable side effects.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661857Z"
+}

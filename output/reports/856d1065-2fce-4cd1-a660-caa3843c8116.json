@@ -1,0 +1,45 @@
+{
+  "id": "856d1065-2fce-4cd1-a660-caa3843c8116",
+  "source_id": "1rglewh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rglewh/any_male_lifters_here_microdosing_with_tirz_or/",
+  "author_hash": "bc6aa745c77a01e4268bb3c0836ccc8d2ef94e6bc315a3fdb2bf3bee11bc0cc4",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T14:43:19-08:00",
+  "reported_sex": "male",
+  "training_status": "lifter",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.42,
+      "dose_unit": "mg",
+      "frequency": "every 3 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost roughly 2kg over ~2 months; body fat decreased from ~15% to ~10%",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_fat_percentage",
+      "value_before": 15,
+      "value_after": 10,
+      "unit": "%",
+      "timeframe_days": 60
+    }
+  ],
+  "protocol_notes": "Microdosing protocol; weight loss not primary goal",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.659002Z"
+}

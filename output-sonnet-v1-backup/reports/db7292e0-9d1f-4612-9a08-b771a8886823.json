@@ -1,0 +1,45 @@
+{
+  "id": "db7292e0-9d1f-4612-9a08-b771a8886823",
+  "source_id": "1qxg0ta",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxg0ta/best_options_for_recomp/",
+  "author_hash": "6604be3c33c8a57389f0a4e02b8df5c361924c763b8e13014b2adbdc1259e73c",
+  "confidence_tier": 3,
+  "date_published": "2026-02-06T04:15:28-08:00",
+  "reported_age_range": "40-49",
+  "training_status": "consistent training over 2+ years",
+  "compounds": [
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Recomped from 25% to 15% body fat (DEXA verified) over 2+ years without TRT, then further reduced to 11% body fat after starting TRT",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Packed on a good amount of muscle, reached 'jacked' status especially for mid-40s",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage (DEXA)",
+      "value_before": 25,
+      "value_after": 11,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Initially did recomp without TRT while trying to conceive. After starting TRT, accelerated fat loss further to 11% body fat. Describes initial 2+ years as largely newbie gains with consistent but not necessarily strict lifestyle.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.120968Z"
+}

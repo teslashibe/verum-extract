@@ -1,0 +1,94 @@
+{
+  "id": "a3b3c714-fa56-40ee-aa26-5808282affec",
+  "source_id": "1luc8d8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1luc8d8/bpc157_absolutely_healed_my_brain_from_most_drug/",
+  "author_hash": "32fe917037faf96b17ca55d95ca3954fc7d424d6b740b48df54f021721077b16",
+  "confidence_tier": 4,
+  "date_published": "2025-07-07T18:39:31-07:00",
+  "health_conditions": [
+    "ADHD",
+    "GERD",
+    "chronic pain",
+    "restless leg syndrome",
+    "schizophrenia spectrum disorder"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "improved functioning, better focus and work capacity",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "sleep",
+      "description": "improved sleep quality",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "gut_health",
+      "description": "complete resolution of GERD",
+      "severity": "significant",
+      "onset_days": 30
+    },
+    {
+      "category": "pain_relief",
+      "description": "minor chronic pain and restless leg syndrome resolved",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "body_composition",
+      "description": "approximately 70% restoration to normal functioning after amphetamine damage",
+      "severity": "significant",
+      "onset_days": 30
+    },
+    {
+      "category": "mood",
+      "description": "improved psychiatric stability, able to reduce psychiatric medication by 50%",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "no anhedonia, anxiety, depression or negative effects reported",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Oral BPC-157 in arginate salt form with 200mg Circuprime. Prior use: 160-200mg Adderall daily. After BPC cycle: reduced to 40-80mg Adderall daily. Also cycling Selank and Semax for 2 weeks while reducing psychiatric medication. Plans to trial nasal route in next cycle. User reports being aware of in vitro research on BPC reversing amphetamine damage.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.404711Z"
+}

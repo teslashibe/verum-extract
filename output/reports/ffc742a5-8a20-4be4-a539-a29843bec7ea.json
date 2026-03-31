@@ -1,0 +1,48 @@
+{
+  "id": "ffc742a5-8a20-4be4-a539-a29843bec7ea",
+  "source_id": "1bpsf65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bpsf65/semaglutide_is_amazing/",
+  "author_hash": "74af5ee5f4f151ffe84dcfa7c92096cd04bcce9e93c8d4b3a0fe02e00d2549d3",
+  "confidence_tier": 4,
+  "date_published": "2024-03-28T03:39:16-07:00",
+  "health_conditions": [
+    "binge eating",
+    "emotional eating"
+  ],
+  "compounds": [
+    {
+      "name_raw": "5-HTP",
+      "name_normalized": "5_htp",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "once daily at night",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Reduced food intake with semaglutide",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "5-HTP leveled out mood and stopped emotional comfort seeking behavior towards food",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "5-HTP 100mg at night (half of recommended 200mg dose). Combined with semaglutide. User notes food no longer has control.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698185Z"
+}

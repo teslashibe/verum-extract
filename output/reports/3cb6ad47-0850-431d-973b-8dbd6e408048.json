@@ -1,0 +1,81 @@
+{
+  "id": "3cb6ad47-0850-431d-973b-8dbd6e408048",
+  "source_id": "1rwbvxo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwbvxo/hungry_on_reta/",
+  "author_hash": "27caba2cad95e8f39b37f60f54c10e8f2da1382eda66a7cc656187c286f85f8f",
+  "confidence_tier": 4,
+  "date_published": "2026-03-17T09:44:27-07:00",
+  "training_status": "hard training with proper nutrition",
+  "health_conditions": [
+    "blood sugar dysregulation",
+    "elevated A1C"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "44 pounds total loss over 6 months on reta, sustained 34 pounds loss 4 months off",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "reta took edge off hunger so could still eat but would forget about eating if busy; cravings subdued even after discontinuation",
+      "severity": "moderate"
+    },
+    {
+      "category": "blood_sugar",
+      "description": "fixed BG issues, A1C now nice and low after creeping up",
+      "severity": "significant"
+    },
+    {
+      "category": "cardiovascular",
+      "description": "improved lipids and CRP dropped to nothing",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "some nausea on tirzepatide",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C",
+      "timeframe_days": 180
+    },
+    {
+      "marker_name": "CRP",
+      "value_after": 0,
+      "timeframe_days": 180
+    },
+    {
+      "marker_name": "lipid panel",
+      "timeframe_days": 180
+    }
+  ],
+  "protocol_notes": "Used tirzepatide for a couple months before switching to retatrutide for 6 months. Off retatrutide for 4 months at time of report, attempting to gain lean mass. Weight gain of 10 pounds post-cycle attributed to training and nutrition protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.9,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.65069Z"
+}

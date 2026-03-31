@@ -1,0 +1,52 @@
+{
+  "id": "538ccb98-9ded-4031-8e71-14a373271789",
+  "source_id": "1rze0xg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rze0xg/teas_with_high_body_fat/",
+  "author_hash": "bbd54555faadb10fb9afac62c53f13aabd0b9192199467af189dbabd44f4eb97",
+  "confidence_tier": 4,
+  "date_published": "2026-03-20T18:03:18-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Tesamorelin targets visceral fat; IGF-1 bump helps with muscle preservation during cutting",
+      "severity": "moderate"
+    },
+    {
+      "category": "blood_sugar",
+      "description": "Better bloodwork including improved liver enzymes and insulin sensitivity",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    },
+    {
+      "marker_name": "liver enzymes"
+    },
+    {
+      "marker_name": "insulin sensitivity"
+    }
+  ],
+  "protocol_notes": "Currently running Reta + Tesa together. User emphasizes that consistency matters more than timing, and that clinical studies on Tesamorelin were performed on people with metabolic syndrome rather than fitness athletes.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.649216Z"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "e86ebabc-94da-415f-9eaf-d117ff9a8a5a",
+  "source_id": "1n5qiin",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n5qiin/tesaipa_vs_hgh_cost_effectiveness_and_longterm/",
+  "author_hash": "fd4788855fab4d8b62fe8102f0c989d5fed80d413b85dc28c73c0ffd98a3d1f2",
+  "confidence_tier": 4,
+  "date_published": "2025-09-01T07:40:54-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 3.5,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "cjc",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "States 3-4 IU is a nice place to stay personally. Would have more concern approaching or exceeding 6 IU/day. Had comparable results with sermorelin or CJC as with tesamorelin. Prefers HGH over all secretagogues.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.273127Z"
+}

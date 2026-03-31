@@ -1,0 +1,62 @@
+{
+  "id": "62e9a47b-4df8-423d-b219-0fd56c8f539e",
+  "source_id": "1rwlbyx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwlbyx/tesaipa_igf1_levels/",
+  "author_hash": "62019fd499881daccbd302bbb432b6b806a468f1ec6ed3325ba62c92d9523313",
+  "confidence_tier": 4,
+  "date_published": "2026-03-17T15:16:03-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 98,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 98,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_after": 308,
+      "unit": "ng/mL",
+      "timeframe_days": 98
+    },
+    {
+      "marker_name": "IGF-1 Z-score",
+      "value_after": 1.9,
+      "timeframe_days": 98
+    }
+  ],
+  "protocol_notes": "Just completed 14-week CJC-1295 (no DAC) / Ipamorelin cycle. Planning upcoming Tesamorelin/Ipamorelin cycle with titration to 2mg Tesamorelin and 300mcg Ipamorelin targeting mid-300s IGF-1 range.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.650391Z"
+}

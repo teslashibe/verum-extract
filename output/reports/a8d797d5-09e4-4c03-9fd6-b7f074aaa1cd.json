@@ -1,0 +1,44 @@
+{
+  "id": "a8d797d5-09e4-4c03-9fd6-b7f074aaa1cd",
+  "source_id": "1ridbfy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ridbfy/newbie_wanting_to_start_reta/",
+  "author_hash": "a94632f6d14a53b457549afee9c22b485c3ed028acd1c23c0f413821e20e1834",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T15:55:54-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Strong appetite suppression, especially initially",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Fast weight loss with adherence",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Appetite suppression hits hard at first, may need reminders to eat",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Recommends monotherapy (Reta alone sufficient), adequate hydration, electrolytes, protein intake. Optional addition of Tirzepatide for stacking.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.74,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.658124Z"
+}

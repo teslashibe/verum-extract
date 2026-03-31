@@ -1,0 +1,51 @@
+{
+  "id": "b82c5611-dc7b-45e0-80c2-35ee27507c01",
+  "source_id": "1aryspf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1aryspf/first_time_running_bpc_and_tb/",
+  "author_hash": "3efae1ff7bbe87d4020395375ec3fbd28518a13d0b9feddf943d8c9dcea193b9",
+  "confidence_tier": 4,
+  "date_published": "2024-02-15T19:33:05-08:00",
+  "training_status": "active_training",
+  "health_conditions": [
+    "shoulder_tightness"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 750,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Worked through tightness in shoulder; able to increase incline chest press from 30 lbs to 65 lbs within 1 week; rapid recovery during gym sessions",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Initial doses were lower (BPC 350 mcg 2x daily, TB 750 mcg 2x daily based on 15mg and 10mg vials reconstituted). Adjusted upward to 500 mcg BPC 2x daily and 750 mcg TB 2x daily. Described doses as high-end. No pain or fear reported with injections. User noted tolerance to injections. 3-week cycle planned with break after.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.416592Z"
+}

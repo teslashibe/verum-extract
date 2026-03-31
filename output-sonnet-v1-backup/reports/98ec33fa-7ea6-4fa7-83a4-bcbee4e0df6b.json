@@ -1,0 +1,50 @@
+{
+  "id": "98ec33fa-7ea6-4fa7-83a4-bcbee4e0df6b",
+  "source_id": "m539x0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/m539x0/bpc157_from_alibaba_qindao_sigma_7_days_in/",
+  "author_hash": "2676145a56e5c1271b51213fcc12989055f5b2b4c7de2b52b98140a6edc6b50a",
+  "confidence_tier": 5,
+  "date_published": "2021-03-14T13:20:04-07:00",
+  "health_conditions": [
+    "hamstring injury"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Test cyp",
+      "name_normalized": "test_cyp",
+      "category": "other",
+      "dose_value": 150,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Hamstring injury better within a few days, believes completely healed",
+      "severity": "significant",
+      "onset_days": 3
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_after": 1000,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "Sources raw compounds from China directly. Uses blood work to verify purity of Chinese pharma. Tested testosterone levels on 150mg/week test cyp and levels were well over 1000.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.430477Z"
+}

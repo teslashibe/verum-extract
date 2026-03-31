@@ -1,0 +1,53 @@
+{
+  "compound_id": "unknown",
+  "display_name": "unknown",
+  "category": "other",
+  "total_reports": 4,
+  "reports_by_tier": {
+    "4": 4
+  },
+  "top_benefits": [
+    {
+      "category": "other",
+      "count": 1,
+      "pct": 25
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "injection_site",
+      "count": 2,
+      "pct": 50,
+      "avg_severity": 1.5
+    },
+    {
+      "category": "muscle_cramp",
+      "count": 1,
+      "pct": 25,
+      "avg_severity": 2
+    },
+    {
+      "category": "allergic_reaction",
+      "count": 1,
+      "pct": 25,
+      "avg_severity": 3
+    }
+  ],
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "testosterone",
+      "display_name": "Testosterone",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.313,
+  "sentiment_breakdown": {
+    "positive": 0,
+    "mixed": 2,
+    "negative": 1,
+    "neutral": 1
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T04:48:57.355867Z"
+}

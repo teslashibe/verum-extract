@@ -1,0 +1,42 @@
+{
+  "id": "cc7e1058-a345-4007-87f8-0c83e1f14ea7",
+  "source_id": "1rzamsp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzamsp/is_melanotan_worth_it_over_fake_tanning/",
+  "author_hash": "839adcdaedd30cd3c3cfe2cf7df30c9614f1d093cfe6419cb8942078c0841cce",
+  "confidence_tier": 5,
+  "date_published": "2026-03-20T15:39:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MT 1",
+      "name_normalized": "melanotan_1",
+      "category": "tanning",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MT2",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Wave of nausea with MT1 that goes away in about 10 minutes",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "MT2 was brutal - unspecified severe side effects",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Prefers MT1 over MT2 due to tolerability. MT2 described as brutal.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106217Z"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "dc3d30f3-fb28-4cdb-8bb2-459b86495e91",
+  "source_id": "1ootbt8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ootbt8/hitting_that_point_where_people_are_starting_to/",
+  "author_hash": "763efabba0d52c701f0e1be98c8cab25cf59577942da2d4ada22e37481e0c09a",
+  "confidence_tier": 4,
+  "date_published": "2025-11-04T20:20:07-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "5A1MQ",
+      "name_normalized": "1mq",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "5 days per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Klow",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Enclomiphene",
+      "name_normalized": "enclomiphene",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Drop in visceral fat and body fat percentage",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Better recovery",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Better energy",
+      "severity": "moderate"
+    },
+    {
+      "category": "body_composition",
+      "description": "Weight loss",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "No side effects reported"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "unit": "%"
+    },
+    {
+      "marker_name": "visceral fat"
+    }
+  ],
+  "protocol_notes": "User layered compounds in over time starting in January 2025. Tesamorelin specifically used for visceral fat reduction. Tracking with InBody scans. Previously tested several combinations before landing on this stack. Consistent protocol appears to be key factor in success.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.678009Z"
+}

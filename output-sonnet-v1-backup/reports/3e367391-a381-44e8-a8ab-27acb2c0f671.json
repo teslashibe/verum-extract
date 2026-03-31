@@ -1,0 +1,64 @@
+{
+  "id": "3e367391-a381-44e8-a8ab-27acb2c0f671",
+  "source_id": "1rx2u70",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx2u70/is_ss31_a_must_before_starting_motsc/",
+  "author_hash": "5a4d4a222a618eb1d6b8387202c2e3ecd2ed74d38c68f96d9a60d5ab236f675d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T05:42:53-07:00",
+  "training_status": "HIIT circuit training 4-5 days a week, fairly lean (\u003c10% BF)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "mots-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "2x a week",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "mots-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 days on",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Noticeable increase in energy by 3rd week of second cycle",
+      "severity": "moderate",
+      "onset_days": 21
+    },
+    {
+      "category": "cognitive",
+      "description": "Noticeable increase in focus by 3rd week of second cycle",
+      "severity": "moderate",
+      "onset_days": 21
+    },
+    {
+      "category": "recovery",
+      "description": "Improved recovery between sets/stations during HIIT circuit training",
+      "severity": "moderate",
+      "onset_days": 21
+    },
+    {
+      "category": "fat_loss",
+      "description": "Some body recomposition noticed, already fairly lean",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "First cycle: 5mg 2x/week for 4 weeks — no noticeable difference. Second cycle (1-2 months later): 2mg 5 days on, noticeable effects by week 3. Never used SS-31 before or during either cycle. Taken in the AM fasted.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106918Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "823d94d0-c8b1-4e1c-bae2-e7a4878ffdb0",
+  "source_id": "1s1tng9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1tng9/ghk_cu_5_weeks_results/",
+  "author_hash": "185fb6161bf1e236f4a47a8cba5cf9191cf200ff47baea386a78eacc8a713116",
+  "confidence_tier": 5,
+  "date_published": "2026-03-23T14:07:52-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ghk-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "bpc-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB4",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injection_site",
+      "description": "Combining with BPC-157/TB4 reduces sting to near zero",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Sting from GHK-Cu injection, body adjusts after about a week",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Injects in glute. Uses 30ml bac water added to syringe with 2-3mg GHK-Cu. Body adjusts to sting after about a week.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105019Z"
+}

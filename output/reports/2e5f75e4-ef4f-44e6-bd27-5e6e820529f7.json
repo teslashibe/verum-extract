@@ -1,0 +1,53 @@
+{
+  "id": "2e5f75e4-ef4f-44e6-bd27-5e6e820529f7",
+  "source_id": "1r2txhz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2txhz/wolverine_stack_with_trt_and_tesamorelin/",
+  "author_hash": "e4867455392922272ae79165e529ff7a677d389b7c74021992bc738ef7bbc80c",
+  "confidence_tier": 4,
+  "date_published": "2026-02-12T05:50:18-08:00",
+  "health_conditions": [
+    "ankle surgery",
+    "recent hardware removal"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "Monday and Thursday",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Stopped all pain from ankle surgery. Pain was 7/10 before BPC, reduced to 0 after taking BPC before surgery.",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Used BPC-157 1 inch away from surgical incision for hardware removal (steel screws and plate).",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Protocol started 2.5 weeks ago with plan to continue for another month. Injected BPC-157 directly next to ankle surgical site. Advocates for targeted injection near injury site rather than subcutaneous belly injection.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.664572Z"
+}

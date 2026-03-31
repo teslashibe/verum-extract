@@ -1,0 +1,72 @@
+{
+  "id": "bad31881-e316-4662-afc4-266efa5f8c29",
+  "source_id": "17nqlxa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17nqlxa/one_month_taking_peptide_sciences_gut/",
+  "author_hash": "3f9d343a99d140a78ac87de55bc9ed9a7e75915bc159a2bc69f78f495bb82ce2",
+  "confidence_tier": 4,
+  "date_published": "2023-11-04T10:28:50-07:00",
+  "health_conditions": [
+    "Graves' disease",
+    "extreme inflammation",
+    "gut issues",
+    "meniscus tear",
+    "arthritis in hands"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "frequency": "1x daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "oral",
+      "frequency": "1x daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "inflammation",
+      "description": "Exhausting inflammation from thyroid disease improved",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Energy improved from 4/10 to 8.5/10",
+      "severity": "significant"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Meniscus tear - gained full knee mobility within two weeks, though still feels it during barometric pressure changes",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "joint_pain",
+      "description": "Arthritis in hands subsided",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Affects caffeine and cannabis sensitivity - makes their effects almost mute",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Taking Peptide Sciences gut inflammation research formula (pre-mixed blend) one capsule daily on empty stomach. Planning to continue for 4 months total. Will take a break after 4 months and reassess. Plans to get full gut check after second bottle.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.700179Z"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "25bcda86-8986-47bb-856d-3dac4e190249",
+  "source_id": "1q5mh9i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q5mh9i/horrible_skin_from_klow/",
+  "author_hash": "c6ac165c9850f9f5881908868b9710db05409503f2b764b679091c4f69d3cb43",
+  "confidence_tier": 4,
+  "date_published": "2026-01-06T08:00:12-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "60+",
+  "health_conditions": [
+    "cystic acne (baseline)",
+    "eczema (new onset)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Face looks better than ever after purging phase resolved",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Gnarly cystic acne patches and patches of eczema on face (never had eczema before)",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Used salicylic acid serum followed by collagen moisturizer twice daily to help balance during purge phase. Interpreted eczema outbreak as sign that peptides are working.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.671701Z"
+}

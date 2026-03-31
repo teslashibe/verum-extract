@@ -1,0 +1,67 @@
+{
+  "compound_id": "magnesium_glycinate",
+  "display_name": "Magnesium glycinate",
+  "category": "other",
+  "total_reports": 3,
+  "reports_by_tier": {
+    "4": 3
+  },
+  "top_benefits": [
+    {
+      "category": "recovery",
+      "count": 1,
+      "pct": 33.3
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "sleep_disruption",
+      "count": 2,
+      "pct": 66.7,
+      "avg_severity": 3
+    },
+    {
+      "category": "gastrointestinal",
+      "count": 1,
+      "pct": 33.3,
+      "avg_severity": 2
+    }
+  ],
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Retatrutide",
+      "report_count": 1
+    },
+    {
+      "compound_id": "selank",
+      "display_name": "Selank",
+      "report_count": 1
+    },
+    {
+      "compound_id": "tirzepatide",
+      "display_name": "Tirzepatide",
+      "report_count": 1
+    },
+    {
+      "compound_id": "glutathione",
+      "display_name": "Glutathione",
+      "report_count": 1
+    },
+    {
+      "compound_id": "nad_plus",
+      "display_name": "NAD+",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.667,
+  "sentiment_breakdown": {
+    "positive": 1,
+    "mixed": 2,
+    "negative": 0,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T04:29:07.892839Z"
+}

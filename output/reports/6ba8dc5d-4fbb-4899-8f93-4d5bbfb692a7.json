@@ -1,0 +1,74 @@
+{
+  "id": "6ba8dc5d-4fbb-4899-8f93-4d5bbfb692a7",
+  "source_id": "1jx2g8e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jx2g8e/tesamorelin_with_hgh/",
+  "author_hash": "cc1f77093ab82b43d760496fe4454908cf0b637e92fbab6a571b19402bd3e493",
+  "confidence_tier": 4,
+  "date_published": "2025-04-11T15:27:56-07:00",
+  "reported_weight": {
+    "value": 182,
+    "unit": "lbs"
+  },
+  "training_status": "working out daily",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1.8,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 12.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 125,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Working on stubborn abdominal fat loss; getting good definition after significant weight loss",
+      "severity": "moderate"
+    },
+    {
+      "category": "body_composition",
+      "description": "Muscle regain in gym after weight loss from 278 to 182 lbs",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Brand name Mounjaro used for Tirzepatide. User height 5'11\", starting weight 278 lbs, current weight 182 lbs. Consuming 1500 cal daily with ~100g protein daily. Goal is further leanout and definition, not muscle mass gain. Was previously on 1200-1300 calories. User inquired about adding Tesamorelin but comments directed toward Retatrutide instead.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.692637Z"
+}

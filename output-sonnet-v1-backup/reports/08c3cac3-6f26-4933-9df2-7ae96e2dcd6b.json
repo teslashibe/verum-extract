@@ -1,0 +1,57 @@
+{
+  "id": "08c3cac3-6f26-4933-9df2-7ae96e2dcd6b",
+  "source_id": "1rpura6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpura6/reta_to_triz_and_cjctesa_or_ipa/",
+  "author_hash": "9f60c51f1e16e8d3de6cb15819eae74daa568f51bca6580f6d84fc6cba465c11",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T04:48:34-07:00",
+  "training_status": "trains; training affected by low energy on Tirz",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ret",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC/IPA",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Noticed better sleep with CJC/IPA combination",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Too much appetite suppression on Tirz; very hard to eat enough",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "fatigue",
+      "description": "Energy levels really low on Tirz due to inability to eat sufficient food",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started on Tirzepatide but switched to Retatrutide due to excessive appetite suppression causing low energy and impaired training. Recommends CJC with Ipamorelin over Tesofensine as CJC/Tesa is considered redundant.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.110281Z"
+}

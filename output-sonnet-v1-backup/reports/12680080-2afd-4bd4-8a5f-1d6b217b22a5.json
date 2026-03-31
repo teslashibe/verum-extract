@@ -1,0 +1,45 @@
+{
+  "id": "12680080-2afd-4bd4-8a5f-1d6b217b22a5",
+  "source_id": "1r9gism",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9gism/ghk_cu_with_adhd_brainfog/",
+  "author_hash": "ed5ec1a21fb2eaf314b431d42ec974300d02202e4a25e44e67bf730f0e71044e",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T16:29:14-08:00",
+  "health_conditions": [
+    "ADHD"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 3,
+      "frequency": "daily in the morning",
+      "cycle_length_days": 2,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "zinc 50mg",
+      "name_normalized": "zinc_50mg",
+      "category": "other",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Brain fog experienced in the morning after taking GHK CU",
+      "severity": "mild",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "100mg GHK CU vial reconstituted with 3mL Bac water. Started GHK CU on Feb 17, added 50mg zinc on Feb 18. Taking 3 units in the morning. Brain fog started with GHK CU use.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.116392Z"
+}

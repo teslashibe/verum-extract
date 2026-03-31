@@ -1,0 +1,68 @@
+{
+  "id": "f7fb23d8-b5e7-4531-8915-915acea6c2a6",
+  "source_id": "1rb51di",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rb51di/peptides_for_grandma/",
+  "author_hash": "7eced37680c65cbaf4c17a1bd591573dd6d89ff02b38351b695af850f1e07e8a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T14:50:47-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "60+",
+  "training_status": "former athlete, bicycle racer, currently sedentary due to illness",
+  "health_conditions": [
+    "Hashimoto's disease",
+    "severe autoimmune issues",
+    "weight gain",
+    "fatigue"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "as needed, approximately every 5 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "inflammation",
+      "description": "Strong reduction in inflammation, anti-inflammatory effects kicked in by day 2",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "fat_loss",
+      "description": "Significant weight loss, down 40 pounds",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Improved energy and exercise capacity, could work in yard without crashing, able to walk dog 2 miles",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "body_composition",
+      "description": "Face swelling reduced within a week",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hormonal",
+      "description": "Required increased thyroid medication dosage, feeling cold without increased thyroid meds",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Started at 2mg, titrated to 3mg, then 4mg. Dosing frequency approximately every 5 days based on subjective need. Former athlete with significant functional decline over 10 years due to Hashimoto's and autoimmune disease. Now able to maintain light exercise like dog walking.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.673696Z"
+}

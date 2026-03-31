@@ -1,0 +1,55 @@
+{
+  "id": "d4382d02-2edb-4b96-975e-5985bc0d9194",
+  "source_id": "1rj54rx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rj54rx/bpc500_tb500_journey/",
+  "author_hash": "0b5ee5b2e8fbe2cd5956cce0d59d979be5e65e84e2462ed3e6afb33e2319e26b",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T13:02:26-08:00",
+  "reported_age_range": "50-59",
+  "training_status": "very fit, competitive road cyclist, 8-15 hours/week training",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Vivid dreams throughout the night (new experience)",
+      "severity": "mild",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "One additional nightly bathroom run than usual",
+      "severity": "mild",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Pre-mixed blend of BPC-157 and TB-500, 5mg each compound reconstituted with 2mL BAC water. Originally planned 250/250 mcg dose but adjusted to 500/500 mcg by adding 1mL additional BAC. Injected subcutaneously into abdominal fat. First injection on 3/5/26.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.669808Z"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "eb72352e-da4e-4c77-b6af-add7c38d4fb6",
+  "source_id": "1ohykl3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ohykl3/help_day_9_on_ghkcu_day_by_day_it_burns_more/",
+  "author_hash": "0312ae2cbc3acd98e352b690af929c4307d69f1bce6c8ea5df0d08bb33fb43fb",
+  "confidence_tier": 4,
+  "date_published": "2025-10-27T19:57:46-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Zinc",
+      "name_normalized": "zinc",
+      "category": "other",
+      "route": "oral",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Resolved significant injection site pain (PIP) through protocol optimization",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Bad post-injection pain (PIP) in beginning",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Reconstitution: 100mg GHK-Cu in 10ml BAC water total. First reconstitutes 1ml into CHK-Cu vial, then adds that 1ml back to remaining 9ml BAC water (double dilution technique). Uses longer needle for injection. Adds zinc supplementation at night. Dosing: 1mg = 10 units, 2mg daily.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.39491Z"
+}

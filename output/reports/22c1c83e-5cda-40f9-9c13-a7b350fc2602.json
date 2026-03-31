@@ -1,0 +1,39 @@
+{
+  "id": "22c1c83e-5cda-40f9-9c13-a7b350fc2602",
+  "source_id": "1fiu7dt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fiu7dt/which_glp1_cause_least_muscle_loss/",
+  "author_hash": "ac8b798aa6ae416cf9a3e0290998fa4df02abaf3588534c7bc16eaba366eb8c0",
+  "confidence_tier": 4,
+  "date_published": "2024-09-17T01:59:33-07:00",
+  "training_status": "active (gym 5x/week plus cardio)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Losing lots of fat while keeping muscles and strength",
+      "severity": "significant",
+      "onset_days": 21
+    }
+  ],
+  "protocol_notes": "Week 3 of Tirz + Tesa stack. 1300 calorie diet with 220g protein. Training 5x/week at gym plus cardio",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.413553Z"
+}

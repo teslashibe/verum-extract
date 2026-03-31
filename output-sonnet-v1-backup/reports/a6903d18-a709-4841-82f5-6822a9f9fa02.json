@@ -1,0 +1,76 @@
+{
+  "id": "a6903d18-a709-4841-82f5-6822a9f9fa02",
+  "source_id": "rpc3zw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/rpc3zw/horrible_reaction_from_25_units_of_b500/",
+  "author_hash": "dee0aae54baf84509431381a7b3445cd5e7b0ff07dd7880dec77131365190333",
+  "confidence_tier": 4,
+  "date_published": "2021-12-26T18:16:06-08:00",
+  "training_status": "sedentary due to chronic pain",
+  "health_conditions": [
+    "ciprofloxacin toxicity (floxed)",
+    "central sensitization",
+    "chronic neuropathic pain",
+    "widespread neuropathy",
+    "joint pain",
+    "tendon pain",
+    "degenerative disc disease (cervical, severe)",
+    "traumatic brain injury",
+    "cerebellum aneurysm (small, resolved)",
+    "autonomic nervous system dysfunction"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 25,
+      "frequency": "single dose reported",
+      "cycle_length_days": 1,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Extreme wired/anxious feeling described as feeling like meth injection; body pain dramatically worsened beyond baseline; felt like 'dipped in acid and beat with a baseball bat'",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": false
+    },
+    {
+      "category": "other",
+      "description": "Elevated heart rate with minimal activity (pulse 144 just standing in line) persisting one week after injection",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": false
+    },
+    {
+      "category": "blood_pressure",
+      "description": "Elevated blood pressure with activity persisting one week after injection",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": false
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Woke up wide awake approximately 3 hours after falling asleep following injection",
+      "severity": "significant",
+      "onset_days": 0
+    },
+    {
+      "category": "other",
+      "description": "Suspected sympathetic nervous system activation/CNS disturbance lasting 12 hours acutely, with residual symptoms persisting at least one week",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "TB500 obtained via prescription from a physician in Manhattan and compounded at a New York City compounding pharmacy. Dose recorded as '25 units' — exact mcg unknown due to unclear dilution. Injected around 5:30 PM. Reaction lasted approximately 12 hours acutely but symptoms persisted for at least one week. Patient has highly sensitive system to supplements, medications, and foods. Prescribed TB500 specifically to recover from fluoroquinolone (ciprofloxacin) toxicity. Taking alpha lipoic acid post-reaction to address neuropathy. Considering fecal transplant at UCSD for gut dysbiosis. Declined ipamorelin recommendation from physician due to concern. Also has history of adverse reactions to cannabis.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.428801Z"
+}

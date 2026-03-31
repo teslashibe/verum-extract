@@ -1,0 +1,76 @@
+{
+  "id": "7a2580a5-53bc-4ecd-8fca-c946ee593cdf",
+  "source_id": "1ldahe3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ldahe3/best_non_glp1s_for_weight_loss/",
+  "author_hash": "dda4ba58558c61ed49835db10ebd6091b2cceef00983250d54fdd412219b2829",
+  "confidence_tier": 4,
+  "date_published": "2025-06-16T18:21:48-07:00",
+  "training_status": "active (gym training mentioned)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "5-Amino-1MQ",
+      "name_normalized": "5_amino_1mq",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 25,
+      "dose_unit": "mg",
+      "frequency": "variable, as part of blend",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "as part of stack",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 25,
+      "dose_unit": "mg",
+      "frequency": "variable, Monday/Wednesday/Friday or daily depending",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SLU-PP-332",
+      "name_normalized": "slu_pp_332",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "starting to add in",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "metabolism",
+      "description": "ramps up metabolism",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "increased energy with certain dosing protocols",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "feels tired when taking all compounds together at full dose",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Uses 25mg 5-amino blend, 1mg MOTS-c, 25mg NAD. Mixes NAD and amino in same syringe, MOTS-c separate. 30 mins between amino and NAD optimal but not necessary. Titrates based on individual response, not strict protocols. Also takes carnitine injections and injectable carnitine. Recently started SLU-PP-332.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.406089Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "9e86d786-4f96-4754-9056-9224601d454c",
+  "source_id": "139kz5e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/139kz5e/best_sleep_in_30_years/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2023-05-06T05:01:29-07:00",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Woke up feeling rested and relaxed, resembling sleep quality from childhood, no morning stress or grogginess",
+      "severity": "significant",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "Third day of use. CJC/Ipamorelin combination (stack).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.701416Z"
+}

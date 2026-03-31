@@ -1,0 +1,40 @@
+{
+  "id": "3d9313a4-21c1-47df-9fb6-73465e02b032",
+  "source_id": "1pwxe25",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pwxe25/cagrilintide/",
+  "author_hash": "1d80de5c8a95439549e11669cc92a992222a4573306cfa498a7564f3784d0c42",
+  "confidence_tier": 4,
+  "date_published": "2025-12-27T05:05:32-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Food suppression, gets full super quick",
+      "severity": "significant",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "Non-responder to lower doses (0.25mg, 0.5mg). Stacking with Retatrutide after its appetite suppression diminished.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.672958Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "e403914d-e40a-4648-b0be-88182cd848d4",
+  "source_id": "1k2l1qm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k2l1qm/glp1s_are_so_misunderstood_and_hated_on/",
+  "author_hash": "8861d391aef6c2f66d7563231298302f123d68894e7a29967e7e2df092d07235",
+  "confidence_tier": 3,
+  "date_published": "2025-04-18T18:31:16-07:00",
+  "reported_weight": {
+    "value": 196,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "elevated glucose (non-diabetic)",
+    "high cholesterol"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 30 lbs over approximately 6 months, from 196 to 166 lbs, still losing",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "A1C lower than ever before",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Glucose and cholesterol both lower than ever tracked",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C",
+      "timeframe_days": 180
+    },
+    {
+      "marker_name": "glucose",
+      "timeframe_days": 180
+    },
+    {
+      "marker_name": "cholesterol",
+      "timeframe_days": 180
+    },
+    {
+      "marker_name": "body weight",
+      "value_before": 196,
+      "value_after": 166,
+      "unit": "lbs",
+      "timeframe_days": 180
+    }
+  ],
+  "protocol_notes": "About 6 months in. Not diabetic but had high glucose readings historically. Yearly physical showed improved labs across the board. Zero bad side effects reported.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.285684Z"
+}

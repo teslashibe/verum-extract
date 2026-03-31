@@ -1,0 +1,71 @@
+{
+  "id": "571bfb51-caae-4ac7-a390-7800a75f4cd0",
+  "source_id": "1qxl6y2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxl6y2/cycle_42m_on_trt_anyone_using_lowdose_retatrutide/",
+  "author_hash": "fd4788855fab4d8b62fe8102f0c989d5fed80d413b85dc28c73c0ffd98a3d1f2",
+  "confidence_tier": 4,
+  "date_published": "2026-02-06T07:48:37-08:00",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 195,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "intramuscular",
+      "dose_value": 140,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "every 3 days",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Can drop to low 190s or touch 180lbs, easily single digit body fat while still feeling decent. Without Reta hangs at 195-200lbs at 10-12% BF.",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Takes stress out of tracking food; able to function better at a leanness level that is difficult to achieve without it",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Functions better at lower body weight/higher leanness with Reta vs without",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "value_before": 10,
+      "unit": "%"
+    },
+    {
+      "marker_name": "body weight",
+      "value_before": 195,
+      "unit": "lbs"
+    }
+  ],
+  "protocol_notes": "Has been low-dosing Reta for over a year at 1mg every 3 days (~2.3mg/week). In late 40s. Advises not exceeding 1mg at a time and caution approaching 3mg/week.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.12093Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "77ff0ae1-004a-4483-a381-ec4d4ee4d73c",
+  "source_id": "1rb2yq1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rb2yq1/does_reta_dosing_depend_on_weight/",
+  "author_hash": "7eced37680c65cbaf4c17a1bd591573dd6d89ff02b38351b695af850f1e07e8a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T13:24:38-08:00",
+  "reported_sex": "female",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "lost some weight",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "modest side effects about 24 hours after injection at 1.5mg; severe nausea and vomiting when tried 3mg",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Wife of commenter. Cannot tolerate above 1.5mg weekly due to side effects. Tried 3mg once and was nauseous/vomiting for days.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661529Z"
+}

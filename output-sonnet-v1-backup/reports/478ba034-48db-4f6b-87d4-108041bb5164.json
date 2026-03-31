@@ -1,0 +1,51 @@
+{
+  "id": "478ba034-48db-4f6b-87d4-108041bb5164",
+  "source_id": "1odic0l",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1odic0l/contemplating_daily_dosing_of_tirzepatide/",
+  "author_hash": "b9377bf672a1de3ed0de65f71e8a6c016e2164c4219348d8277665205e631e2a",
+  "confidence_tier": 4,
+  "date_published": "2025-10-22T12:42:09-07:00",
+  "reported_weight": {
+    "value": 180,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 45 lbs (225 lbs to 180 lbs) from end of July to comment date (~roughly 12 weeks)",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Described experience as 'wonderful' with every other day dosing",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Skin felt like it was on fire with once-weekly 12mg dosing; resolved when switching to every other day smaller doses",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Previously on 12mg once weekly (Feb-April) with no results. Took a couple months break then switched to 1mg every other day. Previous once-weekly dosing caused significant skin burning side effects. Current every-other-day protocol has been much better tolerated.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.267083Z"
+}

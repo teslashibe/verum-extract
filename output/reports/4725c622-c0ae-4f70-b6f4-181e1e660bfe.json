@@ -1,0 +1,33 @@
+{
+  "id": "4725c622-c0ae-4f70-b6f4-181e1e660bfe",
+  "source_id": "1gv8wnv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1gv8wnv/selank_has_changed_my_life_is_there_a_risk_of/",
+  "author_hash": "8b5ecba95ae7ca15ee080efad6d4e35b9eab2692101528b03803de95fb614e9a",
+  "confidence_tier": 4,
+  "date_published": "2024-11-19T13:45:47-08:00",
+  "health_conditions": [
+    "hair loss (prone)"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hair_change",
+      "description": "increases shedding on day taken, observed hair loss increase",
+      "severity": "mild",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "N=1 observation. User is hair loss prone and on medications against it that could also cause shedding. Personal observation only.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.695469Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "e6e657bf-70b8-4818-bfe0-530b9fc14cbb",
+  "source_id": "1q7ci5x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q7ci5x/ghkcu_welts/",
+  "author_hash": "3ad07231752c8f8b760affc80ccab7d36c4adb6748a071918ea32e2375632ed8",
+  "confidence_tier": 4,
+  "date_published": "2026-01-08T05:59:50-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "taking it at night does wonders for sleep",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "skin irritation similar to welts with 5/16\" 31G needle in belly; post-injection pain lasting for hours",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Initially used 5/16\" 31G needle subcutaneously in belly; switched to 1/2\" 30G needle which resolved skin irritation and reduced post-injection pain. Takes GHK-Cu as part of KLOW blend. Resolved issue: injecting deeper (longer needle) prevents GHK-Cu from seeping into skin layer.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.387773Z"
+}

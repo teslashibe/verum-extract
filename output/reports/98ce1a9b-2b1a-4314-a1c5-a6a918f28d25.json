@@ -1,0 +1,80 @@
+{
+  "id": "98ce1a9b-2b1a-4314-a1c5-a6a918f28d25",
+  "source_id": "1h3p2hn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1h3p2hn/what_peptides/",
+  "author_hash": "5a403e9653c4d69c2d38bd82a36faaf7c50011ad1067e021e1a83c8a65078286",
+  "confidence_tier": 4,
+  "date_published": "2024-11-30T15:12:08-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "as needed before UV exposure",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "1x daily, 5 on 2 off",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 300,
+      "dose_unit": "mg",
+      "frequency": "every 3 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weightless peptides biggest winners",
+      "severity": "significant"
+    },
+    {
+      "category": "libido",
+      "description": "Sexual arousal",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Recovery and muscle retention/growth with CJC-IPA",
+      "severity": "moderate"
+    },
+    {
+      "category": "anti_aging",
+      "description": "General health and healing with NAD+",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "PT-141 in Melanotan 2. MT2 dosing 300-500 mcg, 30-40 minutes before UV exposure. CJC-IPA dosing 250-500mcg. Philosophy: find lowest effective dose, less is more, use as needed.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.695205Z"
+}

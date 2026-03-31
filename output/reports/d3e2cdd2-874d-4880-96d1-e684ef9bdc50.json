@@ -1,0 +1,51 @@
+{
+  "id": "d3e2cdd2-874d-4880-96d1-e684ef9bdc50",
+  "source_id": "1kkew5z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kkew5z/stacking/",
+  "author_hash": "8b0095fb27cb2b19a930d242394e95746fd7bff3b18acd5f62258786c2835aae",
+  "confidence_tier": 4,
+  "date_published": "2025-05-11T16:54:38-07:00",
+  "training_status": "resistance training 3x per week with personal trainer",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "feels full quicker but no noticeable appetite suppression or reduction of food noise",
+      "severity": "mild"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "gained a little muscle in arms with training",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "timeframe_days": 60
+    }
+  ],
+  "protocol_notes": "OP ordered Semaglutide from Mochi but after 6 weeks without shipping, switched to Tirzepatide from another company. Semaglutide arrived 3 months after order was cancelled. OP is in 1200-1300 calorie per day deficit (doctor recommended 1400), tracking with MyFitnessPal. Trainer conducts body scans every few weeks. Almost 2 months on Tirzepatide with minimal weight loss despite calorie deficit and resistance training. Considering adding Semaglutide to stack for added weight loss benefits.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.408183Z"
+}

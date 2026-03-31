@@ -1,0 +1,68 @@
+{
+  "id": "ddf9ae7f-0237-4048-98f0-923a5afc3565",
+  "source_id": "1kgcrqv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kgcrqv/the_wolverine_peptide/",
+  "author_hash": "eb70e56481ae84b9f3a15815fea1c57250794cc8d8f42f6f9c336b84c56a2bb5",
+  "confidence_tier": 4,
+  "date_published": "2025-05-06T12:04:39-07:00",
+  "health_conditions": [
+    "herniated extruded L5 disc",
+    "sciatic nerve compression"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "90% pain reduction post-surgery; immediate improvement after disc removal",
+      "severity": "significant",
+      "onset_days": 0
+    },
+    {
+      "category": "injury_healing",
+      "description": "Up and walking, able to drive, didn't use narcotics immediately after surgery despite year-long nerve compression prior",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nerve_related",
+      "description": "Lingering symptoms from long-term nerve compression",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Started peptides a few days after micro discectomy (not pre-surgery). 5 weeks post-op at time of report. Started physical therapy. Protocol ending soon, then planning KPV break, resuming BPC/TB-500 with nightly GHK-Cu for scar healing and vanity reasons. Doctors confirmed lingering nerve symptoms expected to resolve with time.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.79,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.408427Z"
+}

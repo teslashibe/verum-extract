@@ -1,0 +1,88 @@
+{
+  "id": "6d8a1e21-8c25-45a2-b67d-cf7d73fa9e31",
+  "source_id": "1okspu3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1okspu3/lost_22lbs_in_one_month_on_retatrutide/",
+  "author_hash": "f2a03ce2ccee03096d209d1a290838fc6968dc5b11e10da7f1afa0735c37aa4a",
+  "confidence_tier": 4,
+  "date_published": "2025-10-31T05:04:46-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 228,
+    "unit": "lbs"
+  },
+  "training_status": "6x per week, 1.5-2hrs weight lifting + 1 mile run",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 31,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 22lbs in one month; visible reduction in love handles, face slimming, reduced arm fat",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Extreme appetite suppression; no cravings for sweets despite Halloween candy availability; forced to eat",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "libido",
+      "description": "Increased libido; more sexual activity in past month than previous 3 years",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "6mg dose caused stinging and pain for 3 days",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 3
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Bloating reported early in protocol",
+      "severity": "mild",
+      "onset_days": 6
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_weight",
+      "value_before": 228,
+      "value_after": 206.2,
+      "unit": "lbs",
+      "timeframe_days": 31
+    }
+  ],
+  "protocol_notes": "Doses escalated weekly: 1mg (10-1), 2mg (10-7), 4mg (10-14), 6mg (10-21), 4mg (10-28). Reported 6mg was excessive. Also on TRT for ~2 years at 100-125mg/week. No loose skin observed. Goal weight 195lbs.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.678393Z"
+}

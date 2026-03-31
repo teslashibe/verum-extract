@@ -1,0 +1,67 @@
+{
+  "id": "f2367edc-297b-4a3e-a106-895d214b8118",
+  "source_id": "1psoe59",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1psoe59/reta_week_3_update/",
+  "author_hash": "619704059f73ccdfab34df9a70ef6565e096da13aa2cfe85de77274bfdf19364",
+  "confidence_tier": 4,
+  "date_published": "2025-12-21T18:45:05-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "17lbs lost over 8 weeks at 0.5-1mg dosing",
+      "severity": "significant",
+      "onset_days": 56
+    },
+    {
+      "category": "cognitive",
+      "description": "Brain activity improvement mentioned at 0.5mg/week",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Mild indigestion at 6mg dose, even after 3 hours without eating",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Summer 8-week protocol: 0.5mg 2x/week, then escalated to 1mg 2x/week. Most recently at 6mg and experiencing side effects; considering reduction to 3-4mg. User mentions glycogen changes at 6mg threshold.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.38991Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ee08757d-513d-44ca-9642-722b1aba8ef9",
+  "source_id": "1rt9gza",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rt9gza/wolverine_stack_subq_in_the_belly_vs_near_injury/",
+  "author_hash": "2edf551c6b1f6345405e7b6412e39f252d6f3dd36017d18f75cd46edac5858aa",
+  "confidence_tier": 5,
+  "date_published": "2026-03-13T21:04:04-07:00",
+  "health_conditions": [
+    "tennis elbow"
+  ],
+  "compounds": [
+    {
+      "name_raw": "peptide (unspecified - BPC 157/TB500 implied by context)",
+      "name_normalized": "peptide_unspecified___bpc_157tb500_implied_by_context",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Switched from stomach subQ to spot injection near tennis elbow injury site; reported faster effect and better improvement. Acknowledges possible bias.",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Initially injected subQ in stomach, switched to spot injection near injury site (tennis elbow). Perceived faster and greater benefit with local injection.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.108692Z"
+}

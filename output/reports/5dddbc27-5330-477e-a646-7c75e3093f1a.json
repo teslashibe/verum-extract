@@ -1,0 +1,77 @@
+{
+  "id": "5dddbc27-5330-477e-a646-7c75e3093f1a",
+  "source_id": "1j8ardp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1j8ardp/for_those_who_are_taking_peptides_without_dr/",
+  "author_hash": "614871b5ca6f02dabea0de332314b28458db05ff7fdaf4a035778aa990b5fe80",
+  "confidence_tier": 4,
+  "date_published": "2025-03-10T15:01:46-07:00",
+  "reported_weight": {
+    "value": 235,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "type 2 diabetes",
+    "elevated A1C",
+    "high blood pressure"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Thymulin",
+      "name_normalized": "thymulin",
+      "category": "immune",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "down 75lb",
+      "severity": "significant"
+    },
+    {
+      "category": "blood_sugar",
+      "description": "A1C normalized to perfect levels",
+      "severity": "significant"
+    },
+    {
+      "category": "cardiovascular",
+      "description": "no longer on blood pressure meds",
+      "severity": "significant"
+    },
+    {
+      "category": "immune",
+      "description": "immunity protocol with TA-1 and Thymulin, helps with seasonal allergies",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "weight",
+      "value_before": 235,
+      "value_after": 160,
+      "unit": "lbs"
+    },
+    {
+      "marker_name": "A1C"
+    }
+  ],
+  "protocol_notes": "User on immunity protocol with TA-1 and Thymulin; disclosed to PCP who was supportive. Mentioned compounds are in phase 2 trials for hepatitis.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.41071Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "afff3575-edf1-4926-9d4b-0f3486c15e5f",
+  "source_id": "1rqea54",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rqea54/allergic_reaction_all_of_a_sudden/",
+  "author_hash": "78e76964f81ba4c753838e96d226010148656579514ce71e7a1438c4660386f5",
+  "confidence_tier": 5,
+  "date_published": "2026-03-10T17:08:56-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Huge welts flared up on previous injection sites (both butt cheeks and stomach)",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Histamine reaction with itching on hands, feet, and face; watery eyes",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User has been cycling MOTS over the course of a year from the same source with no prior issues. The allergic/histamine reaction occurred when MOTS was taken together with NAD, and then again when MOTS was taken alone. Welts appeared specifically at previous injection sites.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109881Z"
+}

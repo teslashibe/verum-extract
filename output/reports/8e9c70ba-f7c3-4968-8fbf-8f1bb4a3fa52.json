@@ -1,0 +1,74 @@
+{
+  "id": "8e9c70ba-f7c3-4968-8fbf-8f1bb4a3fa52",
+  "source_id": "1s6w8y3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6w8y3/how_may_of_you_guys_are_testing_and_filtering/",
+  "author_hash": "eb24f7d1bc3b3a381111c0e001ee95d7ab445000a97b33fa688ec02ca5824a50",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T07:16:23-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "frequency": "occasional",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "frequency": "occasional",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "DSIP effects liked",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "PT-141 nausea even at low dose",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "CJC-1295/Ipamorelin sides caused pause in cycling",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Does not filter out of cost/inconvenience considerations; does not test; uses reputable vendor sources",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.656214Z"
+}

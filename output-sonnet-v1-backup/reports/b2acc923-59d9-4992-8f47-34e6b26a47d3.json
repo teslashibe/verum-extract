@@ -1,0 +1,43 @@
+{
+  "id": "b2acc923-59d9-4992-8f47-34e6b26a47d3",
+  "source_id": "1r01h8a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r01h8a/nad_motsc_post_injecting/",
+  "author_hash": "893c79c413f38c876a37b5e27fb94e67276de778092d457648db195cd6c3be7a",
+  "confidence_tier": 5,
+  "date_published": "2026-02-09T03:10:47-08:00",
+  "training_status": "takes peptides before hard workouts",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mots-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Loves the effects when taken before hard workouts; considers them energy peptides",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Confirms flush is normal"
+    }
+  ],
+  "protocol_notes": "Takes both NAD and Mots-c before hard workouts in the morning. Reports he would never be able to sleep if taken at night.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.120144Z"
+}

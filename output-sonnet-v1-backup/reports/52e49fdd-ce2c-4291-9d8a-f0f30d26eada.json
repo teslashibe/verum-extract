@@ -1,0 +1,51 @@
+{
+  "id": "52e49fdd-ce2c-4291-9d8a-f0f30d26eada",
+  "source_id": "1rx3dlr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx3dlr/tirz_to_reta/",
+  "author_hash": "685cd04f4218ad6fc1caba6d4b03ca43bd44222a10aadc4697382a5d25ef7099",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T06:06:33-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "every 6 days (alternating with Tirz every 3 days)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "every 6 days (alternating with Reta every 3 days)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 41 lbs in 4 months on the stack",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Wicked cotton mouth on both compounds",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Stacking Reta and Tirz until Tirz runs out, then switching to Reta only. Alternating schedule: 2mg Reta, then 3 days later 5mg Tirz, then 3 days later 2mg Reta, and so on. Note: doses reported as 'ml' by user but likely mg given context of GLP-1/GIP agonist dosing — recorded as mg. Describes experience as 'so far so good'.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106843Z"
+}

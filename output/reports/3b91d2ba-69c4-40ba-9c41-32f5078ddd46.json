@@ -1,0 +1,54 @@
+{
+  "id": "3b91d2ba-69c4-40ba-9c41-32f5078ddd46",
+  "source_id": "1ipmmgx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ipmmgx/how_long_for_ss31_to_kick_in/",
+  "author_hash": "fd10428dd8396c53a237caf13868e70fbdfb51630ade7ca0ad9516e6bf669e9b",
+  "confidence_tier": 4,
+  "date_published": "2025-02-14T14:18:16-08:00",
+  "training_status": "cardio (treadmill walking 5x/week)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cardiovascular",
+      "description": "Measurable improvement in cardio efficiency; resting heart rate decreased from average 120 bpm to 104-107 bpm within days",
+      "severity": "significant",
+      "onset_days": 3
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "resting heart rate",
+      "value_before": 120,
+      "value_after": 104,
+      "unit": "bpm",
+      "timeframe_days": 42
+    },
+    {
+      "marker_name": "max heart rate",
+      "value_before": 130,
+      "unit": "bpm"
+    }
+  ],
+  "protocol_notes": "Week 6 on SS-31, MOTS-c added beginning week 5. Same treadmill routine 5x/week. User attributes dramatic HR drop to peptides rather than training adaptation due to magnitude of change.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.411246Z"
+}

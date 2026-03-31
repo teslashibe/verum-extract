@@ -1,0 +1,48 @@
+{
+  "id": "e880619e-036a-4a33-8e27-02497e25ea76",
+  "source_id": "1rizczv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rizczv/phlegm_for_a_month_after_starting/",
+  "author_hash": "8cef2bd4361b03ecb5223c6cf0659473c04efa59ac98edee556e31a69bd01c87",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T09:35:15-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "respiratory",
+      "description": "Persistent phlegm requiring frequent spitting, ongoing for approximately one month after starting peptides",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User discontinued Epithalon but continued Retatrutide, GHK-Cu, and NAD+. Reports not feeling sick despite phlegm symptom. Uncertain if symptom is related to peptides or concurrent viral infection.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.669885Z"
+}

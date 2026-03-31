@@ -1,0 +1,54 @@
+{
+  "id": "2e1daa02-d302-460b-ab6e-f173ec01ad00",
+  "source_id": "1rglk11",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rglk11/reta_igf1_lr3/",
+  "author_hash": "f3d8119032dc622edd26ddbbec3d27d9b1e5558a2dcbddc5dae4cda5df9a6d80",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T14:49:04-08:00",
+  "training_status": "athletic, backcountry skiing, gym training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "trimming up stubborn love handles",
+      "severity": "moderate"
+    },
+    {
+      "category": "endurance",
+      "description": "endurance is fine",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "higher resting heart rate during steady uphill cardio, 145 instead of 135 bpm, perceived exertion increased",
+      "severity": "moderate"
+    },
+    {
+      "category": "endurance",
+      "description": "cardio performance decreased, markedly worse compared to baseline",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User is considering adding IGF-1 LR3 to Retatrutide stack for muscle preservation during fat loss. Concerned about synergy and potential blood sugar/insulin resistance effects. Currently on Retatrutide only.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.658917Z"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "b5dbc415-9603-45bd-8d0c-52149d348d3e",
+  "source_id": "1ae81wo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ae81wo/my_body_scan_today_vs_june_2023/",
+  "author_hash": "d8707a1f34a60e1cd9c94941656f71b53d2700e05b8c5b7d6c83c9e0b3e4a67b",
+  "confidence_tier": 4,
+  "date_published": "2024-01-29T14:21:31-08:00",
+  "reported_weight": {
+    "value": 170,
+    "unit": "lbs"
+  },
+  "training_status": "moderate exercise",
+  "health_conditions": [
+    "binge eating disorder"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "frequency": "once weekly (Mondays)",
+      "cycle_length_days": 210,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "frequency": "once weekly (Thursdays)",
+      "cycle_length_days": 210,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 50 lbs over 7 months (220 to 170 lbs) combined with diet and exercise; body fat decreased 9.5%",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Quiets brain regarding food cravings; helpful for binge eating disorder management",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Physical activity improvement had positive impact on mental health",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Much easier to move body; improved physical activity capability",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body weight",
+      "value_before": 220,
+      "value_after": 170,
+      "unit": "lbs",
+      "timeframe_days": 210
+    },
+    {
+      "marker_name": "body fat percentage",
+      "unit": "%",
+      "timeframe_days": 210
+    }
+  ],
+  "protocol_notes": "Stacked tirzepatide and semaglutide. Started June 2023 after pre-peptide weight loss phase (November 2022 to June 2023: 270 to 220 lbs via diet alone). Combined peptide stack with high protein/low carb diet and moderate exercise. User notes finding fewer side effects with stacking approach. Measured using Me360 body scan app.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.699233Z"
+}

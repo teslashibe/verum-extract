@@ -1,0 +1,46 @@
+{
+  "id": "1c407337-55c6-4095-956e-9f7c985274ab",
+  "source_id": "1pstfqo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pstfqo/peptides_for_love_handles_male/",
+  "author_hash": "4285b0aa1a7dadedcc73a2ab68bd4d76c37edb317e0b60a0b2989015fa1ef030",
+  "confidence_tier": 4,
+  "date_published": "2025-12-21T23:20:57-08:00",
+  "reported_sex": "male",
+  "training_status": "resistance trained",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once every one to two weeks",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Love handles gone, waist reduced from 35 inches to 32 inches",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Transitioned from Semaglutide 0.5mg to Retatrutide 2mg once every 1-2 weeks to allow more eating during holidays. Protocol combined with diet and exercise.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.673593Z"
+}

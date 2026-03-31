@@ -1,0 +1,37 @@
+{
+  "id": "baa2029a-e7c0-41a7-8dce-6aeddf2bccda",
+  "source_id": "1r9ncfx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9ncfx/bpc157tb500_dosage_guidance/",
+  "author_hash": "9aced6c4f750e7d15304345e75ba91051f44bbf03471bbf070a85bb02414475a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T21:55:41-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Standard dosing protocol: 250mcg each compound 2x daily, no days off. Uses 10mg vials reconstituted with 2mL BAC water. Recommends minimum 4 weeks but 8+ weeks average for efficacy. Notes that 5mg vials provide insufficient supply for adequate cycle length.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.674068Z"
+}

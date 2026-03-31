@@ -1,0 +1,66 @@
+{
+  "id": "57c442bc-11e6-47c3-9e8f-ae2ccfe0386f",
+  "source_id": "1rhzrso",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rhzrso/tesamorelin/",
+  "author_hash": "2fc93ff50604ac4c19499ba5a90bce88bf3968646757f3b6aafb60e0276502ff",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T07:16:40-08:00",
+  "training_status": "active (hiking)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Better sleep during first week, though causality uncertain",
+      "severity": "mild",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Gained about 5 lbs, hoped to be temporary",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "injection_site",
+      "description": "Itchy red reactions at injection sites lasting 2-3 days; worse further from belly button, worst at love handles. Improved after massaging post-injection.",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 14
+    },
+    {
+      "category": "other",
+      "description": "Hips slightly stiff/sore at 2 weeks, attributed to hiking",
+      "severity": "mild",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "No titration, started at 2mg daily fasted before sleep. Plans: 2 kits, 8 weeks on / 4 weeks off / 8 weeks on. Also on 5mg Reta for 2 months. Update at 2 weeks: still 5 lbs up, injection site reactions nearly resolved after massaging.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.113543Z"
+}

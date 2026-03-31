@@ -1,0 +1,37 @@
+{
+  "id": "ebf9bf6f-3edd-45ee-94b6-179fd81e8508",
+  "source_id": "1dmnvwm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1dmnvwm/at_72_years_old_m_im_finding_my_body_doesnt/",
+  "author_hash": "f5a97f5cbff44fde46d89b8241754d956228a33d38f2d55c2fa751d4f4911a0b",
+  "confidence_tier": 5,
+  "date_published": "2024-06-23T07:52:17-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Describes NAD+ as more useful for older folks; mentions elderly user felt it was like a shot of cocaine to her system"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Subq in glute is spicy and burns if not reconstituted with special BAC water or lidocaine; NAD+ has pH around 3",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Administers NAD+ subQ in glute; uses BAC water (pH ~6.0) or NAD water (~8.5) to reduce burn; mentions pH of NAD+ is around 3",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.292806Z"
+}

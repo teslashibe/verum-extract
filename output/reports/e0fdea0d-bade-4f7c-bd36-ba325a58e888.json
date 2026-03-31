@@ -1,0 +1,38 @@
+{
+  "id": "e0fdea0d-bade-4f7c-bd36-ba325a58e888",
+  "source_id": "1r4qcvt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r4qcvt/glow_peptide_and_nad/",
+  "author_hash": "c54c6deff3a47cdf857c131bb28087c1c3b08434eec48a59941a284f17299907",
+  "confidence_tier": 4,
+  "date_published": "2026-02-14T09:23:47-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "NAD+ and GHK-Cu both described as spicy (painful); GHK-Cu too spicy for abdominal injections",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Successfully manages NAD+ pH by adding sodium bicarbonate Hospira BAC water; reports pH on compounds should be 5-6 but has received vendors sending pH 3-4; can inject NAD+ in tummy and thighs with no issue if pH is corrected; injects GHK-Cu (KLOW) in glute with no issues; recommends zinc and antihistamine for GHK-Cu; uses pH strips to verify pH before injection",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.67635Z"
+}

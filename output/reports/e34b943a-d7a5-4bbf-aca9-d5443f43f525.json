@@ -1,0 +1,73 @@
+{
+  "id": "e34b943a-d7a5-4bbf-aca9-d5443f43f525",
+  "source_id": "1kl4pte",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kl4pte/1_week_anecdotal_pinealon_experience_curious/",
+  "author_hash": "b4564445bf1d28961c1321f473b3910338086e004b6249f28df698ef52f5e2c4",
+  "confidence_tier": 4,
+  "date_published": "2025-05-12T14:33:59-07:00",
+  "health_conditions": [
+    "delayed sleep phase disorder",
+    "CFS/fibro symptoms"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Pinealon",
+      "name_normalized": "pinealon",
+      "category": "cognitive",
+      "dose_value": 5,
+      "dose_unit": "mcg",
+      "frequency": "variable (daily dosing 5-15 units explored)",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "frequency": "microdose",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Melatonin",
+      "name_normalized": "melatonin",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Sharper and more ready to do intellectual work in the evening",
+      "severity": "moderate",
+      "onset_days": 3
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Felt wired before bed, insomnia above 1mg/day, interrupted sleep at lower doses, worsening of sleep quality",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "energy",
+      "description": "Low energy during typical wake times",
+      "severity": "moderate",
+      "onset_days": 3
+    },
+    {
+      "category": "appetite_change",
+      "description": "Increased appetite",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Reconstituted as 20mg + 2ml BAC water. Tried dosing before bed and in morning; timing did not matter. Doses explored: 5, 10, 15 units in 0.5ml. Monitored sleep with Oura ring. Plans to continue with lower dose (\u003c 1mg) or full 20-30 day cycle. Considering Epithalon for sleep timing and DSIP for delta sleep improvement. Does not appear to improve sleep timing or circadian rhythm despite product marketing.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.691125Z"
+}

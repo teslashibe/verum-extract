@@ -1,0 +1,45 @@
+{
+  "id": "db244177-b2d3-4edd-a6bb-c0326722654f",
+  "source_id": "1rb2yq1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rb2yq1/does_reta_dosing_depend_on_weight/",
+  "author_hash": "7eced37680c65cbaf4c17a1bd591573dd6d89ff02b38351b695af850f1e07e8a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T13:24:38-08:00",
+  "reported_weight": {
+    "value": 250,
+    "unit": "lbs"
+  },
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly, titrated to 4mg then 6mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "weight coming off quite nicely; visceral fat reduction with Tesa round",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started almost 250 lbs at 2mg weekly. No real side effects. Moved to 4mg then planning 6mg. Used round of Tesamorelin for visceral fat.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661529Z"
+}

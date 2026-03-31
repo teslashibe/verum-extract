@@ -1,0 +1,142 @@
+{
+  "id": "fb9cf980-7d49-4c23-9541-cd0e0685aab0",
+  "source_id": "1rj7gwt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rj7gwt/i_wish_i_started_sooner/",
+  "author_hash": "1c168feb1b419d95995b5baea48b7cde84af3dec0ca72da82b08c05f9a3f6adc",
+  "confidence_tier": 3,
+  "date_published": "2026-03-02T14:30:46-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 179,
+    "unit": "lbs"
+  },
+  "training_status": "Active, regular workouts",
+  "health_conditions": [
+    "torn meniscus"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "dose_value": 140,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "cycle_length_days": 150,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GLOW (BPC/TB/GHK)",
+      "name_normalized": "glow_bpctbghk",
+      "category": "other",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "frequency": "almost daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "frequency": "almost daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Melanotan 1",
+      "name_normalized": "melanotan_1",
+      "category": "tanning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Went from 192 lbs to 179 lbs; body fat from 14.3% to 9.2%",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "More energy and motivation",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive",
+      "description": "Sharper mind; Semax/Selank allows focus and flow state",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "Better sleep on TRT",
+      "severity": "moderate"
+    },
+    {
+      "category": "libido",
+      "description": "Better sexually on TRT",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "More assertive, less anxious about uncontrollable things",
+      "severity": "moderate"
+    },
+    {
+      "category": "injury_healing",
+      "description": "8 weeks of GLOW (BPC/TB/GHK) resolved all pain from torn meniscus and allowed avoidance of surgery",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Melanotan 1 produced visible tan; multiple people asked if he was returning from a vacation",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Total Testosterone",
+      "value_before": 500,
+      "value_after": 1000,
+      "unit": "ng/dL",
+      "timeframe_days": 150
+    },
+    {
+      "marker_name": "Free Testosterone",
+      "value_before": 6.2,
+      "value_after": 20,
+      "unit": "ng/dL",
+      "timeframe_days": 150
+    },
+    {
+      "marker_name": "Body Fat Percentage",
+      "value_before": 14.3,
+      "value_after": 9.2,
+      "unit": "%",
+      "timeframe_days": 150
+    }
+  ],
+  "protocol_notes": "44M on TRT for 5 months. Notes that Tesa and Ipa made no noticeable difference, possibly because he was already on TRT. Lipids have improved to best ever. Free T measurement unit listed as ng/dL but likely pg/mL — reported as stated. Body fat measured via Hume device, acknowledged as potentially imprecise.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112976Z"
+}

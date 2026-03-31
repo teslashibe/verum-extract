@@ -1,0 +1,46 @@
+{
+  "id": "7a4bc730-0271-475a-9bdc-0906d95402b4",
+  "source_id": "1qfo2pt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qfo2pt/bpc_157_tpc_500_blend_dose/",
+  "author_hash": "181de1bcef282875e633b9f399d755ce7207166c2db7275f30379d87ca23fa06",
+  "confidence_tier": 4,
+  "date_published": "2026-01-17T12:35:04-08:00",
+  "health_conditions": [
+    "joint pain",
+    "inflammation"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TPC 500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Heavy joint pain and inflammation cleared after using 500mcg/500mcg blend, then backed off to 250/250 maintenance dose",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started at 500mcg/500mcg of BPC-157/TB-500 blend for acute joint pain and inflammation. Once symptoms cleared, reduced to 250mcg/250mcg maintenance dose.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.124605Z"
+}

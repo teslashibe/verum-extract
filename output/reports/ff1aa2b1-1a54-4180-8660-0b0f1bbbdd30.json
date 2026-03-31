@@ -1,0 +1,51 @@
+{
+  "id": "ff1aa2b1-1a54-4180-8660-0b0f1bbbdd30",
+  "source_id": "1msdcxt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1msdcxt/from_stuck_to_steady_progress_how_i_dropped_22lbs/",
+  "author_hash": "11b6014ab1cae96ecd55e923a42e598138d3110930fcc847d6c6e101dc4fe1f8",
+  "confidence_tier": 4,
+  "date_published": "2025-08-16T17:59:15-07:00",
+  "training_status": "active (long walks, brisk intervals, uphill trails)",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 8,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Food noise dropped, felt in control of appetite, fullness kicked in earlier, portion sizes came down naturally",
+      "severity": "significant",
+      "onset_days": 30
+    },
+    {
+      "category": "fat_loss",
+      "description": "Dropped 22 lbs over the course of the protocol",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Mild nausea in the first week, resolved quickly",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Started at 3 mg weekly, titrated up to 5 mg after 6 weeks, then to 8 mg. Diet consisted of lean proteins, vegetables, and carbs. Used BAC water and syringes from US supplier. Tracked doses in PepTracker app for consistency and trend analysis. Reduced from 2 meals per day to 1 main meal in 90 minute window.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.400966Z"
+}

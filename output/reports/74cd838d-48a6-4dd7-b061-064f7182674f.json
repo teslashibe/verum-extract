@@ -1,0 +1,143 @@
+{
+  "id": "74cd838d-48a6-4dd7-b061-064f7182674f",
+  "source_id": "1oypf61",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oypf61/from_278_to_the_low_200s_still_pushing_still/",
+  "author_hash": "c9167085cc046cb87811678401b84386ae72a0fac6592f53700a561afabbe92e",
+  "confidence_tier": 4,
+  "date_published": "2025-11-16T08:03:47-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 278,
+    "unit": "lbs"
+  },
+  "training_status": "consistent gym training, post-surgery recovery",
+  "health_conditions": [
+    "sleep apnea",
+    "ADHD"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "5-Amino-1MQ",
+      "name_normalized": "5_amino_1mq",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "frequency": "ongoing",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Modafinil",
+      "name_normalized": "modafinil",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 73 lbs from 278 to 205-210 lbs over approximately 19 months",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Improved body composition with focus on recovery and energy rather than just scale weight",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Focused on recovery and energy optimization",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body weight",
+      "value_before": 278,
+      "value_after": 207.5,
+      "unit": "lbs",
+      "timeframe_days": 570
+    },
+    {
+      "marker_name": "InBody composition analysis"
+    }
+  ],
+  "protocol_notes": "Current core protocol includes 5A1MQ, CJC/IPA (no DAC), Klow, Tesamorelin, Retatrutide, and HGH. Previously tested MT2, PT141, NAD+, DSIP, BPC-157, TB-500. Also prescribed Modafinil for sleep apnea. Uses methylene blue. Training remained consistent throughout. Uses intermittent fasting. InBody body composition tracking used.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.6773Z"
+}

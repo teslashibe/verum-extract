@@ -1,0 +1,35 @@
+{
+  "id": "ca4e0d68-1b5c-4ed1-a99c-19b8df61c90a",
+  "source_id": "1kgcrqv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kgcrqv/the_wolverine_peptide/",
+  "author_hash": "4d07875411ec574541700df943ae99ea57bcab91c15bf2e7de07ab9b9bbddbb9",
+  "confidence_tier": 5,
+  "date_published": "2025-05-06T12:04:39-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "twice per week",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Just started protocol. BPC-157 500mcg daily, TB-500 5mg weekly split into two injections. No noticeable benefit yet.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.52,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.408427Z"
+}

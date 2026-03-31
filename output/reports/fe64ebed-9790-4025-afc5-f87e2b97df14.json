@@ -1,0 +1,47 @@
+{
+  "id": "fe64ebed-9790-4025-afc5-f87e2b97df14",
+  "source_id": "1kc87vb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kc87vb/tirzreta_stack/",
+  "author_hash": "feea78c76074f43150b54a3da8e3851a6e0171a12928703aec9e7a97b541c270",
+  "confidence_tier": 4,
+  "date_published": "2025-05-01T06:04:14-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 8,
+      "dose_unit": "mg",
+      "frequency": "weekly (Fridays)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "2x weekly (Mondays and Wednesdays)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "User seeking appetite suppression from Tirzepatide during transition to Retatrutide"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Implied benefit from GLP-1/GCG agonist stack"
+    }
+  ],
+  "protocol_notes": "Titrating down Tirzepatide and increasing Retatrutide to fully switch over. Concerned about taking 8mg Tirzepatide one day early while 2mg Retatrutide from previous day still in system.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.408742Z"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "8c0e8b1a-8d7b-4119-b059-2c166d02b8bb",
+  "source_id": "156zljc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/156zljc/i_used_to_love_opening_the_kitchen_fridge/",
+  "author_hash": "ac5e445d4d25210d16b1f5d596bdcb88c9a0efd11abfd862b246653778ecc0db",
+  "confidence_tier": 4,
+  "date_published": "2023-07-22T17:07:41-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "tirzepatide for weight loss",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "AOD-9604 for leaning out",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "ipamorelin/CJC-1295 made deep restful sleep",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Using 10mg vials of tirzepatide (5mg per week dose). AOD-9604 used for 6 weeks. Just started cycling ipamorelin/CJC-1295 without DAC. Protocol for two research subjects with 3 daily pins total. Maintains approximately 1.5 month supply. Vendor: Phat Strength for tirzepatide.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.420617Z"
+}

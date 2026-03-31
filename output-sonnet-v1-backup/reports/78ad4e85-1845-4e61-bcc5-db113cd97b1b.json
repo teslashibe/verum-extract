@@ -1,0 +1,51 @@
+{
+  "id": "78ad4e85-1845-4e61-bcc5-db113cd97b1b",
+  "source_id": "1nmzgst",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nmzgst/anyone_using_pharmaceutical_sermorelin/",
+  "author_hash": "a9d48a7684e6c1e4edc7ff1849819d1d7d24b5c35e142b239656743804c62d61",
+  "confidence_tier": 5,
+  "date_published": "2025-09-21T11:23:40-07:00",
+  "health_conditions": [
+    "COVID (recovered)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "pharmaceutical sublingual sermorelin",
+      "name_normalized": "pharmaceutical_sublingual_sermorelin",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "First week was rough, second week it seemed to help with sleep",
+      "severity": "mild",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "First week of use was rough",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Took sublingual sermorelin primarily for sleep. Got COVID during use. After recovery, switched to AM dosing. Also on tirzepatide and intermittent fasting (eating window starting 3-4pm on most weekdays).",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.270585Z"
+}

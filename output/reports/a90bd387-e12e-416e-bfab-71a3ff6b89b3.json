@@ -1,0 +1,49 @@
+{
+  "id": "a90bd387-e12e-416e-bfab-71a3ff6b89b3",
+  "source_id": "1rdykth",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdykth/any_downsides_to_switching_to_tirz_after_reta/",
+  "author_hash": "5acc3f1666ebc8431ec0742c7881bff42700e179da94b8014d310babc364235a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T16:52:12-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost most of the weight desired",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Strange skin allergy/reaction with raised welts at injection sites that itch intensely; rashes last well over a week even with antihistamines",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "hair_change",
+      "description": "Losing hair; had to force themselves to eat more",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Tried rotating injection sites, taking breaks, diluting, allowing to reach room temperature, different BAC water, and changed suppliers - none resolved the reaction. Switching to Tirzepatide.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.67236Z"
+}

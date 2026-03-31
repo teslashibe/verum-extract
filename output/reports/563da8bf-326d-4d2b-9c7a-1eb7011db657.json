@@ -1,0 +1,36 @@
+{
+  "id": "563da8bf-326d-4d2b-9c7a-1eb7011db657",
+  "source_id": "1rdvpsh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdvpsh/make_a_switch_from_semaglutide_to_ret/",
+  "author_hash": "1d7ce59dc54ed505d585af9d5c7694f0d301804de77868b90305b5492dddcdf1",
+  "confidence_tier": 5,
+  "date_published": "2026-02-24T14:56:53-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Goal to lose ~40lbs"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Goal to retain as much muscle as possible during weight loss"
+    }
+  ],
+  "protocol_notes": "User at starting titration step, considering switching to Retatrutide. No actual experience with side effects reported yet.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.660344Z"
+}

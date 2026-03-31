@@ -1,0 +1,73 @@
+{
+  "id": "c89b8078-48c6-45b8-905b-5b4bd88864b3",
+  "source_id": "1r6wncl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6wncl/looking_for_general_guidance_from_experienced/",
+  "author_hash": "619704059f73ccdfab34df9a70ef6565e096da13aa2cfe85de77274bfdf19364",
+  "confidence_tier": 4,
+  "date_published": "2026-02-16T20:43:38-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.125,
+      "dose_unit": "mg",
+      "frequency": "5x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.125,
+      "dose_unit": "mg",
+      "frequency": "5x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "First cycle: 17lbs weight loss through microdosing; second cycle initially slower due to emotional eating post-family death",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Less appetite suppression than semaglutide/tirzepatide; user retains ability to eat if chosen",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Burning skin at 5.5mg retatrutide dose",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "mood_change",
+      "description": "Anhedonia at 7.5mg retatrutide dose",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Second protocol: Retatrutide escalation starting 2mg, increasing 0.5mg per week. Experienced issues at 5.5mg and 7.5mg, reduced to 4mg maintenance. CJC-1295 (non-DAC) + Ipamorelin stacked at 0.125mg each, 5x weekly, administered fasted at night before bed (or morning if not fasted, with breakfast delayed). First cycle used CJC-1295 non-DAC with Ipamorelin which user preferred over DAC version. User notes CJC-DAC creates continuous GH signal which is 'unnatural' vs pulsatile approach with non-DAC + secretagogue.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.67528Z"
+}

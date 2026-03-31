@@ -1,0 +1,76 @@
+{
+  "compound_id": "selank_injecting",
+  "display_name": "Selank injecting",
+  "category": "other",
+  "total_reports": 1,
+  "reports_by_tier": {
+    "4": 1
+  },
+  "top_benefits": [
+    {
+      "category": "joint_pain",
+      "count": 1,
+      "pct": 100
+    },
+    {
+      "category": "mood",
+      "count": 1,
+      "pct": 100
+    },
+    {
+      "category": "other",
+      "count": 1,
+      "pct": 100
+    },
+    {
+      "category": "sleep",
+      "count": 1,
+      "pct": 100
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "sleep_disruption",
+      "count": 1,
+      "pct": 100,
+      "avg_severity": 3
+    }
+  ],
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "na_selank_intranasal",
+      "display_name": "NA Selank intranasal",
+      "report_count": 1
+    },
+    {
+      "compound_id": "oxytocin_intranasal",
+      "display_name": "Oxytocin intranasal",
+      "report_count": 1
+    },
+    {
+      "compound_id": "dsip_injection",
+      "display_name": "DSIP injection",
+      "report_count": 1
+    },
+    {
+      "compound_id": "pinealon",
+      "display_name": "pinealon",
+      "report_count": 1
+    },
+    {
+      "compound_id": "epithalon",
+      "display_name": "epitalon",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.5,
+  "sentiment_breakdown": {
+    "positive": 0,
+    "mixed": 1,
+    "negative": 0,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.96932Z"
+}

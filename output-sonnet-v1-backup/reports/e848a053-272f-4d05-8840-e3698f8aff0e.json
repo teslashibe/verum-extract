@@ -1,0 +1,42 @@
+{
+  "id": "e848a053-272f-4d05-8840-e3698f8aff0e",
+  "source_id": "1qqed18",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqed18/anything_that_will_help_with_delayed_circadian/",
+  "author_hash": "bbd92ae7b95772b5465c48da8a3b6e2ab459074a1fe832d679f0bccff6e0dae2",
+  "confidence_tier": 5,
+  "date_published": "2026-01-29T09:05:51-08:00",
+  "health_conditions": [
+    "ADHD",
+    "delayed circadian rhythm",
+    "oversleeping"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "nasal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "melatonin",
+      "name_normalized": "melatonin",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Not much effect observed from DSIP intranasal; unclear if weak or very subtle",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "OP has ADHD and chronic sleep issues related to taking too many sleep drugs. Used intranasal DSIP paired with melatonin but saw little effect.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123387Z"
+}

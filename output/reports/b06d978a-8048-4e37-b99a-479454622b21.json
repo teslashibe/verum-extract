@@ -1,0 +1,49 @@
+{
+  "id": "b06d978a-8048-4e37-b99a-479454622b21",
+  "source_id": "op4oko",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/op4oko/epitalon/",
+  "author_hash": "0083039e1247524f1cbc95adeb20a95dd8ec198632805c2d423c44ffee720aac",
+  "confidence_tier": 4,
+  "date_published": "2021-07-21T19:23:32-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "nasal",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Works via nasal administration but causes more tiredness compared to subcutaneous",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Got more tired with nasal spray administration compared to subcutaneous",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Used Epitalon via both nasal spray and subcutaneous routes. Recommends 5mg+ subcutaneous or 1.5mg intranasal for real effects. NA Epitalon is preferred, Amidate makes no difference. Notes nasal spray works but causes more fatigue than subcutaneous.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.702668Z"
+}

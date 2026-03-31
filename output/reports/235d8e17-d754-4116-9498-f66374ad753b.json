@@ -1,0 +1,47 @@
+{
+  "id": "235d8e17-d754-4116-9498-f66374ad753b",
+  "source_id": "1mhnhxn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mhnhxn/reta_if_im_not_overweight/",
+  "author_hash": "ae95aab1049865268e5e5251ac319283ad1cdb80e4f9c2d1081b773ddefe1c57",
+  "confidence_tier": 4,
+  "date_published": "2025-08-04T12:40:43-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 200,
+    "unit": "lbs"
+  },
+  "training_status": "very fit; 6 days/week gym, 14% body fat",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Using for multiple receptor effects beyond appetite suppression",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "2mg/week caused too much appetite suppression",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Height 6'2\", found 2mg/week too strong, titrated down to 1mg/week; uses with 0 cheat meals, healthy diet",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.685458Z"
+}

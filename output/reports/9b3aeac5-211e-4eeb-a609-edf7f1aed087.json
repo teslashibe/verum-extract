@@ -1,0 +1,108 @@
+{
+  "id": "9b3aeac5-211e-4eeb-a609-edf7f1aed087",
+  "source_id": "1qrprge",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qrprge/submitting_my_protocol_for_feedback/",
+  "author_hash": "3ef17895290c565df28c2276544170ac3860615d1fb14f4d7dabd40aaf280ae1",
+  "confidence_tier": 4,
+  "date_published": "2026-01-30T18:20:44-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 183,
+    "unit": "lbs"
+  },
+  "training_status": "4 times per week resistance training on Tonal, ~40 minutes per session; 1 weekly aerobic session; caloric deficit ~500 calories daily",
+  "health_conditions": [
+    "tennis elbow",
+    "skin laxity"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 8,
+      "dose_unit": "units",
+      "frequency": "once weekly",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 10,
+      "dose_unit": "units",
+      "frequency": "Monday - Friday",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 10,
+      "dose_unit": "units",
+      "frequency": "Monday - Friday",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "once weekly on Monday",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "Monday, Wednesday, Friday",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss resumed after plateau; 3 pounds lost over 6 weeks on semaglutide",
+      "severity": "moderate",
+      "onset_days": 42
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Implied by semaglutide use"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Protocol designed to address tennis elbow through growth hormone stimulation"
+    },
+    {
+      "category": "body_composition",
+      "description": "Seeking improved definition and muscle tone"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body weight",
+      "value_before": 248,
+      "value_after": 183,
+      "unit": "lbs"
+    },
+    {
+      "marker_name": "body fat percentage",
+      "value_after": 19.8,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "KLOW blend is 10/10/50/10 (likely referring to component ratios). Semaglutide sourced from Hims/Hers. Already on TRT (testosterone replacement therapy). Post describes this as initial protocol seeking feedback; reports 6 weeks into semaglutide at time of posting (ramp-up phase at 8 units completed, about to start 18 unit dose). Weight loss had plateaued for extended period before peptide introduction.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.668917Z"
+}

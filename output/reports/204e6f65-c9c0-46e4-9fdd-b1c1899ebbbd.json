@@ -1,0 +1,54 @@
+{
+  "id": "204e6f65-c9c0-46e4-9fdd-b1c1899ebbbd",
+  "source_id": "1rkvdmg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rkvdmg/cjcipa_no_dac_allergic_reactions/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2026-03-04T11:43:24-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "headache",
+      "description": "mild head pressure",
+      "severity": "mild"
+    },
+    {
+      "category": "flushing",
+      "description": "face flush after pinning",
+      "severity": "mild"
+    },
+    {
+      "category": "anxiety",
+      "description": "anxiety after pinning hurting sleep",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "CJC without DAC. Concerned about potential allergic reactions and anaphylaxis risk. Running for 3 weeks at time of post.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.656974Z"
+}

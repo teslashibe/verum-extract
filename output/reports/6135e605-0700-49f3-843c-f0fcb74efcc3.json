@@ -1,0 +1,31 @@
+{
+  "id": "6135e605-0700-49f3-843c-f0fcb74efcc3",
+  "source_id": "1pwmas5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pwmas5/serious_risks_of_using_klow_or_kpv/",
+  "author_hash": "9e5cdaee368c8e52673ea0aa4bbf893a8b71d7935cf7196696e37ffbf64dffdc",
+  "confidence_tier": 4,
+  "date_published": "2025-12-26T18:31:24-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "vision_change",
+      "description": "Increased cherry angiomas in short period. Theoretical risk of retinal vascularization leading to blindness due to VEGF upregulation",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "High-volume BPC-157 user. Developed increased cherry angiomas. Referenced theoretical blindness risk from VEGF upregulation and cited one Reddit case of potential BPC-157 related eye damage.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.673144Z"
+}

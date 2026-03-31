@@ -1,0 +1,52 @@
+{
+  "id": "f9f90678-95f7-4775-8170-400ac547e59f",
+  "source_id": "1r2wwvr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2wwvr/motscghkcu_sting_relief/",
+  "author_hash": "c4ed8f223f1bcf2a425325986791b2ce80ff5c35117c949fc7e4009948ab418a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-12T07:48:00-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 40,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "small welt after MOTS-c",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "injection_site",
+      "description": "intense burn about an hour after GHK-Cu depending on site",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Reconstituted with BAC water: 100mg GHK-Cu in 3ml BAC, 40mg MOTS-c in 2ml BAC. Found that pinning in glutes eliminated 100% of stinging, welts and bruising.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677027Z"
+}

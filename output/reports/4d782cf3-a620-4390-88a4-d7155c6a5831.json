@@ -1,0 +1,46 @@
+{
+  "id": "4d782cf3-a620-4390-88a4-d7155c6a5831",
+  "source_id": "1ppct1r",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ppct1r/lower_your_dose/",
+  "author_hash": "09ecccdfa426fbd378debf4fcb703554ed434ff28a2778b8960fe3be811986ae",
+  "confidence_tier": 4,
+  "date_published": "2025-12-17T16:22:49-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Losing consistently on 5mg dose after stalling on 10mg. Lost 5 pounds after dose reduction.",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "heart_rate",
+      "description": "Increased heart rate correlated with higher dose (10mg)",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "appetite_change",
+      "description": "At 10mg dose, not experiencing appetite suppression and reaching for snacks and candy more often",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Previously on 10mg for 2 months with weight loss plateau of 2-3 pounds. Reduced to 5mg and experienced consistent fat loss. User attributes higher dose stress to increased cortisol/stress response leading to increased snacking behavior. Same vendor used throughout protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.390419Z"
+}

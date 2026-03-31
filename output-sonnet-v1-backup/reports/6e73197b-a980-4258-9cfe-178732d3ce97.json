@@ -1,0 +1,48 @@
+{
+  "id": "6e73197b-a980-4258-9cfe-178732d3ce97",
+  "source_id": "1kih8qm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kih8qm/a_peptide_for_gout/",
+  "author_hash": "247c1dc8fe05702304473959257a7ad7a36a3741f84e94db5541b3dd532fbde0",
+  "confidence_tier": 5,
+  "date_published": "2025-05-09T05:27:45-07:00",
+  "training_status": "exercises 5 days a week",
+  "health_conditions": [
+    "gout",
+    "high estrogen"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 150,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "adex",
+      "name_normalized": "adex",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Feeling extremely emotional, crying daily, attributed to high estrogen from TRT",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "estrogen (E2)"
+    }
+  ],
+  "protocol_notes": "OP has had gout for years, lives a healthy lifestyle, has a family history of gout. Started TRT 5 months ago, gout has worsened. E2 found to be high, adex (anastrozole) prescribed and in transit. Seeking peptide options for gout management.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.284315Z"
+}

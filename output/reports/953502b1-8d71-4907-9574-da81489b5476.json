@@ -1,0 +1,79 @@
+{
+  "id": "953502b1-8d71-4907-9574-da81489b5476",
+  "source_id": "1rux4ga",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rux4ga/not_sure_what_to_do/",
+  "author_hash": "8cae5cf6837253ae716b98df4e150c381dec296c0ccc8d97b6bf34449e07a07f",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T19:16:10-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "25-29",
+  "reported_weight": {
+    "value": 238,
+    "unit": "lbs"
+  },
+  "training_status": "lifting 3-4x per week, cardio 2-3x per week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 2 lbs in 2 weeks after adding MOTS-c and AOD-9604; total loss from 300 to 238 over ~1 year on Tirzepatide",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "energy",
+      "description": "Subtle energy shift noticed since adding AOD-9604",
+      "severity": "mild",
+      "onset_days": 14
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Cagrilintide provided appetite suppression",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Cagrilintide caused excessive appetite suppression, making it difficult to hit protein goals",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 14
+    }
+  ],
+  "protocol_notes": "Started Tirzepatide in April 2025 at 300 lbs. Stalled at 240 lbs for 2 months before adding MOTS-c and AOD-9604. Added Cagrilintide for a couple weeks a few months back but discontinued due to excessive appetite suppression. Does not track calories; focuses on clean whole foods and limiting processed sugar. Currently maintains diet and exercise while using peptide stack.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.663168Z"
+}

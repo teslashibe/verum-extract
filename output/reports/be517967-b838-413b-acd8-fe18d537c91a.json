@@ -1,0 +1,76 @@
+{
+  "id": "be517967-b838-413b-acd8-fe18d537c91a",
+  "source_id": "k303dc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/k303dc/peptides_for_brain_regeneration_after/",
+  "author_hash": "ef61670d879145999f8e409eebfd0db3001ed9393148194a8c0adbc1c8f4e486",
+  "confidence_tier": 4,
+  "date_published": "2020-11-28T17:20:57-08:00",
+  "health_conditions": [
+    "amphetamine_abuse",
+    "dopaminergic_receptor_damage",
+    "anxiety",
+    "cardiovascular_strain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "9-Me-BC",
+      "name_normalized": "9_me_bc",
+      "category": "other",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Uridine",
+      "name_normalized": "uridine",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAC",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "dopaminergic neuron regeneration; therapeutic amphetamine effect at lower doses (20mg vs previous 90-150mg needed)",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "reduced anxiety from neurotoxicity recovery",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "anxiety",
+      "description": "late-stage anxiety from amphetamine neurotoxicity; receptors and transporters damaged; resolved with regenerative therapy",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "cardiac",
+      "description": "amphetamine extremely hard on cardiovascular system; multiple ER trips",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Long-term high-dose amphetamine abuse; 9-Me-BC allows therapeutic effect at 20mg (vs 90-150mg dextroamphetamine); photosensitivity risk with 9-Me-BC (requires sunglasses, sunscreen); MAOI-A effects require low tyramine diet; NAC prevents further damage; believes amphetamine more neurotoxic than opioids despite opioid withdrawal being more acute painful",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.703566Z"
+}

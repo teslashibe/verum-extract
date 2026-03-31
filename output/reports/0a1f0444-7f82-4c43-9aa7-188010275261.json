@@ -1,0 +1,49 @@
+{
+  "id": "0a1f0444-7f82-4c43-9aa7-188010275261",
+  "source_id": "1rokp5s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rokp5s/cjc1295ipamorelin_blend_and_tirz_stack/",
+  "author_hash": "904549660fee4a4766a5abca0354a57f840461df2ec30592cade3abfc8f3c255",
+  "confidence_tier": 5,
+  "date_published": "2026-03-08T16:58:29-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Muscle maintenance goal",
+      "severity": "moderate"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Anti-aging properties goal",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Maintenance dose of Tirzepatide 2.5mg. Interested in adding CJC/IPA blend for muscle maintenance and anti-aging. Expressed concern about compounds potentially canceling each other out.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.42,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.655234Z"
+}

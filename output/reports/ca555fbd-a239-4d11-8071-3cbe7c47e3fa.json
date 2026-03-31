@@ -1,0 +1,35 @@
+{
+  "id": "ca555fbd-a239-4d11-8071-3cbe7c47e3fa",
+  "source_id": "1s1xv42",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1xv42/question_about_dosing/",
+  "author_hash": "764c7ea7202356e43b5968325c5399be979f7479fd2a7ee826b78fc736f33224",
+  "confidence_tier": 5,
+  "date_published": "2026-03-23T16:49:43-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "User previously used Mounjaro (tirzepatide brand name) pens at 1.25 mg/week for 4 weeks per pen. Inquiring about switching to retatrutide vial form due to cost. Asking clarification on dosing, syringes, and storage protocols. No personal experience with retatrutide reported yet.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.647713Z"
+}

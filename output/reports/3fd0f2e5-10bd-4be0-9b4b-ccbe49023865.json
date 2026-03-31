@@ -1,0 +1,38 @@
+{
+  "id": "3fd0f2e5-10bd-4be0-9b4b-ccbe49023865",
+  "source_id": "1odb37e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1odb37e/i_want_to_try_site_injections_for_bpc157_any/",
+  "author_hash": "f98e3269be23300b7c556fb19662e5c86f2538ebc539682e581efb33ba6e8ebc",
+  "confidence_tier": 4,
+  "date_published": "2025-10-22T08:16:15-07:00",
+  "training_status": "active (gym limitations post-surgery)",
+  "health_conditions": [
+    "shoulder labrum repair surgery",
+    "bicep tendon irritation"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Subcutaneous injections into stomach area for 5-6 weeks with no noticeable benefit. Planning to switch to site injections near shoulder labrum. Post-surgery at 1.5 years with ongoing limitations.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.678965Z"
+}

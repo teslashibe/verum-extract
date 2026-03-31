@@ -1,0 +1,62 @@
+{
+  "id": "299e3afa-54ef-41da-8597-175639e4b3e8",
+  "source_id": "1mrif03",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mrif03/going_from_tirz_to_reta/",
+  "author_hash": "bf885c1f2934b73ec5209e783ea951616863d93a03410e27974fd9480e8e8194",
+  "confidence_tier": 4,
+  "date_published": "2025-08-15T19:40:45-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "arim",
+      "name_normalized": "primo",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "After normalizing E levels with small amount of anastrozole, lost 5-7 lbs of water weight quickly after switching to Reta",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "High estrogen from TRT caused water retention; resolved after bringing E to normal levels with small dose of anastrozole",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Estradiol"
+    }
+  ],
+  "protocol_notes": "On TRT, had high but asymptomatic estrogen; used small dose of anastrozole to normalize E without crashing it. After E normalization and switching to Reta, quickly lost 5-7 lbs of water. Recommends fully exhausting Tirz progress (titrate to max, hold ~3 months) before switching to Reta.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.275341Z"
+}

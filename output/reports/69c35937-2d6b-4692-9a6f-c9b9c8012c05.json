@@ -1,0 +1,74 @@
+{
+  "id": "69c35937-2d6b-4692-9a6f-c9b9c8012c05",
+  "source_id": "1qkdemd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qkdemd/split_lyophilized_powder_into_2_vials/",
+  "author_hash": "bb55c40086a703d510853ab87f3a963d3ce1b06c6235b5544cb1301053f3b24f",
+  "confidence_tier": 4,
+  "date_published": "2026-01-22T17:40:31-08:00",
+  "health_conditions": [
+    "joint pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "5 days on / 2 days off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Goal is fat loss"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Goal is muscle building"
+    },
+    {
+      "category": "recovery",
+      "description": "Goal is recovery"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Side effect of tesa",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "IGF-1 came in high. Taking 0.5mg tesa with 100mcg ipa. Also on 2.5mg tirz.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.670337Z"
+}

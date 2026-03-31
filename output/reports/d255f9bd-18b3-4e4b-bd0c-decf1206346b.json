@@ -1,0 +1,169 @@
+{
+  "id": "d255f9bd-18b3-4e4b-bd0c-decf1206346b",
+  "source_id": "1rj7gwt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rj7gwt/i_wish_i_started_sooner/",
+  "author_hash": "1c168feb1b419d95995b5baea48b7cde84af3dec0ca72da82b08c05f9a3f6adc",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T14:30:46-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 179,
+    "unit": "lbs"
+  },
+  "training_status": "active training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 140,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "nasal",
+      "frequency": "almost daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "nasal",
+      "frequency": "almost daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 13 lbs in 5 months (192 lbs to 179 lbs), body fat decreased from 14.3% to 9.2%",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "More energy and motivation",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Better recovery",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "Better sleep",
+      "severity": "significant"
+    },
+    {
+      "category": "libido",
+      "description": "Better sexual function",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "More assertive, less worry, sharper mind",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive",
+      "description": "Semax/Selank allows focus and flow state",
+      "severity": "moderate"
+    },
+    {
+      "category": "injury_healing",
+      "description": "8-week GLOW (BPC/TB/GHK) resolved torn meniscus pain and avoided surgery",
+      "severity": "significant",
+      "onset_days": 56
+    },
+    {
+      "category": "skin",
+      "description": "Melanotan 1 produced significant tanning effect",
+      "severity": "moderate"
+    },
+    {
+      "category": "cardiovascular",
+      "description": "Best lipid levels ever achieved",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Total Testosterone",
+      "value_before": 500,
+      "value_after": 1000,
+      "unit": "ng/dL",
+      "timeframe_days": 150
+    },
+    {
+      "marker_name": "Free Testosterone",
+      "value_before": 6.2,
+      "value_after": 20,
+      "unit": "ng/dL",
+      "timeframe_days": 150
+    },
+    {
+      "marker_name": "Body Fat",
+      "value_before": 14.3,
+      "value_after": 9.2,
+      "unit": "%",
+      "timeframe_days": 150
+    },
+    {
+      "marker_name": "Lipid Profile",
+      "timeframe_days": 150
+    }
+  ],
+  "protocol_notes": "44M, TRT 5 months at time of comment. IM injections 2x/week. Ran 8-week GLOW (BPC/TB/GHK blend) for torn meniscus. Tried Tesamorelin and Ipamorelin with no noticeable effect. Uses Semax/Selank almost daily. Testing Melanotan 1. Body fat measurement per Hume method.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.669765Z"
+}

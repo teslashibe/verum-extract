@@ -1,0 +1,52 @@
+{
+  "id": "588d85a3-859b-444c-a88d-8d3c6ea6c77c",
+  "source_id": "1s3yfim",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3yfim/first_time_glp_user_tirzepatide_vs_retatrutide/",
+  "author_hash": "44a6146b4867840c82e8b19229cd64c11af1c9297fe50aae8f60b76e3f4353c5",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T22:07:06-07:00",
+  "training_status": "active gym-goer",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 12,
+      "dose_unit": "mg",
+      "frequency": "every 6 days",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "More energy in the gym on Reta than even off GLPs entirely",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Describes Reta as far more effective compound for fat loss than tirz",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "On tirzepatide was too fatigued to hit workout goals",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Has run all 3 main GLPs (semaglutide, tirzepatide, retatrutide). Currently on 12mg Reta every 6 days. Strongly prefers Reta over Tirz for energy and gym performance.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104198Z"
+}

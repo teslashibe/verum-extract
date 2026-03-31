@@ -1,0 +1,81 @@
+{
+  "id": "a1c2a9aa-5160-48d4-87d0-e59e2fb9e0e8",
+  "source_id": "1s1hbwi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1hbwi/anyone_taking_just_solely_peptides_for_muscle_mass/",
+  "author_hash": "b8842a3272f01d35dbf605c25f4e03e8282cd1c8b5f7574f0382b12547750320",
+  "confidence_tier": 3,
+  "date_published": "2026-03-23T06:46:44-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 168,
+    "unit": "lbs"
+  },
+  "training_status": "beginner, recently started after 25 years sedentary",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "gained 9.5 lbs skeletal muscle mass (75.8 to 85.3 lbs) over 2 months with body composition scan",
+      "severity": "significant",
+      "onset_days": 60
+    },
+    {
+      "category": "fat_loss",
+      "description": "decreased body fat from 17.4% to 11% (though user notes may be underestimated at 13.5-14%)",
+      "severity": "significant",
+      "onset_days": 60
+    },
+    {
+      "category": "endurance",
+      "description": "mile time improved from 9:50 to 7:20 in 2 months",
+      "severity": "significant",
+      "onset_days": 60
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "value_before": 17.4,
+      "value_after": 11,
+      "unit": "%",
+      "timeframe_days": 60
+    },
+    {
+      "marker_name": "skeletal muscle mass",
+      "value_before": 75.8,
+      "value_after": 85.3,
+      "unit": "lbs",
+      "timeframe_days": 60
+    },
+    {
+      "marker_name": "body weight",
+      "value_before": 163,
+      "value_after": 168,
+      "unit": "lbs",
+      "timeframe_days": 60
+    }
+  ],
+  "protocol_notes": "Also started creatine supplementation during the same period. User attributes part of gains to newbie gains and creatine but credits CJC/Ipamorelin as primary driver. HIIT and resistance training at gym, no prior workout experience. InBody scan used for measurements.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.648173Z"
+}

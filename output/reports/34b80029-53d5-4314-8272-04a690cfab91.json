@@ -1,0 +1,65 @@
+{
+  "id": "34b80029-53d5-4314-8272-04a690cfab91",
+  "source_id": "1jx2g8e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jx2g8e/tesamorelin_with_hgh/",
+  "author_hash": "18aafa3fe68ee921af23ec161fe95acc297cd1329d379d42572b4d44b1fefa1a",
+  "confidence_tier": 4,
+  "date_published": "2025-04-11T15:27:56-07:00",
+  "training_status": "locked in with diet, training, and hormones",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "once",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Extremely noticeable visceral fat loss at 2 IU HGH dose",
+      "severity": "significant",
+      "onset_days": 30
+    },
+    {
+      "category": "skin",
+      "description": "Noticeable skin quality improvement; face leaned out and lost approximately 10 years in appearance after induction water came off",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Induction water retention in subcutaneous areas, particularly in chin; makes appearance sloppy. Water retention from dose increases is temporary but variable",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "weight_change",
+      "description": "Retatrutide caused no water retention anywhere; resulted in no pump and flat muscles",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User emphasizes that results depend on locked-in diet, training, and hormone protocols. 2 IU HGH showed faster visceral fat loss than commonly recommended 4-6 IU range for this user. Attributes ability to track variables to optimized baseline protocols. Notes 1 mg retatrutide eliminated water retention that HGH caused.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.692637Z"
+}

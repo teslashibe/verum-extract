@@ -1,0 +1,35 @@
+{
+  "id": "d839523f-7a6d-43ae-aeed-ac44aab674f8",
+  "source_id": "1r200a5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r200a5/has_anyone_stacked_reta_on_top_of_max_sema/",
+  "author_hash": "3f26e6ee53cbb93ee70708177d651f095801547692d80512c850e40b362ece24",
+  "confidence_tier": 4,
+  "date_published": "2026-02-11T07:14:39-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 2.4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 365,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 25,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "User considering stacking Retatrutide on top of max dose Semaglutide (2.4mg) rather than switching. Has 25mg Retatrutide available. Considering price sensitivity and potential washout period.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.664886Z"
+}

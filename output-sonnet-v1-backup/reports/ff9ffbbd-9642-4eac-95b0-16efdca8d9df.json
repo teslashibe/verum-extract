@@ -1,0 +1,54 @@
+{
+  "id": "ff9ffbbd-9642-4eac-95b0-16efdca8d9df",
+  "source_id": "10umccs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/10umccs/bpc157_and_tb500_cured_my_chronic_pain_success/",
+  "author_hash": "dc72f59b2ffbbfff2879e32e8a6e00fb8670a4203af3ba123f2c4497fa5455a1",
+  "confidence_tier": 4,
+  "date_published": "2023-02-05T12:20:10-08:00",
+  "training_status": "active, going to gym",
+  "health_conditions": [
+    "chronic back pain (over 1 year)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "bpc",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tb500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Fewer days spent in bed unable to move from chronic back pain; able to go to gym more and walk further.",
+      "severity": "mild"
+    },
+    {
+      "category": "other",
+      "description": "Felt more 'abled' overall from chronic back pain.",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Vivid dreams and nightmares noted, annoying partner by recounting them each morning.",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "On month 1 of BPC and week 1 of TB500 at time of comment. Effects described as subtle but positive so far.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.427947Z"
+}

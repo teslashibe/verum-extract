@@ -1,0 +1,59 @@
+{
+  "id": "15adb797-46a0-4672-ad6a-cdb88b41d0f7",
+  "source_id": "1b55g35",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1b55g35/45_months_progress_50_lbs/",
+  "author_hash": "572e290609ec82315a98553a3ee24125e7a6184ef8dabec07368f9bba68bc057",
+  "confidence_tier": 3,
+  "date_published": "2024-03-02T18:02:04-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 226,
+    "unit": "lbs"
+  },
+  "training_status": "recreational lifter, 3-4x/week resistance training, no cardio",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 127,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost approximately 50 lbs over 4-5 months, going from ~226 lbs to 175 lbs",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Semaglutide made it much easier to manage caloric intake",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Body composition scan puts user around 15% body fat; achieved visible 4-pack abs never seen before; muscle wasting offset by resistance training",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "value_after": 15,
+      "unit": "%",
+      "timeframe_days": 127
+    }
+  ],
+  "protocol_notes": "Started at 0.25 mg/week, titrated up to 0.5 mg/week after 2 weeks (faster than standard 4-week titration schedule). Never exceeded 0.5 mg/week. Also mentioned prior testosterone replacement therapy at a men's clinic (120 mg test referenced by a commenter). B12, COQ10, and D3 injections mentioned from prior TRT clinic experience. Start date September 23, 2023; progress photo January 27, 2024.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294618Z"
+}

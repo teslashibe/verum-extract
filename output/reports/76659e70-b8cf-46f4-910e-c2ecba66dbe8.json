@@ -1,0 +1,34 @@
+{
+  "id": "76659e70-b8cf-46f4-910e-c2ecba66dbe8",
+  "source_id": "1pie9fk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pie9fk/klow_80_advice_wanted/",
+  "author_hash": "f4f2bff4faab680d7f70be045f8d1e95d2fd02fcd31afc670a698aad7e781095",
+  "confidence_tier": 4,
+  "date_published": "2025-12-09T09:54:55-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Quadricep area hurts less than shoulder injections",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "3ml BAC water, 15-30 units daily range, subcutaneous in quad area preferred over shoulders",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.674817Z"
+}

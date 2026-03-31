@@ -1,0 +1,82 @@
+{
+  "id": "d7307bb6-99b9-4def-8421-edc5470551d5",
+  "source_id": "1fkk2xt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fkk2xt/retatrutide_startingfor_someone_sensitive_to/",
+  "author_hash": "e0bea47ceee95bbda78582bf5ab3bdae48605deb9be8f5d52d6c6da4a5e4f877",
+  "confidence_tier": 4,
+  "date_published": "2024-09-19T05:52:10-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "every other day",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "every other day",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "metabolism",
+      "description": "definitely increases metabolism",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "appetite suppressant effect even at low dosage",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "fat burning at low dosage with enhanced thermogenesis",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "elevated heart rate, especially during workouts",
+      "severity": "moderate"
+    },
+    {
+      "category": "water_retention",
+      "description": "full/bloated feeling, different from Terz which was more nausea",
+      "severity": "mild"
+    },
+    {
+      "category": "other",
+      "description": "increased sweating (enhanced thermogenesis)",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Microdoses every other day at 100-250 mcg to avoid high-dose initial side effects. First injection at 500 mcg caused elevated HR. Wife had similar experience. User prefers Tirzepatide over Retatrutide. Does not affect sleep at low dosage.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.413482Z"
+}

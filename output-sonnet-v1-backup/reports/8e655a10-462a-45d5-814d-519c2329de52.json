@@ -1,0 +1,105 @@
+{
+  "id": "8e655a10-462a-45d5-814d-519c2329de52",
+  "source_id": "1s1342s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1342s/protocol_feedback/",
+  "author_hash": "1b9bbfcb72e935329824301ef769c2964f8912c92efbf428f753e863d26153d4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-22T18:10:46-07:00",
+  "reported_sex": "male",
+  "training_status": "active trainer, experienced with peptides",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 6cm off waist circumference without losing scale weight from Tesamorelin + training",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "BPC-157 + TB-500 combo great at healing stubborn injuries and amazing for gym/sports recovery",
+      "severity": "significant"
+    },
+    {
+      "category": "joint_pain",
+      "description": "GHK-Cu great for joints"
+    },
+    {
+      "category": "skin",
+      "description": "GHK-Cu great for skin, hair, and nails"
+    },
+    {
+      "category": "hair",
+      "description": "GHK-Cu great for hair"
+    },
+    {
+      "category": "immune",
+      "description": "KPV great for anti-inflammatory aspects"
+    },
+    {
+      "category": "energy",
+      "description": "MOTS-C for increased energy levels and improved training output"
+    },
+    {
+      "category": "recovery",
+      "description": "NAD and glutathione may help slightly with recovery",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Glutathione injections burn and aren't nice",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User recommends KLOW stack (BPC-157 + TB-500 + GHK-Cu + KPV) as default go-to, especially for those with injuries returning to training. KPV also reduces GHK-Cu sting. Considers Tesamorelin the strongest endogenous GHRH by AUC, stronger than CJC+IPA, though more expensive. Personally uses Tesamorelin and achieved waist reduction without scale weight loss. Views NAD and glutathione as insurance policies with minimal direct benefit. Recommends consistency over cycling different compounds.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105471Z"
+}

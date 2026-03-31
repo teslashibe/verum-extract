@@ -1,0 +1,59 @@
+{
+  "id": "1863a621-09f3-4c98-82d2-cfafb2dd6e4b",
+  "source_id": "1lkp6za",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lkp6za/best_peptides_for_skin_texture_collagen_glow_etc/",
+  "author_hash": "d0d3c3c87dc5e03cccea6ad63af9fb2bbcafa9060a535d53ec88cb620ad90272",
+  "confidence_tier": 4,
+  "date_published": "2025-06-25T19:53:28-07:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "skin benefits when mixed with hyaluronic acid topically",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "pin can be painful for some",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Mixing GHK-Cu with BPC-157 or TB-500 blend reduces injection pain. Also mixes GHK-Cu with hyaluronic acid for topical application.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.405339Z"
+}

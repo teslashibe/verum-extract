@@ -1,0 +1,94 @@
+{
+  "id": "64be9c8c-242d-4116-9cfd-adf5600c29b9",
+  "source_id": "1qiz63m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qiz63m/ghkcu_results/",
+  "author_hash": "ae58274e7ebaf6a63953e9062bc169c2548083d849345b06ec3151c0bc698e47",
+  "confidence_tier": 4,
+  "date_published": "2026-01-21T06:22:22-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 150,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 150,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Increased body hair, thicker hair appearance, darker hair color, hair growth over months",
+      "severity": "moderate"
+    },
+    {
+      "category": "skin",
+      "description": "Skin feels firmer",
+      "severity": "moderate"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Used GLOW (GHK-Cu + TB-500 + BPC-157 blend) post-hand surgery for healing properties for about a month",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Injection site sting/pain, somewhat alleviated by KPV in blend and injection location choice",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Started July 2024 with GLOW (GHK-Cu/TB-500/BPC-157 blend) to support girlfriend post-surgery; transitioned to GHK-Cu alone, then GHK-Cu+KPV blend (current preferred protocol). Has cycled off GHK-Cu for 2-3 weeks at times but not consistently. Takes daily multivitamin with zinc. Also completed 5-month cycle of Tesa/IPA and currently on NAD+. SubQ injections. Started at 1mg GHK-Cu (well tolerated), moved to 2mg, now at 2.5mg based on GHK-Cu content. Prefers GHK-Cu+KPV blend over GLOW/KLOW to avoid angiogenic effects of TB-500/BPC-157 unless actively healing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.67043Z"
+}

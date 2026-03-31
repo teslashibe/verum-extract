@@ -1,0 +1,64 @@
+{
+  "id": "3c8ef088-2aa6-4847-9574-91e6f64204fe",
+  "source_id": "1rdykth",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdykth/any_downsides_to_switching_to_tirz_after_reta/",
+  "author_hash": "dba4ea20aa29f981d48af22dda49902555a26776aa09253cab74fdef483dad1d",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T16:52:12-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.2,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.08,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Prefers tirzepatide over retatrutide for fat loss goals",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Nasty joint pain from Retatrutide",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Insomnia from Retatrutide",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Currently running 1.2mg Tirzepatide + 0.08mg Semaglutide 3x/week. Retatrutide was unbearable for more than 3-4 weeks. Found Tirzepatide/Semaglutide stack perfect for their needs.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.67236Z"
+}

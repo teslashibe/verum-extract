@@ -1,0 +1,44 @@
+{
+  "id": "59e5ba92-3217-45d1-ad8c-7304dce34b60",
+  "source_id": "1r0oxac",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r0oxac/best_peptide_for_depressive_episodes/",
+  "author_hash": "9aced6c4f750e7d15304345e75ba91051f44bbf03471bbf070a85bb02414475a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T18:47:45-08:00",
+  "health_conditions": [
+    "depression"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Fixed poor sleep which indirectly helped with mood",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "Positive mood improvement",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Ran CJC/IPA previously, planning to run again. Similar situational depression (breakup in summer, got over it, symptoms returned recently, improved physical fitness).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.678135Z"
+}

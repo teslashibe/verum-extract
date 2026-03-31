@@ -1,0 +1,47 @@
+{
+  "id": "35f06639-2d0e-41f4-a901-28a9d560a968",
+  "source_id": "1eu2ahc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1eu2ahc/im_lost/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2024-08-16T15:46:04-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "weekly",
+      "cycle_length_days": 112,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Not having appetite",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Losing weight",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Throwing up and felt like food poisoning, throwing up non-stop the day after injection",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Used from February to May 2024. Stopped due to severe side effects. Taking omeprazole once helped with nausea. Zofran has opposite effect. Experiencing weight gain after stopping.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.414194Z"
+}

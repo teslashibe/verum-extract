@@ -1,0 +1,64 @@
+{
+  "id": "e5b7230c-f421-4e3a-8423-d3dfd73c0031",
+  "source_id": "1s5bcdz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s5bcdz/cjc1295_and_ipamorelin/",
+  "author_hash": "523e6808545170e5333b5e6ab5eb5d3705ac4bd5a4b4393dc0bf2d2bce659455",
+  "confidence_tier": 4,
+  "date_published": "2026-03-27T10:49:28-07:00",
+  "reported_sex": "male",
+  "training_status": "blast and cruise cycle since late summer prior year",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "split dosing (100 night, 150 morning)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "split dosing (100 night, 150 morning)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Huge difference in muscle growth when combined with proper diet, training, sleep, and supplementation",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Improved recovery with dialed protocol",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Gastrointestinal issues if dose too high - 'sitting on the porcelain throne till you empty out'",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "hormone levels"
+    }
+  ],
+  "protocol_notes": "No DAC variant. Emphasizes titration to avoid sides. Current protocol: 250mcg total daily (100 night, 150 morning). Uses keto/hunter-gatherer diet, L-arginine/L-ornithine, beta ecdysterone, turkesterone, creatine, electrolytes. Does sauna/steam to amplify GH/IGF-1 effects. Takes short breaks between cycles. Wholistic doctor confirmed hormone levels 'amazing' for non-steroid user. No bloating on keto diet. Additional protocols: intermittent fasting on non-workout days, pin on fasted state.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.646119Z"
+}

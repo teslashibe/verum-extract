@@ -1,0 +1,82 @@
+{
+  "id": "07727b86-6bc7-4f05-950e-725ebc11f138",
+  "source_id": "1rthpan",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rthpan/avoided_meniscus_surgery_with_bpctbghk_8week/",
+  "author_hash": "1c168feb1b419d95995b5baea48b7cde84af3dec0ca72da82b08c05f9a3f6adc",
+  "confidence_tier": 3,
+  "date_published": "2026-03-14T05:05:05-07:00",
+  "training_status": "active (yoga, stretching, external rotation exercises)",
+  "health_conditions": [
+    "medial meniscus tear (0.4cm flap)",
+    "joint effusion"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Medial meniscus 0.4cm flap tear resolved on follow-up MRI; joint effusion reduced from moderate to small; became asymptomatic for daily activities including walking and running",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "joint_pain",
+      "description": "Most knee pain gone within 1-2 weeks; fully pain-free for walking and running by end of protocol; residual pain only at extreme external rotation",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Medial meniscus flap size",
+      "value_before": 0.4,
+      "value_after": 0,
+      "unit": "cm",
+      "timeframe_days": 56
+    },
+    {
+      "marker_name": "Joint effusion severity",
+      "unit": "qualitative (moderate to small)",
+      "timeframe_days": 56
+    }
+  ],
+  "protocol_notes": "Started with SubQ injections in stomach; switched to local SubQ near knee injury site around week 4. Increased BPC and TB500 to 1mg daily for last few weeks of protocol. Orthopedic surgeon gave tepid approval before protocol; was surprised by MRI results and advised to maintain status quo. Noted no side effects at any dose.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.1085Z"
+}

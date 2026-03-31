@@ -1,0 +1,45 @@
+{
+  "id": "8d29db39-5b07-41f6-9fe9-517a1aae25d0",
+  "source_id": "1qt5xtp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qt5xtp/gain_weightmuscle/",
+  "author_hash": "cfe89833b5b8ff1dde83a05cabf3ce91c0521b9511acc9a70690c7ecac877adc",
+  "confidence_tier": 4,
+  "date_published": "2026-02-01T10:13:31-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 180,
+    "unit": "lbs"
+  },
+  "training_status": "lifts",
+  "health_conditions": [
+    "appetite/nausea disorder (medically diagnosable)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MK-677",
+      "name_normalized": "mk_677",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SARMs",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Gained 30 lbs while maintaining same body fat percentage, went from 150 lbs to 180 lbs",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User has medically diagnosable appetite/nausea issue. Used MK-677 and SARMs along with training to achieve lean muscle gain. Started at 150 lbs (6'3\" tall), reached 180 lbs at same body fat.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.681362Z"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "b33abcb5-cc7a-48f8-84b7-2b4ed5c09927",
+  "source_id": "111ndl0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/111ndl0/bpc157_really_is_a_miracle_drug/",
+  "author_hash": "bd68eb08ec1b2639e0a11d2e4f1c88e119572c35b91461e9ff171a09effbbb68",
+  "confidence_tier": 4,
+  "date_published": "2023-02-13T15:23:53-08:00",
+  "health_conditions": [
+    "ankle sprain"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Ankle pain almost gone compared to standard +2 month healing",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Pain at injection site",
+      "severity": "mild"
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "Histamine reaction at injection site",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "BPC-157/TB-500 combo injection, referred to as 157/500 blend. Used daily for ankle sprain healing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.1285Z"
+}

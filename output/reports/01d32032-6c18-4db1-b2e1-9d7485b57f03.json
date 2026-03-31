@@ -1,0 +1,41 @@
+{
+  "id": "01d32032-6c18-4db1-b2e1-9d7485b57f03",
+  "source_id": "1rj1j09",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rj1j09/thymosin_alpha1/",
+  "author_hash": "619704059f73ccdfab34df9a70ef6565e096da13aa2cfe85de77274bfdf19364",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T10:51:57-08:00",
+  "health_conditions": [
+    "sepsis (aunt)"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "topical",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "immune",
+      "description": "Aunt in ICU with sepsis regained consciousness and appetite after two topical applications",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "WBC"
+    },
+    {
+      "marker_name": "lymphocytes"
+    }
+  ],
+  "protocol_notes": "User reports topical administration to hospitalized relative. Also mentions use in conjunction with cancer treatment and for hepatitis B/C control in other countries. Normal WBC and lymphocytes reported.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.657922Z"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "ae61b1ca-b403-479d-8a21-93aed8040727",
+  "source_id": "1rdje5x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdje5x/overdose_of_ipamorelin_cjc1295/",
+  "author_hash": "74dc0b054107884520f37164452835c5148e62674f48138cea8e7feb31275059",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T07:33:53-08:00",
+  "reported_age_range": "30-39",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 600,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 2,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 600,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 2,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Changes in skin observed in previous batch from 2022",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "recovery",
+      "description": "General recovery benefits sought"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Stomach growling noticed approximately 1 hour after injection at 600mcg dose",
+      "severity": "mild",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Flushing observed with previous batch in 2022, but not with current batch at standard doses",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Current batch: 100mg of Ipamorelin and 100mg of CJC-1295 (no DAC variant). OP reports previous batch from 2022 worked well at 100mcg daily with flushing effect and visible skin changes within a week. Current batch showed no effects at 100mcg for 3 weeks. Increased dose to 600mcg for 2 days due to suspected batch degradation or low purity. OP fasts for 3 hours after morning injection, sometimes injects at night with 4+ hours fasting beforehand. Does not typically do two injections per day. Sourced from site now considered unreliable. Previous good batch from different supplier in 2022 when OP was 24 years old.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.672829Z"
+}

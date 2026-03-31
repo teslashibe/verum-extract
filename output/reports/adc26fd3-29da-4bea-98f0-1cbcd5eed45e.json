@@ -1,0 +1,41 @@
+{
+  "id": "adc26fd3-29da-4bea-98f0-1cbcd5eed45e",
+  "source_id": "1ndlcmk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ndlcmk/semax_selank_what_are_peoples_experience/",
+  "author_hash": "15e83c709c5daa116a5bb56136270c46e6c322f011c4852df02e7d3b28997e5e",
+  "confidence_tier": 4,
+  "date_published": "2025-09-10T10:54:07-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "anxiety",
+      "description": "Semax made user agitated, hard to focus",
+      "severity": "moderate"
+    },
+    {
+      "category": "cognitive_impairment",
+      "description": "Selank gave heavy brain fog and sleepiness",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Trialled both last week",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.682054Z"
+}

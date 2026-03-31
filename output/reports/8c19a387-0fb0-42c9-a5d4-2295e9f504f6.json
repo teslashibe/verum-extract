@@ -1,0 +1,64 @@
+{
+  "id": "8c19a387-0fb0-42c9-a5d4-2295e9f504f6",
+  "source_id": "1ldahe3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ldahe3/best_non_glp1s_for_weight_loss/",
+  "author_hash": "38e2c2f5327194ac2eacc20d0d150f9a82a38ece57faeb9ece86181618bcf6d5",
+  "confidence_tier": 4,
+  "date_published": "2025-06-16T18:21:48-07:00",
+  "training_status": "active",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "AM and ~1:00 PM (half dose)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "AM and ~1:00 PM (half dose)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "substantial fat loss",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "noticeable muscle gain",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "subjective feeling of metabolism in overdrive, core temperature feels warmer, energetic iron man energy",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "eats less due to injection timing and energy state",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "No sleep improvements; evening/night injections cause insomnia and tossing/turning with excess energy",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "AM empty stomach injection works best; evening injections disrupt sleep. Compounds work best on fasted digestive tract. Effect diminished if stomach contains food/carbs or after cannabis-induced binge eating.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.689078Z"
+}

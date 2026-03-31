@@ -1,0 +1,55 @@
+{
+  "id": "36f7628d-4211-4d77-868e-4c8c1f2cc185",
+  "source_id": "1qc2xpw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qc2xpw/blends_are_bunk/",
+  "author_hash": "55d7eaa74009abd1a95ba452ba0aeeffc75ff7c1fce48cb41749b1130dca38b4",
+  "confidence_tier": 4,
+  "date_published": "2026-01-13T12:50:26-08:00",
+  "health_conditions": [
+    "significant injury",
+    "shoulder pain (bilateral)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_unit": "mg",
+      "frequency": "biweekly or daily during loading; every 1-2 weeks during maintenance",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "frequency": "1-2x daily during loading; every 1-2 weeks during maintenance",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC no dac 5mg/IP 5mg",
+      "name_normalized": "cjc_no_dac_5mgip_5mg",
+      "category": "other",
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Klow",
+      "name_normalized": "klow",
+      "category": "other",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "twice weekly (1.25mg x2)",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Not a doctor. Protocol details shared as general guidance. TB-500 loading: 5-7mg/week for 4-6 weeks (up to 7mg/week, bi-weekly or daily); maintenance: 2.5-5mg every 1-2 weeks (2.5mg/week). BPC-157 loading: 250-500mcg 1-2x daily for 2-4 weeks or until significant relief, site-specific sub-Q near injury site; used for both shoulders (7mg/week max dose); maintenance: 2.5-5mg every 1-2 weeks (2.5mg/week). KLOW blend (10/10/10/50): 1.25mg x2 twice weekly = 2.5mg/week for 4 weeks = 1 month supply. TB/BPC 10mg/10mg maintenance blend same dosing: 1.25mg x2 twice weekly. CJC no dac/ipamorelin 5mg/5mg blend: dose calculated at 5mg strength per peptide not 10mg combined. Notes that Wolverine, Glow, Klow are maintenance blends covering 28 days at lowest recommended doses and require prior loading of TB and BPC. Was considering adding KLOW after current 4-6 week TB/BPC load following time off for healing.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.124948Z"
+}

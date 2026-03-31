@@ -1,0 +1,61 @@
+{
+  "id": "94b3d8aa-deee-42b4-b7dc-eaaa4667eee5",
+  "source_id": "1ky4ba8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ky4ba8/currently_taking_reta_and_down_40lbs_and_thinking/",
+  "author_hash": "29f267a098e03ee043db0ee95f8fa32924a27b250f7e6ea142e17a31a9624a7b",
+  "confidence_tier": 4,
+  "date_published": "2025-05-29T00:04:01-07:00",
+  "reported_sex": "female",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MTII",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MI",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Effective tanning with MTII; switched to MI for maintenance for more natural golden glow",
+      "severity": "significant"
+    },
+    {
+      "category": "libido",
+      "description": "Increased libido for herself (mild, already high baseline) and significant effect for her husband (morning wood, spontaneous erections)",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Initial 50 mcg dose caused nausea lasting about an hour; titrating up too fast caused nausea all day",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Uneven/patchy tanning; darker moles; melanin production continues long after stopping; stopped MTII for almost 3 months to return to target tan before starting MI maintenance",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 90
+    }
+  ],
+  "protocol_notes": "Started MTII at 50 mcg first dose; titrated up but went too hard causing full-day nausea. Recommends starting WAY lower than typical protocols. Sunscreen used due to accelerated melanin response (4 min sun = 20 min melanin response). Also mentions PT141 as an alternative for libido. Husband also used MTII and experienced patchy tanning that evened out after stopping.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.283125Z"
+}

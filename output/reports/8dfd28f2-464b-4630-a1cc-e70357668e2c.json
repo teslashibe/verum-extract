@@ -1,0 +1,59 @@
+{
+  "id": "8dfd28f2-464b-4630-a1cc-e70357668e2c",
+  "source_id": "1rvuxmf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvuxmf/peptide_use_side_effects_cancer_risk_and_posttbi/",
+  "author_hash": "4adc28df42612ca8d8098c169b977b3e1b25975a5b58d8ab50cad6c526b6a20d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T19:56:53-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "pituitary tumor",
+    "endometriosis",
+    "severe TBI (traumatic brain injury)",
+    "vocal cord damage from tracheotomy",
+    "family history of cancer"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "frequency": "once weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "Monday, Tuesday, Thursday, Friday",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "frequency": "Monday, Tuesday, Thursday, Friday (planned)",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "nausea from tirzepatide",
+      "severity": "moderate"
+    },
+    {
+      "category": "injection_site",
+      "description": "lower abdomen injection site stings",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User is considering adding retatrutide and CJC-1295/Ipamorelin and BPC-157/TB-500 but has not yet started these. Interested in peptides for post-TBI brain health support and vocal cord healing. Concerned about cancer risk given family history and existing pituitary tumor and endometriosis.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.650882Z"
+}

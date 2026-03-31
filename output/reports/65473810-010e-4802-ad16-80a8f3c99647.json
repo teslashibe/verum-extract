@@ -1,0 +1,62 @@
+{
+  "id": "65473810-010e-4802-ad16-80a8f3c99647",
+  "source_id": "1rfqr37",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rfqr37/tb500bpc157_dose_and_timing/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-02-26T15:53:07-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "every 5 days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "5x per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "5x per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "5x per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 750,
+      "dose_unit": "mcg",
+      "frequency": "5x per week",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "CJC/Ipamorelin dosed together at 300 mcg total (blend assumed). All compounds taken before bed except MOTS-C which is taken in the morning. User is asking about potential addition of TB500/BPC157 to current protocol.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.671523Z"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "045ad90b-4ff8-4e5c-9df5-500b3b4f7042",
+  "source_id": "1r32bf1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r32bf1/tesaipa_blend/",
+  "author_hash": "e94fccf9a9fe1c133abf8a7700ac4368aaeb98be50992b42950747a98fbd68c2",
+  "confidence_tier": 4,
+  "date_published": "2026-02-12T11:06:37-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "per injection",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "per injection",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Too much Ipamorelin causes hunger",
+      "severity": "moderate"
+    },
+    {
+      "category": "cardiac",
+      "description": "Racing heart from excessive Ipamorelin",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Recommends 1mg Tesamorelin minimum dose and 300mcg as upper limit for Ipamorelin per dose. Suggests 2mg Tesa with 200mcg Ipa as optimal ratio. Warns against blended products as they force overdosing one compound while underdosing the other.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.664464Z"
+}

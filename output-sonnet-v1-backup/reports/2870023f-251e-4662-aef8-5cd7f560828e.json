@@ -1,0 +1,52 @@
+{
+  "id": "2870023f-251e-4662-aef8-5cd7f560828e",
+  "source_id": "1s411r1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s411r1/ipamorelin_messing_up_my_sleep/",
+  "author_hash": "0965645fd6e543a5ba020648a37c1bc0b8ccc74f440d58a11dd90fee8cd7b3cd",
+  "confidence_tier": 4,
+  "date_published": "2026-03-26T00:43:37-07:00",
+  "compounds": [
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep improved significantly after initial adaptation period, sleeping better than before starting",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Terrible sleep during the first few nights",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Sleep issues resolved after approximately one week",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104136Z"
+}

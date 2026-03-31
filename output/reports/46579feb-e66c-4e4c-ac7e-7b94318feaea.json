@@ -1,0 +1,43 @@
+{
+  "id": "46579feb-e66c-4e4c-ac7e-7b94318feaea",
+  "source_id": "1oal88l",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oal88l/reta_appetite_increased_at_2mgwhat_should_i_do/",
+  "author_hash": "3a4acde40a8a4a3498c2b7b59a26c70b7709609e62127c3dda534e4fd9aedf98",
+  "confidence_tier": 4,
+  "date_published": "2025-10-19T02:22:43-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Significant appetite suppression on initial 1 mg dose (only ate 1000 cal), but effect diminished after first day",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Appetite increased significantly at 2 mg dose, eating 2000-2500 cal per day, one day reaching 3000 cal. User typically maintains 1500-2000 cal per day. Also developed cravings for sweets.",
+      "severity": "significant",
+      "onset_days": 4
+    }
+  ],
+  "protocol_notes": "Started at 1 mg dose day 1 with significant appetite suppression. After 4 days, increased to 2 mg dose. Experiencing opposite of expected appetite suppression effect at higher dose. User tracking calories meticulously.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.679164Z"
+}

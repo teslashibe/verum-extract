@@ -1,0 +1,74 @@
+{
+  "id": "5af53a78-ca05-452f-b83a-e9c7c5ad3fbf",
+  "source_id": "1rfjcnn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rfjcnn/looking_for_general_experiences_with_retatrutide/",
+  "author_hash": "ba3459cae6945c337604725283e14c07b53681edfd9feccd662fb159755c10ed",
+  "confidence_tier": 4,
+  "date_published": "2026-02-26T11:12:17-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 235,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression noticeable after 2-3 weeks at 2mg dose. No food noise, reduced constant chasing of highs.",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "fat_loss",
+      "description": "Down 20 pounds over 6 weeks",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "mood",
+      "description": "Dopamine-chasing down, helped regulate emotions better",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Food moves slower, constipation, takes longer to defecate",
+      "severity": "moderate"
+    },
+    {
+      "category": "burping",
+      "description": "Consistent burping side effect, heartburn-like burps at higher doses that may cause minor vomiting sensation",
+      "severity": "moderate"
+    },
+    {
+      "category": "libido_change",
+      "description": "Libido down, not as interested in sex",
+      "severity": "moderate"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Cannot drink alcohol without severe stomach aches and low energy the next day",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started at 0.5mg twice weekly for first two doses, then increased. Reports effects last approximately 5 days. Height 6'3\". Emphasizes importance of maintaining high protein intake (200g+) to preserve muscle during fat loss.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.671722Z"
+}

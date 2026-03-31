@@ -1,0 +1,64 @@
+{
+  "id": "a75ab4bd-78ae-4753-90b9-cf8e22b26432",
+  "source_id": "1bgyaba",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bgyaba/anyone_taking_this_from_peptide_sciences/",
+  "author_hash": "93fcbceacff7e11e47fd287745acc953767de20ac171a1502848e29107a720d7",
+  "confidence_tier": 4,
+  "date_published": "2024-03-17T07:03:30-07:00",
+  "training_status": "resistance training (benching)",
+  "health_conditions": [
+    "shoulder injury (AC joint)",
+    "elbow/forearm tendinitis"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157 (Peptide Sciences)",
+      "name_normalized": "bpc_157_peptide_sciences",
+      "category": "other",
+      "route": "oral",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB4 (Peptide Sciences)",
+      "name_normalized": "tb4_peptide_sciences",
+      "category": "other",
+      "route": "oral",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "oral bpc-157 infiniwell 500mcg rapid pro",
+      "name_normalized": "oral_bpc_157_infiniwell_500mcg_rapid_pro",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Left shoulder completely healed after 2 months; able to bench press again hitting two plates with ease; can sleep on left shoulder again",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Healed elbow/forearm tendinitis with oral BPC-157 infiniwell",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Almost healed shoulder AC joint with infiniwell product but still acting up",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started Peptide Sciences BPC-157 + TB4 a week after original post (March 2024); 2 months later shoulder healed. Previously used Infiniwell oral BPC-157 500mcg for elbow/forearm tendinitis (healed) and shoulder AC joint (partial). Planning to try Pro Helix BCP157 and TB500 oral combo (~$300).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294257Z"
+}

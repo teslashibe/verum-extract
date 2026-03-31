@@ -1,0 +1,47 @@
+{
+  "id": "4082f275-8f49-4f22-bfe3-dfba1037c276",
+  "source_id": "1mhnhxn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mhnhxn/reta_if_im_not_overweight/",
+  "author_hash": "ae95aab1049865268e5e5251ac319283ad1cdb80e4f9c2d1081b773ddefe1c57",
+  "confidence_tier": 4,
+  "date_published": "2025-08-04T12:40:43-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 200,
+    "unit": "lbs"
+  },
+  "training_status": "6 days in gym per week, no cheat meals, no junk food",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Takes Reta primarily for the non-GLP-1 receptors (GIP and glucagon), not primarily for appetite suppression. Near perfect shape at 6'2\", 200lb, 14% body fat.",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "2mg/week was too much appetite suppression; dropped to 1mg/week",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "6'2\", 200lb, 14% BF. Recommends starting at 1mg/week and titrating slowly. Found 2mg too much appetite suppression. Experienced 48 hours of discomfort at higher dose.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.276443Z"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "7505cf09-8931-4fef-ad10-d959d0ac028c",
+  "source_id": "139kz5e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/139kz5e/best_sleep_in_30_years/",
+  "author_hash": "5d84e0d0555fa32da4f2bf2e90f92744c4866edd134f36d213536310ce535ac2",
+  "confidence_tier": 4,
+  "date_published": "2023-05-06T05:01:29-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Significantly improved sleep quality and vivid dreams like childhood; deep sleep improvement",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Initial great sleep benefits eventually ended; sleep returned to pre-peptide baseline",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 30
+    }
+  ],
+  "protocol_notes": "CJC-1295 without DAC; 200 mcg/day of both compounds. Benefits were temporary, lasting approximately one month.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.420949Z"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "d235379f-cb43-46fe-b1cd-6fd4e2332302",
+  "source_id": "172gfv0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/172gfv0/bpc157_has_removed_all_effects_psych_medication/",
+  "author_hash": "a10568f832f2c24085d3b337b59672411b2c0b2eccf3db6613b7f5d02a436d55",
+  "confidence_tier": 5,
+  "date_published": "2023-10-07T13:46:56-07:00",
+  "health_conditions": [
+    "sleep disorder",
+    "anxiety or psychiatric condition requiring clonazepam and zolpidem"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Able to reduce reliance on clonazepam and zolpidem; medications work again but at lower doses needed for same effect; tapering off psychiatric drugs",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Improved endurance and recovery time noticed",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Difficulty sleeping; clonazepam and zolpidem had no effect initially, could stay awake for hours after taking them",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "OP discovered that waiting 4 hours (after BPC-157 half-life) allowed medications to work again. With continued use, medications became effective again at lower doses. OP views this as a positive outcome allowing tapering off benzodiazepines.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.296566Z"
+}

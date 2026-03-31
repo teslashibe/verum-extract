@@ -1,0 +1,39 @@
+{
+  "id": "87c8e2dc-fa2b-48f5-96b9-f29c553d820d",
+  "source_id": "1r425h1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r425h1/cjc1295pamorelin_rapid_heart_rate/",
+  "author_hash": "826cbae57c747e08c6ace5197430ab4eba721a2878dcf1c19164e235aa0513f3",
+  "confidence_tier": 4,
+  "date_published": "2026-02-13T13:45:21-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295+Pamorelin blend",
+      "name_normalized": "cjc_1295pamorelin_blend",
+      "category": "other",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Experienced flushing twice initially, no longer present",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "blood_pressure",
+      "description": "Increased heart rate experienced twice initially, no longer present",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Takes 500mcg of each compound. Side effects resolved on their own after initial exposures.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.11829Z"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "960129a4-9f81-4d30-b902-d26827f34161",
+  "source_id": "1k64mvi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k64mvi/someone_posted_about_a_17_yo_taking_a_peptide/",
+  "author_hash": "4acab240e48459ac90c7b2805d865f99b7d80ce518bdbdc8cc17589df86769b1",
+  "confidence_tier": 5,
+  "date_published": "2025-04-23T10:13:17-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "hormone therapy to maintain youthfulness in 40+ age group",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hormonal",
+      "description": "pituitary gland shuts down natural production when external hormones are supplied; can take extended time for recovery after cessation",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Implies user is 40+ years old. Discusses general principles of supplementation rather than personal specific protocol. Mentions that growth hormone production usually recovers better than testosterone after cessation.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.692211Z"
+}

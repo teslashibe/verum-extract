@@ -1,0 +1,54 @@
+{
+  "id": "dc4e216e-083a-4d4f-80b2-bbb31cc57dee",
+  "source_id": "1ryks9i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ryks9i/isr_from_peptide_stack/",
+  "author_hash": "4bf981ab4bb29ee82a4cd756950bf114744c01f446a7d4a8b356bbb2d10621f4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-19T19:55:01-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ghk-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Significant injection site reactions (ISR) from tesa and ghk-cu injections, occurring immediately after injection",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "OP describes 'wild ISR' occurring immediately after tesa injection. Questions whether recurring ISR is a concern.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106389Z"
+}

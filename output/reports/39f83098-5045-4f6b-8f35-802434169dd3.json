@@ -1,0 +1,50 @@
+{
+  "id": "39f83098-5045-4f6b-8f35-802434169dd3",
+  "source_id": "1rs1dsm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rs1dsm/muscle_weakness/",
+  "author_hash": "75589b8dc9ea349b46fcb41af763f1ae95f71c9549d837340b463be6bf96a480",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T12:59:32-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "performance",
+      "description": "performance improvement",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Uses pen format with CJC-1295/Ipamorelin at 1:2 ratio and separate BPC-157/TB-500 pen. Refers to CJC-1296 but canonical name is CJC-1295.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.664904Z"
+}

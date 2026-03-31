@@ -1,0 +1,46 @@
+{
+  "id": "74bb0b4f-93e7-43f5-a71c-c9c8d6724c5b",
+  "source_id": "1rr3dd5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr3dd5/cjcipa_timing_issue/",
+  "author_hash": "98fd4795978e8cb60af7b329f641e5f894f083f35e66e3675805c4074d6f490f",
+  "confidence_tier": 5,
+  "date_published": "2026-03-11T12:17:14-07:00",
+  "training_status": "BJJ athlete",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Helping with recovery",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Sleeping super deeply",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Taking CJC+IPA stack at night. Fasting 2 hours before injection, then eating dinner 30 minutes after injection, then going to bed. Timing issue one day per week due to BJJ class schedule (7:45 PM class, home at 10:00 PM).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.653377Z"
+}

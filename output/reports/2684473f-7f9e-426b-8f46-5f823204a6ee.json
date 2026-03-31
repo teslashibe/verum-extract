@@ -1,0 +1,34 @@
+{
+  "id": "2684473f-7f9e-426b-8f46-5f823204a6ee",
+  "source_id": "1moij72",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1moij72/aod9604_keeps_gelling_after_reconstitution_need/",
+  "author_hash": "385f9d5ef01d21f619af12daebbb9afaf05f1c8ee19a0e0346923f73339ee6d2",
+  "confidence_tier": 4,
+  "date_published": "2025-08-12T12:33:49-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Gelling of reconstituted solution",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Uses 1:1 ratio of BAC water to mg of AOD (5mL BAC for 5mg AOD). No acetic acid used. Even if gelling occurs, can be broken up by drawing back through needle multiple times. User notes gelling is batch-dependent and not fully understood.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.684931Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "33ceadef-0d13-4dc7-adc7-e3c7aa1bcc25",
+  "source_id": "139kz5e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/139kz5e/best_sleep_in_30_years/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2023-05-06T05:01:29-07:00",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Waking up feeling rested and relaxed after 30 years of waking stressed; improved sleep quality similar to childhood",
+      "severity": "significant",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "Third day of use. CJC-1295 and Ipamorelin combination injected subcutaneously.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.9,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.420949Z"
+}

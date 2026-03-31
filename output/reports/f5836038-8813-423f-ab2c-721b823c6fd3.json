@@ -1,0 +1,61 @@
+{
+  "id": "f5836038-8813-423f-ab2c-721b823c6fd3",
+  "source_id": "15zt2no",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/15zt2no/30lbs_gone_with_semaglutide/",
+  "author_hash": "4cac2debd6b53433dd2269c77a910e489e00b33a15bd9151062f5009f50609a8",
+  "confidence_tier": 4,
+  "date_published": "2023-08-23T22:58:06-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "25-29",
+  "training_status": "minimal - walking, formerly sedentary",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 87,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 30 lbs (22 lbs fat confirmed by body scan) in approximately 3 months",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Cut out all sweets because they no longer taste good; reduced appetite",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Became much more active and motivated to do things after weight loss",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "muscle_loss",
+      "description": "Lost 8 lbs of muscle during weight loss",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body composition",
+      "timeframe_days": 87
+    }
+  ],
+  "protocol_notes": "Started May 28th. Had two body composition scans showing 8 lbs muscle loss and 22 lbs fat loss. High water intake (half gallon daily), walking frequently (especially after dinner with kids), cut out all sweets, high protein and produce intake. Later discontinued due to pregnancy.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.420321Z"
+}

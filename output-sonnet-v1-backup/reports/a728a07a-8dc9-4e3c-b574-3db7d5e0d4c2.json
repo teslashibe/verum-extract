@@ -1,0 +1,47 @@
+{
+  "id": "a728a07a-8dc9-4e3c-b574-3db7d5e0d4c2",
+  "source_id": "1s22e2o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s22e2o/klow_question/",
+  "author_hash": "9f705ed72dc0b31f0bab9bfc01d7342f6ab108dd6ce999e3514845ad27fac735",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T20:06:00-07:00",
+  "health_conditions": [
+    "on blood thinners (Eliquis)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "3x per week (Monday, Wednesday, Friday)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Occasional bruising at injection sites; uncertain if caused by KLOW specifically or combination of injections; likely hitting capillaries",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "On Eliquis (blood thinner). No side effects felt from KLOW itself. Bruising attributed potentially to high injection frequency across multiple compounds.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104811Z"
+}

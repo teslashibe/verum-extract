@@ -1,0 +1,40 @@
+{
+  "id": "8ad9bbcd-fa23-4cfe-943c-81aeb33218dc",
+  "source_id": "1rb2yq1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rb2yq1/does_reta_dosing_depend_on_weight/",
+  "author_hash": "35549341453a9ad13940241bd2c67634c66998b3cfa93110392dbbf5363f40d3",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T13:24:38-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 310,
+    "unit": "lbs"
+  },
+  "training_status": "trained (lifting 6 days/week PPL split)",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly, titrated up to 10mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "80 lbs weight loss from 310 to 230 lbs with only 5 lbs muscle loss based on scan",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "6'4\" height. Started Aug at 310 lbs, current 230 lbs. Lifted 6 days/week (PPLLPPL), consumed 200g+ protein daily, no cardio. Used GLOW for recovery. Goal \u003c12% bf then maintenance. No side effects at 2mg starting dose. Titrated up; at 10mg has zero appetite.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661529Z"
+}

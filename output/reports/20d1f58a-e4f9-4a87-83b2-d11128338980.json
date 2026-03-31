@@ -1,0 +1,51 @@
+{
+  "id": "20d1f58a-e4f9-4a87-83b2-d11128338980",
+  "source_id": "1rpfqrk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpfqrk/glow_stack/",
+  "author_hash": "676bd3a188f2ec374f3da14f83aba96c02522cafbe8e1499267e4cfb2068ff26",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T15:58:13-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Uptick in overall energy after one week",
+      "severity": "mild",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Using KLOW (pre-mixed blend). Started at 2.6mg total blend, planning to increase to 4mg after confirming body tolerance. Only one week into protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.666484Z"
+}

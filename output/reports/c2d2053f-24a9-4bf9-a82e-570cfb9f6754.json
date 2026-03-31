@@ -1,0 +1,45 @@
+{
+  "id": "c2d2053f-24a9-4bf9-a82e-570cfb9f6754",
+  "source_id": "12pdidd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/12pdidd/am_i_getting_ripped_off/",
+  "author_hash": "689220e2187389502d77685989d417656afcb1f277c3d9f0cf05e9f6ad8ee57c",
+  "confidence_tier": 5,
+  "date_published": "2023-04-17T05:04:34-07:00",
+  "health_conditions": [
+    "shoulder injury - supraspinatus tear"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "BPC-157 + TB-500 combination helped long-standing supraspinatus tear; GHK-Cu did not help shoulder",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User reports GHK-Cu ineffective for shoulder injury but BPC-157 + TB-500 stack effective for long-standing supraspinatus tear.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.128022Z"
+}

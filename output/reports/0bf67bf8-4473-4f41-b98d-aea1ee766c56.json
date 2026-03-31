@@ -1,0 +1,52 @@
+{
+  "id": "0bf67bf8-4473-4f41-b98d-aea1ee766c56",
+  "source_id": "1rqir2m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rqir2m/hands_swelling_means_good_hgh/",
+  "author_hash": "36e9cabb725fb44daa1d40a2c47d526c15f83b5edea21fd4fabd7ca5f51e6836",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T20:24:59-07:00",
+  "training_status": "bodybuilder",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_unit": "IU",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Hygetropin",
+      "name_normalized": "hygetropin",
+      "category": "other",
+      "dose_value": 2.75,
+      "dose_unit": "IU",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Good bloodwork results and benefits comparable to or better than pharmacy scripted HGH",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Hand swelling reported even at 2-3 IU dosages, more common with older Hygetropin from early 2000s",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "general bloodwork"
+    }
+  ],
+  "protocol_notes": "Pro bodybuilders report hand swelling at 3-4 IU. Old Hygetropin from early 2000s showed very good bloodwork numbers at 2.5-2.75 IU, likely running above advertised potency. Hand swelling occurs in lean bodybuilders as well, contradicting claims it's only in overweight individuals.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.66579Z"
+}

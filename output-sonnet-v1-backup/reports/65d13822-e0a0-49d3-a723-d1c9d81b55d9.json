@@ -1,0 +1,53 @@
+{
+  "id": "65d13822-e0a0-49d3-a723-d1c9d81b55d9",
+  "source_id": "1s3rgvg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3rgvg/passed_out_during_injection/",
+  "author_hash": "5a67170abdcd2378f14bd9200e19b103d181f7b9414eda52bc34631880233b2b",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T16:45:08-07:00",
+  "health_conditions": [
+    "vasovagal syncope"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "RAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 30,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Passed out (vasovagal syncope) during injection; heart rate dropped to 56 BPM",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "First injection ever. All three compounds injected at once, injection took over 2 minutes for approximately 20 units total volume. OP has a prior history of vasovagal syncope. Doses reported in 'units' which is not a standard dosage unit for these compounds.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104261Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "6f85ae28-0b3a-4aaf-a5d3-f66cb7323d5c",
+  "source_id": "1r48y64",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r48y64/ss31_making_me_super_sleepy_after_taking_nad_for/",
+  "author_hash": "7cfbdee7d9b82f138f77408aaa7669c4e8271c17db487979e577fc6477db7ca0",
+  "confidence_tier": 4,
+  "date_published": "2026-02-13T18:43:32-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 0.2,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Got a ton of energy even at the lowest dose of 0.2mg; eventually titrated up to 0.5mg for most of the protocol, approaching 1mg",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Effects diminished over time; peptide eventually stopped doing much, attributed to mitochondrial repair being complete",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User titrated from 0.2mg up to ~0.5mg (primary dose) and near 1mg. After a few months break, energy-boosting effects returned. Advises others not to go up to 2.5mg and to stick with what works.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.118238Z"
+}

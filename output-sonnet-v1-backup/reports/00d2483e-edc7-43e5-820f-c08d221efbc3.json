@@ -1,0 +1,42 @@
+{
+  "id": "00d2483e-edc7-43e5-820f-c08d221efbc3",
+  "source_id": "1pwxe25",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pwxe25/cagrilintide/",
+  "author_hash": "1cb3823e3d98379470137ad7bc24baecffb24515e3dbedeb4586e100841e4667",
+  "confidence_tier": 4,
+  "date_published": "2025-12-27T05:05:32-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 12.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cag",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Felt nothing until 2mg of the blend; currently at 3mg twice weekly with effect"
+    }
+  ],
+  "protocol_notes": "Using a blend of Retatrutide (12.5mg) and Cagrilintide (2.5mg). Felt nothing until reaching 2mg of the blend. Currently at 3mg twice weekly.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.258269Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "62332b68-2813-43d3-ba7e-f861e3519cb7",
+  "source_id": "1p1cow4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p1cow4/tesamorelin/",
+  "author_hash": "9128ea17cbfd730a828ff18148c34406c47fbfe3621271561c5da707f30c2c77",
+  "confidence_tier": 4,
+  "date_published": "2025-11-19T08:43:40-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "5 days per week, before bed",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "1% body fat loss per week measured via 4-point body composition monitor",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "unit": "%",
+      "timeframe_days": 7
+    }
+  ],
+  "protocol_notes": "Uses HUAWEI Body Fat Scale 3Pro for monitoring. Effects stopped when supply ran out. Reports effects visible from day 1 of use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.393226Z"
+}

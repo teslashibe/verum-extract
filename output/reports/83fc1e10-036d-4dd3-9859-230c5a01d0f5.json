@@ -1,0 +1,45 @@
+{
+  "id": "83fc1e10-036d-4dd3-9859-230c5a01d0f5",
+  "source_id": "1rvp24a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvp24a/ss31_fatigue_and_brain_fog_and_mitigation/",
+  "author_hash": "0622d5ba19ce07437fb0ee678f74110d07bab0704d9bc10205bd9f1ac5d2a39d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T15:50:02-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "oral",
+      "frequency": "morning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fatigue",
+      "description": "NAD+ helps fatigue from Retatrutide",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "fatigue from Retatrutide",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Takes NAD+ in the morning to manage Retatrutide-induced fatigue without disrupting sleep. Also planning to take methylation supplements before starting SS-31.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.662834Z"
+}

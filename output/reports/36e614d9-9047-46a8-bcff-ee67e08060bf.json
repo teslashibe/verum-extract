@@ -1,0 +1,41 @@
+{
+  "id": "36e614d9-9047-46a8-bcff-ee67e08060bf",
+  "source_id": "1qnh5lx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qnh5lx/tesamorelin_assistance/",
+  "author_hash": "2ab945fe8ec8c1aa3ac2b12c6bfe8a7c0e10329b7a20e62bbf8f532c6e1b1df9",
+  "confidence_tier": 4,
+  "date_published": "2026-01-26T06:15:04-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 750,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Great results with Tesamorelin combined with AOD-9604",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Reconstitution: 5mg Tesa with 2ml BAC Water, dosed at 750mcg (30 units on 100unit syringe). Considering increasing to 40 units (1000mcg equivalent) fasted for next cycle. Fasting protocol used.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669985Z"
+}

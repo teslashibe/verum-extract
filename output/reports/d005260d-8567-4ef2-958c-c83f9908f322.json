@@ -1,0 +1,39 @@
+{
+  "id": "d005260d-8567-4ef2-958c-c83f9908f322",
+  "source_id": "1qzkhb5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qzkhb5/gut_health/",
+  "author_hash": "80a83c5da69da25aa7faefb4cbe4bc6c6ed9a450fe6e0558f4036e79ba92f2cb",
+  "confidence_tier": 4,
+  "date_published": "2026-02-08T12:52:41-08:00",
+  "health_conditions": [
+    "ulcer",
+    "IBS"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "solved ulcer and IBS",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "BPC-157 does not work well orally per user comment",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.678677Z"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "13b279c4-31fd-4cc6-88e7-46d151cb05a0",
+  "source_id": "10umccs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/10umccs/bpc157_and_tb500_cured_my_chronic_pain_success/",
+  "author_hash": "f45f71a8d65f33a863d358a768a20348a29569aec5e13cab01c9c43deeecf6dc",
+  "confidence_tier": 4,
+  "date_published": "2023-02-05T12:20:10-08:00",
+  "training_status": "able to increase frequency and intensity of workouts",
+  "health_conditions": [
+    "high hamstring pain",
+    "severe disc issues T11/T12"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Great improvement in hamstring pain and complete loss of pain in back.",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Able to increase frequency and intensity of workouts during treatment.",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "Severe lack of sensation developed, described as anhedonia (lack of emotional sensation during sex and general numbness).",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "mood_change",
+      "description": "Loss of emotional sensation, lack of effect from caffeine, felt like it would lead to depression if continued.",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Protocol maintained for couple months before stopping due to side effects. Hamstring pain improved for about 3 months duration. 8-year history of high hamstring pain. Considering retry in future if conditions worsen.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.71,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.128672Z"
+}

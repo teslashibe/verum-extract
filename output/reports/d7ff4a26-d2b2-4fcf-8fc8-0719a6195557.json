@@ -1,0 +1,41 @@
+{
+  "id": "d7ff4a26-d2b2-4fcf-8fc8-0719a6195557",
+  "source_id": "1r1lg6n",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r1lg6n/has_anyone_used_peptides_to_treat_for_severe_gerd/",
+  "author_hash": "b9128fb182e04d15d5ee8f9fe34bbf92a6e93cedd685310f4b3212eea02ebcb3",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T18:46:46-08:00",
+  "health_conditions": [
+    "GERD",
+    "rebound GERD"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Reta regulated the pace at which food was flowing through system to reduce GERD",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Severe rebound GERD after stopping Reta at super low dose after only a few weeks",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "On Reta for only a few weeks at super low dose. Experienced significant rebound GERD after washout period.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665088Z"
+}

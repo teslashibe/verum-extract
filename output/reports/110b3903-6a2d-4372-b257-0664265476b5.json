@@ -1,0 +1,67 @@
+{
+  "id": "110b3903-6a2d-4372-b257-0664265476b5",
+  "source_id": "1dohagi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1dohagi/tirzepatide/",
+  "author_hash": "64c2c6eaa007f67c88b8de18f61c985b511e8de1f66b4235c298f50f0dcb8be3",
+  "confidence_tier": 4,
+  "date_published": "2024-06-25T14:25:31-07:00",
+  "training_status": "active (gardening, outdoor activities)",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "3 lbs lost in approximately 2 weeks",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Fingers feel achy and swollen, lower stomach bloated",
+      "severity": "moderate"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Constipation, requiring occasional colace or colon cleanse",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "blood_pressure",
+      "value_after": 117,
+      "unit": "mmHg systolic"
+    }
+  ],
+  "protocol_notes": "On 3rd dose at time of post. Also consuming 1.5 gallons of water daily, focusing diet on protein, adding salt and coconut water for electrolytes. Lives in Florida with high outdoor activity/sweating. Planning to discontinue ipamorelin and tesamorelin due to suspected water retention.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.697201Z"
+}

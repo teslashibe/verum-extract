@@ -1,0 +1,33 @@
+{
+  "id": "492cfc11-faba-4720-8ad8-ad04b4bedd3b",
+  "source_id": "1s411r1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s411r1/ipamorelin_messing_up_my_sleep/",
+  "author_hash": "e3651cba441e3e3a714b145cfe0fba49611690bc23b30365501d1ee04df24eb4",
+  "confidence_tier": 5,
+  "date_published": "2026-03-26T00:43:37-07:00",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 60,
+      "dose_unit": "mcg",
+      "frequency": "60 minutes before bedtime",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep improved after adjusting injection timing to 60 minutes before bedtime",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Initial experience similar to OP; adjusted to 60 mcg injected 60 minutes before bed with positive results",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.657703Z"
+}

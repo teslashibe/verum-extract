@@ -1,0 +1,234 @@
+{
+  "compound_id": "ss_31",
+  "display_name": "SS-31",
+  "category": "mitochondrial",
+  "total_reports": 303,
+  "reports_by_tier": {
+    "3": 5,
+    "4": 224,
+    "5": 74
+  },
+  "top_benefits": [
+    {
+      "category": "energy",
+      "count": 89,
+      "pct": 38.9
+    },
+    {
+      "category": "cognitive",
+      "count": 35,
+      "pct": 15.3
+    },
+    {
+      "category": "sleep",
+      "count": 28,
+      "pct": 12.2
+    },
+    {
+      "category": "other",
+      "count": 25,
+      "pct": 10.9
+    },
+    {
+      "category": "fat_loss",
+      "count": 21,
+      "pct": 9.2
+    },
+    {
+      "category": "endurance",
+      "count": 12,
+      "pct": 5.2
+    },
+    {
+      "category": "recovery",
+      "count": 11,
+      "pct": 4.8
+    },
+    {
+      "category": "injury_healing",
+      "count": 10,
+      "pct": 4.4
+    },
+    {
+      "category": "mood",
+      "count": 10,
+      "pct": 4.4
+    },
+    {
+      "category": "appetite_suppression",
+      "count": 9,
+      "pct": 3.9
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "fatigue",
+      "count": 32,
+      "pct": 14,
+      "avg_severity": 2.5
+    },
+    {
+      "category": "other",
+      "count": 14,
+      "pct": 6.1,
+      "avg_severity": 2.4
+    },
+    {
+      "category": "injection_site",
+      "count": 9,
+      "pct": 3.9,
+      "avg_severity": 1.6
+    },
+    {
+      "category": "cardiac",
+      "count": 8,
+      "pct": 3.5,
+      "avg_severity": 1.9
+    },
+    {
+      "category": "sleep_disruption",
+      "count": 5,
+      "pct": 2.2,
+      "avg_severity": 2
+    },
+    {
+      "category": "cognitive_impairment",
+      "count": 5,
+      "pct": 2.2,
+      "avg_severity": 3
+    },
+    {
+      "category": "headache",
+      "count": 5,
+      "pct": 2.2,
+      "avg_severity": 1.6
+    },
+    {
+      "category": "allergic_reaction",
+      "count": 5,
+      "pct": 2.2,
+      "avg_severity": 2.4
+    },
+    {
+      "category": "gastrointestinal",
+      "count": 3,
+      "pct": 1.3,
+      "avg_severity": 1.7
+    },
+    {
+      "category": "appetite_change",
+      "count": 3,
+      "pct": 1.3,
+      "avg_severity": 1.7
+    },
+    {
+      "category": "nausea",
+      "count": 3,
+      "pct": 1.3,
+      "avg_severity": 1.7
+    },
+    {
+      "category": "anxiety",
+      "count": 3,
+      "pct": 1.3,
+      "avg_severity": 2.7
+    },
+    {
+      "category": "hormonal",
+      "count": 2,
+      "pct": 0.9,
+      "avg_severity": 3
+    },
+    {
+      "category": "skin_reaction",
+      "count": 2,
+      "pct": 0.9,
+      "avg_severity": 1
+    },
+    {
+      "category": "mood_change",
+      "count": 2,
+      "pct": 0.9,
+      "avg_severity": 3
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 10,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 11,
+      "pct": 3.6
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 4,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 5,
+      "pct": 1.7
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 5,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 5,
+      "pct": 1.7
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 300,
+      "unit": "mcg",
+      "frequency": "daily",
+      "count": 3,
+      "pct": 1
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 1,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 3,
+      "pct": 1
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "mots_c",
+      "display_name": "MOTS-c",
+      "report_count": 161
+    },
+    {
+      "compound_id": "nad_plus",
+      "display_name": "NAD+",
+      "report_count": 79
+    },
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Retatrutide",
+      "report_count": 47
+    },
+    {
+      "compound_id": "bpc_157",
+      "display_name": "BPC-157",
+      "report_count": 33
+    },
+    {
+      "compound_id": "epithalon",
+      "display_name": "Epithalon",
+      "report_count": 32
+    }
+  ],
+  "avg_cycle_length_days": 33.6,
+  "avg_sentiment_score": 0.643,
+  "sentiment_breakdown": {
+    "positive": 156,
+    "mixed": 39,
+    "negative": 31,
+    "neutral": 77
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T04:48:57.359906Z"
+}

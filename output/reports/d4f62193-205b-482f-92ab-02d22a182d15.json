@@ -1,0 +1,65 @@
+{
+  "id": "d4f62193-205b-482f-92ab-02d22a182d15",
+  "source_id": "1nyzyxs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nyzyxs/repost_wrong_picture_for_12th_week_finally/",
+  "author_hash": "8a92989a2b4bd05916791a315c507ef5a6dc6f0847963a8f1901d6efafa02fe5",
+  "confidence_tier": 4,
+  "date_published": "2025-10-05T14:00:04-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 78,
+    "unit": "kg"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 300,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Equipoise",
+      "name_normalized": "equipoise",
+      "category": "other",
+      "route": "intramuscular",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Cutting cycle with muscle-sparing properties from Retatrutide",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Maintained visible abdominal definition while gaining 5-6kg (78kg to 83-84kg) post-cut with strength improvements",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Reported way stronger post-maintenance phase",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Ran 2-5mg/week Retatrutide during cutting phase combined with 300mg test and equipoise for E2 control. Post-cut weight: 78kg with visible abs. Current weight after 2-3 weeks maintenance: 83-84kg, still maintaining visible abdominal definition and improved strength. User notes strength loss during cut was likely from lack of glycogen rather than actual muscle loss.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.396444Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e74bcc00-be1c-43a1-a206-be18ee0fa99f",
+  "source_id": "1no254w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1no254w/reta_admission_learn_from_my_mistakes/",
+  "author_hash": "ba5e72037ac6c24bfbef033af7fabff704a94c527cc84a14cf78efe52660b37d",
+  "confidence_tier": 4,
+  "date_published": "2025-09-22T16:37:20-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "keeps meals small",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "heartburn when meals not kept small",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started at 0.5mg, attempted 1.2mg once and found it too much. Went off Reta for a few weeks then restarted at 0.5mg twice weekly.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.681021Z"
+}

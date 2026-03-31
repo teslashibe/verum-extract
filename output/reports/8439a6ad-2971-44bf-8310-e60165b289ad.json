@@ -1,0 +1,47 @@
+{
+  "id": "8439a6ad-2971-44bf-8310-e60165b289ad",
+  "source_id": "1ls7k5c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ls7k5c/bpc157_tb500/",
+  "author_hash": "b76442536fd5dcd63cc43eec61b61edd0973fcd19bde32c5b7a05573225577a7",
+  "confidence_tier": 4,
+  "date_published": "2025-07-05T04:18:16-07:00",
+  "training_status": "active (lifting, Muay Thai, running with recent injuries)",
+  "health_conditions": [
+    "broken toe (healed but pain remains)",
+    "partially torn Achilles",
+    "pulled calf",
+    "hamstring injury",
+    "hip flexor strain"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Planning 6 weeks of both compounds at 500 mcg each daily. Initially purchased enough for 2 weeks to test. Acknowledges pattern of returning to training too soon and reducing PT too early after pain reduction. Reduced training volume: running from 2-3x/week to 1x/week, Muay Thai from 4-5x/week to 2-3x/week, modified lifting with kettlebell program.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.404971Z"
+}

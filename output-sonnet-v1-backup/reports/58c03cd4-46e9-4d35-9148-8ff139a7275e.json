@@ -1,0 +1,55 @@
+{
+  "id": "58c03cd4-46e9-4d35-9148-8ff139a7275e",
+  "source_id": "1s1hbwi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1hbwi/anyone_taking_just_solely_peptides_for_muscle_mass/",
+  "author_hash": "f8a845a6da9a979e8c21ab84cde364af6877b9f938470786ab7f8468e1841f2b",
+  "confidence_tier": 5,
+  "date_published": "2026-03-23T06:46:44-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "IGF-1LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 60,
+      "dose_unit": "mg",
+      "frequency": "daily split bilaterally",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "hgh",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 10,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "bpc-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tb-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Reports solid results running LR3 with 10 IU of GH",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Notes the stack is very expensive and unsustainable for longer than 2-3 months. The 60mg IGF-1LR3 dose as stated appears unusually high and may be a typo for 60mcg. Stack described as theoretical/educational as much as personal experience.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105353Z"
+}

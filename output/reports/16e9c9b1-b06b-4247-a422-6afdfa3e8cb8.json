@@ -1,0 +1,45 @@
+{
+  "id": "16e9c9b1-b06b-4247-a422-6afdfa3e8cb8",
+  "source_id": "1lzmi4g",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lzmi4g/pairing_monjauro_with_reta/",
+  "author_hash": "42e5e9450e56523a5ee60b43da77af393106d2a735ac2e531b7da0fa5e622f41",
+  "confidence_tier": 4,
+  "date_published": "2025-07-14T06:32:44-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 8,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "After adding small dose of tirzepatide to retatrutide, scale moved 2 lbs after 6+ week stall",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_sugar",
+      "description": "Risk of hypoglycemia when stacking multiple GLP-1 RAs; user is monitoring carefully",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Stacking Retatrutide (8 mg) with Tirzepatide. Experienced 6+ week plateau on Reta alone. Added small dose of Tirzepatide with caution due to hypoglycemia risk from combining multiple GLP-1 RAs. User is uncertain about continuing the combination and monitoring closely.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.687477Z"
+}

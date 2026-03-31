@@ -1,0 +1,68 @@
+{
+  "id": "95bb0702-f439-4397-99b5-a1051c2cf9ac",
+  "source_id": "1bzxg90",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bzxg90/direct_peptides_oral_bpc_and_tb500_it_works/",
+  "author_hash": "40c230bc5f1bdda515ac8cfbe8c60b601cbb234f5f2ab44cf50a845f12fb99ca",
+  "confidence_tier": 3,
+  "date_published": "2024-04-09T10:10:10-07:00",
+  "training_status": "active (skydiving, training)",
+  "health_conditions": [
+    "femoral patella injury",
+    "grade 2 bicep tendon tear"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "oral TB500",
+      "name_normalized": "oral_tb500",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "oral BPC157",
+      "name_normalized": "oral_bpc157",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Patella tendon 95% healed with barely any inflammation; bicep tear reduced from grade 2 to between acute trauma and grade 1. GP was amazed by progress.",
+      "severity": "significant"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Significant improvement in knee and tendon injuries; still some crepitus in knee but overall massive improvement",
+      "severity": "significant"
+    },
+    {
+      "category": "gut_health",
+      "description": "OP claims BPC157 has been proven to help stomach GI health"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Patella tendon healing (MRI)",
+      "unit": "qualitative MRI finding"
+    },
+    {
+      "marker_name": "Bicep tendon tear grade (MRI)",
+      "unit": "qualitative MRI finding"
+    }
+  ],
+  "protocol_notes": "Second course of oral BPC157 and TB500 from Direct Peptides. Initial injury from skydiving in October. Physiotherapy began ~6 weeks before first MRI in February. Second MRI done approximately 2+ months later showed significant healing. Was told 6 months from recovery at first MRI but achieved near-full healing sooner. Chose oral route to avoid injections despite lower bioavailability. Dose reported as 500mg of both twice per day — note: this is likely a reporting error (should probably be 500mcg), but recorded as stated.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.293797Z"
+}

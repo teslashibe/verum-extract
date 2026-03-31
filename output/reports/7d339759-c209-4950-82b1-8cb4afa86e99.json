@@ -1,0 +1,64 @@
+{
+  "id": "7d339759-c209-4950-82b1-8cb4afa86e99",
+  "source_id": "1refvpq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1refvpq/hgh_and_test/",
+  "author_hash": "27caba2cad95e8f39b37f60f54c10e8f2da1382eda66a7cc656187c286f85f8f",
+  "confidence_tier": 4,
+  "date_published": "2026-02-25T07:13:45-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Used Retatrutide at higher dosage for fat loss"
+    },
+    {
+      "category": "blood_sugar",
+      "description": "A1C lowered from creeping up to lower end of normal range (4.9-5.2)",
+      "severity": "moderate"
+    },
+    {
+      "category": "inflammation",
+      "description": "Reduction in inflammation with low dose Retatrutide"
+    },
+    {
+      "category": "other",
+      "description": "Reduction in NAFLD with low dose Retatrutide"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C",
+      "value_after": 4.9,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Used all three compounds together. Started with higher Retatrutide dosage for fat loss, then reduced to 1-2 mg weekly for health benefits. Now off Retatrutide for 4 months but blood glucose remains stable. No blood sugar spikes between meals",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.67204Z"
+}

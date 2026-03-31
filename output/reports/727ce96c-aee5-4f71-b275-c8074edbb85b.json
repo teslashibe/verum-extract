@@ -1,0 +1,33 @@
+{
+  "id": "727ce96c-aee5-4f71-b275-c8074edbb85b",
+  "source_id": "1rzjf6b",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzjf6b/retatesa/",
+  "author_hash": "04c41eb60398484ecb0b59c98c4c634a01a472fdb40b41d407054ef4b0d40e67",
+  "confidence_tier": 5,
+  "date_published": "2026-03-20T22:34:45-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5-7 days per week at night",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "timeframe_days": 30
+    }
+  ],
+  "protocol_notes": "Recommended dose range 1-2mg. Advised fasting 2-3 hours before administration. Suggested baseline IGF-1 testing before and 1 month after starting use.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660428Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "6ba38fd0-a258-4b1b-abc6-744453f4f01b",
+  "source_id": "1b7mwv8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1b7mwv8/how_many_of_you_have_experienced_permanent/",
+  "author_hash": "9334824171e8040249f0bda4b772fb24891361eb9e6b946a98a8d0735216352b",
+  "confidence_tier": 5,
+  "date_published": "2024-03-05T17:28:54-08:00",
+  "health_conditions": [
+    "gastroparesis"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Gastroparesis developed from semaglutide",
+      "severity": "significant"
+    },
+    {
+      "category": "numbness_tingling",
+      "description": "Numbness"
+    }
+  ],
+  "protocol_notes": "Reports multiple complications including gastroparesis and numbness",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294499Z"
+}

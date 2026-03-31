@@ -1,0 +1,43 @@
+{
+  "id": "87160dd8-e127-4013-ac43-b974e3aa44ad",
+  "source_id": "1q7ww65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q7ww65/hair_loss/",
+  "author_hash": "0441432cf6ecd878c767eb9005f79f7d03e9ccfb0dea3e66f415dd065e7ddc49",
+  "confidence_tier": 4,
+  "date_published": "2026-01-08T19:08:34-08:00",
+  "health_conditions": [
+    "hair loss"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Dutasteride",
+      "name_normalized": "dutasteride",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "oral minoxidil",
+      "name_normalized": "oral_minoxidil",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tadalafil",
+      "name_normalized": "tadalafil",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Also just started using a red light hat. Notes that finasteride can have sexual side effects that may become permanent, which is why they chose dutasteride instead.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.255819Z"
+}

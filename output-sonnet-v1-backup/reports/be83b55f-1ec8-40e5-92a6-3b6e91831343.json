@@ -1,0 +1,41 @@
+{
+  "id": "be83b55f-1ec8-40e5-92a6-3b6e91831343",
+  "source_id": "1qyjary",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qyjary/looking_for_personal_experience_with_ghkcu/",
+  "author_hash": "6b69014375117c92d51e351f871a215a4a3e9f6b4e43767c2098f5c32adb5c99",
+  "confidence_tier": 5,
+  "date_published": "2026-02-07T09:10:44-08:00",
+  "compounds": [
+    {
+      "name_raw": "GHK",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Husband noticed a recent scar healed super quickly; uncertain if attributable to GHK, BPC, or TB",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Report is secondhand (about husband). Could not isolate which compound was responsible for scar healing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.120599Z"
+}

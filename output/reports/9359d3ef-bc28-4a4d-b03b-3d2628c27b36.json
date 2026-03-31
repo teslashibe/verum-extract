@@ -1,0 +1,85 @@
+{
+  "id": "9359d3ef-bc28-4a4d-b03b-3d2628c27b36",
+  "source_id": "1s6uant",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6uant/hgh_sides/",
+  "author_hash": "6030423f8e00f4114204ac470d09a4f17472cbd4874dbe968e11545277ab51bf",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T05:52:38-07:00",
+  "reported_age_range": "60+",
+  "health_conditions": [
+    "overweight"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "once daily in the morning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "once daily in the morning (with HGH)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "once daily at night",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "once daily at night (with CJC-1295)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep improved after switching to 2 IU in morning with CJC+IPA at night",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Weight loss going steady again",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Carpal tunnel sneaking in",
+      "severity": "mild"
+    },
+    {
+      "category": "water_retention",
+      "description": "Water retention when taking HGH before bed without CJC+IPA",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User has been using for ~2 months. Previously used HGH before bed without CJC+IPA for a few weeks but had sleep issues and weight gain/stalled loss. Now notes that 2 IU HGH in morning does not fully shut down natural GH production due to age (55+) and relatively low endogenous GH output.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.656348Z"
+}

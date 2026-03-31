@@ -1,0 +1,51 @@
+{
+  "id": "1a585807-6fc9-48b8-836c-8fb9e4629e4f",
+  "source_id": "1s1tng9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1tng9/ghk_cu_5_weeks_results/",
+  "author_hash": "893ddf0c734be692723d33a574401bffec483fcee322eeaf74672afe31cb3e66",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T14:07:52-07:00",
+  "health_conditions": [
+    "seborrheic dermatitis",
+    "psoriasis"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 35,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "seborrheic dermatitis almost gone",
+      "severity": "significant",
+      "onset_days": 28
+    },
+    {
+      "category": "skin",
+      "description": "psoriasis across body decreasing over time",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Injects into upper glute fatty tissue at a slight angle. Started zinc supplementation (inconsistent) to manage copper/zinc balance. Stopped ketoconazole cream after 1-2 weeks of starting GHK-Cu. Reports no sting/pain at injection site. Diet: no specific restrictions, eats everything. Takes Selank in combination with GHK-Cu.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.658969Z"
+}

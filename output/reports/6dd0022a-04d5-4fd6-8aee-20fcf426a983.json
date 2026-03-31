@@ -1,0 +1,65 @@
+{
+  "id": "6dd0022a-04d5-4fd6-8aee-20fcf426a983",
+  "source_id": "1r1md35",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r1md35/reta_weight_stall_fast/",
+  "author_hash": "1276ce955d3eb2e389dcd24bf073fc00236a06618a0755c641cfaa9941d9b1e4",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T19:28:03-08:00",
+  "reported_weight": {
+    "value": 221.7,
+    "unit": "lbs"
+  },
+  "training_status": "active (workouts same)",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "7 lbs lost in first week (1.5mg to 2mg), then 0.2 lbs in second week at 2mg",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Did not get as much appetite suppression at 1.5mg, increased to 2mg for stronger effect",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_weight",
+      "value_before": 221.7,
+      "value_after": 214.2,
+      "unit": "lbs",
+      "timeframe_days": 14
+    }
+  ],
+  "protocol_notes": "Started 1/27 at 1.5mg, increased to 2mg following week. In 500-600 cal deficit with high protein intake. Weighs daily in morning after bathroom to track body response to food/water/workouts. Plans to increase to 2.5mg when current vial depletes to assess tolerance.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677566Z"
+}

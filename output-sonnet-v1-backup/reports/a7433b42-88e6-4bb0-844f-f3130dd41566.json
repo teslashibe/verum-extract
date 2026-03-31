@@ -1,0 +1,41 @@
+{
+  "id": "a7433b42-88e6-4bb0-844f-f3130dd41566",
+  "source_id": "1ljzhud",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ljzhud/lab_tests_are_in/",
+  "author_hash": "7c3c8e14b424710eb7d689f83a1fb4a51ae4c7680fc1b14efa30283db54e0877",
+  "confidence_tier": 5,
+  "date_published": "2025-06-25T00:38:57-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "cardarine",
+      "name_normalized": "cardarine",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "mk667",
+      "name_normalized": "mk_677",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "MK677 made them look more puffy rather than lean",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Commenter stopped MK677 due to puffiness, takes 10mg cardarine daily. Considers 20mg cardarine quite high.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.280817Z"
+}

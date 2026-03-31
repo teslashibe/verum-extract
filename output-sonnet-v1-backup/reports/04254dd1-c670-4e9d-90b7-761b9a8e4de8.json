@@ -1,0 +1,53 @@
+{
+  "id": "04254dd1-c670-4e9d-90b7-761b9a8e4de8",
+  "source_id": "17ge9m5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17ge9m5/semaglutide_dose_question/",
+  "author_hash": "147f29e5b9802e26097f0ae39d411e268b7aa546e28b11dca226facd2fa165ef",
+  "confidence_tier": 4,
+  "date_published": "2023-10-25T13:29:56-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 75 pounds on tirzepatide, hoping retatrutide will help lose the remaining 30 lbs",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Exhaustion on previous compound (implied semaglutide/tirz), no exhaustion noted on day 2 of Reta",
+      "resolved": true
+    },
+    {
+      "category": "nausea",
+      "description": "No nausea on Reta so far"
+    },
+    {
+      "category": "appetite_change",
+      "description": "Hunger creeping back in on day 3 or 4 on previous protocol, prompting switch to Reta",
+      "severity": "mild",
+      "onset_days": 3
+    }
+  ],
+  "protocol_notes": "Switched to retatrutide after experiencing hunger return on days 3-4 and exhaustion on prior GLP-1 protocol. Only on day 2 of retatrutide at time of posting. Previously lost 75 lbs on tirzepatide, aiming to lose 30 more.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.296269Z"
+}

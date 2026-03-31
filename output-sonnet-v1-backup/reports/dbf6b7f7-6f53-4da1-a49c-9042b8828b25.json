@@ -1,0 +1,48 @@
+{
+  "id": "dbf6b7f7-6f53-4da1-a49c-9042b8828b25",
+  "source_id": "1rvpa2a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvpa2a/na_semax_dosage/",
+  "author_hash": "dd5cb38f07fcc14fcde87dece14d924eace5a5b2355be0738b0cb5e123fd0ef5",
+  "confidence_tier": 5,
+  "date_published": "2026-03-16T15:58:13-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Cognitive effects including focus improvements; noticeable within days",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "Mood tracking recommended as individual response varies widely"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Irritability or overstimulation at higher doses; can feel wired or edgy",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Can interfere with sleep if taken late in the day",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Recommends starting at 300mcg to assess tolerance, morning dosing, 4-6 week cycles with 1-2 weeks off to prevent tolerance. Notes effects noticeable within days.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.10758Z"
+}

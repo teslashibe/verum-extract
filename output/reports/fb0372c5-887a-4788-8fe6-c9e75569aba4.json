@@ -1,0 +1,83 @@
+{
+  "id": "fb0372c5-887a-4788-8fe6-c9e75569aba4",
+  "source_id": "rpc3zw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/rpc3zw/horrible_reaction_from_25_units_of_b500/",
+  "author_hash": "dee0aae54baf84509431381a7b3445cd5e7b0ff07dd7880dec77131365190333",
+  "confidence_tier": 4,
+  "date_published": "2021-12-26T18:16:06-08:00",
+  "health_conditions": [
+    "Fluoroquinolone toxicity (cipro)",
+    "Central sensitization",
+    "Widespread neuropathy",
+    "Joint pain",
+    "Tendon pain",
+    "Degenerative disc disease (cervical)",
+    "Traumatic brain injury",
+    "Cerebellum aneurysm"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 25,
+      "dose_unit": "units",
+      "frequency": "single dose",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "anxiety",
+      "description": "Severe anxiety, felt wired and anxious",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 12
+    },
+    {
+      "category": "pain_relief",
+      "description": "Body pain intensification, felt like someone dipped in acid and beat with baseball bat",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": false
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Woke up at 10:22 PM wide awake after injection at 5:30 PM",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 3
+    },
+    {
+      "category": "blood_pressure",
+      "description": "Abnormal elevated heart rate and blood pressure with activity, pulse 144 standing in line at eye doctor",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": false
+    },
+    {
+      "category": "cardiac",
+      "description": "Elevated pulse rate with minimal activity, symptoms consistent with autonomic nervous system dysfunction",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": false
+    },
+    {
+      "category": "cognitive_impairment",
+      "description": "Brain and CNS felt 'nuked', elevated symptoms of existing traumatic brain injury",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Dose listed as 25 units (exact mcg unclear due to dilution confusion). Administered subcutaneously at 5:30 PM. Prescribed by Manhattan-based doctor specializing in fluoroquinolone toxicity. Obtained from legitimate compounding pharmacy in NYC. User reports high sensitivity to supplements and medications. Reports baseline chronic pain score 6-8/10. One week post-injection, experiencing persistent elevated heart rate, blood pressure, and neuropathic symptoms.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.130155Z"
+}

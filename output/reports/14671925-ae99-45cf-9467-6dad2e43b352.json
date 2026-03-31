@@ -1,0 +1,69 @@
+{
+  "id": "14671925-ae99-45cf-9467-6dad2e43b352",
+  "source_id": "1o3yyxg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o3yyxg/after_reta/",
+  "author_hash": "230539a51c1ff4e770025d7cb091b50e0fb68a352f9d340368f90593cdbb1239",
+  "confidence_tier": 4,
+  "date_published": "2025-10-11T08:47:47-07:00",
+  "training_status": "heavy lifter, biking 40-60 miles per week",
+  "health_conditions": [
+    "autoimmune issues",
+    "metabolic dysfunction",
+    "food noise obsession"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GLP-1 agonist",
+      "name_normalized": "glp_1_agonist",
+      "category": "other",
+      "cycle_length_days": 540,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "added 8 lbs of muscle",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "lost 32 lbs of fat",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "reduced food noise",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "weight_change",
+      "description": "gained 15 lbs within 4 months after coming off",
+      "severity": "significant",
+      "onset_days": 120,
+      "resolved": false
+    },
+    {
+      "category": "appetite_change",
+      "description": "hunger signals and food noise returned after 1-3 months off medication",
+      "severity": "significant",
+      "onset_days": 30,
+      "resolved": false
+    },
+    {
+      "category": "other",
+      "description": "autoimmune issues flared back up after stopping",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "1.5 year cycle, insurance stopped covering. Already a heavy lifter doing significant cardio. Argues that for people with metabolic dysfunction and food noise obsession, GLP is necessary long-term maintenance, not temporary.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.679623Z"
+}

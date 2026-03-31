@@ -1,0 +1,48 @@
+{
+  "id": "77502d14-ce88-47ae-aca1-b19f2d06f958",
+  "source_id": "1kc87vb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kc87vb/tirzreta_stack/",
+  "author_hash": "e0002867bcc302261d6b1a786026281401025dced5a8efa22321f5d588764054",
+  "confidence_tier": 4,
+  "date_published": "2025-05-01T06:04:14-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Semaglutide provided superior appetite suppression and food noise reduction compared to Retatrutide; at times forgot to eat on Semaglutide",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "User maintains meals and portion control with Retatrutide, noting appetite still under control but with cravings compared to none on Semaglutide",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Increased cravings with Retatrutide compared to Semaglutide which suppressed appetite completely",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Transitioned from Semaglutide to Retatrutide after 9 months on Semaglutide. Took two-week break between compounds. Considering adding Cagrisema to help with appetite suppression. Notes Retatrutide is a superior GLP-1/GCG/GIP triple agonist versus Semaglutide's GLP-1 agonism alone. Planning to increase Retatrutide dose to improve appetite suppression.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.691654Z"
+}

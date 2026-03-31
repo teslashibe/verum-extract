@@ -1,0 +1,33 @@
+{
+  "id": "4cc3a090-e8f9-45a2-bffd-67025d66aba9",
+  "source_id": "1bp0035",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bp0035/has_anyone_had_these_kind_of_reactions_from_cjcipa/",
+  "author_hash": "a236e8b80345514850e9f0fc402c1f861ec453c71793c16ac9e82812e9e30b1b",
+  "confidence_tier": 4,
+  "date_published": "2024-03-27T04:53:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 60,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "allergic reactions at higher doses; can cause anaphylaxis. User can only tolerate 60 mcg at a time to prevent reaction.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User attributes reaction to MOD-GRF (CJC-1295) fillers. Reports that higher doses cause anaphylaxis risk. Maximum tolerated dose is 60 mcg.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.415984Z"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "ccf803e1-6045-48f6-af5f-fa52a942e1b8",
+  "source_id": "1p0sjyw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p0sjyw/has_anyone_else_hit_a_point_where_the_hunger/",
+  "author_hash": "fffeb2f1265493fc4383cc092ceabe6c1480c94e1d00b433442ac1f3efafe792",
+  "confidence_tier": 4,
+  "date_published": "2025-11-18T16:11:04-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "Monday, Wednesday, Friday",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "Monday, Wednesday, Friday",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost significant amount of weight over one year",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "6mg tirzepatide weekly was sweet spot; appetite suppression described as 'ok' with reta/sema stack",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User's opinion: tirzepatide is superior for appetite suppression. Currently stacking 2mg reta + 0.5mg sema M/W/F. Previously used 6mg tirz weekly for approximately 1 year.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.393291Z"
+}

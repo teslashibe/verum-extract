@@ -1,0 +1,71 @@
+{
+  "id": "88263beb-b137-4c5f-a0df-1b1d87448e5c",
+  "source_id": "1ltauhp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ltauhp/peptides_and_autoimmune_diseases/",
+  "author_hash": "c2ebe32132c80674b5c5f0aac3842cd41f52c9d16097f6d00fc0e8210c62f136",
+  "confidence_tier": 4,
+  "date_published": "2025-07-06T13:14:33-07:00",
+  "health_conditions": [
+    "Sjogren's syndrome"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "oral",
+      "dose_value": 1.4,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 0.238,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 0.238,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "inflammation",
+      "description": "Decreased inflammation; hands feel smaller with visible bones; feet warm up faster; can walk around first thing in morning",
+      "severity": "significant",
+      "onset_days": 3
+    },
+    {
+      "category": "energy",
+      "description": "Feel better after working out",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Uses 'Glow' (GHK-Cu 1.4mg/day plus TB-500 and BPC-157 at 0.238mg/day each). Tirzepatide doing the heavy lifting for inflammation reduction. Still experiences dry mouth and eyes from Sjogren's but manageable. No flare-ups since starting protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.9,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.687926Z"
+}

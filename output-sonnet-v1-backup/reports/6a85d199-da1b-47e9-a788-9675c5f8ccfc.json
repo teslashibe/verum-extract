@@ -1,0 +1,79 @@
+{
+  "id": "6a85d199-da1b-47e9-a788-9675c5f8ccfc",
+  "source_id": "1kgcrqv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kgcrqv/the_wolverine_peptide/",
+  "author_hash": "e549296478f3f681e463363fad9f2255d77d3b10d0e769f1d391c729e3459df7",
+  "confidence_tier": 4,
+  "date_published": "2025-05-06T12:04:39-07:00",
+  "reported_sex": "male",
+  "training_status": "active, returning to fitness after back injury",
+  "health_conditions": [
+    "severe back pain",
+    "herniated disc",
+    "spinal stenosis",
+    "micro laminotomy",
+    "micro discectomy"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Severe back pain reduced significantly; was unable to work full day before peptides, now walking around post-surgery with minimal discomfort",
+      "severity": "significant",
+      "onset_days": 28
+    },
+    {
+      "category": "recovery",
+      "description": "Post-surgical recovery dramatically better than expected; no need for prescribed opioids or even Tylenol 24 hours post-op; overall discomfort down ~85% by day 6",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "fat_loss",
+      "description": "Since starting Ipa and tightening diet and fitness regimen, no more back fat",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "On BPC and TB on/off for ~3 months (2 cycles) prior to surgery. Loaded up with BPC and TB ~2 weeks ahead of surgery. Reconstitutes with bacteriostatic water, injects subcutaneously into belly fat fasted. Plans to continue current cycle until 6 weeks post-op. Has a biology degree and EMS/paramedic background. Some lingering nagging sciatica at day 6 post-op.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.284442Z"
+}

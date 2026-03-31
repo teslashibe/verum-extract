@@ -1,0 +1,61 @@
+{
+  "id": "646b6129-c99a-400d-b6ff-8961d0ce7040",
+  "source_id": "1s6zkt9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6zkt9/has_anyone_tried_ara290_does_it_help_with_healing/",
+  "author_hash": "1b9bbfcb72e935329824301ef769c2964f8912c92efbf428f753e863d26153d4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T09:24:29-07:00",
+  "training_status": "trains at gym daily",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Helps with nerve healing; able to train hard at the gym every day without being constantly sore and trashed",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Can go hard at the gym every day and not be constantly sore and trashed all the time",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Lots of random aches and pains on days 1 and 2; speculated to be healing of old injuries",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 2
+    }
+  ],
+  "protocol_notes": "Uses the 'GLOW blend' (BPC-157 + TB-500 + GHK-Cu). Runs 10 weeks on, 3 weeks off, 4 times a year (approximately 40 weeks out of 52). Improvements noted as nearly instant (days 1-2). Friends have reported similar aches and pains at start.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.103027Z"
+}

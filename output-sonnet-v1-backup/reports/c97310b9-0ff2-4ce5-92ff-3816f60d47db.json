@@ -1,0 +1,33 @@
+{
+  "id": "c97310b9-0ff2-4ce5-92ff-3816f60d47db",
+  "source_id": "1r200a5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r200a5/has_anyone_stacked_reta_on_top_of_max_sema/",
+  "author_hash": "3f26e6ee53cbb93ee70708177d651f095801547692d80512c850e40b362ece24",
+  "confidence_tier": 5,
+  "date_published": "2026-02-11T07:14:39-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 2.4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 365,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "OP has been on 2.4mg Sema for approximately one year. Has 25mg of Reta in freezer and is considering stacking Reta on top of current Sema dose rather than washing out and switching. Price sensitivity to full Reta dosing is a consideration.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.119134Z"
+}

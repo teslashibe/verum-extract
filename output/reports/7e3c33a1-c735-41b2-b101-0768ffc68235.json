@@ -1,0 +1,54 @@
+{
+  "id": "7e3c33a1-c735-41b2-b101-0768ffc68235",
+  "source_id": "1ngvek8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ngvek8/ghkcu_progress_3_weeks/",
+  "author_hash": "87692ea53050a82b763cf655597fddfd668d7015eddf28cdc1826bd62469ecd3",
+  "confidence_tier": 4,
+  "date_published": "2025-09-14T09:15:39-07:00",
+  "health_conditions": [
+    "acne"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "acne redness disappeared totally, less bumps",
+      "severity": "significant",
+      "onset_days": 21
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "sting/pain at injection site, duration up to 1 day; redness at injection site regardless; reduced with additional BAC water and injection into glutes, love handles, upper thigh vs stomach",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "SubQ injections. Occasionally uses 3mg dose with more BAC water to reduce sting. Injects into glutes, love handles, upper thigh, and stomach areas. Uses moisturizer only for skincare, no sunscreen. Also on Retatrutide concurrently.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.39813Z"
+}

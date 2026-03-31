@@ -1,0 +1,38 @@
+{
+  "id": "05fd165a-ffc6-4f7f-aec0-3c8cb687f949",
+  "source_id": "1quw4sr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1quw4sr/reta_sleep_problems/",
+  "author_hash": "529a812cc31a4d15ea969425917d58e2db4f04237011ec23a4476b50d73bedc4",
+  "confidence_tier": 4,
+  "date_published": "2026-02-03T08:13:13-08:00",
+  "health_conditions": [
+    "fibromyalgia"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Negatively affects sleep, which negatively affects fibromyalgia symptoms",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "inflammation"
+    }
+  ],
+  "protocol_notes": "Already lean with low inflammation baseline. Reports worse outcomes compared to others, possibly related to existing fibromyalgia condition. Mentioned GLPs (GLP-1s) may have benefits for other users.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.667501Z"
+}

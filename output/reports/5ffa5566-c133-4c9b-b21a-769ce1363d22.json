@@ -1,0 +1,44 @@
+{
+  "id": "5ffa5566-c133-4c9b-b21a-769ce1363d22",
+  "source_id": "1n034kk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n034kk/too_much_reta/",
+  "author_hash": "86fe6391deea3cac6196e822a38ffc7c6d2692f53e6f752f7e7d210326b63a7a",
+  "confidence_tier": 5,
+  "date_published": "2025-08-25T14:23:02-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "every 4 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Cannot finish meals",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Extreme appetite suppression through day 3, appetite returns by day 4",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 4
+    }
+  ],
+  "protocol_notes": "Subject (third-party administration) receives 1 mg every 4 days. Strong appetite suppression for 3 days with recovery on day 4.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.683637Z"
+}

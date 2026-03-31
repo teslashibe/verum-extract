@@ -1,0 +1,62 @@
+{
+  "id": "ff4317db-50d9-4fe7-a53b-6f14794ace3c",
+  "source_id": "1rpura6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpura6/reta_to_triz_and_cjctesa_or_ipa/",
+  "author_hash": "9f60c51f1e16e8d3de6cb15819eae74daa568f51bca6580f6d84fc6cba465c11",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T04:48:34-07:00",
+  "training_status": "trains",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "noticed better sleep with CJC/IPA combination",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Tirzepatide caused excessive appetite suppression making it hard to eat",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "fatigue",
+      "description": "Low energy levels due to difficulty eating on Tirzepatide",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Switched from Tirzepatide to Retatrutide due to excessive appetite suppression affecting training. Recommends CJC-1295/Ipamorelin combination over CJC-1295/Tesamorelin due to receptor redundancy",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.654176Z"
+}

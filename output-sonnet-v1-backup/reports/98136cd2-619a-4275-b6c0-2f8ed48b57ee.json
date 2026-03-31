@@ -1,0 +1,57 @@
+{
+  "id": "98136cd2-619a-4275-b6c0-2f8ed48b57ee",
+  "source_id": "1qzw2n9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qzw2n9/motsc_day_1_anecdotal_experience/",
+  "author_hash": "9511eea6d55e1974de61fdba299e04b4d4009268e5818f55832de0d45f625980",
+  "confidence_tier": 4,
+  "date_published": "2026-02-08T21:44:55-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "At 5mg felt like mind was on go mode, knocking down tasks one after another, could keep doing more",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Mentally, physically, and emotionally less exhausted compared to before",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Tolerance developed after 4-6 shots at 2.5mg, felt nothing",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started at 2.5mg for first 1-2 shots with good effect, then tolerance developed over next 4-6 shots. Increased to 5mg standard dose. Currently 2x/week, considering 3x/week. On TRT 100mg/week since October 2025. Takes MOTS-C on same days as TRT injection (Monday and Thursday) for convenience. Considering MWF schedule.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.120218Z"
+}

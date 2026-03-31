@@ -1,0 +1,55 @@
+{
+  "id": "4de2c987-7078-4a64-b13b-0819b8379d22",
+  "source_id": "1re12v6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1re12v6/mental_health_peptides/",
+  "author_hash": "899a6cb5b9c006fb68edacde50eb6d49116670c05a8f65e39a83cd04732dafcd",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T18:42:37-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once daily, every morning",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once daily, every night",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Improved task initiation and focus at work, able to stay on task for approximately 3 hours, reduced procrastination/distraction",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Improved sleep quality, more vivid and frequent dreams with Selank",
+      "severity": "moderate"
+    },
+    {
+      "category": "anxiety_relief",
+      "description": "Hoping for increased relaxation and decreased anxiety with Selank as it builds in system"
+    }
+  ],
+  "protocol_notes": "4 weeks on / 4 weeks off cycle. Considering increasing Selank to 1mg in next cycle. Interested in nasal spray formulation for future testing. User is conducting self-research and documenting protocol carefully.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.660119Z"
+}

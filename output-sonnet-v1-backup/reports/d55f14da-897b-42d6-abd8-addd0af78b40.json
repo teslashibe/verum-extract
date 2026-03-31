@@ -1,0 +1,46 @@
+{
+  "id": "d55f14da-897b-42d6-abd8-addd0af78b40",
+  "source_id": "1af4vjf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1af4vjf/taking_glp1_tirz_seems_to_not_be_working_after_1/",
+  "author_hash": "26f29c8c45edec1e8222c006a7496bb88d7508bc6a708ed7f3ae867e1c274308",
+  "confidence_tier": 4,
+  "date_published": "2024-01-30T16:59:04-08:00",
+  "reported_weight": {
+    "value": 165,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "history of obesity (BMI 38 at start)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost ~15 lbs first month (water weight + fat), then ~10 lbs/month until ~190 lbs, now stalled at 165 lbs with BMI 22-23; starting weight was 260 lbs",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "BMI",
+      "value_before": 38,
+      "value_after": 22
+    }
+  ],
+  "protocol_notes": "Started at 260 lbs, BMI 38. Titrated 5mg -\u003e 7.5mg -\u003e 10mg -\u003e 12.5mg, each after only one month. Stalled at 165 lbs / BMI 22-23. Retrospectively wishes they had moved up doses more slowly — stayed on each dose until stalling rather than moving up after a month. Has a medium-to-small frame (determined by chest/wrist measurements). Used glp1plotter to track drug concentration.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.29521Z"
+}

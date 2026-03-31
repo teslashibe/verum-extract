@@ -1,0 +1,39 @@
+{
+  "id": "a08b93bb-7520-43ea-8da5-02b35fa2c86f",
+  "source_id": "111ndl0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/111ndl0/bpc157_really_is_a_miracle_drug/",
+  "author_hash": "005868fbc00a7752beb9c7834ae3e5e2253bf47fcd4741cb809e571c02ec5913",
+  "confidence_tier": 4,
+  "date_published": "2023-02-13T15:23:53-08:00",
+  "health_conditions": [
+    "knee pain",
+    "torn meniscus",
+    "GI issues"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC 157/PEA (Healthgevity capsules)",
+      "name_normalized": "bpc_157pea_healthgevity_capsules",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Describes it as a game changer for knee pain and torn meniscus; avoided surgery",
+      "severity": "significant"
+    },
+    {
+      "category": "gut_health",
+      "description": "Helped with GI issues"
+    }
+  ],
+  "protocol_notes": "Uses Healthgevity brand BPC-157/PEA capsules. $160 for 60 capsules, up to 2 months supply. Also recommends TB-500 for others.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.427856Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ae0c62a8-b579-45d8-8b52-544d6b8708a9",
+  "source_id": "1r8osct",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r8osct/mitochondrial_realignment_for_bipolar_1_in_n1/",
+  "author_hash": "95313f6f92950bef869b892579face3df7530193c468b6f306e94906f4a6c2d1",
+  "confidence_tier": 4,
+  "date_published": "2026-02-18T19:47:45-08:00",
+  "health_conditions": [
+    "Bipolar 1 Disorder",
+    "depression",
+    "hyposomniac"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "Veil of depression lifted, mental energy improvement, no depression",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "energy",
+      "description": "Severe mental energy depression resolved, described as strong mental energy",
+      "severity": "significant",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "Mitochondrial fission/fusion cycle protocol with supplements. Recently weaned off Seroquel, currently on Remeron. Started SS-31 and NAD+ as part of protocol. n=1 case study. User explicitly states 'I am not making any claims.'",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662351Z"
+}

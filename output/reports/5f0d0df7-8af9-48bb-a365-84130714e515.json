@@ -1,0 +1,49 @@
+{
+  "id": "5f0d0df7-8af9-48bb-a365-84130714e515",
+  "source_id": "1ndlcmk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ndlcmk/semax_selank_what_are_peoples_experience/",
+  "author_hash": "6374b36ddafe1856d8a081ffd9ceca14fe51679f956beccb7583d7be12689797",
+  "confidence_tier": 4,
+  "date_published": "2025-09-10T10:54:07-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "nasal",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "3x daily every 4 hours",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily or as dosed",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Semax felt effective with micro-dosing at 4-hour intervals",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "Selank does wonders",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User notes Semax not useful for many people but works for them with micro-dosing. Started Selank at 100mcg for weeks then slowly increased to 500mcg subcutaneous as sweet spot",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.682054Z"
+}

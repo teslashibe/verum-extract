@@ -1,0 +1,75 @@
+{
+  "id": "b468007b-7dec-4f99-bc3e-07035b302ace",
+  "source_id": "1pq19ic",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pq19ic/retratutide_is_king_31kg_in_3_months/",
+  "author_hash": "24ff68731d0efd1280939bf9de998520e0297ca9e2442cd507f611edd1b6a321",
+  "confidence_tier": 4,
+  "date_published": "2025-12-18T12:27:22-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 93.1,
+    "unit": "kg"
+  },
+  "training_status": "sedentary (not going to gym during protocol)",
+  "health_conditions": [
+    "Obese II"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "2x weekly (split doses)",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "Monday to Friday (5x weekly)",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "mots c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "frequency": "occasionally",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost approximately 31 kg over 3 months, starting from ~124 kg down to 93.1 kg, without going to the gym",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Tesamorelin added to stack to help preserve lean mass; estimated only ~5 kg lean mass lost with muscle mass starting at ~80 kg",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "First time taking 6mg was tough, struggled to eat; split dosages to manage this",
+      "severity": "moderate",
+      "onset_days": 30,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Retatrutide dosing escalated over 3 months: Month 1 up to 3mg (1x weekly), Month 2 up to 6mg (split 3mg/3mg Monday/Thursday), Month 3 up to 12mg (split 6mg/6mg twice weekly). Tesamorelin 2mg Monday-Friday before sleep with no food 2 hours prior. Occasional MOTS-C. Low protein intake during protocol. Regular medical checks reported as normal. Planning 3-month break from Reta starting January. DEXA scan planned for January. OP self-reported ~5 kg lean mass loss based on body composition scale. Also mentioned SLU-PP-332, 5-Amino-1MQ, SS-31, and MOTS-C as an extended stack recommendation but unclear if personally used beyond MOTS-C.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.259843Z"
+}

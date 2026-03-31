@@ -1,0 +1,41 @@
+{
+  "id": "cfa0a11a-65eb-4928-a894-6e9c77661a23",
+  "source_id": "1rdne4f",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdne4f/melanotan_ii_research/",
+  "author_hash": "2ab945fe8ec8c1aa3ac2b12c6bfe8a7c0e10329b7a20e62bbf8f532c6e1b1df9",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T09:56:48-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily for 5 days, then once every 7-10 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Significant tanning effect using tanning bed; describes going from Irish/German complexion to Spaniard/Greek appearance",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Nausea hits over 300mcg",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Reconstituted with 2ml BAC water. Loading phase of 200mcg daily for 5 days, then maintenance every 7-10 days. Uses tanning bed for UV exposure.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.115323Z"
+}

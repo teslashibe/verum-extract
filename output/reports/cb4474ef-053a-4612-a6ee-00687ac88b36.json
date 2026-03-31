@@ -1,0 +1,49 @@
+{
+  "id": "cb4474ef-053a-4612-a6ee-00687ac88b36",
+  "source_id": "1s22e2o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s22e2o/klow_question/",
+  "author_hash": "9f705ed72dc0b31f0bab9bfc01d7342f6ab108dd6ce999e3514845ad27fac735",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T20:06:00-07:00",
+  "health_conditions": [
+    "on blood thinners (Eliquis)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "3x per week (M-W-F)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Bruising at injection sites, attributed to blood thinner use (Eliquis). Uncertain if caused by KLOW specifically or other compounds in stack. Notes that with multiple injections weekly, occasional capillary hits are inevitable.",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "KLOW protocol 3x per week (M-W-F). Also using NAD+ and Retatrutide. On Eliquis blood thinner. No adverse effects from KLOW attributed directly to the peptide.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.647564Z"
+}

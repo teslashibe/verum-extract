@@ -1,0 +1,49 @@
+{
+  "id": "7fa41625-8360-41a9-a6e7-823565ced532",
+  "source_id": "1m6z8rc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m6z8rc/peptides_work/",
+  "author_hash": "e88e07cb6a9051d4c1403a3b28d6fe2889ba3f5d5359f36bc118093b2488779d",
+  "confidence_tier": 4,
+  "date_published": "2025-07-22T20:55:47-07:00",
+  "reported_sex": "male",
+  "training_status": "sedentary initially",
+  "health_conditions": [
+    "Type 2 Diabetes"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Mounjaro",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 80 lbs total, with 50 lbs within first 60 days and 60-70 lbs by day 90-120. Described rapid initial weight loss.",
+      "severity": "significant",
+      "onset_days": 60
+    },
+    {
+      "category": "blood_sugar",
+      "description": "Used for Type 2 Diabetes management",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Back and joint achiness attributed to rapid weight loss (50 lbs in 60 days)",
+      "severity": "moderate",
+      "onset_days": 60
+    }
+  ],
+  "protocol_notes": "Brand name: Mounjaro (tirzepatide). Diet and exercise-based approach. Did not begin exercising until 90-120 days into protocol, after already losing 60-70 lbs. Noted various NSVs including reduced manscaping difficulty, belt marks disappearing, and underwear band changes.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.68664Z"
+}

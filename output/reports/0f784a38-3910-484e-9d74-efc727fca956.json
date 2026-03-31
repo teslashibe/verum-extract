@@ -1,0 +1,35 @@
+{
+  "id": "0f784a38-3910-484e-9d74-efc727fca956",
+  "source_id": "1ri366m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ri366m/what_does_ghkcu_injection_pain_feel_like/",
+  "author_hash": "d7d6ea302ed271a1a24e3c2f3b90b30edbf185a114b37759672d2ba03b6a75d6",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T09:26:54-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Reconstituted with extra bac water: tender and slightly painful to the touch usually the next morning. After two weeks this went away. At worst the area would just be red after a shot.",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 14
+    }
+  ],
+  "protocol_notes": "Reconstituted with extra bacteriostatic water. Initial injection site tenderness resolved within two weeks.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.658397Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7357de0c-a4b3-4472-b9fe-e158daa6f3d2",
+  "source_id": "1agr41t",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1agr41t/bad_reaction_to_ipamorelincjc1295/",
+  "author_hash": "a9e4aa573cbe7ca86fdb0f68a421e23c6fb96b5dd06f5d26158f9b8f8874430f",
+  "confidence_tier": 4,
+  "date_published": "2024-02-01T17:02:40-08:00",
+  "compounds": [
+    {
+      "name_raw": "ipamorelin/cjc1295",
+      "name_normalized": "ipamorelincjc_1295",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Extreme allergic reaction including increased heart rate, swelling, flushed skin, dizziness, and GI issues",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Dose was 0.3 ml of a 5 mg/2 ml mix (~0.75 mg). Took Claritin and reaction resolved. Occurred last week.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.295102Z"
+}

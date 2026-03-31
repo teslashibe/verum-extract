@@ -1,0 +1,38 @@
+{
+  "id": "18b9b770-9c03-44c7-a9b1-a1ed3c4bad6d",
+  "source_id": "1cph41r",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1cph41r/bpc157_for_dogs/",
+  "author_hash": "53ff5e27d72039ab8f8b0aad5076e3ebb06220ff7eb7546a37678b9cc3e9388f",
+  "confidence_tier": 5,
+  "date_published": "2024-05-11T06:06:58-07:00",
+  "health_conditions": [
+    "arthritis (in dog)"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "helped with arthritis",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "dog was much more lively",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Used on dog (deceased at time of report). Route: injection. Indication: arthritis in dog.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.697552Z"
+}

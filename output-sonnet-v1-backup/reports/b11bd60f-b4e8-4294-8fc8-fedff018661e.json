@@ -1,0 +1,44 @@
+{
+  "id": "b11bd60f-b4e8-4294-8fc8-fedff018661e",
+  "source_id": "1ipmmgx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ipmmgx/how_long_for_ss31_to_kick_in/",
+  "author_hash": "fd10428dd8396c53a237caf13868e70fbdfb51630ade7ca0ad9516e6bf669e9b",
+  "confidence_tier": 4,
+  "date_published": "2025-02-14T14:18:16-08:00",
+  "training_status": "Regular treadmill walking 5x per week, cardio-focused",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Significant reduction in average heart rate during treadmill walking routine; average HR dropped from 118-120s down to 104-107 within weeks of starting SS-31",
+      "severity": "significant",
+      "onset_days": 3
+    },
+    {
+      "category": "recovery",
+      "description": "Improved cardiovascular efficiency as measured by lower heart rate during same treadmill routine",
+      "severity": "significant",
+      "onset_days": 3
+    }
+  ],
+  "protocol_notes": "Currently on week 6 of SS-31. Added MOTS-c at beginning of week 5. Noticed heart rate changes within 3 days of starting SS-31. Average HR went from 120s (lowest 118, max 130s) to 104-107 average. Attributes change to SS-31, not training adaptation.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.287873Z"
+}

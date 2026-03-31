@@ -1,0 +1,67 @@
+{
+  "id": "5afe32df-516a-4cac-9e7a-e1deafcbca5a",
+  "source_id": "1qa18sr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qa18sr/nad_and_weight_loss/",
+  "author_hash": "3016c0eca9e14da0c2e56ae34e04a98f5d5a0ee5d9847a803e88880269cb450b",
+  "confidence_tier": 4,
+  "date_published": "2026-01-11T06:52:17-08:00",
+  "health_conditions": [
+    "IBS"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "5 lbs lost in first week on Retatrutide",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "energy",
+      "description": "Feeling great",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "gut_health",
+      "description": "Slowed stomach from GLP has pretty much fixed pre-existing IBS",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "3+ year history: started with Ozempic, moved to Zepbound (Tirzepatide), now using Retatrutide. Pre-existing IBS improved by GLP action. Currently combining Retatrutide with NAD+, TB-500, BPC-157 stack. Last 20 lbs goal.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.684622Z"
+}

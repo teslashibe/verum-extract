@@ -1,0 +1,58 @@
+{
+  "id": "7dc1f5a1-0d29-4c53-b307-0bae3bde722d",
+  "source_id": "1qyux3b",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qyux3b/any_advice_and_guidance_about_cjc_ipam/",
+  "author_hash": "2a11b38ee02302baa1cb87f89b6f5c15efd99144d1282564ea5b427aef1eb148",
+  "confidence_tier": 4,
+  "date_published": "2026-02-07T16:58:43-08:00",
+  "training_status": "5 days weights and 3-4 days cardio per week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "cjc",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IPA",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "trt",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Improved recovery time; previously unable to do weights and cardio on the same day, now can do both same day after adding CJC/IPA",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Minor fat loss noted",
+      "severity": "mild"
+    },
+    {
+      "category": "sleep",
+      "description": "Helps with sleep"
+    }
+  ],
+  "protocol_notes": "User takes CJC/IPA alongside TRT and reta. Recommends getting bloodwork before starting and a couple months in, including IGF-1, fasting glucose, HbA1c, insulin, lipids, CMP, TSH, Free T3, Free T4, prolactin.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.120454Z"
+}

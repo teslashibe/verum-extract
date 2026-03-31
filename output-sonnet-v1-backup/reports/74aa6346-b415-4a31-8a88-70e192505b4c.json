@@ -1,0 +1,62 @@
+{
+  "id": "74aa6346-b415-4a31-8a88-70e192505b4c",
+  "source_id": "1qqf4e9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqf4e9/whats_the_best_peptide_for_fatigue_and_depression/",
+  "author_hash": "26b8108158ce8c9a119202bbc5b2227a59b0720e42eb7bfdf5b087b9cc840564",
+  "confidence_tier": 5,
+  "date_published": "2026-01-29T09:33:00-08:00",
+  "training_status": "previously active, currently unable to exercise due to fatigue",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GLP3",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHKCU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Reta improves sleep; tired at night, wakes at decent hour, clocking 6-8 hours",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost weight on reta; regained 6 lbs when going off it"
+    },
+    {
+      "category": "energy",
+      "description": "Noticed a massive difference in energy levels since starting GLP",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Depression and mood worsening attributed to GHKCU and/or GLP use",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "fatigue",
+      "description": "Little to no energy, difficult to muster strength to even go for a walk; was very active before",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "OP went off reta for a few weeks, gained back 6 lbs, then returned at a very low dose (0.5 mg) to maintain appetite while keeping weight loss. Currently considering selank/semax to offset mood/fatigue side effects. Diet reported as mostly carbs (eggs, chicken, bagels, iced coffee, daily sweet treat).",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123364Z"
+}

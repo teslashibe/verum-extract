@@ -1,0 +1,32 @@
+{
+  "id": "c1c40212-e56a-455f-aa02-60ff94be1b61",
+  "source_id": "1r9jkny",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9jkny/tesamorelin_initial_results_after_6_weeks/",
+  "author_hash": "ec4edf502494f24316359002f934f693380bd2ea0726ec27108a89c70169366c",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T18:46:38-08:00",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Allergic reaction with hives on opposite side of belly and arm; injection site became hard",
+      "severity": "significant",
+      "onset_days": 56
+    }
+  ],
+  "protocol_notes": "Reaction occurred after 8 weeks of tolerating the same vial. Possible superficial vein contact. User decided not to retry.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661857Z"
+}

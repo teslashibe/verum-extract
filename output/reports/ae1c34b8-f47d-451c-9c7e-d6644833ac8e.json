@@ -1,0 +1,57 @@
+{
+  "id": "ae1c34b8-f47d-451c-9c7e-d6644833ac8e",
+  "source_id": "1qgfzsl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qgfzsl/psa_do_not_mix_retra_and_ss31_on_the_same_syringe/",
+  "author_hash": "1acb625af748e682197eee144b57a8f6beb8625dcccf84cbea1eb2f1bdf8e301",
+  "confidence_tier": 4,
+  "date_published": "2026-01-18T10:19:44-08:00",
+  "training_status": "active",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 6.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Subtle but real energy increase; felt like still had a lot in the tank after 10 mile run and gym session",
+      "severity": "moderate"
+    },
+    {
+      "category": "endurance",
+      "description": "Able to complete 10 mile run and continue at gym with energy remaining",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Mixture of Retatrutide, SS-31, and GHK-Cu on same syringe denatured",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User mixed SS-31, Retatrutide, and GHK-Cu on the same syringe; mixture denatured. Unclear if denaturation was caused by GHK-Cu or SS-31 or their combination with Retatrutide.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.683848Z"
+}

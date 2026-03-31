@@ -1,0 +1,42 @@
+{
+  "id": "a944c921-1a0c-4178-be27-079261bb653a",
+  "source_id": "1rt9gza",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rt9gza/wolverine_stack_subq_in_the_belly_vs_near_injury/",
+  "author_hash": "894245ecdd0c046db4543e2361f8bb401a813b22586036bd5ecaa8567595c857",
+  "confidence_tier": 5,
+  "date_published": "2026-03-13T21:04:04-07:00",
+  "health_conditions": [
+    "hamstring strain (6 months)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "Mon-Fri (5x weekly)",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "Mon-Fri (5x weekly)",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Injecting subQ in belly. 2 weeks in, no noticeable effects yet. Aware full cycle is 4-8 weeks. Asking about site injection vs belly.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.108692Z"
+}

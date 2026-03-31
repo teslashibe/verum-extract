@@ -1,0 +1,95 @@
+{
+  "id": "a76369e7-29a4-4924-beaa-9231514c1149",
+  "source_id": "1qqwqer",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqwqer/reta_and_hgh/",
+  "author_hash": "d9a93956966dfb667b433106f3a74be64ecb0982d46754636f10706a12eebffa",
+  "confidence_tier": 4,
+  "date_published": "2026-01-29T21:28:31-08:00",
+  "training_status": "advanced",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 75,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Masteron",
+      "name_normalized": "masteron",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Trenbolone",
+      "name_normalized": "trenbolone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 30,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 8,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "Feels like superman",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Making strength gains while cutting",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Cutting while maintaining strength",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Advanced user stack. Planning to cut to 12% body fat then bulk with same stack. User notes this is not a beginner stack.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.68224Z"
+}

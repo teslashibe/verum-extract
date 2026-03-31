@@ -1,0 +1,42 @@
+{
+  "id": "598a4917-f3ee-4f45-b2ca-9824b3cda3ae",
+  "source_id": "1r18dkl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r18dkl/bulk_peptide_purchasing_question_tirz_reta/",
+  "author_hash": "d2cd1c55ceaac08a936eee8ecdfc27c6f445cf24df7f498414be991a9cc4cdc7",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T10:14:03-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost a significant amount of weight on tirz since April of last year",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Using tirz since April of last year. Currently at 10mg weekly for 3 weeks. Plans to titrate up to 15mg tirz, then gradually transition to reta. Planning 2-year bulk supply.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.119582Z"
+}

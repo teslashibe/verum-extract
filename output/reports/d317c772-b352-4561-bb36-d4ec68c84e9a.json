@@ -1,0 +1,78 @@
+{
+  "id": "d317c772-b352-4561-bb36-d4ec68c84e9a",
+  "source_id": "1rr12jp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr12jp/round_2_of_semaglutide_not_working/",
+  "author_hash": "16dc28238bd11d1d91a6b414e0d84843685d9e4c1631c36769b0b811e53fe381",
+  "confidence_tier": 4,
+  "date_published": "2026-03-11T10:57:01-07:00",
+  "reported_sex": "female",
+  "reported_weight": {
+    "value": 267,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Cardarine",
+      "name_normalized": "cardarine",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleeping well on Tirzepatide",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Better appetite control on Tirzepatide, able to drink water and eat simultaneously",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "On Retatrutide: sleeping only 1-2 hours per night or not at all",
+      "severity": "significant"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "On Retatrutide: gets sick if drinking too much water",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood_change",
+      "description": "On Retatrutide: wacky mood disturbances, increased irritability described as more 'spicy'",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Height: 5'5\". Doctor recommended rapid titration of Retatrutide (2mg per week increase). Retatrutide caused severe side effects - discontinued. Switched to Tirzepatide with better tolerance and sleep quality. Starting Testosterone and considering stacking with Cardarine.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.665547Z"
+}

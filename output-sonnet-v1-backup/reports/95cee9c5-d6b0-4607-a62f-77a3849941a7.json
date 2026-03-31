@@ -1,0 +1,44 @@
+{
+  "id": "95cee9c5-d6b0-4607-a62f-77a3849941a7",
+  "source_id": "1rpfiad",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpfiad/questions_on_cjc1295ipamorelin/",
+  "author_hash": "7813e014e9372fd64a9d879ea42e76f272a94c8d7d22da1534ebf8f3e76e01a9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T15:49:04-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC1295/Ipamorelin blend",
+      "name_normalized": "cjc1295ipamorelin_blend",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "every morning, fasted",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesmorelin/Ipamorelin blend",
+      "name_normalized": "tesamorelinipamorelin_blend",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "before bed, 1-2 hours after last meal",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Significant decrease in fat in stomach and love handles",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Runs protocol 7 days a week. Morning dose is CJC1295/Ipamorelin blend fasted; evening dose is Tesamorelin/Ipamorelin blend before bed.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.110473Z"
+}

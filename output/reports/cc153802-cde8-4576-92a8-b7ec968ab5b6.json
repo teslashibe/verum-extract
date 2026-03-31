@@ -1,0 +1,75 @@
+{
+  "id": "cc153802-cde8-4576-92a8-b7ec968ab5b6",
+  "source_id": "1r18nyg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r18nyg/cjcipa_and_tesa/",
+  "author_hash": "cb3c1b37945f121a197201a71693e7851f906e65397e202f918ebfb3c427e2d0",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T10:24:10-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Body composition changing for the better",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "CJC-1295 no DAC/Ipamorelin 500/500mcg injected at night before bed, at least 3 hours after food. Fasting from 6pm until bed around 10pm. Tesamorelin 2mg/Ipamorelin 500mcg injected at 6am fasted. No coffee or food until noon. 18/6 intermittent fasting protocol. Retatrutide 2mg injected every Saturday for 4 weeks.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665216Z"
+}

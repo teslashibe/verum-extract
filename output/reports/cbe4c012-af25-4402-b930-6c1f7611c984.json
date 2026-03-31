@@ -1,0 +1,56 @@
+{
+  "id": "cbe4c012-af25-4402-b930-6c1f7611c984",
+  "source_id": "1rm3f3e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rm3f3e/mots_c_reta/",
+  "author_hash": "2c00c7ee1e5a7949f09a9a106bb323eabe914221d8840b19ee89d788c5ec02fb",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T19:51:02-08:00",
+  "reported_age_range": "40-49",
+  "training_status": "gym a few times per week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "divided into 3 doses weekly",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Massive fat loss while slightly increasing muscle mass. Went from ~15% to 9.7% body fat within 8 weeks",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Bags of energy on the day of taking and tapered energy levels over next couple days",
+      "severity": "significant",
+      "onset_days": 0
+    },
+    {
+      "category": "body_composition",
+      "description": "Slight muscle mass increase while losing fat",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "value_before": 15,
+      "value_after": 9.7,
+      "unit": "%",
+      "timeframe_days": 56
+    }
+  ],
+  "protocol_notes": "No other lifestyle changes reported. States MOTS-C is particularly good for over 40s. Has mixed outcomes with prior peptide experience.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.656325Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "a7dcc8c5-c8a8-4d8d-a3f0-2b1b9bfc64c7",
+  "source_id": "1rk287p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rk287p/hgh_secretagogue_bloodwork/",
+  "author_hash": "f60117ffdfc7e6e054aed06f9770066494d777a6ee9efa6f3b364e090a8a4c37",
+  "confidence_tier": 3,
+  "date_published": "2026-03-03T13:32:01-08:00",
+  "compounds": [
+    {
+      "name_raw": "GH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Acromegaly-like effects mentioned (forehead changes)",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 170,
+      "value_after": 400
+    }
+  ],
+  "protocol_notes": "Only checked IGF-1 after GH, not a secretagogue. Mentions acromegaly as a real concern from personal experience.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112655Z"
+}

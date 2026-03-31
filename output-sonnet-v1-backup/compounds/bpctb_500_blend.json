@@ -1,0 +1,102 @@
+{
+  "compound_id": "bpctb_500_blend",
+  "display_name": "BPC/TB-500 blend",
+  "category": "other",
+  "total_reports": 1,
+  "reports_by_tier": {
+    "4": 1
+  },
+  "top_benefits": [
+    {
+      "category": "sleep",
+      "count": 1,
+      "pct": 100
+    },
+    {
+      "category": "mood",
+      "count": 1,
+      "pct": 100
+    },
+    {
+      "category": "fat_loss",
+      "count": 1,
+      "pct": 100
+    },
+    {
+      "category": "joint_pain",
+      "count": 1,
+      "pct": 100
+    },
+    {
+      "category": "recovery",
+      "count": 1,
+      "pct": 100
+    },
+    {
+      "category": "muscle_gain",
+      "count": 1,
+      "pct": 100
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "appetite_change",
+      "count": 1,
+      "pct": 100,
+      "avg_severity": 2
+    },
+    {
+      "category": "injection_site",
+      "count": 1,
+      "pct": 100,
+      "avg_severity": 1
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 300,
+      "unit": "mcg",
+      "frequency": "daily, 5 days on 2 days off, at 10pm before bed",
+      "count": 1,
+      "pct": 100
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "cjcipa_blend",
+      "display_name": "CJC/IPA blend",
+      "report_count": 1
+    },
+    {
+      "compound_id": "dsip",
+      "display_name": "DSIP",
+      "report_count": 1
+    },
+    {
+      "compound_id": "kisspeptin",
+      "display_name": "Kisspeptin",
+      "report_count": 1
+    },
+    {
+      "compound_id": "tirzepatide",
+      "display_name": "Tirzepatide",
+      "report_count": 1
+    },
+    {
+      "compound_id": "aod_9604",
+      "display_name": "AOD9604",
+      "report_count": 1
+    }
+  ],
+  "avg_cycle_length_days": 90,
+  "avg_sentiment_score": 1,
+  "sentiment_breakdown": {
+    "positive": 1,
+    "mixed": 0,
+    "negative": 0,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.971303Z"
+}

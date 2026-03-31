@@ -1,0 +1,32 @@
+{
+  "id": "96918483-a984-40a8-9dbf-e5cbe91a2858",
+  "source_id": "1q7ci5x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q7ci5x/ghkcu_welts/",
+  "author_hash": "b6dfe5f97daef9df90f7fcd22b0a5cd2dcb65472ee11c1dc4297e891cf74b5e7",
+  "confidence_tier": 5,
+  "date_published": "2026-01-08T05:59:50-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Gets welts and post-pinning soreness and inflammation; resolved by rubbing injection site hard with knuckle bones for 30-60 seconds immediately after injection",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Rubs injection site immediately after pinning with knuckle bones very hard for 30-60 seconds to reduce welts and inflammation.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.255903Z"
+}

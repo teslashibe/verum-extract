@@ -1,0 +1,63 @@
+{
+  "id": "7570dc99-1623-4f47-b064-50b298a0bf86",
+  "source_id": "1re1ye6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1re1ye6/wolverine_blend_plan/",
+  "author_hash": "ae58274e7ebaf6a63953e9062bc169c2548083d849345b06ec3151c0bc698e47",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T19:22:12-08:00",
+  "training_status": "military veteran (20 years)",
+  "health_conditions": [
+    "multiple bad discs in back",
+    "joint pain",
+    "hand surgery recovery"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "cycle_length_days": 20,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Notices increased hip and knee pain when not taking peptides; ongoing maintenance for back disc and joint pain",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Uses KLOW for 20-30 days when healing from specific injuries such as recent hand surgery"
+    },
+    {
+      "category": "skin",
+      "description": "Uses GHK-Cu for hair and skin"
+    },
+    {
+      "category": "hair",
+      "description": "Uses GHK-Cu for hair and skin"
+    }
+  ],
+  "protocol_notes": "Ongoing blend of GHK-Cu (2.5mg) and KPV as maintenance stack. Each other component in blend dosed at 0.5mg. Uses KLOW (20-30 day cycles) for acute healing only. Avoids BPC-157 and TB-500 for ongoing use due to angiogenesis concerns; prefers KPV for anti-inflammatory purposes without that effect. Has been using peptides long enough that absence is more noticeable than presence.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114878Z"
+}

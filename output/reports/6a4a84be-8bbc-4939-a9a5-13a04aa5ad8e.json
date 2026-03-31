@@ -1,0 +1,64 @@
+{
+  "id": "6a4a84be-8bbc-4939-a9a5-13a04aa5ad8e",
+  "source_id": "1mbkyz4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mbkyz4/seeking_experienced_bam15_users_dosage_safety/",
+  "author_hash": "6ed0380306742de86d4eacf1d85a74584071dd83d6e96b342ffbe122314d898a",
+  "confidence_tier": 4,
+  "date_published": "2025-07-28T09:31:22-07:00",
+  "training_status": "active (cardio)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BAM15",
+      "name_normalized": "bam15",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "2x daily (100mg at 11am-2pm, 100mg before bed)",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Feeling the best in terms of energy output since changing dosing schedule",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Improved physical appearance",
+      "severity": "moderate"
+    },
+    {
+      "category": "cognitive",
+      "description": "Mental clarity improved",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "Higher heart rate during cardio, particularly noticeable at 150-300mg/day dosing",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Full blood panel",
+      "timeframe_days": 90
+    },
+    {
+      "marker_name": "Testosterone",
+      "timeframe_days": 90
+    }
+  ],
+  "protocol_notes": "Started end of May 2025. Initial protocol: 150mg/day (50mg 3x daily) for initial period, then escalated to 300mg/day (100mg 3x daily). Recently changed to 200mg/day (100mg 2x daily) with timing adjusted to 11am-2pm (around training) and prior to bed. Changed timing to avoid impacting cardio performance. Also on TRT recently started. Full blood panel taken in April (pre-BAM15), then another full panel taken after starting TRT to verify TRT dosing. User reports no changes in blood panel attributable to BAM15. Declined to use SARMs, prefers TRT+ approach.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.402859Z"
+}

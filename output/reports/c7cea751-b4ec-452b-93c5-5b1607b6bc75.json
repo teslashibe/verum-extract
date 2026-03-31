@@ -1,0 +1,39 @@
+{
+  "id": "c7cea751-b4ec-452b-93c5-5b1607b6bc75",
+  "source_id": "1bp0035",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bp0035/has_anyone_had_these_kind_of_reactions_from_cjcipa/",
+  "author_hash": "a0f0f417f026db7b9da46bbc582d82525d091995cdec5bf74595060f329fcf07",
+  "confidence_tier": 5,
+  "date_published": "2024-03-27T04:53:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "similar allergic reaction (hives) to both CJC and Tesamorelin",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User reports hives resolved with liquid Benadryl. Reports similar reaction pattern to both CJC-1295 and Tesamorelin.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.415984Z"
+}

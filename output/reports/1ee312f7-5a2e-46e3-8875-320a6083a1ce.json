@@ -1,0 +1,54 @@
+{
+  "id": "1ee312f7-5a2e-46e3-8875-320a6083a1ce",
+  "source_id": "1r7231w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r7231w/anybody_else/",
+  "author_hash": "58ce2aae29a7812f32d225869ba946b0603d4841853832c9c0122908b978cda2",
+  "confidence_tier": 4,
+  "date_published": "2026-02-17T02:03:02-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep slightly improved, sweats have stopped after adjusting injection timing",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep has been trash, sweating profusely in the last week",
+      "severity": "significant",
+      "onset_days": 7,
+      "resolved": true
+    },
+    {
+      "category": "water_retention",
+      "description": "Bloated",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Using Tesamorelin 1mg nightly subcutaneously. Also on TRT for 3.5 months. Reconstituted with 1.5ml bac water to 10mg vial (0.15ml per 1mg daily dose in 1ml syringe). Initially pinned at bedtime, then moved injection to 3pm with improvement. Also using Retatrutide concurrently.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.675224Z"
+}

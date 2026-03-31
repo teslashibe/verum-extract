@@ -1,0 +1,44 @@
+{
+  "id": "2d0283c5-e491-4e32-b724-82524081dcbd",
+  "source_id": "1f2hbgp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1f2hbgp/best_peptides_for_a_90_year_old/",
+  "author_hash": "e462386dd2f80a3347d08d604ae41f9682b550087d920bb8d9ff9e3e5157c560",
+  "confidence_tier": 4,
+  "date_published": "2024-08-27T06:39:48-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "60+",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "IU",
+      "frequency": "3 days on, 3 days off",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Acetyl L-carnitine helps cognitive functions amongst other stuff"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Testosterone replacement for age-related muscle maintenance"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Testosterone"
+    }
+  ],
+  "protocol_notes": "Australian male, age 67. Also takes DHEA 50-100mg daily, Acetyl L-carnitine, Zinc, Magnesium, Selenium, Taurine. States testosterone levels need monitoring for correct dosing. HGH protocol: 3 IU, 3 days on 3 days off.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.41403Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "4c3b2035-3067-478e-909d-ac04fdfedcd5",
+  "source_id": "1rx7u9a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx7u9a/klow_fixed_something_unexpected/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T09:00:08-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "active lifestyle",
+  "health_conditions": [
+    "tendon nodule on hand"
+  ],
+  "compounds": [
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 2.2,
+      "dose_unit": "mcg",
+      "frequency": "almost daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Tendon nodule at base of middle finger in palm essentially disappeared after 3 weeks of KLOW use. Nodule had persisted for 1.5 years despite cortisone injection treatment.",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "pain_relief",
+      "description": "Reduction in pain and discomfort associated with tendon nodule",
+      "severity": "significant",
+      "onset_days": 21
+    }
+  ],
+  "protocol_notes": "Used almost daily for 3 weeks with a few missed days. Subq injection. User explicitly notes correlation is not causation and that natural resolution or delayed cortisone effect cannot be ruled out. Previous cortisone injection provided 1-2 months of relief about 1 year prior. Surgery was being considered as treatment trajectory.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.649962Z"
+}

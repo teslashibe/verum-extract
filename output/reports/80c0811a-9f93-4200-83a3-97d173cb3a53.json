@@ -1,0 +1,32 @@
+{
+  "id": "80c0811a-9f93-4200-83a3-97d173cb3a53",
+  "source_id": "17ujerw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17ujerw/warning_massive_allergic_reaction_to_tb500/",
+  "author_hash": "d0a6562590aea83088265abd99dacf96ab3e8719a2032d90d16361ea7e293749",
+  "confidence_tier": 4,
+  "date_published": "2023-11-13T12:03:32-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 600,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Symptoms similar to OP's reaction starting around 600mcg dose",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Notes that commercial TB-500 products are often actually TB4. Dose-dependent sensitivity with symptoms at 600mcg+. Prefers protocol of 100-500mcg 1x or 2x daily for TB4.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.699929Z"
+}

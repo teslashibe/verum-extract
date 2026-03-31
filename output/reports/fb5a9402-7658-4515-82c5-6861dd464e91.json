@@ -1,0 +1,44 @@
+{
+  "id": "fb5a9402-7658-4515-82c5-6861dd464e91",
+  "source_id": "1phsd5j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1phsd5j/is_aod_actually_doing_anything_for_you_guys_or_am/",
+  "author_hash": "d272078767dc4c725707f7f4eaf01577183520d3ee8e289512672726216c475c",
+  "confidence_tier": 4,
+  "date_published": "2025-12-08T15:48:38-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "fasted, prior to fasted cardio",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Results come when paired with GLP-1/GIP agents like Retatrutide or Tirzepatide, with timing important for fasted cardio",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User reports good results with AOD-9604 when combined with GLP-1/GIP agonists. Emphasizes taking fasted prior to fasted cardio for optimal results.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.674899Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "bc1048b4-c749-4c6d-86fe-67ddfd57f3c5",
+  "source_id": "1qz1qrp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qz1qrp/my_significant_other_has_been_on_sema_for_2/",
+  "author_hash": "b134487994a476d82b9102f94580029c76eb6799509ec3eea5f00de2999d22cf",
+  "confidence_tier": 4,
+  "date_published": "2026-02-07T22:36:11-08:00",
+  "reported_sex": "female",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "No appetite reported at 0.25mg and 0.50mg doses over first 2 months",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Vomiting and diarrhea starting 2 days after 1mg dose; by day 6 only nauseated with 2 diarrhea episodes",
+      "severity": "moderate",
+      "onset_days": 2,
+      "resolved": false
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Diarrhea at 1mg dose",
+      "severity": "moderate",
+      "onset_days": 2,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Female partner of OP. Titration schedule: Month 1 at 0.25mg, Month 2 at 0.50mg (both with no side effects), Week 1 at 1.0mg (severe side effects). OP later clarified she actually took 0.80mg (12 units) instead of intended 1.0mg (15 units). Considering switching to Tirzepatide or GLP-2 due to side effects and cost considerations. OP chose Semaglutide over Tirzepatide primarily due to price and lower weekly dosing requirements (max 2.4mg/week for Sema vs 15mg/week for Tirz).",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.678853Z"
+}

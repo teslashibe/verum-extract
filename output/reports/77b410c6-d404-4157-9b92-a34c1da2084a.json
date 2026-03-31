@@ -1,0 +1,88 @@
+{
+  "id": "77b410c6-d404-4157-9b92-a34c1da2084a",
+  "source_id": "1s6v8j4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6v8j4/bruising_when_pinning_sub_q_wtf_any_advice/",
+  "author_hash": "a4bbe5a57d5758dca469684624b2ccaa48a50fe5da2a697fee577acadd079d6b",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T06:34:14-07:00",
+  "health_conditions": [
+    "essential tremors"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "frequency": "5x per week",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "frequency": "5x per week",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "frequency": "5x per week",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "5x per week",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "KPV causes more bruising than Semax/Selank/BPC-157",
+      "severity": "moderate"
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "Allergic reaction to AOD-9604: intense itching",
+      "severity": "significant"
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "Allergic reaction to Ipamorelin: intense itching",
+      "severity": "significant"
+    },
+    {
+      "category": "skin_reaction",
+      "description": "Skin sensitivity from cycling through multiple peptides",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Uses insulin pens with fresh needles each injection due to essential tremors making pencil-size syringes difficult to control. Rotates injection sites on a 5-day cycle: Day 1 - right abdomen (3\" from navel), Day 2 - right outer thigh, Day 3 - left abdomen (3\" from navel), Day 4 - left outer thigh, Day 5 - close to navel. Injects multiple times per day depending on cycle.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.656292Z"
+}

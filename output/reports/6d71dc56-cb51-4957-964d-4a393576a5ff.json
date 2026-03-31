@@ -1,0 +1,40 @@
+{
+  "id": "6d71dc56-cb51-4957-964d-4a393576a5ff",
+  "source_id": "1qx614h",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qx614h/5_amino_1mq/",
+  "author_hash": "58cd423d215687fbf377643ed76b7c658c5d37d4befb36c03e44471e1f7eb79f",
+  "confidence_tier": 4,
+  "date_published": "2026-02-05T18:59:24-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "5-Amino-1MQ",
+      "name_normalized": "5_amino_1mq",
+      "category": "body_composition",
+      "route": "oral",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "significant energy improvement",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User on GLP-1 (Semaglutide) for fat loss; taking 5-Amino-1MQ primarily for energy",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.666852Z"
+}

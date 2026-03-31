@@ -1,0 +1,42 @@
+{
+  "id": "c42e59a7-8a87-48bd-b970-56ddb40ad51f",
+  "source_id": "1ikftl8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ikftl8/thank_god_for_whoever_invented_tb500_and_bpc157/",
+  "author_hash": "8107bf829da617f3ed63440e0348b5c25a016f26b9084166aa868f2ca5117be9",
+  "confidence_tier": 4,
+  "date_published": "2025-02-07T21:16:07-08:00",
+  "training_status": "gym training",
+  "health_conditions": [
+    "lower back pain",
+    "sciatica"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Noticeable improvement in lower back pain from gym injury within 2 weeks, though not complete resolution",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "Planning to add ARA peptide to stack specifically for nerve pain support. No other routine changes reported during assessment period.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.411387Z"
+}

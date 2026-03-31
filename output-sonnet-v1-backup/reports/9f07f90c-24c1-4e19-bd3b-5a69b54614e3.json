@@ -1,0 +1,40 @@
+{
+  "id": "9f07f90c-24c1-4e19-bd3b-5a69b54614e3",
+  "source_id": "1rf2esd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rf2esd/can_ghkcu_make_you_sick/",
+  "author_hash": "8ec5455c5cec63596e3450d3bce3ac7ef5c1f88b0612ccee1289d9e443b25ccc",
+  "confidence_tier": 5,
+  "date_published": "2026-02-25T22:06:53-08:00",
+  "compounds": [
+    {
+      "name_raw": "glow stack",
+      "name_normalized": "glow_stack",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "headache",
+      "description": "Bad headaches for first 3 days",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 3
+    },
+    {
+      "category": "other",
+      "description": "Stuffed nose and sneezing for first 3 days",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 3
+    }
+  ],
+  "protocol_notes": "User started 'glow stack' and reported side effects during first 3 days of a 9-day run. Fully resolved by day 9.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114641Z"
+}

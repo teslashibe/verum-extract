@@ -1,0 +1,49 @@
+{
+  "id": "24103cf4-ac0c-4688-b2ba-d4cf4850053f",
+  "source_id": "1rsffnd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rsffnd/night_shift_work_new/",
+  "author_hash": "fc89164405ac75d88767cb4122b7b53dd8673aa2857e2e493339b1ed09a14e0d",
+  "confidence_tier": 5,
+  "date_published": "2026-03-12T23:07:11-07:00",
+  "training_status": "shift worker",
+  "health_conditions": [
+    "sleep disruption",
+    "mid-night blood sugar drop",
+    "cortisol spikes"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Reta raises metabolism which wreaks havoc on sleep, especially during the day; wakes up and cannot stay asleep due to mid-night blood sugar drop and cortisol spike",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Works shift work while on Reta. Found eating carbs before bed provides limited help with sleep. Just reconstituted DSIP to trial; issue is staying asleep rather than deep sleep quality. Planning to try glutathione in a couple of weeks.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109106Z"
+}

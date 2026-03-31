@@ -1,0 +1,55 @@
+{
+  "id": "4ec14e6e-8ae3-4959-9a05-b728ff7cccbf",
+  "source_id": "1mgzpzz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mgzpzz/whats_up_everyonethis_is_for_those_who_benefited/",
+  "author_hash": "5bf2fb8cb12d84274a560342be4e87b91effb79aa97d79fe3ee8ede2127eedba",
+  "confidence_tier": 4,
+  "date_published": "2025-08-03T17:54:18-07:00",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "nasal",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "AM",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "nasal",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "bedtime",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Semax helped with calm and focus, easy multitasking (important for demanding job)",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Selank provided cozy warm blanket feeling that helped relaxation and sleep onset",
+      "severity": "moderate"
+    },
+    {
+      "category": "anxiety_relief",
+      "description": "Semax promoted calm feeling",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Semax AM, Selank at bedtime for 21 days. Intranasal. User expressed 'kiss them already' (approval).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.685572Z"
+}

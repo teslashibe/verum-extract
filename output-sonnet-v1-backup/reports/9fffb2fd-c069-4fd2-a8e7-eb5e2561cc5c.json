@@ -1,0 +1,110 @@
+{
+  "id": "9fffb2fd-c069-4fd2-a8e7-eb5e2561cc5c",
+  "source_id": "16xz9nm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16xz9nm/peptides_have_really_changed_my_life/",
+  "author_hash": "8f03c4bfd69b4f55c4de3fb33af6d5efc07a476fd02000de13751343a2aa311c",
+  "confidence_tier": 4,
+  "date_published": "2023-10-02T08:13:41-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "diabetes",
+    "neuropathy",
+    "hypertension",
+    "high cholesterol",
+    "androgenetic alopecia",
+    "telogen effluvium"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "twice a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "twice a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "twice a day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "twice a day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 22 lbs in 18 weeks on Sema alone, then continued weight loss after adding Tirz; 2.2 lbs in 9 days at sweet spot",
+      "severity": "significant"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Improvement in neuropathy pain and discomfort with BPC157 and TB500 protocols after about a month",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "A1C dropped to normal after starting GLP-1",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Blood pressure and cholesterol improved after starting GLP-1",
+      "severity": "moderate"
+    },
+    {
+      "category": "skin",
+      "description": "Using GHK-Cu both internally and externally; hoping for improvement in hair loss"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Hair falling out significantly, attributed to weight loss and possibly inadequate protein intake; has AGE and thin hair baseline",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C"
+    }
+  ],
+  "protocol_notes": "Started on Medicare-covered Sema, hit a 6-week stall, then added Tirz at low doses twice weekly. BPC157 and TB500 running as a ~3 month protocol for neuropathy/foot conditions, approximately 1 month in at time of post. Plans to increase TB500 to 750 mcg/day after current vial. Using GHK-Cu internally and topically. Focused on increasing protein, electrolytes, collagen, and vitamins. Receiving physical therapy and foot therapy concurrently.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.296617Z"
+}

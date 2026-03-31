@@ -1,0 +1,40 @@
+{
+  "id": "f5eadc70-abf0-4c74-9322-0b529ec21081",
+  "source_id": "1s4s3bn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4s3bn/cjc_1295_no_dac_ipamorelin_for_sleep/",
+  "author_hash": "0296d321252d2e21522b12c228e732c270ac493b11e7a7ac56da8ff571ebc4d2",
+  "confidence_tier": 5,
+  "date_published": "2026-03-26T19:45:15-07:00",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Very good deep sleep",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Very vivid dreams, most vivid ever experienced",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "No DAC variant implied from context",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.657397Z"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "e7929bd4-2d45-4c47-a2ff-e2b38bcde1ec",
+  "source_id": "1fc20k7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fc20k7/tesaipa_amazing_benefits_after_1_week/",
+  "author_hash": "d69e18600d2b976ab6e19b1ea580344509ef52312b3c3954410425210352d298",
+  "confidence_tier": 4,
+  "date_published": "2024-09-08T09:36:29-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Tesamorelin plus 'mic' helped with energy",
+      "severity": "moderate",
+      "onset_days": 2
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Tesamorelin plus 'mic' helped with appetite",
+      "severity": "moderate",
+      "onset_days": 2
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "CJC-1295 (referred to as Cagri) caused extreme tiredness, could barely function for a day or two after injection",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "On Tirzepatide for a few months. Added CJC-1295 (referred to as 'Cagri') for last 10lbs weight loss but experienced severe fatigue after 3 injections and discontinued. Added Tesamorelin and 'mic' (possibly Melanotide or similar) two days prior to reporting and noticed energy and appetite improvements. Plans to ditch CJC-1295 and return to Retatrutide if weight loss boost needed later.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.413794Z"
+}

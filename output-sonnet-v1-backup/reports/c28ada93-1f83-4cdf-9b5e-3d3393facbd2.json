@@ -1,0 +1,46 @@
+{
+  "id": "c28ada93-1f83-4cdf-9b5e-3d3393facbd2",
+  "source_id": "1hiz4az",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1hiz4az/just_saw_teizepatide_was_approved_for_sleep_apnea/",
+  "author_hash": "27a3ed380eff678830c06fe498553343c0be5ded259d5d7bc14dfae37acd27a7",
+  "confidence_tier": 5,
+  "date_published": "2024-12-20T17:31:12-08:00",
+  "health_conditions": [
+    "sleep apnea"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Semaglutide worked well for weight loss",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Tirzepatide did nothing for weight loss even at max dose; no pounds lost",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Used CPAP for 10 years. Tirzepatide at max dose produced no weight loss and no sleep apnea improvement. Semaglutide worked well. Switched from sema to tirz, found tirz ineffective. Has not had hormones checked.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.28882Z"
+}

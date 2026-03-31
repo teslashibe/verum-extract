@@ -1,0 +1,79 @@
+{
+  "id": "664c141f-38aa-441d-a0c8-b314bb345d74",
+  "source_id": "1nb0koz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nb0koz/opinions_on_best_stacks_for_muscle_growth_44yr_old/",
+  "author_hash": "d1183f286241331302c8885119f33b9957f12136db700591cf4d4817ab78ede7",
+  "confidence_tier": 4,
+  "date_published": "2025-09-07T11:19:10-07:00",
+  "reported_age_range": "40-49",
+  "training_status": "active, gym training",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Test. (mct)",
+      "name_normalized": "test_c",
+      "category": "other",
+      "dose_value": 150,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH (Omnitrope)",
+      "name_normalized": "hgh_omnitrope",
+      "category": "other",
+      "dose_value": 13,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "intramuscular",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC/Ipamorlin",
+      "name_normalized": "cjc_ipamorelin",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesa.",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Noticeable muscle growth from IGF-1 LR3 IM injections; splitting dose to both sides for localized growth",
+      "severity": "moderate"
+    },
+    {
+      "category": "anti_aging",
+      "description": "HGH prescribed for longevity; doctor indicated muscle mass should increase over months (6+ months timeline)"
+    }
+  ],
+  "protocol_notes": "Protocol prescribed by a wellness clinic (Defy Medical for HGH/Omnitrope, Ways2Well for most other compounds). User is new to peptides/TRT. Currently on 150mg/week testosterone and wants to increase to 200-250mg/week. Omnitrope costs ~$750/vial, uses ~4 vials/month. New bloodwork pending at time of posting. IGF-1 LR3 dose split between bilateral injection sites.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.272275Z"
+}

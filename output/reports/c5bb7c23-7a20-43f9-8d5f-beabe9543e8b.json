@@ -1,0 +1,44 @@
+{
+  "id": "c5bb7c23-7a20-43f9-8d5f-beabe9543e8b",
+  "source_id": "1ronsvk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ronsvk/glow/",
+  "author_hash": "d36df20893a265ddeef0e7acdc0450ddd5cbfe992846d3d9647f068cd876f992",
+  "confidence_tier": 4,
+  "date_published": "2026-03-08T19:15:02-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "skin improvements",
+      "severity": "moderate"
+    },
+    {
+      "category": "injury_healing",
+      "description": "injury healing",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "minor redness and initial stinging that goes away after a few minutes",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Topical application of GHK-Cu. Minor injection site irritation that resolves quickly.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.66699Z"
+}

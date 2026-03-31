@@ -1,0 +1,56 @@
+{
+  "id": "053e0622-b87e-436e-8f0c-0e110a3bcf85",
+  "source_id": "1s6q3xx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6q3xx/thoughts_on_kisspeptin/",
+  "author_hash": "bcfda9b4bc0bb5d9b7a4e7b28fca5a8fe710cf131f282ea5b014dbf8eb0510bd",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T01:58:01-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Kisspeptin",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Kisspeptin",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testagen",
+      "name_normalized": "testagen",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "timeframe_days": 30
+    },
+    {
+      "marker_name": "body composition"
+    }
+  ],
+  "protocol_notes": "Running kisspeptin-10 (300-500 mcg subcutaneous daily) stacked with Testagen bioregulator. User notes lack of noticeable effects after 1 month, speculates this is long-term compound. No baseline testosterone bloodwork taken before starting. Age 54, male. Goal is body composition changes.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.6564Z"
+}

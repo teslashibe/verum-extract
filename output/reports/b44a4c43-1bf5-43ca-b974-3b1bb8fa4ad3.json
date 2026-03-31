@@ -1,0 +1,50 @@
+{
+  "id": "b44a4c43-1bf5-43ca-b974-3b1bb8fa4ad3",
+  "source_id": "1r9bto9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9bto9/injectable_ghk_cu_side_effects/",
+  "author_hash": "d501b3785e20beadb08a5bea36bcfc6e0985c4f6e1cef9acd99e777542b5ef7b",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T13:21:46-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "single dose",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "headache",
+      "description": "pressure in head",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "cognitive_impairment",
+      "description": "feeling slow, brain foggy, out of it, like on something",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "fatigue",
+      "description": "feeling fatigued after continued injections",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "First injection; suspected histamine reaction. User initially concerned about copper toxicity but determined it was likely histamine-related. Continued injecting after first dose with fatigue noted but other symptoms subsided.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662046Z"
+}

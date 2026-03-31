@@ -1,0 +1,39 @@
+{
+  "id": "eb4974ed-c1be-4ebc-97c8-b8c481efda78",
+  "source_id": "18g1yoh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/18g1yoh/semaglutide_peptide_for_weight_loss_dose/",
+  "author_hash": "b9d7f0adb4d74766a976ecaa1b1751ac4af51d0096c230774d8cfd94bf918ce1",
+  "confidence_tier": 4,
+  "date_published": "2023-12-11T11:34:31-08:00",
+  "reported_sex": "female",
+  "reported_weight": {
+    "value": 130,
+    "unit": "lbs"
+  },
+  "compounds": [
+    {
+      "name_raw": "semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 320,
+      "dose_unit": "mcg",
+      "frequency": "weekly",
+      "cycle_length_days": 150,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 8 pounds in 5 months",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Wife is 5'2\" and 130lbs, uses 320mcg weekly. Commenter notes that very obese individuals (~450lbs) could potentially lose 20lbs/month with 1-2mg weekly.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.295787Z"
+}

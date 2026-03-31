@@ -1,0 +1,60 @@
+{
+  "id": "0cfcb2d0-19f5-4afe-a311-cc2fcc16b269",
+  "source_id": "1rpfiad",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpfiad/questions_on_cjc1295ipamorelin/",
+  "author_hash": "61b579d5fc322c6b8bf2d4ea0e73e084facca0c927bfa267febce86161974448",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T15:49:04-07:00",
+  "reported_weight": {
+    "value": 170,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 225,
+      "dose_unit": "mcg",
+      "frequency": "nightly, 20 minutes before sleep",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 450,
+      "dose_unit": "mcg",
+      "frequency": "nightly, 20 minutes before sleep",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Noticeable improvement in sleep quality",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Noticeable improvement in recovery",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Generally feels very good on cycle; dislikes coming off due to how good he feels",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Uses a 1:2 ratio of CJC to ipamorelin. Starts at a lower dose and increases every 2 weeks; tapers off in the last 2 weeks of a 12-week cycle. Peak dose was 225/450 mcg during weeks 9-10. Has done multiple cycles.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.110473Z"
+}

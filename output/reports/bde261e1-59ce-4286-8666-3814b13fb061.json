@@ -1,0 +1,48 @@
+{
+  "id": "bde261e1-59ce-4286-8666-3814b13fb061",
+  "source_id": "k303dc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/k303dc/peptides_for_brain_regeneration_after/",
+  "author_hash": "6a636b9b7957e190de9365c338902d5777fd57f905b22815fde484dfe48aea7d",
+  "confidence_tier": 5,
+  "date_published": "2020-11-28T17:20:57-08:00",
+  "reported_age_range": "25-29",
+  "health_conditions": [
+    "alcohol_dependency",
+    "phenibut_dependency",
+    "attention_deficit",
+    "memory_impairment"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "NAC",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "oral",
+      "dose_value": 2,
+      "dose_unit": "g",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "felt very vulnerable after NAC 2g/day; also experienced similar reaction to higher doses of Selank",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Age 26; nearly 3 years heavy daily alcohol use; daily phenibut abuse; experiencing cognitive decline over past 12 months; pursuing intensive outpatient treatment; tapering under psychiatric guidance; unable to do full inpatient detox; using weed for sleep but causes withdrawal symptoms; planning benzo-assisted taper",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.703566Z"
+}

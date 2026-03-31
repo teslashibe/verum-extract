@@ -1,0 +1,49 @@
+{
+  "id": "d238a7c9-22d7-480a-91b6-ae0947fc215f",
+  "source_id": "1q8llz0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q8llz0/what_peptides_would_be_the_most_beneficial_for_me/",
+  "author_hash": "d4de6cad8c9e04dd84f06261b629f25954100ed92725c60862e9e7924ba280ca",
+  "confidence_tier": 4,
+  "date_published": "2026-01-09T13:55:59-08:00",
+  "compounds": [
+    {
+      "name_raw": "GHRP-6",
+      "name_normalized": "ghrp_6",
+      "category": "gh_secretagogue",
+      "route": "intramuscular",
+      "frequency": "15-20 mins before eating",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHRP-2",
+      "name_normalized": "ghrp_2",
+      "category": "gh_secretagogue",
+      "route": "intramuscular",
+      "frequency": "15-20 mins before eating",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MK-677",
+      "name_normalized": "mk_677",
+      "category": "gh_secretagogue",
+      "route": "oral",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Ghrelin agonist will increase appetite"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Could lead to muscle gain if weight training"
+    }
+  ],
+  "protocol_notes": "User recommends ghrelin agonists 15-20 mins before eating for appetite stimulation. MK-677 mentioned as oral alternative.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.38766Z"
+}

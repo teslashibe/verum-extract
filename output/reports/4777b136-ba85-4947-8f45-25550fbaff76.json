@@ -1,0 +1,44 @@
+{
+  "id": "4777b136-ba85-4947-8f45-25550fbaff76",
+  "source_id": "1re1ye6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1re1ye6/wolverine_blend_plan/",
+  "author_hash": "50c86e5a78548ae0722909f69ace63cae579a87d73ed7e8862d44954b11b135f",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T19:22:12-08:00",
+  "health_conditions": [
+    "sciatica",
+    "bulging discs",
+    "hip arthritis"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 20,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 20,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Wolverine blend: 10mg BPC-157 + 10mg TB-500 in single vial. Reconstituted with 2ml bacteriostatic water. Planning stage, not yet started. User changed plan from 4ml to 2ml BAC based on community feedback about vial capacity.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.660049Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "22fb3cf9-a04b-4ad2-8a98-74985bf0a40c",
+  "source_id": "1qx614h",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qx614h/5_amino_1mq/",
+  "author_hash": "648b846c49d0fb3df90104e9cd3996c46a9973235e23490c3a7846caa6bb1dd4",
+  "confidence_tier": 4,
+  "date_published": "2026-02-05T18:59:24-08:00",
+  "compounds": [
+    {
+      "name_raw": "5amino",
+      "name_normalized": "5_amino",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 150,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "slu-pp-332",
+      "name_normalized": "slu_pp_332",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Great energy boost",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Taking 150mg/day capsules of 5-amino stacked with SLU-PP-332.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121073Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2bdc6de2-1d29-4b43-aa66-a63edc25b319",
+  "source_id": "1bqpo5c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bqpo5c/when_calculating_your_dose_if_your_vial_says_55/",
+  "author_hash": "20e20c63101a141ece01356d8ee4e2626312b5f4aa89f11502b40018b3d8ae1f",
+  "confidence_tier": 5,
+  "date_published": "2024-03-29T06:45:52-07:00",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 125,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 125,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "5/5 mg blend vial (5 mg CJC-1295 + 5 mg Ipamorelin). Reconstituting with 2 ml bacteriostatic water using 1 ml syringe. User calculating 250 mcg total dose per injection.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698145Z"
+}

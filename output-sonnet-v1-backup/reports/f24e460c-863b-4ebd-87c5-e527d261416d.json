@@ -1,0 +1,163 @@
+{
+  "id": "f24e460c-863b-4ebd-87c5-e527d261416d",
+  "source_id": "1qffh0x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qffh0x/for_those_of_you_who_research_multiple_peptides/",
+  "author_hash": "c54c6deff3a47cdf857c131bb28087c1c3b08434eec48a59941a284f17299907",
+  "confidence_tier": 4,
+  "date_published": "2026-01-17T07:04:45-08:00",
+  "training_status": "unable to work out due to illness",
+  "health_conditions": [
+    "ME/CFS (myalgic encephalomyelitis/chronic fatigue syndrome)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "frequency": "weekdays only",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "lipo C",
+      "name_normalized": "lipo_c",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "weekdays only",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "super human",
+      "name_normalized": "super_human",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "weekdays only",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ss31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ta1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "VIP",
+      "name_normalized": "vip",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 0.3,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "motsc",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "SS-31 at 10mg daily approximately doubled energy levels initially, with some reduction in effect over time. Moved ME/CFS severity from moderate to low-end mild.",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Doubled upright time per day; previously bedridden most of the day, now able to sit up longer and run an errand daily.",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "VIP improved respiratory function, HRV, and oxygen scores per Apple Watch after about 2 weeks.",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "energy",
+      "description": "VIP creates a feeling of being able to run for days, improves cardio capacity subjectively.",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Overall illness improved significantly over ~10 months of peptide use. Combination stack moved ME/CFS from moderate to low-end mild severity.",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "VIP causes facial flushing approximately 5 minutes after injection, similar to melanotan.",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "fatigue",
+      "description": "Tirz (tirzepatide) made user a bit more tired, switched to Reta.",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Reta upped resting heart rate by about 7 bpm.",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "HRV",
+      "unit": "Apple Watch metric",
+      "timeframe_days": 14
+    },
+    {
+      "marker_name": "Oxygen score",
+      "unit": "Apple Watch metric",
+      "timeframe_days": 14
+    },
+    {
+      "marker_name": "Resting heart rate",
+      "unit": "bpm"
+    }
+  ],
+  "protocol_notes": "User has ME/CFS and started peptides ~10 months ago out of desperation. Rotates injection sites: left thigh, right thigh, left stomach, right stomach. Up to 12 injections on max days. Never reuses needles; buys in bulk from diabetes online stores. Primarily subcutaneous with pens and syringes; has not tried IM yet. SS-31 was previously dosed at 4mg daily for a few months before upping to 10mg. Notes SS-31 is FDA-approved but off-label for ME/CFS and not covered by insurance. Plans to try ll37 next. Also takes mestinon (medication) which helped most significantly (moved from very severe to moderate). Semorelin made user tired. VIP has been used for 2 months.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.124664Z"
+}

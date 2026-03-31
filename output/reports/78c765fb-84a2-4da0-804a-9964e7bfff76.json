@@ -1,0 +1,71 @@
+{
+  "id": "78c765fb-84a2-4da0-804a-9964e7bfff76",
+  "source_id": "1qnh5lx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qnh5lx/tesamorelin_assistance/",
+  "author_hash": "ad58273d536e5386ec4ddeaa2e23a58735fc818b7c673c978e8713e06a91a9f2",
+  "confidence_tier": 4,
+  "date_published": "2026-01-26T06:15:04-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 205,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Works great for weight loss; interested in reducing stubborn visceral fat",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "8 months on Retatrutide with good results. Plans to run Tesamorelin for 2 months checking metrics weekly. Reconstitution: Reta 10mg/1ml, TB-500/BPC-157 20mg/2ml, Tesa 10mg/2ml BAC water. Fasting protocol intended.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669985Z"
+}

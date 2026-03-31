@@ -1,0 +1,47 @@
+{
+  "id": "7dc82eb3-66a4-44f2-90f5-8629b3c3a9aa",
+  "source_id": "1porhro",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1porhro/multiple_injuries_where_to_inject_to_target_them/",
+  "author_hash": "be392a65e436e451a9f0cccd5e29caef2fc4693b31501cf09db0ccbbb0ae92c1",
+  "confidence_tier": 4,
+  "date_published": "2025-12-17T00:33:31-08:00",
+  "health_conditions": [
+    "tendonitis (elbow)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "inflammation",
+      "description": "Knocked down inflammation pretty quick in targeted injection areas",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "PIP with KLOW compound; had to identify specific sites to minimize",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Rotated BPC-157 injection sites with 2x frequency on tendonitis elbow compared to other sites (other elbow, knees, hips). For KLOW, avoided PIP-prone sites and allowed systemic action. Local injections may not improve healing more than systemic, but did reduce local inflammation quickly.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.390545Z"
+}

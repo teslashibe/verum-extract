@@ -1,0 +1,52 @@
+{
+  "id": "41a15895-a40f-48bf-9d7b-dba1a427f079",
+  "source_id": "1odb37e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1odb37e/i_want_to_try_site_injections_for_bpc157_any/",
+  "author_hash": "a03922a283dfc6117272c130f0d4006c6c2b60dc2bf08ce39542d522e6848fcc",
+  "confidence_tier": 4,
+  "date_published": "2025-10-22T08:16:15-07:00",
+  "training_status": "active (returned to pickleball and strength training)",
+  "health_conditions": [
+    "rotator cuff surgery",
+    "labrum surgery",
+    "bicep tenodesis surgery"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "frequency": "as needed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "frequency": "as needed",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Dull ache went away within a week of site injection. Felt like WD-40 was squirted into shoulder. Accelerated recovery process.",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "recovery",
+      "description": "Improved range of motion. Allowed return to pickleball by week 12 and ability to start strength training.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "10 weeks post-op when starting 'Wolverine compound' (BPC-157/TB-500 blend). Site injections into side deltoid initially. Now uses site injections into rotator cuff as needed for recovery or overuse stress.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.678965Z"
+}

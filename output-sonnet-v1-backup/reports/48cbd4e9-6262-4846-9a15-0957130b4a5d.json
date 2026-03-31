@@ -1,0 +1,47 @@
+{
+  "id": "48cbd4e9-6262-4846-9a15-0957130b4a5d",
+  "source_id": "1r5rk32",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r5rk32/bpc157_first_timer/",
+  "author_hash": "de5aabd40371267ee5a317fd687697b4ffc0f51a5cd9db4b66d467597b0a8252",
+  "confidence_tier": 4,
+  "date_published": "2026-02-15T14:06:12-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "split AM and PM daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tb500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Using BPC-157 for shoulder injury, recommends for localized healing"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_pressure",
+      "description": "1mg/day dropped father's blood pressure; father had to stop blood pressure medications for a few days to a week. No such effect on self.",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started at 0.25mg/day split AM and PM, increased to 0.5mg split after ~1 month, currently at 1mg/day split. Recommends 7-week cycle then 1-month off. Injects in same general shoulder spot without rotating sites.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.11792Z"
+}

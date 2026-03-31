@@ -1,0 +1,54 @@
+{
+  "id": "aeb1d0d1-6f83-4c4d-9184-c49919bf38a8",
+  "source_id": "1qwx24x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qwx24x/tirz_side_effects/",
+  "author_hash": "272a32b4efc1baa170f231ec53230858d5ab87f99c8d377b8bf280717b7e38e3",
+  "confidence_tier": 4,
+  "date_published": "2026-02-05T12:46:21-08:00",
+  "health_conditions": [
+    "ADHD",
+    "eczema"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 3.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "inflammation",
+      "description": "KPV has amazing anti-inflammatory benefits, currently using for eczema",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Felt sleepy on Tirzepatide at 3.5mg dose",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood_change",
+      "description": "Emotionally flat, zombie mode, dopamine blunting particularly impactful for ADHD brain",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User has ADHD diagnosis and notes that dopamine blunting from Tirzepatide is particularly problematic for ADHD brains that are constantly hunting for dopamine. Reports side effects adjust as levels stabilize. Currently using KPV for eczema.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.679736Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "6a7b0199-4111-4ccb-b16f-595bbca7b4a6",
+  "source_id": "1n1nsh9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n1nsh9/i_think_i_made_a_huge_mistake/",
+  "author_hash": "60e11681f9fec66c90723ea33a79721eee7c3b73183a947e45c772daaa892831",
+  "confidence_tier": 5,
+  "date_published": "2025-08-27T10:42:41-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ss-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "mornings",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DISP",
+      "name_normalized": "vip",
+      "category": "immune",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Extreme tiredness/exhaustion within 30-60 minutes of accidentally taking DISP; initially experienced similar tiredness when first starting SS-31 which resolved after a few weeks",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "OP normally takes SS-31 2mg in the mornings. Accidentally took a dose of DISP (believed to be a separate compound stored nearby) from an older bottle (~1 year old). Reported exhaustion lasting several hours but noted improvement after some time. Tiredness also occurred when first starting SS-31 but resolved after a few weeks.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.273532Z"
+}

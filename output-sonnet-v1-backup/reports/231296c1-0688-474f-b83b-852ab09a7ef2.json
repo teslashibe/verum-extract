@@ -1,0 +1,71 @@
+{
+  "id": "231296c1-0688-474f-b83b-852ab09a7ef2",
+  "source_id": "1lx6tdb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lx6tdb/bpc157_tb500_current_results_40m/",
+  "author_hash": "b76442536fd5dcd63cc43eec61b61edd0973fcd19bde32c5b7a05573225577a7",
+  "confidence_tier": 4,
+  "date_published": "2025-07-11T06:23:53-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 187,
+    "unit": "lbs"
+  },
+  "training_status": "Active - Muay Thai, BJJ, lifting, running",
+  "health_conditions": [
+    "Achilles Tendinopathy",
+    "hamstring strain",
+    "calf strain",
+    "hip flexor pain",
+    "hip pain",
+    "toe injury",
+    "multiple soft tissue injuries"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily (initially morning only, then considering split dose)",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily (initially morning only, then considering split dose)",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Able to walk without a limp after 2 days; pain reduction in acute calf injury",
+      "severity": "moderate",
+      "onset_days": 2
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Old injuries became tender and sore again after starting peptides; calf swelling and cramping during physio exercises; multiple previously quiet injuries flaring up",
+      "severity": "moderate",
+      "onset_days": 4
+    }
+  ],
+  "protocol_notes": "Started 7 days ago. Initially taking 500mcg of both in the morning only. Considering splitting dose to 250mcg morning and evening due to budget. Budget allows for 3x 5mg bottles of each per month (~30 days at 500mcg/day). Went from 247lbs to 170lbs 12% BF at best, currently 187lbs ~17% BF. Has history of returning to training too soon. Adjusted to 1 Muay Thai class/week (technical only), pull-ups, dips, and physio rehab. Also increasing calories from a slight deficit.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.279375Z"
+}

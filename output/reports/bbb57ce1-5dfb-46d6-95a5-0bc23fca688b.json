@@ -1,0 +1,55 @@
+{
+  "id": "bbb57ce1-5dfb-46d6-95a5-0bc23fca688b",
+  "source_id": "1qyux3b",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qyux3b/any_advice_and_guidance_about_cjc_ipam/",
+  "author_hash": "2a11b38ee02302baa1cb87f89b6f5c15efd99144d1282564ea5b427aef1eb148",
+  "confidence_tier": 4,
+  "date_published": "2026-02-07T16:58:43-08:00",
+  "reported_sex": "male",
+  "training_status": "5 days weights and 3-4 days cardio per week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Helps recovery time; able to do both weights and cardio on same day",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Helps with sleep"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Minor fat loss",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User takes CJC/Ipamorelin with TRT and Retatrutide. Recommends bloodwork before starting and a couple months in: IGF-1, fasting glucose, HbA1c, insulin, lipids, CMP (liver/kidney), TSH, Free T3, Free T4, prolactin. Inject on empty stomach.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.666218Z"
+}

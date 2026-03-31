@@ -1,0 +1,45 @@
+{
+  "id": "11e15c43-8b8a-450e-92a6-1f79aa382e3e",
+  "source_id": "j5mmi1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/j5mmi1/bcp157_wtf_i_need_help/",
+  "author_hash": "e7c6a560f4fd2167aca870188788444707f8bf943756fbe1ea471272e3753987",
+  "confidence_tier": 5,
+  "date_published": "2020-10-05T09:30:37-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Thymosin Beta-4",
+      "name_normalized": "thymosin_beta_4",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Commenter is providing information/recommendations, not reporting personal usage. Mentions BPC-157 200-300mcg daily for old injuries, 2mg for acute injury. Suggests pairing BPC-157 with Thymosin Beta-4. Recommends Semax/Selank for ADHD treatment. Notes BPC-157 good for liver healing. Does not explicitly state personal experience.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.15,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.132137Z"
+}

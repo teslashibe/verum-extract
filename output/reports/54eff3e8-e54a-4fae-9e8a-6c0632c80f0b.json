@@ -1,0 +1,85 @@
+{
+  "id": "54eff3e8-e54a-4fae-9e8a-6c0632c80f0b",
+  "source_id": "1s6uant",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6uant/hgh_sides/",
+  "author_hash": "6030423f8e00f4114204ac470d09a4f17472cbd4874dbe968e11545277ab51bf",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T05:52:38-07:00",
+  "reported_age_range": "60+",
+  "health_conditions": [
+    "overweight"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "once daily (morning)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "once daily (morning, with HGH)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "frequency": "once daily (night, 16-17 hours after HGH)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "once daily (night, with CJC-1295)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleeps well again",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Weight loss going steady",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Carpal tunnel sneaking in",
+      "severity": "mild"
+    },
+    {
+      "category": "water_retention",
+      "description": "Water retention observed during period without CJC+IPA",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "On HGH for ~2 months. Started low and titrated up. Uses CJC+IPA at night despite some saying it's a waste, notes that 2 IU HGH alone does not fully shut down natural GH production. Mentions user is 55+ years old and overweight.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.645388Z"
+}

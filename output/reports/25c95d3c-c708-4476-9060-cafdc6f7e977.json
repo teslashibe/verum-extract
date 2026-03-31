@@ -1,0 +1,96 @@
+{
+  "id": "25c95d3c-c708-4476-9060-cafdc6f7e977",
+  "source_id": "1k7us7w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k7us7w/hgh_side_effects/",
+  "author_hash": "8f386e7a2fd803564539b88aca448d199287985050f38a6ac4bc7c0941081fae",
+  "confidence_tier": 4,
+  "date_published": "2025-04-25T13:18:42-07:00",
+  "training_status": "gym every other day",
+  "health_conditions": [
+    "PTSD",
+    "TBI",
+    "history of grand mal seizures (approximately 15 over substance abuse period)",
+    "prior heavy drug and alcohol abuse (6 years sober)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.2,
+      "dose_unit": "IU",
+      "frequency": "single dose",
+      "cycle_length_days": 1,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "IU",
+      "frequency": "single dose",
+      "cycle_length_days": 1,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Intended to heal drug-induced damage from prior substance abuse"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "anxiety",
+      "description": "Overstimulated, tense, wired sensation; head under pressure; internal stress response; not anxiety exactly but stress response; easily scared, more traumatic startle response",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": false
+    },
+    {
+      "category": "cognitive_impairment",
+      "description": "Jaw and brain felt locked and tense",
+      "severity": "significant",
+      "onset_days": 2,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Tested three different brands from two different vendors across three separate occasions—same side effect occurred each time. Used bacteriostatic water from two different sources. Also uses omega-3 supplement (3g EPA+DHA daily). Sauna use at gym. Intended to titrate up very slowly over 5 months to reach normal dosing. Has not yet used CJC-1295/Ipamorelin mix due to anaphylaxis concerns. Experienced similar side effects previously at 1-2 IU/day dose, which persisted for weeks after cessation.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.409131Z"
+}

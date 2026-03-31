@@ -1,0 +1,42 @@
+{
+  "id": "f1626465-cc99-407c-83ce-3a9696c64626",
+  "source_id": "1os43h3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1os43h3/prescription_compounded_sermorelin_or_peptide/",
+  "author_hash": "00d5c8197c874a715e951e806bc43f74599419f66e639afd47df1a0ef02b5dae",
+  "confidence_tier": 4,
+  "date_published": "2025-11-08T15:40:51-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "CJC with ipamorelin helped with sleep",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "CJC no DAC with ipamorelin stack. Sermorelin alone was not effective. User prefers peptides over HGH due to cost.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.677702Z"
+}

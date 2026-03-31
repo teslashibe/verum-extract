@@ -1,0 +1,39 @@
+{
+  "id": "09fde7f4-2b9a-4e30-8173-78722a817de6",
+  "source_id": "16wumiu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16wumiu/have_my_orchiectomy_in_december_and_want_to/",
+  "author_hash": "ba8cdc99360488325e17912561ed8210c38e7f10099fc28bbcf05fe2cd777db3",
+  "confidence_tier": 5,
+  "date_published": "2023-10-01T00:24:51-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "GHK pain reduced when combined with BPC in same syringe",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Combining GHK-Cu and BPC-157 in single syringe reduces most of the pain from GHK. Currently running various peptides.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.419944Z"
+}

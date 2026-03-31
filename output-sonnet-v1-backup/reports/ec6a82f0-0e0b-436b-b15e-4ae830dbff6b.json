@@ -1,0 +1,92 @@
+{
+  "id": "ec6a82f0-0e0b-436b-b15e-4ae830dbff6b",
+  "source_id": "1rwj4c8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwj4c8/peptides/",
+  "author_hash": "2d188e6f5edade062a34d52504e25b3e29a4d72e93c2fc3fb8e86d2d7d78dc7a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-17T13:55:00-07:00",
+  "health_conditions": [
+    "Crohn's disease",
+    "autoimmune hemolytic anemia",
+    "ADHD",
+    "possible MCAS",
+    "possible PEG allergy",
+    "low ferritin"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ghkcu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "BPC157 and KPV helped with bloating and bowel trouble related to Crohn's disease",
+      "severity": "moderate"
+    },
+    {
+      "category": "cognitive",
+      "description": "Brain fog subsided drastically after a hefty dose of BPC157 injected into the back of neck; vanished within 20 minutes",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Energy levels depleted to the point where entire body felt weighed down with sand; lost all desire to do anything",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "ADHD medication (Dexedrine instant release) stopped working; suspected to be caused by BPC157 blunting stimulants",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Brain fog becoming unbearable, feels like a migraine coming on but never fully manifests",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "mood_change",
+      "description": "Lost all desire to do anything",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "KPV suspected to send user into a deep state of repair/fatigue that is not manageable while not bed-ridden; brain fog returned after redosing KPV",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "ferritin"
+    }
+  ],
+  "protocol_notes": "OP was on BPC157 and GHK-Cu for 2 months before adding KPV. Suspected PEG allergy may be contributing to reactions. Tried Claritin (temporary relief of brain fog) and Pepcid (immediate relief then stomach burning). Quit BPC157 and KPV for 2 days and felt better mentally but stomach pain returned. Redosed KPV and brain fog returned. Later administered a shot of BPC157 directly into the back of neck and brain fog resolved within 20 minutes. Bloodwork confirmed low ferritin. Was previously on biologics (Stelara, Humira, Remicade - anaphylaxis) for Crohn's. Currently taking ADHD medication (Dexedrine IR, also tried Concerta).",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.107107Z"
+}

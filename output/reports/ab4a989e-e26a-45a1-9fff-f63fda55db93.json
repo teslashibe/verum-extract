@@ -1,0 +1,42 @@
+{
+  "id": "ab4a989e-e26a-45a1-9fff-f63fda55db93",
+  "source_id": "1r2ib0v",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2ib0v/tesamorelin_and_ipamorelin/",
+  "author_hash": "ae58274e7ebaf6a63953e9062bc169c2548083d849345b06ec3151c0bc698e47",
+  "confidence_tier": 4,
+  "date_published": "2026-02-11T19:09:40-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "not specified",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.3,
+      "dose_unit": "mg",
+      "frequency": "not specified",
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "Mixed tesamorelin and ipamorelin in same vial. Initial protocol: 2mg Tesa/0.3mg Ipa. After IGF-1 retest showed higher than desired levels, adjusted to 1mg Tesa/0.3mg Ipa for next vial. Used reconstitution method: reconstitute Ipamorelin first, then add portion to Tesamorelin vial.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.6647Z"
+}

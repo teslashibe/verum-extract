@@ -1,0 +1,51 @@
+{
+  "id": "bd667dba-0cf5-4853-9a99-41eca793eed0",
+  "source_id": "1rwhd5a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwhd5a/hypothalamic_damage_and_weight_gainloss/",
+  "author_hash": "974885ca238a014ee887f0ed9c127f109cd9d1215b22159ca1285fc1c7d2627d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-17T12:52:37-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 385,
+    "unit": "lbs"
+  },
+  "training_status": "severely limited - 10 min bike/treadmill capacity",
+  "health_conditions": [
+    "hypothalamic obesity",
+    "craniopharyngioma (brain tumor with hypothalamic damage)",
+    "Type 2 Diabetes",
+    "low testosterone"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "mild nausea immediately after dosing",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "appetite_change",
+      "description": "hunger dulled immediately after dose but returned within hours",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Tirzepatide was max dose for couple months. Titrated up to max dose. Doctors deemed ineffective. Currently on Trulicity for blood sugar and A1C management with good results. Also on TRT for low testosterone.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.650466Z"
+}

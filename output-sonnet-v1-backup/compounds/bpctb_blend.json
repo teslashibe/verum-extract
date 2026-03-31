@@ -1,0 +1,53 @@
+{
+  "compound_id": "bpctb_blend",
+  "display_name": "BPC+TB blend",
+  "category": "other",
+  "total_reports": 1,
+  "reports_by_tier": {
+    "4": 1
+  },
+  "top_benefits": null,
+  "top_side_effects": [
+    {
+      "category": "nausea",
+      "count": 1,
+      "pct": 100,
+      "avg_severity": 0
+    },
+    {
+      "category": "fatigue",
+      "count": 1,
+      "pct": 100,
+      "avg_severity": 0
+    },
+    {
+      "category": "sleep_disruption",
+      "count": 1,
+      "pct": 100,
+      "avg_severity": 3
+    }
+  ],
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "tb_500",
+      "display_name": "TB-500",
+      "report_count": 1
+    },
+    {
+      "compound_id": "bpc_157",
+      "display_name": "BPC-157",
+      "report_count": 1
+    }
+  ],
+  "avg_cycle_length_days": 35,
+  "avg_sentiment_score": 0,
+  "sentiment_breakdown": {
+    "positive": 0,
+    "mixed": 0,
+    "negative": 1,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.971789Z"
+}

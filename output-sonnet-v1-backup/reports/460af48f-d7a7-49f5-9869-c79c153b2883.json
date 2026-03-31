@@ -1,0 +1,90 @@
+{
+  "id": "460af48f-d7a7-49f5-9869-c79c153b2883",
+  "source_id": "1oc415d",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oc415d/anything_ipa_to_help_with_lower_belly_fat/",
+  "author_hash": "4db52443bf89b44e424641df80f1df9d71937306755294f62f4a8bf84eecbd55",
+  "confidence_tier": 3,
+  "date_published": "2025-10-20T21:56:23-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 161,
+    "unit": "lbs"
+  },
+  "training_status": "weight training 2-3 days per week for a couple of months, weighted vest treadmill at max incline",
+  "health_conditions": [
+    "primary hypogonadism",
+    "poor T4 to T3 conversion",
+    "physiological glycogenesis"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Cjc-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Estradiol",
+      "value_after": 14.9,
+      "unit": "pg/mL"
+    },
+    {
+      "marker_name": "T4",
+      "value_after": 1.28,
+      "unit": "ng/dL"
+    },
+    {
+      "marker_name": "T3",
+      "value_after": 2.9,
+      "unit": "pg/mL"
+    },
+    {
+      "marker_name": "Glucose",
+      "value_after": 88,
+      "unit": "mg/dL"
+    },
+    {
+      "marker_name": "Hemoglobin A1C",
+      "value_after": 5.2,
+      "unit": "%"
+    },
+    {
+      "marker_name": "Insulin",
+      "value_after": 4.7,
+      "unit": "uIU/mL"
+    }
+  ],
+  "protocol_notes": "OP has lost 40lbs (started at 210lbs, now 161lbs). Currently eating 1100-1300 calories per day for ~6 months, mostly carnivore diet. ~120g protein/day. Has primary hypogonadism and is trying to delay TRT. Interested in a clinic fat-burning stack of MOTS-C, Tesamorelin, and AOD-9604. Has not started any peptides yet - post is exploratory. Height mentioned as 5'9\" by commenter.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.267363Z"
+}

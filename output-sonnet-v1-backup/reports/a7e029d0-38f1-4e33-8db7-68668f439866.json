@@ -1,0 +1,107 @@
+{
+  "id": "a7e029d0-38f1-4e33-8db7-68668f439866",
+  "source_id": "mw9zui",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/mw9zui/bpc_157_nootroo_review_took_for_gi_issues_and/",
+  "author_hash": "161577c802c3c2062c1570e251e5d21f947f83ed5db7208d81e83a73638feb6c",
+  "confidence_tier": 4,
+  "date_published": "2021-04-22T10:29:37-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "training_status": "Former powerlifter (16-25), resumed training 2 weeks before starting BPC-157",
+  "health_conditions": [
+    "GI issues (ulcers, gastritis, dumping syndrome, heartburn, constipation)",
+    "insomnia",
+    "ADHD",
+    "anxiety disorder",
+    "suspected ischemic GI disorder"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "ghrp6",
+      "name_normalized": "ghrp_6",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Completely eliminated debilitating stomach problems including constipation, dumping syndrome, heartburn, and pain within 24 hours",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "sleep",
+      "description": "Cured insomnia; felt gloriously tired at bedtime, woke up refreshed; previously going 4 days without sleep once per week even on max dose Lunesta",
+      "severity": "significant",
+      "onset_days": 3
+    },
+    {
+      "category": "cognitive",
+      "description": "Changed perspective on tasks, reduced procrastination, experienced reward response from completing mundane tasks for first time; felt physical changes in frontal lobe with light aura and vascular pump sensation",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Significantly improved workout recovery and allowed tendons to keep pace with muscle strength gains; joints and tendons no longer limiting factor in training",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Rapid return to former lifting levels; bench went from 205 to 225x15, squat from 225 to 300+, significant jumps across all lifts over 4 weeks",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Acne completely healed during BPC use; uncertain if directly caused by BPC",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Maintained pump all day post-workout, muscles looked hard and vascular rather than soft/puffy",
+      "severity": "moderate"
+    },
+    {
+      "category": "libido",
+      "description": "Reported it helped with libido/erectile function when asked",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Reduced stimulant impact - caffeine and Vyvanse (70mg) effects shifted to background processing; lost energizing/hyperactive effects of caffeine though focus and alertness remained",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Reconstituted 5mg vial with 3ml bacteriostatic water; drew 12.5 units on 1cc insulin syringe (~250mcg) and squirted into back of mouth, swallowed on empty stomach. Primarily oral route; only injected subcutaneously 3 times (twice in stomach fat, once in wrist). Also taking 70mg Vyvanse, 200mg caffeine, and Clonidine for Vyvanse comedown. Previously tried L-arginine which worked for ~10 days. Later transitioned to GHRP-6 injected subq daily for gut issues after completing BPC-157 course, with positive results.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.430358Z"
+}

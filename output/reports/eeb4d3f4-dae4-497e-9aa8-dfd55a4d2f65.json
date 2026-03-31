@@ -1,0 +1,51 @@
+{
+  "id": "eeb4d3f4-dae4-497e-9aa8-dfd55a4d2f65",
+  "source_id": "1rze52n",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rze52n/tesamorelin_dosage/",
+  "author_hash": "7eced37680c65cbaf4c17a1bd591573dd6d89ff02b38351b695af850f1e07e8a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-20T18:08:27-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "60+",
+  "training_status": "former athlete",
+  "health_conditions": [
+    "overweight"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5 days per week",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Works very well in conjunction with Retatrutide",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "62M, former athlete, recently lost weight. Uses 3-day break between dosing cycles.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660549Z"
+}

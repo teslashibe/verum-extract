@@ -1,0 +1,71 @@
+{
+  "id": "46da76d8-11a9-487f-87cb-3c286f235203",
+  "source_id": "1mamwcr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mamwcr/do_youshould_you_cycle_kisspeptin10/",
+  "author_hash": "fc3321f536f74827e57503911e97c3cceefdbc166ad11d8b335cf0c8acc24747",
+  "confidence_tier": 3,
+  "date_published": "2025-07-27T06:55:17-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "low testosterone"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Kisspeptin",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "5 days on, 2 days off",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW blend",
+      "name_normalized": "glow_blend",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295/Imp",
+      "name_normalized": "cjc_1295imp",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped about 15 pounds while on Reta, KLOW blend, and CJC-1295/Imp stack",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Testosterone increased from 369 to 468 ng/dL (~100 point increase) after prior stack; now using Kisspeptin to raise further toward 800-900 range",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Testosterone",
+      "value_before": 369,
+      "value_after": 468,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "47yo male. Kisspeptin protocol: 250mcg 5 days on/2 days off for 4 weeks, then 4 weeks off, then another 4 weeks on, then bloodwork. Goal is to reach 800-900 ng/dL testosterone without TRT. Plans to try Enclomiphene as a next step before TRT. Prior T increase was attributed to Reta/KLOW/CJC stack, not Kisspeptin. Kisspeptin use appears to be current/planned.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.277652Z"
+}

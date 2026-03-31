@@ -1,0 +1,53 @@
+{
+  "id": "35d21feb-bc68-485e-8b85-23326652122a",
+  "source_id": "1q10fn2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q10fn2/what_happens_if_reta_and_tirz_are_taken_together/",
+  "author_hash": "d226623240cec600e3fd0763809f4e09478e6ac61c02cfa319bb36f058c01dc1",
+  "confidence_tier": 4,
+  "date_published": "2026-01-01T01:35:40-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "want to get to single digit body fat"
+    }
+  ],
+  "protocol_notes": "User at low weight already, attempting 1-2 month cycle to achieve single digit body fat. Protocol appears planned/intended rather than completed.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.672104Z"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "d1fb983e-f01d-4073-9d7d-458734a5a791",
+  "source_id": "1ixcri5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ixcri5/followup_thread_my_experience_with_epitalon/",
+  "author_hash": "5ce805d00d82acaa990897abbae90d6ba67220e8380ac4db9a953ada98a0ecd6",
+  "confidence_tier": 4,
+  "date_published": "2025-02-24T12:57:01-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "frequency": "cycles",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "route": "intramuscular",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "every other day for a week, monthly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "intramuscular",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "every other day for a week, monthly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "Using epithalon for telomere lengthening potential",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Increased energy levels from glutathione and NAD protocol",
+      "severity": "moderate"
+    },
+    {
+      "category": "endurance",
+      "description": "Improved endurance from glutathione and NAD protocol",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "Improved mood from glutathione and NAD protocol",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Stack designed to scavenge free radicals and support mitochondrial function. Epithalon used in cycles over several years; glutathione and NAD used intramuscularly at 500mg each every other day for one week, approximately monthly.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.6938Z"
+}

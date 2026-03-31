@@ -1,0 +1,48 @@
+{
+  "id": "9a5dc548-23aa-4d94-af1a-ae488ca5a636",
+  "source_id": "1ldxd0c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ldxd0c/looking_for_stacking_advice/",
+  "author_hash": "ac4bad88a8b1aef27c7ea537669a30a515bd8d5b103b836d1fc36a406524da58",
+  "confidence_tier": 5,
+  "date_published": "2025-06-17T13:04:56-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "training_status": "active in gym, good diet, high protein",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "3x per week",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "every 5 days with 2 days off",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "OP is a 58yo male asking for stacking advice. Considering 8-week cycle. Purchasing 10mg Reta and couple 5mg CJC-1295. Obtained 5mg/5mg blend of Ipamorelin and CJC no DAC with 2ml bac water. Unsure about dosing from blend.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.688927Z"
+}

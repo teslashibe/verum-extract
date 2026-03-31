@@ -1,0 +1,37 @@
+{
+  "id": "2df7e469-73c3-46fe-9854-3731daaa884d",
+  "source_id": "1r2t6yd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2t6yd/anybody_cycle_their_glp_on_a_week_off_a_week/",
+  "author_hash": "9bb6f5dbe260f936f1c9b3c2a63ecbef3251819f866be3f3030e23533f030809",
+  "confidence_tier": 4,
+  "date_published": "2026-02-12T05:18:27-08:00",
+  "compounds": [
+    {
+      "name_raw": "sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression sufficient to maintain weight stability after dose reduction",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Zero interest in food, eating felt like a chore, no enjoyment even from previously loved foods; described as depressing",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Reduced dose slightly from maintenance level to restore some food enjoyment while still maintaining weight. Chose dose reduction over weekly cycling due to concern about yo-yo appetite effect on off weeks.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.118803Z"
+}

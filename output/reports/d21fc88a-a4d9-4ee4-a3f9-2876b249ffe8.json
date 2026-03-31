@@ -1,0 +1,36 @@
+{
+  "id": "d21fc88a-a4d9-4ee4-a3f9-2876b249ffe8",
+  "source_id": "1rq1iil",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rq1iil/ghkcu_injection_skin_issues/",
+  "author_hash": "df1347c6922544cab663e6165eb866fdeec8720327ec65a5a41b906ff3b7f250",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T09:24:42-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "IU",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Burning sensation at injection site",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 3
+    }
+  ],
+  "protocol_notes": "Dilutes 10 IU GHK-Cu to 60 IU with BAC water. Dilution significantly reduced injection site burning.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.76,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.666143Z"
+}

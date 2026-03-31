@@ -1,0 +1,48 @@
+{
+  "id": "6d4fd99f-5779-494a-a6f5-696180101819",
+  "source_id": "1r0oxac",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r0oxac/best_peptide_for_depressive_episodes/",
+  "author_hash": "b34c0ea52b5c244446e54fbb850325448ceb64d53a77189952a56f771af534e9",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T18:47:45-08:00",
+  "health_conditions": [
+    "depression",
+    "anxiety"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "Good for depression, boosts BDNF",
+      "severity": "moderate"
+    },
+    {
+      "category": "anxiety_relief",
+      "description": "Semax is good for depression and anxiety",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Semax starting dose 500 mcg per day. Recommends running cycles with breaks between. Both peptides boost BDNF which is mechanism similar to ketamine for depression/anxiety treatment.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.678135Z"
+}

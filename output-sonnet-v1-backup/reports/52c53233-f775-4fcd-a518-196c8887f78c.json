@@ -1,0 +1,49 @@
+{
+  "id": "52c53233-f775-4fcd-a518-196c8887f78c",
+  "source_id": "1rtra6z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rtra6z/ss31_severe_fatigue_and_tiredness/",
+  "author_hash": "3159b5e4d4d993686c2748bbfd6159b457ec382d9420daa6605713104209c2bc",
+  "confidence_tier": 4,
+  "date_published": "2026-03-14T11:42:49-07:00",
+  "health_conditions": [
+    "Lyme disease",
+    "MCAS",
+    "IBD",
+    "POTS",
+    "long COVID",
+    "chronic illness"
+  ],
+  "compounds": [
+    {
+      "name_raw": "SS31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 3,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Severe fatigue, falling asleep all the time, movement feeling 5x the effort",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "other",
+      "description": "Weird warm achy legs",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Obtained from a compounding pharmacy. Planning to skip a few days then resume at 100 mcg. Has multiple chronic conditions which may be contributing to reaction.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.108432Z"
+}

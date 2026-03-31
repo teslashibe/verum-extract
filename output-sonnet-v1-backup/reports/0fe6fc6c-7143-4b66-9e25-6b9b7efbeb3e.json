@@ -1,0 +1,45 @@
+{
+  "id": "0fe6fc6c-7143-4b66-9e25-6b9b7efbeb3e",
+  "source_id": "1ru9j9d",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ru9j9d/tesa_vs_cjcipa/",
+  "author_hash": "62c4ed7ea0a49b0d1ad9c3e87110ca3e6356cb46d95af7da3aca7c3f50ca3d06",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T02:18:19-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "every night",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Mid section has visibly shrunk about 3 months in; love handles almost gone, side belly too",
+      "severity": "significant",
+      "onset_days": 90
+    }
+  ],
+  "protocol_notes": "Plans to run Tesa/Ipa for a full year without cycling off.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.108337Z"
+}

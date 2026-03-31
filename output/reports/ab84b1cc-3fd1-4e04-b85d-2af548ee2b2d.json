@@ -1,0 +1,35 @@
+{
+  "id": "ab84b1cc-3fd1-4e04-b85d-2af548ee2b2d",
+  "source_id": "1riovis",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1riovis/motsc/",
+  "author_hash": "dbcc9c8b0a85303a8982fbabafe73bf55b4546fd1b0ef923ce5a90613cc9167e",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T02:01:45-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "1mg MOTS-c daily, fasted, before cardio. Started at 0.5mg for one week before titrating to 1mg. Used SS-31 for one month before starting MOTS-c.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.658017Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "99f10ff1-e6e2-4dbe-923c-5dae72d1c4df",
+  "source_id": "1b55g35",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1b55g35/45_months_progress_50_lbs/",
+  "author_hash": "3e2cc71063dfec09cdb843a1ff73f2096f54a36578afed8a55866b1b92ca86f5",
+  "confidence_tier": 4,
+  "date_published": "2024-03-02T18:02:04-08:00",
+  "training_status": "pretty active",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Lots of nausea in first two days",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "fatigue",
+      "description": "Tired everyday during first week",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Starting semaglutide to drop last few pounds around midsection. User reports difficulty reducing calorie intake below 1900 kcal. Started within last few days of comment date (around early March 2024, estimated). Very active lifestyle, considering stopping semaglutide and trying harder with diet instead.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698647Z"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "83e60a90-8940-462c-9031-79cdef78c7b6",
+  "source_id": "1rpfiad",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpfiad/questions_on_cjc1295ipamorelin/",
+  "author_hash": "1916f79df3b4ffa9f88410b450cef407405f2b179dbbd5bcf41e7ee9aae07fa9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T15:49:04-07:00",
+  "training_status": "in very good shape",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "4 nights per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "4 nights per week",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Feeling like a more youthful state",
+      "severity": "moderate"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Feeling like did in more youthful state",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "0.15 mg each (CJC-1295 and Ipamorelin) per night, 4 nights per week. Notes moderate baseline IGF-1 levels without peptides, won't check on-cycle levels for several more months. Reports feeling great and in very good shape.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.666582Z"
+}

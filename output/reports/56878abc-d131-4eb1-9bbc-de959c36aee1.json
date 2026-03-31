@@ -1,0 +1,44 @@
+{
+  "id": "56878abc-d131-4eb1-9bbc-de959c36aee1",
+  "source_id": "1rqdtt2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rqdtt2/can_i_mix_bpc_157_tb500_and_ghk_cu_in_the_same/",
+  "author_hash": "94487f8fbf30dd83ac39217bd7ed6bb59d0794d03ad9298bbb6de3b23d755e21",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T16:51:01-07:00",
+  "training_status": "trained (full weight presses)",
+  "health_conditions": [
+    "shoulder injury (prevented surgery)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "3x weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Reversed scheduled shoulder surgery, now able to do full weight presses",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "TB-500 injected 3x/week to abdomen subcutaneously. BPC-157 dosed daily directly to injury site. Previously tried Wolverine blend (TB + BPC mixed) with inferior results compared to separate administration. Injecting separately rather than as blends.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.653774Z"
+}

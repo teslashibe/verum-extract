@@ -1,0 +1,47 @@
+{
+  "id": "3020c34f-89de-4a38-b185-ca6b216d0ba0",
+  "source_id": "1rr12jp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr12jp/round_2_of_semaglutide_not_working/",
+  "author_hash": "c13972dc7f4a7e4b66a17a5962e85d44f9e3ed1dfd39a55a612033b6289c1f25",
+  "confidence_tier": 4,
+  "date_published": "2026-03-11T10:57:01-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 1.1,
+      "dose_unit": "mg",
+      "cycle_length_days": 365,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 90lbs on first round of semaglutide at 1mg dosage",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "First round: Ozempic (brand semaglutide), 1mg, lost 90lbs, discontinued. Post-COVID relapse: gained ~45lbs. Second round: 1.1mg semaglutide for 1 year with minimal results. Considering switch to Tirzepatide or Retatrutide.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.653443Z"
+}

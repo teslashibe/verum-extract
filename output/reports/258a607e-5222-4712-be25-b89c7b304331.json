@@ -1,0 +1,45 @@
+{
+  "id": "258a607e-5222-4712-be25-b89c7b304331",
+  "source_id": "1r1cmd8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r1cmd8/ghkcu_kpv_and_motsc_blend/",
+  "author_hash": "f3142b7a6157a529b15edc4682d589056108d7fde6b7ebbd8e63b523d44d0665",
+  "confidence_tier": 5,
+  "date_published": "2026-02-10T12:45:12-08:00",
+  "health_conditions": [
+    "injury"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "improvement seen with Glow for injury",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Received unwanted blend (GHK-Cu, KPV, MOTS-c) instead of Glow ordered from vendor. User questions appropriateness of blend for injury use. Considering requesting correct product (Glow) from vendor.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665177Z"
+}

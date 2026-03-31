@@ -1,0 +1,69 @@
+{
+  "id": "5edeaba0-c905-4396-b8df-3eea42071607",
+  "source_id": "1qidto9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qidto9/realistically_how_effective_would_it_be_to_add/",
+  "author_hash": "532bb64003e842cd580817612a36831f22e4744cdf957035d911485d29092cd8",
+  "confidence_tier": 4,
+  "date_published": "2026-01-20T13:16:55-08:00",
+  "training_status": "high-intensity resistance training 3-4 hours per week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Getting noticeably leaner",
+      "severity": "significant",
+      "onset_days": 75
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Still gaining muscle",
+      "severity": "moderate",
+      "onset_days": 75
+    },
+    {
+      "category": "energy",
+      "description": "More energy",
+      "severity": "moderate",
+      "onset_days": 75
+    },
+    {
+      "category": "recovery",
+      "description": "Good recovery",
+      "severity": "moderate",
+      "onset_days": 75
+    }
+  ],
+  "protocol_notes": "Running all four compounds for about 2.5 months. Started with Reta alone for four weeks, then added the others. Doing high-intensity resistance training 3-4 hours per week.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.683711Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "b26f78f1-03c8-451f-9f4f-cd18e7b6a362",
+  "source_id": "1qq1bev",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qq1bev/mots_c_for_endurance/",
+  "author_hash": "82ffcc362a9f9a1755ad5b1a9c8be49acbf63b4fbc8fadb5ee3f4dbbb2d45945",
+  "confidence_tier": 4,
+  "date_published": "2026-01-28T22:45:19-08:00",
+  "training_status": "marathon runner",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Held a 10 BPM higher heart rate over the last 13 miles of a marathon; describes it as crazy effective for endurance",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "heart rate",
+      "unit": "bpm"
+    }
+  ],
+  "protocol_notes": "Used MOTS-C during marathons; reports sustaining a 10 BPM higher heart rate in the second half of at least one marathon.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123512Z"
+}

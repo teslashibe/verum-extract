@@ -1,0 +1,36 @@
+{
+  "id": "209e96b5-6385-41db-90c7-46c13ad94ed3",
+  "source_id": "o4xqfn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/o4xqfn/started_bpc_yesterday/",
+  "author_hash": "43794bb4ebd45bca9b52717a99e7180aaf42a3ae356576b756fd1c75a8169677",
+  "confidence_tier": 4,
+  "date_published": "2021-06-21T08:28:37-07:00",
+  "training_status": "active gym-goer",
+  "health_conditions": [
+    "serious knee pain"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Serious knee pain resolved while doing rehab. Injected on outsides of kneecap under rolled skin.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started at 250mcg, bumped to 400mcg after a few weeks. Injected near the affected area (outside of kneecap).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.429803Z"
+}

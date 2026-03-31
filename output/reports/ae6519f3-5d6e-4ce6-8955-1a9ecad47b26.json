@@ -1,0 +1,49 @@
+{
+  "id": "ae6519f3-5d6e-4ce6-8955-1a9ecad47b26",
+  "source_id": "1qt5xtp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qt5xtp/gain_weightmuscle/",
+  "author_hash": "cfe89833b5b8ff1dde83a05cabf3ce91c0521b9511acc9a70690c7ecac877adc",
+  "confidence_tier": 4,
+  "date_published": "2026-02-01T10:13:31-08:00",
+  "reported_weight": {
+    "value": 180,
+    "unit": "lbs"
+  },
+  "training_status": "weightlifting",
+  "health_conditions": [
+    "appetite/nausea issues (medically diagnosable)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MK-677",
+      "name_normalized": "mk_677",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SARMs",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Progressed from 150 lbs to 180 lbs while maintaining the same body fat",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Addressed medically diagnosable appetite/nausea issue",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User had a medically diagnosable appetite/nausea issue. Used MK-677 and SARMs along with proper training. Gained 30 lbs (150→180) at same body fat percentage.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.668396Z"
+}

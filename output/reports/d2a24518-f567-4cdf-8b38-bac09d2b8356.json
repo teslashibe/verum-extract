@@ -1,0 +1,35 @@
+{
+  "id": "d2a24518-f567-4cdf-8b38-bac09d2b8356",
+  "source_id": "1likf29",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1likf29/this_is_the_femur_side_of_my_left_knee_any_hope/",
+  "author_hash": "bcb2654e441a2c841ad6ec2b6fa720438746cb514c1bd2690348d664ba40f51a",
+  "confidence_tier": 5,
+  "date_published": "2025-06-23T09:00:28-07:00",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Help with repair after surgery and speed up recovery",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Suggests using BPC/TB after surgery; notes cartilage heals very slowly; recommends waiting 2-3 months",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.688544Z"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "6f591649-a6af-49f8-a55c-20f77feb9892",
+  "source_id": "1s2s3x4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s2s3x4/terrible_stomach_discomfort/",
+  "author_hash": "7d47b817b53b930ca6e7d70cb93bb0d9c4cc186a55c90a2a8816c8c5029d1e6e",
+  "confidence_tier": 4,
+  "date_published": "2026-03-24T15:08:29-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 196,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mot-C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5x weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Terrible stomach discomfort/pains and nausea starting approximately 2 weeks after adding Mot-C and GHK-cu, or potentially from use of sterile water instead of BAC water",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "other",
+      "description": "Sharp stabbing stomach pains, first time in 7 months on Reta",
+      "severity": "significant",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "OP has been on Reta since September 2025 and recently decreased the dose. Added Mot-C (3x 1mg weekly) and GHK-cu (1mg 5x per week) 2 weeks ago. Also switched from original BAC water bottle to what turned out to be sterile hospital water (not BAC water). OP suspects the water change or possible bacterial contamination from using an open sterile water container for reconstitution.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104555Z"
+}

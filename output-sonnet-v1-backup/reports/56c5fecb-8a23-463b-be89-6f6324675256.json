@@ -1,0 +1,86 @@
+{
+  "id": "56c5fecb-8a23-463b-be89-6f6324675256",
+  "source_id": "1iptx6y",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1iptx6y/just_wanted_to_say_i_love_peptides_better/",
+  "author_hash": "a94755fdc2cbfbcfd80dcfdd6de9be1710a399d1f3d93257cd75e002def23e1d",
+  "confidence_tier": 4,
+  "date_published": "2025-02-14T20:47:03-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "25-29",
+  "training_status": "Active exerciser (pilates classes, works out frequently)",
+  "health_conditions": [
+    "history of addiction (sober)",
+    "IBS or SIBO tendencies",
+    "low testosterone (female)",
+    "luteal phase water retention"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "IU",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "test cream",
+      "name_normalized": "test_cream",
+      "category": "other",
+      "route": "topical",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleeps amazingly, significant improvement",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Mental health improved, more chill, less irritable",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Slightly more energy",
+      "severity": "mild"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Noticed muscle growth, glutes more plump",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Improved recovery noted as a reason for starting"
+    },
+    {
+      "category": "hair",
+      "description": "Hair growth listed as a benefit sought"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Bruising and itchy welts/rashes at injection site",
+      "severity": "moderate"
+    },
+    {
+      "category": "water_retention",
+      "description": "Waist not as snatched, possibly water retention (also in luteal phase)",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "27-year-old female. Prescribed sermorelin at 10 units with option to go up to 30 units. Also prescribed a low-dose testosterone cream (2-month supply) for low T levels to correct deficiency without masculinization. About 1 month into sermorelin use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.287799Z"
+}

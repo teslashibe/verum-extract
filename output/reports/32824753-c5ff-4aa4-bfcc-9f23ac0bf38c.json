@@ -1,0 +1,118 @@
+{
+  "id": "32824753-c5ff-4aa4-bfcc-9f23ac0bf38c",
+  "source_id": "1nchfim",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nchfim/peptide_yearly_cycles_you_run/",
+  "author_hash": "47592a9a12c5a9a3e101df58c47f4301b85658aa32cd096825a01c01ee917177",
+  "confidence_tier": 4,
+  "date_published": "2025-09-09T05:23:30-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 177,
+    "unit": "lbs"
+  },
+  "training_status": "strength training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 365,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "frequency": "20 day cycles",
+      "cycle_length_days": 20,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Kisspeptin",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "frequency": "2 months",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "2 months on",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "2 months on",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "frequency": "May/June",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "frequency": "2 days",
+      "cycle_length_days": 2,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "frequency": "as needed",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "frequency": "as needed",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "Epithalon for telomere size and telomerase effects on aging"
+    },
+    {
+      "category": "recovery",
+      "description": "Tesamorelin and Ipamorelin for recovery of strength training"
+    },
+    {
+      "category": "body_composition",
+      "description": "Retatrutide for weight loss and overall health benefits"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Small bumps from CJC that went away after a few weeks",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 21
+    }
+  ],
+  "protocol_notes": "User is 48yo male 5'6\", 177lbs, aiming to stay 170-175lbs. Has run IPA, Reta, SS31, and MOTS-c. Cannot tolerate CJC with IPA together due to injection site reactions. Plans to titrate Reta up to 4-6mg by June for summer cut. Plans to use injury peptides (BPC/TB500) as needed throughout the year.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.398541Z"
+}

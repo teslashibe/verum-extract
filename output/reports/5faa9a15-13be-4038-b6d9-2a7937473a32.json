@@ -1,0 +1,50 @@
+{
+  "id": "5faa9a15-13be-4038-b6d9-2a7937473a32",
+  "source_id": "1rb5vbn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rb5vbn/cjcno_dacipam_scary_effects_normal/",
+  "author_hash": "85e1ac2402051b4930ab5094a1ff7a12c2d90b8224bf67655acc2b7bfaaf84e6",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T15:25:23-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Flush is a normal reaction",
+      "severity": "mild"
+    },
+    {
+      "category": "tinnitus",
+      "description": "Pulsating tinnitus (thumping in ears from heart rate and blood pressure rising too high)",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Histamine reaction symptoms escalated with time",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User experienced escalating histamine reaction symptoms and discontinued use. Notes that CJC/Ipamorelin does not work for everyone but works great for most. Mentions some users have experienced anaphylactic shock requiring ER visit.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.673626Z"
+}

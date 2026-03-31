@@ -1,0 +1,38 @@
+{
+  "id": "32e530c3-678b-4d01-bef2-7f997af415ad",
+  "source_id": "1r4qcvt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r4qcvt/glow_peptide_and_nad/",
+  "author_hash": "c54c6deff3a47cdf857c131bb28087c1c3b08434eec48a59941a284f17299907",
+  "confidence_tier": 4,
+  "date_published": "2026-02-14T09:23:47-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "NAD+ and GHK-Cu both described as 'spicy' with potential pH-related tissue damage if pH too low",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Experienced vendor quality issues with NAD+ pH ranging 3-4 instead of optimal 5-6. Adds sodium bicarbonate Hospira BAC water to manage pH. Successfully injects NAD+ in stomach and thighs with proper pH management. GHK-Cu too spicy for stomach, uses glute injections. Uses pH strips to verify pH before injection. Hospira BAC water should be ~pH 5.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.663879Z"
+}

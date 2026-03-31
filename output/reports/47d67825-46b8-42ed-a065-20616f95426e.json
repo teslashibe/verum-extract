@@ -1,0 +1,54 @@
+{
+  "id": "47d67825-46b8-42ed-a065-20616f95426e",
+  "source_id": "1qyk3n7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qyk3n7/anyone_ever_get_hypopigmentation_spots_from/",
+  "author_hash": "01c12887845e726dfad9e5f00367a00cf32b4e9e917244a558575dc820ec26f4",
+  "confidence_tier": 4,
+  "date_published": "2026-02-07T09:40:58-08:00",
+  "reported_age_range": "40-49",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Melanotan I",
+      "name_normalized": "melanotan_1",
+      "category": "tanning",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "frequency": "occasional",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Tanning effect, reduced need for UV exposure",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Hypopigmentation spots (white spots lacking tan) starting at ankles, progressing to knees, wrists, forearms, and stomach",
+      "severity": "moderate",
+      "onset_days": 30
+    }
+  ],
+  "protocol_notes": "Used Melanotan I and II on and off for 6 months. Also uses PT-141 occasionally. Symptoms started 1 month into observation period. Located in Florida. Considering fungal etiology (tinea versicolor) and started antifungal dandruff shampoo treatment.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.678978Z"
+}

@@ -1,0 +1,234 @@
+{
+  "compound_id": "selank",
+  "display_name": "Selank",
+  "category": "cognitive",
+  "total_reports": 336,
+  "reports_by_tier": {
+    "3": 3,
+    "4": 230,
+    "5": 103
+  },
+  "top_benefits": [
+    {
+      "category": "cognitive",
+      "count": 93,
+      "pct": 39.9
+    },
+    {
+      "category": "anxiety_relief",
+      "count": 65,
+      "pct": 27.9
+    },
+    {
+      "category": "mood",
+      "count": 41,
+      "pct": 17.6
+    },
+    {
+      "category": "sleep",
+      "count": 35,
+      "pct": 15
+    },
+    {
+      "category": "fat_loss",
+      "count": 22,
+      "pct": 9.4
+    },
+    {
+      "category": "other",
+      "count": 20,
+      "pct": 8.6
+    },
+    {
+      "category": "skin",
+      "count": 15,
+      "pct": 6.4
+    },
+    {
+      "category": "recovery",
+      "count": 14,
+      "pct": 6
+    },
+    {
+      "category": "energy",
+      "count": 14,
+      "pct": 6
+    },
+    {
+      "category": "libido",
+      "count": 11,
+      "pct": 4.7
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "other",
+      "count": 11,
+      "pct": 4.7,
+      "avg_severity": 1.8
+    },
+    {
+      "category": "allergic_reaction",
+      "count": 9,
+      "pct": 3.9,
+      "avg_severity": 2.6
+    },
+    {
+      "category": "injection_site",
+      "count": 8,
+      "pct": 3.4,
+      "avg_severity": 1.8
+    },
+    {
+      "category": "sleep_disruption",
+      "count": 8,
+      "pct": 3.4,
+      "avg_severity": 2.6
+    },
+    {
+      "category": "headache",
+      "count": 7,
+      "pct": 3,
+      "avg_severity": 2.1
+    },
+    {
+      "category": "cognitive_impairment",
+      "count": 6,
+      "pct": 2.6,
+      "avg_severity": 1.8
+    },
+    {
+      "category": "hair_change",
+      "count": 6,
+      "pct": 2.6,
+      "avg_severity": 2.3
+    },
+    {
+      "category": "skin_reaction",
+      "count": 4,
+      "pct": 1.7,
+      "avg_severity": 1.5
+    },
+    {
+      "category": "mood_change",
+      "count": 4,
+      "pct": 1.7,
+      "avg_severity": 2.5
+    },
+    {
+      "category": "fatigue",
+      "count": 4,
+      "pct": 1.7,
+      "avg_severity": 2
+    },
+    {
+      "category": "anxiety",
+      "count": 3,
+      "pct": 1.3,
+      "avg_severity": 2.3
+    },
+    {
+      "category": "nerve_related",
+      "count": 2,
+      "pct": 0.9,
+      "avg_severity": 3
+    },
+    {
+      "category": "cardiac",
+      "count": 2,
+      "pct": 0.9,
+      "avg_severity": 2
+    },
+    {
+      "category": "water_retention",
+      "count": 2,
+      "pct": 0.9,
+      "avg_severity": 2.5
+    },
+    {
+      "category": "flushing",
+      "count": 2,
+      "pct": 0.9,
+      "avg_severity": 2
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 200,
+      "unit": "mcg",
+      "frequency": "daily",
+      "count": 3,
+      "pct": 0.9
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 500,
+      "unit": "mcg",
+      "frequency": "",
+      "count": 3,
+      "pct": 0.9
+    },
+    {
+      "route": "nasal",
+      "dose": 12,
+      "unit": "mg",
+      "frequency": "3-4 times a week",
+      "count": 2,
+      "pct": 0.6
+    },
+    {
+      "route": "nasal",
+      "dose": 400,
+      "unit": "mcg",
+      "frequency": "2x daily",
+      "count": 2,
+      "pct": 0.6
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 300,
+      "unit": "mcg",
+      "frequency": "daily",
+      "count": 2,
+      "pct": 0.6
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "semax",
+      "display_name": "Semax",
+      "report_count": 212
+    },
+    {
+      "compound_id": "bpc_157",
+      "display_name": "BPC-157",
+      "report_count": 47
+    },
+    {
+      "compound_id": "ipamorelin",
+      "display_name": "Ipamorelin",
+      "report_count": 37
+    },
+    {
+      "compound_id": "mots_c",
+      "display_name": "MOTS-c",
+      "report_count": 34
+    },
+    {
+      "compound_id": "cjc_1295_no_dac",
+      "display_name": "CJC-1295",
+      "report_count": 30
+    }
+  ],
+  "avg_cycle_length_days": 25.7,
+  "avg_sentiment_score": 0.675,
+  "sentiment_breakdown": {
+    "positive": 192,
+    "mixed": 27,
+    "negative": 32,
+    "neutral": 85
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T04:48:57.357574Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "9e186eef-8063-42e9-bc1a-3b1f7349151d",
+  "source_id": "139kz5e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/139kz5e/best_sleep_in_30_years/",
+  "author_hash": "dcd3d9fb2b7d6dd1eb2261e8da458688cef8314440b65f8d09fc4a1274875989",
+  "confidence_tier": 4,
+  "date_published": "2023-05-06T05:01:29-07:00",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep still terrible after two weeks, requires melatonin to sleep",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Finished week two of CJC/IPA protocol.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.701416Z"
+}

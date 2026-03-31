@@ -1,0 +1,43 @@
+{
+  "id": "81ca6d7d-3000-4238-bbdb-19eb7328ae37",
+  "source_id": "1n9jv18",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n9jv18/how_to_lose_the_lower_belly_fat/",
+  "author_hash": "c64d535eb3ef0accb4fca337cc22047a8b4cdbb21521f55e3849e1fac03aa57b",
+  "confidence_tier": 5,
+  "date_published": "2025-09-05T16:04:07-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "cjc/ipa",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Feeling water retention from tesa, possibly contributing to high IGF-1",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 200,
+      "value_after": 415
+    }
+  ],
+  "protocol_notes": "IGF-1 went from 200s to 415 while on tesa and cjc/ipa stack.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.272641Z"
+}

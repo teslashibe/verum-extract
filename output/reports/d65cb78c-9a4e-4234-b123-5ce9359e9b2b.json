@@ -1,0 +1,42 @@
+{
+  "id": "d65cb78c-9a4e-4234-b123-5ce9359e9b2b",
+  "source_id": "17nqlxa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17nqlxa/one_month_taking_peptide_sciences_gut/",
+  "author_hash": "10e13514a5a4b4709f37a5b1d9271e070ac308cedfd04a50487eec047430a927",
+  "confidence_tier": 4,
+  "date_published": "2023-11-04T10:28:50-07:00",
+  "health_conditions": [
+    "shoulder injury"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Shoulder injury - so far so good about one week in",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "On KPV and BPC 157 arginate about a week for shoulder injury",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.700179Z"
+}

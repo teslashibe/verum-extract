@@ -1,0 +1,76 @@
+{
+  "id": "bcf3f38b-d008-4c6b-9e6a-4aeff23b324e",
+  "source_id": "1r6wncl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6wncl/looking_for_general_guidance_from_experienced/",
+  "author_hash": "619704059f73ccdfab34df9a70ef6565e096da13aa2cfe85de77274bfdf19364",
+  "confidence_tier": 4,
+  "date_published": "2026-02-16T20:43:38-08:00",
+  "health_conditions": [
+    "emotional eating following death in family"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cjc no dac",
+      "name_normalized": "cjc_no_dac",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 0.125,
+      "dose_unit": "mg",
+      "frequency": "5 days a week at night fasted before bed (or morning if not fasted)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.125,
+      "dose_unit": "mg",
+      "frequency": "5 days a week at night fasted before bed (or morning if not fasted)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 17lbs on first round microdosing Reta",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Notes Reta does not suppress appetite as strongly as sema/tirz — if you choose to eat you still can",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Burning skin sensation at 5.5mg/week",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "mood_change",
+      "description": "Anhedonia at 7.5mg/week, dropped down to 4mg",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Second round of Reta: started at 2mg, titrated up by 0.5mg/week. Had side effects at 5.5mg and 7.5mg, currently at 4mg. First round lost 17lbs microdosing but this round harder due to emotional eating. Has cycled CJC no DAC/ipamorelin three times previously; considers CJC with DAC unnatural due to continuous GH signal.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.117347Z"
+}

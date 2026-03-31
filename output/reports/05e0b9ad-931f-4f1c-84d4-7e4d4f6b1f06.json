@@ -1,0 +1,49 @@
+{
+  "id": "05e0b9ad-931f-4f1c-84d4-7e4d4f6b1f06",
+  "source_id": "1jkuet4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jkuet4/is_my_liver_fucked_chat_lol/",
+  "author_hash": "632c6c249989894305db3c8caf914ddc3903d0f1d429533e7261114167376f6f",
+  "confidence_tier": 4,
+  "date_published": "2025-03-26T20:06:03-07:00",
+  "health_conditions": [
+    "autoimmune issue",
+    "elevated liver enzymes"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Enclomiphene",
+      "name_normalized": "enclomiphene",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Normalized all liver enzyme and lipid bloodwork",
+      "severity": "significant",
+      "onset_days": 90
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "liver enzymes",
+      "timeframe_days": 90
+    }
+  ],
+  "protocol_notes": "Protocol included: lean meat and leafy greens diet, low starch vegetables, intermittent fasting, glutathione supplementation, 8-week cycle of oral BPC-157, bile salts, and enclomiphene. All markers returned to normal range in 3 months despite enclomiphene being noted as hard on liver.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.410361Z"
+}

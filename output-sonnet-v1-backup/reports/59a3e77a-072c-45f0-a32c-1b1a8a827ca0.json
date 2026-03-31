@@ -1,0 +1,31 @@
+{
+  "id": "59a3e77a-072c-45f0-a32c-1b1a8a827ca0",
+  "source_id": "1s5z409",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s5z409/have_you_ever_received_peptides_that_didnt_match/",
+  "author_hash": "282f802516618c0e531ac3b61206f4f79fdfe02b0f9963918f8dc7cc09c6b969",
+  "confidence_tier": 3,
+  "date_published": "2026-03-28T05:32:32-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Tirzepatide content per vial",
+      "unit": "mg"
+    }
+  ],
+  "protocol_notes": "Ordered 20 vials labeled as 15mg Tirzepatide (total 60mg claimed). Third-party testing revealed significant underfilling; actual content approximately 12.5mg per vial (total ~50mg). COA from vendor claimed perfect purity/fill.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.103544Z"
+}

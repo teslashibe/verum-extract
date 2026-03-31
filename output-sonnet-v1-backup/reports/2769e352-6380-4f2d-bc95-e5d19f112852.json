@@ -1,0 +1,41 @@
+{
+  "id": "2769e352-6380-4f2d-bc95-e5d19f112852",
+  "source_id": "1ofz05s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ofz05s/what_are_reasons_to_get_just_ghkcu_over_glow/",
+  "author_hash": "c9167085cc046cb87811678401b84386ae72a0fac6592f53700a561afabbe92e",
+  "confidence_tier": 5,
+  "date_published": "2025-10-25T11:33:46-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Glow",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "GHK-Cu on its own felt more direct for repair and skin tone",
+      "severity": "mild"
+    },
+    {
+      "category": "recovery",
+      "description": "Glow seemed to hit a little broader with recovery",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Has tried both GHK-Cu alone and Glow stack; compared subjective outcomes between the two",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.26691Z"
+}

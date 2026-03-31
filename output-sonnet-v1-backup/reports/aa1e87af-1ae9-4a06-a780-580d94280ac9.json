@@ -1,0 +1,51 @@
+{
+  "id": "aa1e87af-1ae9-4a06-a780-580d94280ac9",
+  "source_id": "1rzamsp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzamsp/is_melanotan_worth_it_over_fake_tanning/",
+  "author_hash": "16f6c4be9de5a1d1a0d257ae093e572e6043509b603177fa3f718eda3b07a559",
+  "confidence_tier": 4,
+  "date_published": "2026-03-20T15:39:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MT1",
+      "name_normalized": "melanotan_1",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Best tan achieved last summer; no redness or itching with sun exposure despite being prone to both",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Reduced sun-induced redness and itching",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Quick wave of nausea about 15 minutes after pinning, passed quickly",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Freckles got a little darker",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Pinned MT1 approximately 10-15 minutes before sun exposure. Used 0.25 mg which was described as very effective. Prone to redness and occasional itching from sun exposure normally.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106217Z"
+}

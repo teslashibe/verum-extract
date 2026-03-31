@@ -1,0 +1,70 @@
+{
+  "id": "6cbc874c-4ccf-4409-a5c1-4fea6d17afba",
+  "source_id": "1o3yyxg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o3yyxg/after_reta/",
+  "author_hash": "3f36fdb7ecf87310e5731bf37b1884d8f4db5549e3e1e4817c6a847325158a21",
+  "confidence_tier": 4,
+  "date_published": "2025-10-11T08:47:47-07:00",
+  "reported_weight": {
+    "value": 250,
+    "unit": "lbs"
+  },
+  "training_status": "lifts regularly",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 22 lbs over 3 months",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression lasted 1.5 out of 2 weeks on vacation",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "Mentally no longer craves sweet treats",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Severe appetite suppression made it hard to get sufficient protein intake",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 14
+    },
+    {
+      "category": "muscle_cramp",
+      "description": "Significant loss of strength due to insufficient protein intake",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_change",
+      "description": "Hunger rebound 2 weeks after discontinuation exceeded pre-treatment baseline",
+      "severity": "significant",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "Weight went back up after stopping. Planning to use only during summer for cutting. Now maintaining with high protein diet and cardio.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.395961Z"
+}

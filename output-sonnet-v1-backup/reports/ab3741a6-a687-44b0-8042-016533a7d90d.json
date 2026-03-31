@@ -1,0 +1,50 @@
+{
+  "id": "ab3741a6-a687-44b0-8042-016533a7d90d",
+  "source_id": "16778vf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16778vf/pt_141_low_dose_female/",
+  "author_hash": "e9f01ce5f1151be2eed9888edc9f572d14579b9748bf7fffec21ab1e9904d6bd",
+  "confidence_tier": 4,
+  "date_published": "2023-09-01T06:31:28-07:00",
+  "reported_sex": "female",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "bioidentical estradiol",
+      "name_normalized": "bioidentical_estradiol",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "progesterone",
+      "name_normalized": "progesterone",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Felt sick on second use",
+      "severity": "mild"
+    },
+    {
+      "category": "fatigue",
+      "description": "Felt tired on second use, ended up going to bed",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Tried PT-141 twice at 1mg low dose. First time may have felt something but uncertain. Second time felt sick and tired with no libido effect. Already on bioidentical estradiol and progesterone. Expressed disappointment with results.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.29705Z"
+}

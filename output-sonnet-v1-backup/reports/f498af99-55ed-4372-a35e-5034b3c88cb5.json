@@ -1,0 +1,43 @@
+{
+  "id": "f498af99-55ed-4372-a35e-5034b3c88cb5",
+  "source_id": "1rvi080",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvi080/collagen_peptides_cause_anyone_else_fatigue/",
+  "author_hash": "e62725bed729eb5616ee0977de30523183fdab6c16a5f8e09481abb3cae419a8",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T11:37:09-07:00",
+  "training_status": "active, recently increased exercise volume",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Bulletproof Collagen peptide powder",
+      "name_normalized": "bulletproof_collagen_peptide_powder",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily (post-exercise, at night)",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Feeling more fatigued than usual, reduced energy levels",
+      "severity": "moderate",
+      "resolved": false
+    },
+    {
+      "category": "other",
+      "description": "Increased muscle soreness and reduced recovery",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "OP takes ~10g (half recommended dose) mixed into protein shake after evening exercise. Took a deload week to rule out overtraining but fatigue persisted. No other dietary or lifestyle changes reported. Product contains amino acid profile typical of collagen: Glycine 4740mg, Proline 2720mg, Hydroxyproline 2280mg, Glutamic acid 1933mg, Alanine 1800mg, Arginine 1587mg, etc. No tryptophan.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.107695Z"
+}

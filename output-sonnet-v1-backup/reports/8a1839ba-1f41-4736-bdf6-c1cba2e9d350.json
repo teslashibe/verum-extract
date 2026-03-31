@@ -1,0 +1,77 @@
+{
+  "id": "8a1839ba-1f41-4736-bdf6-c1cba2e9d350",
+  "source_id": "1rgqppm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rgqppm/need_help_breaking_reta_stall_what_to_stack/",
+  "author_hash": "0ccd6a6c8962edfa3577ee5bf112f3101498832e75d8e447edd984a28c535276",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T18:33:51-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 225,
+    "unit": "lbs"
+  },
+  "training_status": "reduced training due to newborn",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mounjaro",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepeptide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 12.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Clomid",
+      "name_normalized": "enclomiphene",
+      "category": "hormonal",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression still present with Retatrutide at current dose",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Previously lost from 265 lbs to 180 lbs on Mounjaro; lost from 240 to 225 on Tirzepeptide; stalled on Reta with no weight loss in ~2 months"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Less constipation on Retatrutide compared to Tirzepeptide",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Started on Mounjaro end of 2022, lost from 265 to 180 lbs by Summer 2023. Felt significant muscle loss so reduced dose, weight rebounded to 200. Tried Reta at 8mg/month but felt supply was poor. Stopped TRT and took Clomid while trying to conceive; weight increased to 240. After wife became pregnant (May 2025), restarted TRT and titrated Tirzepeptide up to 12.5mg, losing down to 225. Then switched to Reta, titrating from 4mg up to 10mg weekly (5mg 2x/week), but no weight loss in ~2 months. Considering titrating up to 12mg or switching back to Tirzepeptide.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.11375Z"
+}

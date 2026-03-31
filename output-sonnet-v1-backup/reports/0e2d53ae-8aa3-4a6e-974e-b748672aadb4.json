@@ -1,0 +1,81 @@
+{
+  "id": "0e2d53ae-8aa3-4a6e-974e-b748672aadb4",
+  "source_id": "1nsq3ll",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nsq3ll/motsc_is_the_golf_peptide/",
+  "author_hash": "fcae83754b2a93e1b7f77383d4e2c6a17e7b29613225750dc662fdc9a99d677a",
+  "confidence_tier": 4,
+  "date_published": "2025-09-28T07:43:44-07:00",
+  "training_status": "Active - basketball, golf, weight loss",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "2x to 3x per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHRH",
+      "name_normalized": "gonadorelin",
+      "category": "hormonal",
+      "route": "subcutaneous",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Significantly improved focus and mental clarity during golf and basketball; swing consistency was notably better",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Deeper well of energy during physical activities; felt like more left in the tank",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "Confidence boost noted when playing basketball",
+      "severity": "mild"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Used originally during Retatrutide-assisted weight loss cycle to combat low energy from calorie deficit; now closer to goal weight"
+    },
+    {
+      "category": "sleep",
+      "description": "Sleeps well using GHRH and DSIP at night"
+    }
+  ],
+  "protocol_notes": "OP uses MOTS-C situationally before demanding physical or cognitive activities (golf, basketball, long drives, busy work days) at 3mg, 2-3x per week. Uses GHRH and DSIP at night for sleep. Was previously on Retatrutide for weight loss during which MOTS-C effect was less noticeable due to severe calorie restriction. Recently started AOD. Aware MOTS-C is on WADA prohibited list.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.269714Z"
+}

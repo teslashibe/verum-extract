@@ -1,0 +1,34 @@
+{
+  "id": "ad79b07b-6fce-4edf-8a00-0279881c3a0f",
+  "source_id": "1mx2uhe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mx2uhe/ghkcu_weekly_dose_instead_of_daily/",
+  "author_hash": "28a06f24e0a85fe63a02b7d103505e413695cfb482f06759cc69c6312bb55e42",
+  "confidence_tier": 4,
+  "date_published": "2025-08-22T03:30:45-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ghkcu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Stinging at injection site that lasted for days until finding suitable injection locations and using extra BAC water. Injection sites that work: lower back where butt meets it, inside of right thigh.",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Uses 50mg vials; pulls at least 10-20 units of BAC water per dose to reduce sting. Draws from a 50mg vial. Notes that everyone's body responds differently to injection sites.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.274618Z"
+}

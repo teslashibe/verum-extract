@@ -1,0 +1,84 @@
+{
+  "id": "f6f1b6d5-6446-4e1b-8d4a-1e23a77c19c5",
+  "source_id": "1lx6tdb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lx6tdb/bpc157_tb500_current_results_40m/",
+  "author_hash": "b76442536fd5dcd63cc43eec61b61edd0973fcd19bde32c5b7a05573225577a7",
+  "confidence_tier": 4,
+  "date_published": "2025-07-11T06:23:53-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 187,
+    "unit": "lbs"
+  },
+  "training_status": "Muay Thai, BJJ, weightlifting, running",
+  "health_conditions": [
+    "Achilles tendinopathy",
+    "hamstring strain",
+    "calf strain",
+    "hip flexor pain",
+    "hip pain",
+    "toe injury",
+    "calf cramping"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Pain reduction and ability to walk without limp within two days",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "injury_healing",
+      "description": "Improved tissue recovery from calf strain",
+      "severity": "moderate",
+      "onset_days": 4
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "pain_change",
+      "description": "Multiple old injuries became tender and painful again; newer calf injury felt swollen and cramped during physio exercises; overall sensation of injuries flaring up",
+      "severity": "moderate",
+      "onset_days": 7,
+      "resolved": false
+    },
+    {
+      "category": "muscle_cramp",
+      "description": "Calf cramps very quickly during recommended physio exercises",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Planned 6-week daily cycle at 500mcg of both BPC-157 and TB-500. User initially took 500mcg of both in the morning only, then considering splitting dose. Stack intended for recovery from multiple soft tissue injuries across lower body. User has history of returning to training too soon during previous rehab cycles.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.404448Z"
+}

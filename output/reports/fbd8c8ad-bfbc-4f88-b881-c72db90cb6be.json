@@ -1,0 +1,60 @@
+{
+  "id": "fbd8c8ad-bfbc-4f88-b881-c72db90cb6be",
+  "source_id": "1rlo5yi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rlo5yi/tesa_ipa_vs_cjc_ipa/",
+  "author_hash": "f4ab4828098df038abfcb4d7ce3fc0c1362317ee5dbdd1e62b26f0fd51eff7e4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T09:45:30-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Improved recovery",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "Heavy heart rate sensation within 5 minutes post injection with CJC, lasting 20-30 minutes",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 0
+    },
+    {
+      "category": "joint_pain",
+      "description": "Joint pain experienced after about 2 weeks into Tesamorelin cycle, noted as indicator of legitimacy and GH secretion",
+      "severity": "mild",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "Completed 3 month round of Tesa/Ipa followed by 3 month round of CJC (no DAC)/Ipa. User prefers Tesamorelin blend over CJC blend. Notes that CJC-1295 causes cardiac side effect (heavy heart rate) but does not produce joint pain like Tesamorelin does, which is counterintuitive since both increase GH secretion.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.668414Z"
+}

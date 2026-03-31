@@ -1,0 +1,50 @@
+{
+  "id": "b3045901-2f80-426a-9fc8-0941ab8cc440",
+  "source_id": "1ka6ni2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ka6ni2/oral_bpc157_superior_to_injectable_for_gut_health/",
+  "author_hash": "b321aa05b139c2b185ef5b63a9678da56e3d5b0c4bbe79641d50cc1008415501",
+  "confidence_tier": 4,
+  "date_published": "2025-04-28T14:08:12-07:00",
+  "health_conditions": [
+    "IBS-M",
+    "acid reflux"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once daily (morning)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Oral BPC-157 described as a 'game changer' for acid reflux and IBS symptoms; able to stop all other medications including prescription acid blockers and OTC meds",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Can eat whatever wanted without repercussions; relief from bloating and pain associated with IBS-M",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Diagnosed with IBS-M as a teenager; lifelong GI issues. Previously on prescription acid blockers and various OTC meds. SubQ alone provided zero gut benefits. Oral 500mcg tablet in the morning replaced all prior medications. Also uses subQ BPC-157 concurrently.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.28497Z"
+}

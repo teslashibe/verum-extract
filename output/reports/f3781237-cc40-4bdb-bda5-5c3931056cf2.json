@@ -1,0 +1,45 @@
+{
+  "id": "f3781237-cc40-4bdb-bda5-5c3931056cf2",
+  "source_id": "1rr6ddm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr6ddm/dsip/",
+  "author_hash": "a0d2e8f961a3fa92ac58bcafc7c53a13fe122eab566ff258f20bc288d54ed655",
+  "confidence_tier": 4,
+  "date_published": "2026-03-11T14:03:58-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "improved REM and deep sleep metrics measured by Garmin, in top 3 most noticeable peptides",
+      "severity": "significant",
+      "onset_days": 56
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "REM sleep",
+      "timeframe_days": 56
+    },
+    {
+      "marker_name": "deep sleep",
+      "timeframe_days": 56
+    }
+  ],
+  "protocol_notes": "Sleep metrics were terrible before starting. Measured with Garmin wearable (noted as not perfectly reliable but useful indicator)",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.665398Z"
+}

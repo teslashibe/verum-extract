@@ -1,0 +1,35 @@
+{
+  "id": "d85abad9-def9-49c2-b10d-3fc2b3bc5999",
+  "source_id": "14zvijv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/14zvijv/bpc157_on_a_drug_test/",
+  "author_hash": "dab3af3dff471aa1eac1d8837c38c469f056dc4b4e8e33966883c3e5db73eb3a",
+  "confidence_tier": 4,
+  "date_published": "2023-07-14T16:23:04-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Oral BPC-157 at 200mcg 2x daily for 2 weeks. Stacked with KPV. User mentioned taking peptides during drug test and test came back OK. Standard employment drug screen (coke, opiates, weed).",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.701171Z"
+}

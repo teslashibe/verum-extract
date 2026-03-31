@@ -1,0 +1,45 @@
+{
+  "id": "20d3ddf2-cc27-4dce-8692-949b0616d6ea",
+  "source_id": "1rvp24a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvp24a/ss31_fatigue_and_brain_fog_and_mitigation/",
+  "author_hash": "e00be900fd9e2d6217e1dfb1d821ae20ed0cb44fda3c1e13c095d80aebc0d3c0",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T15:50:02-07:00",
+  "health_conditions": [
+    "mitochondrial gene variants"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "almost crippling fatigue",
+      "severity": "significant",
+      "onset_days": 10
+    },
+    {
+      "category": "cognitive_impairment",
+      "description": "brain fog",
+      "severity": "significant",
+      "onset_days": 10
+    }
+  ],
+  "protocol_notes": "Planned 8-week cycle. Rapid titration up from baseline. Also taking Ubiquinol, PQQ, MitoQ (low dose), and other mitochondrial support supplements. Methylation supplements (TMG) were attempted but did not help.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.662834Z"
+}

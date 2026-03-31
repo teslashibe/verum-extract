@@ -1,0 +1,40 @@
+{
+  "id": "ca358cfc-092d-4a66-b9ba-449aff59e7ab",
+  "source_id": "1qtpww9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtpww9/how_are_these_biomarkers_before_taking_retatrutide/",
+  "author_hash": "76eecb0949196a03f2d725961d31a6a154ef250349527debbaffa3bf57bb9fcf",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T00:51:59-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 170,
+    "unit": "lbs"
+  },
+  "training_status": "lifting planned",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "escalating every 2 weeks",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Planned fat loss during consistent workout regimen"
+    }
+  ],
+  "protocol_notes": "Starting dose 0.5mg, titrating by 0.5mg every 2 weeks with target of 2mg. Plan to continue for 2 months or longer depending on results. User has body fat percentage around 22%. Previously completed 3-month 1,500 calorie cut with 30lb loss but reported difficulty perceiving visual results. Protein intake 170g per day during prior cut.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.668183Z"
+}

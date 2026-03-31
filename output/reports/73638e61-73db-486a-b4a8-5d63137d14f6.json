@@ -1,0 +1,36 @@
+{
+  "id": "73638e61-73db-486a-b4a8-5d63137d14f6",
+  "source_id": "1l7e7f3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1l7e7f3/i_had_a_severe_mast_cell_reaction_to_sermorelin/",
+  "author_hash": "c1098f818e6d5a38d38533de452cf5c41a7bc35a24b5a1a1af75488720b61fc5",
+  "confidence_tier": 5,
+  "date_published": "2025-06-09T12:37:03-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Started developing allergic symptoms with tesa and ipa, led to anaphylaxis",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User reports that all 'morelin' style peptides can trigger these reactions. References their own detailed post about the experience.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.406739Z"
+}

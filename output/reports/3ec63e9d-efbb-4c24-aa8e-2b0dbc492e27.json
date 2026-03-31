@@ -1,0 +1,70 @@
+{
+  "id": "3ec63e9d-efbb-4c24-aa8e-2b0dbc492e27",
+  "source_id": "1lidnjd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lidnjd/fatigue_for_40_years_can_anyone_recommend/",
+  "author_hash": "c556deb30bffca1d36305dc7dcd04a1dabd804822e4c8067b332e72fc581e296",
+  "confidence_tier": 4,
+  "date_published": "2025-06-23T04:00:46-07:00",
+  "training_status": "sedentary initially, now lifting weights and cardio",
+  "health_conditions": [
+    "CIRS (Chronic Inflammatory Response Syndrome)",
+    "chronic fatigue"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "3 times per week",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Light bulb moment - felt like a light went out for years, Retatrutide turned it back on. Could now clean house, work out, lift weights, do cardio.",
+      "severity": "significant",
+      "onset_days": 3
+    },
+    {
+      "category": "metabolism",
+      "description": "Woke up metabolism, only peptide that worked after trying other mitochondrial peptides",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Kills hunger a little",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Started with .5mg on Friday, by Monday had significant energy improvement. Also taking Astaxanthin, Lycopene, Urolithin A, C15:O, Multivitamin, PQV. Considers mitochondrial stack completely covered. Light turned out in 2021. Considering getting more SS-31 from China.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.405593Z"
+}

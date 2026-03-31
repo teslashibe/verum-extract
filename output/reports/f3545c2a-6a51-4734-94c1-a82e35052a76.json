@@ -1,0 +1,59 @@
+{
+  "id": "f3545c2a-6a51-4734-94c1-a82e35052a76",
+  "source_id": "1rs1dsm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rs1dsm/muscle_weakness/",
+  "author_hash": "75589b8dc9ea349b46fcb41af763f1ae95f71c9549d837340b463be6bf96a480",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T12:59:32-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Improved performance, feels like in twenties",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Works great for performance",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Uses pre-mixed pens with CJC-1295/Ipamorelin ratio 1:2 and BPC-157/TB-500 pen. Age 41.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.652838Z"
+}

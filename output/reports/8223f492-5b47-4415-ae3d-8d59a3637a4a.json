@@ -1,0 +1,48 @@
+{
+  "id": "8223f492-5b47-4415-ae3d-8d59a3637a4a",
+  "source_id": "knte38",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/knte38/bpc157_was_good_to_me/",
+  "author_hash": "86a941453182504a1195ee5c8e873414d82da95a933e0087c149104e5033110b",
+  "confidence_tier": 4,
+  "date_published": "2020-12-31T08:49:07-08:00",
+  "training_status": "lifting (benches heavy, took time off from chest)",
+  "health_conditions": [
+    "shoulder injury"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "dose_value": 0.48,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "3x per week (1x daily)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Some results seen in shoulder injury healing",
+      "severity": "mild",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Initially tried a combo vial of BPC and TB500 (5mg each) with no results, assumed underdosing. Reordered separately and started new protocol about 1 week in at time of report. Laid low on gym activities, no heavy chest work, planning to resume gradually.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.13202Z"
+}

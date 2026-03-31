@@ -1,0 +1,45 @@
+{
+  "id": "3013c893-2d76-4839-b7cd-64c8707fb4fc",
+  "source_id": "qvgjrr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/qvgjrr/rant_peptides_arent_magic/",
+  "author_hash": "a1ab7b999f1cdcc7f0c3bc24b6b1bd1b9655f4ced2fcb2d8137982bf8d0457ae",
+  "confidence_tier": 4,
+  "date_published": "2021-11-16T11:57:17-08:00",
+  "training_status": "jiu jitsu",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Peptides helped immensely for jiu jitsu training",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Cycling for 2 years. BPC-157 dosed at site of injury/concern. TB-500 dosed in belly fat. Started on recommendation from training partners.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.130223Z"
+}

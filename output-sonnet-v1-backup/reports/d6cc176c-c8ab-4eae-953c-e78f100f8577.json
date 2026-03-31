@@ -1,0 +1,52 @@
+{
+  "id": "d6cc176c-c8ab-4eae-953c-e78f100f8577",
+  "source_id": "1rj8kf1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rj8kf1/tesa_cjc1295_ipamorelin_sudden_flush_high_bp/",
+  "author_hash": "9e5bd1874bbf0ae504a7c9f67b5a2dd9b4f6cc8632845e2a317a862e8fc5a01e",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T15:13:10-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "cjc1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_pressure",
+      "description": "BP gets high every time after injection, with heartbeat audible in ears",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "flushing",
+      "description": "Symptoms settle down after about 45 minutes",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Previously ran tesamorelin and Ipamorelin for 90 days, then took 4 months off. New protocol adds CJC-1295 to the stack. Side effects occur every time.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112911Z"
+}

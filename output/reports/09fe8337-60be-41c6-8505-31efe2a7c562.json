@@ -1,0 +1,42 @@
+{
+  "id": "09fe8337-60be-41c6-8505-31efe2a7c562",
+  "source_id": "1rxda1u",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rxda1u/tb500_weird_whole_body_mild_shock_feeling_and/",
+  "author_hash": "4e66850fb6c5b2485d542abe802ef0905c36654126065a663149fb66222d7da8",
+  "confidence_tier": 5,
+  "date_published": "2026-03-18T12:15:36-07:00",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "sharp injection pain",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "whole body mild shock feeling",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User initially attributed symptoms to BPC-157 but identified TB-500 as the culprit. Considering switching to full TB4. Questioned if reaction is allergic in nature.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.649866Z"
+}

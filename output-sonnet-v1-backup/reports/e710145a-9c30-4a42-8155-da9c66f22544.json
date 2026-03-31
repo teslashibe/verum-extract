@@ -1,0 +1,109 @@
+{
+  "id": "e710145a-9c30-4a42-8155-da9c66f22544",
+  "source_id": "1io07mg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1io07mg/peptides_saved_my_skin/",
+  "author_hash": "b89fcd9d2bf9da6c2f28ef59b29aff16d74d08fa6dfb3655b773781cd46dece5",
+  "confidence_tier": 4,
+  "date_published": "2025-02-12T12:01:38-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "training_status": "active gym-goer, self-described human lab rat for self-improvement",
+  "health_conditions": [
+    "cystic acne (historical)",
+    "nose injury from car collision",
+    "skin hyperpigmentation concerns"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 15,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "frequency": "daily",
+      "cycle_length_days": 15,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 15,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 15,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 15,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "silicon (generic scar-away) cream",
+      "name_normalized": "silicon_generic_scar_away_cream",
+      "category": "other",
+      "route": "topical",
+      "frequency": "daily",
+      "cycle_length_days": 15,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Melanotan-II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "frequency": "once a week (before tanning bed)",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Nose injury from car collision healed with minimal discoloration and without hyperpigmentation in approximately 15 days; OP noted faster healing compared to a prior similar injury that took a full month",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Topical GHK-Cu and scar-away cream were 'absolute game changers' for skin and appearance, particularly for cystic acne scars",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "OP is a teenage male (started PEDs at ~15, currently in first year of college). Also used micro-needling pen at home for acne scars historically. Used Accutane previously for cystic acne with good results. Currently on 250-300mg testosterone per week. Uses Melanotan-II weekly before tanning bed. OP emphasizes topical GHK-Cu and scar-away cream as the most accessible and effective elements of the stack for others.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.287953Z"
+}

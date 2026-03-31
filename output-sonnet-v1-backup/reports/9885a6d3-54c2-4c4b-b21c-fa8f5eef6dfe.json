@@ -1,0 +1,61 @@
+{
+  "id": "9885a6d3-54c2-4c4b-b21c-fa8f5eef6dfe",
+  "source_id": "1lb5jb2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lb5jb2/cjc_1295_633_help/",
+  "author_hash": "a4d07d14cf6ee69a471630bdf1b60647d06595b1126957986b5977179392b014",
+  "confidence_tier": 5,
+  "date_published": "2025-06-14T03:28:14-07:00",
+  "reported_sex": "female",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "cjc",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 0.1,
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "trizepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "got a flush after injection",
+      "severity": "mild"
+    },
+    {
+      "category": "injection_site",
+      "description": "area was a little red after injection",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Just started the combo. Used 2cc bac water total (filled insulin syringe twice). Injected 0.10 ml at night. Nervous as this is her first time with this protocol. Dose unit for CJC unclear as measurement given in ml volume only.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.281918Z"
+}

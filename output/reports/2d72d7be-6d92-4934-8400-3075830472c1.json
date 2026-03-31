@@ -1,0 +1,38 @@
+{
+  "id": "2d72d7be-6d92-4934-8400-3075830472c1",
+  "source_id": "1l8q55x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1l8q55x/how_do_i_combine_three_different_peptides/",
+  "author_hash": "cdee347560345ed65f966793b226a72054765b19d1f92b921e8e08456b337211",
+  "confidence_tier": 4,
+  "date_published": "2025-06-11T04:25:08-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "semaglutide has stronger appetite suppressant effect (GLP-1 part) than retatrutide alone",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Taking small dose of semaglutide alongside retatrutide. Notes semaglutide has stronger GLP-1 component for appetite suppression.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.406558Z"
+}

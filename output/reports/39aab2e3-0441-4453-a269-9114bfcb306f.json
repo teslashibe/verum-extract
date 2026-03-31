@@ -1,0 +1,50 @@
+{
+  "id": "39aab2e3-0441-4453-a269-9114bfcb306f",
+  "source_id": "1ixcri5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ixcri5/followup_thread_my_experience_with_epitalon/",
+  "author_hash": "27d01416c53133b22f4c1dcd731dfd0b2b4c2dda1edc7b4403da4f7a9deb6da9",
+  "confidence_tier": 4,
+  "date_published": "2025-02-24T12:57:01-08:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "hypogonadism (self-reported low testosterone post-COVID)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "3 times per week",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "Primary goal was telomere lengthening via Khavinson protocol",
+      "severity": "moderate"
+    },
+    {
+      "category": "libido",
+      "description": "Increased libido and possibly elevated testosterone",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Testosterone",
+      "timeframe_days": 21
+    }
+  ],
+  "protocol_notes": "Followed Khavinson protocol: 10mg subcutaneous, 3 doses per week for 3 weeks (21 days). User had low testosterone post-COVID for over a year and declined TRT or enclomiphene due to side effects. Experienced unexpected libido/testosterone increase. Plans to repeat protocol every 6 months. Hypothesizes Epithalon may help regulate testosterone in hypogonadal individuals.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.76,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.411048Z"
+}

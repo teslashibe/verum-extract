@@ -1,0 +1,35 @@
+{
+  "id": "c5c1c934-d832-45f8-9e27-1ad02c696ae5",
+  "source_id": "1rmyf77",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmyf77/reta_tingle/",
+  "author_hash": "33d2a76e4bcd349ca1387c52adbfc58449087427a950b9aee8cdc616e5a60325",
+  "confidence_tier": 4,
+  "date_published": "2026-03-06T18:55:53-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 70,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "Severe tingling at 2.5mg on week 10. Reports tingling is worst during titration weeks, typically peaking mid-first week and resolving by third week of titration.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "On week 10 at 2.5mg personally. Also working with 4 training subjects who are titrated to 4mg at 6 weeks into cycle. Tingling appears very individually dependent and primarily occurs on titration weeks.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.111378Z"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "eb638e9e-fd12-43eb-b95f-d0f60101f72d",
+  "source_id": "1mqkduy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mqkduy/sermorelin_whats_the_hype/",
+  "author_hash": "5b1bd60398a6080803cb5904025d75ca9218fc76b92a36d969379959bd89784c",
+  "confidence_tier": 3,
+  "date_published": "2025-08-14T19:00:39-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "training_status": "Active, healthy diet and exercise",
+  "health_conditions": [
+    "elevated liver panels",
+    "elevated blood pressure"
+  ],
+  "compounds": [
+    {
+      "name_raw": "serm",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 120,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "All bloods in optimal ranges after 4 months; doctor was shocked",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Blood pressure normalized",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Testosterone levels slightly elevated",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "liver panels",
+      "timeframe_days": 120
+    },
+    {
+      "marker_name": "blood pressure",
+      "timeframe_days": 120
+    },
+    {
+      "marker_name": "testosterone",
+      "timeframe_days": 120
+    }
+  ],
+  "protocol_notes": "31-year-old male. Bloods done after 4 months. Previously had higher liver panels and elevated BP; both normalized. Only downside is slightly elevated testosterone. Healthy diet and exercise also cited as contributing factors.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.275463Z"
+}

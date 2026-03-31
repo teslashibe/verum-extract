@@ -1,0 +1,48 @@
+{
+  "id": "b8acf021-6859-494a-ab05-74ec3c5de899",
+  "source_id": "1l7e7f3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1l7e7f3/i_had_a_severe_mast_cell_reaction_to_sermorelin/",
+  "author_hash": "6b027dbc050c0f3d9cf462304fe4c52434ccaa84009936b2913c890c5fa87683",
+  "confidence_tier": 4,
+  "date_published": "2025-06-09T12:37:03-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "perimenopause"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "recovery support",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "itching and swelling at prior injection sites, bumps lasting several days",
+      "severity": "moderate",
+      "onset_days": 42,
+      "resolved": true,
+      "resolution_days": 14
+    }
+  ],
+  "protocol_notes": "Used in previous cycle. Able to tolerate for 6-8 weeks before mast cell activation signs appeared. Pre-injection quercetin (500 mg) and vitamin C (1000 mg) significantly reduced reaction severity. Now recommends ipamorelin (GHRP) over GHRH peptides for mast cell-sensitive individuals, especially women on HRT.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.689703Z"
+}

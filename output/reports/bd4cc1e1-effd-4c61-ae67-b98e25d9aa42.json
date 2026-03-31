@@ -1,0 +1,86 @@
+{
+  "id": "bd4cc1e1-effd-4c61-ae67-b98e25d9aa42",
+  "source_id": "1n7n5ol",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n7n5ol/the_perfect_stack_update/",
+  "author_hash": "f5248c653f333ecf701ef3b667d23933ad1e6c4cd5b1cb0931fff5e52af7a3f9",
+  "confidence_tier": 4,
+  "date_published": "2025-09-03T11:41:27-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 326,
+    "unit": "lbs"
+  },
+  "training_status": "3-5 workouts per week (3 mandatory resistance training, 1-2 cardio days, distance running, 5000-7500 steps daily)",
+  "health_conditions": [
+    "obesity"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 8.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 120,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 120,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 120,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost over 40 lbs in 4 months, improved muscle definition, decreased visceral fat",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Struggling to eat 1500 calories a day, helps maintain healthy caloric deficit",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Workouts more energized",
+      "severity": "moderate"
+    },
+    {
+      "category": "endurance",
+      "description": "Running endurance significantly increased, improved from 15 minute mile to 10 minute mile in 4 months",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Building muscle while in caloric deficit",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Stack theory: Retatrutide for appetite suppression and moderate deficit maintenance, Tesamorelin for muscle building and recovery to target visceral fat, Semaglutide for energy and endurance. Started June 2025 at Reta 4mg, Tesa 1mg, Slu-pp 500mcg. Currently at Reta 8.5mg, Tesa 2mg, Slu-pp 1mg. Plans to cycle off Tesa in 2 months and maintain Reta at current dose. Prescribed through compounding pharmacy with doctor supervision due to obesity starting status. Peptide experience of 5-6 months at time of post. Protein intake prioritized (animal protein, whey isolate, Greek yogurt, Protein2o during workouts). Actual calorie intake likely 1500-2000 depending on day.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.682997Z"
+}

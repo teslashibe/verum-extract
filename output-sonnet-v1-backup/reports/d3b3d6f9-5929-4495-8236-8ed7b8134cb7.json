@@ -1,0 +1,41 @@
+{
+  "id": "d3b3d6f9-5929-4495-8236-8ed7b8134cb7",
+  "source_id": "1s029qy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s029qy/my_dad_has_3cm_tears_in_his_rotary_cuff_will/",
+  "author_hash": "4288398be194450c199096f007528527d7b45e446e901d73bad4cdc57bbee896",
+  "confidence_tier": 5,
+  "date_published": "2026-03-21T13:45:17-07:00",
+  "health_conditions": [
+    "major partial rotator cuff tear"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "peptides",
+      "name_normalized": "peptides",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Completely healed in 3 months with stem cells and peptides. No sign of injury on scan.",
+      "severity": "significant",
+      "onset_days": 90
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "rotator cuff tear (scan)",
+      "value_after": 0,
+      "timeframe_days": 90
+    }
+  ],
+  "protocol_notes": "Combined stem cells and peptides (unspecified). Major partial rotator cuff tear. Completely healed confirmed by scan in 3 months.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105884Z"
+}

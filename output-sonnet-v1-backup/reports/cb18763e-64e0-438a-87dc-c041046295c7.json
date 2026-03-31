@@ -1,0 +1,37 @@
+{
+  "id": "cb18763e-64e0-438a-87dc-c041046295c7",
+  "source_id": "1rzbncu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzbncu/ghkcu/",
+  "author_hash": "08e090835c8724c43f3063ddfc85bd9a8d149641ce364651b6950e340310677a",
+  "confidence_tier": 5,
+  "date_published": "2026-03-20T16:20:56-07:00",
+  "compounds": [
+    {
+      "name_raw": "ghkcu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "zinc",
+      "name_normalized": "zinc",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "skin flare-ups referred to as 'copper uglies', believed to be a skin purge reaction",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "OP is approximately 2 weeks into GHK-Cu usage and experiencing skin flare-ups ('copper uglies'). Taking zinc concurrently. Questioning how long the purge phase lasts.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106164Z"
+}

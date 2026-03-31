@@ -1,0 +1,55 @@
+{
+  "id": "e0f978b3-beb0-4970-8324-d86ff534c963",
+  "source_id": "1m688xn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m688xn/retatrutide_help/",
+  "author_hash": "08bf1d527b2a0acc7b6477d694d4ce2dd64f60756b5cb28a6b083f6ce183f5e8",
+  "confidence_tier": 4,
+  "date_published": "2025-07-22T01:05:07-07:00",
+  "training_status": "EMS training 1-2x weekly, walking 1-2 hours daily",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "lost 20 kg of fat",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "gained muscle during weight loss cycle",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_suppression",
+      "description": "appetite suppression can be too strong if dose is too high, making it difficult to consume sufficient protein",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body composition",
+      "unit": "kg"
+    }
+  ],
+  "protocol_notes": "Used both Retatrutide and Tirzepatide (not specified which was primary). Recommends keeping dose as low as possible for best results. Protocol included: EMS training 1-2x weekly (20 min sessions), 1-2 hours daily walking at elevated heart rate (\u003e120 BPM), protein 60-90g daily via food and/or shakes with creatine, 2.5-3L water daily, vegetables for digestive health. Lost 20 kg fat with only 1 kg muscle loss.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.40358Z"
+}

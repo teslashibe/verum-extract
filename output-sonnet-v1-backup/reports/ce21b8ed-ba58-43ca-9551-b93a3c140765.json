@@ -1,0 +1,33 @@
+{
+  "id": "ce21b8ed-ba58-43ca-9551-b93a3c140765",
+  "source_id": "1ro7ax7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ro7ax7/igf_levels_and_hgh/",
+  "author_hash": "ceda205f88055f85896e87c1324329b9a49855ba23d3d9afebfa8576db41c254",
+  "confidence_tier": 4,
+  "date_published": "2026-03-08T08:13:15-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1 Z score",
+      "value_after": 2.2,
+      "unit": "Z score"
+    }
+  ],
+  "protocol_notes": "2IU puts this user at IGF-1 Z score of +2.2. Emphasizes individual variability and need for testing. Recommends keeping Z score under 3 for long-term use.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.11103Z"
+}

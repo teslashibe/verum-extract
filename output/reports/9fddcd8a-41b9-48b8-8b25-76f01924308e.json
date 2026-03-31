@@ -1,0 +1,52 @@
+{
+  "id": "9fddcd8a-41b9-48b8-8b25-76f01924308e",
+  "source_id": "17ge9m5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17ge9m5/semaglutide_dose_question/",
+  "author_hash": "f0cc1c3d94f20524fbe6a90940b3c50fadbecf0688f46e05ca2430c59561b94b",
+  "confidence_tier": 4,
+  "date_published": "2023-10-25T13:29:56-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Full sensation and not interested in food - noticeable on day 6-7 before next dose",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "fat_loss",
+      "description": "Weight loss achieved through appetite suppression",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Titrated from 0.25mg starting dose up to 2.5mg weekly. Duration of effect approximately 6-7 days per injection.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.419602Z"
+}

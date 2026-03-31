@@ -1,0 +1,41 @@
+{
+  "id": "4e605d9b-61ee-4b30-9d20-1e04dfdd4174",
+  "source_id": "19faw3y",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/19faw3y/glp1_to_lean/",
+  "author_hash": "4449684d0175ccf753cea54578d8ac435830c374869c8d506a1108c0aac412f9",
+  "confidence_tier": 5,
+  "date_published": "2024-01-25T06:42:43-08:00",
+  "training_status": "bodybuilding community",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly maximum",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Used semaglutide/tirzepatide to get to lean body composition goal; worked well",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Too high a dose causes inability to eat enough protein, leading to excess muscle mass loss",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Advises staying at or below 1mg weekly to avoid excessive muscle loss. Notes clinical dose is 2.4mg but recommends conservative dosing for lean individuals.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.295445Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "b4327570-2c57-46b5-8652-73921a56075b",
+  "source_id": "1qu8ne4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qu8ne4/best_stack_for_muscle_recoverygrowth/",
+  "author_hash": "ced9a73c9dd9e7578086a9ec9543bdee5e955b8542c41a2f5316404d38f4d2f1",
+  "confidence_tier": 3,
+  "date_published": "2026-02-02T13:41:23-08:00",
+  "reported_age_range": "40-49",
+  "training_status": "Active athlete: weightlifting, swimming, mountain biking, surfing, CrossFit; 5-6 days per week",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "dose_value": 300,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ostarine",
+      "name_normalized": "ostarine",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cardarine",
+      "name_normalized": "cardarine",
+      "category": "other",
+      "route": "oral",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "DOMS has pretty much become a thing of the past after 2 weeks on testosterone",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "energy",
+      "description": "Can push himself harder, heavier and further than last month",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone"
+    }
+  ],
+  "protocol_notes": "Age 46, does not want more children. Pre-cycle testosterone was in the top 25% of normal range. Currently 2 weeks into testosterone cycle at 300mg/week with 14-18 weeks remaining. Had an 8-week Ostarine/Cardarine cycle previously. Considering blasting and cruising long-term rather than PCT. Wife is also cycling Anavar. Has PCT drugs on hand. Plans to retest testosterone levels in a few weeks.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121861Z"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "0a9a8c79-c810-4edc-94e6-fb488b621376",
+  "source_id": "1mabyts",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mabyts/what_was_the_combo_you_found_that_broke_your/",
+  "author_hash": "744b3bc04d6093778e625a9df1bdc6eb80cbf95b88c2ceb5ae121d1a1a02fee3",
+  "confidence_tier": 4,
+  "date_published": "2025-07-26T20:15:55-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "cycle_length_days": 365,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 8,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped 10 lbs in 2 weeks after dose reduction and Retatrutide addition",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Food noise went back away",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "energy",
+      "description": "Fatigue is gone",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Fatigue resolved after protocol adjustment",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 14
+    }
+  ],
+  "protocol_notes": "Was on 15mg Tirzepatide for 1 year with plateau of ±5 lbs fluctuation. Reduced to 8mg and added 2.5mg Retatrutide twice weekly for breakthrough.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.403184Z"
+}

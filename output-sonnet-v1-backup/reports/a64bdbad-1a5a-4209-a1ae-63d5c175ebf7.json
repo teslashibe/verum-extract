@@ -1,0 +1,52 @@
+{
+  "id": "a64bdbad-1a5a-4209-a1ae-63d5c175ebf7",
+  "source_id": "1o3rk3w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o3rk3w/bad_reaction_to_first_shot_of_retatrutide_trying/",
+  "author_hash": "5988e57a4e17860a319c3529dada4f977d485da111f48c7ff76afd889e7c6a4b",
+  "confidence_tier": 4,
+  "date_published": "2025-10-11T02:49:55-07:00",
+  "health_conditions": [
+    "chronic eating problems"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "single dose",
+      "cycle_length_days": 1,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Helped with serious eating problems the user has had their whole life",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost almost 7 pounds in one week",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Red, itchy, and swollen eyes the morning after first injection, persisting for at least 7 days; multiple doctors diagnosed as allergic reaction",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Obtained Reta from a friend who supplied it to multiple others including OP's fiancé with no severe reactions. Bacteriostatic water source unknown. Reaction required multiple clinic and hospital visits. OP concerned about whether allergy is to Reta itself or bacteriostatic water.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.268212Z"
+}

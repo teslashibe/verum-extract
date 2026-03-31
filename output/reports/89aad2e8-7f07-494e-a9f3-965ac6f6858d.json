@@ -1,0 +1,90 @@
+{
+  "id": "89aad2e8-7f07-494e-a9f3-965ac6f6858d",
+  "source_id": "1rx2u70",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx2u70/is_ss31_a_must_before_starting_motsc/",
+  "author_hash": "01eb1026c8ea39b4a72bf581fd59350127b9aa41c9f72c7bd1820d4fe5f1745c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T05:42:53-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "athletic",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 4,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Huge energy benefit from SS-31, first two weeks felt unreal with little to no coffee needed",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive",
+      "description": "NAD+ gave real focus and energy",
+      "severity": "significant"
+    },
+    {
+      "category": "endurance",
+      "description": "MOTS-C and NAD+ helps for endurance aspect of workouts and diet fatigue",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Leaning down for the summer while keeping strength up",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "41M. Stack includes SS-31 (2-3mg ED), NAD+ (50mg E2D), MOTS-C (2mg E2D), HGH (4iu), and Retatrutide (4mg) for summer lean and strength maintenance.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.650196Z"
+}

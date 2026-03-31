@@ -1,0 +1,35 @@
+{
+  "id": "f5eed14e-d10c-4e1b-9b4a-ae602c5ce707",
+  "source_id": "1fv4rz5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fv4rz5/body_recomp_on_ozempic_what_peptides_can_i_stack/",
+  "author_hash": "3f9dcf0fe0aed755649544e05af37c56e624c3e1b10e775e8a9e9009bced3f64",
+  "confidence_tier": 4,
+  "date_published": "2024-10-03T03:46:13-07:00",
+  "training_status": "experienced",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "ml",
+      "frequency": "once (titration phase 1)",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 27 lbs in 12 weeks",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User is titrating Ozempic (Semaglutide). Started at 0.25ml (18 clicks on pen) after ~1.5 months, moved to 0.5ml (36 clicks), now at 0.75ml (54 clicks). No side effects reported so far. User titrating slowly. Reports home gym setup, 200g protein/day, tracks calories/macros/micros, limits simple carbs. Seeking peptide stack advice for body recomposition while on Ozempic.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696011Z"
+}

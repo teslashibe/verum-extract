@@ -1,0 +1,99 @@
+{
+  "id": "b3615463-3408-45b3-aa59-929029bcf8b5",
+  "source_id": "1ootbt8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ootbt8/hitting_that_point_where_people_are_starting_to/",
+  "author_hash": "c9167085cc046cb87811678401b84386ae72a0fac6592f53700a561afabbe92e",
+  "confidence_tier": 4,
+  "date_published": "2025-11-04T20:20:07-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "5A1MQ",
+      "name_normalized": "5a1mq",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "5x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Klow",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Enclomiphene",
+      "name_normalized": "enclomiphene",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Drop in visceral fat and body fat percentage",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Better recovery",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Better energy",
+      "severity": "moderate"
+    },
+    {
+      "category": "body_composition",
+      "description": "Weight loss, visible changes noticed by others",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "No side effects reported"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "unit": "%"
+    },
+    {
+      "marker_name": "visceral fat"
+    }
+  ],
+  "protocol_notes": "Using InBody scale for tracking since January 2025. Compounds layered in over time. Tesamorelin specifically for visceral fat reduction at 2IU/day 5 days per week. HGH plus Tesamorelin combination. Multiple protocol iterations tested before finding effective combination.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.394349Z"
+}

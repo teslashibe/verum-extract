@@ -1,0 +1,35 @@
+{
+  "id": "3fa9ff92-b38a-455f-8e72-7ce8f7ffa25d",
+  "source_id": "1rnwbxi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rnwbxi/is_peptides_safe_to_take_while_on_vyvanse/",
+  "author_hash": "fd1d5d0f05687a9ae7ee2e8b7313227a9522d64053388965e69b35e5140ca3f2",
+  "confidence_tier": 5,
+  "date_published": "2026-03-07T21:27:42-08:00",
+  "health_conditions": [
+    "ADHD (on Concerta)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Concerta",
+      "name_normalized": "concerta",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "User is nervous about taking 2.5mg retatrutide alongside Concerta due to concerns about increased stimulation. Has not started yet.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.111164Z"
+}

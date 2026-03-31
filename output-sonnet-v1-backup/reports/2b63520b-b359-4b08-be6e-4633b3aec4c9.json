@@ -1,0 +1,33 @@
+{
+  "id": "2b63520b-b359-4b08-be6e-4633b3aec4c9",
+  "source_id": "1pzz0nu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pzz0nu/ghk_cu_what_is_happening/",
+  "author_hash": "cb26e0442d415d74c37a2a1e895da004e31296d6a6b0f0ed99389af5d0a9f648",
+  "confidence_tier": 4,
+  "date_published": "2025-12-30T16:45:37-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Strong internal pain localized to the same side as the injection site, starting approximately 3 hours after subcutaneous abdominal injection. Pain was consistent and described as internal. Also occurred with love handle injections. Eventually stopped using.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "First injection was in the abdomen. Also tried love handles. Injection site appeared normal externally. Stopped using due to persistent pain regardless of injection site.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.257431Z"
+}

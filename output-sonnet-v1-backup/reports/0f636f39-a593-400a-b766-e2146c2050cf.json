@@ -1,0 +1,43 @@
+{
+  "id": "0f636f39-a593-400a-b766-e2146c2050cf",
+  "source_id": "1mrvy0p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mrvy0p/update_on_retratutide/",
+  "author_hash": "c4d226f6340a8a09687687028d3909c0ae280a16d9e6fd3f50e3fb85919b5e99",
+  "confidence_tier": 4,
+  "date_published": "2025-08-16T06:54:58-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "After adding Cagrilintide, experienced significant appetite suppression - able to eat to macros with no cravings and no hunger",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started with retratutide at 4mg, noticed little appetite suppression in first weeks. Added Cagrilintide 300mcg/wk based on community advice which resolved the issue.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.27522Z"
+}

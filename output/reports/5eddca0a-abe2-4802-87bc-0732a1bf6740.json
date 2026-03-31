@@ -1,0 +1,46 @@
+{
+  "id": "5eddca0a-abe2-4802-87bc-0732a1bf6740",
+  "source_id": "1kne8nh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kne8nh/is_it_essential_to_pin_ghkcu_ed/",
+  "author_hash": "29f267a098e03ee043db0ee95f8fa32924a27b250f7e6ea142e17a31a9624a7b",
+  "confidence_tier": 4,
+  "date_published": "2025-05-15T10:35:33-07:00",
+  "reported_age_range": "40-49",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Zinc",
+      "name_normalized": "zinc",
+      "category": "other",
+      "route": "oral",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "improvements in skin, thicker hair, and stronger nails; nails require more frequent cutting",
+      "severity": "significant"
+    },
+    {
+      "category": "hair",
+      "description": "thicker hair",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Takes GHK-Cu daily with zinc citrate supplement due to concern about copper buildup. Travels frequently with peptides in hard-sided box using prefilled insulin syringes. No prescription. Also takes other compounds so cannot attribute all benefits to GHK-Cu alone.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.691077Z"
+}

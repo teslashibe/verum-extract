@@ -1,0 +1,59 @@
+{
+  "id": "d8d1a3e5-2b7b-45ca-b179-8ad6f286321f",
+  "source_id": "1pe6r9u",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pe6r9u/impossible_result/",
+  "author_hash": "7790207b6cb090add548003b4d0119b24238a46144941a3570f7b1f896d9c0fc",
+  "confidence_tier": 4,
+  "date_published": "2025-12-04T09:54:33-08:00",
+  "health_conditions": [
+    "golfers elbow (tendonitis, 10 weeks)",
+    "acne (TRT-related)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.33,
+      "dose_unit": "mg",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Golfers elbow pain completely resolved after first dose; was consistently 5/10 pain for 10 weeks prior",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "skin",
+      "description": "Started KLOW to help control TRT-related acne"
+    },
+    {
+      "category": "energy",
+      "description": "Woke up energized and full of energy after first dose",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "OP is a few months into TRT. Injected sub-Q in the love handles. Chose KLOW primarily for acne control, not for elbow injury. Plans a 6-week cycle. KLOW described as containing BPC-157, TB-500, GHK-Cu, and KPV.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.26199Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "cecba763-3f6c-4dfe-9fae-d1882a3cf84d",
+  "source_id": "1rqdtt2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rqdtt2/can_i_mix_bpc_157_tb500_and_ghk_cu_in_the_same/",
+  "author_hash": "94487f8fbf30dd83ac39217bd7ed6bb59d0794d03ad9298bbb6de3b23d755e21",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T16:51:01-07:00",
+  "training_status": "weight training",
+  "health_conditions": [
+    "shoulder injury"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "3x per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Reversed scheduled shoulder surgery, able to do full weight presses",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User previously used Wolverine blend (TB-500 + BPC-157) and switched to pinning them separately. TB-500 injected 3x per week SubQ abdomen, BPC-157 injected daily directly to injury site. Reports better results with separate administration versus blend. Also mentions discontinuing GLOW and KLOW blends.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.66587Z"
+}

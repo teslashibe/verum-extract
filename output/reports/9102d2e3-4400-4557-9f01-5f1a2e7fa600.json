@@ -1,0 +1,66 @@
+{
+  "id": "9102d2e3-4400-4557-9f01-5f1a2e7fa600",
+  "source_id": "1i6zvxs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1i6zvxs/i_have_gastroparesis_and_im_obesepeptides/",
+  "author_hash": "35634994a6a1ae0b067591155d77ba5bf76c7bfe767dbc3f6fc9ea744bbe966f",
+  "confidence_tier": 4,
+  "date_published": "2025-01-21T17:59:05-08:00",
+  "training_status": "active - walks 4-8x daily, uses versa climber",
+  "health_conditions": [
+    "gastroparesis",
+    "obesity",
+    "lumbar scoliosis"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost weight with tirzepatide, semaglutide, and sermorelin",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Months and months of nausea from tirzepatide, semaglutide, and sermorelin",
+      "severity": "significant"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Gastroparesis intensified with tirzepatide and semaglutide, worse than before starting peptides",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User stated tirzepatide and semaglutide slowed gastric emptying. Semaglutide reported as easiest on system compared to tirzepatide. Started at lowest doses with each compound.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.41156Z"
+}

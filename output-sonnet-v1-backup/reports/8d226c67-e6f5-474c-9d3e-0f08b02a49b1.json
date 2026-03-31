@@ -1,0 +1,68 @@
+{
+  "id": "8d226c67-e6f5-474c-9d3e-0f08b02a49b1",
+  "source_id": "1mrif03",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mrif03/going_from_tirz_to_reta/",
+  "author_hash": "75d8bfbe01a3761ad7ea2b5f0d1804121c8cb33f700d1eadffd3ef2fb809b5d9",
+  "confidence_tier": 4,
+  "date_published": "2025-08-15T19:40:45-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 185,
+    "unit": "lbs"
+  },
+  "training_status": "Lifts 4-5 days per week, resistance training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "dose_value": 125,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 25lbs on Tirzepatide over 3 months",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression was strong at 5mg but felt less effective at 7.5mg",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Concerned about muscle loss while on Tirzepatide",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Estradiol (E levels)"
+    }
+  ],
+  "protocol_notes": "On month 3 at 7.5mg Tirz, planning to move to 10mg. Consuming 190g protein daily with low carbs. Also on TRT 125mg/week. Previously had high E levels that have since normalized. Plateau with ~10lbs remaining to goal weight. Considering switching to Retatrutide.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.275341Z"
+}

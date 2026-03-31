@@ -1,0 +1,77 @@
+{
+  "id": "a55d1758-c930-4b37-b7cb-3a67220efaef",
+  "source_id": "1qwx24x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qwx24x/tirz_side_effects/",
+  "author_hash": "0f0062ef117baeda7f964495df06c3cbcd4f8be723ca05504ae72a573e49568b",
+  "confidence_tier": 4,
+  "date_published": "2026-02-05T12:46:21-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 157,
+    "unit": "lbs"
+  },
+  "training_status": "previously active, currently sidelined due to pain",
+  "health_conditions": [
+    "costochondritis",
+    "chronic upper back pain",
+    "ADHD"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "tirzepitide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 11,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Significant reduction in food noise and binge eating urges",
+      "severity": "significant"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Inflammation from costochondritis noticeably reduced, almost numbing effect; especially noted after dropping to 1.25mg",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost approximately 6 pounds (163 to 157 lbs) including pre-tirz calorie deficit week",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Intense nausea even thinking about food at 2.5mg, could barely eat 1500 calories",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "mood_change",
+      "description": "Intense bouts of anxiety, heavy chest feeling 24/7, slight depression; attributed partly to dopamine blunting interacting with ADHD",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "mood_change",
+      "description": "Anhedonia / zombie mode during first week, then progressed to anxiety",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Started calorie deficit one week before tirzepatide. Began at 2.5mg, then reduced to 1.25mg to manage nausea and improve food intake. Considering stopping altogether due to severe anxiety side effects. Interested in KPV for inflammation. Has ADHD and believes dopamine blunting is exacerbating symptoms. Also considering BPC-157 and TB-500 but concerned about stimulant tolerance reports.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121159Z"
+}

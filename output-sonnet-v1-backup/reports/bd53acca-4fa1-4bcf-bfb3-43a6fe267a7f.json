@@ -1,0 +1,64 @@
+{
+  "id": "bd53acca-4fa1-4bcf-bfb3-43a6fe267a7f",
+  "source_id": "1kyofud",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kyofud/best_peptides_to_reduce_inflammation_and_water/",
+  "author_hash": "cfb5cb442b98bf906d8c37c48669e179661678ce715de917a62ba1957e97967d",
+  "confidence_tier": 4,
+  "date_published": "2025-05-29T15:41:09-07:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "water retention",
+    "elevated estrogen (previously E2 76, now managed with AI)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "ghcku",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB4",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Significant water weight gain while on TRT for 6 months",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Total Testosterone",
+      "value_after": 1037,
+      "unit": "ng/dL"
+    },
+    {
+      "marker_name": "Free Testosterone",
+      "value_after": 246
+    },
+    {
+      "marker_name": "E2 (Estradiol)",
+      "value_before": 76,
+      "value_after": 23
+    }
+  ],
+  "protocol_notes": "On TRT for 6 months, taking 0.5mg AI per week. Donated blood once about a month prior. Just ordered a 'glow stack' containing GHK-Cu, BPC-157, and TB4 but has not yet started. Not currently using GH or secretagogues.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.282961Z"
+}

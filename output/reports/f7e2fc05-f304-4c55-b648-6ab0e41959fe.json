@@ -1,0 +1,39 @@
+{
+  "id": "f7e2fc05-f304-4c55-b648-6ab0e41959fe",
+  "source_id": "tujyzs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/tujyzs/semaglutide_is_magic/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2022-04-02T07:21:40-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Gets full very fast and does not crave bad foods",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost over 30 pounds in 2 months without voluntarily restricting calories",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Purchased from Peptidesciences for approximately $255/month. Full dose is 2.4mg but user reports 0.5mg is sufficient. User notes they previously had severe side effects from stimulants (headaches, anxiety, sleep problems, dehydration, heart palpitations).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.702321Z"
+}

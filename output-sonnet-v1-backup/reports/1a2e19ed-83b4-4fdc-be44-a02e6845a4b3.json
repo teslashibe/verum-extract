@@ -1,0 +1,34 @@
+{
+  "id": "1a2e19ed-83b4-4fdc-be44-a02e6845a4b3",
+  "source_id": "132jdr6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/132jdr6/just_taken_2nd_dose_of_semaglutide_but_no_side/",
+  "author_hash": "f614ef5ef3c15ea58d88a53c252be279c6f44cecf4c4792efbe091dca0b30dac",
+  "confidence_tier": 4,
+  "date_published": "2023-04-28T21:40:45-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Minimal noticeable effects at 0.5mg in week 2; previously found 0.25mg did nothing",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Previously obtained Semaglutide from a doctor, then switched to self-sourcing from Triggered Brand. Started at 0.25mg but escalated to 0.5mg due to lack of effect. On week 2 at 0.5mg at time of posting.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.427435Z"
+}

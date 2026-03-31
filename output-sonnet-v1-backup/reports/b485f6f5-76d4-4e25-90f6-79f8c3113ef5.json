@@ -1,0 +1,44 @@
+{
+  "id": "b485f6f5-76d4-4e25-90f6-79f8c3113ef5",
+  "source_id": "1rmrqov",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmrqov/reta_semax_glow_stack/",
+  "author_hash": "6c84861f875bf9ca45c7a32b0ed4b3c832c78ad580b5199f0fb34704980a66e7",
+  "confidence_tier": 5,
+  "date_published": "2026-03-06T14:07:05-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "frequency": "morning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Glow",
+      "name_normalized": "klow",
+      "category": "other",
+      "frequency": "morning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Klow",
+      "name_normalized": "klow",
+      "category": "other",
+      "frequency": "morning",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Glow and Klow negatively affect sleep when not taken in the morning"
+    }
+  ],
+  "protocol_notes": "Takes all three compounds in the morning; notes that Glow and Klow negatively affect sleep.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.111494Z"
+}

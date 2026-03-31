@@ -1,0 +1,33 @@
+{
+  "id": "3ddb6286-1aa2-4eb1-bc10-644b2b0a2c01",
+  "source_id": "1mx2uhe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mx2uhe/ghkcu_weekly_dose_instead_of_daily/",
+  "author_hash": "e5642c5bcebe0af798a9bca329790d4e3da789ae954d4d8f437eca4921fcf0ef",
+  "confidence_tier": 5,
+  "date_published": "2025-08-22T03:30:45-07:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "pain from high weekly dose injection",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "OP considered but ultimately decided against high weekly dose due to injection pain concerns. Taking zinc supplements concurrently. Did not proceed with protocol.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.684011Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "82bfc544-58f4-4ab2-94ab-f23cdf4e675f",
+  "source_id": "1luelnd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1luelnd/moving_from_tirz_to_reta_anyone_try/",
+  "author_hash": "21998af6b5b5a23edfff750c51058ee77ed8eee933063c630c9c7095b83fc829",
+  "confidence_tier": 4,
+  "date_published": "2025-07-07T20:37:31-07:00",
+  "health_conditions": [
+    "high blood pressure"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Blood pressure lowering results; on the cusp of reducing blood pressure medications",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started Reta at 2mg, cut over directly from Tirz without overlap. Body still had residual Tirz for a few weeks while titrating Reta up. Switched specifically for better blood pressure lowering results.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.279633Z"
+}

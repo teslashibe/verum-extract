@@ -1,0 +1,71 @@
+{
+  "id": "e57273b0-f11e-4284-a7b4-45e1fa9f3133",
+  "source_id": "1roez9y",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1roez9y/less_than_a_year_on_retatrutide_and_testosterone/",
+  "author_hash": "de2adb2ec364dd1015344ee21df0d3c99c866e8ef23cf4a9af818db9620d9c89",
+  "confidence_tier": 4,
+  "date_published": "2026-03-08T13:07:37-07:00",
+  "reported_sex": "male",
+  "training_status": "lifting, gym focused",
+  "health_conditions": [
+    "hypogonadism"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 300,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 40 lbs of fat in 9-month deficit",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Gained 10 lbs of muscle",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Energy and happiness, feels like 25 years old again",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Reta crushes appetite",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_before": 132,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "Started Retatrutide at 0.5mg weekly, titrated to 4mg weekly. Initially pinned daily but changed protocol. Started testosterone at 170mg weekly, increased to 300mg weekly cruise dose. Total duration approximately 4 months on Retatrutide. Focused diet on high protein (protein shakes, bars, chicken). Recommends taking breaks after 6 months and eating at maintenance. Original testosterone baseline was 132 ng/dL (hypogonadism).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.655439Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "49b5bd7c-c8ed-4df5-968e-2b354db29220",
+  "source_id": "1p0i2wh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p0i2wh/help_me_design_my_stack/",
+  "author_hash": "12bdd383beb5cd5c5fefc123df7e03e17b0a28278602093e175b4325280cf258",
+  "confidence_tier": 4,
+  "date_published": "2025-11-18T09:27:48-08:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "daily at night",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 20 lbs in 5 weeks on retatrutide and tesamorelin",
+      "severity": "significant",
+      "onset_days": 35
+    }
+  ],
+  "protocol_notes": "On TRT for 1 year. Started Retatrutide 1 month ago. Started Tesamorelin 1 week ago. Target weight loss 40-50 lbs total. Comments that retatrutide caused rapid fat loss.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.677053Z"
+}

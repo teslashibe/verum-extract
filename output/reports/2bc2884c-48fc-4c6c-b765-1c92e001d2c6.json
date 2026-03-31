@@ -1,0 +1,45 @@
+{
+  "id": "2bc2884c-48fc-4c6c-b765-1c92e001d2c6",
+  "source_id": "1ridbfy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ridbfy/newbie_wanting_to_start_reta/",
+  "author_hash": "34d1c3ec50a11a17008919f79914ec852e5949c074c84565ba9b14a0f545acbe",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T15:55:54-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "split weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Noticeable results in 2-4 weeks",
+      "severity": "significant",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "Stack of Reta and Tesamorelin for accelerated results",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.76,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.658124Z"
+}

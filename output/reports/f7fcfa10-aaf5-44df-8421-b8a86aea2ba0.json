@@ -1,0 +1,44 @@
+{
+  "id": "f7fcfa10-aaf5-44df-8421-b8a86aea2ba0",
+  "source_id": "1pwxe25",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pwxe25/cagrilintide/",
+  "author_hash": "6119c194ca2bb360b0c629290f0f29d3ef38e0b4bdae8469313ff4f679c21d25",
+  "confidence_tier": 4,
+  "date_published": "2025-12-27T05:05:32-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 150,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Definitely helps at 1.5mg; nothing felt below 1mg",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "5 month titration from 0.25mg to 1.5mg weekly dose. Non-responder to lower doses.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.389272Z"
+}

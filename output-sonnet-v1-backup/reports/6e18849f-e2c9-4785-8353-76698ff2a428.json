@@ -1,0 +1,65 @@
+{
+  "id": "6e18849f-e2c9-4785-8353-76698ff2a428",
+  "source_id": "1rfvjiw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rfvjiw/moving_from_low_dose_tirzepatide_to_retatrutide/",
+  "author_hash": "e4c2ffe10a1280878a08a6f59913212c43a2f02170bda5b8e4ba53730f2c238a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-26T19:23:59-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide (compounded)",
+      "name_normalized": "tirzepatide_compounded",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 2.2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped 9lbs over approximately 6 weeks on 2.2mg Tirzepatide",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Hunger was completely gone; could easily go 36 hours without desiring any food",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Slight dry mouth",
+      "severity": "mild"
+    },
+    {
+      "category": "other",
+      "description": "Very mild constipation",
+      "severity": "mild"
+    },
+    {
+      "category": "other",
+      "description": "Significant muscle loss attributed to inability to meet protein intake goals due to extreme appetite suppression",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "OP was on compounded Tirzepatide 2.2mg through a telehealth clinic for 6 weeks. Discontinued due to high cost. Planning transition to Retatrutide and asking for advice on tapering protocol. Protein intake was a challenge due to extreme appetite suppression.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114395Z"
+}

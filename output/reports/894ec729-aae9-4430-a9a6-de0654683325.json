@@ -1,0 +1,59 @@
+{
+  "id": "894ec729-aae9-4430-a9a6-de0654683325",
+  "source_id": "1rzerz6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzerz6/mots_c_side_effects/",
+  "author_hash": "fd88984b4aec868cfd5bd4a99505081b4277508e378e2d8cea11930da2103577",
+  "confidence_tier": 4,
+  "date_published": "2026-03-20T18:37:39-07:00",
+  "training_status": "active (workouts)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "3x weekly (Mon/Wed/Fri)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Energy is off the charts",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "Often experiences tachycardia, but has not drawn correlation to MOTS-c in research",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep can be elusive if no physical labor or workout",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Originally tested with 500mcg for tolerance. Currently researching 5mg Mon/Wed/Fri always fasted in AM. Previously used SS-31 and NAD+ before MOTS-c.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660515Z"
+}

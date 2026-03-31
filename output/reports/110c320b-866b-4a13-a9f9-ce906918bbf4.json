@@ -1,0 +1,83 @@
+{
+  "id": "110c320b-866b-4a13-a9f9-ce906918bbf4",
+  "source_id": "1g6d8iv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1g6d8iv/the_craziest_recovery_stack_ever_for_muscle/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2024-10-18T01:27:22-07:00",
+  "training_status": "injured_athlete",
+  "health_conditions": [
+    "chronic_muscle_tears",
+    "scar_tissue_accumulation",
+    "knee_injury",
+    "hamstring_numbness"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 125,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 9,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 125,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 9,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Significant reduction in scar tissue (reported 30-50% reduction after combining peptides with fasting), improved walking comfort, reduction in hamstring numbness",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "inflammation",
+      "description": "Reduced inflammation correlated with scar tissue reduction",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "muscle_cramp",
+      "description": "After rapid scar tissue loss on right leg (which had less scar tissue), caused muscle tears when lying down on right hamstring and quad. Required KT tape stabilization.",
+      "severity": "moderate",
+      "onset_days": 9,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Initial protocol: 125mcg each of BPC-157 and TB-500 injected locally (subcutaneously) across both hamstrings and one quad (375mcg total), twice daily for 3 days on/3 days off cycle. Combined with 9-day green tea fasting (ECGC for autophagy), red light therapy, and electrolyte supplementation (sodium, potassium, magnesium). User later conducted fasting-only experiment and found fasting alone produced similar or better results than peptides. User concluded fasting was more effective for muscle recovery than peptides. Subsequent planned protocol: reduced to 50mcg localized/250mcg minimum systemic, once daily at night, 1 day on/3 days off. User noted initial protocol was too aggressive.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.695772Z"
+}

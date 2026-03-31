@@ -1,0 +1,48 @@
+{
+  "id": "ef056bae-5f5f-48cc-9b1a-43e4cc630580",
+  "source_id": "1rxu7de",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rxu7de/reta_every_63_days/",
+  "author_hash": "fc89164405ac75d88767cb4122b7b53dd8673aa2857e2e493339b1ed09a14e0d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-19T00:48:18-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Maintains appetite suppression control with split dosing",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Very minor skin sensitivity",
+      "severity": "mild"
+    },
+    {
+      "category": "nausea",
+      "description": "Would not eat for 3 days and severe skin sensitivity that made wearing clothes difficult with once-weekly dosing",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Total weekly dose of 7mg split into 1mg daily injections. Converted from weekly dosing due to severe side effects",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.649744Z"
+}

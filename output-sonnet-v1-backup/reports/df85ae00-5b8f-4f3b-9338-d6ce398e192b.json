@@ -1,0 +1,53 @@
+{
+  "id": "df85ae00-5b8f-4f3b-9338-d6ce398e192b",
+  "source_id": "1mak38c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mak38c/update_after_14_days_of_starting_peptides/",
+  "author_hash": "80253c8c427ff34262847358cb0889d55da08e3ebb5994bf80fa025d00c7e959",
+  "confidence_tier": 4,
+  "date_published": "2025-07-27T04:35:31-07:00",
+  "health_conditions": [
+    "knee surgery",
+    "bone graft"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "every day",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Knee healed extremely quickly after knee surgery and bone graft; surgeon and nurses noted exceptionally fast wound healing",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "OP started peptides approximately 14 days prior to this update post. GHK-cu was added in more recently. Surgeon and nursing staff remarked on the speed of healing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.277706Z"
+}

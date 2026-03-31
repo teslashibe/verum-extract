@@ -1,0 +1,57 @@
+{
+  "id": "c9edda80-7e2d-4885-b85e-b8ce5949d356",
+  "source_id": "1r6wmol",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6wmol/are_these_side_effects_normal/",
+  "author_hash": "626c64e6154f1ef0bc4cf1da4a4519be25efb83ec78e767311a7fbd96e7782bd",
+  "confidence_tier": 5,
+  "date_published": "2026-02-16T20:42:42-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1.7,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC w/ DAC",
+      "name_normalized": "cjc_w_dac",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Head got really hot and warm between shoulders",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "appetite_change",
+      "description": "Got hungry",
+      "severity": "mild",
+      "onset_days": 0
+    },
+    {
+      "category": "other",
+      "description": "Gastrointestinal distress / diarrhea",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "First-time peptide user. Reconstituted 10mg Tesamorelin in 3ml BAC water and 5mg CJC w/DAC in 2.5ml BAC water, then drew 0.5ml of each into a 1ml syringe. Comments noted CJC and Tesamorelin are redundant and that Ipamorelin should be stacked instead. Doses calculated by commenter based on reconstitution details.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.117377Z"
+}

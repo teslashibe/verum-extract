@@ -1,0 +1,49 @@
+{
+  "id": "b2ab6d48-6bda-46cf-bdee-17f33acc5424",
+  "source_id": "1dohagi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1dohagi/tirzepatide/",
+  "author_hash": "24cc051b7989cb57bf466174ee4c24f8f562c74feb3ce2889e3bcde506f94b05",
+  "confidence_tier": 4,
+  "date_published": "2024-06-25T14:25:31-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Significant weight loss once dose increased from 2.5mg to 7.5mg; minimal loss in first month at starter dose",
+      "severity": "significant",
+      "onset_days": 30
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Gained 3 lbs in first week on pharmacy Mounjaro (tirzepatide), attributed to ipamorelin",
+      "severity": "moderate",
+      "onset_days": 7,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Used pharmacy Mounjaro formulation. Titrated from 2.5mg starter dose; weight loss accelerated at higher doses.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.414781Z"
+}

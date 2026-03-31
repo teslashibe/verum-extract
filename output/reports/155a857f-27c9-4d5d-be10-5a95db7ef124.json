@@ -1,0 +1,52 @@
+{
+  "id": "155a857f-27c9-4d5d-be10-5a95db7ef124",
+  "source_id": "1rx3dlr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx3dlr/tirz_to_reta/",
+  "author_hash": "685cd04f4218ad6fc1caba6d4b03ca43bd44222a10aadc4697382a5d25ef7099",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T06:06:33-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "ml",
+      "frequency": "every 3 days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "ml",
+      "frequency": "every 3 days",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 41 lbs in 4 months",
+      "severity": "significant",
+      "onset_days": 120
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Wicked cotton mouth on both compounds",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Currently stacking Retatrutide and Tirzepatide alternating every 3 days - pins 2ml Reta, then 3 days later 5ml Tirz, then 3 days later 2ml Reta, and so on. Will discontinue Tirzepatide once current supply runs out and continue with Retatrutide only. Duration: 4 months so far.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.661755Z"
+}

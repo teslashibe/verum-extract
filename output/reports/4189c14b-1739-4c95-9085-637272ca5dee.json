@@ -1,0 +1,86 @@
+{
+  "id": "4189c14b-1739-4c95-9085-637272ca5dee",
+  "source_id": "1mvnmoz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mvnmoz/what_tirz_done_to_me_in_3_months/",
+  "author_hash": "2b071603cdeadba72a13c7be5b4c66e87654bb447b34955f5cfcd9d3c3e9c703",
+  "confidence_tier": 4,
+  "date_published": "2025-08-20T11:49:44-07:00",
+  "reported_sex": "female",
+  "reported_weight": {
+    "value": 140.4,
+    "unit": "lbs"
+  },
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 41.6 lbs over 3 months (from 182 lbs to 140.4 lbs). Reported improved body composition and facial changes.",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Slowed digestion, felt fuller longer, helped achieve caloric deficit without actively restricting intake initially",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Overall improvement in appearance and self-perception of body",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Felt tired with first two injections at each dose increase",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true
+    },
+    {
+      "category": "nausea",
+      "description": "Nauseous if ate too much the day after injection during dose escalation",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Titration schedule: 2.5mg weekly for 4 weeks, then escalated to 5mg weekly, then to 7.5mg weekly. Currently tapering off (took 7.5mg week 1 of taper, 5mg week 2 of taper) to avoid gastrointestinal disruption. Concerned about weight regain post-discontinuation. Initially unable to lose weight with dietary changes alone before starting tirzepatide.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.684188Z"
+}

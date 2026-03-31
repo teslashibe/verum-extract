@@ -1,0 +1,34 @@
+{
+  "id": "aff4876d-afff-43fe-86bf-a54bec587708",
+  "source_id": "1ly9lnd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ly9lnd/bacteriostatic_water_concentrations/",
+  "author_hash": "610920711f4271ca12bf92aabe56e1090d2e9fc525dbaeceda38e43f2a8fda27",
+  "confidence_tier": 4,
+  "date_published": "2025-07-12T12:59:53-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "twice weekly to three times weekly",
+      "cycle_length_days": 35,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Bruising and poor wound healing at injection sites"
+    }
+  ],
+  "protocol_notes": "Reconstitutes 10mg with 10ml bacteriostatic water. Uses twice weekly injections to achieve 2mg per week, with option to add third weekly injection for 3mg per week. Recommends higher dilution (more bacteriostatic water) for better safety, keeping injections under 100 units. Must use entire reconstituted vial within about 5 weeks due to 28-day shelf life. Adjusts protocol based on individual bruising and healing response.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.73,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.687545Z"
+}

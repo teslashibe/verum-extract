@@ -1,0 +1,90 @@
+{
+  "id": "16cfcc32-0a31-4dfd-a841-bb577894cabc",
+  "source_id": "1qeh9rd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qeh9rd/best_growth_hormone_peptide_to_pair_with/",
+  "author_hash": "f4ab4828098df038abfcb4d7ce3fc0c1362317ee5dbdd1e62b26f0fd51eff7e4",
+  "confidence_tier": 4,
+  "date_published": "2026-01-16T06:23:03-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "training_status": "ex natural bodybuilder, currently training seriously",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "frequency": "every 5 days",
+      "cycle_length_days": 49,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "nightly before bed",
+      "cycle_length_days": 49,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "nightly before bed",
+      "cycle_length_days": 49,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep quality greatly improved compared to when not on the blend",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Muscle fullness and pumps are great; muscle retention during cut",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Powerful fat loss; already needing to put brakes on fat loss at 7 weeks",
+      "severity": "significant",
+      "onset_days": 49
+    },
+    {
+      "category": "recovery",
+      "description": "Improved recovery",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Water retention when increased to 2mg tesa; dropped water weight within a couple days after cycle ended",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 2
+    },
+    {
+      "category": "joint_pain",
+      "description": "Joint pain crept in around week 3 but subsided near week 5-6",
+      "severity": "moderate",
+      "onset_days": 21,
+      "resolved": true,
+      "resolution_days": 21
+    }
+  ],
+  "protocol_notes": "37m ex natural bodybuilder. Ran ipa morning fasted, and tesa/ipa evening fasted before bed. Reta dosing progression: 1, 2, 2.5, 3, 3, 4, 4, 5 mg every 5 days. Cycled tesa/ipa up and down due to vacation: 1mg/300mcg at night for 2 weeks, then added same dose morning for ~4 weeks, removed morning dose for 1 week at 1.5mg/450mcg, then 1mg/300mcg nightly until vacation. Also on HCG (water retention source unclear). Multiple pins were complaint due to complexity. Delayed gastric emptying from Reta made evening fasting challenging. Note: water retention may be partly from HCG.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.67095Z"
+}

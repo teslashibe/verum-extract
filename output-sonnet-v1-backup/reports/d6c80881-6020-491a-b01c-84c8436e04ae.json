@@ -1,0 +1,67 @@
+{
+  "id": "d6c80881-6020-491a-b01c-84c8436e04ae",
+  "source_id": "1rr6b3f",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr6b3f/dsip_for_insomnia/",
+  "author_hash": "bcfda9b4bc0bb5d9b7a4e7b28fca5a8fe710cf131f282ea5b014dbf8eb0510bd",
+  "confidence_tier": 4,
+  "date_published": "2026-03-11T14:01:42-07:00",
+  "health_conditions": [
+    "insomnia"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "nightly (2-3 hours before bed)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "frequency": "30 mins before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "30 mins before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "cerebrolysin",
+      "name_normalized": "cerebrolysin",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Able to fall asleep on DSIP; previously could not fall asleep without breathing/mind tricks. Still wakes hourly but gets back to sleep fast.",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "CJC and ipamorelin 30 mins before bed helps with sleep.",
+      "severity": "mild"
+    },
+    {
+      "category": "sleep",
+      "description": "First 2 nights on cerebrolysin resulted in very deep sleep with vivid dreams.",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Works up to 1mg DSIP. Notes that semax and selank should be taken in the morning as they stimulate the brain. Hopes cerebrolysin effects last long-term; believes it resets neurological issues. Warns that taking stimulating peptides at night would cancel out sleep-promoting ones.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109639Z"
+}

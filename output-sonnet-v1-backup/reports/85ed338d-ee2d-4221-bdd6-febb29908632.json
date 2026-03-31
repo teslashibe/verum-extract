@@ -1,0 +1,39 @@
+{
+  "id": "85ed338d-ee2d-4221-bdd6-febb29908632",
+  "source_id": "1r224wg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r224wg/vip_reactions/",
+  "author_hash": "dbfa54b3758cb69dcb656f93c1c2929a546990e96822cae9a0657154b59aa2f7",
+  "confidence_tier": 4,
+  "date_published": "2026-02-11T08:34:37-08:00",
+  "compounds": [
+    {
+      "name_raw": "VIP",
+      "name_normalized": "vip",
+      "category": "immune",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "VIP",
+      "name_normalized": "vip",
+      "category": "immune",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Flushing experienced after increasing dose to 200 mcg; noted as expected",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "On 3rd week of VIP use. Started at 100 mcg with no side effects, then increased to 200 mcg which caused flushing. Considers flushing at 200 mcg expected.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.119055Z"
+}

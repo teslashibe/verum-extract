@@ -1,0 +1,31 @@
+{
+  "id": "f28c313d-a0f5-4d8b-8ba4-422b91202cf4",
+  "source_id": "17ujerw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17ujerw/warning_massive_allergic_reaction_to_tb500/",
+  "author_hash": "9ee93acabfcfca14dc2a85a735f8a8b61398c1256a08c7a3e4bd45b4025fd007",
+  "confidence_tier": 4,
+  "date_published": "2023-11-13T12:03:32-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Patient went into anaphylaxis/shock with airway closing, responded to Benadryl",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Clinical experience: one patient had anaphylactic reaction to intra-articular TB4 (Thymosin Beta 4) injection. Notes that some people can have antibodies to TB4/TB500 despite TB4 being naturally occurring. Now warns patients to stop if hives occur at injection site. No longer uses TB4 for joint injections. Epi-pen was ready during incident.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.418548Z"
+}

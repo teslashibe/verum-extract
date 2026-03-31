@@ -1,0 +1,52 @@
+{
+  "id": "275d9903-e014-4555-9c70-e3d5441e509c",
+  "source_id": "1quw4sr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1quw4sr/reta_sleep_problems/",
+  "author_hash": "1ca36f80b6644cc853bed48a37474ad072f1f199e54bf0617197cd2b9a710215",
+  "confidence_tier": 4,
+  "date_published": "2026-02-03T08:13:13-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 84,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Magnesium Glycinate",
+      "name_normalized": "magnesium_glycinate",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "frequency": "at night",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep problems began once hitting 1mg dose",
+      "severity": "significant"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Magnesium glycinate caused frequent urination at night",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "On 1.5-2mg weekly for 3 months. Using magnesium glycinate as partial countermeasure but caused nocturia. Planning to try Selank at night instead.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.680359Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "41d7b1eb-7fa9-481e-b15c-c226e7dcaa86",
+  "source_id": "1rxho25",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rxho25/37m_im_finally_down_to_198lbs_thanks_to_zepbound/",
+  "author_hash": "37048f25f72afb04a5cd49c3b1c6040abbcc264cf059db5d5401e31e56f7ba0d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T14:56:53-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "cagri",
+      "name_normalized": "cagri",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Added cagrilintide to tirzepatide after plateauing; cagri is great for appetite suppression",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Plateaued on tirzepatide 15mg, added cagrilintide to break plateau. Notes to test pH before every pin and add acetic acid as needed to keep pH at correct level for cagrilintide.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.10662Z"
+}

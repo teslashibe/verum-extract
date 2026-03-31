@@ -1,0 +1,37 @@
+{
+  "id": "7f66a8b9-7ddc-4730-9fdb-3f43630de1f9",
+  "source_id": "1ls7k5c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ls7k5c/bpc157_tb500/",
+  "author_hash": "c4b60a9a8acccd7c3639eb7cb1bac119dec0707d100ec191ee2096b256536096",
+  "confidence_tier": 4,
+  "date_published": "2025-07-05T04:18:16-07:00",
+  "health_conditions": [
+    "AC separation grade 3"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 350,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "faster than expected healing of grade 3 AC separation, achieved 100% recovery",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Injected directly on injury site. Initial dose 350 mcg/day, upped to 500 mcg/day after initial period. Total of about 50 doses. Surgeon was impressed with healing speed. Edit indicates full recovery at 100%.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.688058Z"
+}

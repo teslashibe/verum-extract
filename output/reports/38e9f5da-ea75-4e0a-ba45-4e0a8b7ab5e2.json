@@ -1,0 +1,43 @@
+{
+  "id": "38e9f5da-ea75-4e0a-ba45-4e0a8b7ab5e2",
+  "source_id": "1ndkbtv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ndkbtv/looking_for_suggestions_on_best_peptide_for_fat/",
+  "author_hash": "69bb19225c137f84747946e4546efb9efdadfe134940c1f01ce72223f8e2101b",
+  "confidence_tier": 4,
+  "date_published": "2025-09-10T10:16:57-07:00",
+  "training_status": "diet-dependent",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Tesamorelin hits visceral fat effectively; Retatrutide provides fat loss with less appetite suppression than alternatives",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Retatrutide will suppress some appetite",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Effectiveness contingent on dialed-in diet; Retatrutide described as best option for fat loss with reduced appetite suppression",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.398414Z"
+}

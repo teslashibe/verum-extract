@@ -1,0 +1,46 @@
+{
+  "id": "a57fca51-fc9e-463e-beeb-be9f2b819fc7",
+  "source_id": "1ofz05s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ofz05s/what_are_reasons_to_get_just_ghkcu_over_glow/",
+  "author_hash": "c0b4354dd53e05e8e9c1521b0a40e504efd3c4d7a5934b68c590cdff5c74637d",
+  "confidence_tier": 4,
+  "date_published": "2025-10-25T11:33:46-07:00",
+  "health_conditions": [
+    "autoimmune reaction"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "skin benefits"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "autoimmune reaction to TB-500",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Switched from TB-500 due to autoimmune reaction; now using GHK-Cu for skin benefits only",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.678802Z"
+}

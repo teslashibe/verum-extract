@@ -1,0 +1,69 @@
+{
+  "id": "7cc22bbf-43f4-44d5-a29b-05ea67efb854",
+  "source_id": "1rnwbxi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rnwbxi/is_peptides_safe_to_take_while_on_vyvanse/",
+  "author_hash": "19f17fa36a24013c5aac5a67db8c598da64e54049ac4c1325499cc62256db10c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-07T21:27:42-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Vyvanse",
+      "name_normalized": "vyvanse",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 60,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "No negative interaction with Vyvanse despite forum discussions suggesting otherwise"
+    }
+  ],
+  "protocol_notes": "Currently taking BPC-157, TB-500, HGH, and HCG. Has previously used CJC-1295/Ipamorelin combination. No increased stimulation reported.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.667433Z"
+}

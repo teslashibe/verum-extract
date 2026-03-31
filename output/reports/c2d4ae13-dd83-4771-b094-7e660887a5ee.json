@@ -1,0 +1,71 @@
+{
+  "id": "c2d4ae13-dd83-4771-b094-7e660887a5ee",
+  "source_id": "1p0i2wh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p0i2wh/help_me_design_my_stack/",
+  "author_hash": "3d74877975cd0896e25de53db30f0b460eca07e2cae1f0ecbe59847966102938",
+  "confidence_tier": 4,
+  "date_published": "2025-11-18T09:27:48-08:00",
+  "reported_sex": "male",
+  "training_status": "bodybuilding-adjacent training, legs need development",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Losing 2 lb per week while increasing muscle and strength on reta + tesa + test at week 6",
+      "severity": "significant",
+      "onset_days": 42
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Increasing strength while in body recomposition",
+      "severity": "moderate",
+      "onset_days": 42
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_suppression",
+      "description": "Significant appetite suppression at 3mg/week retatrutide. Struggled to eat. Sick thinking about food at 4mg/week attempted dose.",
+      "severity": "significant",
+      "onset_days": 28,
+      "resolved": true,
+      "resolution_days": 7
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Would starve and not sleep if attempting higher doses",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Height 6'3\". Similar build to OP. At week 4 reached 3mg/week retatrutide and experienced significant appetite suppression. Attempted 4mg/week (2mg dose) and became sick. Reverted to 3mg/week. Recommends starting at 1mg and titrating based on tolerance. Notes retatrutide hit harder than expected. Recommends moderate body fat loss (lean bulk) to preserve muscle while losing fat. Suggests leg training twice weekly for quad/glute and hamstring/glute development. Notes HGH/Tesamorelin may not provide huge advantage over TRT + moderate PEDs + diet + training.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.677053Z"
+}

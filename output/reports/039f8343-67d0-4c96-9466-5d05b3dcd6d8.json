@@ -1,0 +1,42 @@
+{
+  "id": "039f8343-67d0-4c96-9466-5d05b3dcd6d8",
+  "source_id": "1h6h826",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1h6h826/obese_26_year_old_male_considering_peptides/",
+  "author_hash": "b4033fea5a3628cfbd07579d0cb6c455a55558347365208e1db3a3839b321538",
+  "confidence_tier": 4,
+  "date_published": "2024-12-04T06:25:08-08:00",
+  "reported_weight": {
+    "value": 180,
+    "unit": "lbs"
+  },
+  "training_status": "lift heavy 4-5 days per week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 120,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 30 lbs in 4 months",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Maintained at goal weight for 2 months, no loss of strength in gym",
+      "severity": "significant",
+      "onset_days": 120
+    }
+  ],
+  "protocol_notes": "Goal weight 180 lbs. Taking minimum 1 gram protein per pound of goal weight (180g/day). No muscle loss reported despite significant weight loss. Emphasizes that muscle loss on GLP-1s is entirely due to caloric deficit without proper protein and resistance training.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.412284Z"
+}

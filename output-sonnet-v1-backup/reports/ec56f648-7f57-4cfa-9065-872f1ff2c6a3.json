@@ -1,0 +1,73 @@
+{
+  "id": "ec56f648-7f57-4cfa-9065-872f1ff2c6a3",
+  "source_id": "1pu1484",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pu1484/cjc_ipa/",
+  "author_hash": "ce38fefd70fe59143728a450a6788457b63b2186d96499f7e5db11b5994d0d2d",
+  "confidence_tier": 4,
+  "date_published": "2025-12-23T10:22:19-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC no DAC",
+      "name_normalized": "cjc_no_dac",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "before bed, 2-3 hours after a meal",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "before bed, 2-3 hours after a meal",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep is amazing",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Great results overall over 3 months",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Flushing/histamine-like reaction for first 5-10 minutes after injection; vascular system opening up, momentarily lowers blood pressure",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "injection_site",
+      "description": "Injection sites swell up and get slightly itchy like a mosquito bite for the first hour",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "blood_pressure",
+      "description": "One incident of dangerously low blood pressure after combining with Tadalafil while dehydrated; instantly vomited from nausea and heart rate went up to 140s resting for about 30 minutes. No long term damage.",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "nausea",
+      "description": "Instantly vomited during the low blood pressure incident",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Used CJC no DAC + Ipamorelin for 3 months. Pins before bed 2-3 hours after a meal. The severe reaction was a one-time event attributed to concurrent Tadalafil use and dehydration while also taking creatine and liquid glycerol. Notes that staying hydrated is critical and to be cautious about other vasodilating compounds.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.259063Z"
+}

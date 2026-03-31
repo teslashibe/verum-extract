@@ -1,0 +1,55 @@
+{
+  "id": "13befe6b-cea5-4eee-aa5a-8bdef2abdf05",
+  "source_id": "1mrif03",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mrif03/going_from_tirz_to_reta/",
+  "author_hash": "7b88432ddfb4fea1fdc465e6c4602e9eddcf95641cb0069c83d9ce6a2ed63df6",
+  "confidence_tier": 4,
+  "date_published": "2025-08-15T19:40:45-07:00",
+  "training_status": "weight training 6 days a week",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "split into 2 doses",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Feels full after eating less food",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Bloating issues",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_change",
+      "description": "Still able to snack frequently despite appetite suppression",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Week 3 of Retatrutide: started 2mg (split into 2 doses), currently at 4mg (split into 2 doses). Previously on 5-7.5mg Tirzepatide. Switched from Tirzepatide after week 1 of dual use. Considers adding 1mg Tirzepatide back to improve hunger control. Heavy training volume (6x/week) requires high protein intake.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.74,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.401192Z"
+}

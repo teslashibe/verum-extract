@@ -1,0 +1,57 @@
+{
+  "id": "b6a2b93e-24a4-42ed-b521-ed713bde656f",
+  "source_id": "18q1n79",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/18q1n79/which_peptides_are_best_for_antiaging/",
+  "author_hash": "b218dc4fef368bf3e530caf6567ed83af25b6df696682631b5e673ada75d671c",
+  "confidence_tier": 4,
+  "date_published": "2023-12-24T11:10:16-08:00",
+  "reported_sex": "female",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "Increase endogenous GH, youthful skin benefits",
+      "severity": "moderate"
+    },
+    {
+      "category": "skin",
+      "description": "Youthful skin benefits from GHK-Cu",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Benefits from GHK-Cu disappear when discontinuing the peptide",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "CJC-1295 \u0026 Ipamorelin combination to stimulate endogenous GH rather than exogenous HGH replacement. GHK-Cu topical for skin benefits. Recommends joining women's servers for discussion on microneedling and other techniques.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.41774Z"
+}

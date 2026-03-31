@@ -1,0 +1,50 @@
+{
+  "id": "00cd93cf-5672-460f-aa7f-5d5484d8e18d",
+  "source_id": "1mrif03",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mrif03/going_from_tirz_to_reta/",
+  "author_hash": "05016b61d8a5f12a0fd5bfb2880fdc958e1f812b9b8743cb144f421175c4f0b0",
+  "confidence_tier": 4,
+  "date_published": "2025-08-15T19:40:45-07:00",
+  "reported_sex": "male",
+  "training_status": "bodybuilder",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "micro-dose",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "blood_sugar",
+      "description": "Positive impact to blood work when using micro-dose Retatrutide",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "1mg Tirzepatide weekly completely crushes appetite",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Bodybuilder on TRT. Uses micro-dose Retatrutide for blood work benefits and adds 1mg Tirzepatide weekly for appetite suppression. Notes Retatrutide has approximately 1:3 appetite suppression compared to Tirzepatide, and 1:6 compared to Semaglutide. Advocates for increased training intensity and adequate carbohydrate intake for muscle preservation.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.401192Z"
+}

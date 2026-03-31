@@ -1,0 +1,31 @@
+{
+  "id": "21f7438d-a18b-4328-93a4-e895c9a33cac",
+  "source_id": "1qxwnoh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxwnoh/daily_motsc/",
+  "author_hash": "323b05e8a932059479ef8556f8380360a1d1fdb55d8fc8df5ee6c94fd99e37ad",
+  "confidence_tier": 5,
+  "date_published": "2026-02-06T14:53:02-08:00",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Inhibits folate cycle; recommends methylated folate supplementation and breaks from daily dosing",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Daily dose recommended for about one month at a time with breaks; folate cycle inhibition is a concern",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.679183Z"
+}

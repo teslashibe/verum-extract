@@ -1,0 +1,53 @@
+{
+  "id": "1e66b6ab-bedb-4513-b2aa-3fc3455c2e2f",
+  "source_id": "1rpfiad",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpfiad/questions_on_cjc1295ipamorelin/",
+  "author_hash": "1916f79df3b4ffa9f88410b450cef407405f2b179dbbd5bcf41e7ee9aae07fa9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T15:49:04-07:00",
+  "training_status": "good shape",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "4 nights per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "4 nights per week",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "Feeling like a more youthful state",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Feeling great",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "Stated baseline IGF-1 is moderate without peptides, does not require large boost. Planning to check IGF-1 levels in a few months. In significantly better shape than previously.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.654519Z"
+}

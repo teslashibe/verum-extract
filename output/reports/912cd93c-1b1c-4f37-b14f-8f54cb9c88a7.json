@@ -1,0 +1,58 @@
+{
+  "id": "912cd93c-1b1c-4f37-b14f-8f54cb9c88a7",
+  "source_id": "1bk96xj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bk96xj/the_nugget_tesaipa_question/",
+  "author_hash": "6193b1f9ca4005c322ccf0e74640063c6ea0f5df8ceecab18fad0a446b7bf3c5",
+  "confidence_tier": 4,
+  "date_published": "2024-03-21T08:26:42-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "HIIT 3-4x weekly, 30 minutes",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "Looks younger than peers, maintains 20 year old body at middle age",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Maintains 6 pack abs, stays lean and cut",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Feels good overall",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hormonal",
+      "description": "Possible feedback inhibition of natural GH production; gained 20 lbs of belly fat after 3-month break at age 46 despite good diet and exercise",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 150
+    }
+  ],
+  "protocol_notes": "Started at age 40, used for 6 years with protocol of 5 days on, 2 days off, and 1 month off every 6 months. Naturally tall, thin, lanky frame; does not expect huge muscle gains. Diet described as very good. Took 3-month break at age 46 and regained weight within 5 months of restarting.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698353Z"
+}

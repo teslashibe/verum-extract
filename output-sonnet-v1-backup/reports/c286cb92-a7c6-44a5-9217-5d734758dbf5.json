@@ -1,0 +1,58 @@
+{
+  "id": "c286cb92-a7c6-44a5-9217-5d734758dbf5",
+  "source_id": "1pe7a1s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pe7a1s/looking_at_trying_klow_preload_pen/",
+  "author_hash": "0adb9bff94ac143e542a52a9206ef7376a42a934c539b39b95cbfc24e36b21f4",
+  "confidence_tier": 5,
+  "date_published": "2025-12-04T10:12:43-08:00",
+  "health_conditions": [
+    "rosacea",
+    "facial flushing",
+    "Crohn's disease"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "OP is naive to peptides, has not yet started usage. Considering a preloaded KLOW pen (80mg total: 50mg GHK-cu, 10mg BPC, 10mg TB500, 10mg KPV). Interested in benefits for facial redness/rosacea and gut inflammation from Crohn's disease. Asking about dosing and injection frequency.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.26191Z"
+}

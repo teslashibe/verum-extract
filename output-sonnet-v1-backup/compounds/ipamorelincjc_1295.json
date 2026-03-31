@@ -1,0 +1,95 @@
+{
+  "compound_id": "ipamorelincjc_1295",
+  "display_name": "Ipamorelin/cjc-1295",
+  "category": "other",
+  "total_reports": 5,
+  "reports_by_tier": {
+    "4": 4,
+    "5": 1
+  },
+  "top_benefits": [
+    {
+      "category": "fat_loss",
+      "count": 2,
+      "pct": 50
+    },
+    {
+      "category": "appetite_suppression",
+      "count": 1,
+      "pct": 25
+    },
+    {
+      "category": "muscle_gain",
+      "count": 1,
+      "pct": 25
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "other",
+      "count": 2,
+      "pct": 50,
+      "avg_severity": 2
+    },
+    {
+      "category": "flushing",
+      "count": 1,
+      "pct": 25,
+      "avg_severity": 1
+    },
+    {
+      "category": "dizziness",
+      "count": 1,
+      "pct": 25,
+      "avg_severity": 2
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 100,
+      "unit": "mcg",
+      "frequency": "monday through friday",
+      "count": 1,
+      "pct": 20
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 0.75,
+      "unit": "mg",
+      "frequency": "",
+      "count": 1,
+      "pct": 20
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 10,
+      "unit": "IU",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 20
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Reta",
+      "report_count": 1
+    },
+    {
+      "compound_id": "aod_9604",
+      "display_name": "AOD 9604",
+      "report_count": 1
+    }
+  ],
+  "avg_cycle_length_days": 21,
+  "avg_sentiment_score": 0.5,
+  "sentiment_breakdown": {
+    "positive": 2,
+    "mixed": 1,
+    "negative": 2,
+    "neutral": 0
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.971627Z"
+}

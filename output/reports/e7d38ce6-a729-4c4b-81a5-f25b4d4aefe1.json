@@ -1,0 +1,77 @@
+{
+  "id": "e7d38ce6-a729-4c4b-81a5-f25b4d4aefe1",
+  "source_id": "lf5oa9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/lf5oa9/bpc157_report_after_two_weeks_of_use_for_pain/",
+  "author_hash": "461468d240bab444d9e221e0531bd17099e42d17172e2c8e59f3513eb5fcd18a",
+  "confidence_tier": 4,
+  "date_published": "2021-02-07T22:15:33-08:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "collarbone fracture",
+    "shoulder pain",
+    "history of Stage 3a colorectal cancer",
+    "sensitive stomach",
+    "food sensitivity"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 25,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 17,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Shoulder pain from collarbone fracture reduced 30-40% after 4 days, almost completely gone after 2 weeks",
+      "severity": "significant",
+      "onset_days": 4
+    },
+    {
+      "category": "injury_healing",
+      "description": "Miraculous results with pain relief from collarbone fracture",
+      "severity": "significant",
+      "onset_days": 4
+    },
+    {
+      "category": "energy",
+      "description": "Improved energy and feeling good",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "gut_health",
+      "description": "No stomach, digestion issues or sensitivity after 10 years of problems; able to tolerate pizza and chicken wings without gastric distress",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "cognitive",
+      "description": "Improved mental clarity from Thymosin Alpha-1",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Purchased from Peptide Sciences. Injected directly at pain site in trapezius. Wife also used similar dose in hip for chronic pain with positive results after 4 days. User is 10-year cancer survivor with Stage 3a colorectal cancer history (surgery, chemotherapy, radiation therapy).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.131853Z"
+}

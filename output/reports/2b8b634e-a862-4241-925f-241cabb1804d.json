@@ -1,0 +1,65 @@
+{
+  "id": "2b8b634e-a862-4241-925f-241cabb1804d",
+  "source_id": "1drsyw8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1drsyw8/new_to_peptides_want_to_increase_muscle_mass_and/",
+  "author_hash": "a8b92d218acc84b34046edbe88bf922f333956645c04e7cb6dd4b41cf4903199",
+  "confidence_tier": 5,
+  "date_published": "2024-06-29T21:02:31-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Ipamorelin/CJC no DAC for bulking with muscle gains"
+    },
+    {
+      "category": "fat_loss",
+      "description": "GLP-1s (Semaglutide) for appetite suppression and fat loss"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "IGF-1 LR3 great for bulking"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Ipamorelin makes you really hungry"
+    },
+    {
+      "category": "appetite_change",
+      "description": "GLP-1s decrease appetite, making protein intake difficult"
+    }
+  ],
+  "protocol_notes": "Commenter has experience with peptides. Recommends bulk with Ipamorelin+CJC no DAC, then cut with GLP-1s. Notes needing to maintain testosterone. Has no experience with AOD-9604. Protocol discussion, not personal detailed report.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.414713Z"
+}

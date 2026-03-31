@@ -1,0 +1,84 @@
+{
+  "id": "69e1e899-bc6d-44e4-8b12-f678cadc3ab0",
+  "source_id": "1rx3dlr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx3dlr/tirz_to_reta/",
+  "author_hash": "1b9bbfcb72e935329824301ef769c2964f8912c92efbf428f753e863d26153d4",
+  "confidence_tier": 3,
+  "date_published": "2026-03-18T06:06:33-07:00",
+  "training_status": "regular gym-goer",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 12.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 10+kg (22+lb) in 4 weeks, towards the end of weight loss journey",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Mild nausea mostly after eating during week 3",
+      "severity": "mild",
+      "onset_days": 14,
+      "resolved": true
+    },
+    {
+      "category": "appetite_change",
+      "description": "Severe appetite suppression at weeks 4-5+; could not eat at all, even looking at food caused mental repulsion; drinking water was hard, swallowing supplements caused gagging",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "other",
+      "description": "Extremely cold — wearing 2 pairs of socks, using hot water bottle, shivering under blankets on a 23°C day; attributed to severe caloric deficit and glucagon axis stimulation",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "fatigue",
+      "description": "No energy to do anything; workouts were very poor quality despite maintaining gym attendance",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "other",
+      "description": "No bowel movements for 3+ weeks due to severely reduced food intake",
+      "severity": "significant",
+      "onset_days": 21
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body composition (muscle mass)",
+      "timeframe_days": 28
+    }
+  ],
+  "protocol_notes": "Switched from Tirz to reta with no washout. Escalation schedule: week 0 = 7.5mg Tirz, week 1 = 2.5mg Reta, week 2 = 5.0mg Reta, week 3 = 7.5mg Reta, week 4 = 10.0mg Reta, week 5+ = 12.5mg Reta. Was towards end of weight loss journey after 10 months of dieting. DEXA scan confirmed some muscle loss. Retrospectively assessed pushing too hard; set body transformation back 3+ months due to muscle loss. Recommends going slower.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106843Z"
+}

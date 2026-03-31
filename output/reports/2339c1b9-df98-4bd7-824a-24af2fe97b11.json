@@ -1,0 +1,51 @@
+{
+  "id": "2339c1b9-df98-4bd7-824a-24af2fe97b11",
+  "source_id": "1odic0l",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1odic0l/contemplating_daily_dosing_of_tirzepatide/",
+  "author_hash": "b9377bf672a1de3ed0de65f71e8a6c016e2164c4219348d8277665205e631e2a",
+  "confidence_tier": 4,
+  "date_published": "2025-10-22T12:42:09-07:00",
+  "reported_weight": {
+    "value": 180,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 45 lbs from 225 lbs to 180 lbs since late July using every-other-day dosing after previous once-weekly protocol showed no results.",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "No longer experiencing skin reactions (previously had severe skin side effects with once-weekly dosing).",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Skin was on fire with once-weekly 12mg dosing back in Feb/April.",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Previously tried 12mg once weekly in Feb/April with poor results and severe side effects. Stopped for couple months, then started 1mg every other day. Describes current protocol as 'wonderful' with excellent results.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.395234Z"
+}

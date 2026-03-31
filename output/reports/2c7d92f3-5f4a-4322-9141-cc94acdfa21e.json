@@ -1,0 +1,49 @@
+{
+  "id": "2c7d92f3-5f4a-4322-9141-cc94acdfa21e",
+  "source_id": "1r9v80b",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9v80b/beginner_stack/",
+  "author_hash": "044e5c2a50448c656cb565d597e02ac1c0f4a6161166f373fdc8521677173099",
+  "confidence_tier": 4,
+  "date_published": "2026-02-20T05:22:37-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost weight easier with ipa/cjc combination; diet and training contributed more than peptides",
+      "severity": "moderate"
+    },
+    {
+      "category": "skin",
+      "description": "Great results with GHK-Cu over 2 month period. Skin looks and feels better.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Injected GHK-Cu and made topical serum. 2 month cycle. User notes that improved skincare routine (cleanse and moisturize morning/night) may have contributed to skin improvements alongside peptide use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661699Z"
+}

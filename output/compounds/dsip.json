@@ -1,0 +1,209 @@
+{
+  "compound_id": "dsip",
+  "display_name": "DSIP",
+  "category": "sleep",
+  "total_reports": 167,
+  "reports_by_tier": {
+    "4": 124,
+    "5": 43
+  },
+  "top_benefits": [
+    {
+      "category": "sleep",
+      "count": 78,
+      "pct": 62.9
+    },
+    {
+      "category": "fat_loss",
+      "count": 20,
+      "pct": 16.1
+    },
+    {
+      "category": "mood",
+      "count": 9,
+      "pct": 7.3
+    },
+    {
+      "category": "recovery",
+      "count": 8,
+      "pct": 6.5
+    },
+    {
+      "category": "muscle_gain",
+      "count": 7,
+      "pct": 5.6
+    },
+    {
+      "category": "anxiety_relief",
+      "count": 7,
+      "pct": 5.6
+    },
+    {
+      "category": "other",
+      "count": 6,
+      "pct": 4.8
+    },
+    {
+      "category": "energy",
+      "count": 5,
+      "pct": 4
+    },
+    {
+      "category": "appetite_suppression",
+      "count": 5,
+      "pct": 4
+    },
+    {
+      "category": "libido",
+      "count": 5,
+      "pct": 4
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "sleep_disruption",
+      "count": 31,
+      "pct": 25,
+      "avg_severity": 2.2
+    },
+    {
+      "category": "other",
+      "count": 5,
+      "pct": 4,
+      "avg_severity": 2.2
+    },
+    {
+      "category": "appetite_change",
+      "count": 4,
+      "pct": 3.2,
+      "avg_severity": 1.8
+    },
+    {
+      "category": "skin_reaction",
+      "count": 4,
+      "pct": 3.2,
+      "avg_severity": 2
+    },
+    {
+      "category": "mood_change",
+      "count": 3,
+      "pct": 2.4,
+      "avg_severity": 1.3
+    },
+    {
+      "category": "fatigue",
+      "count": 2,
+      "pct": 1.6,
+      "avg_severity": 3
+    },
+    {
+      "category": "injection_site",
+      "count": 2,
+      "pct": 1.6,
+      "avg_severity": 1.5
+    },
+    {
+      "category": "water_retention",
+      "count": 2,
+      "pct": 1.6,
+      "avg_severity": 2.5
+    },
+    {
+      "category": "headache",
+      "count": 2,
+      "pct": 1.6,
+      "avg_severity": 3
+    },
+    {
+      "category": "cardiac",
+      "count": 2,
+      "pct": 1.6,
+      "avg_severity": 2.5
+    },
+    {
+      "category": "nausea",
+      "count": 2,
+      "pct": 1.6,
+      "avg_severity": 2
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 100,
+      "unit": "mcg",
+      "frequency": "",
+      "count": 4,
+      "pct": 2.4
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 1000,
+      "unit": "mcg",
+      "frequency": "every other day",
+      "count": 2,
+      "pct": 1.2
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 1000,
+      "unit": "mcg",
+      "frequency": "3 hours before bed",
+      "count": 2,
+      "pct": 1.2
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 300,
+      "unit": "mcg",
+      "frequency": "every few days",
+      "count": 2,
+      "pct": 1.2
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 200,
+      "unit": "mcg",
+      "frequency": "nightly",
+      "count": 2,
+      "pct": 1.2
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Retatrutide",
+      "report_count": 41
+    },
+    {
+      "compound_id": "epithalon",
+      "display_name": "Epithalon",
+      "report_count": 36
+    },
+    {
+      "compound_id": "ipamorelin",
+      "display_name": "Ipamorelin",
+      "report_count": 31
+    },
+    {
+      "compound_id": "selank",
+      "display_name": "Selank",
+      "report_count": 26
+    },
+    {
+      "compound_id": "cjc_1295_no_dac",
+      "display_name": "CJC-1295",
+      "report_count": 26
+    }
+  ],
+  "avg_cycle_length_days": 45.3,
+  "avg_sentiment_score": 0.666,
+  "sentiment_breakdown": {
+    "positive": 92,
+    "mixed": 23,
+    "negative": 21,
+    "neutral": 31
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T04:48:57.365859Z"
+}

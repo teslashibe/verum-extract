@@ -1,0 +1,69 @@
+{
+  "id": "7eac3712-8457-499a-9d7f-453d9040f6b0",
+  "source_id": "16wumiu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16wumiu/have_my_orchiectomy_in_december_and_want_to/",
+  "author_hash": "6a7e043948c3517f89e43ebfb533a2c2b4633aabfd42d90b03c096e2f9906a13",
+  "confidence_tier": 4,
+  "date_published": "2023-10-01T00:24:51-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "18-24",
+  "training_status": "active (bicycle and gym planned)",
+  "health_conditions": [
+    "post-orchiectomy recovery planned"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MK-677",
+      "name_normalized": "mk_677",
+      "category": "gh_secretagogue",
+      "route": "oral",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "split equally over first week",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Post-surgical wound healing from orchiectomy"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "MK-677 for faster muscle cell creation and recovery"
+    },
+    {
+      "category": "anti_aging",
+      "description": "MK-677 for skin and hair growth benefits"
+    }
+  ],
+  "protocol_notes": "Planning orchiectomy in December 2023. Using MK-677 primarily for transition-related benefits including breast growth via IGF-1 elevation and prolactin increase. Considering adding GHK-Cu based on community feedback. Not planning to double MK-677 dose during recovery based on advice regarding cortisol impact on wound healing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.700554Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "07d46600-3dc1-4134-92da-a6ab078f6a37",
+  "source_id": "111ndl0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/111ndl0/bpc157_really_is_a_miracle_drug/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2023-02-13T15:23:53-08:00",
+  "health_conditions": [
+    "elbow tendonitis",
+    "wrist tendonitis"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Noticeable pain improvement for elbow and wrist tendonitis",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "inflammation",
+      "description": "Anti-inflammatory effects"
+    }
+  ],
+  "protocol_notes": "Oral BPC-157, cost $90 for bottle",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.1285Z"
+}

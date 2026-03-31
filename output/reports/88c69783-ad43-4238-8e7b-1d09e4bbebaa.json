@@ -1,0 +1,72 @@
+{
+  "id": "88c69783-ad43-4238-8e7b-1d09e4bbebaa",
+  "source_id": "1qxa1pa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxa1pa/cjc_1295_no_dac_iplamorelin_side_effects/",
+  "author_hash": "47e679fa9e4b58d48e45808ab6ead0419d86d91faea389fc944512da547ff5ca",
+  "confidence_tier": 4,
+  "date_published": "2026-02-05T22:21:31-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mcg",
+      "frequency": "single dose (test)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mcg",
+      "frequency": "single dose (test)",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "insane hot flush occurring in waves",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    },
+    {
+      "category": "nausea",
+      "description": "crippling nausea for 90+ minutes, persisting 24/7 for 3 days before discontinuation",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": false
+    },
+    {
+      "category": "headache",
+      "description": "headache with compression feeling behind eyes",
+      "severity": "moderate",
+      "onset_days": 1
+    },
+    {
+      "category": "anxiety",
+      "description": "bouts of anxiety, initially described as panic attack onset",
+      "severity": "moderate",
+      "onset_days": 0
+    },
+    {
+      "category": "appetite_change",
+      "description": "virtually no appetite",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Reconstituted with 7ml BAC water mixed with 5mg CJC-1295 No DAC + 5mg Ipamorelin. Injected 0.03ml via pen. User suspected vial contained GHRP-2 instead of Ipamorelin due to severe adverse reaction. Previous successful protocol: 40 mcg CJC-1295 (No DAC) + 40 mcg Ipamorelin dosed twice daily from compounding chemist with no side effects. This batch was from alternative/different source.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.67955Z"
+}

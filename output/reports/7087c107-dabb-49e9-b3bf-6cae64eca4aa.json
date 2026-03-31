@@ -1,0 +1,70 @@
+{
+  "id": "7087c107-dabb-49e9-b3bf-6cae64eca4aa",
+  "source_id": "1qxg0ta",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxg0ta/best_options_for_recomp/",
+  "author_hash": "4d107f38125afe7e5d966fca7a32e9a6f7d571f708d8c49385f7284ca808bd41",
+  "confidence_tier": 4,
+  "date_published": "2026-02-06T04:15:28-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 97,
+    "unit": "kg"
+  },
+  "training_status": "kickboxing twice per week, other workouts during the week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss from 104.8kg to 97kg over 5 weeks",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Recomposition goal with muscle maintenance",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Total Testosterone",
+      "value_before": 435,
+      "unit": "ng/dL or similar"
+    },
+    {
+      "marker_name": "Free Testosterone",
+      "value_before": 0.279,
+      "unit": "nmol/L"
+    }
+  ],
+  "protocol_notes": "Started at 2mg/week for 4 weeks, bumped to 3mg/week at week 5, intends to continue 3mg for 4 weeks and potentially bump to 4mg. Considering adding Tesamorelin, CJC-1295 with Ipamorelin, and/or TRT (150mg/week) with HCG. Previously used HGH a few years ago but came off due to attempting to conceive. Has 3 children.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.666732Z"
+}

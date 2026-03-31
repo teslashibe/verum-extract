@@ -1,0 +1,79 @@
+{
+  "id": "12b7a3a0-86a9-46d5-9355-694906bc183c",
+  "source_id": "1mteslc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mteslc/struggling_with_sleeping_on_retra/",
+  "author_hash": "bbd92ae7b95772b5465c48da8a3b6e2ab459074a1fe832d679f0bccff6e0dae2",
+  "confidence_tier": 4,
+  "date_published": "2025-08-17T23:55:44-07:00",
+  "training_status": "physically active (carpenter)",
+  "health_conditions": [
+    "insomnia"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 750,
+      "dose_unit": "mcg",
+      "frequency": "twice a week",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Vyvanse",
+      "name_normalized": "vyvanse",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 30,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Trazodone",
+      "name_normalized": "trazodone",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Melatonin",
+      "name_normalized": "melatonin",
+      "category": "other",
+      "route": "oral",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "weight loss",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "lack of side effects (aside from sleep)",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "severe insomnia, unable to fall asleep, spends hours staring at ceiling despite trazodone and melatonin",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "On 1.5mg retatrutide total weekly (750mcg twice a week). Estimated caloric deficit of ~500 cal/day. Also taking Vyvanse 30mg daily.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.684336Z"
+}

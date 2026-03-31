@@ -1,0 +1,54 @@
+{
+  "id": "8d75b1df-d703-4ea3-ad46-3ab2f40f2af5",
+  "source_id": "1g5hs6m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1g5hs6m/what_are_some_things_you_wish_you_knew_before/",
+  "author_hash": "a457bf8ffb4fd9cc5c830d9869cd85b2016dd59ec18ffc83279648f22d5d82e0",
+  "confidence_tier": 4,
+  "date_published": "2024-10-16T20:30:44-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "athletic (snowboarding, lifting)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Increased snowboarding frequency from 4 days/year to 40 days/year",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "3 rep max lifting increased by 20-30% over 4 weeks",
+      "severity": "significant",
+      "onset_days": 28
+    },
+    {
+      "category": "recovery",
+      "description": "Increased flexibility noticeably",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Protocol: 4 weeks on, 4 weeks off, 4 weeks on, 4 weeks off, 4 weeks on (approximately 10 years ago when in middle 40s). Emphasized importance of proper diet, supplements, and sleep for peptide efficacy.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.695833Z"
+}

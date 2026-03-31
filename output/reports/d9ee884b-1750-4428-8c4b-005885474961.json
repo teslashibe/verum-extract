@@ -1,0 +1,62 @@
+{
+  "id": "d9ee884b-1750-4428-8c4b-005885474961",
+  "source_id": "1ruc2ec",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ruc2ec/what_about_my_stack/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T04:49:54-07:00",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "once weekly (Monday)",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "once weekly (Tuesday)",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW80",
+      "name_normalized": "klow",
+      "category": "other",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "4x weekly (Monday, Tuesday, Thursday, Friday evenings)",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "once weekly (Thursday)",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Stack designed for fat and weight loss"
+    }
+  ],
+  "protocol_notes": "KLOW80 is not a standard canonical peptide name and may be a vendor blend or proprietary formulation. Route of administration not specified for any compound.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.651796Z"
+}

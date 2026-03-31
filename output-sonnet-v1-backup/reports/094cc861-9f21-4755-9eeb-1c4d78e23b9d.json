@@ -1,0 +1,58 @@
+{
+  "id": "094cc861-9f21-4755-9eeb-1c4d78e23b9d",
+  "source_id": "1k74ace",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k74ace/doctor_offering_dsip_deltasleepinducing_peptide/",
+  "author_hash": "26dcbda6d03cab1085df6a6d5dd7208181a34cd2e131a1514e56a0a0be045e51",
+  "confidence_tier": 4,
+  "date_published": "2025-04-24T14:42:54-07:00",
+  "health_conditions": [
+    "insomnia"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Felt more rested on first two days; got about 6-7 hours and felt rested on subsequent days; believes it helps calibrate sleep cycles",
+      "severity": "mild",
+      "onset_days": 1
+    },
+    {
+      "category": "cognitive",
+      "description": "Felt similar to psilocybin or post-psychedelic neutral feeling; experienced memory processing and felt less emotional the next day; describes restful sleep quality",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Waking up 1 hour earlier than normal",
+      "severity": "mild"
+    },
+    {
+      "category": "other",
+      "description": "Did not fall asleep immediately on first two days of use",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 2
+    }
+  ],
+  "protocol_notes": "Purchased 5mg bottle; dosing at 250mcg per night gives approximately 20 nights of use. Notes that it does not knock you out instantly at high doses but has heard it can at 500mcg. Believes it does not need to be used consistently.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.285265Z"
+}

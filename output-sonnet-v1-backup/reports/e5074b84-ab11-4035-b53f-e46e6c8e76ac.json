@@ -1,0 +1,92 @@
+{
+  "id": "e5074b84-ab11-4035-b53f-e46e6c8e76ac",
+  "source_id": "1rs9o3h",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rs9o3h/my_stack_observations_3_weeks_in/",
+  "author_hash": "ba1c5ea822532142289b001ebca2e11b8589d32916d90807c7bb3d6b9329cc0f",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T18:21:31-07:00",
+  "training_status": "Training 6 days a week, 14-18k steps a day, in and out of gym for years but recently inactive; restarted gym October 1st, lapsed over Christmas, restarted February 25th",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC 1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "3x daily (morning fasted, post-gym, before bed fasted)",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "3x daily (morning fasted, post-gym, before bed fasted)",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Down 15lbs or more in approximately 3 weeks",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Significant strength gains noticed; uncertain if from peptides, creatine, or training",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "A bit of nausea during the first week or two, not particularly bothersome",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 14
+    }
+  ],
+  "protocol_notes": "Also taking creatine. Pins 3x daily: morning fasted, after gym (waits 45 min before eating), and before bed fasted. Reported sleep is still a bit off and recovery times not as expected. Accidentally took 2mg CJC 1295 on one occasion by mistaking the vial for Retatrutide.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109181Z"
+}

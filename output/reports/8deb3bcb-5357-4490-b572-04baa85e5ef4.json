@@ -1,0 +1,83 @@
+{
+  "id": "8deb3bcb-5357-4490-b572-04baa85e5ef4",
+  "source_id": "1qqwqer",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqwqer/reta_and_hgh/",
+  "author_hash": "d9a93956966dfb667b433106f3a74be64ecb0982d46754636f10706a12eebffa",
+  "confidence_tier": 4,
+  "date_published": "2026-01-29T21:28:31-08:00",
+  "training_status": "advanced",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone Propionate",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 75,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Masteron Propionate",
+      "name_normalized": "masteron_propionate",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Trenbolone Acetate",
+      "name_normalized": "trenbolone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 30,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 8,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "strength",
+      "description": "Making strength gains while cutting",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Cutting to 12% body fat then will bulk",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Feels like superman on this stack",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Advanced user stack including Test P 75mg ED, Mast P 50mg ED, Tren 30mg ED, HGH 8IU ED, Reta 4mg/week, plus Selank and MOTS-c peptides. Noted as not a beginner stack.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669237Z"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a0a7a704-91de-4940-9d56-2cd3cd9cb307",
+  "source_id": "1rsn22v",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rsn22v/libido_loss_on_a_retatirz/",
+  "author_hash": "0804be62105a04e2155a727f20b89c4545a206a0b20e146b242ed084edb500a1",
+  "confidence_tier": 4,
+  "date_published": "2026-03-13T06:16:26-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Reached desired leanness with reta; tirz reduces food noise",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Tirz gets rid of food noise better than reta",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "libido_change",
+      "description": "Significant libido loss, considering stopping both compounds",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "OP describes being extremely lean. Plans to potentially switch to microdosing tirz only for cost effectiveness. States doses are titrated to feel exactly right aside from libido issue.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109017Z"
+}

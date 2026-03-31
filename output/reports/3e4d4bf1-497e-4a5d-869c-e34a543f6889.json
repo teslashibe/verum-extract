@@ -1,0 +1,44 @@
+{
+  "id": "3e4d4bf1-497e-4a5d-869c-e34a543f6889",
+  "source_id": "1rmthrk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmthrk/is_this_dosing_too_low/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2026-03-06T15:17:38-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.4,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.4,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Attempting to lose abdominal fat"
+    }
+  ],
+  "protocol_notes": "IPA/Tesa blend from men's health clinic. User concerned that tesamorelin dose of 0.4mg is below typical protocols (1-2mg nightly). Body composition: 16% body fat at age 25.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.667788Z"
+}

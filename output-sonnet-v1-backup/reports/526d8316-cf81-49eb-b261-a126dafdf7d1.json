@@ -1,0 +1,53 @@
+{
+  "id": "526d8316-cf81-49eb-b261-a126dafdf7d1",
+  "source_id": "1kw83hc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kw83hc/pt141/",
+  "author_hash": "4acab240e48459ac90c7b2805d865f99b7d80ce518bdbdc8cc17589df86769b1",
+  "confidence_tier": 4,
+  "date_published": "2025-05-26T15:57:14-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "libido",
+      "description": "After 3mg dose experienced soft erection approximately 80% of the day and night for 5 days following flu-like symptoms",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Flushing noted at 1.25-2mg doses",
+      "severity": "mild"
+    },
+    {
+      "category": "nausea",
+      "description": "Nausea on first two uses at 1.25-2mg",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Flu-like symptoms for 24 hours at 3mg dose, felt like death",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Tried 1.25mg up to 2mg with no libido effects, only flushing and mild nausea. Tried 3mg twice; second try produced flu-like symptoms for 24hrs followed by 5 days of persistent erections.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.283426Z"
+}

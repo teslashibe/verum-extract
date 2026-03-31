@@ -1,0 +1,41 @@
+{
+  "id": "392d8fbd-51e8-46a5-9df5-16ea5640a6a8",
+  "source_id": "1kbrmnl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kbrmnl/ghkcu_cured_my_canker_sores/",
+  "author_hash": "cdefa29d72842a9bef843a77de62d3664dc8412f80ced804e3162137a04ef5a6",
+  "confidence_tier": 4,
+  "date_published": "2025-04-30T14:15:51-07:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Zinc",
+      "name_normalized": "zinc",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Exhaustion, feels almost as if blood pressure is low",
+      "severity": "significant"
+    },
+    {
+      "category": "headache",
+      "description": "Terrible headache when taking GHK-Cu",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User continues taking GHK-Cu despite side effects due to known benefits. Inquiring about optimal zinc dosing and timing of GHK-Cu administration.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.408824Z"
+}

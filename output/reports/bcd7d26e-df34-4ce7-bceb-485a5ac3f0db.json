@@ -1,0 +1,59 @@
+{
+  "id": "bcd7d26e-df34-4ce7-bceb-485a5ac3f0db",
+  "source_id": "1r1iz44",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r1iz44/how_to_startadvice_please/",
+  "author_hash": "9bb6f5dbe260f936f1c9b3c2a63ecbef3251819f866be3f3030e23533f030809",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T16:56:11-08:00",
+  "reported_sex": "male",
+  "training_status": "lifter",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 365,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 45 lbs on semaglutide",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "couldn't stop eating garbage no matter how much lifted; semaglutide helped control eating habits",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "changed everything",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "GI side effects from ramping up too fast; spent a weekend miserable",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body weight",
+      "unit": "lbs",
+      "timeframe_days": 365
+    }
+  ],
+  "protocol_notes": "Started semaglutide about a year ago; advice to go low and slow with dosing to avoid GI side effects; uses PepMinder for reconstitution calculations",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677666Z"
+}

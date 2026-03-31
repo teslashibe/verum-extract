@@ -1,0 +1,32 @@
+{
+  "id": "f9f14a46-eb82-4a80-bd5e-a331a21f6042",
+  "source_id": "1rryih0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rryih0/motsc_im_injection/",
+  "author_hash": "c6532060237b939c98700cae3b16ac921daef2218d7c804cc8dc97243e4b4d4d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T11:16:00-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Histamine response with injection site irritation; reduced by 90% after diluting with more BAC water and allowing syringe to warm to room temperature for 20-30 minutes",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Protocol modification: dilute MOTS-C with additional BAC water and warm syringe to room temperature (20-30 minutes) before injection. Reports mild burning sensation after modification but 90% reduction in histamine response/skin reaction compared to previous protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.652887Z"
+}

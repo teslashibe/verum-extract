@@ -1,0 +1,64 @@
+{
+  "id": "1bdf6468-a363-4e92-8d1d-4bb513831e64",
+  "source_id": "1nkh63c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nkh63c/bpc_effects/",
+  "author_hash": "9aced6c4f750e7d15304345e75ba91051f44bbf03471bbf070a85bb02414475a",
+  "confidence_tier": 4,
+  "date_published": "2025-09-18T12:03:19-07:00",
+  "training_status": "resistance training",
+  "health_conditions": [
+    "meniscus injury"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Full range of motion restored in knee after meniscus injury that prevented squats below parallel",
+      "severity": "significant",
+      "onset_days": 20
+    },
+    {
+      "category": "joint_pain",
+      "description": "Pain did not return after stopping cycle, full ROM maintained",
+      "severity": "significant",
+      "onset_days": 20
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Reaction from CJC/IPA, cycle stopped at 4-5 weeks",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "BPC-157 with CJC-1295/Ipamorelin stack. Injury duration: 3 months. Cycle length: 4-5 weeks. Notes that injury was not fully healed despite improvement.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.681484Z"
+}

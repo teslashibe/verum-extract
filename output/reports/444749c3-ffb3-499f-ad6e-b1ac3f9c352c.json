@@ -1,0 +1,41 @@
+{
+  "id": "444749c3-ffb3-499f-ad6e-b1ac3f9c352c",
+  "source_id": "1qr4416",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qr4416/why_isnt_ghkcu_dosage_based_on_age/",
+  "author_hash": "19b68f3c5a06c0314fbb294012509b302039941f5052f337faec9cc1cdd0298f",
+  "confidence_tier": 4,
+  "date_published": "2026-01-30T04:28:39-08:00",
+  "reported_age_range": "25-29",
+  "health_conditions": [
+    "seborrheic dermatitis",
+    "acne scars",
+    "hypothyroidism",
+    "hair loss"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "reduced redness and dryness, fine lines and scars less visible",
+      "severity": "moderate",
+      "onset_days": 30
+    }
+  ],
+  "protocol_notes": "User is 24 years old with seborrheic dermatitis, acne scars, and hypothyroid-related hair loss. Noticed benefits after approximately one month of use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.682116Z"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ab299c7c-92ed-4c71-bd45-9ee917d18f7b",
+  "source_id": "1rc2y1k",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rc2y1k/chronic_shoulder_pain_bpc_and_tb/",
+  "author_hash": "9bfca284187fc2e5f907fc6589d0ce04e70a2c1bb9e5ca935e0d2b70d209fa4a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-22T16:42:05-08:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "shoulder arthritis",
+    "glenohumeral joint cartilage loss"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "cycle_length_days": 50,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "cycle_length_days": 50,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "cycle_length_days": 50,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Potential improvement in shoulder arthritis pain"
+    }
+  ],
+  "protocol_notes": "User has ordered compounds and plans to run 50-day cycle. Awaiting delivery. Planning to update progress. Considering this as alternative or adjunct to shoulder replacement surgery.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.673338Z"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "c529214a-6b47-4bcb-8cec-7dc3cd21ea58",
+  "source_id": "1hqojs9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1hqojs9/what_would_you_say_is_the_ideal_fat_loss_peptide/",
+  "author_hash": "55d5383f03fe87cdd124b744cd8afe94cbc6c94752c60be1ef1ae6bbbd6e5a87",
+  "confidence_tier": 4,
+  "date_published": "2024-12-31T13:32:25-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "frequency": "daily up to weekly dosing",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 300,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Planning to trial Retatrutide after poor response to Semaglutide"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Intense nausea reported with Semaglutide regardless of dosing approach",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Acute constipation with Semaglutide",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "appetite_change",
+      "description": "No loss of appetite despite Semaglutide use",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Tried Semaglutide with slow titration (daily up to weekly) without success; Retatrutide order pending",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.69473Z"
+}

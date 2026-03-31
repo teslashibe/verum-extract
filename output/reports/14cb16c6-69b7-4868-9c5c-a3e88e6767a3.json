@@ -1,0 +1,42 @@
+{
+  "id": "14cb16c6-69b7-4868-9c5c-a3e88e6767a3",
+  "source_id": "1pdif9n",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pdif9n/cjc/",
+  "author_hash": "b0806a01e21a99c206d616166c891e737219bea2c6d62e936250ccafd0aade7a",
+  "confidence_tier": 4,
+  "date_published": "2025-12-03T14:20:51-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHRP-6",
+      "name_normalized": "ghrp_6",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "noticed big time changes when switched from CJC alone to Ipamorelin + GHRP-6",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "CJC by itself showed minimal results before switching protocols.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.39178Z"
+}

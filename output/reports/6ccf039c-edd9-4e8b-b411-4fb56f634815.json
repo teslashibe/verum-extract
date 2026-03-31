@@ -1,0 +1,85 @@
+{
+  "id": "6ccf039c-edd9-4e8b-b411-4fb56f634815",
+  "source_id": "1mztb1s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mztb1s/peptides_for_eds_ehler_danlos_syndrome/",
+  "author_hash": "8eb0b8fb4d10a1083c77fc23792de8326f26235d8fb1d45ccb695b9deb70486d",
+  "confidence_tier": 4,
+  "date_published": "2025-08-25T08:17:32-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Energy levels comparable to 1 in 30s (referring to mother's experience)",
+      "severity": "significant"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Almost all knee and neck/shoulder pain resolved",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Injection can sting due to low pH of GHK-Cu",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Tested Wolverine blend (BPC-157 + TB-500) for 1 month, then switched to KLOW blend (BPC-157 + TB-500 + GHK-Cu + KPV) for almost 1 month. Reports significant preference for KLOW despite higher cost. Mentions mother is 56 years old with long-standing knee and neck/shoulder pain. Stinging sensation can be mitigated by warming syringe to room temperature and injecting slowly.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.400163Z"
+}

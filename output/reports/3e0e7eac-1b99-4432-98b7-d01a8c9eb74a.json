@@ -1,0 +1,68 @@
+{
+  "id": "3e0e7eac-1b99-4432-98b7-d01a8c9eb74a",
+  "source_id": "1mdymo0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mdymo0/where_can_i_optimize_full_stack_listed/",
+  "author_hash": "75d8bfbe01a3761ad7ea2b5f0d1804121c8cb33f700d1eadffd3ef2fb809b5d9",
+  "confidence_tier": 4,
+  "date_published": "2025-07-31T04:07:55-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 195,
+    "unit": "lbs"
+  },
+  "training_status": "weightlifting 5 days a week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "4x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 20 lbs from March to July 2025 (215 to 195 lbs)",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Continued muscle building while cutting",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Tirzepatide makes it hard to eat, difficulty hitting protein targets",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Poor sleep quality despite no current benzodiazepine use",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started TRT in March 2025. On Tirzepatide since June 2025. Currently at 7.5mg once weekly. Diet includes 100-125g protein daily, low carb, no processed foods/sugars. Also taking extensive supplement stack: multivitamins, magnesium, vitamin D, vitamin B, L-theanine, L-tyrosine, amino acids, Cialis 5mg daily, Reishi, Lions Mane, Ashwagandha, ALA, ENL, Fiber, Pre/probiotics, Milk Thistle, BROM, DIM, NAC, Zinc, L-Arginine, Fish Oil, Creatine. Starting weight was 215 lbs in March. Goals are to optimize fat loss (particularly lower abdomen), continue cutting while building muscle, and improve anxiety and focus.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.685838Z"
+}

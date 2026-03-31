@@ -1,0 +1,75 @@
+{
+  "id": "ef4f8b8e-c8b5-4f4f-b7e6-1f733076fe31",
+  "source_id": "1rzerz6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzerz6/mots_c_side_effects/",
+  "author_hash": "1446d00d4a53e09a9c784e1a147f3cebb2c764cdbb7f2dd229d4485c839410fe",
+  "confidence_tier": 4,
+  "date_published": "2026-03-20T18:37:39-07:00",
+  "reported_age_range": "40-49",
+  "training_status": "active (lifting, cardio)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Great energy boost immediately after injection, felt great all day",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "Chest tightening after lifting, heart rate elevated to 160-170 during exercise (normally 130-140), resting heart rate gradually increasing throughout the week",
+      "severity": "significant",
+      "onset_days": 6
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep has been inconsistent, body more activated at nighttime",
+      "severity": "moderate",
+      "onset_days": 1
+    },
+    {
+      "category": "anxiety",
+      "description": "Stress levels elevated per whoop tracking",
+      "severity": "moderate",
+      "onset_days": 6
+    },
+    {
+      "category": "injection_site",
+      "description": "Burning sensation at injection site when using 500mcg dose",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "resting heart rate",
+      "unit": "bpm",
+      "timeframe_days": 7
+    },
+    {
+      "marker_name": "stress level",
+      "unit": "whoop measurement",
+      "timeframe_days": 7
+    }
+  ],
+  "protocol_notes": "10mg bottle reconstituted with 2cc water; taking 1/10th cc per injection (500mcg). Also on TRT for 12 years. Seasonal allergies started around same time as peptide use. Using whoop bracelet for tracking.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660515Z"
+}

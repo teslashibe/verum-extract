@@ -1,0 +1,43 @@
+{
+  "id": "3c51ea3d-f268-4d2e-8134-a5872acd1fc4",
+  "source_id": "na2a95",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/na2a95/my_dad_65_wants_to_know_the_best_peptides_for/",
+  "author_hash": "3bc2988e272be72e65b5bf23cba07e9b128269c83bf1c832aba86419f4b9272e",
+  "confidence_tier": 4,
+  "date_published": "2021-05-11T10:22:11-07:00",
+  "reported_sex": "male",
+  "training_status": "active",
+  "health_conditions": [
+    "gut issues"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Healing gut issues picked up while on vacation in Mexico. Was sick for a year or so, finally starting to feel better",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_before": 350,
+      "value_after": 1500,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "Using testosterone pellets (not peptide). Also using BPC-157 to heal gut issues",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.131577Z"
+}

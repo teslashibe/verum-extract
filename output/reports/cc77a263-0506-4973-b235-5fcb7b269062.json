@@ -1,0 +1,56 @@
+{
+  "id": "cc77a263-0506-4973-b235-5fcb7b269062",
+  "source_id": "1qt5m91",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qt5m91/tirz_has_been_amazing_for_weight_loss_but_i_want/",
+  "author_hash": "3d786331454dfb0148c2e3e0eeab7707be00d137f3375c084bf3856a8ee0de21",
+  "confidence_tier": 4,
+  "date_published": "2026-02-01T10:02:19-08:00",
+  "reported_sex": "male",
+  "training_status": "actively lifting",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 300,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Trenbolone",
+      "name_normalized": "trenbolone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Still packing on muscle while cutting",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User reports dosages kept low enough to minimize side effects. Stack intended for muscle gain during cutting phase.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.681438Z"
+}

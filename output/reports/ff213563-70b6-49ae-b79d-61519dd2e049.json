@@ -1,0 +1,46 @@
+{
+  "id": "ff213563-70b6-49ae-b79d-61519dd2e049",
+  "source_id": "1c37s5x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1c37s5x/considering_tesamorelin_ipamorelin_cjc_1295_stack/",
+  "author_hash": "25bb5309508be7524de2237ea036974c225fd21ac07b901d4467f623a522246c",
+  "confidence_tier": 4,
+  "date_published": "2024-04-13T10:54:16-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "once daily at night",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "once daily at night",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Hard to get sleep on the blend",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Been on blend for 5 weeks. Dosing 1 mg Tesamorelin and 100 mcg Ipamorelin at night. Planning to separate compounds: Tesamorelin at night and Ipamorelin in morning with or without Tesamorelin to mitigate sleep issues.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.697979Z"
+}

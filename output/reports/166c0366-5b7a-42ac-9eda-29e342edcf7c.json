@@ -1,0 +1,91 @@
+{
+  "id": "166c0366-5b7a-42ac-9eda-29e342edcf7c",
+  "source_id": "1nbr1st",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nbr1st/peptide_stack_for_muscle_growth_and_to_lean_out/",
+  "author_hash": "40255abdade3cfac2d8efe3890de8c18ab73f69496f3114225da13af1b088189",
+  "confidence_tier": 3,
+  "date_published": "2025-09-08T08:37:23-07:00",
+  "training_status": "intermediate to advanced",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 7 pounds of fat in second month",
+      "severity": "moderate",
+      "onset_days": 30
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Gained 5 pounds of muscle verified by body scan",
+      "severity": "moderate",
+      "onset_days": 30
+    },
+    {
+      "category": "body_composition",
+      "description": "Dropped from 34 inch waist to 32 inch waist",
+      "severity": "moderate",
+      "onset_days": 30
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Adding 2-4 reps every workout, progression accelerated weeks 5-8",
+      "severity": "significant",
+      "onset_days": 35
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "unit": "percentage",
+      "timeframe_days": 56
+    },
+    {
+      "marker_name": "lean muscle mass",
+      "unit": "lbs",
+      "timeframe_days": 56
+    }
+  ],
+  "protocol_notes": "First stack. Ran for 8 weeks total. Results best weeks 5-8. Afterwards took 8 weeks off and tried GHRP-2/Sermorelin (disliked) then switched to HGH.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.398659Z"
+}

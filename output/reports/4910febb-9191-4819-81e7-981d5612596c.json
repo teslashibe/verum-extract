@@ -1,0 +1,58 @@
+{
+  "id": "4910febb-9191-4819-81e7-981d5612596c",
+  "source_id": "1jt0tpd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jt0tpd/sermorelin/",
+  "author_hash": "e4c1d2e3f940d6ccc365dd0ddbf3e41fe8f89a5736cb2f925e1edd6f145ee452",
+  "confidence_tier": 4,
+  "date_published": "2025-04-06T11:26:09-07:00",
+  "training_status": "active (gym workouts mentioned)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 600,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep like a baby",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Gym workouts much better",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Skin looks clearer and better",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Better energy day after shot",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "6 weeks in at time of report. Moving from 600mcg to 800mcg sermorelin. Stack with Ipamorelin 100mcg.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.9,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.692856Z"
+}

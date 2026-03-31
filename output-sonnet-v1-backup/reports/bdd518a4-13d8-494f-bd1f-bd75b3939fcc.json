@@ -1,0 +1,41 @@
+{
+  "id": "bdd518a4-13d8-494f-bd1f-bd75b3939fcc",
+  "source_id": "1qx614h",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qx614h/5_amino_1mq/",
+  "author_hash": "c52641ef805d6c56418a5eb0226aecaa53766dbcba61b5dbea74ebe59e2775af",
+  "confidence_tier": 4,
+  "date_published": "2026-02-05T18:59:24-08:00",
+  "compounds": [
+    {
+      "name_raw": "5-amino-1mq",
+      "name_normalized": "5_amino_1mq",
+      "category": "body_composition",
+      "route": "oral",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "1x daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+ sublingual",
+      "name_normalized": "nad_sublingual",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NMN powder",
+      "name_normalized": "nmn_powder",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "On 5-amino-1MQ caps 50mg/day for about 3 weeks. Also takes NAD+ sublingual and NMN powder. Cannot detect any difference from the 5-amino-1MQ compared to NMN alone. Finds NAD+ sublingual also adds nothing noticeable. Believes NMN is beneficial. Will not continue 5-amino-1MQ once supply runs out.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121073Z"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "ee43cf2f-9e8c-4ddf-9e26-85e2dde326e1",
+  "source_id": "1mz0i47",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mz0i47/solved_epitalon_dosing_timing_and_strength_for/",
+  "author_hash": "cdea8aad9ed216f4fedb15a8c4c95501e6242df4cf4fb28925449ad9d990747d",
+  "confidence_tier": 4,
+  "date_published": "2025-08-24T09:40:50-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "sleep fragmentation",
+    "early waking (3-4:30am)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "5 days on / 2 days off",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Resolved early waking and sleep fragmentation caused by Retatrutide; now sleeping 8 hours straight through to 7:30am with no nocturnal awakenings",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Light night sweating and stimulating effect when dosed at 7pm; too awake at 11pm and early waking/fragmented sleep returned when dose increased to 200mcg or dosed at 6:30pm",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "49F. Epitalon at 100mcg dosed at 5pm (no later). Combined with low-dose melatonin 0.3–1mg and L-Theanine 200mg. Higher doses (200mcg) or later timing (6:30–7pm) caused insomnia and sleep fragmentation. Plan: 5 days on / 2 days off for 2–3 months, then 1 month break, then repeat. Also taking melatonin 0.5–1mg and L-Theanine 200mg as part of stack. Previously tried melatonin + magnesium glycinate (did not work), then low-dose melatonin + L-Theanine (1 hour improvement in 5 days).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.274219Z"
+}

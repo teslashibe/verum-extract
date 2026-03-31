@@ -1,0 +1,68 @@
+{
+  "id": "4294e2a0-fab0-48a9-8cd1-289df317e24e",
+  "source_id": "1nvbmi7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nvbmi7/best_peptides_for_melting_face_fat_fat_in_general/",
+  "author_hash": "73eb5d1c242d0047bf1c7343e1d8879bb0f62c0b7fce806b110076e860d156d1",
+  "confidence_tier": 4,
+  "date_published": "2025-10-01T08:39:13-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 220,
+    "unit": "lbs"
+  },
+  "training_status": "gym-goer",
+  "health_conditions": [
+    "visceral fat accumulation",
+    "midsection fat"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "frequency": "morning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "morning",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Visceral fat loss; lost 40-45 pounds since June, down from 220-225 to 180 lbs",
+      "severity": "significant"
+    },
+    {
+      "category": "metabolism",
+      "description": "Increased thermogenesis; requires significantly lower temperatures for comfort",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Elevated thermogenesis - now requires 74-78 degrees indoors vs previous 80 degrees; prefers 68 degrees",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Stack of Tesamorelin, CJC-1295, and Ipamorelin specifically chosen for visceral fat targeting. Male, middle-aged (35-40 years carrying midsection fat). Height 5'9\". Started at BMI 35% (220-225 lbs), now 180 lbs. Uses thermogenic response as gauge of effectiveness. High protein intake maintained to preserve muscle.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.396667Z"
+}

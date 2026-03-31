@@ -1,0 +1,45 @@
+{
+  "id": "ccdb85c9-75bd-4e7a-ab13-36a83fe5d6a4",
+  "source_id": "1rpfqrk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpfqrk/glow_stack/",
+  "author_hash": "b2887fd0074ec2db690b60322a6866082c9e92f07a8aee188ef9131e7c0cf631",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T15:58:13-07:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Hair growth still positively impacted at 2mg daily after titrating down from 5mg",
+      "severity": "mild"
+    },
+    {
+      "category": "skin",
+      "description": "Positive impact on skin visible at 2mg daily",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "At 5mg daily, hair grew so fast that weekly haircuts were needed, which was unsustainable",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Previously took 5mg daily and observed very fast hair growth (weekly haircuts needed). Titrated down to 2mg daily as a sweet spot for skin benefits without excessive hair growth. Recommends testing to find individual sweet spot.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.110403Z"
+}

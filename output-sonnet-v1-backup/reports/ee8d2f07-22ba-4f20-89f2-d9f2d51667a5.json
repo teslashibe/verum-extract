@@ -1,0 +1,48 @@
+{
+  "id": "ee8d2f07-22ba-4f20-89f2-d9f2d51667a5",
+  "source_id": "1refvpq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1refvpq/hgh_and_test/",
+  "author_hash": "a92a9be681897424f2cfd06edf7a5c952a3a22e90b184d8c5289869557a76901",
+  "confidence_tier": 5,
+  "date_published": "2026-02-25T07:13:45-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "frequency": "at times",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Using tirzepatide to help with appetite"
+    }
+  ],
+  "protocol_notes": "Doing all 3 (HGH, test, reta) plus tirzepatide at times for appetite. No specific doses or outcomes shared.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114804Z"
+}

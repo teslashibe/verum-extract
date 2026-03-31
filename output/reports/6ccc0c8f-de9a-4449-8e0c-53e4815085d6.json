@@ -1,0 +1,58 @@
+{
+  "id": "6ccc0c8f-de9a-4449-8e0c-53e4815085d6",
+  "source_id": "13o0qe1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/13o0qe1/bpc157_love/",
+  "author_hash": "1116ce54b3d42b777eda82665d846a4d160711c05924035761ecba567328e07f",
+  "confidence_tier": 4,
+  "date_published": "2023-05-21T10:22:37-07:00",
+  "training_status": "lifter",
+  "health_conditions": [
+    "ulnar wrist issue",
+    "shoulder tendonopathy"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "twice daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Ulnar wrist issue healed within five days with para-care (brace, ice, mindful positioning)",
+      "severity": "significant",
+      "onset_days": 5
+    },
+    {
+      "category": "injury_healing",
+      "description": "Two-year shoulder tendonopathy that did not respond to months of physical therapy healed within one week",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "mood",
+      "description": "At 500mcg per day, improves mood; at 1mg per day was anhedonic",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "At 1mg per day caused anhedonia; repeated use eventually caused anxious anhedonia",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started at 500mcg twice daily; later switched to 250mcg twice daily for different purpose. Injected subcutaneously above wrist pain site. User notes this compound requires individual titration and mentions sourcing quality issues from previous vendor.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.701316Z"
+}

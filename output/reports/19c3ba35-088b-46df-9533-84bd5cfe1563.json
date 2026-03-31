@@ -1,0 +1,46 @@
+{
+  "id": "19c3ba35-088b-46df-9533-84bd5cfe1563",
+  "source_id": "1rj8kf1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rj8kf1/tesa_cjc1295_ipamorelin_sudden_flush_high_bp/",
+  "author_hash": "9e5bd1874bbf0ae504a7c9f67b5a2dd9b4f6cc8632845e2a317a862e8fc5a01e",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T15:13:10-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_pressure",
+      "description": "BP spikes with elevated heart rate, hearing heartbeat in ears",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 0
+    }
+  ],
+  "protocol_notes": "Previous 90-day cycle of Tesamorelin and Ipamorelin, followed by 4-month break. Recently restarted with addition of CJC-1295. Symptoms occur every time injection is administered. Side effects resolve after approximately 45 minutes.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.669635Z"
+}

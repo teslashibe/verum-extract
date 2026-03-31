@@ -1,0 +1,71 @@
+{
+  "id": "42a2ddd5-340e-42a0-ad5c-98a42ebd072e",
+  "source_id": "1q0mqb9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q0mqb9/chinese_hgh/",
+  "author_hash": "1d80de5c8a95439549e11669cc92a992222a4573306cfa498a7564f3784d0c42",
+  "confidence_tier": 4,
+  "date_published": "2025-12-31T12:33:13-08:00",
+  "reported_age_range": "30-39",
+  "training_status": "active trainer",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Chinese HGH",
+      "name_normalized": "chinese_hgh",
+      "category": "other",
+      "dose_value": 5,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 120,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Managing to stay at the same weight no matter what they eat",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Getting huge benefits from HGH stacked with Test and Reta after 4 months",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "Hands and arms getting numb with pins and needles at night",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Waking up several times per night, potentially dose related; resolved when dropped to 4IU before bed",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "blood glucose"
+    }
+  ],
+  "protocol_notes": "At 3-month mark on 5 IU/day, planning to drop to 4 IU. Plans to run 6 more months. Considering 5 IU on gym days and 4 IU on non-gym days. Has 24 IU, 15 IU, and 10 IU vials. Cost $130 for 24IU x 10 vials. Uses 3x weekly 30-min sauna sessions to manage water retention. Tracking blood glucose. Age 38.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.257028Z"
+}

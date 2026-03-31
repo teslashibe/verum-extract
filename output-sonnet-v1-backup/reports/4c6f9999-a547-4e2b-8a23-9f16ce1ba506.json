@@ -1,0 +1,57 @@
+{
+  "id": "4c6f9999-a547-4e2b-8a23-9f16ce1ba506",
+  "source_id": "1s1kzg5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1kzg5/trt_reta_how_long_is_safe_to_stay_on_this_cycle/",
+  "author_hash": "5d735c4c5be23973266c04ba3cb6aa02f4ab60c420524cca84f4ca9fabd0ff93",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T09:03:24-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 160,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "slightly elevated hematocrit",
+    "slightly elevated cholesterol"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "1x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "2x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "slightly higher hematocrit",
+      "severity": "mild"
+    },
+    {
+      "category": "other",
+      "description": "slightly higher cholesterol",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Using reta for maintenance, not major composition changes. Asking about long-term safety duration.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105291Z"
+}

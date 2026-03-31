@@ -1,0 +1,79 @@
+{
+  "id": "a490b2e4-629a-4cab-9712-218d0725dba0",
+  "source_id": "1evomqh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1evomqh/realistic_expectations_for_first_and_probably/",
+  "author_hash": "56b6126b1fd0fff8a2053fa92c4f07156cb8a0f14db81eff4bf769290939f737",
+  "confidence_tier": 4,
+  "date_published": "2024-08-18T17:36:05-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "reported_weight": {
+    "value": 215,
+    "unit": "lbs"
+  },
+  "training_status": "powerlifter, 3 years lifting experience",
+  "health_conditions": [
+    "insomnia",
+    "body dysmorphia",
+    "low appetite"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "preserve muscle and strength during cut, body recomposition"
+    },
+    {
+      "category": "fat_loss",
+      "description": "accelerate fat loss during deficit"
+    },
+    {
+      "category": "sleep",
+      "description": "improved sleep to help maintain muscle"
+    },
+    {
+      "category": "recovery",
+      "description": "aid recovery during cut"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "heart enlargement concern with GH peptides"
+    },
+    {
+      "category": "other",
+      "description": "organ hypertrophy (liver) and bone size increase concern"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "growth hormone"
+    },
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "3 months cycle with 5 days on, 2 days off protocol. Goal: cut from 215 lbs to 185 lbs target body fat 12-13%. Plans 500-750 calorie deficit. Considering smaller 300 calorie deficit option. Takes mirtazapine and trazodone. Currently awaiting blood work results. Walks 10k+ steps daily, upper/lower split 2x per week. No alcohol consumption.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.41416Z"
+}

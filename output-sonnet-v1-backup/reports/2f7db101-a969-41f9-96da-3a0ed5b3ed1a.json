@@ -1,0 +1,67 @@
+{
+  "id": "2f7db101-a969-41f9-96da-3a0ed5b3ed1a",
+  "source_id": "1rzerz6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzerz6/mots_c_side_effects/",
+  "author_hash": "fd88984b4aec868cfd5bd4a99505081b4277508e378e2d8cea11930da2103577",
+  "confidence_tier": 4,
+  "date_published": "2026-03-20T18:37:39-07:00",
+  "training_status": "active (physical labor or workout)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "mots",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once for tolerance testing",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "mots",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "Mon/Wed/Fri fasted in AM",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Energy is off the charts",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Tachycardia experienced but has not drawn a correlation to MOTS specifically",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep can be elusive if not doing physical labor or workout",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Started at 500mcg to test tolerance, then moved to 5mg Mon/Wed/Fri fasted in AM. Previously cycled SS-31 and NAD before starting Mots.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106118Z"
+}

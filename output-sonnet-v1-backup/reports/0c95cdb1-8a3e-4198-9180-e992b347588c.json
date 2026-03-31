@@ -1,0 +1,75 @@
+{
+  "id": "0c95cdb1-8a3e-4198-9180-e992b347588c",
+  "source_id": "1m1x5w8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m1x5w8/full_rupture_of_distal_bicep_tendon_my_protocol/",
+  "author_hash": "bfa35580104186d6114adae763cef58de29b7d3fdfee3da9c0e355a9845f38f6",
+  "confidence_tier": 4,
+  "date_published": "2025-07-16T20:33:29-07:00",
+  "training_status": "active gym-goer, returned to gym 2 days post-surgery for legs/core/cardio",
+  "health_conditions": [
+    "full rupture of distal bicep tendon",
+    "post-surgical recovery (bicep tendon reattachment)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295 No DAC",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mg",
+      "frequency": "split into 75mg twice weekly (Sunday and Thursday)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "4-6 weeks ahead of PT recovery schedule after distal bicep tendon rupture surgery; sling and cast removed in 8 days; full supination and pronation with little discomfort shortly after; progressing rapidly through PT milestones",
+      "severity": "significant",
+      "onset_days": 8
+    },
+    {
+      "category": "joint_pain",
+      "description": "Minimal discomfort and near non-existent pain throughout recovery; did not experience expected level of swelling",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Surgery June 17th, protocol started same night. All injections in the stomach/abdomen. Also taking 5g citrulline malate twice daily, 5g creatine monohydrate twice daily, 25g collagen peptides once daily. Previous experience using BPC/TB for knee pain via stomach injections. Returned to gym 2 days post-surgery for lower body, core, and cardio only. Surgeon approved early cast removal and encouraged movement.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.278839Z"
+}

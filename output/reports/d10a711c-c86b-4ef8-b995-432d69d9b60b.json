@@ -1,0 +1,71 @@
+{
+  "id": "d10a711c-c86b-4ef8-b995-432d69d9b60b",
+  "source_id": "1ro0bp8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ro0bp8/anyone_successfully_healed_nervous_system/",
+  "author_hash": "0d57fe37eec36cee22158732fa22203b47e788e6a6f0fefc04dc8eb90b298bad",
+  "confidence_tier": 5,
+  "date_published": "2026-03-08T01:15:31-08:00",
+  "compounds": [
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Pinealon",
+      "name_normalized": "pinealon",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Vesugen",
+      "name_normalized": "vesugen",
+      "category": "other",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "pinealon recommended for persistent insomnia"
+    },
+    {
+      "category": "cardiovascular",
+      "description": "vesugen recommended for circulation-based symptoms"
+    },
+    {
+      "category": "cognitive",
+      "description": "semax and pinealon for neurological symptoms"
+    },
+    {
+      "category": "gut_health",
+      "description": "BPC-157 supposed to be great for gut health"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "anhedonia from BPC-157 can be jarring, especially with depersonalization",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Thymosin Alpha-1 or Thymalin recommended for two courses 1-3 months apart. Pinealon and Vesugen can be done in tandem. Cautioned against BPC-157 if depersonalization is persistent issue. Advised not to take BPC-157 before immune modulator with long COVID. Recommends probiotics. Mentions most symptoms are neurological vs circulation-based as differentiation for peptide selection.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.25,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.655616Z"
+}

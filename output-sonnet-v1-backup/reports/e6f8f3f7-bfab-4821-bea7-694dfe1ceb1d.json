@@ -1,0 +1,42 @@
+{
+  "id": "e6f8f3f7-bfab-4821-bea7-694dfe1ceb1d",
+  "source_id": "op4oko",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/op4oko/epitalon/",
+  "author_hash": "0083039e1247524f1cbc95adeb20a95dd8ec198632805c2d423c44ffee720aac",
+  "confidence_tier": 5,
+  "date_published": "2021-07-21T19:23:32-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "nasal",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Intranasal administration caused more tiredness compared to subcutaneous injection",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "States nasal spray works fine but causes more tiredness than subcutaneous. Minimum effective doses stated as 5mg+ subcutaneous or 1.5mg intranasal.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.429107Z"
+}

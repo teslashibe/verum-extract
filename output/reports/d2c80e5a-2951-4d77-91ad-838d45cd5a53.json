@@ -1,0 +1,43 @@
+{
+  "id": "d2c80e5a-2951-4d77-91ad-838d45cd5a53",
+  "source_id": "1pd4pee",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pd4pee/motsc_and_gym_performancemood/",
+  "author_hash": "01df7b1fa576cfc6db92d8d7a6c86b24c3eee6c93e0187e1ef132e6f00628942",
+  "confidence_tier": 4,
+  "date_published": "2025-12-03T05:51:27-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Methylene Blue",
+      "name_normalized": "methylene_blue",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "on off days",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Getting great results with MOTS-c and methylene blue combination",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Using methylene blue on off days to complement MOTS-c protocol",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.675508Z"
+}

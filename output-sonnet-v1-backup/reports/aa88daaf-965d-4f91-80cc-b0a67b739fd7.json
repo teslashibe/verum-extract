@@ -1,0 +1,63 @@
+{
+  "id": "aa88daaf-965d-4f91-80cc-b0a67b739fd7",
+  "source_id": "1as1nba",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1as1nba/what_do_you_recommend_a_women_who_wants_to_lose/",
+  "author_hash": "e4db699a86a3cc10ab75f97b9bbdf10b3ba074fa28b0eb1ea933e0c8d0f6dd88",
+  "confidence_tier": 4,
+  "date_published": "2024-02-15T22:09:49-08:00",
+  "reported_sex": "female",
+  "reported_weight": {
+    "value": 143,
+    "unit": "lbs"
+  },
+  "training_status": "Works out 5-6 days per week, previously competed (15 years ago)",
+  "health_conditions": [
+    "SIBO",
+    "gluten intolerance",
+    "dairy intolerance",
+    "low FODMAP diet required"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "cjc- ipqmorelin",
+      "name_normalized": "cjc__ipqmorelin",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Super hungry on CJC-Ipamorelin"
+    },
+    {
+      "category": "other",
+      "description": "Lost significant muscle on semaglutide",
+      "severity": "significant"
+    },
+    {
+      "category": "gut_health",
+      "description": "Semaglutide gave her SIBO",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "OP eats gluten free, dairy free, low FODMAP diet due to SIBO. Meals spaced 4-5 hours apart. Primarily eats eggs, turkey, chicken, and rice. Around 1800 calories/day. ~5k steps/day due to desk job. Currently on sermorelin and not seeing much result. Previously took semaglutide with negative outcomes. Considering ipamorelin with something else. Competed in bodybuilding 15 years ago.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294752Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "7802c7dc-eb6c-403b-ae9d-43a59a4f1d88",
+  "source_id": "1r1noep",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r1noep/almost_40_yo_male_have_a_slow_healing_labrum/",
+  "author_hash": "c2b08f3b695c8fc0aaf69859c0113e6c452943aee94797594d9906b393395683",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T20:31:27-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "GHK-Cu supposed to help with recovery",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Prefers separate compounds over blends for dosage control; recommends different frequency/dose for BPC-157 vs TB-500; references hubmeded.com for dosage information",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677505Z"
+}

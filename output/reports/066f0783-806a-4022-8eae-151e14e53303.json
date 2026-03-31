@@ -1,0 +1,95 @@
+{
+  "id": "066f0783-806a-4022-8eae-151e14e53303",
+  "source_id": "1r5hx4c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r5hx4c/experiences_so_far_on_reta_and_bpc_157/",
+  "author_hash": "3012da6eda702a25077fe7be10783294c70361e3e7797a39a6baac881be6100b",
+  "confidence_tier": 4,
+  "date_published": "2026-02-15T07:50:50-08:00",
+  "reported_weight": {
+    "value": 160,
+    "unit": "lbs"
+  },
+  "training_status": "active",
+  "health_conditions": [
+    "right trap/shoulder discomfort from 2018 tear",
+    "right trap strain from 2022"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 8,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Could go a whole day without eating and be fine",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "joint_pain",
+      "description": "Got rid of 90% of discomfort in right trap/shoulder area that had persisted for years after tear and strain",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "inflammation",
+      "description": "Reduced inflammation allowing better mental engagement and harder training on affected shoulder",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "recovery",
+      "description": "Improved ability to engage and push harder on trap/shoulder exercises due to reduced discomfort",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "No change of heart rate",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "No constipation reported",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Height 5'7\", estimated 15% body fat with visible 4-pack but love handles. Started Reta at 1mg, titrated to 2mg at week 2. BPC dosed at either 500mcg or 1mg daily, injected subcutaneously in belly area. Later switched from BPC-157 to GHK-Cu based combination due to cancer risk concerns with BPC. Initially planned to switch to KLOW blend (BPC, GHK-Cu, other peptides) but changed strategy. States he stopped BPC-157 due to cancer risk concerns and now using GHK-Cu and Reta combination.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.663688Z"
+}

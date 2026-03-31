@@ -1,0 +1,36 @@
+{
+  "id": "3323d572-4ea0-4835-b83e-58b11d5817ea",
+  "source_id": "1s32wlw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s32wlw/redose/",
+  "author_hash": "c48bd871b55b412328336b537f5ad91a6976546ae84714c89768217da4c60483",
+  "confidence_tier": 4,
+  "date_published": "2026-03-24T23:18:54-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "Wednesday and Sunday",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "dizziness",
+      "description": "Lightheaded spells",
+      "severity": "mild",
+      "onset_days": 2,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started at 2mg based on trial dosing. Pins on Wednesday and Sunday schedule.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.658347Z"
+}

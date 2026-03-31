@@ -1,0 +1,42 @@
+{
+  "id": "fb9fdec4-c801-48a2-8600-282cf9f7f678",
+  "source_id": "1s800vf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s800vf/tesamorelin_negative_reaction/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-30T12:06:22-07:00",
+  "training_status": "trains (mentions gym)",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "post-gym",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Sting at injection site, welt resembling spider bite or inflammation",
+      "severity": "moderate",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "Second day of peptide use. Injecting tesamorelin before bed and IGF-1 post-gym. First injection had minor sting, second injection (day 2) resulted in welt-like reaction.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.655526Z"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "b221ed47-36fa-42f5-8f80-f2dcc2b0c4b9",
+  "source_id": "1c37s5x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1c37s5x/considering_tesamorelin_ipamorelin_cjc_1295_stack/",
+  "author_hash": "809ee8668998c99dea010a88d4c84d14e2ac05f7482524f935737c5525f81d21",
+  "confidence_tier": 4,
+  "date_published": "2024-04-13T10:54:16-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "experienced, strength-focused",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "once daily at night",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "twice daily",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped to 7% body fat",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Gained 4.5 lbs of lean muscle",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "value_after": 7,
+      "unit": "%",
+      "timeframe_days": 84
+    },
+    {
+      "marker_name": "lean muscle mass",
+      "value_after": 4.5,
+      "unit": "lbs",
+      "timeframe_days": 84
+    }
+  ],
+  "protocol_notes": "Used blended formulation: 1 mL BAC water per vial = 0.17 mL/1000 mcg per injection. Injected at least 90 minutes after last meal. 6 doses per vial, skipped 7th day. Completed 12-week cycle, then took 12-week break. Plans to separate compounds (Tesa at night on empty stomach, Ipa in morning fasted) in next cycle in January for better timing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.415663Z"
+}

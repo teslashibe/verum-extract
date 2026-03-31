@@ -1,0 +1,51 @@
+{
+  "id": "c1869c52-a4b0-4880-a5f9-c21fa662579f",
+  "source_id": "1refvpq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1refvpq/hgh_and_test/",
+  "author_hash": "1c9fa64ee3a9ac4a7883a467e2247b3080932ec2a992e09f0dabbc32eda70822",
+  "confidence_tier": 4,
+  "date_published": "2026-02-25T07:13:45-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 150,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "2iu feels three times more powerful than 1iu after adjusting",
+      "severity": "significant",
+      "onset_days": 180
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Water weight initially, resolved after adjustment period",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Similar age and test dose to Few-Addendum8636 (implied ~51). On HGH for over a year, worked up to 2iu after 6 months. Water weight went away once adjusted.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114804Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f5c9cb5c-d82a-4f8a-82f3-0318ade040cd",
+  "source_id": "1qumn1f",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qumn1f/are_glps_more_than_1_peptide/",
+  "author_hash": "fd4638b3518706df52ee55bcd953f485d0eb3e70dafc3a8e88925ed70cd0fc1e",
+  "confidence_tier": 4,
+  "date_published": "2026-02-03T00:33:20-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Hard bumps at injection site, possible granulomas developing under skin. Knots significantly larger than injected fluid volume (100x bigger). One persistent knot remained after 2 months.",
+      "severity": "significant",
+      "resolved": false,
+      "resolution_days": 60
+    }
+  ],
+  "protocol_notes": "Used 1 inch needle for subcutaneous injection. Had to discontinue due to adverse injection site reactions. User has history of granulomas from bug bites.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.667635Z"
+}

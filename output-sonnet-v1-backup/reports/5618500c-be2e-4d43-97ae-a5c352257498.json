@@ -1,0 +1,64 @@
+{
+  "id": "5618500c-be2e-4d43-97ae-a5c352257498",
+  "source_id": "1ry993p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ry993p/need_help_assessing_what_to_take/",
+  "author_hash": "b5bb2d7d22f79999319b8fc21ceafb7dc6d63654e8743a37e7e0e976093cc759",
+  "confidence_tier": 5,
+  "date_published": "2026-03-19T11:57:34-07:00",
+  "training_status": "lifts heavy, squats",
+  "health_conditions": [
+    "low testosterone"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "testagen",
+      "name_normalized": "testagen",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Kisspeptin-10",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GH peptides",
+      "name_normalized": "ghs_peptides",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "dutasteride or finasteride",
+      "name_normalized": "dutasteride_or_finasteride",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Raised natural testosterone levels from 300-400 to almost double (~600-800 ng/dL)",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Able to produce more muscle tissue which contributes to stabilizing hormones"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Testosterone",
+      "value_before": 350,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "User reports using testagen and Kisspeptin-10 to raise T naturally. Previously had T at 300-400, now almost double. Also recommends GH peptides, heavy lifting (especially lower body), dutasteride or finasteride, whole foods, removing plastics, and swimming to keep testicles cooler.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106505Z"
+}

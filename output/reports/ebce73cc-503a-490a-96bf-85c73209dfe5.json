@@ -1,0 +1,55 @@
+{
+  "id": "ebce73cc-503a-490a-96bf-85c73209dfe5",
+  "source_id": "1oy466n",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oy466n/opinions_on_my_stack/",
+  "author_hash": "26d5e2a0b178fabaac1253259f514dbabfd51f7cdb77b92f6926593cce871a96",
+  "confidence_tier": 4,
+  "date_published": "2025-11-15T13:59:26-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Enclomiphene",
+      "name_normalized": "enclomiphene",
+      "category": "hormonal",
+      "dose_value": 12.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "cranked Test (testosterone increase)",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hormonal",
+      "description": "Some people react poorly and create too much estrogen",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Testosterone"
+    },
+    {
+      "marker_name": "Free Testosterone"
+    },
+    {
+      "marker_name": "Estradiol",
+      "timeframe_days": 42
+    },
+    {
+      "marker_name": "IGF-1",
+      "timeframe_days": 42
+    }
+  ],
+  "protocol_notes": "User reports positive response to 12.5 mg enclomiphene and recommends monitoring Estradiol every 6 weeks along with T, free T, and IGF-1 to manage SHBG elevation. Warns that individual responses vary.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.393624Z"
+}

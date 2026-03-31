@@ -1,0 +1,35 @@
+{
+  "id": "c2a570d5-2f3e-4289-947c-ee47a2b6d613",
+  "source_id": "1rrpd1g",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rrpd1g/cjc_and_ipa_used_to_give_me_great_sleep_but_now/",
+  "author_hash": "c97997d1f76ce7c345c7a03d824b86302d7da6cb9acc21b90d65ca5214c24f69",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T05:25:33-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "First-time user. Started with 100/100 mcg CJC/Ipamorelin. Planning to increase to 160/160 mcg over 1 week, then maintain at 160/160 for 8-9 weeks.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.665174Z"
+}

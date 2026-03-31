@@ -1,0 +1,58 @@
+{
+  "id": "1d5faeb1-0c40-49e6-bca1-3de4b3a66c95",
+  "source_id": "1b29hiw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1b29hiw/tb500_bpc157_gyno/",
+  "author_hash": "d70f617c8cd2756b4abe5a13a40750e09b81f84e2a0ca87cdc9be36722d68c19",
+  "confidence_tier": 4,
+  "date_published": "2024-02-28T08:00:40-08:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "gynecomastia"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hormonal",
+      "description": "Gynecomastia (spicy nips), appeared after starting TB-500, suspected prolactin/progesterone related as AI and Nolvadex ineffective",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "On TRT since 2021. Using 5mg/week TB-500 and 500mcg/day BPC-157. Also taking Arimidex, Nolvadex, and planning to use Raloxifene and Cabergoline. Mentioned previous tren cycle tolerance. TRT dose can go up to 250mg/week. One injection may have been 15-25mg higher than usual.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.416465Z"
+}

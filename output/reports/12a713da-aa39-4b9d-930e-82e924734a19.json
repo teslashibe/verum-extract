@@ -1,0 +1,55 @@
+{
+  "id": "12a713da-aa39-4b9d-930e-82e924734a19",
+  "source_id": "17bv0wa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17bv0wa/time_to_attack_this_hamstring_injury/",
+  "author_hash": "311acaac7f06e3c92972506cda16e7d720e52b93e41a5d422344044d65f0d771",
+  "confidence_tier": 4,
+  "date_published": "2023-10-19T15:03:29-07:00",
+  "training_status": "active lifter",
+  "health_conditions": [
+    "partial hamstring tear"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (split morning and evening)",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "once weekly split into two shots",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Healed hamstring partial tear quickly, was back to business within a few weeks of starting peptides",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Recovered to near 100% mobility and pain-free status",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Ordered 100g BPC-157 and 100g TB-500 (reconstituted vials). Ran protocol for almost two months starting approximately 3 weeks post-injury. At time of initial post, injury was partial tear diagnosed by doctor, pain level 5/10, at 75% recovery. By follow-up (November endpoint), reported healed quickly and back to full activity.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.700246Z"
+}

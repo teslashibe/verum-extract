@@ -1,0 +1,50 @@
+{
+  "id": "a2556d23-ad71-4b4f-a4ad-ce0be1dc0cfa",
+  "source_id": "1msg02o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1msg02o/is_glow_blend_supposed_to_be_blue/",
+  "author_hash": "3414b11c45f27ac8ba309d8c38ba1aaa096a4c8dc32f51e0a959092ecbd647d0",
+  "confidence_tier": 4,
+  "date_published": "2025-08-16T20:10:52-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "User mentions using a GLOW blend containing GHK-Cu, BPC-157, and TB-500. Reconstituted with BAC water. Previously used BPC-157/TB-500, IGF-1 LR3, and Sermorelin. First time encountering a blue peptide (GHK-Cu).",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.400953Z"
+}

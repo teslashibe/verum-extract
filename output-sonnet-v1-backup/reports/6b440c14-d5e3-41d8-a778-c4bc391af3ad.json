@@ -1,0 +1,49 @@
+{
+  "id": "6b440c14-d5e3-41d8-a778-c4bc391af3ad",
+  "source_id": "1cuzs61",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1cuzs61/a_cautionary_tale_how_weight_loss_affected_my/",
+  "author_hash": "4cd291e4a6d5b015024912f20376618b65c5d4fa1b9381f066954d2f0e0cc5b0",
+  "confidence_tier": 4,
+  "date_published": "2024-05-18T08:27:15-07:00",
+  "health_conditions": [
+    "no prior history of high blood pressure",
+    "orthostatic hypotension"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "dizziness",
+      "description": "Nearly faints every time standing up; standing blood pressure measured at 79/58",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "blood_pressure",
+      "description": "Standing blood pressure dropped to 79/58 despite no prior history of high blood pressure",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Standing Blood Pressure",
+      "unit": "mmHg"
+    }
+  ],
+  "protocol_notes": "User (same account as OP, but commenting as a separate experience note) reports orthostatic hypotension on 6mg Tirzepatide weekly with no prior history of HBP. Also confirmed taking electrolytes. Standing BP recorded at 79/58.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.293158Z"
+}

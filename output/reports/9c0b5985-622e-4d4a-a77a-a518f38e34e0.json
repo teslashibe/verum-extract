@@ -1,0 +1,46 @@
+{
+  "id": "9c0b5985-622e-4d4a-a77a-a518f38e34e0",
+  "source_id": "1am4fht",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1am4fht/bpc157_and_crohns_disease/",
+  "author_hash": "cf0ed48dd9ae0d6bec10b2daa07c9e04e065e5611f85151fd83e8b50a8c7b4f5",
+  "confidence_tier": 4,
+  "date_published": "2024-02-08T11:49:26-08:00",
+  "training_status": "exercises regularly",
+  "health_conditions": [
+    "Crohn's Disease (12 years)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 20,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Decreased intermittent pain on day 1",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "gut_health",
+      "description": "Passing normal stool once a day by day 3; only mild intestinal pain since",
+      "severity": "significant",
+      "onset_days": 3
+    }
+  ],
+  "protocol_notes": "Lyophilised powder resuspended in bacteriostatic water. Third-party tested. Used for 7 days before infliximab infusion. Planned cycling approach: cycles as needed rather than daily use. Currently on infliximab every 6 weeks. Diet: 90% chicken and rice.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698991Z"
+}

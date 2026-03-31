@@ -1,0 +1,39 @@
+{
+  "id": "672a31a3-dacb-4e39-aabc-3a7e1b64fd54",
+  "source_id": "1k74ace",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k74ace/doctor_offering_dsip_deltasleepinducing_peptide/",
+  "author_hash": "b8169d36141d24382c14139f5180818eb4db387e44ca5f923f33cecc2557f15a",
+  "confidence_tier": 4,
+  "date_published": "2025-04-24T14:42:54-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "normally zero acne"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "hormonal acne; user notes DSIP can raise testosterone which was unwanted",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone"
+    }
+  ],
+  "protocol_notes": "User is female; DSIP caused unwanted testosterone elevation",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.409175Z"
+}

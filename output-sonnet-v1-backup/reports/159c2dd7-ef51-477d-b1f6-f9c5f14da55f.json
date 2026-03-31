@@ -1,0 +1,43 @@
+{
+  "id": "159c2dd7-ef51-477d-b1f6-f9c5f14da55f",
+  "source_id": "1qtdny5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtdny5/what_time_of_day_to_take_ipa_cjc_no_dac/",
+  "author_hash": "55b47f0cdc28a5e6e0e7e8025ef287f20ad6f162b5e1d7b9f1ffeaa7ee752068",
+  "confidence_tier": 5,
+  "date_published": "2026-02-01T14:57:14-08:00",
+  "training_status": "Works out in the morning",
+  "compounds": [
+    {
+      "name_raw": "Ipa + Cjc no dac",
+      "name_normalized": "ipa__cjc_no_dac",
+      "category": "other",
+      "frequency": "upon waking",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Thinks it helps with recovery when taken in the morning before workout",
+      "severity": "mild"
+    },
+    {
+      "category": "energy",
+      "description": "Thinks it helps with energy when taken in the morning before workout",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Does not help with sleep when taken at night",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Switched to morning dosing because bedtime dosing did not help with sleep. Prefers fasted morning administration.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.122336Z"
+}

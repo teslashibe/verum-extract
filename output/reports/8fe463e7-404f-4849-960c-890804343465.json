@@ -1,0 +1,49 @@
+{
+  "id": "8fe463e7-404f-4849-960c-890804343465",
+  "source_id": "1pfunqn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pfunqn/anyone_use_oxytocin/",
+  "author_hash": "cb3f67823274459119a8583b51ca3061d8ac79862d5781ff0db580224130281d",
+  "confidence_tier": 4,
+  "date_published": "2025-12-06T09:23:51-08:00",
+  "reported_sex": "female",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Oxytocin",
+      "name_normalized": "oxytocin",
+      "category": "hormonal",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "Mood elevation, extra pep in step, everything felt good in the world",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Serious hot flashes",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "cardiac",
+      "description": "Heart racing and fluttering",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    }
+  ],
+  "protocol_notes": "Accidentally took approximately triple the recommended dose. Experienced intense side effects for about 10 minutes, then felt elevated mood for the rest of the day. No libido changes.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.391407Z"
+}

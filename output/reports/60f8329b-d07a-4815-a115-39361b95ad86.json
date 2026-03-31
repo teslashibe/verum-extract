@@ -1,0 +1,84 @@
+{
+  "id": "60f8329b-d07a-4815-a115-39361b95ad86",
+  "source_id": "1mabyts",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mabyts/what_was_the_combo_you_found_that_broke_your/",
+  "author_hash": "2f3d78dc3dbc4f0f7b33fe6822de42d4cec6881447f7846f3a49d1af4caed855",
+  "confidence_tier": 4,
+  "date_published": "2025-07-26T20:15:55-07:00",
+  "training_status": "4 miles daily walking, strength training twice weekly, ReHIT twice weekly",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Broke plateau after 80 pounds lost. Losing again with new combination.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Stalled on 15mg Tirzepatide for extended period. Added Ipamorelin 200mcg daily, Sermorelin 1mg daily, Tesamorelin, MOTS-c daily, and Retatrutide 1mg twice weekly to break through. On additional ancillaries and supplements.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.686421Z"
+}

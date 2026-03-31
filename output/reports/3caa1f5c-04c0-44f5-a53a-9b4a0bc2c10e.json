@@ -1,0 +1,46 @@
+{
+  "id": "3caa1f5c-04c0-44f5-a53a-9b4a0bc2c10e",
+  "source_id": "1rlgk1m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rlgk1m/bone_healing/",
+  "author_hash": "73879b4bfc62add93db3ec519f2c50897b6383c27a4fd57386e148f77ec955f0",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T04:38:39-08:00",
+  "health_conditions": [
+    "greater tuberosity fracture",
+    "shoulder instability"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "bone healing post-surgery"
+    },
+    {
+      "category": "joint_pain",
+      "description": "tendon healing for shoulder joint stability"
+    }
+  ],
+  "protocol_notes": "User has a surgically repaired greater tuberosity fracture and is planning to increase BPC-157 dosage and add TB-500. Initially on low dose BPC (250 mcg), bumped dosage, and has TB-500 incoming.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.656715Z"
+}

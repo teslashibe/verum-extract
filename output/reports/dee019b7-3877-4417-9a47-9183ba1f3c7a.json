@@ -1,0 +1,43 @@
+{
+  "id": "dee019b7-3877-4417-9a47-9183ba1f3c7a",
+  "source_id": "1qufkoh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qufkoh/tesamorlin_issues/",
+  "author_hash": "b33b7cc548343032a25958aef4435cfb49b3cb0306e73d9b6049d64273b5864b",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T18:23:51-08:00",
+  "health_conditions": [
+    "MCAS (Mast Cell Activation Syndrome)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "MCAS reactions to CJC-1295/Ipamorelin blend; reactions resolve after body acclimates; reactions return when cycling off and restarting",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Takes antihistamine (Zyrtec or Claritin) approximately 30 minutes before injection for first week to manage reactions. Husband uses identical batches (held since July) with no reaction. Reactions subside after initial period but recur upon cycling off and restarting protocol.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.667735Z"
+}

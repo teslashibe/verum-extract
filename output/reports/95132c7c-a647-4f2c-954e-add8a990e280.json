@@ -1,0 +1,45 @@
+{
+  "id": "95132c7c-a647-4f2c-954e-add8a990e280",
+  "source_id": "p9kfuf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/p9kfuf/neuroregenerative_peptides/",
+  "author_hash": "181ccfb22df2dcd41c2aa0d5d0d478662863ab58d0a6e90a038ef3453a130c45",
+  "confidence_tier": 4,
+  "date_published": "2021-08-22T13:38:37-07:00",
+  "training_status": "weight lifting",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "heat_sensitivity",
+      "description": "Heat sensitivity really goes down",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "Histamine response causing elevated resting heart rate of 30-40 BPM increase to approximately 100 BPM (even while sleeping)",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 4
+    },
+    {
+      "category": "cardiac",
+      "description": "Heart rate tops out at about 160 BPM during intense weight lifting, slightly higher than normal",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "BPC-157 user experiences histamine response with elevated resting heart rate (100 BPM) for approximately 4 days after injection, effects taper by day 4. Blood pressure remained normal. One of few with this response. Psychological discomfort from baseline elevated resting HR despite staying within safe range (max 160 BPM).",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.130615Z"
+}

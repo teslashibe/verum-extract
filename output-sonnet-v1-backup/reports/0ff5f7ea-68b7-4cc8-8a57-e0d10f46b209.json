@@ -1,0 +1,68 @@
+{
+  "id": "0ff5f7ea-68b7-4cc8-8a57-e0d10f46b209",
+  "source_id": "nqmjar",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/nqmjar/my_humble_success_story_peptides_for_stomach_pain/",
+  "author_hash": "161577c802c3c2062c1570e251e5d21f947f83ed5db7208d81e83a73638feb6c",
+  "confidence_tier": 4,
+  "date_published": "2021-06-02T07:03:54-07:00",
+  "training_status": "exercises daily",
+  "health_conditions": [
+    "gastritis",
+    "GI issues",
+    "ADHD",
+    "stomach ulcers",
+    "vascular issues",
+    "migraines",
+    "chilblains"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHRP-6",
+      "name_normalized": "ghrp_6",
+      "category": "gh_secretagogue",
+      "dose_value": 125,
+      "dose_unit": "mcg",
+      "frequency": "once daily before dinner",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "GI issues resolved over ~4 weeks; stomach pain eliminated; able to eat full meals consistently after years of poor appetite",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "GHRP-6 induced intense hunger, reversing appetite suppression caused by Vyvanse and stress; eventually stayed hungry all day",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "GI tract healing attributed to consistent eating and improved blood flow stimulated by hunger from GHRP-6",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "BPC157 first vial caused extreme hunger (considered beneficial in context); second vial had no effect at all",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Used BPC157 orally for first round with positive results (stomach pain resolved, extreme hunger); second vial of BPC157 had no effect. Switched to GHRP-6 sublingual (4-6 units on insulin syringe = ~100-150mcg) reconstituted with 2ml bacteriostatic water, taken in the evening after 2-3 hour fast, then ate a large meal 30-50 min later. Used for ~4 weeks. Concurrent medications included Vyvanse (ADHD stimulant), sleeping pills, and previously advil and nightly wine (stopped). Also on clonidine alongside Vyvanse. No noticeable body fat gain despite increased eating, attributed to daily exercise.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.429934Z"
+}

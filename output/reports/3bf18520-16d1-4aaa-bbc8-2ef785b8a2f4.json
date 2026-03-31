@@ -1,0 +1,41 @@
+{
+  "id": "3bf18520-16d1-4aaa-bbc8-2ef785b8a2f4",
+  "source_id": "1rxho25",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rxho25/37m_im_finally_down_to_198lbs_thanks_to_zepbound/",
+  "author_hash": "2cec8b3c95cbb674a197457dfbb5594f8b898c7bb895690743070153bb9e5892",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T14:56:53-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 1 stone (14 lbs) in 4 weeks on Retatrutide alone",
+      "severity": "significant",
+      "onset_days": 28
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Cagrilintide expected to provide appetite suppression while Retatrutide handles primary weight loss"
+    }
+  ],
+  "protocol_notes": "Planning to add Cagrilintide to existing Retatrutide protocol. User expects Cagrilintide to synergize for appetite suppression benefits.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.661473Z"
+}

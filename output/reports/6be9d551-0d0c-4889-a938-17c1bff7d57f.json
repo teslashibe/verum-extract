@@ -1,0 +1,76 @@
+{
+  "id": "6be9d551-0d0c-4889-a938-17c1bff7d57f",
+  "source_id": "1r5hx4c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r5hx4c/experiences_so_far_on_reta_and_bpc_157/",
+  "author_hash": "3012da6eda702a25077fe7be10783294c70361e3e7797a39a6baac881be6100b",
+  "confidence_tier": 4,
+  "date_published": "2026-02-15T07:50:50-08:00",
+  "reported_weight": {
+    "value": 160,
+    "unit": "lbs"
+  },
+  "training_status": "active in resistance training",
+  "health_conditions": [
+    "right trapezius tear (2018)",
+    "right trapezius strain (2022)",
+    "trapezius activation dysfunction"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 8,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Able to go whole day without eating; significant appetite suppression noted",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "joint_pain",
+      "description": "90% reduction in right trapezius/shoulder discomfort from years of injury; reduced pain allows better mental engagement and ability to push harder during exercises",
+      "severity": "significant",
+      "onset_days": 8
+    },
+    {
+      "category": "inflammation",
+      "description": "Reduction in inflammation in shoulder/trapezius area",
+      "severity": "significant",
+      "onset_days": 8
+    }
+  ],
+  "protocol_notes": "Height: 5'7\". Estimated body fat: ~15% with visible 4-pack but love handles and limited definition elsewhere. Described as 'skinny fat'. Started Retatrutide at 1mg, titrated to 2mg at beginning of week 2. BPC-157 injected subcutaneously in belly area, not locally at injury site. User reports no constipation or elevated heart rate. Initially planned to switch to KLOW blend (BPC-157 + GHK-Cu + other peptides) but subsequently discontinued BPC-157 due to cancer risk concerns and switched to GHK-Cu + Retatrutide combo instead, which user prefers.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.676141Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "219ce701-cb7e-4709-a20e-4a2807ee991b",
+  "source_id": "1qwx24x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qwx24x/tirz_side_effects/",
+  "author_hash": "b2a2449bec54057fe7c9db063cc719cd7a59f824557fed6809f8de9ebbfc915f",
+  "confidence_tier": 5,
+  "date_published": "2026-02-05T12:46:21-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Intense anhedonia and anxiety from tirzepatide",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "fatigue",
+      "description": "Intense fatigue described as crippling, struggling to get through work",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Considering switching back to semaglutide which they found milder in terms of side effects. Suspects retatrutide may be even worse for mental side effects.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121159Z"
+}

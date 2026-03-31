@@ -1,0 +1,56 @@
+{
+  "id": "2769ada6-cd7c-4ba3-ab74-93ff7a49f573",
+  "source_id": "1lnjbru",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lnjbru/epitalon_klow_overdoing_it/",
+  "author_hash": "f5d11a51986e3e73927c6948fd618435b4956bf06ac739b9680540aa41b409a5",
+  "confidence_tier": 5,
+  "date_published": "2025-06-29T09:47:37-07:00",
+  "health_conditions": [
+    "chronic sleep onset insomnia",
+    "hypnic jerks/waking upon drifting off",
+    "possible elevated cortisol",
+    "possible circadian rhythm disruption"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MT2",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "frequency": "once or twice a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Wakes up right as drifting off, then wired for hours and cannot go back to sleep; Tesamorelin and DSIP did not help sleep",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "OP is currently on KLOW and MT2, has tried Tesamorelin and DSIP for sleep without success. Considering adding Epitalon. Wondering if adding more peptides is counterproductive given feeling 'fried'.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.280382Z"
+}

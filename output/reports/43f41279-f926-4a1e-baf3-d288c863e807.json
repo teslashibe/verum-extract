@@ -1,0 +1,77 @@
+{
+  "id": "43f41279-f926-4a1e-baf3-d288c863e807",
+  "source_id": "1qxl6y2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxl6y2/cycle_42m_on_trt_anyone_using_lowdose_retatrutide/",
+  "author_hash": "4a7245d4cad2bb04b75919f19b7f21c65616c0e673bc18d19381a0dec2a2efb1",
+  "confidence_tier": 4,
+  "date_published": "2026-02-06T07:48:37-08:00",
+  "reported_sex": "male",
+  "training_status": "resistance training, bulking",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 75,
+      "dose_unit": "IU",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "route": "subcutaneous",
+      "frequency": "Sundays",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "maintained muscle mass throughout use",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "got down to 11% body fat",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "can eat enough to bulk and not constantly think about food between meals at 1mg/week dose",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "crave diet drinks more",
+      "severity": "mild"
+    },
+    {
+      "category": "appetite_change",
+      "description": "on higher doses (5mg/week) had hard time hitting protein goals with food, had to double up on protein shakes which were hard to swallow",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Previously on 5mg/week Retatrutide but arms didn't get bigger in 6 months so tapered down to 1mg/week. Sleep has never been good and didn't notice worsening. Uses HCG on Sundays instead of SARMs.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.666701Z"
+}

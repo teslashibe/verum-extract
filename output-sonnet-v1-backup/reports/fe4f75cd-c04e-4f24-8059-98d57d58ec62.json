@@ -1,0 +1,56 @@
+{
+  "id": "fe4f75cd-c04e-4f24-8059-98d57d58ec62",
+  "source_id": "1f1lxlv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1f1lxlv/maxed_on_tirz_add_reta/",
+  "author_hash": "4a61a55a0eeae5d62d439922315152f4cf490d44d5a92533648cf50f4e90cd4d",
+  "confidence_tier": 4,
+  "date_published": "2024-08-26T04:33:14-07:00",
+  "training_status": "sedentary to lightly active (walking occasionally)",
+  "health_conditions": [
+    "pre-diabetic (now resolved)",
+    "insulin resistance (suspected)",
+    "heart rate condition requiring medication"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "frequency": "every 5 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 40 pounds on Tirzepatide overall",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Mild appetite suppression lasting 2-3 days per dose, now reduced to 1-2 days; reduction in food noise",
+      "severity": "mild"
+    },
+    {
+      "category": "other",
+      "description": "A1C dropped by approximately 0.75, now in normal range",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "HbA1c",
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "OP lost 40 lbs on Tirzepatide but has plateaued for ~3 months still 70 lbs from goal. Appetite suppression effectiveness declining significantly. Recently split dose to 8mg every 5 days hoping to improve efficacy. Eats one meal a day (dinner), targets under 1500 cal/day. On heart rate medication which limits options for adding Retatrutide. Pre-diabetic status resolved per recent physical. Asking about adding Retatrutide or Cagrilintide.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.291793Z"
+}

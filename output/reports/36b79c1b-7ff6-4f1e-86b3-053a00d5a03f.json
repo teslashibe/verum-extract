@@ -1,0 +1,63 @@
+{
+  "id": "36b79c1b-7ff6-4f1e-86b3-053a00d5a03f",
+  "source_id": "1rpura6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpura6/reta_to_triz_and_cjctesa_or_ipa/",
+  "author_hash": "9f60c51f1e16e8d3de6cb15819eae74daa568f51bca6580f6d84fc6cba465c11",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T04:48:34-07:00",
+  "training_status": "trains",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "better sleep with CJC/IPA combination, may solve Retatrutide-related sleep issues",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Tirzepatide caused too much appetite suppression, making it hard to eat",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "energy",
+      "description": "Low energy levels due to difficulty eating on Tirzepatide",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Switched from Tirzepatide to Retatrutide due to excessive appetite suppression affecting training. Recommends CJC/Ipamorelin combination over CJC/Tesamorelin due to redundant receptor pathways.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.666308Z"
+}

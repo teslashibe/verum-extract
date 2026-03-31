@@ -1,0 +1,49 @@
+{
+  "id": "da986a42-0e38-4a78-ad43-ba8d1bac2464",
+  "source_id": "1bpsf65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bpsf65/semaglutide_is_amazing/",
+  "author_hash": "74af5ee5f4f151ffe84dcfa7c92096cd04bcce9e93c8d4b3a0fe02e00d2549d3",
+  "confidence_tier": 4,
+  "date_published": "2024-03-28T03:39:16-07:00",
+  "health_conditions": [
+    "binge eating",
+    "emotional eating"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "5htp",
+      "name_normalized": "5htp",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "No longer craves fatty/bad foods, no binge eating",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "5htp leveled out mood, stopped emotional comfort seeking behavior towards food",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Takes 100mg 5htp at night (half the recommended 200mg dose). States semaglutide alone still resulted in eating bad food just less of it; the combination of sema + 5htp was transformative.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294028Z"
+}

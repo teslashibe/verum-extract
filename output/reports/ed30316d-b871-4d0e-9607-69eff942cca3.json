@@ -1,0 +1,55 @@
+{
+  "id": "ed30316d-b871-4d0e-9607-69eff942cca3",
+  "source_id": "1rry4wr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rry4wr/stuck_in_stall_with_triz_add_reta/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T11:02:21-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 215,
+    "unit": "lbs"
+  },
+  "training_status": "active, reduced gym frequency since Sept",
+  "health_conditions": [
+    "low testosterone (was 178, treated to 580 with clomid)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 17.5,
+      "dose_unit": "mcg",
+      "frequency": "every 8 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped from 268 lbs to 205 lbs with excellent results initially",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Helps control appetite"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_before": 178,
+      "value_after": 580,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "Started Jan 2025 with SW 268 lbs. Titrated tirzepatide up every 4-6 weeks. Hit stall in Sept 2025. Currently at 215 lbs with weight loss plateaued for months despite continued activity. Goal weight is under 200 lbs, ideally 185 lbs. Considering adding Retatrutide or switching entirely.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.665005Z"
+}

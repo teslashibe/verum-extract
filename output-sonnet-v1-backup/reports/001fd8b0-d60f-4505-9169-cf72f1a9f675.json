@@ -1,0 +1,84 @@
+{
+  "id": "001fd8b0-d60f-4505-9169-cf72f1a9f675",
+  "source_id": "1qxl6y2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxl6y2/cycle_42m_on_trt_anyone_using_lowdose_retatrutide/",
+  "author_hash": "4a7245d4cad2bb04b75919f19b7f21c65616c0e673bc18d19381a0dec2a2efb1",
+  "confidence_tier": 4,
+  "date_published": "2026-02-06T07:48:37-08:00",
+  "training_status": "Active, resistance training",
+  "health_conditions": [
+    "poor sleep history"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 75,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "frequency": "weekly (Sundays)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Maintained muscle mass throughout use, though arms did not grow bigger over 6 months",
+      "severity": "mild"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Got down to 11% body fat and looked great",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "At 1mg/week can eat enough to bulk without constantly thinking about food between meals",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "On higher doses had difficulty hitting protein goals with food; protein shakes were hard to consume; craves diet drinks more regardless of dose",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep has never been good but did not notice it getting worse on Reta"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "value_after": 11,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Was on 5mg/week, tapered down. Currently on 1mg/week for bulking phase. Used HCG instead of SARMs. At higher doses struggled to hit protein goals. Now recently started a bulk after arms not growing in 6 months on higher dose.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.12093Z"
+}

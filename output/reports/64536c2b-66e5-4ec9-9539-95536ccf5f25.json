@@ -1,0 +1,43 @@
+{
+  "id": "64536c2b-66e5-4ec9-9539-95536ccf5f25",
+  "source_id": "1rpfiad",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpfiad/questions_on_cjc1295ipamorelin/",
+  "author_hash": "6089e1a29dc0e8b467084628b31f4fb635cb60f7b510c3bf97a117d45f6f884a",
+  "confidence_tier": 5,
+  "date_published": "2026-03-09T15:49:04-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 205,
+    "unit": "lbs"
+  },
+  "training_status": "lifting seriously for 1.5 years, combat sports for 3-4 years",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Planned first cycle, considering 6-8 weeks at 150-200 mcg daily, asking about 4-week results. Evening administration mentioned.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.666582Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "7012e944-ea58-46d2-8dd6-df80fa8b299d",
+  "source_id": "1s1y4t8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1y4t8/middle_of_the_night_cjc1295ipa/",
+  "author_hash": "a7b2a6904bec0b34f8f9049d2fe415892fcc6beecad77536c6e9ee4d6964d7a7",
+  "confidence_tier": 5,
+  "date_published": "2026-03-23T17:00:35-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC/IPA",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Big flush and red face approximately 90 seconds after injection, lasting 10-15 minutes",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Increased heart rate following flush, lasting a bit longer than the flush; veins like a road map",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Experiences flush and elevated HR when injecting at night; recommends injecting 30-60 minutes before intended sleep time to allow side effects to subside.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104909Z"
+}

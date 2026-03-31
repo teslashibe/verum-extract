@@ -1,0 +1,186 @@
+{
+  "compound_id": "selank",
+  "display_name": "Selank",
+  "category": "cognitive",
+  "total_reports": 125,
+  "reports_by_tier": {
+    "3": 2,
+    "4": 52,
+    "5": 71
+  },
+  "top_benefits": [
+    {
+      "category": "mood",
+      "count": 27,
+      "pct": 50
+    },
+    {
+      "category": "cognitive",
+      "count": 21,
+      "pct": 38.9
+    },
+    {
+      "category": "sleep",
+      "count": 11,
+      "pct": 20.4
+    },
+    {
+      "category": "other",
+      "count": 11,
+      "pct": 20.4
+    },
+    {
+      "category": "fat_loss",
+      "count": 9,
+      "pct": 16.7
+    },
+    {
+      "category": "energy",
+      "count": 8,
+      "pct": 14.8
+    },
+    {
+      "category": "skin",
+      "count": 6,
+      "pct": 11.1
+    },
+    {
+      "category": "recovery",
+      "count": 5,
+      "pct": 9.3
+    },
+    {
+      "category": "libido",
+      "count": 4,
+      "pct": 7.4
+    },
+    {
+      "category": "muscle_gain",
+      "count": 3,
+      "pct": 5.6
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "other",
+      "count": 14,
+      "pct": 25.9,
+      "avg_severity": 2.1
+    },
+    {
+      "category": "injection_site",
+      "count": 4,
+      "pct": 7.4,
+      "avg_severity": 1.5
+    },
+    {
+      "category": "mood_change",
+      "count": 3,
+      "pct": 5.6,
+      "avg_severity": 2.3
+    },
+    {
+      "category": "fatigue",
+      "count": 2,
+      "pct": 3.7,
+      "avg_severity": 2.5
+    },
+    {
+      "category": "water_retention",
+      "count": 1,
+      "pct": 1.9,
+      "avg_severity": 2
+    },
+    {
+      "category": "sleep_disruption",
+      "count": 1,
+      "pct": 1.9,
+      "avg_severity": 2
+    },
+    {
+      "category": "headache",
+      "count": 1,
+      "pct": 1.9,
+      "avg_severity": 1
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 500,
+      "unit": "mcg",
+      "frequency": "",
+      "count": 2,
+      "pct": 1.6
+    },
+    {
+      "route": "nasal",
+      "dose": 10,
+      "unit": "mg",
+      "frequency": "",
+      "count": 2,
+      "pct": 1.6
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 250,
+      "unit": "mcg",
+      "frequency": "as needed",
+      "count": 1,
+      "pct": 0.8
+    },
+    {
+      "route": "nasal",
+      "dose": 1,
+      "unit": "mg",
+      "frequency": "once daily at bedtime",
+      "count": 1,
+      "pct": 0.8
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 1,
+      "unit": "mg",
+      "frequency": "as needed (evening)",
+      "count": 1,
+      "pct": 0.8
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "semax",
+      "display_name": "Semax",
+      "report_count": 76
+    },
+    {
+      "compound_id": "mots_c",
+      "display_name": "mots c",
+      "report_count": 14
+    },
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Reta",
+      "report_count": 14
+    },
+    {
+      "compound_id": "kpv",
+      "display_name": "BPC",
+      "report_count": 12
+    },
+    {
+      "compound_id": "epithalon",
+      "display_name": "Epitalon",
+      "report_count": 11
+    }
+  ],
+  "avg_cycle_length_days": 17.2,
+  "avg_sentiment_score": 0.714,
+  "sentiment_breakdown": {
+    "positive": 72,
+    "mixed": 29,
+    "negative": 13,
+    "neutral": 11
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.971652Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ee93457b-7701-4626-8ba8-202cfc626364",
+  "source_id": "1r2afsa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2afsa/explain_to_me_like_im_5_years_old/",
+  "author_hash": "2f3d78dc3dbc4f0f7b33fe6822de42d4cec6881447f7846f3a49d1af4caed855",
+  "confidence_tier": 4,
+  "date_published": "2026-02-11T13:36:50-08:00",
+  "reported_age_range": "40-49",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GH secretagogue (unspecified)",
+      "name_normalized": "gh_secretagogue_unspecified",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 140,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "subtle effects on body composition; reports limited obvious benefit even with concurrent 6iu HGH",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User is older and suspects they may be an under-responder. Ran GH secretagogue peptides concurrently with 6iu real HGH for 20 weeks. Notes that GLP-1 peptides are an exception to subtle effects. Reports TRT testosterone has more undeniable results than peptides for body composition and muscle growth, dollar for dollar. Emphasizes importance of sleep, training, and nutrition over peptides.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677249Z"
+}

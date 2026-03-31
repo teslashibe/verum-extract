@@ -1,0 +1,52 @@
+{
+  "id": "1757654d-0fe0-4201-a053-c3526268af4d",
+  "source_id": "1rpura6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpura6/reta_to_triz_and_cjctesa_or_ipa/",
+  "author_hash": "9ff7da76ac38606d0a79a42a154f867c04613a03b6df619056f9fd4ed360c5b2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T04:48:34-07:00",
+  "training_status": "trains regularly, eats well",
+  "health_conditions": [
+    "sleep issues"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Reta helps control food noise and intake with ease",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Trouble sleeping is becoming a significant issue while on Reta",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Started Reta at 0.5mg and remained on that dose after one month. Considering switching to Tirzepatide. Planning to try CJC solo first, then potentially add Ipamorelin for sleep improvement.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.110281Z"
+}

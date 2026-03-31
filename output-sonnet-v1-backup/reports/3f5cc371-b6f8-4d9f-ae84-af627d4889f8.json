@@ -1,0 +1,52 @@
+{
+  "id": "3f5cc371-b6f8-4d9f-ae84-af627d4889f8",
+  "source_id": "1p3ly65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p3ly65/why_the_f_is_everyone_dosing_reta_so_high/",
+  "author_hash": "ef3a41d6f06da14dd4b941f9a6f0720a7d864c754f6b52af60fbfcbf16634e9d",
+  "confidence_tier": 4,
+  "date_published": "2025-11-21T22:10:12-08:00",
+  "training_status": "bulking",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost all target weight",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Currently using 1-2mg for appetite control during bulk",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Really bad skin sensitivity at 4mg",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "nausea",
+      "description": "Stomach issues at 4mg",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started at 1mg (great appetite suppression for first couple weeks), went to 2mg and stayed ~2 months, then 3mg, then 4mg but had bad skin sensitivity and stomach issues at 4mg. Dropped reta temporarily and plans to resume in a month. Now on 1-2mg for appetite control during bulk phase. All weight loss goals achieved.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.263973Z"
+}

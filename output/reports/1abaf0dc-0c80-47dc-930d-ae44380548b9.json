@@ -1,0 +1,59 @@
+{
+  "id": "1abaf0dc-0c80-47dc-930d-ae44380548b9",
+  "source_id": "1pd4pee",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pd4pee/motsc_and_gym_performancemood/",
+  "author_hash": "fcae83754b2a93e1b7f77383d4e2c6a17e7b29613225750dc662fdc9a99d677a",
+  "confidence_tier": 4,
+  "date_published": "2025-12-03T05:51:27-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "frequency": "3x weekly (as needed on busiest days or for athletic performance)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Energy boost noticed within first hour, effects ebb and flow throughout day",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Lump under skin for a few days after MOTS-c injection",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 3
+    }
+  ],
+  "protocol_notes": "User takes MOTS-c as needed, max 3 days per week with days off, no planned cycling off. Using SS-31 as adjunct. Also uses Selank and Semax. Considering IM injection to avoid injection site lump.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.675508Z"
+}

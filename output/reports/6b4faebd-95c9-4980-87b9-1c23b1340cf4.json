@@ -1,0 +1,58 @@
+{
+  "id": "6b4faebd-95c9-4980-87b9-1c23b1340cf4",
+  "source_id": "1p7oo7v",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p7oo7v/your_vote_for_best_peptide_for_reducing/",
+  "author_hash": "1b4a46d259649217b2b54d6614934f9a1b98637ea285a51cac2b5e947a19e255",
+  "confidence_tier": 4,
+  "date_published": "2025-11-26T16:49:07-08:00",
+  "health_conditions": [
+    "gut issues",
+    "joint pain",
+    "bloating",
+    "food sensitivity",
+    "MCAS",
+    "post-COVID"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "decrease in joint pain and general aches",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "inflammation",
+      "description": "significantly reduced inflammation",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "anxiety_relief",
+      "description": "anxiety almost completely disappeared",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "OP considering adding KPV after a couple more weeks on Retatrutide. Uses H1/H2 antihistamines daily for MCAS management.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.392571Z"
+}

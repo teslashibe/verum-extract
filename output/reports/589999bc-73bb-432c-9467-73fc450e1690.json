@@ -1,0 +1,49 @@
+{
+  "id": "589999bc-73bb-432c-9467-73fc450e1690",
+  "source_id": "1nmzgst",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nmzgst/anyone_using_pharmaceutical_sermorelin/",
+  "author_hash": "a9d48a7684e6c1e4edc7ff1849819d1d7d24b5c35e142b239656743804c62d61",
+  "confidence_tier": 4,
+  "date_published": "2025-09-21T11:23:40-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "nasal",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "sleep help from second week onward",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "rough first week",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Pharmaceutical sublingual form. Switched to AM dosing to accommodate tirzepatide use and intermittent fasting schedule (fasting until 3-4 PM most weekdays). Interrupted by COVID infection during trial period.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.681224Z"
+}

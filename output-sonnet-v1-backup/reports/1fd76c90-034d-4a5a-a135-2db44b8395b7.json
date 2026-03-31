@@ -1,0 +1,31 @@
+{
+  "id": "1fd76c90-034d-4a5a-a135-2db44b8395b7",
+  "source_id": "1qtsnge",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtsnge/cjc_1295ipamorelin_sleep_problems/",
+  "author_hash": "c7f1798833983b602e7052d90823e0989f11e280c39bcb1971713b307dfaf481",
+  "confidence_tier": 5,
+  "date_published": "2026-02-02T03:34:14-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC/Ipamorelin",
+      "name_normalized": "cjc_ipamorelin",
+      "category": "other",
+      "frequency": "3x daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Cannot sleep well unless splitting into 3 daily doses",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Splits into 3 daily doses to avoid sleep disruption.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.122203Z"
+}

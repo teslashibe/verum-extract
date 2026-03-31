@@ -1,0 +1,72 @@
+{
+  "compound_id": "copper",
+  "display_name": "copper",
+  "category": "other",
+  "total_reports": 5,
+  "reports_by_tier": {
+    "4": 1,
+    "5": 4
+  },
+  "top_benefits": [
+    {
+      "category": "hair",
+      "count": 1,
+      "pct": 100
+    }
+  ],
+  "top_side_effects": null,
+  "common_doses": [
+    {
+      "route": "oral",
+      "dose": 2.5,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 20
+    },
+    {
+      "route": "oral",
+      "dose": 1,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 20
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "ghk_cu",
+      "display_name": "GHK-CU",
+      "report_count": 2
+    },
+    {
+      "compound_id": "zinc",
+      "display_name": "zinc",
+      "report_count": 2
+    },
+    {
+      "compound_id": "tirzepatide",
+      "display_name": "tirz",
+      "report_count": 1
+    },
+    {
+      "compound_id": "tesamorelin",
+      "display_name": "tesa",
+      "report_count": 1
+    },
+    {
+      "compound_id": "kpv",
+      "display_name": "bpc",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.55,
+  "sentiment_breakdown": {
+    "positive": 2,
+    "mixed": 1,
+    "negative": 1,
+    "neutral": 1
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.97027Z"
+}

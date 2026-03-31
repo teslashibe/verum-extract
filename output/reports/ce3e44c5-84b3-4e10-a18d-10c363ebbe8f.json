@@ -1,0 +1,97 @@
+{
+  "id": "ce3e44c5-84b3-4e10-a18d-10c363ebbe8f",
+  "source_id": "1n2ytoq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n2ytoq/i_went_to_the_er_tonight_bpc157_side_effects/",
+  "author_hash": "bf3a96cf67d10ef841b468d5d95e1fd0d23d92b16009b59fe74088e653dd24cc",
+  "confidence_tier": 4,
+  "date_published": "2025-08-28T22:19:28-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 150,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "history of preeclampsia",
+    "IBS"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "cycle_length_days": 3,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Building up over a few days",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "nausea",
+      "description": "Horrible nausea building up over a few days",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "headache",
+      "description": "Horrible migraine",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "blood_pressure",
+      "description": "BP elevated to 170/98 at home, 170/110 at ER. Accompanied by dizziness and feeling like passing out. Same symptoms as preeclampsia episode 2 years prior.",
+      "severity": "significant",
+      "onset_days": 3,
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "blood_pressure",
+      "value_after": 170,
+      "unit": "mmHg systolic",
+      "timeframe_days": 3
+    },
+    {
+      "marker_name": "blood_pressure_diastolic",
+      "value_after": 98,
+      "unit": "mmHg diastolic",
+      "timeframe_days": 3
+    },
+    {
+      "marker_name": "blood_pressure_er",
+      "value_after": 110,
+      "unit": "mmHg diastolic",
+      "timeframe_days": 3
+    },
+    {
+      "marker_name": "blood_pressure_discharge",
+      "value_after": 127,
+      "unit": "mmHg systolic",
+      "timeframe_days": 3
+    },
+    {
+      "marker_name": "blood_pressure_discharge_diastolic",
+      "value_after": 80,
+      "unit": "mmHg diastolic",
+      "timeframe_days": 3
+    }
+  ],
+  "protocol_notes": "0.5mg BPC-157 taken twice daily (morning and night). Recent NAD+ shot approximately 1 week prior to BP spike with mild hot flush lasting ~20 minutes. OP states she had prior exposure to NAD+ without negative effects other than hot flush. OP has history of preeclampsia at 35 weeks pregnant 2 years ago (2 years prior to this event, so approximately 2023). Height 5'5\". OP is 6 years sober. Tested negative for COVID and flu at ER. Treated with clonidine at ER. OP states she does not take other medications. OP willing to retry at smaller dose but ultimately decided not to pursue further.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.399765Z"
+}

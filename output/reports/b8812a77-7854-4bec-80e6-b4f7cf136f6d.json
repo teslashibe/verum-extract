@@ -1,0 +1,78 @@
+{
+  "id": "b8812a77-7854-4bec-80e6-b4f7cf136f6d",
+  "source_id": "1fu7ef3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fu7ef3/ghkcu_unexpected_success_story_in_just_9_days/",
+  "author_hash": "f3f025bc43ca4140fc6380f500fffeeb731457259e5a9500796763043859da59",
+  "confidence_tier": 4,
+  "date_published": "2024-10-01T20:52:29-07:00",
+  "health_conditions": [
+    "dry skin on right shoulder (chronic, 1-2 years)",
+    "dry skin (general)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "cycle_length_days": 9,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.6,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "cycle_length_days": 9,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 3.1,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "cycle_length_days": 9,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Face became oily (shift from chronically dry skin)",
+      "severity": "moderate",
+      "onset_days": 9
+    },
+    {
+      "category": "skin",
+      "description": "Resolution of chronic red, peeling dry patch on right shoulder that had persisted 1-2 years; now normal skin texture",
+      "severity": "significant",
+      "onset_days": 9
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Burning and itching at injection sites",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 2
+    }
+  ],
+  "protocol_notes": "Pre-made blend from supplier (one vial). Initial injections caused significant injection site reaction (36 hours burning/itching). Resolved by: (1) diluting injections extensively, (2) splitting dose across two injection sites, and (3) eventually using three 0.3 ml injections instead of two. Injection site: love handle (subQ). User reports no pain at love handle injection site.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696058Z"
+}

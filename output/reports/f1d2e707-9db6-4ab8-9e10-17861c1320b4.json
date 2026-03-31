@@ -1,0 +1,66 @@
+{
+  "id": "f1d2e707-9db6-4ab8-9e10-17861c1320b4",
+  "source_id": "1r7q37o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r7q37o/tesamorelin/",
+  "author_hash": "bfcb537432263dad5db41db5061e063e91908d548b63d664cd5b09953747938a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-17T18:03:19-08:00",
+  "reported_age_range": "30-39",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "every other night",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "IGF-1 into the 400s",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Joint pain from Tesa/Ipa at 2mg nightly",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "injection_site",
+      "description": "Regular PIP with Tesa - bump, bruise, redness",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_after": 400
+    }
+  ],
+  "protocol_notes": "Started with 2mg Tesa nightly, adjusted to 2mg every other night to reduce joint pain. Cycled off and switched to HGH. Late 30s. No PIP or side effects with HGH so far. Notes exogenous hormone shutdown risk is within tolerance at his age.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662649Z"
+}

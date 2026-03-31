@@ -1,0 +1,48 @@
+{
+  "id": "8b00f48b-b985-4227-a0d5-6bb8116c6721",
+  "source_id": "1s0iqgr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s0iqgr/bpc_and_tb/",
+  "author_hash": "9d659cc8fb7268b849f76f3828712223c6d31003adb7322ba41b369784a6aa95",
+  "confidence_tier": 4,
+  "date_published": "2026-03-22T03:59:36-07:00",
+  "health_conditions": [
+    "shoulder injury"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "minimal success so far",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "BPC/TB blend. Injecting subcutaneously in abdomen. Seeking advice on injection location optimization for shoulder injury treatment.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.648571Z"
+}

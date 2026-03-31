@@ -1,0 +1,129 @@
+{
+  "id": "f623415a-67fb-487e-98cd-066db0e53f2f",
+  "source_id": "1ljzhud",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ljzhud/lab_tests_are_in/",
+  "author_hash": "c4d226f6340a8a09687687028d3909c0ae280a16d9e6fd3f50e3fb85919b5e99",
+  "confidence_tier": 3,
+  "date_published": "2025-06-25T00:38:57-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "1x daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "1x daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mg",
+      "frequency": "1x daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "1x weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Enclomiphene",
+      "name_normalized": "enclomiphene",
+      "category": "hormonal",
+      "route": "oral",
+      "dose_value": 6.25,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cardarine",
+      "name_normalized": "cardarine",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "frequency": "everyday",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Body fat reduced from ~16% to ~13% over 6 weeks based on InBody scale",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "1.5kg increase in lean body mass",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Overall feeling great",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Testosterone",
+      "value_before": 324,
+      "value_after": 636.5,
+      "unit": "ng/dL",
+      "timeframe_days": 42
+    },
+    {
+      "marker_name": "IGF-1",
+      "value_after": 263.9,
+      "unit": "ng/mL",
+      "timeframe_days": 42
+    },
+    {
+      "marker_name": "FSH",
+      "value_after": 5,
+      "unit": "mIU/mL",
+      "timeframe_days": 42
+    },
+    {
+      "marker_name": "LH",
+      "value_after": 6.02,
+      "unit": "mIU/mL",
+      "timeframe_days": 42
+    }
+  ],
+  "protocol_notes": "Tesa, Ipa, and AOD were noted to be below clinical doses. Enclomiphene was microdosed. OP noted Ipamorelin and AOD dosages were listed in mg but may have been intended as mcg per commenter feedback. Goal is continued fat loss.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.280817Z"
+}

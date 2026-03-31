@@ -1,0 +1,42 @@
+{
+  "id": "c70779e1-76b6-40a5-a71c-930edd40ad2b",
+  "source_id": "1s2lsr1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s2lsr1/weight_stalled_since_october_2025/",
+  "author_hash": "5bb262b154374bd533eed1f98794eab3349fafe3549c8568ffacbb17ce85b4df",
+  "confidence_tier": 4,
+  "date_published": "2026-03-24T11:18:23-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Better weight loss results on combined 5mg Reta + 5mg Tirz than on 15mg Reta alone",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Previously stalled on 15mg Retatrutide. Switched to combination protocol of 5mg Reta + 5mg Tirz with better results. Titrated down from 15mg Reta and adjusted doses weekly. Uses online calculator (joyapp.com/peptides) to manage dosing from various vial strengths. Tracks all peptide administrations with date, time, and dose in online calendar. Adjusts doses gradually as needed.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.647441Z"
+}

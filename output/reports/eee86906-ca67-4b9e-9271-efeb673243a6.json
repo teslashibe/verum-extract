@@ -1,0 +1,55 @@
+{
+  "id": "eee86906-ca67-4b9e-9271-efeb673243a6",
+  "source_id": "1pstfqo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pstfqo/peptides_for_love_handles_male/",
+  "author_hash": "74f0b9a4de4ae9d80e49ba8329a8bea46b655251e4a9f0db685ef8f32a89ae11",
+  "confidence_tier": 4,
+  "date_published": "2025-12-21T23:20:57-08:00",
+  "reported_sex": "male",
+  "training_status": "cardio trained",
+  "compounds": [
+    {
+      "name_raw": "Yohimbine HCL",
+      "name_normalized": "yohimbine_hcl",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "pre-workout (fasted)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "L-Carnitine",
+      "name_normalized": "l_carnitine",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 2,
+      "dose_unit": "g",
+      "frequency": "morning (fasted)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Yohimbine HCL increases fat loss during fasted cardio",
+      "severity": "moderate"
+    },
+    {
+      "category": "libido",
+      "description": "Yohimbine HCL increases libido, noticeably stronger erections",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Increases energy levels for workouts",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Fasted morning cardio protocol: 5g BCAA powder + 5mg Yohimbine HCL capsules + 2g L-Carnitine Tartrate. Emphasizes must be taken on empty stomach. Also mentions Clen as option but notes it requires titration starting with low dose.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.673593Z"
+}

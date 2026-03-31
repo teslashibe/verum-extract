@@ -1,0 +1,37 @@
+{
+  "id": "98214881-c4e3-4c17-995d-32391e2aceec",
+  "source_id": "1quw4sr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1quw4sr/reta_sleep_problems/",
+  "author_hash": "3d3e87f3ab49c834efabded83ad15b7ade6c060dc92e8411350691dd1282e5d9",
+  "confidence_tier": 5,
+  "date_published": "2026-02-03T08:13:13-08:00",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Melatonin helps enough with sleep disruption caused by Reta",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Implied sleep issues on Reta, managed with melatonin",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Takes a small melatonin tablet a few nights per week to manage Reta-induced sleep disruption.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121601Z"
+}

@@ -1,0 +1,124 @@
+{
+  "id": "102c631b-9198-4ee6-9d0b-199a9e30e004",
+  "source_id": "1k6ktpw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k6ktpw/bpc_157_for_necrotic_scars_and_incisional_scars/",
+  "author_hash": "2fc109ad47351be75a8f580e33b05c0d9f72ddd3363fd09434453e2d2cc5f1b4",
+  "confidence_tier": 4,
+  "date_published": "2025-04-23T22:45:36-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "60+",
+  "health_conditions": [
+    "surgical scars",
+    "elevated iron levels",
+    "necrotic/incisional scars"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "topical",
+      "dose_value": 50,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Scar tissue filling in, indents reduced, scar appearance improving",
+      "severity": "moderate"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Wound bleeding stopped quickly after injection",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hormonal",
+      "description": "Elevated iron levels (\u003e1500, normal 10-300), likely caused by spironolactone discontinuation and peptide-induced hepcidin reduction",
+      "severity": "significant"
+    },
+    {
+      "category": "anxiety",
+      "description": "Anxiety from discovering elevated iron levels and undisclosed peptide use",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Iron",
+      "value_after": 1500,
+      "unit": "ng/mL"
+    }
+  ],
+  "protocol_notes": "6 months post-op surgical scars. Mixed BPC-157 with collagen and covered with silicone tape. Also using Spironolactone (discontinued), NAC supplement retained. Multiple peptides in concurrent use (Retatrutide, Semaglutide, Tirzepatide, TB-500, Semax, MOTS-c, SS-31) with concern about combined hepcidin-lowering effects causing iron elevation. Husband and doctor unaware of peptide use.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.692087Z"
+}

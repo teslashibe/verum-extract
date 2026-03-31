@@ -1,0 +1,50 @@
+{
+  "id": "c8e6b419-a3ec-4eab-84c2-9ddec0fe8547",
+  "source_id": "1rzv4yt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzv4yt/ghk_dosing/",
+  "author_hash": "86fc7e88c40ce0cb28eda58dccd8c978df2325004546920c3050978560b9635f",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T09:01:46-07:00",
+  "health_conditions": [
+    "hair loss from chemotherapy"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "New hair growth in areas that had lost hair during chemo and never came back",
+      "severity": "significant",
+      "onset_days": 150
+    },
+    {
+      "category": "skin",
+      "description": "Skin looked better and fine lines were softening",
+      "severity": "significant",
+      "onset_days": 120
+    },
+    {
+      "category": "other",
+      "description": "Nails were stronger and growing fast",
+      "severity": "moderate",
+      "onset_days": 28
+    }
+  ],
+  "protocol_notes": "User is a believer in GHK. Timeline: 4-5 weeks for nail effects, 4 months for skin improvements, 5-6 months for hair regrowth. History of chemotherapy-induced hair loss.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660161Z"
+}

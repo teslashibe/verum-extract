@@ -1,0 +1,49 @@
+{
+  "id": "c932e9c9-5afc-4d1c-bc73-f287844a2acf",
+  "source_id": "1ruf5ub",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ruf5ub/information_on_igf1lr3_storage/",
+  "author_hash": "29938fd6dca1cd3a1c6aa4695e6a50368a645fef4d7e6b9bc8cbc3147977eecb",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T07:16:17-07:00",
+  "training_status": "lifting (resumed after years off)",
+  "health_conditions": [
+    "growth hormone deficiency (history)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "mcg",
+      "frequency": "not specified",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "adding a lot of muscle, attributed partly to newbie gains from resuming proper lifting",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "feels great",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "First cycle. Using both HGH and IGF-1 LR3 together. Started treatment due to historical growth hormone deficiency. Concerned about IGF-1 receptor desensitization with higher doses. Storing reconstituted IGF-1 LR3 in refrigerator; concerned about degradation over 30-50 day period.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.651715Z"
+}

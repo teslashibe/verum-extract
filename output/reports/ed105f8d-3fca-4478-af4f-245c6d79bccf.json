@@ -1,0 +1,53 @@
+{
+  "id": "ed105f8d-3fca-4478-af4f-245c6d79bccf",
+  "source_id": "1rum95a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rum95a/experiences_with_cjc1295ipamorelin_while_on/",
+  "author_hash": "7dacb88cce47329a59317e23562db9adadae8d283396a3295a6d661703ee7aaf",
+  "confidence_tier": 5,
+  "date_published": "2026-03-15T11:51:32-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 180,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 180,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "great for sleep",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "great for recovery",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Running CJC/Ipa with Tirzepatide for about 6 months. Sources from nextgenpeps. All orders reported as good quality.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.651567Z"
+}

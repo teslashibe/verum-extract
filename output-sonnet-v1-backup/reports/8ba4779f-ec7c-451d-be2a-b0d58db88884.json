@@ -1,0 +1,46 @@
+{
+  "id": "8ba4779f-ec7c-451d-be2a-b0d58db88884",
+  "source_id": "1hnhlj0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1hnhlj0/before_and_after_sermorelin/",
+  "author_hash": "c4b60a9a8acccd7c3639eb7cb1bac119dec0707d100ec191ee2096b256536096",
+  "confidence_tier": 4,
+  "date_published": "2024-12-27T07:43:18-08:00",
+  "health_conditions": [
+    "extreme stress"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "When timed correctly (~1 hour before bed), achieves 65% SWS and REM out of total sleep time with very high HRV recoveries",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Face-flushed sensation when dose taken in the middle of the night (woke at midnight and dosed); also difficulty falling back asleep",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Hard to fall back asleep when dosed too early (5 hours before bed) or in the middle of the night",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Optimal timing appears to be ~1 hour before bed. Dosing 5 hours before bed showed less noticeable effect. Currently under extreme stress which is overriding sleep benefits.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.288754Z"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "8c67231f-01ad-461b-8399-d3d84aceb4c3",
+  "source_id": "1oznki3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oznki3/10_day_fast_peptide_augemented/",
+  "author_hash": "71ad7af6a5365180ab76119823c77ffee39c92cd0b04de7aff2972f29eeb98b9",
+  "confidence_tier": 5,
+  "date_published": "2025-11-17T10:09:37-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Minimize muscle loss during fasting"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Augment fat burning during fasting"
+    }
+  ],
+  "protocol_notes": "Planned protocol for 10-day water fast. Pre-mixed blend of Tesa/IPA/CJC (no DAC version). Considering addition of AOD-9604. Already has Semaglutide but believes it would add little value during fasting. User has prior fasting experience (1-2 fasts of 3-4 days duration annually).",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.393518Z"
+}

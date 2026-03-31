@@ -1,0 +1,35 @@
+{
+  "id": "08f09862-1238-4772-b3e3-a5ee51843f26",
+  "source_id": "1r32bf1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r32bf1/tesaipa_blend/",
+  "author_hash": "53063f621749b46acb31f6290be1df5965ceb9eeecf85b7a7011ebf0f75cd345",
+  "confidence_tier": 4,
+  "date_published": "2026-02-12T11:06:37-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Running 1mg Tesa and 200mcg Ipa combination. Using glucose monitor to track blood sugar due to concern about insulin level increases from Tesamorelin. Notes that Tesamorelin alone increases insulin levels and the two compounds are not highly compatible at higher doses.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.664464Z"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "4ad294c5-ffbb-4975-bc77-3a0731df1053",
+  "source_id": "1qrq52i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qrq52i/hgh_for_41m_who_is_very_active_and_normal_to_high/",
+  "author_hash": "77b76db80f595fc4ba7c86f3580aefd1e2a79e759242ca824420de853ea39a89",
+  "confidence_tier": 4,
+  "date_published": "2026-01-30T18:37:32-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "highly active, 4-5 days/week running, swimming, weights",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "overall higher energy",
+      "severity": "moderate",
+      "onset_days": 4
+    },
+    {
+      "category": "joint_pain",
+      "description": "joints/muscles feel better",
+      "severity": "moderate",
+      "onset_days": 4
+    },
+    {
+      "category": "mood",
+      "description": "boost in mood",
+      "severity": "moderate",
+      "onset_days": 4
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Total Testosterone",
+      "value_before": 895,
+      "unit": "ng/dL"
+    },
+    {
+      "marker_name": "SHBG",
+      "value_before": 69
+    },
+    {
+      "marker_name": "Bioavailable Testosterone",
+      "value_before": 146.2
+    },
+    {
+      "marker_name": "Free Testosterone",
+      "value_before": 66.8
+    },
+    {
+      "marker_name": "IGF-1 BP1",
+      "value_before": 20
+    },
+    {
+      "marker_name": "GH",
+      "value_before": 0.1
+    },
+    {
+      "marker_name": "Prolactin",
+      "value_before": 6.5
+    }
+  ],
+  "protocol_notes": "CJC-1295 No DAC + Ipamorelin stack. User plans 6-week evaluation period. Highly sensitive to energy-affecting compounds. Concerned about hair loss, future dependency, and side effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.681828Z"
+}

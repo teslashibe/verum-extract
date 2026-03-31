@@ -1,0 +1,43 @@
+{
+  "id": "5125f3f3-ed6b-4589-85c0-966a082aa8e7",
+  "source_id": "sxjsqp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/sxjsqp/best_sleep_of_my_life_on_cjc_1295ipamorelin/",
+  "author_hash": "e86988c8bd37bebbdb288dcd63157ba3f1d983fced52683ab3c4cfcfe933eb1c",
+  "confidence_tier": 4,
+  "date_published": "2022-02-20T19:48:51-08:00",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Really solid sleep",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Same dose as OP (2mg/2ml total). Started two weeks prior to comment date.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.702364Z"
+}

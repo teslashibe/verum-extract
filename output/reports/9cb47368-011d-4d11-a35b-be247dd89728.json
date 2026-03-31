@@ -1,0 +1,42 @@
+{
+  "id": "9cb47368-011d-4d11-a35b-be247dd89728",
+  "source_id": "1r7231w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r7231w/anybody_else/",
+  "author_hash": "7eced37680c65cbaf4c17a1bd591573dd6d89ff02b38351b695af850f1e07e8a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-17T02:03:02-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5 days per week",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Pants are falling off, notable fat loss results",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep issues resolved after moving injection to 3pm",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Tesamorelin 1mg/day injected subcutaneously into abdomen at 3pm, 5 days per week. Described as 'flat out remarkable' for fat loss. Food does not interfere with pharmacokinetics per prescribing information.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.675224Z"
+}

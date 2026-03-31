@@ -1,0 +1,54 @@
+{
+  "id": "4a7ce1b4-475e-44df-a7f3-b17d0a28b584",
+  "source_id": "1rayuvi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rayuvi/look_for_libido_boost_help/",
+  "author_hash": "8ffd36b5f9b95a9242938699d05e0c3753e7f1ae1fa8bbf9f98ec2416a6308d6",
+  "confidence_tier": 3,
+  "date_published": "2026-02-21T10:39:16-08:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "low LH levels"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "kisspeptin-10",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "3 days per week",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "libido",
+      "description": "Noticeable libido boost",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Tingling sensation in testes, potentially indicating increase in testosterone production",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "LH"
+    },
+    {
+      "marker_name": "testosterone"
+    },
+    {
+      "marker_name": "FSH"
+    }
+  ],
+  "protocol_notes": "Started kisspeptin-10 due to low LH on blood test with normal testosterone and FSH. Plans to check testosterone on next bloods to see if kisspeptin increases it. References clinical data on kisspeptin-10 and kisspeptin-54.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.116134Z"
+}

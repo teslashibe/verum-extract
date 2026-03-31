@@ -1,0 +1,61 @@
+{
+  "id": "4cceb1eb-8789-4c0c-96dc-3f527e9e27be",
+  "source_id": "1s3yfim",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3yfim/first_time_glp_user_tirzepatide_vs_retatrutide/",
+  "author_hash": "fcb01fd88b60dec2bfaebdc5cce324d4d8d5f429420001a6e8974738d2964d00",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T22:07:06-07:00",
+  "reported_weight": {
+    "value": 250,
+    "unit": "lbs"
+  },
+  "training_status": "lifting",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "cycle_length_days": 133,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 34 lbs in 19 weeks",
+      "severity": "significant",
+      "onset_days": 133
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Really suppresses hunger and appetite",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Causes constipation",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_loss",
+      "description": "Lost 30 pounds on incline bench, experiencing muscle and strength loss",
+      "severity": "significant"
+    },
+    {
+      "category": "nausea",
+      "description": "Minimal nausea, wave-like 10 mins every once in a while",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Started at 2.5mg and stayed for 7 weeks until food noise returned and no weight change. Currently at 6mg at 19 weeks. Started at 284 lbs, now at 250 lbs. On TRT. Recommends slow titrations and notes loss of muscle/strength despite eating protein.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.657803Z"
+}

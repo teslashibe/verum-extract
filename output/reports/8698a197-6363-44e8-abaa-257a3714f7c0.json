@@ -1,0 +1,64 @@
+{
+  "id": "8698a197-6363-44e8-abaa-257a3714f7c0",
+  "source_id": "1qxv98o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxv98o/stack_for_mitochondrial_repair_questions/",
+  "author_hash": "27fb3f00dbf5a22f183a738b8eae0fd8683c1f748a0aee3f5339fd1070edbdfa",
+  "confidence_tier": 4,
+  "date_published": "2026-02-06T13:57:56-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily, titrating to 2mg daily",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "5-Amino-1MQ",
+      "name_normalized": "5_amino_1mq",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "frequency": "daily in the morning",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "3x weekly, titrating from 1mg to 3mg",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mitochondrial_repair",
+      "description": "Running cellular repair cycle"
+    }
+  ],
+  "protocol_notes": "Proposed protocol seeking feedback. 12-week cycle: Weeks 1-4 include NAD+, SS-31, and 5-Amino-1MQ. Weeks 5-12 replace SS-31 with MOTS-C. 5-Amino-1MQ administered subcutaneously at 500mcg to 1mg daily.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.666474Z"
+}

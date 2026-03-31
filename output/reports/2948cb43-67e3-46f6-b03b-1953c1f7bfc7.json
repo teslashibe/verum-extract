@@ -1,0 +1,53 @@
+{
+  "id": "2948cb43-67e3-46f6-b03b-1953c1f7bfc7",
+  "source_id": "1qtdny5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtdny5/what_time_of_day_to_take_ipa_cjc_no_dac/",
+  "author_hash": "55b47f0cdc28a5e6e0e7e8025ef287f20ad6f162b5e1d7b9f1ffeaa7ee752068",
+  "confidence_tier": 4,
+  "date_published": "2026-02-01T14:57:14-08:00",
+  "training_status": "trains in morning",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "helps with recovery",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "helps with energy",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "heard it helps with sleep but doesn't help for user",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Takes upon waking, fasted. Morning workout routine. User notes sleep benefit not experienced personally but recovery and energy benefits observed.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.668339Z"
+}

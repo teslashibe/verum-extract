@@ -1,0 +1,76 @@
+{
+  "id": "3a2234dd-a404-4133-b4d8-774a88048130",
+  "source_id": "18q1n79",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/18q1n79/which_peptides_are_best_for_antiaging/",
+  "author_hash": "eb95db225c9d626da0526178e41a77c689dccb1ea96493eb1ee76bda82a343e2",
+  "confidence_tier": 4,
+  "date_published": "2023-12-24T11:10:16-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "3x weekly for 1 month, then once weekly for 1 month",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "multiple times weekly or as needed",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "General anti-aging protocol"
+    }
+  ],
+  "protocol_notes": "Comprehensive anti-aging stack with cycling protocols. GHK-Cu 2 months on, 1 month off. Epithalon dosing ranges from 100 mcg to 10 mg daily. NAD+ dosing 10-100 mg range.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.699577Z"
+}

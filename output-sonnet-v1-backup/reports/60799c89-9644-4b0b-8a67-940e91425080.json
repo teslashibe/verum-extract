@@ -1,0 +1,62 @@
+{
+  "id": "60799c89-9644-4b0b-8a67-940e91425080",
+  "source_id": "1o053oo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o053oo/hgh_reta_vs_tesaipa_tirz/",
+  "author_hash": "2334ef663d577dc4d4abf62db60078772096abce68e4d260a3050d00d406424a",
+  "confidence_tier": 4,
+  "date_published": "2025-10-06T21:24:34-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "training_status": "Personal trainer and group fitness instructor, lifting 3x/week, fasted cardio 2-4x/week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tesa/ipa",
+      "name_normalized": "tesaipa",
+      "category": "other",
+      "route": "subcutaneous",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "cycle_length_days": 105,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ss31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Body fat reduced from 24% to 18% with no muscle loss over combined protocol period",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    },
+    {
+      "marker_name": "body fat percentage",
+      "value_before": 24,
+      "value_after": 18,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "No titration on tirz. Zero alcohol, quality sleep, strict but moderate caloric deficit, fasted cardio 2-4x/week, lifting 3x/week, sauna 2-4x/week. Planning ss31 cycle followed by MOTS-C then NAD. Labs confirmed IGF-1 elevated and on higher end for age. Hormonal panel done, not perimenopausal.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.268801Z"
+}

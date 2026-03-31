@@ -1,0 +1,92 @@
+{
+  "id": "3971a123-093f-45b6-83e8-056c196a1cd3",
+  "source_id": "1mtsaq2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mtsaq2/stack_recommendations/",
+  "author_hash": "8f7d90dd1dabff0d9b494010caad6569c8d69f3e439dc229677846dccc6d9797",
+  "confidence_tier": 4,
+  "date_published": "2025-08-18T10:18:26-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "L-Carnitine",
+      "name_normalized": "l_carnitine",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 600,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cardarine",
+      "name_normalized": "cardarine",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "4 days per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "pre-workout",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Recovery time significantly reduced, able to train second day sessions multiple times per week",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "energy",
+      "description": "Felt awake, not racey, especially when normally tired",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "sleep",
+      "description": "Slept like a rock first night, got up two hours earlier",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost about 12 lbs, most of it fat according to DEXA scan",
+      "severity": "moderate"
+    },
+    {
+      "category": "endurance",
+      "description": "Increased climber performance from 3k to 8k floors, ladder from 500 to 2k, treadmill from 30 mins to 75+ mins",
+      "severity": "significant",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "L-Carnitine stings if injected fast, but minimal if injected slowly over 20+ seconds",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Currently on 2 IU HGH (previously 4 IU), 600mg L-Carnitine, 10mg Cardarine 4x/week. Previously used 20mg Cardarine daily. Reports using Cardarine as indirect fat loss tool by enabling high intensity cardio. Lost needle phobia after consistent needle exposure.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.684279Z"
+}

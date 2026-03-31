@@ -1,0 +1,38 @@
+{
+  "id": "f4b430fb-af1c-4109-86a0-8eabaacd5102",
+  "source_id": "1mx2uhe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mx2uhe/ghkcu_weekly_dose_instead_of_daily/",
+  "author_hash": "f25e56d7a5e631a61561fb3be4e3a8de78e87809990f68aa7cd0cb2a80519b37",
+  "confidence_tier": 5,
+  "date_published": "2025-08-22T03:30:45-07:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Injection pain reduced by front-loading pens with BPC-157",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Uses BPC-157 in same pen to reduce injection site pain. Mentions warming syringe and injecting slowly helps. Refers to subjects as 'test subjects.' States GHK-Cu needs daily dosing with no breaks for 4-6 weeks.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.400541Z"
+}

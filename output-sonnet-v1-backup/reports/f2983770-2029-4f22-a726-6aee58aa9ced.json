@@ -1,0 +1,52 @@
+{
+  "id": "f2983770-2029-4f22-a726-6aee58aa9ced",
+  "source_id": "1rt68tn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rt68tn/reta_anxiety_attacks/",
+  "author_hash": "bfcfb01d2cc6a96012449b56275103ad1885753afcae268b2150039392e01b27",
+  "confidence_tier": 4,
+  "date_published": "2026-03-13T18:30:56-07:00",
+  "health_conditions": [
+    "possible benign SVT episode"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "twice a week",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_pressure",
+      "description": "Sudden rapid increase in heart rate from 90 to 190bpm observed on Apple Watch on way to ER, day after dose increase to 1mg",
+      "severity": "significant",
+      "onset_days": 43
+    },
+    {
+      "category": "mood_change",
+      "description": "Severe anxiety now any time heart does anything; trying to manage and reset nervous system",
+      "severity": "significant",
+      "onset_days": 43,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Took 0.5mg twice a week for 6 weeks then increased to 1mg. Cardiac event (possible SVT) occurred day after dose increase. All tests (blood work, EKG) came back fine at ER. Notes that Reta affects glucagon receptors including in the heart. Phase 3 FDA clinical trials include cardiac response with Holter monitors.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.108731Z"
+}

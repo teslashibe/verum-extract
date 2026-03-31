@@ -1,0 +1,49 @@
+{
+  "id": "271e2a12-3e86-45b2-aa8d-2161201956b2",
+  "source_id": "txohe1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/txohe1/bpc157_tb500_for_a_heart_condition_in_a_minor_if/",
+  "author_hash": "ef60db21f69bb27723c79f26abdff052773cb12332fe0e833b499854f49ee549",
+  "confidence_tier": 4,
+  "date_published": "2022-04-06T08:15:30-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "Wolfe Parkinson White Syndrome",
+    "shoulder bursitis",
+    "frozen shoulder",
+    "ankle sprain",
+    "spinal fluid leak from dural puncture during epidural steroid injection (2017)",
+    "chronic daily headaches since 2017"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Fewer and less severe headaches attributed to possible healing of dural leak; some days with no headache at all",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "12 weeks into BPC157 and TB500 stack. Primary goals were shoulder bursitis and frozen shoulder (little improvement noted there) and ankle sprain pain (little improvement noted). Unexpected benefit was reduction in chronic daily headaches stemming from a 2017 dural puncture during an epidural steroid injection. Concerned that headaches may return when current supply runs out. Mentions injecting the peptides.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.428596Z"
+}

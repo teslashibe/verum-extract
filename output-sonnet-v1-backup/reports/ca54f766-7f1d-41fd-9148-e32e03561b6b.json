@@ -1,0 +1,42 @@
+{
+  "id": "ca54f766-7f1d-41fd-9148-e32e03561b6b",
+  "source_id": "1bgyaba",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bgyaba/anyone_taking_this_from_peptide_sciences/",
+  "author_hash": "3f9d343a99d140a78ac87de55bc9ed9a7e75915bc159a2bc69f78f495bb82ce2",
+  "confidence_tier": 5,
+  "date_published": "2024-03-17T07:03:30-07:00",
+  "health_conditions": [
+    "gut issues",
+    "aches and pains"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157/TB4 oral combo (implied from context)",
+      "name_normalized": "bpc_157tb4_oral_combo_implied_from_context",
+      "category": "other",
+      "route": "oral",
+      "cycle_length_days": 120,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Took it for 4 months for gut, worked great",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Aches and pains returning 3 weeks after stopping",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Used for 4 months; aches and pains returned ~3 weeks after discontinuation",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294257Z"
+}

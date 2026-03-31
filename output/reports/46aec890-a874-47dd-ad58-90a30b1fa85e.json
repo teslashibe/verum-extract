@@ -1,0 +1,93 @@
+{
+  "id": "46aec890-a874-47dd-ad58-90a30b1fa85e",
+  "source_id": "1114kqd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1114kqd/peptides_for_mood_improvement/",
+  "author_hash": "95313f6f92950bef869b892579face3df7530193c468b6f306e94906f4a6c2d1",
+  "confidence_tier": 4,
+  "date_published": "2023-02-13T01:52:44-08:00",
+  "health_conditions": [
+    "past brain trauma/concussions"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "nasal",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "nasal",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Cerebrolysin",
+      "name_normalized": "cerebrolysin",
+      "category": "cognitive",
+      "route": "intramuscular",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Dihexa",
+      "name_normalized": "dihexa",
+      "category": "cognitive",
+      "route": "topical",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "nasal",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "nasal",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "nootropic benefit",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "improving quality of sleep",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "recovery from past brain trauma/concussions",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User reports these are their favorite peptides for nootropic benefit after trialing many peptides. Dihexa used topically with DMSO. Selank, Semax, BPC-157/TB-500 can be subq or intranasal. Prefers IM with Cerebrolysin and subq with CJC1295/Ipamorelin.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.701728Z"
+}

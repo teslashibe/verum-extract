@@ -1,0 +1,66 @@
+{
+  "id": "74fc54e4-76aa-4c54-a95b-84cd9d776f91",
+  "source_id": "1dohagi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1dohagi/tirzepatide/",
+  "author_hash": "64c2c6eaa007f67c88b8de18f61c985b511e8de1f66b4235c298f50f0dcb8be3",
+  "confidence_tier": 4,
+  "date_published": "2024-06-25T14:25:31-07:00",
+  "training_status": "lightly active (outdoor activities, gardening)",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 3 lbs in just under 2 weeks on 2.5mg tirzepatide with calorie deficit focused on protein",
+      "severity": "mild",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Fingers feel achy and swollen, lower stomach bloated despite calorie deficit; suspected to be from tesamorelin/ipamorelin stack",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Constipation; occasional use of Colace or colon cleanse needed",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Blood Pressure",
+      "unit": "mmHg"
+    }
+  ],
+  "protocol_notes": "OP is on their 3rd dose of 2.5mg tirzepatide, stacked with ipamorelin and tesamorelin. Planning to discontinue ipamorelin and tesamorelin due to suspected water retention. Drinks 1.5 gallons of water daily, coconut water, adds salt to water. Lives in Florida and is active outdoors with heavy sweating. BP reported as 117/80.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.292755Z"
+}

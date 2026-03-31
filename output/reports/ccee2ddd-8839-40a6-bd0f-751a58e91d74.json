@@ -1,0 +1,63 @@
+{
+  "id": "ccee2ddd-8839-40a6-bd0f-751a58e91d74",
+  "source_id": "1pqmpiz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pqmpiz/what_peptides_should_i_take_a_long_with_tirz_or/",
+  "author_hash": "4ae88610dadde9ced82a2fa1e1197668c9e830e9cd51da52ee59368f75768653",
+  "confidence_tier": 4,
+  "date_published": "2025-12-19T06:39:01-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 180,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "before bed every few months",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "1mg AM, 1mg before bed",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Achieved 11% body fat at 180lbs after using Tesamorelin once Tirzepatide got below 15% body fat",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Reta gives fatigue to the point of not wanting to workout or do anything",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Age 55, currently on Test C, GH and NPP. Goal is 190lbs at 10% body fat. Uses Tesamorelin at 2mg/day when Tirzepatide drops below 15% body fat. Uses 1mg Tesamorelin before bed periodically after that.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.390146Z"
+}

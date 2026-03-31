@@ -1,0 +1,50 @@
+{
+  "id": "0d6819a1-7a31-4289-b6c3-a6493ca0c98f",
+  "source_id": "139kz5e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/139kz5e/best_sleep_in_30_years/",
+  "author_hash": "c4d226f6340a8a09687687028d3909c0ae280a16d9e6fd3f50e3fb85919b5e99",
+  "confidence_tier": 4,
+  "date_published": "2023-05-06T05:01:29-07:00",
+  "compounds": [
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 3,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 3,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Woke up feeling most relaxed and rested in 30 years, like waking up as a child; able to stay in bed all morning",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "mood",
+      "description": "Reduced morning stress and anxiety upon waking",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Third day of protocol at time of posting. Reports usually waking at 6AM stressed regardless of circumstances prior to peptides.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.297685Z"
+}

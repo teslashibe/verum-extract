@@ -1,0 +1,40 @@
+{
+  "id": "5e988f6a-96a0-46c1-9481-1f819dc13741",
+  "source_id": "1mv30lp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mv30lp/rate_the_current_stack/",
+  "author_hash": "964d438bb296b351fa50f5edee450d5b475ff9ff356af5cd239b63f452908928",
+  "confidence_tier": 5,
+  "date_published": "2025-08-19T19:44:16-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "transform",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User recommends this simplified two-compound stack as superior alternative to OP's protocol. Claims transformation possible.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.684209Z"
+}

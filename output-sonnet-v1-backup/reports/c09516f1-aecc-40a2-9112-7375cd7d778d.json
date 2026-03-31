@@ -1,0 +1,53 @@
+{
+  "id": "c09516f1-aecc-40a2-9112-7375cd7d778d",
+  "source_id": "1rs59dg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rs59dg/overall_health_stack/",
+  "author_hash": "ce02223159e4770359ca086cc8b1e90bcbfb7d1efb1d8b2836e488ad6215982c",
+  "confidence_tier": 5,
+  "date_published": "2026-03-12T15:21:37-07:00",
+  "training_status": "Goes to gym 4 days a week minimum, volunteer firefighter",
+  "health_conditions": [
+    "bipolar disorder",
+    "weight gain",
+    "pre-diabetes",
+    "severe eczema",
+    "chronic dry lips",
+    "dry skin",
+    "rigid nails"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Humanin",
+      "name_normalized": "humanin",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mots C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "creatine",
+      "name_normalized": "creatine",
+      "category": "other",
+      "route": "oral",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "OP is on Quetiapine for bipolar disorder and is planning to start Wegovy (semaglutide) via health benefits for weight management and pre-diabetes. Interested in Humanin and Mots-C for overall brain and body health as they age. Currently takes creatine daily. Doctors are involved and supportive. Has declined tirzepatide due to risk of increasing depressive symptoms. Concerned about long-term side effects of bipolar meds including Alzheimer's risk, insulin resistance, and diabetes.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.10921Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "59a309c6-b4cd-48ad-8f96-afe97b30ebc2",
+  "source_id": "1rt9gza",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rt9gza/wolverine_stack_subq_in_the_belly_vs_near_injury/",
+  "author_hash": "219030b412901bb2dec00c70071bc7690e8a5d2b7f1301514c093a08a08bd0b0",
+  "confidence_tier": 4,
+  "date_published": "2026-03-13T21:04:04-07:00",
+  "training_status": "weight lifting",
+  "health_conditions": [
+    "knee pain",
+    "shoulder pain (weight lifting)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "peptide (unspecified - BPC 157/TB500 implied by context)",
+      "name_normalized": "peptide_unspecified___bpc_157tb500_implied_by_context",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "every day",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "First use: 250mcg ED injected near knee (fat around knee), escalated up to 5mg total, felt no benefit. Second planned use: shoulder pain, intends to inject in stomach instead of near injury site. Dosing stated as 250mcg ED.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.108692Z"
+}

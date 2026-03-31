@@ -1,0 +1,80 @@
+{
+  "id": "d2c5e83b-aad4-4c96-8036-b632f99c1af1",
+  "source_id": "1rthpan",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rthpan/avoided_meniscus_surgery_with_bpctbghk_8week/",
+  "author_hash": "1c168feb1b419d95995b5baea48b7cde84af3dec0ca72da82b08c05f9a3f6adc",
+  "confidence_tier": 3,
+  "date_published": "2026-03-14T05:05:05-07:00",
+  "training_status": "active (yoga, stretching)",
+  "health_conditions": [
+    "medial meniscus tear"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Medial meniscus tear flap resolved from 0.4cm to small displaced fragments; pain reduction within 1-2 weeks; became asymptomatic for walking and running by 8 weeks",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "inflammation",
+      "description": "Joint effusion reduced from moderate to small; swelling way down",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "MRI findings - meniscus flap size",
+      "value_before": 0.4,
+      "value_after": 0,
+      "unit": "cm",
+      "timeframe_days": 120
+    },
+    {
+      "marker_name": "Joint effusion",
+      "timeframe_days": 120
+    }
+  ],
+  "protocol_notes": "Initial injection site: subcutaneous in stomach. Switched to local subcutaneous injection near injury site on knee around week 4. Increased BPC-157 and TB-500 to 1mg daily in final weeks of protocol. User notes results were subjectively better with local knee injections versus systemic stomach injections. No side effects reported at any dose. User able to continue yoga and stretching throughout protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.95,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.652084Z"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "9c90adf9-c68e-4653-8b11-e83e27729d28",
+  "source_id": "1h3p2hn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1h3p2hn/what_peptides/",
+  "author_hash": "32520dec93967f462673363b8056a4e57ec8b2c70e0f6ad679c325f35b446944",
+  "confidence_tier": 4,
+  "date_published": "2024-11-30T15:12:08-08:00",
+  "training_status": "bodybuilding",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression and food noise was gone",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost 18 pounds in 3 weeks, 5% body fat",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Better muscle retention/less muscle catabolism compared to tirzepatide",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "value_after": 5,
+      "unit": "%",
+      "timeframe_days": 21
+    }
+  ],
+  "protocol_notes": "Has tried 43 peptides. On tirzepatide previously: lost 20 lbs in 4 months and 13% body fat. On retatrutide 4mg for 3 weeks: lost 18 pounds and 5% body fat with better muscle catabolism. Also uses NAD+, MT2, GHK-Cu, CJC (dac and no dac), HGH frag, AOD-9604 for bodybuilding and general health.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.695205Z"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "4db2657c-7379-4201-9c2e-ac8c5bec7197",
+  "source_id": "1rgqppm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rgqppm/need_help_breaking_reta_stall_what_to_stack/",
+  "author_hash": "a87a3a71219e11f6b269a0fcc79f2e51018dc1b097292f0b8ea3bed451afeedc",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T18:33:51-08:00",
+  "reported_sex": "female",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Stack works well",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Stacks Tirzepatide and Retatrutide together",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.658775Z"
+}

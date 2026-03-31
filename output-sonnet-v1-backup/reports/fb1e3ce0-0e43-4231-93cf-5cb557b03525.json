@@ -1,0 +1,45 @@
+{
+  "id": "fb1e3ce0-0e43-4231-93cf-5cb557b03525",
+  "source_id": "1mteslc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mteslc/struggling_with_sleeping_on_retra/",
+  "author_hash": "ab4f4dd43b27cc7b3d34b8d43f332d73d66e280bda9061665c5116887d808ee7",
+  "confidence_tier": 4,
+  "date_published": "2025-08-17T23:55:44-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "trazadone",
+      "name_normalized": "trazadone",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "More vivid dreams with sermorelin addition",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Trazadone helps with relaxation but not staying asleep; sleep not more restful despite sermorelin",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Using low dose trazadone. Added sermorelin to the stack. Considering DSIP for sleep improvement.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.274965Z"
+}

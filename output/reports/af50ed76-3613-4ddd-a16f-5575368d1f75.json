@@ -1,0 +1,53 @@
+{
+  "id": "af50ed76-3613-4ddd-a16f-5575368d1f75",
+  "source_id": "1f1lxlv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1f1lxlv/maxed_on_tirz_add_reta/",
+  "author_hash": "4a61a55a0eeae5d62d439922315152f4cf490d44d5a92533648cf50f4e90cd4d",
+  "confidence_tier": 4,
+  "date_published": "2024-08-26T04:33:14-07:00",
+  "health_conditions": [
+    "pre-diabetic (resolved)",
+    "heart rate control issues"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "frequency": "every 5 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 40 pounds total",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Mild appetite suppression lasting 2-3 days between doses, reduces food cravings and food noise",
+      "severity": "mild"
+    },
+    {
+      "category": "blood_sugar",
+      "description": "A1C dropped by 0.75 points, now normal (previously pre-diabetic)",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C"
+    }
+  ],
+  "protocol_notes": "Previously on 12.5mg, increased to 15mg every 5 days. Recently switched to 8mg every 5 days to attempt dose splitting. Weight loss plateaued for 2 months. On medication for heart rate control which limits Reta addition options. Considering adding Cagri or Reta. Experiencing tolerance development.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.414078Z"
+}

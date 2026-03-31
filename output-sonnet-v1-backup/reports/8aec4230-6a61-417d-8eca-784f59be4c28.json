@@ -1,0 +1,40 @@
+{
+  "id": "8aec4230-6a61-417d-8eca-784f59be4c28",
+  "source_id": "1j5c5co",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1j5c5co/finished_my_vial_that_shouldve_lasted_20_doses/",
+  "author_hash": "9850c3815895e2e2d867b33196d144efb1426974181aed7996179af77232a191",
+  "confidence_tier": 5,
+  "date_published": "2025-03-06T17:41:26-08:00",
+  "compounds": [
+    {
+      "name_raw": "BPC157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB4",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ghk-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Reconstituted a stack of 10mg BPC157, 10mg TB4, and 50mg GHK-Cu with 2ml bac water and ended up with 3ml final solution, noting density change from the peptides.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.287396Z"
+}

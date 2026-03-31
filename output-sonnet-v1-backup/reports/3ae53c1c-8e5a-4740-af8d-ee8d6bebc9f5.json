@@ -1,0 +1,50 @@
+{
+  "id": "3ae53c1c-8e5a-4740-af8d-ee8d6bebc9f5",
+  "source_id": "1bvpfim",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bvpfim/semaglutide/",
+  "author_hash": "433df42a4b10b66cf0197de54d2adcfdf3aab5f64035cf82b0d72e01e72ee46e",
+  "confidence_tier": 4,
+  "date_published": "2024-04-04T08:02:52-07:00",
+  "compounds": [
+    {
+      "name_raw": "semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 70,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped 17 lbs over 6 weeks of a 10-week cut",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Cut easier than without the medication",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Very bad burps and indigestion toward the end of cycle",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Diarrhoea toward the end of cycle",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Used 0.5mg weekly for a 10-week cut; completed 6 weeks at time of posting; would not use again despite positive fat loss results due to side effects",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.293841Z"
+}

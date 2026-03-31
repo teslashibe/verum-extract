@@ -1,0 +1,40 @@
+{
+  "id": "0d0d764b-7906-4ea5-a9c0-14c783764715",
+  "source_id": "1rkpdc9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rkpdc9/how_to_know_how_much_retacagrilintide_blend_to/",
+  "author_hash": "a519c869dfacc618b43cb96cd1f84245d5d1ae91d62fdbfc57b5a971bc6f53a7",
+  "confidence_tier": 5,
+  "date_published": "2026-03-04T08:05:06-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 3.5,
+      "dose_unit": "mg",
+      "cycle_length_days": 120,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "retacag blend (20mg/2.5mg)",
+      "name_normalized": "retacag_blend_20mg25mg",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Progress on semaglutide has completely stalled out after 4 months"
+    }
+  ],
+  "protocol_notes": "OP has been on semaglutide for about 4 months, recently purchased a 20mg/2.5mg retacritide/cagrilintide blend. Progress has stalled on semaglutide. Asking about appropriate starting dose for the blend given existing semaglutide use.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112281Z"
+}

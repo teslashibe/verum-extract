@@ -1,0 +1,60 @@
+{
+  "compound_id": "ghk_cu_topical",
+  "display_name": "GHK-cu topical",
+  "category": "other",
+  "total_reports": 5,
+  "reports_by_tier": {
+    "4": 3,
+    "5": 2
+  },
+  "top_benefits": [
+    {
+      "category": "skin",
+      "count": 2,
+      "pct": 66.7
+    },
+    {
+      "category": "immune",
+      "count": 1,
+      "pct": 33.3
+    }
+  ],
+  "top_side_effects": null,
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "ghk_cu_injections",
+      "display_name": "GHK-CU injection",
+      "report_count": 1
+    },
+    {
+      "compound_id": "cjc_ipamorelin",
+      "display_name": "CJC/ipamorelin",
+      "report_count": 1
+    },
+    {
+      "compound_id": "ghk_cu",
+      "display_name": "GHK-cu",
+      "report_count": 1
+    },
+    {
+      "compound_id": "thymosin_alpha_1",
+      "display_name": "TA-1",
+      "report_count": 1
+    },
+    {
+      "compound_id": "mots_c",
+      "display_name": "MOTS-c",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.8,
+  "sentiment_breakdown": {
+    "positive": 3,
+    "mixed": 2,
+    "negative": 0,
+    "neutral": 0
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.970802Z"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "d52378c1-07f7-49c9-9322-899485a74f69",
+  "source_id": "1s1354p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1354p/stack_or_pre_mix/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 5,
+  "date_published": "2026-03-22T18:12:05-07:00",
+  "health_conditions": [
+    "chronic inflammation",
+    "two genetic illnesses",
+    "shoulder injury",
+    "elbow injury"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "targeting chronic inflammation due to genetic illnesses and shoulder/elbow injuries"
+    },
+    {
+      "category": "inflammation",
+      "description": "targeting chronic inflammation"
+    }
+  ],
+  "protocol_notes": "Planning to use individual vials; considering KLOW protocol; inquiring about pre-mixing vs stacking in same needle; considering splitting 4 peptides into 2 injections (2 per needle) rather than 4 separate needles",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.659495Z"
+}

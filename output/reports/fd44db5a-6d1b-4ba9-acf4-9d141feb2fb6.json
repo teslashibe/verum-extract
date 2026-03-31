@@ -1,0 +1,53 @@
+{
+  "id": "fd44db5a-6d1b-4ba9-acf4-9d141feb2fb6",
+  "source_id": "1s3yfim",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3yfim/first_time_glp_user_tirzepatide_vs_retatrutide/",
+  "author_hash": "ba1c5ea822532142289b001ebca2e11b8589d32916d90807c7bb3d6b9329cc0f",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T22:07:06-07:00",
+  "reported_weight": {
+    "value": 255,
+    "unit": "lbs"
+  },
+  "training_status": "lifting 5 days per week",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 18 lbs in 5 weeks, lost 4 inches on waist",
+      "severity": "significant",
+      "onset_days": 35
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Hitting PRs in the gym every week while on retatrutide",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Minimal nausea on day after dose increase",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Week 5 of Retatrutide at 3mg. Started at 273 lbs. In calorie deficit. Minimal side effects reported.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.657803Z"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "d1954f48-d966-443c-a6b7-0bacc52d05da",
+  "source_id": "1oceaai",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oceaai/best_peptide_for_muscle_growth/",
+  "author_hash": "c9e5e11cddeaefe94c77cd65eae001e75279870a790c8b155c2ffc93c0916669",
+  "confidence_tier": 5,
+  "date_published": "2025-10-21T07:21:07-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "novolin",
+      "name_normalized": "novolin",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "IU",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Hypoglycemia - tingling lips and tongue, near fainting after taking 6 units of novolin without sufficient carbohydrate intake",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Recounts a near-hypoglycemic episode from 6 IU of novolin (longer-acting insulin) when not eating enough carbs. Resolved by consuming cookies and Gatorade. Mentions using insulin in conjunction with GH and test but primarily sharing as a cautionary anecdote.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.267265Z"
+}

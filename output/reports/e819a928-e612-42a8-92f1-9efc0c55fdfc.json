@@ -1,0 +1,37 @@
+{
+  "id": "e819a928-e612-42a8-92f1-9efc0c55fdfc",
+  "source_id": "1bpsf65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bpsf65/semaglutide_is_amazing/",
+  "author_hash": "10a96676a99e0ccbab2668c0fd24674582a60fcb0272354787c26d223f7588f9",
+  "confidence_tier": 5,
+  "date_published": "2024-03-28T03:39:16-07:00",
+  "reported_weight": {
+    "value": 165,
+    "unit": "lbs"
+  },
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Makes me so lethargic and weak",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Same dose as OP (0.25mg weekly) but at lower body weight (165 lbs). Negative experience with side effects.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.415931Z"
+}

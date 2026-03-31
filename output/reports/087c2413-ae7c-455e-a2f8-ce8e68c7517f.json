@@ -1,0 +1,44 @@
+{
+  "id": "087c2413-ae7c-455e-a2f8-ce8e68c7517f",
+  "source_id": "1r2wwvr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2wwvr/motscghkcu_sting_relief/",
+  "author_hash": "8d1b3b3520a779509583ef598cab77e9af1291e0cc5b558c310c0c16817a33b6",
+  "confidence_tier": 4,
+  "date_published": "2026-02-12T07:48:00-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "L-carnitine",
+      "name_normalized": "l_carnitine",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "GHK-Cu no sting sensation after 100+ doses; uses 4x strength of friend's dose but no pain",
+      "resolved": true
+    },
+    {
+      "category": "injection_site",
+      "description": "L-carnitine causes significant pain on injection",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "Individual variation noted - friend using same supplier experiences massive pain at lower dose while user experiences none at 4x strength.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677027Z"
+}

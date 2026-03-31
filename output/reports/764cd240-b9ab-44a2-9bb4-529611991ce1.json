@@ -1,0 +1,49 @@
+{
+  "id": "764cd240-b9ab-44a2-9bb4-529611991ce1",
+  "source_id": "1r425h1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r425h1/cjc1295pamorelin_rapid_heart_rate/",
+  "author_hash": "826cbae57c747e08c6ace5197430ab4eba721a2878dcf1c19164e235aa0513f3",
+  "confidence_tier": 4,
+  "date_published": "2026-02-13T13:45:21-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "flushing",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "cardiac",
+      "description": "increased heart rate",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Takes 500 mcg of each compound. Experienced flushing and increased heart rate twice but has not noticed those effects recently.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.67647Z"
+}

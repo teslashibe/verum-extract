@@ -1,0 +1,42 @@
+{
+  "id": "b313acba-4340-4ac4-ae42-03b96420d2e5",
+  "source_id": "1rizczv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rizczv/phlegm_for_a_month_after_starting/",
+  "author_hash": "cce00b8d4be9d174b39f3c6ed5baf2b61bc8a9f2cf3e265e1efdd26646ad589d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T09:35:15-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "respiratory",
+      "description": "Throat requires more frequent clearing, less severe than OP's experience",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User suspects NAD+ is the primary cause since symptom did not occur before starting NAD+ and was only present with NAD+ combined with GHK-Cu and BPC-157. NAD cycle is ending; user plans to reassess in approximately one week.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.65795Z"
+}

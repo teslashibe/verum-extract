@@ -1,0 +1,87 @@
+{
+  "id": "c3aea0a4-0b22-4dc0-9bb3-dce0ac2c9394",
+  "source_id": "1h3p2hn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1h3p2hn/what_peptides/",
+  "author_hash": "32520dec93967f462673363b8056a4e57ec8b2c70e0f6ad679c325f35b446944",
+  "confidence_tier": 4,
+  "date_published": "2024-11-30T15:12:08-08:00",
+  "training_status": "bodybuilder/fitness enthusiast",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MT2",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC dac",
+      "name_normalized": "cjc_1295_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC no dac",
+      "name_normalized": "cjc_no_dac",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH frag",
+      "name_normalized": "hgh_frag",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression and food noise gone the day after first injection of retatrutide",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost 18 pounds and 5% body fat in 3 weeks on retatrutide; previously lost 20 lbs in 4 months and 13% body fat on tirzepatide",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Better muscle catabolism preservation on retatrutide compared to previous experience",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Has tried 43 peptides total. Retatrutide is current favorite. Previously used tirzepatide with 20 lb loss in 4 months and 13% body fat reduction. NAD+, MT2, and GHK-CU noted as great for general health. Other compounds primarily for bodybuilding.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.289237Z"
+}

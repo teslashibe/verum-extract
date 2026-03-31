@@ -1,0 +1,66 @@
+{
+  "id": "8afdc315-8d49-4d98-a79e-35ee6f0713eb",
+  "source_id": "1qwx24x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qwx24x/tirz_side_effects/",
+  "author_hash": "c3e9376753f9d853783fc98a597a064aaf571017ff2507d75cd7b388e3f4e2ea",
+  "confidence_tier": 4,
+  "date_published": "2026-02-05T12:46:21-08:00",
+  "health_conditions": [
+    "IBS",
+    "psoriasis"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "KPV cleared up IBS/GI issues that developed previously",
+      "severity": "significant"
+    },
+    {
+      "category": "inflammation",
+      "description": "KPV helps with joint and gut inflammation better than anything tried",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "KPV cleared up random psoriasis spot on leg",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User reports experience with 10+ different peptide compounds. Currently taking stack of Tirzepatide, KPV, BPC-157, and TB-500 on regular basis. Taking KPV 500mcg every morning for almost 3 months with positive results for IBS and psoriasis.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.679736Z"
+}

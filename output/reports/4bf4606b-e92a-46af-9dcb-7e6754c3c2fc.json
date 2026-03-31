@@ -1,0 +1,53 @@
+{
+  "id": "4bf4606b-e92a-46af-9dcb-7e6754c3c2fc",
+  "source_id": "sxjsqp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/sxjsqp/best_sleep_of_my_life_on_cjc_1295ipamorelin/",
+  "author_hash": "c6bb3da001828431298fd21661966037e43fd32879ed778236fb65fdfd0f99e2",
+  "confidence_tier": 4,
+  "date_published": "2022-02-20T19:48:51-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHRP-2",
+      "name_normalized": "ghrp_2",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Two positively altered sleep experiences where time seemed to pass instantly with no memory of sleep process. Described as teleporting effect. Bed remained unmade except for sleeping position (mummy-like sleep).",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Major insomnia with zero sleep for first 3 nights",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Huge night sweats",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Had to reset and taper up after initial severe reaction. Two positive sleep experiences occurred after tapering adjustments starting in January.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.702364Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4628bb93-8d10-4eeb-8fbb-66c68f769939",
+  "source_id": "1otrr4x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1otrr4x/genuinely_curious/",
+  "author_hash": "06209f77bc4364c3ab1923999250d3af8146d4bedf0c38ae9a9007b5c01a7192",
+  "confidence_tier": 5,
+  "date_published": "2025-11-10T14:13:47-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "liver function test"
+    }
+  ],
+  "protocol_notes": "Observed elevated liver function test while using IPA/CJC combination. Reports no significant subjective benefits from these compounds despite biomarker changes. Notes short half-lives of most peptides.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.393779Z"
+}

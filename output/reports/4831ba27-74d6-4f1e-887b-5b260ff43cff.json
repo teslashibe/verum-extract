@@ -1,0 +1,67 @@
+{
+  "id": "4831ba27-74d6-4f1e-887b-5b260ff43cff",
+  "source_id": "1rfvjiw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rfvjiw/moving_from_low_dose_tirzepatide_to_retatrutide/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2026-02-26T19:23:59-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "9lbs weight loss over 6 weeks",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Completely eliminated hunger, could go 36 hours without desiring food",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mouth_dryness",
+      "description": "Slight dry mouth",
+      "severity": "mild"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Very mild constipation",
+      "severity": "mild"
+    },
+    {
+      "category": "weight_change",
+      "description": "Significant muscle loss due to inability to maintain protein intake",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Compounded Tirzepatide from telehealth clinic. Considering transitioning to Retatrutide due to cost. Proposing either gradual tapering or cold turkey switch. Was still at lowest therapeutic dose for Tirzepatide.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.659431Z"
+}

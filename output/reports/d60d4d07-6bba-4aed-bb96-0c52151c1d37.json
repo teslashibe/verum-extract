@@ -1,0 +1,47 @@
+{
+  "id": "d60d4d07-6bba-4aed-bb96-0c52151c1d37",
+  "source_id": "1kif5d5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kif5d5/whats_the_method_for_usage_on_test_subject/",
+  "author_hash": "f3b7544c4b46e327381fc06d237a94f7ef1b48a9ef9796d52cbddf34a0ffd127",
+  "confidence_tier": 4,
+  "date_published": "2025-05-09T03:26:34-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "L-Carnitine",
+      "name_normalized": "l_carnitine",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 600,
+      "dose_unit": "mg",
+      "frequency": "upon waking",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "3x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "3x daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "CJC-1295 without DAC. User mentions using glucose monitor to dial in L-carnitine dose when combined with short-acting insulin. Advises starting small and scaling up to therapeutic dose.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.691281Z"
+}

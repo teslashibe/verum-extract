@@ -1,0 +1,64 @@
+{
+  "id": "53d1353f-c06c-413a-9ab8-196330e7257b",
+  "source_id": "1prb7m1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1prb7m1/transition_from_trizep_to_retatrutide/",
+  "author_hash": "668a811ad493803f8ae85c6cc7c449edeb903eb0f50d5eaac08269b00924e165",
+  "confidence_tier": 4,
+  "date_published": "2025-12-20T02:19:47-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "heart_rate",
+      "description": "increased resting heart rate",
+      "severity": "moderate"
+    },
+    {
+      "category": "dry_mouth",
+      "description": "dry mouth",
+      "severity": "moderate"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "retarrhea (diarrhea)",
+      "severity": "moderate"
+    },
+    {
+      "category": "skin_reaction",
+      "description": "skin sensitivity",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_change",
+      "description": "increased appetite, sugar cravings",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "fucked up sleep",
+      "severity": "moderate"
+    },
+    {
+      "category": "weight_change",
+      "description": "likely weight gain until reaching 6-8mg dose",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Suggested dosing protocol: 2, 4, 6, 8, 10, 12mg weekly for 4 weeks each. User notes retatrutide causes increased appetite compared to tirzepatide.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.390099Z"
+}

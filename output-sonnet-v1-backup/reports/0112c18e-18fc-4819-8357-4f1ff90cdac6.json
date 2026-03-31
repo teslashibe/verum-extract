@@ -1,0 +1,77 @@
+{
+  "id": "0112c18e-18fc-4819-8357-4f1ff90cdac6",
+  "source_id": "1pa5lyl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pa5lyl/opinions_on_my_current_stack/",
+  "author_hash": "7ba03abb95ea3eab3a78a4b872644fad9bd4a5b7795e9b1f2c58d1e2c944f016",
+  "confidence_tier": 4,
+  "date_published": "2025-11-29T17:28:00-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly (every Sunday)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once weekly (every Thursday)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ghkcu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "every night",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Pinealon",
+      "name_normalized": "pinealon",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "every 3 days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mots c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 25,
+      "dose_unit": "mg",
+      "frequency": "2x a week",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "OP is asking for feedback on their current stack. All compounds administered subcutaneously. Commenters widely criticized the stacking of two GLP-1/GIP agonists (Tirzepatide + Retatrutide) and questioned the efficacy of low-dose subcutaneous NAD.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.262589Z"
+}

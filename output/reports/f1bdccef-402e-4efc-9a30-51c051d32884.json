@@ -1,0 +1,50 @@
+{
+  "id": "f1bdccef-402e-4efc-9a30-51c051d32884",
+  "source_id": "1rgumfz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rgumfz/melanotan2_when_very_fair_and_freckles/",
+  "author_hash": "2ab945fe8ec8c1aa3ac2b12c6bfe8a7c0e10329b7a20e62bbf8f532c6e1b1df9",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T21:50:33-08:00",
+  "health_conditions": [
+    "freckles"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily for 5 days, then 200mcg 1x per week, then 200mcg every 10 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Rapid tanning, significant skin darkening from Irish to Greek-level tan",
+      "severity": "significant"
+    },
+    {
+      "category": "libido",
+      "description": "Potential libido enhancement mentioned but overshadowed by nausea when dosed during day",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Nausea is overwhelming when taken early in the day; manageable when taken at night",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started with 250mcg daily for 5 days with tanning bed 1-2x per week, reduced to 200mcg 1x per week with continued tanning bed use, then further reduced to 200mcg every 10 days to manage nausea. Still on first vial as of report. Takes injections at night to minimize nausea. Used tanning bed 1-2 times per week throughout protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.658673Z"
+}

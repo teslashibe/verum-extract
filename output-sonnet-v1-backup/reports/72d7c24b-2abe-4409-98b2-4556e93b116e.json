@@ -1,0 +1,102 @@
+{
+  "id": "72d7c24b-2abe-4409-98b2-4556e93b116e",
+  "source_id": "1hnhlj0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1hnhlj0/before_and_after_sermorelin/",
+  "author_hash": "30df07cd3a4df12b95f3af26ecd85f5f09021705294018c2ca83daa7b73aa033",
+  "confidence_tier": 4,
+  "date_published": "2024-12-27T07:43:18-08:00",
+  "training_status": "active, working out",
+  "health_conditions": [
+    "severed nerves",
+    "chronic pain injuries",
+    "overactive fight/flight response",
+    "elevated resting heart rate (108 bpm)",
+    "cardiovascular effects from fight/flight response"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ser",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "cjc",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "bpc",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tb500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleeping again after not being able to sleep",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Pain 75% better and physical improvement 50-60% better since June for long-standing injuries",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "No longer incapacitated on the floor in pain after workouts",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Night dosing: 3 syringes at 0.2-0.3 each. Morning dosing: 2 syringes at 0.15 and 0.2. Started stack in June. Stack used primarily to heal injuries and manage sleep. Whole stack called 'Wolverine stack'.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.288754Z"
+}

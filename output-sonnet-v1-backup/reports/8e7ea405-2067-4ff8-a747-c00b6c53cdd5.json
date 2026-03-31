@@ -1,0 +1,53 @@
+{
+  "id": "8e7ea405-2067-4ff8-a747-c00b6c53cdd5",
+  "source_id": "1rwhd5a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwhd5a/hypothalamic_damage_and_weight_gainloss/",
+  "author_hash": "7eced37680c65cbaf4c17a1bd591573dd6d89ff02b38351b695af850f1e07e8a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-17T12:52:37-07:00",
+  "health_conditions": [
+    "Hashimoto's thyroiditis with complete thyroid failure",
+    "severe secondary adrenal insufficiency",
+    "Mixed Connective Tissue Disease",
+    "zero testosterone",
+    "possible Myasthenia Gravis"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Did not want food the day after first injection; noticed positive effect immediately",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost 50+ pounds after decades of struggle; unable to reach goal weight previously even on OMAD 450 calorie diet",
+      "severity": "significant",
+      "onset_days": 30
+    },
+    {
+      "category": "energy",
+      "description": "Felt pretty good after first injection; previously had zero energy",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Metabolism controlled by medication (thyroid replacement implied); cortisol levels also managed by medication. Starting dose noted as 2mg injection. Previously tried OMAD at 450 calories of protein and could not get within 40 lbs of goal weight.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.107132Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "026bdeac-4d89-4b41-8fb2-19c2e3e0b40f",
+  "source_id": "1qvth9x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qvth9x/cagri/",
+  "author_hash": "be392a65e436e451a9f0cccd5e29caef2fc4693b31501cf09db0ccbbb0ae92c1",
+  "confidence_tier": 4,
+  "date_published": "2026-02-04T08:39:30-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Cagri",
+      "name_normalized": "cagri",
+      "category": "other",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "2x per week",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Subtle appetite suppression effect from Cagri",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Takes Cagri and Reta at the same time.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121339Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "9749cf05-3ce7-47d3-b947-300f135e3ad0",
+  "source_id": "1rm4exe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rm4exe/reconstitution_amount/",
+  "author_hash": "9511eea6d55e1974de61fdba299e04b4d4009268e5818f55832de0d45f625980",
+  "confidence_tier": 5,
+  "date_published": "2026-03-05T20:40:08-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "itching/reaction at injection site",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Reconstituted with 1ml bac water for 10mg vial to achieve 10 unit draws. Reports consistent itching/skin reaction with MOTS-c injections. Questions whether high concentration (1ml bac water) may be causing local reaction.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.668024Z"
+}

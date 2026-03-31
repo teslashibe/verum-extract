@@ -1,0 +1,54 @@
+{
+  "id": "90ebfe69-80a7-4f86-96c9-166f3b4d951a",
+  "source_id": "1q1lc23",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q1lc23/well_it_finally_happened_now_i_need_advice_for/",
+  "author_hash": "16204b01be68e92fc2082ce9d2546685f8694d04a7022c412daf6cd4ed19f7bb",
+  "confidence_tier": 4,
+  "date_published": "2026-01-01T17:31:37-08:00",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "sinus_issues",
+    "sjogrens"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "visoluten",
+      "name_normalized": "visoluten",
+      "category": "other",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "eye_health",
+      "description": "Vision improvement, reported 20/0 vision (off the charts), resolution of dry eyes from sjogrens",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive",
+      "description": "Brain health benefits as part of vision combo protocol",
+      "severity": "moderate"
+    },
+    {
+      "category": "cardiovascular",
+      "description": "Blood vessel peptide benefits as part of combo",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "visual_acuity",
+      "value_before": 20.1,
+      "value_after": 20,
+      "unit": "20/X notation"
+    }
+  ],
+  "protocol_notes": "Part of 'vision combo' stack with multiple peptides. Used alongside vitamins and antioxidants (astaxanthin). Cycles repeated yearly. Previously had bionic vision (20/10) as child, maintained excellent vision into 40s with additional improvement reported. Also uses binoculars frequently. Sinus and sjogrens resolved but attributes this to multiple factors beyond peptides alone.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.672074Z"
+}

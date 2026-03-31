@@ -1,0 +1,55 @@
+{
+  "id": "f618e744-22c3-4008-9c92-10bab89f4313",
+  "source_id": "1r5qik3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r5qik3/would_bpc157_help_shoulder_impingement/",
+  "author_hash": "94487f8fbf30dd83ac39217bd7ed6bb59d0794d03ad9298bbb6de3b23d755e21",
+  "confidence_tier": 4,
+  "date_published": "2026-02-15T13:24:30-08:00",
+  "health_conditions": [
+    "frozen shoulder",
+    "shoulder impingement"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 365,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "3x weekly",
+      "cycle_length_days": 365,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Avoided shoulder reconstruction surgery; regained full range of motion",
+      "severity": "significant"
+    },
+    {
+      "category": "pain_relief",
+      "description": "Eliminated night shoulder pain; no longer unable to use Q-tip in ear",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Recovered full shoulder strength; able to perform full weight shoulder presses",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "BPC-157 injected daily into shoulder area (pinch of skin at top of shoulder); TB-500 injected subcutaneously in abdomen 3x weekly; protocol followed for one year; user was scheduled for shoulder reconstruction in April but began treatment in February; achieved full recovery with zero range of motion improving to full range of motion",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.676031Z"
+}

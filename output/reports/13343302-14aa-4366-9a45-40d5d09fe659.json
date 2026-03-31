@@ -1,0 +1,46 @@
+{
+  "id": "13343302-14aa-4366-9a45-40d5d09fe659",
+  "source_id": "1s411r1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s411r1/ipamorelin_messing_up_my_sleep/",
+  "author_hash": "191c31d0c9f70aac255e4dd1bb600b1ac253d8a13a5257b40dd21fcfb09cfd38",
+  "confidence_tier": 4,
+  "date_published": "2026-03-26T00:43:37-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "morning dosing after cycle adjustment",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Great results from Ipamorelin cycles",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Poor sleep response to Ipamorelin despite typical expectation of improved sleep; sleep improvement minimal even after switching to AM dosing",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Completed two full 8-week cycles of Ipamorelin; switched to morning dosing halfway through first cycle and continued AM dosing for entire second cycle; subsequently switched to HGH after depleting Ipamorelin supply",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.657703Z"
+}

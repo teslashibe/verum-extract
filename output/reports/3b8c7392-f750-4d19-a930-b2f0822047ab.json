@@ -1,0 +1,39 @@
+{
+  "id": "3b8c7392-f750-4d19-a930-b2f0822047ab",
+  "source_id": "1nmana2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nmana2/ghkcu_stopped_my_reactions_to_the_covid_shot/",
+  "author_hash": "b34c0ea52b5c244446e54fbb850325448ceb64d53a77189952a56f771af534e9",
+  "confidence_tier": 4,
+  "date_published": "2025-09-20T14:51:15-07:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 8,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "inflammation",
+      "description": "Reduced inflammatory response to COVID vaccine",
+      "severity": "significant"
+    },
+    {
+      "category": "anxiety_relief",
+      "description": "Reduced anxiety, comparable to Klonopin effects",
+      "severity": "significant",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "Took GHK-Cu for 8 days before receiving Pfizer COVID vaccine. By day 11 of GHK-Cu use, significant anxiety reduction was reported. Minimal vaccine side effects observed (mild headache and slight jaw tightness) compared to typical strong reactions.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.681268Z"
+}

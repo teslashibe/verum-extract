@@ -1,0 +1,51 @@
+{
+  "id": "1cb792f4-d944-4edd-84cf-ccaddfc1bf66",
+  "source_id": "1rrpd1g",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rrpd1g/cjc_and_ipa_used_to_give_me_great_sleep_but_now/",
+  "author_hash": "bcfda9b4bc0bb5d9b7a4e7b28fca5a8fe710cf131f282ea5b014dbf8eb0510bd",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T05:25:33-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once daily (before bed)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once daily (before bed)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once daily (morning)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "CJC and Ipamorelin used to provide great sleep",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User reports using 500 mcg CJC and 500 mcg Ipamorelin before bed, plus 2 MG Tesamorelin and 500 mcg Ipamorelin in the morning. Previously experienced good sleep benefits but reports diminished effects, suspects lack of cycling may be responsible.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.665174Z"
+}

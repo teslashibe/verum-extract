@@ -1,0 +1,111 @@
+{
+  "compound_id": "5_amino",
+  "display_name": "5 amino",
+  "category": "other",
+  "total_reports": 19,
+  "reports_by_tier": {
+    "4": 12,
+    "5": 7
+  },
+  "top_benefits": [
+    {
+      "category": "energy",
+      "count": 4,
+      "pct": 33.3
+    },
+    {
+      "category": "fat_loss",
+      "count": 3,
+      "pct": 25
+    },
+    {
+      "category": "other",
+      "count": 2,
+      "pct": 16.7
+    },
+    {
+      "category": "injury_healing",
+      "count": 1,
+      "pct": 8.3
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "other",
+      "count": 1,
+      "pct": 8.3,
+      "avg_severity": 3
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "oral",
+      "dose": 150,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 5.3
+    },
+    {
+      "route": "oral",
+      "dose": 50,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 5.3
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 1,
+      "unit": "mg",
+      "frequency": "monday to friday",
+      "count": 1,
+      "pct": 5.3
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 5,
+      "unit": "mg",
+      "frequency": "",
+      "count": 1,
+      "pct": 5.3
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "nad_plus",
+      "display_name": "NAD",
+      "report_count": 7
+    },
+    {
+      "compound_id": "mots_c",
+      "display_name": "MOTS",
+      "report_count": 5
+    },
+    {
+      "compound_id": "tesamorelin",
+      "display_name": "tesamorelin",
+      "report_count": 4
+    },
+    {
+      "compound_id": "tb_500",
+      "display_name": "Tb500",
+      "report_count": 2
+    },
+    {
+      "compound_id": "retatrutide",
+      "display_name": "reta",
+      "report_count": 2
+    }
+  ],
+  "avg_cycle_length_days": 21,
+  "avg_sentiment_score": 0.684,
+  "sentiment_breakdown": {
+    "positive": 10,
+    "mixed": 3,
+    "negative": 0,
+    "neutral": 6
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.971124Z"
+}

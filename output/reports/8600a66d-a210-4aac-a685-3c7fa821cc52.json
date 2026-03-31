@@ -1,0 +1,45 @@
+{
+  "id": "8600a66d-a210-4aac-a685-3c7fa821cc52",
+  "source_id": "1m86cbv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m86cbv/reta_so_sleepy/",
+  "author_hash": "6c6d153a93e5a12059835d6c1fd38cbc01cd86d7ee2763fcf7a96acb1bab283a",
+  "confidence_tier": 4,
+  "date_published": "2025-07-24T07:46:01-07:00",
+  "training_status": "5 day split with 1 hour lifting and 30 mins cardio daily",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Feeling sleepy and fighting blood sugar crashes when not eating constantly",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "On decent dose of testosterone. Running 5 day split with 1 hour lifting and 30 mins cardio daily.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.686586Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "8751383e-84d7-45d5-992b-d63c9a905445",
+  "source_id": "1ku7rh2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ku7rh2/took_20_iu_hgh_instead_of_2_how_many_days_i/",
+  "author_hash": "ccea618ca8b3fb74ffc86b2f2d5b21a7c9148742cb2c4099d585631bf269baa7",
+  "confidence_tier": 4,
+  "date_published": "2025-05-24T02:38:53-07:00",
+  "training_status": "active (workout mentioned)",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "IU",
+      "frequency": "accidental single dose (intended protocol: 2 IU daily)",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "extra stamina during workout, faster completing workouts",
+      "severity": "moderate",
+      "onset_days": 60
+    },
+    {
+      "category": "recovery",
+      "description": "mentioned in long-term protocol context"
+    }
+  ],
+  "protocol_notes": "Pharmaceutical grade Pfizer HGH from pharmacy via Genotropin pen. Accidental overdose due to pen mechanical malfunction—injected 20 IU instead of intended 2 IU single dose. User has been on 2 IU daily for approximately 2 months. Intended long-term use at 2 IU daily. No significant adverse effects reported from overdose. User reports no noticeable hand tightness or water retention.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.690628Z"
+}

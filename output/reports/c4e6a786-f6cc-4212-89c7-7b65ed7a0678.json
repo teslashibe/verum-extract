@@ -1,0 +1,59 @@
+{
+  "id": "c4e6a786-f6cc-4212-89c7-7b65ed7a0678",
+  "source_id": "1rwhd5a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwhd5a/hypothalamic_damage_and_weight_gainloss/",
+  "author_hash": "974885ca238a014ee887f0ed9c127f109cd9d1215b22159ca1285fc1c7d2627d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-17T12:52:37-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 385,
+    "unit": "lbs"
+  },
+  "training_status": "severely limited - walks/bikes ~10min max",
+  "health_conditions": [
+    "craniopharyngioma (brain tumor)",
+    "hypothalamic obesity",
+    "Type 2 Diabetes",
+    "low testosterone"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "hunger dulled immediately after injection",
+      "severity": "mild",
+      "onset_days": 0
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "mild nausea after dosing",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "appetite_change",
+      "description": "appetite suppression wore off within hours of injection",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Titrated to max dose. Pharmacy-grade Tirzepatide. Doctors deemed ineffective after couple months at max dose. Also on Trulicity (dulaglutide) for blood sugar control which was effective. On TRT for low testosterone.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.662161Z"
+}

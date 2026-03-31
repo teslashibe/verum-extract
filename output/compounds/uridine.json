@@ -1,0 +1,73 @@
+{
+  "compound_id": "uridine",
+  "display_name": "Uridine",
+  "category": "other",
+  "total_reports": 2,
+  "reports_by_tier": {
+    "4": 2
+  },
+  "top_benefits": [
+    {
+      "category": "cognitive",
+      "count": 2,
+      "pct": 100
+    },
+    {
+      "category": "anxiety_relief",
+      "count": 1,
+      "pct": 50
+    },
+    {
+      "category": "mood",
+      "count": 1,
+      "pct": 50
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "photosensitivity",
+      "count": 1,
+      "pct": 50,
+      "avg_severity": 2
+    },
+    {
+      "category": "anxiety",
+      "count": 1,
+      "pct": 50,
+      "avg_severity": 3
+    },
+    {
+      "category": "cardiac",
+      "count": 1,
+      "pct": 50,
+      "avg_severity": 3
+    }
+  ],
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "9_me_bc",
+      "display_name": "9-Me-BC",
+      "report_count": 2
+    },
+    {
+      "compound_id": "bpc_157",
+      "display_name": "BPC-157",
+      "report_count": 2
+    },
+    {
+      "compound_id": "nad_plus",
+      "display_name": "NAC",
+      "report_count": 2
+    }
+  ],
+  "avg_sentiment_score": 1,
+  "sentiment_breakdown": {
+    "positive": 2,
+    "mixed": 0,
+    "negative": 0,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T04:48:57.364829Z"
+}

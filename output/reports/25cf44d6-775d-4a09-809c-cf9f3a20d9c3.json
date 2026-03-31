@@ -1,0 +1,42 @@
+{
+  "id": "25cf44d6-775d-4a09-809c-cf9f3a20d9c3",
+  "source_id": "1am4fht",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1am4fht/bpc157_and_crohns_disease/",
+  "author_hash": "5dc4d3f5dc5a3ac13f721e06ea126be8a0f9b094d6f497e9f0878e6ee51f1b5c",
+  "confidence_tier": 4,
+  "date_published": "2024-02-08T11:49:26-08:00",
+  "health_conditions": [
+    "Chronic knee pain with limited mobility",
+    "Tennis elbow",
+    "Sciatica"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Can bend knee almost completely after nearly 2 weeks; could not do for almost 2 years",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "pain_relief",
+      "description": "Not in constant pain; no pain meds or muscle relaxers needed in nearly 2 weeks",
+      "severity": "significant",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "Nearly 2 weeks into cycle at time of post. Verified source COAs.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698991Z"
+}

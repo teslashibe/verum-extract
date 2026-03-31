@@ -1,0 +1,61 @@
+{
+  "id": "3e7526fb-e1e0-490e-8387-fd5d04c1f391",
+  "source_id": "1rwczgz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwczgz/retatrutide_and_cjcipamorelin_33_years_old/",
+  "author_hash": "1e77fda5a81643adaaa48fac6ed094f43bf4c15538d8a94308f91b41d5985f1b",
+  "confidence_tier": 5,
+  "date_published": "2026-03-17T10:22:29-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "every 2 weeks",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Gets sluggish at the end of the two weeks",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_before": 270,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "OP is 50 lbs overweight and considering Retatrutide/CJC-Ipamorelin stack based on friend's results. Currently on testosterone replacement therapy.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.662297Z"
+}

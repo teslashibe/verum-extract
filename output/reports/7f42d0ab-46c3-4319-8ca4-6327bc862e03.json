@@ -1,0 +1,46 @@
+{
+  "id": "7f42d0ab-46c3-4319-8ca4-6327bc862e03",
+  "source_id": "1r9ncfx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9ncfx/bpc157tb500_dosage_guidance/",
+  "author_hash": "7452e8279baa954f15093592ef50c886d41aa44b5511ca627ec5a9be2efbece8",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T21:55:41-08:00",
+  "training_status": "active (hamstring strain from training)",
+  "health_conditions": [
+    "hamstring strain"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Seeking treatment for 5-month nagging hamstring strain"
+    }
+  ],
+  "protocol_notes": "BPC-157 + TB-500 'Wolverine stack'. 5mg vial reconstituted with 3mL BAC water. Planned dosing: 0.5mg daily AM, Mon-Fri with weekends off, 8-week cycle. User seeking dosage guidance.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.674068Z"
+}

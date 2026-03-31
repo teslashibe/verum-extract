@@ -1,0 +1,52 @@
+{
+  "id": "fe2db907-f9ef-4a72-acbf-175da30ab605",
+  "source_id": "1qz1qrp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qz1qrp/my_significant_other_has_been_on_sema_for_2/",
+  "author_hash": "9bb6f5dbe260f936f1c9b3c2a63ecbef3251819f866be3f3030e23533f030809",
+  "confidence_tier": 4,
+  "date_published": "2026-02-07T22:36:11-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression working at 0.5mg dose",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Wife experienced titration issues when increasing dose too quickly",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User reports spouse (wife) using Semaglutide with similar titration sensitivity. Wife tolerated stepping back to intermediate dose and adjusted better. Recommends slowing titration schedule rather than rapid increases.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.58,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.666165Z"
+}

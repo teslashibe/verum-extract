@@ -1,0 +1,101 @@
+{
+  "id": "bfe8fa59-4783-4683-93d7-da54d411cdaa",
+  "source_id": "1gwt5mp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1gwt5mp/peptides_for_perimenopause_and_menopause/",
+  "author_hash": "325aeba47313835edb214cb014da5f8b14e0dac2f7a6d866126a55902ee2ecdc",
+  "confidence_tier": 4,
+  "date_published": "2024-11-21T15:08:32-08:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "PCOS",
+    "insulin resistance"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "frequency": "switched between NAD+ and MOTS-c",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Capromorelin",
+      "name_normalized": "capromorelin",
+      "category": "other",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "frequency": "periodically",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "frequency": "periodically",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Tirz helped with PCOS insulin resistance",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "GHK-Cu beneficial for skin and hair health",
+      "severity": "moderate"
+    },
+    {
+      "category": "hair",
+      "description": "GHK-Cu beneficial for hair health",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "thyroid function"
+    }
+  ],
+  "protocol_notes": "Using Lipo-C/MIC. Capromorelin used to help prevent dose escalation of other compounds. Also using Zinc monomethionine chelate with GHK-Cu. Working with doctor on hormone optimization. Thyroid function reported as top notch.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.695369Z"
+}

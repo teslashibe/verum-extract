@@ -1,0 +1,76 @@
+{
+  "id": "f579dba8-3035-4e22-bf0a-2662fe0083f9",
+  "source_id": "1mpe30j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mpe30j/please_help_with_this_cycle_please/",
+  "author_hash": "02934227f6c4efd764a9ebe36b2d4fb318ea840f9469b13b2de352c5559b86fd",
+  "confidence_tier": 4,
+  "date_published": "2025-08-13T12:29:18-07:00",
+  "training_status": "very disciplined in resistance training and diet (5+ years)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "1x weekly",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "intramuscular",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "2x daily (0.5mg AM, 0.5mg PM)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "1x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "1x daily (loading phase); 0.75mg weekly (maintenance)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression"
+    },
+    {
+      "category": "body_composition"
+    }
+  ],
+  "protocol_notes": "5+ years resistance training and diet experience. Retatrutide titration: 0.5mg week 1 \u003e 1mg week 2 \u003e 1.25mg week 3 \u003e 1.5mg week 4. User seeking validation from ChatGPT on cycle safety.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.684799Z"
+}

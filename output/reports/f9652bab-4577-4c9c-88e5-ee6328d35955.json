@@ -1,0 +1,60 @@
+{
+  "id": "f9652bab-4577-4c9c-88e5-ee6328d35955",
+  "source_id": "1mz0i47",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mz0i47/solved_epitalon_dosing_timing_and_strength_for/",
+  "author_hash": "cdea8aad9ed216f4fedb15a8c4c95501e6242df4cf4fb28925449ad9d990747d",
+  "confidence_tier": 4,
+  "date_published": "2025-08-24T09:40:50-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "sleep_fragmentation",
+    "early_waking"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "5 days on / 2 days off",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Eliminated early waking (3-4:30am), sleep extended from 4 hours to 8 hours straight through",
+      "severity": "significant",
+      "onset_days": 5
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Light sweating at night when dosed at 7pm; early waking and fragmented sleep returned when dose increased to 200mcg and timing moved to 6:30pm",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "49F on Retatrutide 3mg/week experiencing glucagon-induced early waking. Epitalon microdosing 100mcg at 5pm produced best results. Higher dose 200mcg caused stimulation and sleep disruption. Stack includes melatonin 0.5-1mg + L-Theanine 200mg. Plan: 2-3 months on 5 days on/2 days off cycle, then 1 month break before restarting. Previously took Retatrutide without sleep issues but husband (62F) had chronic early waking.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.683777Z"
+}

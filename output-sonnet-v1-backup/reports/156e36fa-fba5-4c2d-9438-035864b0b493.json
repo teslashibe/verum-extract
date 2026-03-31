@@ -1,0 +1,47 @@
+{
+  "id": "156e36fa-fba5-4c2d-9438-035864b0b493",
+  "source_id": "1qek46x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qek46x/why_the_microstack_beats_the_megadose/",
+  "author_hash": "de9515c26f97ddaf06645960d1b6a7eb21217fc91791c95b5b8f9f754d671e71",
+  "confidence_tier": 4,
+  "date_published": "2026-01-16T08:10:08-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "every 4 days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "frequency": "every 4 days",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Micro-stacking low doses of Tirz and Reta maintains appetite suppression while preserving receptor sensitivity and avoiding desensitization"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Theoretical framework for sustained weight loss by avoiding receptor downregulation through sub-saturation dosing"
+    }
+  ],
+  "protocol_notes": "OP proposes a 'micro-stack' theory: combining low-dose Tirzepatide (1.5mg) and Retatrutide (0.75mg) every 4 days to maintain sub-saturation receptor occupancy, prevent internalization/desensitization, and preserve long-term efficacy. OP recommends a 30-day break after extended use to allow receptor resensitization. The post is primarily theoretical/mechanistic rather than a personal usage report, but OP refers to 'my receptors' suggesting personal use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.124692Z"
+}

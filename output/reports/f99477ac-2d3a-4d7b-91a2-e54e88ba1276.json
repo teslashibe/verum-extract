@@ -1,0 +1,79 @@
+{
+  "id": "f99477ac-2d3a-4d7b-91a2-e54e88ba1276",
+  "source_id": "1jdvgjo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jdvgjo/any_former_fatties_with_loose_skin_found_a_fix_or/",
+  "author_hash": "6b73e4c42b6b19cce3c98d3f6740d52b3d0beed7074262ca201b914549df0a67",
+  "confidence_tier": 4,
+  "date_published": "2025-03-17T20:00:47-07:00",
+  "training_status": "resistance training, lifting",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "65 lbs weight loss with weekly 72-hour fasts",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "maintaining muscle during extended fasting and fat loss",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "lean muscle mass loss",
+      "value_after": 2,
+      "unit": "lbs"
+    }
+  ],
+  "protocol_notes": "Current stack: CJC/IPA + IGF1-LR3 + Retatrutide; previous round: BPC157/TB500/GHK-Cu. Uses DEXA scans monthly to track body composition. 65 lbs lost with weekly 72-hour fasts; plans to increase creatine and lift more to gain muscle; taking peptides as part of body composition protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.693326Z"
+}

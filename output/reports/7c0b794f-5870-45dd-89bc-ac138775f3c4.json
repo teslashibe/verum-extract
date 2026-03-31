@@ -1,0 +1,60 @@
+{
+  "id": "7c0b794f-5870-45dd-89bc-ac138775f3c4",
+  "source_id": "1fctk4s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fctk4s/tesa/",
+  "author_hash": "fd4788855fab4d8b62fe8102f0c989d5fed80d413b85dc28c73c0ffd98a3d1f2",
+  "confidence_tier": 4,
+  "date_published": "2024-09-09T09:23:52-07:00",
+  "training_status": "lean",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOD GRF 1-29",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Big fan of sermorelin and ipamorelin. Tried tesamorelin but found sermorelin more effective and cheaper. Currently uses sermorelin with ipamorelin. Cycles in MOD GRF 1-29 to replace sermorelin with ipamorelin. Finds this stack works well for him. Also uses sermorelin 200mcg and ipamorelin 300mcg daily, 5 days a week (per separate comment).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.413713Z"
+}

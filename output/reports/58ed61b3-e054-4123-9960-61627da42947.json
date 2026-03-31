@@ -1,0 +1,40 @@
+{
+  "id": "58ed61b3-e054-4123-9960-61627da42947",
+  "source_id": "1r7ozws",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r7ozws/allergic_reaction_to_growth_hormone_secretagogs/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 5,
+  "date_published": "2026-02-17T17:17:11-08:00",
+  "health_conditions": [
+    "suspected allergy to growth hormone secretagogs"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "severe allergic reaction requiring epi pen use",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Required epi pen use. Inquiring about nasal spray route as alternative.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662674Z"
+}

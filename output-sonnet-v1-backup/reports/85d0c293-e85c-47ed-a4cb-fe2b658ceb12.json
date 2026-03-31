@@ -1,0 +1,35 @@
+{
+  "id": "85d0c293-e85c-47ed-a4cb-fe2b658ceb12",
+  "source_id": "1s32wlw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s32wlw/redose/",
+  "author_hash": "eee45c504e6e7497badbbd3d7bde370ab8626130d8b9bcc0591fa85228408cc7",
+  "confidence_tier": 5,
+  "date_published": "2026-03-24T23:18:54-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Food noise returned after 3 days",
+      "severity": "mild",
+      "onset_days": 3
+    }
+  ],
+  "protocol_notes": "First pin was 0.5mg. Considering redosing on day 4 or waiting until day 7 and upping to 1mg.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104533Z"
+}

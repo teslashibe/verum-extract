@@ -1,0 +1,54 @@
+{
+  "id": "95563e57-a681-4b11-b209-45749e391f44",
+  "source_id": "1gv8wnv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1gv8wnv/selank_has_changed_my_life_is_there_a_risk_of/",
+  "author_hash": "8984da13d5331d33dbd473d7d3b7ad0cac043a0553bc15303bd1940ed39fe97b",
+  "confidence_tier": 4,
+  "date_published": "2024-11-19T13:45:47-08:00",
+  "health_conditions": [
+    "diabetes"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 600,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "blood_sugar",
+      "description": "initial blood sugar control",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "initial appetite control",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "tolerance",
+      "description": "tolerance developed after 20 months of use; blood sugar varying again, no appetite control",
+      "severity": "significant",
+      "onset_days": 600,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "At 20 months of Tirzepatide use, experiencing tolerance to effects. Switching to Retatrutide. Notes no good answer exists for tolerance management other than dose increase or product switch.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.695469Z"
+}

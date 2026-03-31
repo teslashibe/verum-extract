@@ -1,0 +1,49 @@
+{
+  "id": "697e9c56-7334-4a4a-b386-531bf44bd0b2",
+  "source_id": "1ot8zjj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ot8zjj/best_stack_for_surviving_first_month_with_newborn/",
+  "author_hash": "7d4d3c56de7a0e6235027cf157d5a8dbbebd55a3b6065394c4d50561282e835a",
+  "confidence_tier": 5,
+  "date_published": "2025-11-10T01:01:40-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 3,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "every 3.5 days",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "MOTS-C at 5mg every 3.5 days worked well for energy"
+    }
+  ],
+  "protocol_notes": "Recommends SubQ injection. Uses Chinese sources with Janoshek test reports. Takes NAD+ on days between MOTS-C injections.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.265047Z"
+}

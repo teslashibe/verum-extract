@@ -1,0 +1,41 @@
+{
+  "id": "680558a2-2311-48ad-a35f-fec6e3711960",
+  "source_id": "1s6rp6e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6rp6e/ghrp6_protocol_usage/",
+  "author_hash": "cfa5547af9449260b48f38e599dc239b70db00538ccbdb7b6c33be370a068800",
+  "confidence_tier": 5,
+  "date_published": "2026-03-29T03:36:54-07:00",
+  "reported_weight": {
+    "value": 62,
+    "unit": "kg"
+  },
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHRP-6",
+      "name_normalized": "ghrp_6",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "appetite-stimulating effects"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "goal of gaining mass"
+    }
+  ],
+  "protocol_notes": "User proposed protocol: 100 mcg twice daily, once upon waking and once before dinner, 30 minutes before food with at least 2 hours after food taken. User is not diabetic. User is considering bloodwork before and after use.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.645404Z"
+}

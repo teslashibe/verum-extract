@@ -1,0 +1,36 @@
+{
+  "id": "a587a35f-3bf4-4bc4-95a3-52f2d60dc2a8",
+  "source_id": "1qqyfm0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqyfm0/anyone_else_not_feeling_the_effects_of_retatrutide/",
+  "author_hash": "988555f627a4ff147b125ab2d421e1e5ac04823ee81a44348868790d6b991b42",
+  "confidence_tier": 4,
+  "date_published": "2026-01-29T23:01:56-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 12.3% of body weight in 6 weeks",
+      "severity": "significant",
+      "onset_days": 42
+    }
+  ],
+  "protocol_notes": "Started at 0.5mg in first week, titrated to 4mg by week 6, planning to increase to 5mg. No GLP medications prior. Doses were weekly escalations. Did not experience subjective appetite suppression or food noise reduction despite significant weight loss.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669173Z"
+}

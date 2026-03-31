@@ -1,0 +1,67 @@
+{
+  "id": "787868ce-1bf0-4cf6-9d89-62d7d2b7e9ba",
+  "source_id": "1awg8lj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1awg8lj/tirzepatide_progress/",
+  "author_hash": "7a1c149fc27feb5d7766d8d3cedb43c9502aab92e651bc03bbffabee6c14fa8a",
+  "confidence_tier": 4,
+  "date_published": "2024-02-21T08:25:10-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 308,
+    "unit": "lbs"
+  },
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 72 lbs in 3 months (from 380 to 308 lbs); sustained appetite suppression",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Significant appetite suppression allowing healthy meal choices; unable to consume more than a bite or two of sugary foods",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Feels better than ever; more present with children; easier to be around in general",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Taste buds changed drastically; now able to tolerate and enjoy spicy foods when previously could not",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Weight fluctuates up 1-2 lbs during menstrual cycle",
+      "severity": "mild"
+    },
+    {
+      "category": "hair_change",
+      "description": "Hair loss occurring due to rapid weight loss",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started November 1st at starting weight 380 lbs. Titrated from 2.5 mg for 7 weeks, then increased to 5 mg in late December and maintained at 5 mg through report date (February 21st). Currently weight 308 lbs, goal weight 200 lbs. Reports zero side effects from medication itself.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.95,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.416518Z"
+}

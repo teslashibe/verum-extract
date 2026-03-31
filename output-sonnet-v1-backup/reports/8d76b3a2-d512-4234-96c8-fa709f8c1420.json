@@ -1,0 +1,74 @@
+{
+  "id": "8d76b3a2-d512-4234-96c8-fa709f8c1420",
+  "source_id": "1qn6v47",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qn6v47/reta_stopped_working/",
+  "author_hash": "8577a9b2d1e180d426048443f5394a25a540f87036f154304f78d476815c4771",
+  "confidence_tier": 4,
+  "date_published": "2026-01-25T21:07:53-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "Plays hockey twice a week, rehabbing a knee injury",
+  "health_conditions": [
+    "knee injury"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 9,
+      "dose_unit": "mg",
+      "frequency": "weekly (split into two doses)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost about 20lbs in 6-7 weeks on first vial",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Initial hunger and food noise suppression on first vial; no longer effective on subsequent vials",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Noted decent body recomp, likely gaining some muscle and water weight since starting TRT",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Sensitive skin from time to time",
+      "severity": "mild"
+    },
+    {
+      "category": "nausea",
+      "description": "Occasional nausea when eating",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Started Reta mid-October 2025; lost 20lbs on first vial. Subsequent vials (same batch of 10 with COA) appeared ineffective. Titrated up to clinical 9mg/week split into two doses. Started TRT in December 2025. Using BPC-157 for knee rehab. Ordered Reta from new supplier to compare. Weight loss stalled after adding TRT.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.124026Z"
+}

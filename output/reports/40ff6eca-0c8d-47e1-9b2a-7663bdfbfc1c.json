@@ -1,0 +1,58 @@
+{
+  "id": "40ff6eca-0c8d-47e1-9b2a-7663bdfbfc1c",
+  "source_id": "1jlwyn4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jlwyn4/redness_essentially_gone/",
+  "author_hash": "839adcdaedd30cd3c3cfe2cf7df30c9614f1d093cfe6419cb8942078c0841cce",
+  "confidence_tier": 4,
+  "date_published": "2025-03-28T07:55:31-07:00",
+  "health_conditions": [
+    "alcohol-induced facial flushing"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "IU",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "IU",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "IU",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Facial redness from alcohol consumption reduced by approximately 80%",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "User refers to this as the 'glow' protocol. Total of 9 units mixed together (3 units each of GHK-Cu, BPC-157, TB-500). Only 5 doses administered at time of report. Subcutaneous injection.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.410293Z"
+}

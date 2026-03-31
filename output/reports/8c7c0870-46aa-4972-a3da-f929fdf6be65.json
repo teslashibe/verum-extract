@@ -1,0 +1,35 @@
+{
+  "id": "8c7c0870-46aa-4972-a3da-f929fdf6be65",
+  "source_id": "1pzz0nu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pzz0nu/ghk_cu_what_is_happening/",
+  "author_hash": "405575ce4e7b460723a5fe31b2fd99cc46ab07175dcedbfccf010c1ee70fc8e6",
+  "confidence_tier": 4,
+  "date_published": "2025-12-30T16:45:37-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Blends GHK-Cu 100mg with BPC-157 10mg to eliminate sting.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.672437Z"
+}

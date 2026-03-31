@@ -1,0 +1,45 @@
+{
+  "id": "836f1ccf-361c-493d-9def-c4037476fbea",
+  "source_id": "1alz63w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1alz63w/did_anyone_notice_peptides_more_potent_more/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 5,
+  "date_published": "2024-02-08T08:08:41-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "better sleep with recently reconstituted peptides",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "flushing sensation at lower dose with recently reconstituted peptides",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Observes peptides appear more potent immediately after reconstitution; effects remain good several weeks later but with decreased potency. Reconstitution with BAC water. Dose reduction needed over time.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.416807Z"
+}

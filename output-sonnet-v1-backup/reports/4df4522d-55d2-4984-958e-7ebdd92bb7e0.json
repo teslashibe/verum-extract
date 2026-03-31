@@ -1,0 +1,44 @@
+{
+  "id": "4df4522d-55d2-4984-958e-7ebdd92bb7e0",
+  "source_id": "1r01h8a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r01h8a/nad_motsc_post_injecting/",
+  "author_hash": "9511eea6d55e1974de61fdba299e04b4d4009268e5818f55832de0d45f625980",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T03:10:47-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Flush from NAD+, almost like shortness of breath",
+      "severity": "moderate"
+    },
+    {
+      "category": "injection_site",
+      "description": "Itchy rash at injection site from MOTS-C",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Reconstitutes 10mg MOTS-C vial with 1ml bac water, resulting in 10mg/ml concentration; doses 5mg (0.5ml). Considering changing concentration to reduce injection volume.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.120144Z"
+}

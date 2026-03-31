@@ -1,0 +1,42 @@
+{
+  "id": "2ca1d242-3d50-430a-9ad5-8a9567774685",
+  "source_id": "1mrif03",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mrif03/going_from_tirz_to_reta/",
+  "author_hash": "fd00bf1ef03fff6923ca19933867337a8fcae4680ad79720d1d7c90531a92c44",
+  "confidence_tier": 4,
+  "date_published": "2025-08-15T19:40:45-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Retatrutide provides immense fat burn at 4-5mg dose; allows more food intake compared to Tirzepatide",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Recommends gradual transition protocol: Week 1-2: 5mg Tirz + 1mg Reta; Week 3-4: 2.5mg Tirz + 2mg Reta; Week 5+: 3mg Reta only, uptitrating 1mg every 3-4 weeks. Notes Tirzepatide reduces appetite while Retatrutide burns body fat with ability to consume more food.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.76,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.401192Z"
+}

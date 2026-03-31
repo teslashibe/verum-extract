@@ -1,0 +1,65 @@
+{
+  "id": "5b79352c-a493-40ce-97ed-0b8c8d2ae5ec",
+  "source_id": "1rmquwa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmquwa/36_days_in/",
+  "author_hash": "898129b0e8a84e4f09c875b7c307442327f6c593d45a8abae5233416c8865f4b",
+  "confidence_tier": 4,
+  "date_published": "2026-03-06T13:32:36-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 192,
+    "unit": "lbs"
+  },
+  "training_status": "works 12 hrs a day on drill line",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "IU",
+      "frequency": "weekly",
+      "cycle_length_days": 36,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "dose_value": 15,
+      "dose_unit": "IU",
+      "frequency": "5 days per week",
+      "cycle_length_days": 36,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "frequency": "daily",
+      "cycle_length_days": 36,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 28 lbs in 36 days (192 to 164 lbs)",
+      "severity": "significant",
+      "onset_days": 36
+    },
+    {
+      "category": "body_composition",
+      "description": "Visible body composition changes documented with timestamps",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started Feb 2nd. Quit drinking. One meal a day with plenty of water. No alcohol. Height 5'8\". Reta dose stated as '20 units a week' and KLOW '15 units a day 5 days a week'. Also mentions quitting drinking as lifestyle change contributing to weight loss. Commenter nickisgonnahate reports similar experience with tirzepatide (24 lbs in 34 days, 269 to 245 lbs) but that is separate report not extracted.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.667844Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "4f980a5e-921d-479e-8d7b-b283d58905df",
+  "source_id": "1ru9j9d",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ru9j9d/tesa_vs_cjcipa/",
+  "author_hash": "62c4ed7ea0a49b0d1ad9c3e87110ca3e6356cb46d95af7da3aca7c3f50ca3d06",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T02:18:19-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "cycle_length_days": 365,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "twice daily",
+      "cycle_length_days": 365,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Mid section visibly shrunk after 3 months. Love handles almost gone. Side belly fat reduced.",
+      "severity": "significant",
+      "onset_days": 90
+    }
+  ],
+  "protocol_notes": "User running Tesamorelin 2mg every night and Ipamorelin 300mcg twice daily. Plans to continue for full year without cycling off. Significant regional fat loss in midsection.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.651863Z"
+}

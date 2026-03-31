@@ -1,0 +1,43 @@
+{
+  "id": "1d676aa1-ec66-4494-8cd9-9ed50493b067",
+  "source_id": "1no254w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1no254w/reta_admission_learn_from_my_mistakes/",
+  "author_hash": "e73565d98281760ccec911c7d9f86ec7f29543662934d77a9eb1803486206846",
+  "confidence_tier": 4,
+  "date_published": "2025-09-22T16:37:20-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Better food intuition, fullness, decreased food noise",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Too much too fast when dose escalated to 1mg on one shot",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "OP mistakenly recorded only half of the BAC water used during reconstitution (1.2mL noted instead of 2.4mL used), resulting in dosing 0.25mg twice weekly (0.5mg weekly) instead of the intended 0.5mg twice weekly (1mg weekly) for approximately one month. Recommends starting at 0.5mg weekly for two weeks before titrating up.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.270257Z"
+}

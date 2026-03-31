@@ -1,0 +1,42 @@
+{
+  "id": "a6b3a46c-ca27-457d-b8d0-8ea7c733bb70",
+  "source_id": "1r98xrv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r98xrv/dsip_300_mcg_or_1000_mcg/",
+  "author_hash": "b51a312d3e6fcf55db9629f26f2ee049ae38ea0f86f9c0e356a1249155935f79",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T11:34:03-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "frequency": "every other day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "cjc-ipa",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "every other day",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Incredible sleep on 1mg DSIP every other day with 300mcg CJC-IPA",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Titrated from 500mcg DSIP up to 1mg with no sides. Currently running 1mg DSIP every other day stacked with 300mcg CJC-IPA.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.116678Z"
+}

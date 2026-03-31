@@ -1,0 +1,43 @@
+{
+  "id": "c1285c4d-bdc0-4d0d-a165-46007ee5a8d0",
+  "source_id": "1rkyjh2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rkyjh2/seeking_general_advice_with_reta/",
+  "author_hash": "02e003b3095f4728088e4451568d5e1c3b33f2080a4381ef79874d14cff32f81",
+  "confidence_tier": 4,
+  "date_published": "2026-03-04T13:42:36-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Feeling effects already on first week",
+      "severity": "mild",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Concerned about gastroparesis risk from GLP-1 compounds",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Starting at 1mg/week, planning to titrate up by 0.5mg every two weeks if tolerated. Also following keto diet with attention to hydration and fiber intake via psyllium husk. User is in first week of Retatrutide use.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.656913Z"
+}

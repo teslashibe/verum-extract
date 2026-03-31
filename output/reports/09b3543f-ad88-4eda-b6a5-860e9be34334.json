@@ -1,0 +1,36 @@
+{
+  "id": "09b3543f-ad88-4eda-b6a5-860e9be34334",
+  "source_id": "1q2wmyd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q2wmyd/epithalon_experience/",
+  "author_hash": "0efded26d36e8b6bef61a97a8f82b628c60f3874e6ac796316d5b6797dce38bb",
+  "confidence_tier": 4,
+  "date_published": "2026-01-03T06:59:02-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "every other day",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Plan: 1mg Epithalon daily 60-90 min before bed for 10 days, combined with 250mcg DSIP every other day 30-45 min before bed. If successful, second cycle at 3mg per day for 10 days. Notes 6 month break recommended between higher dose cycles to avoid circadian rhythm disruption.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.388193Z"
+}

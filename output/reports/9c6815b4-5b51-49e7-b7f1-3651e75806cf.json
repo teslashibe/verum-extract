@@ -1,0 +1,45 @@
+{
+  "id": "9c6815b4-5b51-49e7-b7f1-3651e75806cf",
+  "source_id": "1s6kkaw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6kkaw/how_long_is_this_sustainable/",
+  "author_hash": "3e6a74a22e7272bb3f218dbe74526800300ae70e02f86be6db3ff057e7ca72ca",
+  "confidence_tier": 4,
+  "date_published": "2026-03-28T20:33:19-07:00",
+  "reported_weight": {
+    "value": 225,
+    "unit": "lbs"
+  },
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 49,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped 20 lbs in first month plus one week",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Body felt exhausted and stopped losing weight weeks 5-7, caused by glycogen depletion from insufficient carbohydrate intake",
+      "severity": "significant",
+      "onset_days": 35,
+      "resolved": true,
+      "resolution_days": 10
+    }
+  ],
+  "protocol_notes": "Started at 245 lbs, dropped to 225 lbs in ~32 days. Experienced glycogen depletion around days 35-49 from low carb intake. Resolved with 3-4 day carb load, regained 2 lbs then lost additional 5 lbs following week. Emphasized importance of electrolytes and sodium.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.645547Z"
+}

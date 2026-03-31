@@ -1,0 +1,90 @@
+{
+  "id": "e396b4b9-a95e-4b65-a187-c87ff5e7ca80",
+  "source_id": "1s7pvyv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s7pvyv/bpc157_and_tb500_length_of_use/",
+  "author_hash": "c928fe15db48a7845f1cb08f6e842796e6197a39ca7239ad4b7670929b57062a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-30T06:00:04-07:00",
+  "reported_age_range": "40-49",
+  "training_status": "active, body recomposition goals",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Thymosin Alpha 1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "frequency": "2-week cycle in fall and spring; as needed when sick",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Better sleep from Tesamorelin/Ipamorelin stack"
+    },
+    {
+      "category": "recovery",
+      "description": "Faster workout and injury recovery from Tesamorelin/Ipamorelin stack"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Additional fat burning from Tesamorelin/Ipamorelin stack"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Easier lean muscle gains from Tesamorelin/Ipamorelin stack"
+    },
+    {
+      "category": "immune",
+      "description": "Intense immune support from Thymosin Alpha 1; effects persist 4-6 weeks after use; used proactively at onset of illness",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User is in later 40s. During body recomposition phase used 2mg Tesamorelin + 300mcg Ipamorelin fasted before bed. After reaching goals, lowered to 1mg Tesamorelin + 250mcg Ipamorelin per day. Runs 2-week cycles of Thymosin Alpha 1 in fall and spring for immune support, and keeps a vial in the freezer for acute illness. Advises against long-term BPC/TB use due to angiogenesis and cancer risk concerns.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.102745Z"
+}

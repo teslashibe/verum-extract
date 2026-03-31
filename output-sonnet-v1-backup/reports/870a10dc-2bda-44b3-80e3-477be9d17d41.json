@@ -1,0 +1,46 @@
+{
+  "id": "870a10dc-2bda-44b3-80e3-477be9d17d41",
+  "source_id": "1l8cyhh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1l8cyhh/tirz_and_methadone/",
+  "author_hash": "dc0d5412096f53b234f839d6b053d2084afbcd5bccca8d8d2258708277f30189",
+  "confidence_tier": 4,
+  "date_published": "2025-06-10T15:52:37-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Reduced desire to drink alcohol despite not being an alcoholic; went from wine with dinner/social drinking to not caring about wine",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Sleep medication takes longer to kick in at higher doses (7.5mg-10mg); solved by taking sleep med 3 hours before bed",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Constipation, especially at higher doses (7.5mg-10mg); managed with Miralax every other day to daily",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Titrated from lower doses up to 7.5mg then 10mg. Notes that at lower doses gastric emptying effects are minimal but become more pronounced at higher doses. Takes sleep medication 3 hours before bed as workaround for delayed absorption. Uses Miralax for constipation.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.282284Z"
+}

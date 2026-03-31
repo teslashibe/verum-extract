@@ -1,0 +1,37 @@
+{
+  "id": "2a675559-20b4-48ac-a821-e630be3d3fc9",
+  "source_id": "111ndl0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/111ndl0/bpc157_really_is_a_miracle_drug/",
+  "author_hash": "eeb7aea21e063766275d28004f1a1aff7a38f93442151f91c9438744f045a0cf",
+  "confidence_tier": 4,
+  "date_published": "2023-02-13T15:23:53-08:00",
+  "health_conditions": [
+    "chronic inflamed ankle tendon"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Chronic inflamed tendon on ankle almost completely healed, had trouble walking before",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "ankle inflammation (MRI)"
+    }
+  ],
+  "protocol_notes": "MRI showed light inflammatory before treatment. Avoided expensive laser therapy and cortisone injection. Inflammation decreased significantly but not 100% resolved. Comes back slightly after exercise. Later discovered inflammation was coming from within ankle, requiring further investigation.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.1285Z"
+}

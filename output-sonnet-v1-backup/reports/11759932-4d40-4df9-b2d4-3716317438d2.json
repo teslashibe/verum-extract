@@ -1,0 +1,74 @@
+{
+  "id": "11759932-4d40-4df9-b2d4-3716317438d2",
+  "source_id": "1ktzjt5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ktzjt5/would_i_benefit_from_reta/",
+  "author_hash": "33cc9238e937e018d1bf58236b539353be6583072f9a9fe988df2db79fe88178",
+  "confidence_tier": 4,
+  "date_published": "2025-05-23T18:03:50-07:00",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 180,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "insatiable night binging"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TCyp",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "dose_value": 250,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "deca",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Down 25 lbs since mid-December to 180 lbs at 8.3% BF. 6'3\" and 53 years old.",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Tirz curbed insatiable night binging.",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "value_after": 8.3,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "53 years old, 6'3\", started Tirz mid-December, down 25 lbs to 180 lbs at 8.3% BF. On 250mg TCyp and 100mg Deca per week since October. Has Reta on order to try within next few months. Plans to stay on GLP-1 forever if it continues to work.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.283638Z"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "ed3e15db-0264-4993-aac3-98322aeac5fc",
+  "source_id": "1puao9u",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1puao9u/after_3yrs_tirzepatide_not_working_for_loss/",
+  "author_hash": "a43626aac8fda9fe39eb8e91336ec5fae532ef0a4774b8b46355b475e9c9f504",
+  "confidence_tier": 5,
+  "date_published": "2025-12-23T17:16:24-08:00",
+  "reported_sex": "female",
+  "reported_weight": {
+    "value": 148,
+    "unit": "lbs"
+  },
+  "training_status": "active (10,000+ steps/day)",
+  "health_conditions": [
+    "perimenopause (suspected)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "zepbound (tirzepatide)",
+      "name_normalized": "zepbound_tirzepatide",
+      "category": "other",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 1095,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite is non-existent at 15mg",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Weight loss plateau after 3 years; gained 20 lbs back after a short break, unable to resume loss after returning to 15mg",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "On tirzepatide for 3 years, currently at 15mg zepbound. Took a short break during which 20 lbs was regained. Returned to 15mg but weight has not budged. Eating ~1300 kcal/day with protein focus, averaging 10,000+ steps/day. Considering introducing retatrutide. Weight approximately 148 lbs, goal was 125 lbs.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.259001Z"
+}

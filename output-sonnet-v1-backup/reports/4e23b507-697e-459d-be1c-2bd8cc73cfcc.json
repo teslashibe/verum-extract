@@ -1,0 +1,30 @@
+{
+  "id": "4e23b507-697e-459d-be1c-2bd8cc73cfcc",
+  "source_id": "1b7mwv8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1b7mwv8/how_many_of_you_have_experienced_permanent/",
+  "author_hash": "7856db08ad3e54f08f9d4062e9daf302027d0aebd7378699e9fbd45dd0fb3600",
+  "confidence_tier": 5,
+  "date_published": "2024-03-05T17:28:54-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Delayed gastric emptying while on tirzepatide; resolved upon stopping",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Delayed gastric emptying stops when tirzepatide is discontinued",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294499Z"
+}

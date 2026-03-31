@@ -1,0 +1,43 @@
+{
+  "id": "42d0ca85-79dc-4d1c-a20d-2b44f8ca0d3f",
+  "source_id": "1lmkqgl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lmkqgl/wondering_if_sermorelin_is_for_me/",
+  "author_hash": "a6135da9bcbddce3bf1c9ed947e032409b006735156b2e9ce78f088557595334",
+  "confidence_tier": 4,
+  "date_published": "2025-06-28T04:38:01-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "intramuscular",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Considering running Sermorelin in cycles; suggests it takes 2-3 cycles to see measurable IGF-1 response",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "On second cycle of Sermorelin. First cycle did not move IGF-1. Doctor advised 2-3 cycles needed for measurable effect. Recommends injectable route only, not oral. Also mentions Semaglutide/GLP-1 for gains.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.405238Z"
+}

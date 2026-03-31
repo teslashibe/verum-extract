@@ -1,0 +1,44 @@
+{
+  "id": "0c8abe03-eecd-4185-a5bd-e7ebd6834aa0",
+  "source_id": "1r6hf9j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6hf9j/the_beauty_blend/",
+  "author_hash": "ae58274e7ebaf6a63953e9062bc169c2548083d849345b06ec3151c0bc698e47",
+  "confidence_tier": 4,
+  "date_published": "2026-02-16T10:22:10-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Mild bite/sting with GHK-CU + KPV blend; less than GHK-CU alone or previous GLOW blend. Spicier when injecting in thigh vs lower stomach.",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Home blend of 50mg GHK-CU and 10mg KPV in 4ml BAC water. 20 units injected daily. Preferred injection site is lower stomach between beltline and belly button level, at least 2 inches from belly button. Thigh is spicier.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.117639Z"
+}

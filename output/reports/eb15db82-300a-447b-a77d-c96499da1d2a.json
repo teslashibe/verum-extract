@@ -1,0 +1,61 @@
+{
+  "id": "eb15db82-300a-447b-a77d-c96499da1d2a",
+  "source_id": "1lx6tdb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lx6tdb/bpc157_tb500_current_results_40m/",
+  "author_hash": "022fd669a641f035248b8bdebc2aa85712a16b0e7148d7f99754c905749ce2bb",
+  "confidence_tier": 4,
+  "date_published": "2025-07-11T06:23:53-07:00",
+  "health_conditions": [
+    "shoulder tear",
+    "foot pain",
+    "post-workout DOMS"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Healed a small tear in shoulder",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Assists with post-workout DOMS and assists with other recoveries, quicker than without",
+      "severity": "moderate"
+    },
+    {
+      "category": "pain_relief",
+      "description": "Reduces pain in foot, similar to low-dose prednisone effect",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "pain_change",
+      "description": "Pain returns in foot area if missed doses for a few days",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "User describes BPC-157 and TB-500 stack as helpful but not a magic bullet; emphasizes rest and recovery remain critical. Pain relief appears dose-dependent, with withdrawal of analgesia when doses missed.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.404448Z"
+}

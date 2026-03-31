@@ -1,0 +1,102 @@
+{
+  "id": "cd9e5d04-60da-4c6e-a945-da54fa78b4d0",
+  "source_id": "1f8k5cg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1f8k5cg/just_as_a_random_n1_on_what_happens_when_you/",
+  "author_hash": "d69e18600d2b976ab6e19b1ea580344509ef52312b3c3954410425210352d298",
+  "confidence_tier": 4,
+  "date_published": "2024-09-03T21:04:49-07:00",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 135,
+    "unit": "lbs"
+  },
+  "training_status": "standing occupation (8-10 hour shifts)",
+  "health_conditions": [
+    "postural tachycardia (standing)",
+    "subclinical hypothyroid (resolved)",
+    "elevated blood pressure (now controlled)",
+    "diverticula in splenic flexure",
+    "chronic digestive issues (bloating, diarrhea)",
+    "venous insufficiency (suspected)",
+    "spider veins"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "LL-37",
+      "name_normalized": "ll_37",
+      "category": "immune",
+      "dose_value": 125,
+      "dose_unit": "mcg",
+      "frequency": "daily (discontinued)",
+      "cycle_length_days": 4,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "frequency": "not specified",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Blood pressure normalized from 185/110 to 100/60 by 2nd dose of Tirzepatide",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Weight reduced to 135lbs (from higher weight after gaining 20+lbs in late 2022)",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite minimal at 15mg Tirz dose",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Postural tachycardia developed 4 days into LL-37 use; still ongoing after discontinuation",
+      "severity": "significant",
+      "onset_days": 4,
+      "resolved": false
+    },
+    {
+      "category": "other",
+      "description": "At 400mcg BPC-157: felt lethargic all day, took 2 days to recover; now stays at 200mcg",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 2
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "blood pressure",
+      "unit": "mmHg"
+    },
+    {
+      "marker_name": "blood glucose"
+    }
+  ],
+  "protocol_notes": "Was age 36-37 when BP problems began (late 2022). BP was 185/110 at stress EKG in late 2022; normalized to 100/60 on Tirzepatide. Not diabetic but blood glucose not ideal. Planning to taper Tirz down in ~2 weeks. LL-37 discontinued due to worsening heart issues; suspects individual intolerance and underlying venous insufficiency with family history of bad veins. BPC-157 currently at 200mcg to avoid lethargy; previously tried 400mcg with negative effects. Planning further cardiac workup (stress EKG, echocardiogram) after relocation.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.291299Z"
+}

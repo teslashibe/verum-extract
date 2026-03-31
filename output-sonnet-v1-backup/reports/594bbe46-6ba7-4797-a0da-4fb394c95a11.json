@@ -1,0 +1,65 @@
+{
+  "id": "594bbe46-6ba7-4797-a0da-4fb394c95a11",
+  "source_id": "1lus4ba",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lus4ba/sema_reta_stack/",
+  "author_hash": "2a6e783dc18935230188cb6f9e1cab501622494a9936f994516b7f7cf83b057f",
+  "confidence_tier": 4,
+  "date_published": "2025-07-08T08:49:53-07:00",
+  "reported_weight": {
+    "value": 260,
+    "unit": "lbs"
+  },
+  "training_status": "Lifts regularly, training for half marathons",
+  "health_conditions": [
+    "non-diabetic",
+    "weight loss goal (~50 lbs)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SEMA",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 1.7,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "RETA",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "SEMA used for appetite/craving suppression"
+    },
+    {
+      "category": "fat_loss",
+      "description": "RETA added for fat cell burning at lower dosage; goal is to drop ~50 lbs by December"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Mild nausea after first .25mg RETA dose, faded by night time",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Prescription semaglutide for weight loss. Plans to stack with retatrutide starting at 0.25mg 2x weekly, adjusting as needed. Monitors BP regularly. Goal to maintain through December then discontinue both. 6ft tall. Planning to add endurance cardio for half marathon training.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.279598Z"
+}

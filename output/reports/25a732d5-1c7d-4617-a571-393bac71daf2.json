@@ -1,0 +1,51 @@
+{
+  "id": "25a732d5-1c7d-4617-a571-393bac71daf2",
+  "source_id": "1rg4yw1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rg4yw1/retatrutide_advise/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T04:08:35-08:00",
+  "reported_weight": {
+    "value": 340,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Down 40lb in 2 months",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "anxiety",
+      "description": "Getting very anxious and jittery, suspects low blood sugar from insufficient caloric intake (approximately 1600 cal/day)",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Waking up in the middle of the night and unable to fall back asleep",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started at 380lb, currently 340lb. Split dose into 3 pins per week at 1.5mg each. User reports not eating enough, approximately 1600 calories per day. Seeking advice to address anxiety and sleep issues.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.671387Z"
+}

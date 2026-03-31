@@ -1,0 +1,41 @@
+{
+  "id": "0ef9ad1f-e3e0-4a56-b941-d103fa529428",
+  "source_id": "1gefdgs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1gefdgs/tirz/",
+  "author_hash": "cb1aa28b1894baeeb19597de5e373073b1a4dc123cb75ce3988e5028567ad087",
+  "confidence_tier": 4,
+  "date_published": "2024-10-28T15:38:19-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Reduced appetite suppression when restarting after 3-month break; had to titrate up quickly to regain effects",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Gained weight back during 3-month break from tirzepatide",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Was off tirzepatide for ~3 months due to shortage and other circumstances; gained weight back; when restarting, lower doses were ineffective despite prior tolerance having built up; no negative side effects even jumping back to 5mg abruptly; had to titrate up quickly past previous stopping point; considering adding MOTS-C or AOD 9604",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.289853Z"
+}

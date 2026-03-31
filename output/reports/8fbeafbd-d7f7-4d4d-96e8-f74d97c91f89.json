@@ -1,0 +1,58 @@
+{
+  "id": "8fbeafbd-d7f7-4d4d-96e8-f74d97c91f89",
+  "source_id": "1qkdemd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qkdemd/split_lyophilized_powder_into_2_vials/",
+  "author_hash": "d551b6119e2569a142e023b78544572328d8a022a7b224d2382f48e425151f6d",
+  "confidence_tier": 4,
+  "date_published": "2026-01-22T17:40:31-08:00",
+  "health_conditions": [
+    "low deep sleep"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "daily, 5 days on 2 days off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Deep sleep increased from typically 30 min or less to 50 min on low side and over 60 min on high side on nights using tesa/ipa",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Trying to improve visceral fat loss; expecting results soon after sufficient time on tesa"
+    }
+  ],
+  "protocol_notes": "On max dose of Mounjaro (tirzepatide). Goals are to improve deep sleep and burn visceral fat. Sleep tracker shows doubled deep sleep on tesa/ipa nights.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.670337Z"
+}

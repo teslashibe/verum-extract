@@ -1,0 +1,68 @@
+{
+  "id": "68d45fce-1a40-493f-ab37-138622b64fa3",
+  "source_id": "1qn2mxw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qn2mxw/gd_needles_wrecking_my_injection_sites/",
+  "author_hash": "02436a953a0a655b22256eb2e8e46efcb24804e62b01d47107e1943c55e61c0f",
+  "confidence_tier": 5,
+  "date_published": "2026-01-25T17:54:23-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "training_status": "low 20s bf%",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Severe itching and raised welts lasting 3-10 days unrelated to peptide injected; redness and welts at injection sites",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "skin_reaction",
+      "description": "Allergic reaction to one entire box of syringes",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Uses subcutaneous injections with 31g 0.5mL and 0.3mL syringes from Easy Touch (problematic) and BD (preferred). Injects at 90 degrees with 8mm syringes. Uses stopper vials instead of ampules for reconstitution. Does not filter peptides. Reports that Easy Touch syringes had dull needles with burrs, required squeezing to inject, and caused burning sensation during injection. Brother also experienced same reactions. Switched back to older stock from 2nd box with no issues. Prefers BD syringes. Tried Sol-M and Sol-Ms brands. Doses not exceeding 20 units. Low body fat percentage (~20s).",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.683218Z"
+}

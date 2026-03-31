@@ -1,0 +1,57 @@
+{
+  "id": "afb23549-0e88-442b-a2f9-e8ab4d6ff89b",
+  "source_id": "1rg8hqt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rg8hqt/bpc157_tb500_combo_wrecked_my_sleep_and_i_didnt/",
+  "author_hash": "a1513af4527fffdb151b83f2c0a7acf90abefdc9de9620c3985410e51b947be3",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T06:41:56-08:00",
+  "health_conditions": [
+    "insomnia"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "frequency": "2x daily",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "frequency": "2x daily",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Nausea noticed right away after starting cycle",
+      "severity": "mild",
+      "onset_days": 1
+    },
+    {
+      "category": "fatigue",
+      "description": "Daytime fatigue noticed early in cycle",
+      "severity": "mild",
+      "onset_days": 1
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Severe insomnia with 4-5 hours sleep per night for approximately one month",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 5
+    }
+  ],
+  "protocol_notes": "User was taking BPC-157/TB-500 blend in afternoon/evening rather than morning, which may have contributed to sleep disruption. Switched timing strategy after discovering issue. Dose information referenced from peptidedosages.com 10mg blend vial protocol (site down at time of post). User is lifelong insomniac but noticed significantly worse sleep during peptide use that improved within 5 days of stopping.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.659302Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "621f7a35-f4c7-4d3b-b636-ed829ae309c9",
+  "source_id": "1ri9ltj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ri9ltj/peptides_with_a_moderately_safe_track_record_for/",
+  "author_hash": "58be5da1900e739f6dd8f7cfd3001dd18f138d4060d4c8405598ca3721883f48",
+  "confidence_tier": 5,
+  "date_published": "2026-03-01T13:25:39-08:00",
+  "compounds": [
+    {
+      "name_raw": "Methylene Blue",
+      "name_normalized": "methylene_blue",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Brain fog gone after a day.",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "energy",
+      "description": "A lot more energy. Both methylene blue and reta helping lots.",
+      "severity": "significant",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "Stack of methylene blue and retatrutide. Noticed huge difference within couple days.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.670162Z"
+}

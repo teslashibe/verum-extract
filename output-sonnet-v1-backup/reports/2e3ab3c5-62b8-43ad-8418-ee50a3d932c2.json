@@ -1,0 +1,71 @@
+{
+  "id": "2e3ab3c5-62b8-43ad-8418-ee50a3d932c2",
+  "source_id": "1k64mvi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k64mvi/someone_posted_about_a_17_yo_taking_a_peptide/",
+  "author_hash": "737b4fbf0fee362bd44aff5e9184a0bedbb842a88010517a2001abac1ca6b0e0",
+  "confidence_tier": 5,
+  "date_published": "2025-04-23T10:13:17-07:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "low testosterone",
+    "fertility concerns"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "dose_value": 1000,
+      "dose_unit": "IU",
+      "frequency": "twice a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "anastrozole",
+      "name_normalized": "anastrozole",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Felt way better since starting HCG protocol",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Slightly lethargic, constantly tired, likely due to poor sleep",
+      "severity": "mild",
+      "resolved": false
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Issues getting good sleep",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Total Testosterone",
+      "value_before": 7,
+      "value_after": 21.4,
+      "unit": "nmol/L"
+    },
+    {
+      "marker_name": "Free Testosterone",
+      "value_after": 572,
+      "unit": "pmol/L"
+    }
+  ],
+  "protocol_notes": "Diagnosed with low T. Running HCG 1000IU twice a week with anastrozole (rarely takes anastrozole now). Trying to conceive with wife. Had sperm analysis with results in good range. Gets bloodwork every 6 months. High stress job, building a home, potentially doing IVF. Original endo suggested clomid protocol. Looking for additional help with energy and sleep.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.285438Z"
+}

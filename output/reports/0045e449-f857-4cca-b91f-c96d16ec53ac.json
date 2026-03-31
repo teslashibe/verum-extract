@@ -1,0 +1,64 @@
+{
+  "id": "0045e449-f857-4cca-b91f-c96d16ec53ac",
+  "source_id": "1qqwqer",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqwqer/reta_and_hgh/",
+  "author_hash": "0ddee1db707be7543c1d47ab610c85963ad383035bcb6e4630d4eef18f750bf6",
+  "confidence_tier": 4,
+  "date_published": "2026-01-29T21:28:31-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 3.5,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "insulin_sensitivity",
+      "description": "Helps maintain insulin sensitivity",
+      "severity": "moderate"
+    },
+    {
+      "category": "body_composition",
+      "description": "Recomposition with fat loss and muscle gain",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Ankle swelling when titrating HGH too quickly",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User is titrating HGH upward from 3.5 IU toward 5 IU daily. Experienced ankle swelling from rapid dose escalation. Also mentions history of weight loss success.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.68224Z"
+}

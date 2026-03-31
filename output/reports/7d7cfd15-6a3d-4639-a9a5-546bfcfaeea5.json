@@ -1,0 +1,52 @@
+{
+  "id": "7d7cfd15-6a3d-4639-a9a5-546bfcfaeea5",
+  "source_id": "1s6l0ju",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6l0ju/cjcipa_vs_hgh_side_effects_wise/",
+  "author_hash": "dbe845f922eab12ed2f84ac09ddffe9c14b4cd7a75d75c2a21b009c1817047eb",
+  "confidence_tier": 4,
+  "date_published": "2026-03-28T20:57:06-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "anaphylactic shock from MOTS-c",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 30
+    },
+    {
+      "category": "injection_site",
+      "description": "local reaction on initial CJC/IPA cycle",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Took 1 month break from both CJC and MOTS, then restarted CJC/IPA. No local reaction observed after 3 weeks on restarted protocol",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.656487Z"
+}

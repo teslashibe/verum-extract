@@ -1,0 +1,53 @@
+{
+  "id": "32c748cf-b9c4-416f-b1a3-6b39819f2344",
+  "source_id": "1qfo2pt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qfo2pt/bpc_157_tpc_500_blend_dose/",
+  "author_hash": "181de1bcef282875e633b9f399d755ce7207166c2db7275f30379d87ca23fa06",
+  "confidence_tier": 4,
+  "date_published": "2026-01-17T12:35:04-08:00",
+  "health_conditions": [
+    "joint pain",
+    "inflammation"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Heavy joint pain and inflammation cleared",
+      "severity": "significant"
+    },
+    {
+      "category": "inflammation",
+      "description": "Heavy inflammation cleared",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Blended BPC-157/TB-500. Used 500/500 mcg for heavy joint pain/inflammation, then backed off to 250/250 mcg once condition cleared.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.670767Z"
+}

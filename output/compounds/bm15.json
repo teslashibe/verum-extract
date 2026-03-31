@@ -1,0 +1,139 @@
+{
+  "compound_id": "bm15",
+  "display_name": "BM15",
+  "category": "other",
+  "total_reports": 7,
+  "reports_by_tier": {
+    "4": 5,
+    "5": 2
+  },
+  "top_benefits": [
+    {
+      "category": "cognitive",
+      "count": 2,
+      "pct": 40
+    },
+    {
+      "category": "fat_loss",
+      "count": 2,
+      "pct": 40
+    },
+    {
+      "category": "energy",
+      "count": 2,
+      "pct": 40
+    },
+    {
+      "category": "body_composition",
+      "count": 1,
+      "pct": 20
+    },
+    {
+      "category": "muscle_gain",
+      "count": 1,
+      "pct": 20
+    },
+    {
+      "category": "hair",
+      "count": 1,
+      "pct": 20
+    },
+    {
+      "category": "anxiety_relief",
+      "count": 1,
+      "pct": 20
+    },
+    {
+      "category": "skin",
+      "count": 1,
+      "pct": 20
+    },
+    {
+      "category": "anti_aging",
+      "count": 1,
+      "pct": 20
+    },
+    {
+      "category": "thermogenesis",
+      "count": 1,
+      "pct": 20
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "cardiac",
+      "count": 1,
+      "pct": 20,
+      "avg_severity": 1
+    },
+    {
+      "category": "endurance",
+      "count": 1,
+      "pct": 20,
+      "avg_severity": 1
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "oral",
+      "dose": 3,
+      "unit": "mg",
+      "frequency": "",
+      "count": 1,
+      "pct": 14.3
+    },
+    {
+      "route": "oral",
+      "dose": 200,
+      "unit": "mg",
+      "frequency": "split doses daily",
+      "count": 1,
+      "pct": 14.3
+    },
+    {
+      "route": "oral",
+      "dose": 200,
+      "unit": "mg",
+      "frequency": "100mg at 11am-2pm + 100mg prior to bed",
+      "count": 1,
+      "pct": 14.3
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "tesamorelin",
+      "display_name": "Tesamorelin",
+      "report_count": 3
+    },
+    {
+      "compound_id": "ghk_cu",
+      "display_name": "GHK-Cu",
+      "report_count": 2
+    },
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Retatrutide",
+      "report_count": 2
+    },
+    {
+      "compound_id": "mots_c",
+      "display_name": "MOTS-c",
+      "report_count": 2
+    },
+    {
+      "compound_id": "rad140",
+      "display_name": "RAD-140",
+      "report_count": 1
+    }
+  ],
+  "avg_cycle_length_days": 24,
+  "avg_sentiment_score": 0.786,
+  "sentiment_breakdown": {
+    "positive": 5,
+    "mixed": 0,
+    "negative": 0,
+    "neutral": 2
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T04:23:03.424007Z"
+}

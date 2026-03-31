@@ -1,0 +1,78 @@
+{
+  "id": "8ff51173-f541-4dde-8cf5-9c5e8f91417b",
+  "source_id": "1oceaai",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oceaai/best_peptide_for_muscle_growth/",
+  "author_hash": "684ae5b13f5c25b8c65d126c7b0953871b1782f1528cbae197f2c047af8ecadc",
+  "confidence_tier": 4,
+  "date_published": "2025-10-21T07:21:07-07:00",
+  "training_status": "hard training 4-5 days a week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "1 week on, 1 week off",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "1 week on, 1 week off",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "1 week on, 1 week off",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "20 lbs gained over 3 months",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Improved recovery enabling harder training",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Feeling great",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Cycling peptides: BPC-157 and TB-500 continuously; Ipamorelin and Tesamorelin alternate weekly; Sermorelin alternates weekly. High protein intake 280-320g daily. User emphasizes peptides support recovery rather than directly causing muscle growth.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.679001Z"
+}

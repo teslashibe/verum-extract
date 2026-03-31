@@ -1,0 +1,51 @@
+{
+  "id": "68843e24-636c-4045-afe2-9f462471c842",
+  "source_id": "1nthftv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nthftv/tesamorelin_negative_reaction/",
+  "author_hash": "da1ff1cd2fdeeb80230e49209dc8042276ea877fc73a2e4c791d1f94c8a0a891",
+  "confidence_tier": 4,
+  "date_published": "2025-09-29T06:02:39-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "welts and itching after injection",
+      "severity": "moderate",
+      "onset_days": 45,
+      "resolved": false
+    },
+    {
+      "category": "skin_reaction",
+      "description": "welts and itching gradually worsening over time",
+      "severity": "moderate",
+      "onset_days": 45,
+      "resolved": false
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "stomach turned bright red during injection, head rush, light-headed, flushing all over body",
+      "severity": "significant",
+      "onset_days": 105,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Started June 1st, 2mg every night 5 days on 2 days off. First month and a half no issues. Developed welts and itching more frequently after ~6 weeks. Severe allergic reaction ~3 weeks prior (approximately week 12). Now taking 1mg and missing doses intentionally. Suspects tesamorelin antibody formation. Uses Benadryl as treatment. Has 3 more 10mg vials remaining.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.680521Z"
+}

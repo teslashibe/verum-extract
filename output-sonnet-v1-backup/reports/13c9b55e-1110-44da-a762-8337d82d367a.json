@@ -1,0 +1,65 @@
+{
+  "id": "13c9b55e-1110-44da-a762-8337d82d367a",
+  "source_id": "1rt9sll",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rt9sll/mots_c_nad/",
+  "author_hash": "e61018c8f504c9095071db0a6b0558d0217e0ca565af2c480f7f44fc12b06094",
+  "confidence_tier": 4,
+  "date_published": "2026-03-13T21:20:46-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "returning to heavy lifting after years away",
+  "health_conditions": [
+    "alcohol abuse history",
+    "autoimmune disease",
+    "uncontrolled inflammation"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Mots C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "pre workout",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "pre workout",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Incredibly intense, good workouts; feels like CNS improvement",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "No soreness at all after high intensity days; able to squat 2x per week due to feeling perfectly recovered",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Pushing 2-3 plates on all core lifts despite not lifting heavy for years; improved grip strength",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Feels like mitochondrial improvement; describes it as unlocking 20s-level intensity and recovery",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "OP started NAD+ a week prior to adding Mots-C in order to monitor feel and side effects. Considers current dose low and plans to titrate up if effects wear off. Theorizes benefits are due to mitochondrial repair after years of alcohol abuse and inflammation from autoimmune disease.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.108658Z"
+}

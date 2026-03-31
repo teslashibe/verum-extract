@@ -1,0 +1,56 @@
+{
+  "id": "81e49f8e-a9a2-431f-87c2-4b69045f741f",
+  "source_id": "1refvpq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1refvpq/hgh_and_test/",
+  "author_hash": "f71d25c19afa41585d1401262ee880bc224ba0b8365c130fde8b0c7514a39815",
+  "confidence_tier": 4,
+  "date_published": "2026-02-25T07:13:45-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "longevity",
+      "description": "Taking for longevity and energy"
+    },
+    {
+      "category": "energy",
+      "description": "Taking for longevity and energy"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "About 8 lbs of water retention at 2iu, backed down to 1iu",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "51 year old male. Started HGH at 2iu but reduced to 1iu due to water retention. Only been on it for 1 month at time of writing. TRT dose: 150mg/week",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.67204Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "08db0a77-ab13-4e86-ab9d-ccdac244bd80",
+  "source_id": "1qfo2pt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qfo2pt/bpc_157_tpc_500_blend_dose/",
+  "author_hash": "e222f307e8bd67eaf842bc5b5e83c51bbdab85c2b0a839a4966f49d588323ef1",
+  "confidence_tier": 4,
+  "date_published": "2026-01-17T12:35:04-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Blended BPC-157/TB-500. Starts with 250/250 mcg, titrates up to 500/500 mcg after 1 week. Faster titration recommended for acute injury.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.670767Z"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "48fedba5-a015-4f02-bbcc-136fe3966fbc",
+  "source_id": "1pwxe25",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pwxe25/cagrilintide/",
+  "author_hash": "0aa71080a51d71e2d009627a67ba0dc9e261b46d42f6c2959b25b329e48dd562",
+  "confidence_tier": 4,
+  "date_published": "2025-12-27T05:05:32-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.3,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "0.3mg works perfectly for appetite suppression",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "energy",
+      "description": "At accidental 3mg dose, had no energy for a week",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 7
+    },
+    {
+      "category": "appetite_change",
+      "description": "At accidental 3mg dose, had no appetite for a week; no GI side effects",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Accidental dose of 3mg taken on one occasion; normally uses 0.3mg. No GI side effects at overdose but felt awful for a week.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.258269Z"
+}

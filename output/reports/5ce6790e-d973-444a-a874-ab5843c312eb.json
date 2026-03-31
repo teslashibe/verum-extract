@@ -1,0 +1,80 @@
+{
+  "id": "5ce6790e-d973-444a-a874-ab5843c312eb",
+  "source_id": "1rb5vbn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rb5vbn/cjcno_dacipam_scary_effects_normal/",
+  "author_hash": "d9bb37cc246a80d09b9cffb2eb2f170b1afed413466e54e8b6c630f0da5c12cf",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T15:25:23-08:00",
+  "reported_sex": "female",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "before bed",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Stinging at injection site immediately after injection, lasting approximately 5 minutes",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    },
+    {
+      "category": "flushing",
+      "description": "Face flushing and whole body adrenaline-like flush",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "cardiac",
+      "description": "Heart pounding severely, visible necklace chain movement from heartbeat, able to hear heartbeat in head",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "headache",
+      "description": "Pressure in head, hard to pinpoint headache",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "tinnitus",
+      "description": "Ringing in ears, thumping in ears from heart rate elevation (first injection only)",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Mixed vial CJC/Ipamorelin 5/5 10mg total. 2 injections administered before bed. Reported anxiety-driven feedback loop on first injection that amplified symptoms. Second injection showed improvement with only mild tachycardia and stinging. No hives or allergic manifestations observed.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.673626Z"
+}

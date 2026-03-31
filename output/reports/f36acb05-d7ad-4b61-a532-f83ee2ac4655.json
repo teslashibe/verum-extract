@@ -1,0 +1,41 @@
+{
+  "id": "f36acb05-d7ad-4b61-a532-f83ee2ac4655",
+  "source_id": "1h6h826",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1h6h826/obese_26_year_old_male_considering_peptides/",
+  "author_hash": "b4033fea5a3628cfbd07579d0cb6c455a55558347365208e1db3a3839b321538",
+  "confidence_tier": 4,
+  "date_published": "2024-12-04T06:25:08-08:00",
+  "reported_weight": {
+    "value": 180,
+    "unit": "lbs"
+  },
+  "training_status": "lifting heavy 4-5 days per week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 120,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 30 lbs",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Reached goal weight, maintained for 2 months, no strength loss in gym",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "30 lbs lost in 4 months on Tirzepatide, then maintained for 2 months. Protein intake: minimum 1g per pound of goal weight (180g/day). No muscle loss experienced despite caloric deficit.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.695127Z"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "30a582ee-7fc8-4103-a348-9fb2768072c0",
+  "source_id": "1s3jnju",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3jnju/kisspeptin_vs_hcg_vs_trt/",
+  "author_hash": "2fdf69b27d1987ebe45e94255f8190a2f9d0681a44e9054eca97f9fffb61246c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T11:52:27-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 150,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "route": "subcutaneous",
+      "dose_value": 30,
+      "dose_unit": "IU",
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "libido",
+      "description": "HCG was helpful",
+      "severity": "moderate"
+    },
+    {
+      "category": "body_composition",
+      "description": "Massive benefits from constantly stable testosterone",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hormonal",
+      "description": "Estradiol levels were high",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "total testosterone",
+      "value_after": 1400,
+      "unit": "ng/dL"
+    },
+    {
+      "marker_name": "estradiol"
+    }
+  ],
+  "protocol_notes": "Ran TRT alongside HCG for fertility. Successfully got wife pregnant twice while on protocol. Later reduced testosterone cyp to 120mg weekly due to high estradiol, then discontinued HCG entirely. Initial protocol: Test cyp 150mg/week split into 2x shots, HCG 30 IU 3x weekly.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.9,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.658162Z"
+}

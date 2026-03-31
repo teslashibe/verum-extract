@@ -1,0 +1,59 @@
+{
+  "id": "e9c96f73-3ac7-4151-8796-34900ec5a2a0",
+  "source_id": "1q7ww65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q7ww65/hair_loss/",
+  "author_hash": "8a2156f619a6ccf0d46cda2f33620592a8408735ae7d25b7cea1bd9873d6ce6f",
+  "confidence_tier": 5,
+  "date_published": "2026-01-08T19:08:34-08:00",
+  "health_conditions": [
+    "hair loss"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "glow",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "zepbound",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost a good amount of weight on zepbound",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Significant hair loss began after starting zepbound at 5mg, leading to discontinuation",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "OP previously used zepbound 5mg for one month but stopped due to hair loss. Now ordering tirz at 2.5mg and glow. Already started k2-d3 and b complex supplements. Seeking advice on additional supplements to reduce hair loss.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.255819Z"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cea42526-37a0-4406-b6ab-6f148767c017",
+  "source_id": "1pdif9n",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pdif9n/cjc/",
+  "author_hash": "28c47ca00a71ce1849fc606cf1dfaa891aff018b222375aed79a70d0f6531cba",
+  "confidence_tier": 4,
+  "date_published": "2025-12-03T14:20:51-08:00",
+  "training_status": "Bulking",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC no dac",
+      "name_normalized": "cjc_no_dac",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Unintentional fat stripping while bulking, needed to increase calories",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Mild sleep benefits",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "About 3 weeks in at time of posting. Also on TRT but attributes fat loss effects to peptides, not TRT.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.262072Z"
+}

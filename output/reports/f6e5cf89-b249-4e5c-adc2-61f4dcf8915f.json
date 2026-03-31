@@ -1,0 +1,40 @@
+{
+  "id": "f6e5cf89-b249-4e5c-adc2-61f4dcf8915f",
+  "source_id": "1n7sb0l",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n7sb0l/motsc_protocols_are_all_over_the_board/",
+  "author_hash": "7ed05b474e51dc2d8228845394b09e289b5c910a2f239a2b3c1d9db6ef75a654",
+  "confidence_tier": 4,
+  "date_published": "2025-09-03T14:58:28-07:00",
+  "training_status": "active",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "intramuscular",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "crazy pumps in the gym",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Ran 10mg IM MOTS-c for a while while also on Retatrutide. Noted that 10mg dose causes painful reactions in some users, likely exacerbated by concomitant Retatrutide use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.682972Z"
+}

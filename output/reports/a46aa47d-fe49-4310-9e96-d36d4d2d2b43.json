@@ -1,0 +1,43 @@
+{
+  "id": "a46aa47d-fe49-4310-9e96-d36d4d2d2b43",
+  "source_id": "1qu28vg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qu28vg/have_you_found_hgh_to_reduce_fat_loss_by/",
+  "author_hash": "48aa2f8631b37b090a8f1ca50a48cd3ae6ea2a945cf05467b41e416b6790edde",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T09:55:20-08:00",
+  "training_status": "active (mentions joints during cuts)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MK-677",
+      "name_normalized": "mk_677",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Improved sleep quality",
+      "severity": "moderate"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Water retention from MK reduces joint pain during caloric deficit",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Water retention from MK-677",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Used MK-677 (not GH). Mitigation strategies: extra potassium supplementation, extra magnesium supplementation, split carbs throughout the day rather than large meals. Notes that water retention can be beneficial during cuts for joint health and appearance.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.680831Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "5c0795b9-81fd-4896-be46-81b4c5e38c1b",
+  "source_id": "1p815hb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p815hb/waking_up_90_minutes_earlier_with_reta/",
+  "author_hash": "f1ee710ee42548e66d50a676eb844af2e0e37cee5c26527f4a153c8bf2f38f84",
+  "confidence_tier": 4,
+  "date_published": "2025-11-27T04:35:56-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mcg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Felt not hungry for weeks; described as unpleasant, like losing appetite during the flu",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Waking up 90 minutes earlier than normal, getting up to pee and being wide awake, unable to go back to sleep",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "OP states they are very sensitive to anything affecting sleep; previously could not sleep on CJC; can tolerate Tesamorelin but only under 500mcg/day. Stopped Reta and sleep disturbance persisted for at least one week before returning to normal.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.26298Z"
+}

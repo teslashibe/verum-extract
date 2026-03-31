@@ -1,0 +1,55 @@
+{
+  "id": "5ab662bd-3237-4f5b-86b7-1d632a6ce01b",
+  "source_id": "1ng83kh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ng83kh/is_anyone_nervous_about_the_glp1_lawsuits/",
+  "author_hash": "201dbe043afa1c7db4c4c15bf7ee62f1bc9c0b0dab16018757448877083af966",
+  "confidence_tier": 4,
+  "date_published": "2025-09-13T13:37:15-07:00",
+  "health_conditions": [
+    "prediabetes",
+    "high blood pressure",
+    "high cholesterol",
+    "fatty liver disease",
+    "kidney disease",
+    "sleep apnea",
+    "inflammation",
+    "joint pain",
+    "PCOS",
+    "infertility"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "blood_sugar",
+      "description": "Prediabetes normalized within 3 months",
+      "severity": "significant",
+      "onset_days": 90
+    },
+    {
+      "category": "anti_aging",
+      "description": "Multiple health markers trending in the right direction within 3 months",
+      "severity": "significant",
+      "onset_days": 90
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "blood glucose/metabolic panel",
+      "timeframe_days": 90
+    }
+  ],
+  "protocol_notes": "User reports baseline conditions: prediabetic, high blood pressure, high cholesterol, fatty liver disease, kidney disease, sleep apnea, inflammation, joint pain, PCOS, infertility. All improved to near normal range within 3 months.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.681905Z"
+}

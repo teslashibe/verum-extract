@@ -1,0 +1,175 @@
+{
+  "compound_id": "pinealon",
+  "display_name": "Pinealon",
+  "category": "cognitive",
+  "total_reports": 56,
+  "reports_by_tier": {
+    "4": 41,
+    "5": 15
+  },
+  "top_benefits": [
+    {
+      "category": "cognitive",
+      "count": 19,
+      "pct": 46.3
+    },
+    {
+      "category": "sleep",
+      "count": 16,
+      "pct": 39
+    },
+    {
+      "category": "anxiety_relief",
+      "count": 7,
+      "pct": 17.1
+    },
+    {
+      "category": "energy",
+      "count": 6,
+      "pct": 14.6
+    },
+    {
+      "category": "other",
+      "count": 5,
+      "pct": 12.2
+    },
+    {
+      "category": "joint_pain",
+      "count": 4,
+      "pct": 9.8
+    },
+    {
+      "category": "skin",
+      "count": 2,
+      "pct": 4.9
+    },
+    {
+      "category": "anti_aging",
+      "count": 2,
+      "pct": 4.9
+    },
+    {
+      "category": "recovery",
+      "count": 2,
+      "pct": 4.9
+    },
+    {
+      "category": "libido",
+      "count": 2,
+      "pct": 4.9
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "sleep_disruption",
+      "count": 8,
+      "pct": 19.5,
+      "avg_severity": 2.4
+    },
+    {
+      "category": "mood_change",
+      "count": 2,
+      "pct": 4.9,
+      "avg_severity": 3
+    },
+    {
+      "category": "headache",
+      "count": 2,
+      "pct": 4.9,
+      "avg_severity": 1.5
+    },
+    {
+      "category": "cognitive_impairment",
+      "count": 2,
+      "pct": 4.9,
+      "avg_severity": 2.5
+    },
+    {
+      "category": "appetite_change",
+      "count": 2,
+      "pct": 4.9,
+      "avg_severity": 1
+    },
+    {
+      "category": "energy",
+      "count": 1,
+      "pct": 2.4,
+      "avg_severity": 2
+    },
+    {
+      "category": "flushing",
+      "count": 1,
+      "pct": 2.4,
+      "avg_severity": 2
+    },
+    {
+      "category": "cardiac",
+      "count": 1,
+      "pct": 2.4,
+      "avg_severity": 2
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 200,
+      "unit": "mcg",
+      "frequency": "every 3 days",
+      "count": 2,
+      "pct": 3.6
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 500,
+      "unit": "mcg",
+      "frequency": "daily",
+      "count": 2,
+      "pct": 3.6
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 15,
+      "unit": "units",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 1.8
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "epithalon",
+      "display_name": "Epithalon",
+      "report_count": 25
+    },
+    {
+      "compound_id": "selank",
+      "display_name": "Selank",
+      "report_count": 18
+    },
+    {
+      "compound_id": "semax",
+      "display_name": "Semax",
+      "report_count": 18
+    },
+    {
+      "compound_id": "ss_31",
+      "display_name": "SS-31",
+      "report_count": 13
+    },
+    {
+      "compound_id": "mots_c",
+      "display_name": "MOTS-c",
+      "report_count": 11
+    }
+  ],
+  "avg_cycle_length_days": 23.9,
+  "avg_sentiment_score": 0.737,
+  "sentiment_breakdown": {
+    "positive": 34,
+    "mixed": 7,
+    "negative": 0,
+    "neutral": 15
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T04:48:57.35976Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "f3ea6799-1274-44ac-b1a2-17326eba48c3",
+  "source_id": "1keurvb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1keurvb/glow_help/",
+  "author_hash": "7e39a8cbb7300b48875169c010c3195e821ae12bff0b0becb906ae038e69744f",
+  "confidence_tier": 4,
+  "date_published": "2025-05-04T14:21:11-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 0.4,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Uses KLOW blend (50/10/10/10 mg in 3mL bac). Pins 12 units daily for 8 weeks. Dose per injection: 2mg GHK-Cu and 400mcg of other compounds.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.40859Z"
+}

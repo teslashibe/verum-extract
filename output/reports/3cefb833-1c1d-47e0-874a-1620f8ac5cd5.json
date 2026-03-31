@@ -1,0 +1,40 @@
+{
+  "id": "3cefb833-1c1d-47e0-874a-1620f8ac5cd5",
+  "source_id": "1bqpo5c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bqpo5c/when_calculating_your_dose_if_your_vial_says_55/",
+  "author_hash": "60d1493a6a5b8ec9c675dd24c9ecee2fd91fe19afa018faa7e78aecf51b2bf0f",
+  "confidence_tier": 5,
+  "date_published": "2024-03-29T06:45:52-07:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "GLOW blend: 35mg GHK-Cu + 10mg TB-500 + 5mg BPC-157. Reconstituting with 3ml bacteriostatic water. Desired doses: 1-2mg GHK-Cu, 2mg TB-500, 250mcg BPC-157.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698145Z"
+}

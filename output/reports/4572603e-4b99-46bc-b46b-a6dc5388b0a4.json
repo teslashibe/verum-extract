@@ -1,0 +1,93 @@
+{
+  "id": "4572603e-4b99-46bc-b46b-a6dc5388b0a4",
+  "source_id": "1iptx6y",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1iptx6y/just_wanted_to_say_i_love_peptides_better/",
+  "author_hash": "a94755fdc2cbfbcfd80dcfdd6de9be1710a399d1f3d93257cd75e002def23e1d",
+  "confidence_tier": 4,
+  "date_published": "2025-02-14T20:47:03-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "25-29",
+  "training_status": "active - pilates classes, workouts regularly",
+  "health_conditions": [
+    "IBS or SIBO tendencies",
+    "low testosterone (being treated)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "IU",
+      "frequency": "not specified",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "topical",
+      "frequency": "not specified",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "sleeps amazing",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "mental health improved, more chill, less irritable",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "slightly more energy",
+      "severity": "moderate"
+    },
+    {
+      "category": "endurance",
+      "description": "better performance in pilates classes, can keep up with instructor",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "muscle growth, glutes more plump",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "overall improved recovery",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "bruising and itchy welts/rashes at injection site",
+      "severity": "mild"
+    },
+    {
+      "category": "water_retention",
+      "description": "some water retention, noted luteal phase also causing water retention",
+      "severity": "mild"
+    },
+    {
+      "category": "bloating",
+      "description": "possible bloating from test cream, though attributed to baseline IBS/SIBO tendencies",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Sermorelin dose can be increased to 30 IU. Switched injection sites to manage welts/rashes. Test cream prescribed for low testosterone deficiency at very low dose to avoid masculinization. 2-month supply of testosterone to normalize levels.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.693937Z"
+}

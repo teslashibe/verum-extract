@@ -1,0 +1,60 @@
+{
+  "id": "62b062b9-0eac-489a-90a1-30c8adb1442f",
+  "source_id": "1r7231w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r7231w/anybody_else/",
+  "author_hash": "58ce2aae29a7812f32d225869ba946b0603d4841853832c9c0122908b978cda2",
+  "confidence_tier": 4,
+  "date_published": "2026-02-17T02:03:02-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep has been trash the last week",
+      "severity": "significant",
+      "onset_days": 7,
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Profuse sweating/night sweats",
+      "severity": "significant",
+      "onset_days": 7,
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Bloated"
+    }
+  ],
+  "protocol_notes": "OP started tesamorelin 1mg nightly about 2 weeks ago. Reconstituted 10mg vial with 1.5ml bac water, dosing 0.15ml per day in a 1ml syringe. Reta and TRT used for 3.5 months prior. Sleep slightly improved and sweats stopped later in thread. Considering timing adjustment due to busy schedule (gets up at 3am, home at 5pm).",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.117319Z"
+}

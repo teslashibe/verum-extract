@@ -1,0 +1,62 @@
+{
+  "id": "beb1b8bd-bbd3-440e-8019-0bf754204986",
+  "source_id": "1p4e598",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p4e598/concerns_about_glow_peptide/",
+  "author_hash": "3ad6b0abc801a61793c03d81e6ac2ef4f6c6ee56c0eb3d8f4488509d8075df66",
+  "confidence_tier": 4,
+  "date_published": "2025-11-22T21:02:00-08:00",
+  "health_conditions": [
+    "low copper levels"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "Favorite blend, works well",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Stinging, welts, burning",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Uses 50-10-10 blend, doses based on copper content at 2mg GHK-Cu daily. Cycles 6-8 weeks on with 4 weeks off. Supplements with 2mg copper biglycinate capsule daily even during GLOW cycles due to needing copper supplementation. Reconstitutes with 4ml BAC water, uses 1/2 inch needle in upper glutes, pins in 2-3 spots, uses massage gun for 4-5 minutes post-injection to minimize welts and stinging. Successful mitigation of injection site reactions with this protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.393116Z"
+}

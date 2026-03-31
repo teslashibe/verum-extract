@@ -1,0 +1,48 @@
+{
+  "id": "b8c1df5f-75b3-40d5-9b26-b8a034cbac6e",
+  "source_id": "1m06irh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m06irh/almost_to_goal_thinking_about_peptides_help/",
+  "author_hash": "e655eba760c43c5c16c2275f12e9e895ee5786a8325246de74d6be5ba31654cb",
+  "confidence_tier": 4,
+  "date_published": "2025-07-14T19:51:47-07:00",
+  "training_status": "High protein diet",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "cjc/ipa",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Loves results of reta with CJC/IPA cycle for fat to lean mass transposition; takes about 6 months for real visible results with high protein intake",
+      "severity": "significant",
+      "onset_days": 180
+    },
+    {
+      "category": "fat_loss",
+      "description": "Transposing fat to lean mass",
+      "onset_days": 180
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "Recommends getting IGF-1 levels tested before starting. If IGF-1 is low, suggests reta with CJC/IPA cycle. Reports doing exactly that with great results. Requires a ton of protein and about 6 months for visible results.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.279132Z"
+}

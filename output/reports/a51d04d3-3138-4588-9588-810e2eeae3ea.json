@@ -1,0 +1,71 @@
+{
+  "id": "a51d04d3-3138-4588-9588-810e2eeae3ea",
+  "source_id": "1rsffnd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rsffnd/night_shift_work_new/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T23:07:11-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "training_status": "heavy physical work (night shift)",
+  "health_conditions": [
+    "post TRT recovery"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Kisspeptin",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2 weeks at 500mcg, then 1000mcg after 5/2 cycle",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Taking tesamorelin mainly for visceral fat reduction"
+    },
+    {
+      "category": "sleep",
+      "description": "Tesamorelin helps with sleep"
+    },
+    {
+      "category": "recovery",
+      "description": "Kisspeptin for post-TRT recovery"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Exhausted after every shift and can barely function at home",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Planning to switch from Tesamorelin/CJC to Ipamorelin/CJC after visceral fat reduction. Considering adding MOTS-c, SS-31, or NAD+ for energy support. Seeking advice on sleep optimization with night shift schedule.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.652691Z"
+}

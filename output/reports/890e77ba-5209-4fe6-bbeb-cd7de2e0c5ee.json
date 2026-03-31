@@ -1,0 +1,66 @@
+{
+  "id": "890e77ba-5209-4fe6-bbeb-cd7de2e0c5ee",
+  "source_id": "1rr6b3f",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr6b3f/dsip_for_insomnia/",
+  "author_hash": "bcfda9b4bc0bb5d9b7a4e7b28fca5a8fe710cf131f282ea5b014dbf8eb0510bd",
+  "confidence_tier": 4,
+  "date_published": "2026-03-11T14:01:42-07:00",
+  "health_conditions": [
+    "insomnia"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "30 mins before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "30 mins before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cerebrolysin",
+      "name_normalized": "cerebrolysin",
+      "category": "cognitive",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Can drop off to sleep; falls asleep faster; wakes hourly but gets back to sleep quickly",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Cerebrolysin caused very deep sleep with vivid dreams for first 2 nights",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "User worked up to 1mg DSIP dose. Takes DSIP 2-3 hours before bed. CJC-1295 and Ipamorelin taken 30 mins before bed. Cerebrolysin started during week of report. User notes all three compounds (Semax, Selank, DSIP) together may have cancelled each other out.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.653353Z"
+}

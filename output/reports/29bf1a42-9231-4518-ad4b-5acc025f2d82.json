@@ -1,0 +1,47 @@
+{
+  "id": "29bf1a42-9231-4518-ad4b-5acc025f2d82",
+  "source_id": "1rl8bzz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rl8bzz/improper_injection/",
+  "author_hash": "604334741dd8a4db4bccbf01f5fa8fad0495ea2aeae2fc22a13f1f70aae8a9e9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-04T20:47:49-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "cycle_length_days": 63,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "IU",
+      "frequency": "once daily",
+      "cycle_length_days": 1,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Painful injection on abdomen with funny sensation, felt liquid flow and move through stomach",
+      "severity": "mild",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "Retatrutide: Monday and Thursday injections on alternating sides of abdomen for 9 weeks with no pain until HGH introduction. HGH started at 3 IU on abdomen. Commenter toxicwastesu recommended starting at lower dose (1 IU) and titrating up 1 IU every 3-4 weeks, with morning glucose monitoring.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.656779Z"
+}

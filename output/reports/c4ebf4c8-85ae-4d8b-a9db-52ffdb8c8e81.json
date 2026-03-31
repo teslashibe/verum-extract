@@ -1,0 +1,35 @@
+{
+  "id": "c4ebf4c8-85ae-4d8b-a9db-52ffdb8c8e81",
+  "source_id": "1qvo3cx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qvo3cx/ghkcu_vial_says_discard_28_days_after_puncture/",
+  "author_hash": "d551419900c94793268533e5dc3a2c433ba912a7dc605669545f771ce77466f3",
+  "confidence_tier": 4,
+  "date_published": "2026-02-04T05:07:48-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Uses 50mg 3.5ml vials. Injects 15-20 units daily. BPC vial is 3 months old, still clear with no issues.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.680057Z"
+}

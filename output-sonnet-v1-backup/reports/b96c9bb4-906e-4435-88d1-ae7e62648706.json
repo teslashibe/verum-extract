@@ -1,0 +1,66 @@
+{
+  "id": "b96c9bb4-906e-4435-88d1-ae7e62648706",
+  "source_id": "1rmwgn6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmwgn6/best_peptides_for_nerve_growth/",
+  "author_hash": "07c2a3adaa74d216d174fbeecb2d8523c40e31451319d2a9c87327da57171712",
+  "confidence_tier": 4,
+  "date_published": "2026-03-06T17:25:21-08:00",
+  "health_conditions": [
+    "neuropathic pain",
+    "neuro-inflammation"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "frequency": "daily",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "frequency": "2x weekly",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ARA-290",
+      "name_normalized": "ara_290",
+      "category": "healing_recovery",
+      "frequency": "daily",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Local injections of KPV reduce neuropathic pain",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "KPV found effective for neuro-inflammation personally",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Recommends titrated 12-week protocol starting 6 weeks prior to surgery and continuing 6 weeks post-surgery. Mentions local injections for KPV but notes systemic can also work. Advises consulting surgeon.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.111456Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "74e522de-3bfd-488f-90b1-5fc92d87d631",
+  "source_id": "1prb7m1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1prb7m1/transition_from_trizep_to_retatrutide/",
+  "author_hash": "668a811ad493803f8ae85c6cc7c449edeb903eb0f50d5eaac08269b00924e165",
+  "confidence_tier": 5,
+  "date_published": "2025-12-20T02:19:47-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "increased resting heart rate"
+    },
+    {
+      "category": "other",
+      "description": "dry mouth"
+    },
+    {
+      "category": "other",
+      "description": "retarrhea (diarrhea)"
+    },
+    {
+      "category": "other",
+      "description": "skin sensitivity"
+    },
+    {
+      "category": "appetite_change",
+      "description": "increased appetite and sugar cravings when transitioning from tirz"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "fucked up sleep"
+    }
+  ],
+  "protocol_notes": "Advises 4 weeks per dose escalation: 2, 4, 6, 8, 10, 12mg. Notes weight gain likely until hitting 6-8mg when transitioning from tirz.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.259473Z"
+}

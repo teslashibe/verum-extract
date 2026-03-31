@@ -1,0 +1,43 @@
+{
+  "id": "53ba0905-e18b-4e15-a085-f306a70d5839",
+  "source_id": "1njs5jx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1njs5jx/anyone_here_microdosing_peptides_instead_of/",
+  "author_hash": "532fc0a3d7ddde5d615e7ee55114cea1303a7e92e5b5a802e6ab9aba5f7e7dda",
+  "confidence_tier": 4,
+  "date_published": "2025-09-17T16:04:02-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped 18 lbs in 3 months",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Energy felt steadier",
+      "severity": "moderate"
+    },
+    {
+      "category": "nausea",
+      "description": "No nausea compared to weekly dosing"
+    }
+  ],
+  "protocol_notes": "Split 1mg weekly dose into 0.25mg every other day. Found split dosing smoother with no nausea versus 1mg once weekly.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.681614Z"
+}

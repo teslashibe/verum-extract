@@ -1,0 +1,53 @@
+{
+  "id": "b12fdbd8-5863-4fd0-8445-810d2b0e8d02",
+  "source_id": "1o0hd4u",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o0hd4u/hit_a_vein_passed_out_and_prude_sweating/",
+  "author_hash": "7678db3bbd5457ca2492016a2088130979ea37477f6f777490bf5a550ec1460f",
+  "confidence_tier": 4,
+  "date_published": "2025-10-07T08:06:50-07:00",
+  "health_conditions": [
+    "recovering heroin user"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Severe anaphylaxis-like reaction: extreme dizziness, skin burning sensation, sharp chest pain, loss of consciousness (passed out twice), profuse sweating, inability to move or speak, fire-like sensation moving through body, chills, extreme heartburn sensation, chemical taste in mouth",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "cardiac",
+      "description": "Sharp pain in heart, heart pounding, felt like extreme heartburn",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "User doubled their normal dose due to missing previous injection. Used 8mm 30g insulin needle for subcutaneous injection (likely in belly fat). OP attributes episode to accidental intravenous administration or severe anaphylaxis. Post-incident evaluation suggests severe anaphylaxis rather than actual IV hit. Heart not sore the following day. No breathing difficulty. History of previous anaphylaxis to sermorelin (rash and red neck only, much less severe).",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.679929Z"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "1b316d37-eed5-4a40-9dd5-056cd319f29e",
+  "source_id": "1p0i2wh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p0i2wh/help_me_design_my_stack/",
+  "author_hash": "58e4e54639188c2014396ae9659f46d1f677fd9aa770ae72672293a92c6895a3",
+  "confidence_tier": 4,
+  "date_published": "2025-11-18T09:27:48-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 193,
+    "unit": "lbs"
+  },
+  "training_status": "lifting 4-6 times per week for 6 months, intermittent cardio in 30s",
+  "health_conditions": [
+    "ADHD",
+    "history of weight cycling and skin surgery"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone Cypionate",
+      "name_normalized": "testosterone_cypionate",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 180,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "3-4x per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 30,
+      "dose_unit": "mcg",
+      "frequency": "4x per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "seeking muscle mass gain in upper arms, pecs, glutes and quads"
+    },
+    {
+      "category": "fat_loss",
+      "description": "goal to reduce body fat from mid-20s to mid-teens"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "gassy/burping through workout after carb-heavy dinner",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Currently 55 years old, 32-33\" waist, ~mid-20s body fat. On TRT for testosterone replacement. Previously used Wegovy (semaglutide), discontinued in July. Sobriety 7 years. Supplementing with creatine, fat-soluble vitamin C, zinc, CoQ10, alpha-GPC, methylene blue. Daily tadalafil 10 mg. Planning to start retatrutide at 2-3 mg per week. Considering adding HGH and other peptides. Protein intake ~1g per lb bodyweight.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.677053Z"
+}

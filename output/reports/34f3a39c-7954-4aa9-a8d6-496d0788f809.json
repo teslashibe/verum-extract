@@ -1,0 +1,44 @@
+{
+  "id": "34f3a39c-7954-4aa9-a8d6-496d0788f809",
+  "source_id": "1r02usu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r02usu/my_1_year_3_months_journey_with_reta/",
+  "author_hash": "e1aceb06b5fe603a43ba300d75b84fafa057039f15b05c1c6a56bac37a9e61dd",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T04:25:46-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Good appetite suppression at 5mg Tirzepatide, required step up to 6mg Retatrutide for equivalent suppression",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Was good on 5mg quality Tirzepatide. Slow titration to 6mg Retatrutide to get same appetite suppression. Notes that appetite suppression is not the primary benefit of Retatrutide.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.6658Z"
+}

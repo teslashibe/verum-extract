@@ -1,0 +1,52 @@
+{
+  "id": "a49a5b66-05da-4bd2-b2b3-473bf474df77",
+  "source_id": "1fiu7dt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fiu7dt/which_glp1_cause_least_muscle_loss/",
+  "author_hash": "ac8b798aa6ae416cf9a3e0290998fa4df02abaf3588534c7bc16eaba366eb8c0",
+  "confidence_tier": 4,
+  "date_published": "2024-09-17T01:59:33-07:00",
+  "training_status": "gym 5x per week plus cardio",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Losing lots of fat and keeping muscles and strength",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Keeping muscles and strength",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "protein_intake",
+      "value_after": 220,
+      "unit": "g",
+      "timeframe_days": 21
+    }
+  ],
+  "protocol_notes": "3rd week on Tirz and Tesa; ~1300 calorie diet; 220g protein daily; light snacking on fruits; sugar-free beverages or water only; gym 5x per week plus cardio",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696155Z"
+}

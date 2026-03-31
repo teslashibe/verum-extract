@@ -1,0 +1,74 @@
+{
+  "id": "bceaa641-01b4-405f-9ea2-96fb1d82d77f",
+  "source_id": "1s6w8y3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6w8y3/how_may_of_you_guys_are_testing_and_filtering/",
+  "author_hash": "eb24f7d1bc3b3a381111c0e001ee95d7ab445000a97b33fa688ec02ca5824a50",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T07:16:23-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Klotho",
+      "name_normalized": "klotho",
+      "category": "other",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "frequency": "occasionally",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "frequency": "occasionally",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Positive experience with DSIP",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Nausea at low dose from PT-141",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Sides from CJC/Ipamorelin cycle caused pause in usage",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User does not filter peptides; states lack of filtering due to yolo attitude and minor cost/inconvenience concerns. Uses sources from reputable communities. Skeptical about universal testing necessity.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.645262Z"
+}

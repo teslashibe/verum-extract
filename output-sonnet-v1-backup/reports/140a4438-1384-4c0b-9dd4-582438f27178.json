@@ -1,0 +1,59 @@
+{
+  "id": "140a4438-1384-4c0b-9dd4-582438f27178",
+  "source_id": "1mvnmoz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mvnmoz/what_tirz_done_to_me_in_3_months/",
+  "author_hash": "2b071603cdeadba72a13c7be5b4c66e87654bb447b34955f5cfcd9d3c3e9c703",
+  "confidence_tier": 4,
+  "date_published": "2025-08-20T11:49:44-07:00",
+  "reported_sex": "female",
+  "reported_weight": {
+    "value": 140.4,
+    "unit": "lbs"
+  },
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "once a week",
+      "cycle_length_days": 84,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost approximately 41.6+ lbs over 3 months, going from 182+ lbs to 140.4 lbs",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Slowed digestion making her feel fuller longer, putting her in a more intense caloric deficit; also encouraged better eating habits",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "First two injections at each new dose level made her feel tired",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "nausea",
+      "description": "Felt nauseous if she ate too much the day after injecting at higher doses",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Titration: 2.5mg once weekly for 4 weeks, then 5mg once weekly for 4 weeks, then 7.5mg once weekly. Total cycle approximately 3 months. Currently tapering off: took 7.5mg last week, 5mg current week, to avoid digestive disruption. Previously tried losing weight without tirzepatide without success. Also previously used liraglutide (mentioned in context of a commenter's question, not OP's history).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.274773Z"
+}

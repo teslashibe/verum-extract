@@ -1,0 +1,51 @@
+{
+  "id": "f804dbc3-d87a-45f7-9bf7-d154c6cbc974",
+  "source_id": "1k3n65z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k3n65z/bpc157_side_effects/",
+  "author_hash": "45b2ea7cd22292a1c3c6487b556748175864f94fce9d3da1dad0778026e4024a",
+  "confidence_tier": 4,
+  "date_published": "2025-04-20T07:00:05-07:00",
+  "health_conditions": [
+    "gut issues",
+    "gas",
+    "bloating",
+    "heartburn",
+    "reflux",
+    "anxiety"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 24,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Taking BPC-157 for gas, bloating, heartburn, reflux"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "Numbness, warm tingling in fingers of both hands, mostly left hand; also occurring in left foot to lesser degree; symptoms come in waves and sometimes completely resolve",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "muscle_cramp",
+      "description": "Fingers twitching in both hands but mostly in left hand",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "User has prior history of neurological symptoms in left arm/hand; stopped BPC-157 to assess if symptoms subside; takes magnesium glycinate at night but recently stopped it to determine if it was the culprit; user's theory is possible histamine reaction",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.409454Z"
+}

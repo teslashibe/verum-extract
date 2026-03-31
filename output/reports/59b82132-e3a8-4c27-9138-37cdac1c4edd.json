@@ -1,0 +1,62 @@
+{
+  "id": "59b82132-e3a8-4c27-9138-37cdac1c4edd",
+  "source_id": "1p3ly65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p3ly65/why_the_f_is_everyone_dosing_reta_so_high/",
+  "author_hash": "ef3a41d6f06da14dd4b941f9a6f0720a7d864c754f6b52af60fbfcbf16634e9d",
+  "confidence_tier": 4,
+  "date_published": "2025-11-21T22:10:12-08:00",
+  "training_status": "active resistance training (bulking phase)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Amazing appetite suppression for first couple weeks at 1mg",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "fat_loss",
+      "description": "Achieved significant weight loss, now maintaining with lower dose",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "tolerance",
+      "description": "Gained tolerance to appetite suppression effect requiring escalation",
+      "severity": "moderate",
+      "onset_days": 14,
+      "resolved": false
+    },
+    {
+      "category": "skin_reaction",
+      "description": "Really bad skin sensitivity at 4mg dose",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Stomach issues at 4mg dose",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Titration: 1mg \u003e 2mg (2 months) \u003e 3mg \u003e 4mg. Discontinued for 1 month due to side effects, planning to resume at 1-2mg for appetite control during bulk phase. Weight loss goal already achieved.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.676806Z"
+}

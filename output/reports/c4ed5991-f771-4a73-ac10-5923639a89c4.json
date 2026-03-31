@@ -1,0 +1,30 @@
+{
+  "id": "c4ed5991-f771-4a73-ac10-5923639a89c4",
+  "source_id": "1pc0ras",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pc0ras/reta_and_basketball/",
+  "author_hash": "b8b76dc8451b4c052b1144a3743f8cb13d3195bcbc283ae54c9daeddc0cc4fa2",
+  "confidence_tier": 5,
+  "date_published": "2025-12-01T21:55:24-08:00",
+  "training_status": "athlete (plays sports)",
+  "compounds": [
+    {
+      "name_raw": "GLP-1",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Performance impairment during sports when taking GLP-1",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User mentioned taking GLP-1 (likely referring to GLP-1 agonist such as semaglutide or retatrutide) and reported poor athletic performance.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.392064Z"
+}

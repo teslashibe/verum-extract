@@ -1,0 +1,42 @@
+{
+  "id": "3f60a753-561f-4829-ae56-88821fb43f42",
+  "source_id": "1r02usu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r02usu/my_1_year_3_months_journey_with_reta/",
+  "author_hash": "2ae781bf2bedf4e905f2da651059d852bcdffa5b4725adf8b0a52be621b187bd",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T04:25:46-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 3.33,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Maintained similar appetite suppression when switching from Tirzepatide to Retatrutide at higher doses",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Transitioned from 7.5mg Tirzepatide to Retatrutide, starting at 2mg and currently at 3.33mg. Notes that switching from prior GLP1 allows starting at slightly higher doses.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.678389Z"
+}

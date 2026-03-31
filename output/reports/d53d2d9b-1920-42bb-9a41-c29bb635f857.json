@@ -1,0 +1,94 @@
+{
+  "id": "d53d2d9b-1920-42bb-9a41-c29bb635f857",
+  "source_id": "1j7ypts",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1j7ypts/did_anyone_here_lose_weight_on_a_peptide_that/",
+  "author_hash": "556b14f83df15fd21b59b1490efb649758c5efab0737248539331a98a686f641",
+  "confidence_tier": 4,
+  "date_published": "2025-03-10T06:34:03-07:00",
+  "health_conditions": [
+    "mitochondrial damage",
+    "slow metabolism (0.08 lbs/month baseline)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GLP-1 receptor agonist",
+      "name_normalized": "glp_1_receptor_agonist",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "actual losses on the scale after starting SS-31, improvement from baseline of 0.08 lbs/month",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "mitochondrial damage healing",
+      "severity": "moderate"
+    },
+    {
+      "category": "immune",
+      "description": "improved immune response to virus, avoided pneumonia which previously occurred",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "improved energy levels after initial detox",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "histamine reaction",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "fatigue",
+      "description": "major fatigue at start",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "muscle_cramp",
+      "description": "body aches",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "30-day SS-31 protocol: started at 2.5mg, worked up to 10mg/day. FDA approved form dosed at 40mg/day. Initial detox symptoms resolved. Also used TA-1 to manage histamine reaction. Overlapped with MOTS-c for one week before virus interrupted protocol. Still on one GLP at time of report.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.410773Z"
+}

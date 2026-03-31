@@ -1,0 +1,41 @@
+{
+  "id": "b38ab9af-6608-4c0d-a072-3c09698d216b",
+  "source_id": "1q10fn2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q10fn2/what_happens_if_reta_and_tirz_are_taken_together/",
+  "author_hash": "1e6764e13d12a271ae04964e9649f1e5914b10c1e9b1712dd4bbaefbfe1ab755",
+  "confidence_tier": 4,
+  "date_published": "2026-01-01T01:35:40-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 3.75,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "dose_value": 1.25,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "All three compounds blended together. No additional outcome details provided.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.38839Z"
+}

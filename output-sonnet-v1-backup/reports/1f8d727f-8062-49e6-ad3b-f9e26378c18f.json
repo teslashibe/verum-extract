@@ -1,0 +1,47 @@
+{
+  "id": "1f8d727f-8062-49e6-ad3b-f9e26378c18f",
+  "source_id": "1rrpxwj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rrpxwj/wegovy_reta/",
+  "author_hash": "652d733b178f7cf5fb568ea4b0ca328eddd9471873cfd0a659a8bf7ed9b6c3f7",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T05:52:50-07:00",
+  "health_conditions": [
+    "obesity (over 100 lbs to lose)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "once weekly (Saturdays)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Wegovy",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly (Wednesdays)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Wegovy helps with midweek cravings between Reta doses",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "OP was already taking Reta consistently before insurance approved Wegovy ($100 copay). Doctor is involved in Wegovy prescription. No heart rate issues reported with Reta. Long-term plan given \u003e100 lbs to lose.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109416Z"
+}

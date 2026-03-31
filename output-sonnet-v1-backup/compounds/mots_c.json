@@ -1,0 +1,204 @@
+{
+  "compound_id": "mots_c",
+  "display_name": "MOTS-c",
+  "category": "metabolic",
+  "total_reports": 278,
+  "reports_by_tier": {
+    "3": 5,
+    "4": 138,
+    "5": 135
+  },
+  "top_benefits": [
+    {
+      "category": "energy",
+      "count": 69,
+      "pct": 48.3
+    },
+    {
+      "category": "fat_loss",
+      "count": 34,
+      "pct": 23.8
+    },
+    {
+      "category": "recovery",
+      "count": 27,
+      "pct": 18.9
+    },
+    {
+      "category": "other",
+      "count": 21,
+      "pct": 14.7
+    },
+    {
+      "category": "muscle_gain",
+      "count": 17,
+      "pct": 11.9
+    },
+    {
+      "category": "mood",
+      "count": 13,
+      "pct": 9.1
+    },
+    {
+      "category": "cognitive",
+      "count": 12,
+      "pct": 8.4
+    },
+    {
+      "category": "sleep",
+      "count": 12,
+      "pct": 8.4
+    },
+    {
+      "category": "appetite_suppression",
+      "count": 6,
+      "pct": 4.2
+    },
+    {
+      "category": "skin",
+      "count": 6,
+      "pct": 4.2
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "other",
+      "count": 28,
+      "pct": 19.6,
+      "avg_severity": 2
+    },
+    {
+      "category": "injection_site",
+      "count": 12,
+      "pct": 8.4,
+      "avg_severity": 1.9
+    },
+    {
+      "category": "fatigue",
+      "count": 7,
+      "pct": 4.9,
+      "avg_severity": 2.4
+    },
+    {
+      "category": "sleep_disruption",
+      "count": 6,
+      "pct": 4.2,
+      "avg_severity": 1.6
+    },
+    {
+      "category": "appetite_change",
+      "count": 5,
+      "pct": 3.5,
+      "avg_severity": 2.4
+    },
+    {
+      "category": "nausea",
+      "count": 4,
+      "pct": 2.8,
+      "avg_severity": 2.5
+    },
+    {
+      "category": "flushing",
+      "count": 4,
+      "pct": 2.8,
+      "avg_severity": 1.5
+    },
+    {
+      "category": "mood_change",
+      "count": 3,
+      "pct": 2.1,
+      "avg_severity": 1.3
+    },
+    {
+      "category": "libido_change",
+      "count": 2,
+      "pct": 1.4,
+      "avg_severity": 3
+    },
+    {
+      "category": "water_retention",
+      "count": 1,
+      "pct": 0.7,
+      "avg_severity": 2
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 2,
+      "unit": "mg",
+      "frequency": "3 times a week",
+      "count": 2,
+      "pct": 0.7
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 5,
+      "unit": "mg",
+      "frequency": "2x weekly",
+      "count": 2,
+      "pct": 0.7
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 5,
+      "unit": "mg",
+      "frequency": "",
+      "count": 2,
+      "pct": 0.7
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 10,
+      "unit": "mg",
+      "frequency": "1x weekly",
+      "count": 1,
+      "pct": 0.4
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 10,
+      "unit": "mg",
+      "frequency": "once weekly on mondays",
+      "count": 1,
+      "pct": 0.4
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "ss_31",
+      "display_name": "SS-31",
+      "report_count": 66
+    },
+    {
+      "compound_id": "retatrutide",
+      "display_name": "reta",
+      "report_count": 58
+    },
+    {
+      "compound_id": "nad_plus",
+      "display_name": "nad +",
+      "report_count": 54
+    },
+    {
+      "compound_id": "tb_500",
+      "display_name": "TRT",
+      "report_count": 24
+    },
+    {
+      "compound_id": "tirzepatide",
+      "display_name": "tirzepatide",
+      "report_count": 24
+    }
+  ],
+  "avg_cycle_length_days": 33.3,
+  "avg_sentiment_score": 0.703,
+  "sentiment_breakdown": {
+    "positive": 160,
+    "mixed": 45,
+    "negative": 21,
+    "neutral": 52
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.968807Z"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "5668999c-6e3d-48ed-a179-9033adf0e68b",
+  "source_id": "1qrprge",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qrprge/submitting_my_protocol_for_feedback/",
+  "author_hash": "3ef17895290c565df28c2276544170ac3860615d1fb14f4d7dabd40aaf280ae1",
+  "confidence_tier": 4,
+  "date_published": "2026-01-30T18:20:44-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 183,
+    "unit": "lbs"
+  },
+  "training_status": "Resistance training on Tonal 4x/week ~40 min/session, plus weekly cardio (~450 cal burn). Tracks food with MacroFactor, ~500 cal daily deficit.",
+  "health_conditions": [
+    "tennis elbow",
+    "weight loss plateau"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 18,
+      "dose_unit": "mcg",
+      "frequency": "once weekly",
+      "cycle_length_days": 168,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW blend (10/10/50/10)",
+      "name_normalized": "klow_blend_10105010",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mcg",
+      "frequency": "5x weekly (Monday-Friday)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "once weekly on Mondays",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "3x weekly (Monday, Wednesday, Friday)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 3 lbs over 6 weeks on semaglutide after weight loss had plateaued",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Body fat percentage",
+      "value_after": 19.8,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "OP is new to peptides, seeking community feedback on planned stack. Previously weighed 248 lbs. On Hims/Hers semaglutide prescription for 6 months (6 doses in, currently at 18 units dose). Plans to potentially switch to Retatrutide after exhausting semaglutide supply. Also on TRT. Considering adding Tesamorelin as next step. The KLOW blend ratio referenced as 10/10/50/10.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.122808Z"
+}

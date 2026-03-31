@@ -1,0 +1,52 @@
+{
+  "id": "72915b53-0941-4ab4-bbd7-1681993d1de5",
+  "source_id": "1kkew5z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kkew5z/stacking/",
+  "author_hash": "8b0095fb27cb2b19a930d242394e95746fd7bff3b18acd5f62258786c2835aae",
+  "confidence_tier": 4,
+  "date_published": "2025-05-11T16:54:38-07:00",
+  "training_status": "Working out 3x per week with a personal trainer",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Feels full quicker on Tirz but reports no appetite suppression or reduction of food noise",
+      "severity": "mild"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Gained a little muscle per trainer body scan",
+      "severity": "mild"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Only small fat loss in arms, no fat loss elsewhere",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "OP ordered Sema from Mochi, waited 6 weeks without shipment, switched to Tirz from another company. Sema arrived ~3 months after cancellation. Eating 1200-1300 calories/day per doctor recommendation of 1400 cal/day. Tracking calories with MyFitnessPal. Trainer does body scans every few weeks. No weight loss after ~2 months on Tirz at 5mg/week. Considering stacking Sema to kickstart weight loss.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.284168Z"
+}

@@ -1,0 +1,65 @@
+{
+  "compound_id": "pentosan",
+  "display_name": "Pentosan Polysulfate",
+  "category": "healing_recovery",
+  "total_reports": 10,
+  "reports_by_tier": {
+    "4": 1,
+    "5": 9
+  },
+  "top_benefits": [
+    {
+      "category": "joint_pain",
+      "count": 1,
+      "pct": 100
+    }
+  ],
+  "top_side_effects": null,
+  "common_doses": [
+    {
+      "route": "oral",
+      "dose": 1200,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 10
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "tb_500",
+      "display_name": "TB500",
+      "report_count": 3
+    },
+    {
+      "compound_id": "bpc_157",
+      "display_name": "BPC 157",
+      "report_count": 2
+    },
+    {
+      "compound_id": "acetyl_l_carnitine",
+      "display_name": "Acetyl-L-carnitine",
+      "report_count": 1
+    },
+    {
+      "compound_id": "acetyl",
+      "display_name": "Acetyl",
+      "report_count": 1
+    },
+    {
+      "compound_id": "ghk_cu",
+      "display_name": "GHK-Cu",
+      "report_count": 1
+    }
+  ],
+  "avg_cycle_length_days": 30,
+  "avg_sentiment_score": 0.775,
+  "sentiment_breakdown": {
+    "positive": 6,
+    "mixed": 3,
+    "negative": 0,
+    "neutral": 1
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.969012Z"
+}

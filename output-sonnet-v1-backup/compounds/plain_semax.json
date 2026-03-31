@@ -1,0 +1,41 @@
+{
+  "compound_id": "plain_semax",
+  "display_name": "plain Semax",
+  "category": "other",
+  "total_reports": 1,
+  "reports_by_tier": {
+    "4": 1
+  },
+  "top_benefits": [
+    {
+      "category": "cognitive",
+      "count": 1,
+      "pct": 100
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "headache",
+      "count": 1,
+      "pct": 100,
+      "avg_severity": 1
+    }
+  ],
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "na_semax_amidate",
+      "display_name": "NA Semax Amidate",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 1,
+  "sentiment_breakdown": {
+    "positive": 1,
+    "mixed": 0,
+    "negative": 0,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.968625Z"
+}

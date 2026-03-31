@@ -1,0 +1,52 @@
+{
+  "id": "a4383b40-5096-4100-981a-5a93b54daa76",
+  "source_id": "1rm3f3e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rm3f3e/mots_c_reta/",
+  "author_hash": "2c00c7ee1e5a7949f09a9a106bb323eabe914221d8840b19ee89d788c5ec02fb",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T19:51:02-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "gym a few times per week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "weekly divided into 3 doses",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Massive fat loss whilst slightly increasing muscle mass. Went from c. 15% to 9.7% body fat within 8 weeks",
+      "severity": "significant",
+      "onset_days": 56
+    },
+    {
+      "category": "energy",
+      "description": "Bags of energy on the day of taking and tapered energy levels over next couple days",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "value_before": 15,
+      "value_after": 9.7,
+      "unit": "%",
+      "timeframe_days": 56
+    }
+  ],
+  "protocol_notes": "Age 44. Prior mixed outcomes with peptides. No other changes made during cycle. Particularly effective for over 40s.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.668109Z"
+}

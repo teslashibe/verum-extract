@@ -1,0 +1,48 @@
+{
+  "id": "b8047ce2-ae22-4da4-94f8-9219f3c07e56",
+  "source_id": "1psoe59",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1psoe59/reta_week_3_update/",
+  "author_hash": "c37572815498e31c318549259095e247baacb3b3eac57b985d5679f8328f52e3",
+  "confidence_tier": 4,
+  "date_published": "2025-12-21T18:45:05-08:00",
+  "training_status": "Active lifter doing lifting and cardio with 500 calorie deficit, cutting to 10% body fat",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Food noise is very minimal, snacking not on mind at all; can eat full meals (~2100 cals) but not hungry otherwise",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Body fat coming off easily in conjunction with 500 cal deficit, lifting and cardio",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Week 1-2 at 1mg, week 3 onward at 2mg. Notes 2mg was noticeably different from 1mg. Goal is cutting to 10% BF before bulking.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.259245Z"
+}

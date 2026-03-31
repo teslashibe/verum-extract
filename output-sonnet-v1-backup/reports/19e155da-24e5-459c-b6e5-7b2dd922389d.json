@@ -1,0 +1,45 @@
+{
+  "id": "19e155da-24e5-459c-b6e5-7b2dd922389d",
+  "source_id": "1r1md35",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r1md35/reta_weight_stall_fast/",
+  "author_hash": "1276ce955d3eb2e389dcd24bf073fc00236a06618a0755c641cfaa9941d9b1e4",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T19:28:03-08:00",
+  "reported_weight": {
+    "value": 221.7,
+    "unit": "lbs"
+  },
+  "training_status": "active, maintaining same workout routine",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 7.3 lbs in first week (221.7 to 214.4 lbs), then plateaued at 214.2 lbs by week 2",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Experienced some appetite suppression at 1.5mg, felt it was not AS MUCH as desired, leading to dose increase to 2mg",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Started at 1.5mg week 1, increased to 2mg week 2. Maintaining 500-600 calorie deficit, prioritizing protein intake. Plans to try 2.5mg at end of current vial. Weighs daily in morning, fasted, after bathroom. Current vial is 30mg. Dose escalation plan: stay at 2mg, then 2.5mg to assess tolerance before deciding on long-term dose.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.119242Z"
+}

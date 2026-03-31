@@ -1,0 +1,36 @@
+{
+  "id": "8087ee70-09d8-4cf8-9d8e-1a5b99ea6bf9",
+  "source_id": "1rmyf77",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmyf77/reta_tingle/",
+  "author_hash": "b78002fef919e0462d8c374bd8849d74debfe0b064bb812754a379e369a491b2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-06T18:55:53-08:00",
+  "training_status": "training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "cycle_length_days": 63,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "Skin tingles/paresthesia",
+      "severity": "moderate",
+      "onset_days": 6
+    }
+  ],
+  "protocol_notes": "Titrated from 0.5mg to 1mg to 1.5mg over 9 weeks. Side effect resolved during workout/activity.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.667699Z"
+}

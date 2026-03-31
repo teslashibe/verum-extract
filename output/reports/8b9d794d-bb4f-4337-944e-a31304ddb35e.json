@@ -1,0 +1,38 @@
+{
+  "id": "8b9d794d-bb4f-4337-944e-a31304ddb35e",
+  "source_id": "1rc5k2l",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rc5k2l/5mg_of_zyrtec_daily_with_cjcipa/",
+  "author_hash": "b02c3f4c18a146bca451820d22a41d2c25567707d7a832a46283a1eeaab788f3",
+  "confidence_tier": 5,
+  "date_published": "2026-02-22T18:41:25-08:00",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Reactions lasting a few minutes that improved over time; resolved when switching from 6mm to 8mm needle",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Reported reactions improved with needle gauge change from 6mm to 8mm",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661094Z"
+}

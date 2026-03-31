@@ -1,0 +1,41 @@
+{
+  "id": "89b7d4f2-f8a2-4286-9645-56fbfb7bd255",
+  "source_id": "1riovis",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1riovis/motsc/",
+  "author_hash": "bfcb537432263dad5db41db5061e063e91908d548b63d664cd5b09953747938a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T02:01:45-08:00",
+  "reported_age_range": "30-39",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Mots-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "ss31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "spiciness and redness",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Used Mots-c at 5mg 3x weekly with no noticeable benefits. Switched to SS-31 for 8 weeks, then returned to Mots-c again with still no benefits. Age 36.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.113143Z"
+}

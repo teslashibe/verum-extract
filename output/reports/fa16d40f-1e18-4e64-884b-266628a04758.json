@@ -1,0 +1,41 @@
+{
+  "id": "fa16d40f-1e18-4e64-884b-266628a04758",
+  "source_id": "1qc12en",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qc12en/just_want_to_share_my_experience_peptide/",
+  "author_hash": "4ba91849a1afa31e1c3b6b011a4d45b146be07a9611d2ee2d551ee1aaae7cd4c",
+  "confidence_tier": 4,
+  "date_published": "2026-01-13T11:40:50-08:00",
+  "training_status": "minimally active (plays tennis 1-2x per week, no structured workouts)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 15-16 lbs on Tirzepatide in 2 months; additional 5 lbs from Tesamorelin over past 3 weeks with noticeable reduction in abdominal and love handle fat",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "On Tirzepatide for 3 months total, peptides (Tesamorelin) for almost 1 month. Maintaining caloric deficit under 1000 calories per day for most of 3 months. Height 5'11\". Has not worked out structurally but plays tennis casually 1-2x weekly. Reports fat loss concentrated in abdominal region and love handles.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.684497Z"
+}

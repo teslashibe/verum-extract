@@ -1,0 +1,42 @@
+{
+  "id": "ffec5490-0f64-44b8-8069-fe9ed9c1f705",
+  "source_id": "1rul4o2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rul4o2/peptide_for_stubburn_fat/",
+  "author_hash": "27de021df3dc5f80d5a34cc0c7b85f0fef0a0ad76499d906cf1e3865f5d6c6db",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T11:08:58-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 7 inches off waist; Tesamorelin helps with which fat is lost (visceral targeting)",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "waist circumference",
+      "unit": "inches"
+    }
+  ],
+  "protocol_notes": "User stacked Tirzepatide and Tesamorelin; confirmed by doctor; notes that Tesamorelin does not help with weight loss directly but helps determine which fat deposits are lost",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.73,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.651653Z"
+}

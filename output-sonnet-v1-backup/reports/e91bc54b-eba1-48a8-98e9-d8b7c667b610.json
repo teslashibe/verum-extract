@@ -1,0 +1,48 @@
+{
+  "id": "e91bc54b-eba1-48a8-98e9-d8b7c667b610",
+  "source_id": "1ikftl8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ikftl8/thank_god_for_whoever_invented_tb500_and_bpc157/",
+  "author_hash": "8107bf829da617f3ed63440e0348b5c25a016f26b9084166aa868f2ca5117be9",
+  "confidence_tier": 4,
+  "date_published": "2025-02-07T21:16:07-08:00",
+  "training_status": "gym-goer",
+  "health_conditions": [
+    "lower back pain from gym injury",
+    "sciatica"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ARA",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Noticeable improvement in lower back pain and sciatica within 2 weeks without changing other routine variables; not completely resolved",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "Planning to add ARA to stack for nerve pain. Currently using BPC157 and TB500 together.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.288081Z"
+}

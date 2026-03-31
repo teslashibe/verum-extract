@@ -1,0 +1,46 @@
+{
+  "id": "18b71e37-ecec-4365-93d7-9e756d2c5208",
+  "source_id": "1lysf1p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lysf1p/mild_cjcipa_allergy_turned_into_anaphylactic/",
+  "author_hash": "82577acd9928d5163e193434495b316c8b09b55b992d642c6122ab0cd1048d3c",
+  "confidence_tier": 5,
+  "date_published": "2025-07-13T06:08:35-07:00",
+  "health_conditions": [
+    "CJC/IPA site reactions",
+    "Tesamorelin reactions"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Welts at injection site with CJC/IPA",
+      "severity": "mild",
+      "resolved": false
+    },
+    {
+      "category": "other",
+      "description": "Reactions with Tesamorelin",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Has EpiPen on hand but concerned about accessibility. Wondering if continuing with Ipamorelin alone.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.404355Z"
+}

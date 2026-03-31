@@ -1,0 +1,44 @@
+{
+  "id": "3beffe52-39fb-4820-a04a-c9243b91194c",
+  "source_id": "1najnq4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1najnq4/accidentally_went_beast_mode/",
+  "author_hash": "15ae31ad9c42b2b305c1581ce93403cb484b5681b3e5a0db1e87151cb3b3b6c6",
+  "confidence_tier": 4,
+  "date_published": "2025-09-06T21:11:40-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "4x per week (split dosing)",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Feel great with no symptoms",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started at 1mg split 4 times per week. Titrated quickly, reaching 6mg total weekly (1.5mg every other day) by week 6. Attributes lack of symptoms to split dosing strategy.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.398957Z"
+}

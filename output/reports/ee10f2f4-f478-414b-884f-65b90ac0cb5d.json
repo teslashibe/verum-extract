@@ -1,0 +1,51 @@
+{
+  "id": "ee10f2f4-f478-414b-884f-65b90ac0cb5d",
+  "source_id": "1q0uqoo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q0uqoo/ghk_cu_im_molting/",
+  "author_hash": "6f74843fa8c95f20b29e8ed710dd89032c6618f8bc13eafbc032fb16dd635bd4",
+  "confidence_tier": 4,
+  "date_published": "2025-12-31T19:34:58-08:00",
+  "reported_sex": "male",
+  "training_status": "fireman",
+  "health_conditions": [
+    "fungal infection"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Fungal infection on legs from bunker pants cleared after skin shedding event",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "skin",
+      "description": "Legs from knees down shed and skin improved",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Legs from knees down shed/molted",
+      "severity": "moderate",
+      "onset_days": 14,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Using GLOW product (appears to be a multi-peptide blend containing GHK-Cu). Condition was constant fungal infection from work environment (damp bunker pants in summer).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.672179Z"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "f6c200e7-c225-467d-8864-073eaff3cd15",
+  "source_id": "1dumfhe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1dumfhe/200lbs_lost_so_far/",
+  "author_hash": "985640dfd1fa8a6b2177427ec0b07e4468033f9c4955efc05f32e5b2b3609d09",
+  "confidence_tier": 4,
+  "date_published": "2024-07-03T12:06:14-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "lymphedema",
+    "overweight/obesity"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 12,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "200 lbs lost over couple of years with semaglutide and tirzepatide; retatrutide restarted weight loss after it got sluggish",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Never hungry with the medications",
+      "severity": "significant"
+    },
+    {
+      "category": "inflammation",
+      "description": "Removes inflammation from body; prevents lymphedema flares as long as shots are not missed",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Constipation",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Used brand Ozempic and Mounjaro but mainly semaglutide and tirzepatide for couple of years. Not all compounds taken at once. Recently started retatrutide at max dose 12mg. No difference noticed between brand vs generic versions. AOD-9604 attempted as metabolism kickstarter but user lacked discipline for required fasting protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.69713Z"
+}

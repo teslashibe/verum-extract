@@ -1,0 +1,32 @@
+{
+  "id": "1832a24c-34c6-4e53-8c27-b21afd0d99c2",
+  "source_id": "1r2wwvr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2wwvr/motscghkcu_sting_relief/",
+  "author_hash": "8e7d6c93c1b1ac9fe4f2de2dc81f4f74eb4eb127bfb6f5b58b0ae607c76b7b65",
+  "confidence_tier": 4,
+  "date_published": "2026-02-12T07:48:00-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "constant burning sensation from GHK-Cu, dose dependent, longest duration 24 hours",
+      "severity": "moderate",
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "User reports burning sensation is annoying but not painful.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677027Z"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "d04f9d5e-2db1-450e-82b3-c4252ae1f473",
+  "source_id": "1pqmpiz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pqmpiz/what_peptides_should_i_take_a_long_with_tirz_or/",
+  "author_hash": "4ae88610dadde9ced82a2fa1e1197668c9e830e9cd51da52ee59368f75768653",
+  "confidence_tier": 4,
+  "date_published": "2025-12-19T06:39:01-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 180,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Nandrolone Phenylpropionate",
+      "name_normalized": "nandrolone_phenylpropionate",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Tirz works well for fat loss while maintaining appetite for eating plan. Down to 11% body fat at 180 lbs.",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Achieved 11% body fat at 180 lbs, working toward 190 lbs at 10%",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Reta gives fatigue to the point of not wanting to workout",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Age 55. Uses Tesamorelin (2mg daily split: 1mg AM, 1mg before bed) when body fat drops below 15%. Finds Tirzepatide 2.5mg at sweet spot for appetite control and fat loss. Uses Tesamorelin 1mg before bed periodically for additional support. Does Retatrutide cut during specific phases but finds fatigue limiting. Current stack: Test C, GH, NPP with periodic Tesa.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.673875Z"
+}

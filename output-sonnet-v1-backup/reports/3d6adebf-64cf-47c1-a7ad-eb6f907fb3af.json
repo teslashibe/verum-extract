@@ -1,0 +1,39 @@
+{
+  "id": "3d6adebf-64cf-47c1-a7ad-eb6f907fb3af",
+  "source_id": "1rdne4f",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdne4f/melanotan_ii_research/",
+  "author_hash": "085f702bab0707a9a76a4116a96d9aa4590c4661aa7be224d60e97950bb3c29e",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T09:56:48-08:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "dose_value": 800,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Was sick as fuck at 800mcg",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Random, almost painful erections for a few days",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Warns strongly against dosing close to 2mg. Advises low dosing.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.115323Z"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "51cdb103-9941-4cc8-85af-53d131f9b09e",
+  "source_id": "1s029qy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s029qy/my_dad_has_3cm_tears_in_his_rotary_cuff_will/",
+  "author_hash": "0ac5a9f2417d033c3d3de5221572176e71245130ee7b6a5ac9ba89821e9199f2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T13:45:17-07:00",
+  "health_conditions": [
+    "rotator cuff surgery"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 3.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily (site inject)",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "Monday, Wednesday, Friday",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Post-surgical recovery from rotator cuff surgery. Doctor removed from sling at 10-day post-op and asked for peptide protocol."
+    }
+  ],
+  "protocol_notes": "GLOW 3.5mg daily in stomach. BPC-157 1mg daily site inject. TB-500 1-2mg Monday/Wednesday/Friday. Protocol run for 6-8 weeks post rotator cuff surgery. Doctor removed sling at 10-day post-op and requested peptide protocol details. Notes that this 'heals the tear' but does not 'fix the cuff' — distinguishes healing from full structural repair.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105884Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ec36e7dc-3509-4dc9-960f-ce1da9c65962",
+  "source_id": "1mlvazy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mlvazy/melanotan_2_cialis_knife_sharpener/",
+  "author_hash": "68cd97ac834d1a6ba36632a8b11cec47cd611db1f70ce03d75998d0e7e4b7ff8",
+  "confidence_tier": 4,
+  "date_published": "2025-08-09T10:37:41-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cialis",
+      "name_normalized": "cialis",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "Nearly experienced priapism from combination of Melanotan II and Cialis",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User advises against combining both compounds at same time due to risk of priapism, especially for those with limited ED medication experience. Notes both work fine alone and that lower doses of Cialis (5mg) are generally sufficient",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.4018Z"
+}

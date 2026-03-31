@@ -1,0 +1,41 @@
+{
+  "id": "e215afc2-0076-4066-ac37-4d785f123e47",
+  "source_id": "1kw83hc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kw83hc/pt141/",
+  "author_hash": "88af6fa41fcc4b366eaf4f3f0396083f047e89bb9b55febe9cae11445d40f54b",
+  "confidence_tier": 4,
+  "date_published": "2025-05-26T15:57:14-07:00",
+  "reported_sex": "male",
+  "compounds": [
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "route": "subcutaneous",
+      "dose_value": 0.2,
+      "dose_unit": "ml",
+      "frequency": "single dose",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "libido",
+      "description": "Aroused while fishing, effects lasted 2 days",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Red cheeks",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Injected subcutaneously into stomach fat. Dose given in volume (0.2ml) rather than weight; actual mg dose cannot be determined without concentration information.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.407523Z"
+}

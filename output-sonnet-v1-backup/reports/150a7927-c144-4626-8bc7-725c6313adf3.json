@@ -1,0 +1,44 @@
+{
+  "id": "150a7927-c144-4626-8bc7-725c6313adf3",
+  "source_id": "1c37s5x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1c37s5x/considering_tesamorelin_ipamorelin_cjc_1295_stack/",
+  "author_hash": "25bb5309508be7524de2237ea036974c225fd21ac07b901d4467f623a522246c",
+  "confidence_tier": 4,
+  "date_published": "2024-04-13T10:54:16-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "nightly (currently), transitioning to morning",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Hard to get sleep on the blend of Tesa and Ipa taken at night",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "5 weeks on Tesa with Ipa at night at 1mg Tesa and 100mcg Ipa. Planning to switch to Tesa only at night and IPA in the morning (with or without Tesa) due to sleep disruption from the blend.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.293692Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "e501405b-4134-40a9-a8df-e61350682c38",
+  "source_id": "139kz5e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/139kz5e/best_sleep_in_30_years/",
+  "author_hash": "dcd3d9fb2b7d6dd1eb2261e8da458688cef8314440b65f8d09fc4a1274875989",
+  "confidence_tier": 5,
+  "date_published": "2023-05-06T05:01:29-07:00",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep still terrible after two weeks; requires melatonin timing to sleep",
+      "severity": "significant",
+      "onset_days": 14,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Week two of use; experiencing opposite effect to OP with continued poor sleep quality",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.420949Z"
+}

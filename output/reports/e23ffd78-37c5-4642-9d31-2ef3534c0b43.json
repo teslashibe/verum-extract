@@ -1,0 +1,41 @@
+{
+  "id": "e23ffd78-37c5-4642-9d31-2ef3534c0b43",
+  "source_id": "1qek46x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qek46x/why_the_microstack_beats_the_megadose/",
+  "author_hash": "7ff8968fd1c39a4dee75bcca915073745d018671074e2749dc3b36aceab2449b",
+  "confidence_tier": 5,
+  "date_published": "2026-01-16T08:10:08-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Initial strong response to Retatrutide in Nov/Dec 2025",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "tolerance",
+      "description": "Loss of effectiveness after 20-day break and restart; bumped to 5mg with minimal effect",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Initial dosing: 2.5-3 mg. Took 20-day break in late Dec 2025/early Jan 2026. Restarted at 3mg (felt nothing), increased to 5mg (still minimal effect). Experiencing rapid tachyphylaxis.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.670873Z"
+}

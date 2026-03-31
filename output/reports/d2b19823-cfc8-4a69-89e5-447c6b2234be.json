@@ -1,0 +1,72 @@
+{
+  "id": "d2b19823-cfc8-4a69-89e5-447c6b2234be",
+  "source_id": "1prvcnf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1prvcnf/20m_242lbs1946lbs/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2025-12-20T18:26:11-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "reported_weight": {
+    "value": 194.6,
+    "unit": "lbs"
+  },
+  "training_status": "gym training ongoing since 08/20/25",
+  "health_conditions": [
+    "5+ year long tendon and ligament tear in ankle (healed)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 73,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 47.4 lbs over 122 days from start of gym training (20 lbs lost before Retatrutide, 27.4 lbs after)",
+      "severity": "significant",
+      "onset_days": 49
+    },
+    {
+      "category": "injury_healing",
+      "description": "5+ year long tendon and ligament tear in ankle healed",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Gyno noted by commenter as bad but fixable",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Retatrutide started 10/08/25 after already losing 20 lbs from diet and exercise. BPC-157 used for ankle injury healing. Stack included Tesamorelin and GHK-Cu. Routes and doses not specified.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.67373Z"
+}

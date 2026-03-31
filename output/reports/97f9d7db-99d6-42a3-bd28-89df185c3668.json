@@ -1,0 +1,49 @@
+{
+  "id": "97f9d7db-99d6-42a3-bd28-89df185c3668",
+  "source_id": "1r0oxac",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r0oxac/best_peptide_for_depressive_episodes/",
+  "author_hash": "b34c0ea52b5c244446e54fbb850325448ceb64d53a77189952a56f771af534e9",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T18:47:45-08:00",
+  "health_conditions": [
+    "depression",
+    "anxiety"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "nasal",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "depression",
+      "description": "Semax good for depression, boosts BDNF",
+      "severity": "moderate"
+    },
+    {
+      "category": "cognitive",
+      "description": "Both peptides boost BDNF which is how ketamine helps depression and anxiety",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Recommended running cycles with breaks in between. Mechanism of action described as BDNF elevation. Also mentioned Selank for anxiety.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665559Z"
+}

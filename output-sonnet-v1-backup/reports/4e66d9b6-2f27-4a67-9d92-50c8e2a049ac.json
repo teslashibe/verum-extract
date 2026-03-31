@@ -1,0 +1,42 @@
+{
+  "id": "4e66d9b6-2f27-4a67-9d92-50c8e2a049ac",
+  "source_id": "1r9jkny",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9jkny/tesamorelin_initial_results_after_6_weeks/",
+  "author_hash": "4aecbcff0e40f02f95b350c839d5afbbd98dca6ed5f5d88b1c3a174a0ee212aa",
+  "confidence_tier": 5,
+  "date_published": "2026-02-19T18:46:38-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ozempic",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Retatrutide worked wonders after Ozempic and Tirzepatide did not work",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Ozempic and Tirzepatide were ineffective; Retatrutide worked.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.11636Z"
+}

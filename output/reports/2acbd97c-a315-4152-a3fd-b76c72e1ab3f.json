@@ -1,0 +1,43 @@
+{
+  "id": "2acbd97c-a315-4152-a3fd-b76c72e1ab3f",
+  "source_id": "1gptorb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1gptorb/need_combination_advise_i_am_kidney_disease/",
+  "author_hash": "bd8e46019468e1961c08a4a31ba58780e55c4b76f7d0bedf986785046d21e7bd",
+  "confidence_tier": 5,
+  "date_published": "2024-11-12T11:51:44-08:00",
+  "health_conditions": [
+    "chronic kidney disease stage 4"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "OP seeking frequency and dosage advice for three-compound stack. OP states physician approval for use and claims reno-protective benefits from recent FLOW trial data on GLP-class drugs for non-diabetic kidney disease. Planning to source via peptide supplier due to insurance/regulatory coverage gaps.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.695544Z"
+}

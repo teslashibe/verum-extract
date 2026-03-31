@@ -1,0 +1,45 @@
+{
+  "id": "bf645300-cb9c-44c5-9e12-f1fe4318774a",
+  "source_id": "1ls7k5c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ls7k5c/bpc157_tb500/",
+  "author_hash": "b76442536fd5dcd63cc43eec61b61edd0973fcd19bde32c5b7a05573225577a7",
+  "confidence_tier": 4,
+  "date_published": "2025-07-05T04:18:16-07:00",
+  "training_status": "active: lifting (kettlebell), Muay Thai (2-5x/week), running",
+  "health_conditions": [
+    "broken toe (healed, residual pain)",
+    "partial Achilles tear",
+    "pulled calf",
+    "hamstring injury",
+    "hip flexor injury"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Planning to start. Purchased enough for 2 weeks initially, intending 6-week cycle. 500mcg of each per day. Multiple concurrent injuries. Has reduced training volume. Asks about storage of reconstituted peptides.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.280045Z"
+}

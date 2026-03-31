@@ -1,0 +1,86 @@
+{
+  "id": "0a70c473-4101-4120-9bc4-dc0c3f896d94",
+  "source_id": "1k6h11a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k6h11a/ok_i_was_a_doubter_week_6_just_started_and_holy/",
+  "author_hash": "e549296478f3f681e463363fad9f2255d77d3b10d0e769f1d391c729e3459df7",
+  "confidence_tier": 4,
+  "date_published": "2025-04-23T19:14:32-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 175,
+    "unit": "lbs"
+  },
+  "training_status": "3-4 times per week 1.5hrs, daily 15k steps",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "boosted energy",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "faster recovery times",
+      "severity": "moderate"
+    },
+    {
+      "category": "inflammation",
+      "description": "less inflammation",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "body fat started falling off, went from 190 to 175 lbs in 6 weeks while in calorie deficit",
+      "severity": "significant",
+      "onset_days": 35
+    },
+    {
+      "category": "muscle_gain",
+      "description": "muscles more defined, bodyweight exercises (pushups, pull ups, dips, sit ups) all increasing weekly while in calorie deficit",
+      "severity": "significant",
+      "onset_days": 35
+    },
+    {
+      "category": "cognitive",
+      "description": "focus from ipa is pretty great",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Modest calorie deficit maintained throughout. Started at 190 lbs, 5'10\". Week 5-6 is when major changes became noticeable. User notes these are results with peptides, creatine, and diet/training - no other compounds mentioned.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.409258Z"
+}

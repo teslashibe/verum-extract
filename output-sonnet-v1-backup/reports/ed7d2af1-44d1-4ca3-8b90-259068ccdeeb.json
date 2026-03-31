@@ -1,0 +1,48 @@
+{
+  "id": "ed7d2af1-44d1-4ca3-8b90-259068ccdeeb",
+  "source_id": "1rr6b3f",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr6b3f/dsip_for_insomnia/",
+  "author_hash": "6ce18c96860c317342c8c55ab3d1916164b6a215778a644d5310d6cd3b02408d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-11T14:01:42-07:00",
+  "health_conditions": [
+    "insomnia"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "No noticeable effect from DSIP (500-600mcg), semax, or selank when taken together in the evening. Plans to retry with semax and selank taken in the morning instead."
+    }
+  ],
+  "protocol_notes": "Took 500-600mcg DSIP ~15 minutes before attempting sleep; took semax and selank subq ~2 hours prior (same evening session). No effect observed. Advised by pazman2000 that stimulating peptides at night would cancel out DSIP.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109639Z"
+}

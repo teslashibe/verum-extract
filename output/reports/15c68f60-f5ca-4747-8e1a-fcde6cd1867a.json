@@ -1,0 +1,65 @@
+{
+  "id": "15c68f60-f5ca-4747-8e1a-fcde6cd1867a",
+  "source_id": "1s3rgvg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3rgvg/passed_out_during_injection/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T16:45:08-07:00",
+  "health_conditions": [
+    "vasovagal syncope"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "units",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 30,
+      "dose_unit": "units",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 30,
+      "dose_unit": "units",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "Passed out during injection, heart rate dropped to 56 BPM",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "heart_rate",
+      "value_after": 56,
+      "unit": "BPM",
+      "timeframe_days": 0
+    }
+  ],
+  "protocol_notes": "First injection ever. All three compounds injected together over 2+ minutes for 20 units, then pushed more consistently. History of vasovagal syncope.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.646765Z"
+}

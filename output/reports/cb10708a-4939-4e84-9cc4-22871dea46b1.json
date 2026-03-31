@@ -1,0 +1,41 @@
+{
+  "id": "cb10708a-4939-4e84-9cc4-22871dea46b1",
+  "source_id": "1s411r1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s411r1/ipamorelin_messing_up_my_sleep/",
+  "author_hash": "b0df32c81e3e2400843575c97c44b8b3f09f1391051f4f74f1c27ac43af45059",
+  "confidence_tier": 4,
+  "date_published": "2026-03-26T00:43:37-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "once daily before bed",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Reduced deep sleep (10 min first night, 5 min second night); REM sleep and total sleep duration normal (7-9h)",
+      "severity": "moderate",
+      "onset_days": 1
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Feeling cold when sleeping; restlessness; waking up tired",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "100 mcg injected approximately 10 minutes before bed; fasting 2-3 hours before injection; only 2 days of use at time of posting",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.657703Z"
+}

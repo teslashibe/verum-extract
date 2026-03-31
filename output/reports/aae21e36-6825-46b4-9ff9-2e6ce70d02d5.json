@@ -1,0 +1,70 @@
+{
+  "id": "aae21e36-6825-46b4-9ff9-2e6ce70d02d5",
+  "source_id": "1lnjbru",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lnjbru/epitalon_klow_overdoing_it/",
+  "author_hash": "6fc3ff403a846d0c6dbcde243e5324f76ce87cd0fd16392cf29ba0a5e1d9eec7",
+  "confidence_tier": 4,
+  "date_published": "2025-06-29T09:47:37-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "perimenopausal",
+    "sleep_disruption"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 10,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Falls asleep quickly, consistent vivid dreams, improved sleep quality",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Skin benefits reported",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Tesamorelin raised heart rate and prevented sleep or caused poorer sleep and extra tiredness on waking",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Age 49. Followed original Epithalon protocol at 10mg daily for 10 days. Also cycles on KLOW and DSIP but cycles off periodically. Tesamorelin discontinued due to negative sleep effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.688265Z"
+}

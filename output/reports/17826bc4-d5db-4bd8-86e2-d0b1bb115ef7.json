@@ -1,0 +1,41 @@
+{
+  "id": "17826bc4-d5db-4bd8-86e2-d0b1bb115ef7",
+  "source_id": "1rkpdc9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rkpdc9/how_to_know_how_much_retacagrilintide_blend_to/",
+  "author_hash": "d9fcb56591dfacd36aa4a2d9eaaa578b6ce8733fd545433491e757ec675af149",
+  "confidence_tier": 4,
+  "date_published": "2026-03-04T08:05:06-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss program initiated in December"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep time drastically reduced to 4-5 hours",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "User reduced dose from 5mg/week to 3mg/week due to sleep disruption. Ongoing since December. Notes that sleep reduction is not uncommon with retatrutide. Advises starting with low dose and finding individual optimal dosing rather than rushing.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.668883Z"
+}

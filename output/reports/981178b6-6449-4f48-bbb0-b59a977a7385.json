@@ -1,0 +1,61 @@
+{
+  "id": "981178b6-6449-4f48-bbb0-b59a977a7385",
+  "source_id": "1qzw2n9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qzw2n9/motsc_day_1_anecdotal_experience/",
+  "author_hash": "1de4c4e285b100fcf8011af4282b4aea2510e2f95a9b30aa6ccc4b93d76c8757",
+  "confidence_tier": 4,
+  "date_published": "2026-02-08T21:44:55-08:00",
+  "training_status": "active (gym)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "Day 1 (single injection)",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "week 4 (titrating from 1mg for 3 weeks)",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Felt energized and slightly euphoric within 20-30 minutes of injection; overcame hangover; gym session went well despite initial concern",
+      "severity": "significant",
+      "onset_days": 0
+    },
+    {
+      "category": "mood",
+      "description": "Mood elevation reported",
+      "severity": "moderate",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "Currently on TRT 200mg/week (started at 100mg in October 2024, increased to 200mg after 5 months). Retatrutide titration: 1mg for 3 weeks, then 2mg week 4. Low caffeine user (\u003c75mg, not used on this day). No pre-workout used. Acknowledged potential honeymoon phase or placebo effect.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665975Z"
+}

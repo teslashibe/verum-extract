@@ -1,0 +1,58 @@
+{
+  "id": "92de9749-992a-4996-bd7f-4e8b510729ad",
+  "source_id": "10umccs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/10umccs/bpc157_and_tb500_cured_my_chronic_pain_success/",
+  "author_hash": "58e2132ba4dbf199701fb57483cd23c2fbe09a6cf4f249c6f39cfed68095d93c",
+  "confidence_tier": 4,
+  "date_published": "2023-02-05T12:20:10-08:00",
+  "training_status": "dirty bulk, glute training",
+  "health_conditions": [
+    "widespread tendinitis",
+    "pelvic dysfunction with nerve entrapment",
+    "rectal/groin pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Very subtle effects noticed on widespread tendinitis",
+      "severity": "mild"
+    },
+    {
+      "category": "inflammation",
+      "description": "Inflammation tends to be lower with intermittent fasting",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Increased appetite, gained 18lbs during 3 month period",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Went through approximately 10 vials of each compound in 3 month period. Allowing dirty bulk while treating pelvic dysfunction. Unable to sit for more than 8 months prior to peptides, now can handle 20-30 minutes of driving.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.701777Z"
+}

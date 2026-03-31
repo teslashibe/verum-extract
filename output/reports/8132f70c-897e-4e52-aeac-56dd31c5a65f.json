@@ -1,0 +1,61 @@
+{
+  "id": "8132f70c-897e-4e52-aeac-56dd31c5a65f",
+  "source_id": "1r2txhz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2txhz/wolverine_stack_with_trt_and_tesamorelin/",
+  "author_hash": "a48fa64c6a6f9361beaccf67b37e29c37deef528b7252d62bdeb334f10742e97",
+  "confidence_tier": 4,
+  "date_published": "2026-02-12T05:50:18-08:00",
+  "training_status": "active_gym",
+  "health_conditions": [
+    "elbow injury"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Amazing results for elbow injury healing",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "fat_loss",
+      "description": "Surprisingly seeing decreased body fat",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "nausea",
+      "description": "Less nausea reported",
+      "severity": "mild",
+      "onset_days": 14
+    },
+    {
+      "category": "endurance",
+      "description": "Can take corners and turns in car at higher speeds without feeling g-forces",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "Week 2 of Wolverine stack. Emphasizes importance of stopping all activity that causes elbow pain and limiting gym activity - noted pain reduction without rest leads to re-injury cycle. Using rehab stretches and reverse wrist curls with 5lbs weight.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677084Z"
+}

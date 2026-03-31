@@ -1,0 +1,36 @@
+{
+  "id": "bd4b187f-f962-4869-ac49-6fc584a5f711",
+  "source_id": "1r3p7gg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r3p7gg/major_flushing_with_bpc/",
+  "author_hash": "03542458fb3d2e6daf2dbc718cedc1595631690215d0e2b100b541ef69bd889b",
+  "confidence_tier": 5,
+  "date_published": "2026-02-13T05:30:44-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Experiencing flushing with BPC-157/TB-500 blend. Flushing occurred on last two occasions but was fine on previous round. Ruled out all other peptides.",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Using reconstituted blend (BPC-157/TB-500) with Hospira bacteriostatic water. Flushing began after previously tolerating the same blend.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.676574Z"
+}

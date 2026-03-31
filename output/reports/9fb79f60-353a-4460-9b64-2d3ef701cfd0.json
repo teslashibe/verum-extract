@@ -1,0 +1,74 @@
+{
+  "id": "9fb79f60-353a-4460-9b64-2d3ef701cfd0",
+  "source_id": "nqmjar",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/nqmjar/my_humble_success_story_peptides_for_stomach_pain/",
+  "author_hash": "161577c802c3c2062c1570e251e5d21f947f83ed5db7208d81e83a73638feb6c",
+  "confidence_tier": 4,
+  "date_published": "2021-06-02T07:03:54-07:00",
+  "training_status": "exercises daily",
+  "health_conditions": [
+    "gastritis",
+    "severe GI issues",
+    "stomach ulcers",
+    "ADHD",
+    "vasoconstriction",
+    "chilblains",
+    "daily migraines"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHRP-6",
+      "name_normalized": "ghrp_6",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "once daily, evening before dinner",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "BPC-157 temporarily resolved stomach pain and GI issues from prolonged ADHD medication use, stress, and NSAIDs",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "BPC-157 induced extreme hunger during first vial, allowing consistent nutritious meals",
+      "severity": "significant"
+    },
+    {
+      "category": "gut_health",
+      "description": "GHRP-6 induced intense hunger leading to consistent meal consumption, which sustained GI healing beyond BPC-157 effects",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "GHRP-6 caused intense hunger lasting throughout day after initial evening dose",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Extreme hunger with BPC-157 first vial only; appetite disappeared when stomach pain returned",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "First BPC-157 vial resulted in temporary relief; second vial was ineffective. Theorized that hunger induction was the key mechanism of healing. GHRP-6 reconstituted with 2ml bacteriostatic water, dosed at 4-6 units (100-150mcg) on insulin syringe sublingual. Fasted 2-3 hours before dosing, waited 30-50 minutes before eating. No noticeable body fat gain despite increased eating over 4 weeks. BPC-157 also blunted stimulant effects. Notes that root cause was vascular insufficiency from chronic Vyvanse use, stress, poor diet, and NSAIDs creating vasoconstrictive state preventing healing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.702967Z"
+}

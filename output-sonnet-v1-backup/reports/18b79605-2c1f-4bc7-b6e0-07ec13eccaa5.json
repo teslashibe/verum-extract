@@ -1,0 +1,61 @@
+{
+  "id": "18b79605-2c1f-4bc7-b6e0-07ec13eccaa5",
+  "source_id": "1qqyfm0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqyfm0/anyone_else_not_feeling_the_effects_of_retatrutide/",
+  "author_hash": "99a1cfe61a898dc3cae17616b9506505bc816a6ec620b33f54e42388b24e62e6",
+  "confidence_tier": 4,
+  "date_published": "2026-01-29T23:01:56-08:00",
+  "training_status": "strength training",
+  "health_conditions": [
+    "Achilles Tendonitis"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 64 pounds in 2024 with fasting, low cal/low carb, high protein diet and strength training prior to GLP use. Now stacking Tirz and Reta targeting a drop from current body fat to 15%.",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Tirz provides strong appetite suppression; at 7.5mg and above gives tight appetite suppression, at 15mg causes forgetting about eating entirely",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Had some reaction to Sema, switched to Tirz",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Lost 64 lbs in 2024 without GLP medications. Suffered Achilles Tendonitis in 2025 which stalled progress. Started Sema but had a reaction, switched to Tirz. Currently stacking Tirz and Reta. Plans to discontinue Tirz by late March 2025 and escalate Reta to 8-10mg. Goal is to drop 26% body fat down to 15%, then return to Tirz for appetite suppression maintenance.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123077Z"
+}

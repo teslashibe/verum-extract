@@ -1,0 +1,34 @@
+{
+  "id": "a5060fa6-e01b-4cc5-84e9-a9622817a3ed",
+  "source_id": "1pcdlz2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pcdlz2/peptide_with_low_weekly_injections/",
+  "author_hash": "619704059f73ccdfab34df9a70ef6565e096da13aa2cfe85de77274bfdf19364",
+  "confidence_tier": 4,
+  "date_published": "2025-12-02T08:53:04-08:00",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Thymasin alpha 1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "dose_value": 1.6,
+      "dose_unit": "mg",
+      "frequency": "once or twice a week",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "User mentions taking reta weekly and recommends Thymasin alpha 1 at 1.6mg once or twice a week. For reta, references dosing guidance of 0.5mg/wk for healthy individuals, starting at 2mg/wk for unhealthy and titrating up to 8mg/wk. User reported noticing no benefits (likely referring to Thymasin alpha 1 based on comment thread context).",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.262292Z"
+}

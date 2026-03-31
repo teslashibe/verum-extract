@@ -1,0 +1,55 @@
+{
+  "id": "20fbc722-4a20-445b-94fd-02e9b72acefb",
+  "source_id": "1rmrqov",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmrqov/reta_semax_glow_stack/",
+  "author_hash": "899a6cb5b9c006fb68edacde50eb6d49116670c05a8f65e39a83cd04732dafcd",
+  "confidence_tier": 5,
+  "date_published": "2026-03-06T14:07:05-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "frequency": "morning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "frequency": "at night",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "at night",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Taking Semax too late in the day can lead to sleep disruption"
+    },
+    {
+      "category": "nausea",
+      "description": "GI upset/nausea with GLP-1s"
+    },
+    {
+      "category": "injection_site",
+      "description": "GLOW can sting for a few hours post-injection",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Recommends taking Semax in the morning to avoid sleep disruption, and Reta and GLOW at night to sleep through potential side effects.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.111494Z"
+}

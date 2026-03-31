@@ -1,0 +1,56 @@
+{
+  "id": "2af3e75a-680c-47a2-beb2-a3749dbb1f5e",
+  "source_id": "1latk73",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1latk73/dexa_scan_results_as_promised/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 3,
+  "date_published": "2025-06-13T15:52:44-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Gained 4lbs of muscle according to DEXA scan comparison over one month",
+      "severity": "significant",
+      "onset_days": 30
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "lean_mass_dexa",
+      "unit": "lbs",
+      "timeframe_days": 30
+    }
+  ],
+  "protocol_notes": "Started stack on June 6th. Had three DEXA scans: April, May, and June 13th (today). Original post was deleted after negative community feedback.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.40642Z"
+}

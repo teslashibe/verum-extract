@@ -1,0 +1,52 @@
+{
+  "id": "12140338-7f0a-4953-a1a5-eb3e83f7d27d",
+  "source_id": "1o3yyxg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o3yyxg/after_reta/",
+  "author_hash": "3f36fdb7ecf87310e5731bf37b1884d8f4db5549e3e1e4817c6a847325158a21",
+  "confidence_tier": 4,
+  "date_published": "2025-10-11T08:47:47-07:00",
+  "reported_weight": {
+    "value": 250,
+    "unit": "lbs"
+  },
+  "training_status": "active (lifting)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Went from 250 to 228 lbs over approximately 3 months",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite remained suppressed for approximately 1.5 weeks after stopping; reduced cravings for sweet treats persisted after coming off",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Appetite suppression made it hard to consume adequate protein, leading to significant strength loss; hunger rebounded stronger than baseline approximately 2 weeks after finishing",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Used 1mg/week for about 3 months; finished before a 2-week vacation. Weight remained stable on vacation, then increased after hunger returned. Plans to use only during summer cuts going forward. Now maintaining with high protein diet and cardio.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.268129Z"
+}

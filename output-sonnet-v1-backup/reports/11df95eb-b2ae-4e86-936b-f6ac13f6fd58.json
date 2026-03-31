@@ -1,0 +1,37 @@
+{
+  "id": "11df95eb-b2ae-4e86-936b-f6ac13f6fd58",
+  "source_id": "1qvm4dq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qvm4dq/taking_klow_tips_to_make_it_not_hurt/",
+  "author_hash": "614871b5ca6f02dabea0de332314b28458db05ff7fdaf4a035778aa990b5fe80",
+  "confidence_tier": 5,
+  "date_published": "2026-02-04T03:30:20-08:00",
+  "compounds": [
+    {
+      "name_raw": "glow",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "klow",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Soreness when injecting anywhere other than stomach; uses pen device exclusively in stomach",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Uses only a pen device; injects only in stomach for GLOW and KLOW.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121445Z"
+}

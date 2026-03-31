@@ -1,0 +1,79 @@
+{
+  "id": "10f92bc1-1eed-4b5b-b2b4-4d860a0d2a20",
+  "source_id": "1md6kc3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1md6kc3/i_have_crohns_and_im_desperate_ive_never_used/",
+  "author_hash": "32753d3f73fe22ddd5556679d1a362000967a6ca1c886690ec9ecfa8fbd8b722",
+  "confidence_tier": 4,
+  "date_published": "2025-07-30T06:26:24-07:00",
+  "health_conditions": [
+    "MALS (Median Arcuate Ligament Syndrome)",
+    "Crohn's disease (initially misdiagnosed)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-4",
+      "name_normalized": "thymosin_beta_4",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Thymalin",
+      "name_normalized": "thymulin",
+      "category": "immune",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ARA-290",
+      "name_normalized": "ara_290",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Stack helped turn things around for gut-based autoimmune conditions",
+      "severity": "significant"
+    },
+    {
+      "category": "inflammation",
+      "description": "Helps resolve chronic gut inflammation without excessive scarring via TB-4 shifting macrophages from M1 to M2 state",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "BPC-157 increases energy uptake in injured cells; TB-4 supports connective tissue repair more effectively than TB-500; GHK-Cu minimizes fibrosis",
+      "severity": "significant"
+    },
+    {
+      "category": "immune",
+      "description": "Thymic peptides help regulate immune system by boosting innate immunity; allows adaptive immune system to downshift and recalibrate",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Lab rat (described as such, not human) initially misdiagnosed with Crohn's for ~4 years on high-dose Humira; actually had MALS (Median Arcuate Ligament Syndrome). Stack referred to as 'GLOW' (BPC-157, TB-4, GHK-Cu, TA-1, Thymalin, ARA-290). ARA-290 specifically for MALS nerve ischemia. Full-length TB-4 (43-amino acid sequence) used rather than TB-500.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.402737Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "4a523c30-c8cc-4c89-8af7-22c45f6e1f03",
+  "source_id": "1nsq3ll",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nsq3ll/motsc_is_the_golf_peptide/",
+  "author_hash": "93a2d6f53d458597f6b5dbd94496866d828d63d4ea21d8b3b2f9342fb384da74",
+  "confidence_tier": 4,
+  "date_published": "2025-09-28T07:43:44-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "5-Amino",
+      "name_normalized": "5_amino",
+      "category": "other",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "frequency": "variable small amount",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Stack works well together, does not need high doses of each compound",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Uses stacked protocol of MOTS-c 1mg, 5-Amino 1mg, and variable small doses of NAD+. Reports synergistic effect allowing lower individual doses.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.680594Z"
+}

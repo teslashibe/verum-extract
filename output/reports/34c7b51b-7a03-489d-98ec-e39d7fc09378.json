@@ -1,0 +1,48 @@
+{
+  "id": "34c7b51b-7a03-489d-98ec-e39d7fc09378",
+  "source_id": "16gr706",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16gr706/can_i_stack/",
+  "author_hash": "31f819cdf44471150d20f7f5e65d12ac7862c0d5d33b80ea08f0780d3bd1405b",
+  "confidence_tier": 4,
+  "date_published": "2023-09-12T06:19:06-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 145,
+    "unit": "lbs"
+  },
+  "training_status": "very active, works out 4-5 days per week",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "37-year-old female, 5'2\", 145 lbs. Planning to use stack for fat loss while maintaining or building muscle. Very active with 4-5 workouts per week. Still in planning phase, seeking feedback before implementation.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.420187Z"
+}

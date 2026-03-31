@@ -1,0 +1,63 @@
+{
+  "id": "90d34f63-056a-4176-b17b-d65e78176fbe",
+  "source_id": "1qpmkp9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qpmkp9/52_year_old_female_curious_about_sermorelin/",
+  "author_hash": "bac7f3c301cb567195e1ae2d500d840674de9601258fb233c2a2986c09246e13",
+  "confidence_tier": 4,
+  "date_published": "2026-01-28T12:13:16-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "60+",
+  "training_status": "Starting Strength program, gym",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "once daily",
+      "cycle_length_days": 16,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "helps a little bit with sleep, more vivid dreams, sleeps deeply for a couple hours",
+      "severity": "mild"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "started gaining muscle, continue to lose fat",
+      "severity": "moderate"
+    },
+    {
+      "category": "anti_aging",
+      "description": "hoping for positive effects on skin in 5 months"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "trouble sleeping, wakes up and has bad sleep again after initial deep sleep",
+      "severity": "moderate"
+    },
+    {
+      "category": "injection_site",
+      "description": "injection stings a little",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Empty stomach required, taken 15 minutes before bed. Timing difficult due to evening eating schedule. Used for anti-aging properties. Also on Tirzepatide concurrently.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.682634Z"
+}

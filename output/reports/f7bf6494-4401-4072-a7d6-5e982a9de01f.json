@@ -1,0 +1,112 @@
+{
+  "id": "f7bf6494-4401-4072-a7d6-5e982a9de01f",
+  "source_id": "1q2l9at",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q2l9at/the_difference_4_months_of_peptides_can_make/",
+  "author_hash": "362a88e5adf38056cb8afb1f196c9fd10a6c9c8d54a7f92015ee4f3ffc7759d8",
+  "confidence_tier": 4,
+  "date_published": "2026-01-02T20:41:37-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "25-29",
+  "health_conditions": [
+    "Hashimoto's thyroiditis",
+    "high cholesterol",
+    "fatigue",
+    "inflammation",
+    "migraines"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.25,
+      "dose_unit": "mg",
+      "frequency": "1x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "5-Amino-1MQ",
+      "name_normalized": "5_amino_1mq",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Lipo-C",
+      "name_normalized": "lipo_c",
+      "category": "other",
+      "route": "intramuscular",
+      "frequency": "2x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss and body composition improvement over 4 months",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Skin looks healthy, smooth, tight, and more youthful in appearance",
+      "severity": "significant"
+    },
+    {
+      "category": "inflammation",
+      "description": "Reduced inflammation, particularly through KPV and peptide stack",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Euphoric rush and energy boost from NAD+ microdosing",
+      "severity": "moderate"
+    },
+    {
+      "category": "anti_aging",
+      "description": "More youthful overall appearance",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "cholesterol"
+    }
+  ],
+  "protocol_notes": "27-year-old female. Cycle length: 4 months. Started with microdosing approach to assess tolerance. Currently on Levothyroxine for Hashimoto's. Lipo-C is a blend containing 200mg L-carnitine, choline, inositol, methionine, B12, B6, B5, L-arginine, and 1% lidocaine. Previously tried MOTS-C but did not tolerate well. Injecting into glutes for Lipo-C due to discomfort. User describes strong positive experience with NAD+ microdosing. Started with 0.75mg daily Tirzepatide initially to ease in and monitor tolerance.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.388229Z"
+}

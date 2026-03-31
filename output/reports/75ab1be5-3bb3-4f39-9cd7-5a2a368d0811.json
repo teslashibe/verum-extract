@@ -1,0 +1,47 @@
+{
+  "id": "75ab1be5-3bb3-4f39-9cd7-5a2a368d0811",
+  "source_id": "1mak38c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mak38c/update_after_14_days_of_starting_peptides/",
+  "author_hash": "bdde98db5536a72638a88c4befbbf6141b34112d5acb295ae88628d0d84c815f",
+  "confidence_tier": 4,
+  "date_published": "2025-07-27T04:35:31-07:00",
+  "training_status": "active",
+  "health_conditions": [
+    "ACL surgery"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Rapid healing after ACL surgery. Could walk out of hospital barely using crutches. Used stationary bike 3 days after surgery. Walking without limp at 3 days.",
+      "severity": "significant",
+      "onset_days": 3
+    },
+    {
+      "category": "recovery",
+      "description": "Physio noted unusually fast recovery at 1 week and 8 week checkpoints. Therapist stated she had never seen anyone recover that fast.",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Used peptides pre-operatively (TB-500 loaded for 1-2 weeks prior) and during surgery for ACL repair. Combined with intensive prehab and rehab. Also used joint supplements including collagen and natural eggshell membrane. Leg weights 3+ times weekly and daily cycling. Clean diet.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.403102Z"
+}

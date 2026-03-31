@@ -1,0 +1,35 @@
+{
+  "id": "67d35f20-dd8b-454c-ac9d-34217f5753ee",
+  "source_id": "1s0xja5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s0xja5/can_semax_reconstituted_with_bac_water_be_used/",
+  "author_hash": "cd93e0f230a30fe0dc3e6cec7908a11a4dbbcedac9c385b0956ff8959206cfca",
+  "confidence_tier": 5,
+  "date_published": "2026-03-22T14:14:51-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "nasal",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "nasal",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Reconstitutes 10mg semax and selank with 4ml sterile water + 1ml BAC water. Advises against using BAC water alone due to nose drying and irritation.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105532Z"
+}

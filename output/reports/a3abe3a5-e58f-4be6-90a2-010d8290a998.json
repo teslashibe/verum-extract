@@ -1,0 +1,42 @@
+{
+  "id": "a3abe3a5-e58f-4be6-90a2-010d8290a998",
+  "source_id": "1s7f48b",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s7f48b/is_my_reta_dosage_too_high/",
+  "author_hash": "fc89164405ac75d88767cb4122b7b53dd8673aa2857e2e493339b1ed09a14e0d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T20:04:11-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression and skin tingles as markers of compound quality",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Received underdosed vial (20mg vial appeared to contain less compound) from vendor - no appetite suppression or skin tingles for 1 month",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 28
+    }
+  ],
+  "protocol_notes": "Reports receiving potentially underdosed Retatrutide vial from vendor (20mg vial). Experienced loss of appetite suppression and skin tingling effects for 1 month before switching to next vial from same vendor/batch. Recommends 12-week cutting cycles followed by 8-12 week maintenance breaks to prevent metabolic adaptation.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.64493Z"
+}

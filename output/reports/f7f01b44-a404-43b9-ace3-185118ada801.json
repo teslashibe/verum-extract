@@ -1,0 +1,57 @@
+{
+  "id": "f7f01b44-a404-43b9-ace3-185118ada801",
+  "source_id": "1kai63j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kai63j/what_is_the_point_of_taking_tesamorelin/",
+  "author_hash": "d6d9330b5c51318c28efabd6ce929f55d0fd7096fa1905580a70101ef144a744",
+  "confidence_tier": 4,
+  "date_published": "2025-04-29T00:28:00-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "lots of water retention",
+      "severity": "moderate"
+    },
+    {
+      "category": "blood_pressure",
+      "description": "higher blood pressure",
+      "severity": "moderate",
+      "onset_days": 56
+    }
+  ],
+  "protocol_notes": "Initially tried 2mg tesa ED but experienced too many side effects. Reduced to 1mg tesa/300mcg ipa daily (5 days on/2 days off by week 8). Recently started HGH 2iu. Noted that higher dose caused water retention and blood pressure issues by week 8. User has all three compounds available and is exploring lower dose protocols.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.69176Z"
+}

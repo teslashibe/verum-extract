@@ -1,0 +1,46 @@
+{
+  "id": "dbec440d-ced8-4e98-a7bb-93fd46c1bdd1",
+  "source_id": "1rymdik",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rymdik/1_month_transformation/",
+  "author_hash": "4bb5764b508077e89b3cc59669a72ba2f3f15628f3b4312a258c315baa3c1205",
+  "confidence_tier": 5,
+  "date_published": "2026-03-19T21:12:23-07:00",
+  "reported_weight": {
+    "value": 219,
+    "unit": "lbs"
+  },
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 6 lbs (219 to 213) over 4 weeks using only 1 mg Reta",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Body weight",
+      "value_before": 219,
+      "value_after": 213,
+      "unit": "lbs",
+      "timeframe_days": 28
+    }
+  ],
+  "protocol_notes": "Used only 1 mg Reta for 4 weeks with no other peptides stacked.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106365Z"
+}

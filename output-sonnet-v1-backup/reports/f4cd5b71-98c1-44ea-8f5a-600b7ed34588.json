@@ -1,0 +1,58 @@
+{
+  "id": "f4cd5b71-98c1-44ea-8f5a-600b7ed34588",
+  "source_id": "19faw3y",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/19faw3y/glp1_to_lean/",
+  "author_hash": "c7a24b0ca794fbd074d122134bc02097014022d0cdd55d68c55230ec1c1e6f71",
+  "confidence_tier": 3,
+  "date_published": "2024-01-25T06:42:43-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 138,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "normal A1C"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "every 4 days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "2 days after tirz dose",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Went from 178 to 138 lbs (40 lbs lost) since end of June; describes being the leanest she's ever been",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C",
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Female, 5'8\", turning 40. Stacking tirz (5mg every 4 days) with sema (0.6-0.8mg, 2 days after tirz). Stacking to reduce cost since tirzepatide is more expensive. Previously lost 120 lbs with diet and exercise alone; regained some after loss of mother, then started peptides. A1C was normal prior to use. Started end of June (approx 6-7 months of use at time of post).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.295445Z"
+}

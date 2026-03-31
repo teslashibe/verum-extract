@@ -1,0 +1,35 @@
+{
+  "id": "e6cd278c-f7aa-4a72-adde-724467b2f39b",
+  "source_id": "1kgcrqv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kgcrqv/the_wolverine_peptide/",
+  "author_hash": "4d07875411ec574541700df943ae99ea57bcab91c15bf2e7de07ab9b9bbddbb9",
+  "confidence_tier": 4,
+  "date_published": "2025-05-06T12:04:39-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "twice a week",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "500mcg BPC daily and 5mg TB weekly split into two injections twice a week. No noticeable benefit yet but just started.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.284442Z"
+}

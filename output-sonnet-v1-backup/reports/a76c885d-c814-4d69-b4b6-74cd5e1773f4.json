@@ -1,0 +1,36 @@
+{
+  "id": "a76c885d-c814-4d69-b4b6-74cd5e1773f4",
+  "source_id": "1s029qy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s029qy/my_dad_has_3cm_tears_in_his_rotary_cuff_will/",
+  "author_hash": "7a2508200e4d33c3845ef394f002f4a7dc86b5c81224e4a70c491ed59ed0af00",
+  "confidence_tier": 3,
+  "date_published": "2026-03-21T13:45:17-07:00",
+  "health_conditions": [
+    "patellar tear (1.2cm)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "wolverine stack",
+      "name_normalized": "wolverine_stack",
+      "category": "other",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "patellar tear size (MRI)",
+      "value_before": 1.2,
+      "value_after": 1.2,
+      "unit": "cm",
+      "timeframe_days": 90
+    }
+  ],
+  "protocol_notes": "Ran the Wolverine stack for 3 months for a 1.2cm patellar tear confirmed on MRI. Follow-up MRI showed no improvement — still 1.2cm, not 1mm of change. Negative experience, skeptical of anecdotal claims.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105884Z"
+}

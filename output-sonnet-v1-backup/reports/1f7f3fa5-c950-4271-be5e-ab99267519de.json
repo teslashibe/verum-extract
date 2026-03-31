@@ -1,0 +1,83 @@
+{
+  "id": "1f7f3fa5-c950-4271-be5e-ab99267519de",
+  "source_id": "1s5ngoe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s5ngoe/help_reviewing_stack/",
+  "author_hash": "54a303e55874bdb66863a1e6a01d849774a42774451ea9681bda54c507b74b74",
+  "confidence_tier": 5,
+  "date_published": "2026-03-27T18:50:16-07:00",
+  "training_status": "active (working out mentioned)",
+  "health_conditions": [
+    "back injury"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "trizeperide",
+      "name_normalized": "trizeperide",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "gluthatione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "glow",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "sermoreline",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Taking NAD for energy"
+    },
+    {
+      "category": "sleep",
+      "description": "Taking sermoreline for sleep"
+    },
+    {
+      "category": "recovery",
+      "description": "Taking BPC157 for semi back injury"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Taking Glow for anti-aging"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Glutathione stings at injection site",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "OP is newer to peptides and planning to add glow, BPC157, and sermoreline to existing stack of tirzepatide, NAD, and glutathione. Seeking community input on combining these compounds.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.103602Z"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "d26353a1-e2c7-488c-98b7-ab8ca208fef8",
+  "source_id": "1ms3eu0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ms3eu0/why_is_epithalon_so_rarely_mentioned_here/",
+  "author_hash": "03227461553cef453e255b7c3535453706e4ddf01fd55ee175096b55bc79d2c7",
+  "confidence_tier": 4,
+  "date_published": "2025-08-16T11:26:14-07:00",
+  "training_status": "bodybuilder",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily except weekends",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "sleep like a stone",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "immense stress reduction",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "progressed immensely in gym, trainings became easier, became very strong, maxed out machines",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "regenerate easier/better due to improved sleep",
+      "severity": "significant"
+    },
+    {
+      "category": "anti_aging",
+      "description": "looked much younger on it",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "1 vial per 2 weeks, 1mg daily except weekends. Long-term use. High protein intake (2g/kg). Attributed improvements partly to better sleep, stress reduction, and ability to train harder.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.401065Z"
+}

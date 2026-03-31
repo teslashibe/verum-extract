@@ -1,0 +1,68 @@
+{
+  "id": "2e46e9bd-8785-469b-9932-57059194bd91",
+  "source_id": "nnrctt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/nnrctt/bpc157_13_day_experiment_report_and_images/",
+  "author_hash": "d27302a15d2ddefe18de66d1b52d9d6f07dff0f76250b401475549da2fadd6ac",
+  "confidence_tier": 4,
+  "date_published": "2021-05-29T09:46:25-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "endometriosis",
+    "ovarian cysts",
+    "surgical scarring",
+    "chronic pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 13,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "frequency": "2x daily",
+      "cycle_length_days": 13,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Dramatically less pain overall; tolerated ganglion impar block injection without anesthesia or sedation",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Surgical scarring in pelvic area showing improvement after 2 years of no improvement",
+      "severity": "significant",
+      "onset_days": 13
+    },
+    {
+      "category": "body_composition",
+      "description": "Improvement with endometriosis lesion implants and residual scar tissue",
+      "severity": "moderate",
+      "onset_days": 13
+    },
+    {
+      "category": "libido",
+      "description": "Enhanced libido due to extended period without pain",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "5 mg BPC-157 dissolved in approximately 3 mL bacteriostatic water. Dosing: approximately 1/15th to 1/10th of total solution per injection (500-1000 mcg per dose). Injected in areas surrounding abdomen. Also administered orally. Protocol lasted 12-13 days. User has medical assistant certification. Doctor-approved approach.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.131398Z"
+}

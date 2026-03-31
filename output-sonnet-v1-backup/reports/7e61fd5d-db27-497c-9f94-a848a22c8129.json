@@ -1,0 +1,39 @@
+{
+  "id": "7e61fd5d-db27-497c-9f94-a848a22c8129",
+  "source_id": "1rmyd8k",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmyd8k/from_286_to_198_in_6_months/",
+  "author_hash": "438a79954270ca8a48049d8697cfe396588efcb2c7f18396f440e2171b485c32",
+  "confidence_tier": 5,
+  "date_published": "2026-03-06T18:53:20-08:00",
+  "health_conditions": [
+    "type 2 diabetes"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Mounjaro",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Type 2 diabetes controlled with Mounjaro, A1C 5.8",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C",
+      "value_after": 5.8,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "User is asking about using HGH with type 2 diabetes and is concerned about IGF implications. Gets peptides through an MD. Uses Freestyle Libre 3 for glucose monitoring.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.111421Z"
+}

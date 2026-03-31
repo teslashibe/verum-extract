@@ -1,0 +1,37 @@
+{
+  "id": "0edc7456-4af2-4101-ade2-ed9691437c9d",
+  "source_id": "1r3baxf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r3baxf/delayed_effects/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2026-02-12T17:04:48-08:00",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "appetite suppression kicking in approximately 2 days before next dose",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Gets sick the night after taking next dose every time",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "User reports delayed onset of appetite suppression effect until ~2 days before next scheduled dose. Consistent nausea occurs on dose nights. User considering spacing doses further apart to avoid overlap of appetite suppression wear-off and new dose nausea.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.676674Z"
+}

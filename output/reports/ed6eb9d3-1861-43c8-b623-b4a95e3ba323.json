@@ -1,0 +1,38 @@
+{
+  "id": "ed6eb9d3-1861-43c8-b623-b4a95e3ba323",
+  "source_id": "1qquiwx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qquiwx/sermorelin_reaction/",
+  "author_hash": "c0c096cc48a65b83961766816c199ccc9980f5370e3a06b728621f599f07342f",
+  "confidence_tier": 4,
+  "date_published": "2026-01-29T19:40:46-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "IU",
+      "frequency": "5x weekly",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Extreme itching all over body, sneezing, dizziness, red palms",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    }
+  ],
+  "protocol_notes": "Taking 5 nights per week before bed. Reaction occurred after 5 minutes of injection after 2 months of consistent use. User discontinued peptide after this episode.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669282Z"
+}

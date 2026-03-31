@@ -1,0 +1,33 @@
+{
+  "id": "d1ba9fac-aedc-4d65-8949-464cf7e0b0a7",
+  "source_id": "1q4vdjh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q4vdjh/reta_allergy_development_or_just_expired_product/",
+  "author_hash": "5acc3f1666ebc8431ec0742c7881bff42700e179da94b8014d310babc364235a",
+  "confidence_tier": 4,
+  "date_published": "2026-01-05T11:27:29-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Red, itchy rash at injection site; skin stays red and raised for over a week after injection; worsened over time in size, redness, and itchiness",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Started injecting reta on November 14, 2025. Pinning around the same area below the bellybutton. Meticulous about storage (fridge, dark container) and alcohol sterilization. Former nurse. Rash worsened over approximately one month, prompting plan to switch suppliers.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.256269Z"
+}

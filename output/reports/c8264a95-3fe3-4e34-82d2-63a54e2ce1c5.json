@@ -1,0 +1,44 @@
+{
+  "id": "c8264a95-3fe3-4e34-82d2-63a54e2ce1c5",
+  "source_id": "1re1ye6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1re1ye6/wolverine_blend_plan/",
+  "author_hash": "fc89164405ac75d88767cb4122b7b53dd8673aa2857e2e493339b1ed09a14e0d",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T19:22:12-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Uses standardized reconstitution protocol: 10mg vials with 1ml BAC, 20mg vials with 2ml BAC, 30mg vials with 3ml BAC to achieve consistent 1mg per 10 units on syringe. Uses both 50 and 100 unit syringes depending on peptide dose range (250-750mcg uses 50 unit syringe).",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.660049Z"
+}

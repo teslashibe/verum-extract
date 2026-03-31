@@ -1,0 +1,60 @@
+{
+  "id": "a09b0fe6-50d2-4eb2-8002-e8e2a52795db",
+  "source_id": "1rpfiad",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpfiad/questions_on_cjc1295ipamorelin/",
+  "author_hash": "7813e014e9372fd64a9d879ea42e76f272a94c8d7d22da1534ebf8f3e76e01a9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T15:49:04-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily, morning fasted",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily, morning fasted",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "frequency": "daily, before bed 1-2 hours after last meal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "frequency": "daily, before bed 1-2 hours after last meal",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Significant decrease in fat in stomach and love handles",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Morning: 0.5 mg CJC-1295/Ipamorelin blend (mixed compound). Evening: 2 mg Tesamorelin/Ipamorelin blend (mixed compound). 7 days per week protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.666582Z"
+}

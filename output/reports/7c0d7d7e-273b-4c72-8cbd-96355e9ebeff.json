@@ -1,0 +1,48 @@
+{
+  "id": "7c0d7d7e-273b-4c72-8cbd-96355e9ebeff",
+  "source_id": "1r8xmfv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r8xmfv/coming_off_reta_side_effects/",
+  "author_hash": "aa7f770b2c4c63e81853cbf709b4aa5c01ca64de0471ea3324d3c0754d738e0c",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T04:12:56-08:00",
+  "training_status": "sedentary",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped around 70 lbs without gym training",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Worked amazingly for appetite control",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Dramatic shift in behavior after coming off; struggled with rage and anger not consistent with personality",
+      "severity": "significant",
+      "onset_days": 21
+    }
+  ],
+  "protocol_notes": "Dosing was 0.5 mg once per week. User decided to come off completely rather than taper to maintenance dose due to side effects on discontinuation.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662273Z"
+}

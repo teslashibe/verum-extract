@@ -1,0 +1,84 @@
+{
+  "id": "f1020f4b-ee4c-4ae4-afd3-a554dc023fba",
+  "source_id": "174cra9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/174cra9/noob_trying_to_gain_weight/",
+  "author_hash": "b4d87c0efdb65ac92ce796ac03cc0d7fe99265b7726d864bd11039ada0171eb0",
+  "confidence_tier": 4,
+  "date_published": "2023-10-09T21:44:29-07:00",
+  "training_status": "active (weightlifting and cardio)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC 1295 DAC",
+      "name_normalized": "cjc_1295_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once per week",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ghrp",
+      "name_normalized": "ghrp_6",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "3x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Igf-LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 25,
+      "dose_unit": "mcg",
+      "frequency": "post-workout (daily)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Recovery is ridiculous",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Skin glows",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Woke up pumped and stayed pumped all day",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Sorta kinda makes me hypo (hypoglycemia-like symptoms)",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "headache",
+      "description": "Headaches quite a bit",
+      "severity": "moderate"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Joints dry out",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Cycles 4 weeks on, 4 weeks off. Posts CJC-1295 DAC at 2mg once per week, GHRP at 100mg 3x daily, and IGF-LR3 25mcg post-workout targeting the worked muscle. Requires consistent diet, cardio, and weightlifting for best results. Adjusts dose to manage hypoglycemia-like effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.296368Z"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "faab1fe4-2fe5-406b-90ad-88d64992e52a",
+  "source_id": "1io07mg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1io07mg/peptides_saved_my_skin/",
+  "author_hash": "255f50e4f725a45e3a6256e4728e623fe473af16b8ca5549b5e1466f20aa80da",
+  "confidence_tier": 4,
+  "date_published": "2025-02-12T12:01:38-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "training_status": "active, self-described optimizer",
+  "health_conditions": [
+    "history of narcotic dependency (in recovery)",
+    "history of HGH side effects (major swelling and carpal tunnel)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TRT (testosterone)",
+      "name_normalized": "trt_testosterone",
+      "category": "other",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "ghrp-6",
+      "name_normalized": "ghrp_6",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Major swelling from actual HGH",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "numbness_tingling",
+      "description": "Carpal tunnel from actual HGH",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Age 31. Prescribed TRT at 125-150mg weekly. Newly added ghrp-6, GHK-Cu, epithalon, NAD+. Goals include skin enhancement, cognitive function, bulk/hunger support, and mood boost. Prior peptide experience includes mk-677, Ostarine, NAD, modafinil. Had bad experiences with actual HGH in the past.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.287953Z"
+}

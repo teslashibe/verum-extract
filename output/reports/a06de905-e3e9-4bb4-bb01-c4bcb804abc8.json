@@ -1,0 +1,84 @@
+{
+  "id": "a06de905-e3e9-4bb4-bb01-c4bcb804abc8",
+  "source_id": "1bo5olh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bo5olh/bpc157_freaking_me_out_a_bit/",
+  "author_hash": "a1ea5dd489247841080a04b2019365f4f6aeb17967fe10d2918d3d492f81f373",
+  "confidence_tier": 4,
+  "date_published": "2024-03-26T04:36:02-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "training_status": "athlete (sports injury)",
+  "health_conditions": [
+    "jones fracture",
+    "ankle sprain",
+    "severe joint pain",
+    "impinged shoulder",
+    "lower back pain",
+    "GERD",
+    "stomach tightness",
+    "throat irritation",
+    "esophagitis",
+    "brain fog",
+    "eye vision blurriness",
+    "high blood pressure",
+    "ADHD"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.3,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "assistance in recovery of broken foot (jones fracture) and ankle sprain",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "joint_pain",
+      "description": "complete elimination of joint pain, neck pain, knee pain, shoulder pain",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "gut_health",
+      "description": "resolved GERD symptoms, able to skip PPI, no acid rebound despite caffeine reintroduction",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "cognitive",
+      "description": "brain fog resolved, improved eyesight",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "respiratory",
+      "description": "breathing normalized",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "blood pressure",
+      "timeframe_days": 7
+    }
+  ],
+  "protocol_notes": "Source: compounding pharmacy in Florida via local clinic. Started at half dose (0.15mg), titrated to 0.3mg x2 daily. Initial injection in belly fat and near ankle, then switched to single 0.3mg injection closer to pain location. Concurrent reintroduction of caffeine and Adderall after 1-month abstinence. Reports unusually strong response at 7 days.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698286Z"
+}

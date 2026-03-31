@@ -1,0 +1,39 @@
+{
+  "id": "e9a08a33-31b0-4de5-be03-5bfff699fb32",
+  "source_id": "1rxu7de",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rxu7de/reta_every_63_days/",
+  "author_hash": "3d3e87f3ab49c834efabded83ad15b7ade6c060dc92e8411350691dd1282e5d9",
+  "confidence_tier": 5,
+  "date_published": "2026-03-19T00:48:18-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "every 5 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Suppression is maintained on every 5 day schedule"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Suppression lowers on day 6",
+      "severity": "mild",
+      "onset_days": 6
+    }
+  ],
+  "protocol_notes": "Pins every 5 days because suppression lowers on day 6",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.10656Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "8f678d33-2c55-46cc-a04d-615faa468b61",
+  "source_id": "1ky4ba8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ky4ba8/currently_taking_reta_and_down_40lbs_and_thinking/",
+  "author_hash": "29f267a098e03ee043db0ee95f8fa32924a27b250f7e6ea142e17a31a9624a7b",
+  "confidence_tier": 4,
+  "date_published": "2025-05-29T00:04:01-07:00",
+  "reported_sex": "female",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mcg",
+      "frequency": "titrated up gradually",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Melanotan I",
+      "name_normalized": "melanotan_1",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "frequency": "occasional maintenance",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "route": "subcutaneous",
+      "frequency": "occasional",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Tanning, golden glow",
+      "severity": "moderate"
+    },
+    {
+      "category": "libido",
+      "description": "Increased libido for women, even at low doses after a few days",
+      "severity": "moderate",
+      "onset_days": 3
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Nausea when took too high of dose during titration, lasted whole day",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "skin_reaction",
+      "description": "Patchy, uneven tanning initially with concentrated melanin in spots. Darkening of existing moles and brown spots. Eventually evened out on its own.",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Female user with husband who also used MT2 and MT1. Initially took 50 mcg MT2, titrated up but overdid it. Switched to Melanotan I for maintenance due to better results. Notes melanin production continues long after stopping. Started at very low doses. Melanin response significantly enhanced in sun (4 min = 20 min effect). Always wears sunscreen. Took break of 3 months to return to target tan before maintenance. Notes no habit formation. Also uses PT-141 for libido boost.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.690271Z"
+}

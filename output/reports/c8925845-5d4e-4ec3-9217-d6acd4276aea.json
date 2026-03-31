@@ -1,0 +1,30 @@
+{
+  "id": "c8925845-5d4e-4ec3-9217-d6acd4276aea",
+  "source_id": "16riop4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16riop4/how_do_you_organizeprep_your_stacks/",
+  "author_hash": "ebe89011d3c9c369dd4247b294165e54dd0b52e7b77028ae9efe044bb80ddad6",
+  "confidence_tier": 4,
+  "date_published": "2023-09-24T21:45:00-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GLP-1",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "GLP-1 turns cloudy when mixed with other peptides, possibly because of longer chain/complexity",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Takes 5-6 peptides twice daily by drawing from vials into insulin syringe each time. Keeps GLP-1 separate due to cloudiness when mixed. Does not prefill syringes for longer than a day or two.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.420007Z"
+}

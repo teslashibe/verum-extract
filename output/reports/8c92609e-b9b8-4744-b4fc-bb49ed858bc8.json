@@ -1,0 +1,43 @@
+{
+  "id": "8c92609e-b9b8-4744-b4fc-bb49ed858bc8",
+  "source_id": "1p815hb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p815hb/waking_up_90_minutes_earlier_with_reta/",
+  "author_hash": "4bde630fceac7456dfd0582a00fd599f2ac10269e26f1efccc900b1292cbc14c",
+  "confidence_tier": 4,
+  "date_published": "2025-11-27T04:35:56-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Terrible sleep quality, light and fragmented sleep patterns",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 10
+    },
+    {
+      "category": "flushing",
+      "description": "Hot flashes at night (never experienced before)",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 10
+    }
+  ],
+  "protocol_notes": "User considered 0.5mg 2x weekly a small dosage but discontinued due to severe side effects. Sleep began normalizing approximately 10 days after discontinuation.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.392484Z"
+}

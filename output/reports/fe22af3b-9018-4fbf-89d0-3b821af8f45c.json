@@ -1,0 +1,42 @@
+{
+  "id": "fe22af3b-9018-4fbf-89d0-3b821af8f45c",
+  "source_id": "1r1lg6n",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r1lg6n/has_anyone_used_peptides_to_treat_for_severe_gerd/",
+  "author_hash": "71c72f9d318ada2acafd1f74c2ab7b533e4db3d299b8725fba16dc60d0f22775",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T18:46:46-08:00",
+  "health_conditions": [
+    "LPR",
+    "stomach issues",
+    "excessive mucus"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "GLP-1 caused LPR and stomach issues; issues persisted even after stopping. Excessive mucus.",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "User is in healthy BMI. Hoping BPC-157 will help resolve the GLP-1-induced stomach issues.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665088Z"
+}

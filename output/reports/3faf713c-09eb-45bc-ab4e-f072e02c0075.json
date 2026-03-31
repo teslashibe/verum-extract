@@ -1,0 +1,45 @@
+{
+  "id": "3faf713c-09eb-45bc-ab4e-f072e02c0075",
+  "source_id": "1ruv4ss",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ruv4ss/retatruide_or_trizepatide/",
+  "author_hash": "0490e7e950ac4824865d886f9da6ce0d695c2aa9d1482b44d7c9100fea3779a4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T17:46:18-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 35,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 7 pounds in 5 weeks on tirzepatide",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Horrible side effects on semaglutide",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Previously on semaglutide with significant side effects. Switched to tirzepatide with no side effects reported. Lost 7 lbs in 5 weeks. Did not experience the food noise reduction that others report on tirzepatide, instead simply eating less.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.651393Z"
+}

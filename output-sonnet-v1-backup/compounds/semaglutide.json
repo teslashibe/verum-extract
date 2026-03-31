@@ -1,0 +1,204 @@
+{
+  "compound_id": "semaglutide",
+  "display_name": "Semaglutide",
+  "category": "body_composition",
+  "total_reports": 175,
+  "reports_by_tier": {
+    "3": 8,
+    "4": 74,
+    "5": 93
+  },
+  "top_benefits": [
+    {
+      "category": "fat_loss",
+      "count": 47,
+      "pct": 57.3
+    },
+    {
+      "category": "appetite_suppression",
+      "count": 38,
+      "pct": 46.3
+    },
+    {
+      "category": "other",
+      "count": 11,
+      "pct": 13.4
+    },
+    {
+      "category": "energy",
+      "count": 6,
+      "pct": 7.3
+    },
+    {
+      "category": "mood",
+      "count": 5,
+      "pct": 6.1
+    },
+    {
+      "category": "muscle_gain",
+      "count": 5,
+      "pct": 6.1
+    },
+    {
+      "category": "joint_pain",
+      "count": 4,
+      "pct": 4.9
+    },
+    {
+      "category": "injury_healing",
+      "count": 3,
+      "pct": 3.7
+    },
+    {
+      "category": "gut_health",
+      "count": 2,
+      "pct": 2.4
+    },
+    {
+      "category": "recovery",
+      "count": 2,
+      "pct": 2.4
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "other",
+      "count": 32,
+      "pct": 39,
+      "avg_severity": 2.3
+    },
+    {
+      "category": "nausea",
+      "count": 10,
+      "pct": 12.2,
+      "avg_severity": 2.1
+    },
+    {
+      "category": "appetite_change",
+      "count": 8,
+      "pct": 9.8,
+      "avg_severity": 2
+    },
+    {
+      "category": "mood_change",
+      "count": 5,
+      "pct": 6.1,
+      "avg_severity": 2.6
+    },
+    {
+      "category": "headache",
+      "count": 2,
+      "pct": 2.4,
+      "avg_severity": 1
+    },
+    {
+      "category": "injection_site",
+      "count": 2,
+      "pct": 2.4,
+      "avg_severity": 1
+    },
+    {
+      "category": "fatigue",
+      "count": 2,
+      "pct": 2.4,
+      "avg_severity": 1
+    },
+    {
+      "category": "joint_pain",
+      "count": 1,
+      "pct": 1.2,
+      "avg_severity": 3
+    },
+    {
+      "category": "sleep_disruption",
+      "count": 1,
+      "pct": 1.2,
+      "avg_severity": 3
+    },
+    {
+      "category": "gut_health",
+      "count": 1,
+      "pct": 1.2,
+      "avg_severity": 3
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 0.25,
+      "unit": "mg",
+      "frequency": "weekly",
+      "count": 4,
+      "pct": 2.3
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 1,
+      "unit": "mg",
+      "frequency": "",
+      "count": 3,
+      "pct": 1.7
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 1,
+      "unit": "mg",
+      "frequency": "weekly",
+      "count": 3,
+      "pct": 1.7
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 0.5,
+      "unit": "mg",
+      "frequency": "weekly",
+      "count": 3,
+      "pct": 1.7
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 0.25,
+      "unit": "mg",
+      "frequency": "once weekly",
+      "count": 2,
+      "pct": 1.1
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "tirzepatide",
+      "display_name": "Tirzepatide",
+      "report_count": 44
+    },
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Retatrutide",
+      "report_count": 32
+    },
+    {
+      "compound_id": "ipamorelin",
+      "display_name": "Ipamorelin",
+      "report_count": 9
+    },
+    {
+      "compound_id": "bpc_157",
+      "display_name": "bpc-157",
+      "report_count": 9
+    },
+    {
+      "compound_id": "mots_c",
+      "display_name": "MOTS-C",
+      "report_count": 9
+    }
+  ],
+  "avg_cycle_length_days": 140.9,
+  "avg_sentiment_score": 0.667,
+  "sentiment_breakdown": {
+    "positive": 84,
+    "mixed": 55,
+    "negative": 15,
+    "neutral": 21
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.968663Z"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "5892cda2-6244-4bee-b6f9-a034d2298469",
+  "source_id": "1qxwnoh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxwnoh/daily_motsc/",
+  "author_hash": "9511eea6d55e1974de61fdba299e04b4d4009268e5818f55832de0d45f625980",
+  "confidence_tier": 4,
+  "date_published": "2026-02-06T14:53:02-08:00",
+  "reported_age_range": "40-49",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Clean energy without caffeine jitters; mental energy and focus; ability to keep going and solving problems",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "respiratory",
+      "description": "Shortness of breath after injection",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Stack includes CJC-1295 and NAD+. User tested 2.5mg initially and increased to 5mg for better effects. Considering daily dosing protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.666441Z"
+}

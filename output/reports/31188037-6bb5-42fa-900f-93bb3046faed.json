@@ -1,0 +1,43 @@
+{
+  "id": "31188037-6bb5-42fa-900f-93bb3046faed",
+  "source_id": "1riovis",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1riovis/motsc/",
+  "author_hash": "bfcb537432263dad5db41db5061e063e91908d548b63d664cd5b09953747938a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T02:01:45-08:00",
+  "reported_age_range": "30-39",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "spiciness and redness",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Age 36. Tried MOTS-c for a while at 5mg 3x weekly, then moved to SS-31 for 8 weeks, then back to MOTS-c. Reported no noticeable benefits from either compound.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.658017Z"
+}

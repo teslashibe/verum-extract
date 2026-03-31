@@ -1,0 +1,62 @@
+{
+  "id": "4650ecc1-f03c-4ba6-a67e-80c77068c8c6",
+  "source_id": "1mz0i47",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mz0i47/solved_epitalon_dosing_timing_and_strength_for/",
+  "author_hash": "b87b46987fa5e53940cd2758b389592a8fcc183e3b08fa94fe6ce60875861690",
+  "confidence_tier": 4,
+  "date_published": "2025-08-24T09:40:50-07:00",
+  "health_conditions": [
+    "sleep_issues_on_retatrutide"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "frequency": "morning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "dose_value": 75,
+      "dose_unit": "mcg",
+      "frequency": "3 hours before bedtime",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "DSIP and Epitalon both help regulate sleep through HPA axis regulation. DSIP made for sleep. Epitalon improves multiple functions beyond sleep.",
+      "severity": "significant"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Epitalon used for anti-aging purposes"
+    },
+    {
+      "category": "immune",
+      "description": "Epitalon used for enhanced immune function"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Trouble sleeping when Epitalon dosed at night",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Using both Epitalon (morning dosing) and DSIP (75mcg, 3 hours before bed) while on Retatrutide. Also uses complementary stack with magnesium, boron, cistanche, alternating with Ultra Red Reishi Extract or Lemon Balm. Both peptides regulate HPA axis; DSIP specifically for sleep, Epitalon for broader anti-aging and immune benefits.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.683777Z"
+}

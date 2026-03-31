@@ -1,0 +1,43 @@
+{
+  "id": "0dd6c864-aa10-40d0-baeb-7ac5d6ac8484",
+  "source_id": "1s029qy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s029qy/my_dad_has_3cm_tears_in_his_rotary_cuff_will/",
+  "author_hash": "7a2508200e4d33c3845ef394f002f4a7dc86b5c81224e4a70c491ed59ed0af00",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T13:45:17-07:00",
+  "health_conditions": [
+    "patellar tear (1.2cm)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "patellar tear size",
+      "value_before": 1.2,
+      "value_after": 1.2,
+      "unit": "cm",
+      "timeframe_days": 90
+    }
+  ],
+  "protocol_notes": "Ran 'wolverine stack' for three months (BPC-157 and TB-500). Confirmed with MRI before and after. No improvement noted.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.648864Z"
+}

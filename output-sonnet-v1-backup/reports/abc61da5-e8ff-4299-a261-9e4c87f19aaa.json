@@ -1,0 +1,42 @@
+{
+  "id": "abc61da5-e8ff-4299-a261-9e4c87f19aaa",
+  "source_id": "1rzamsp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzamsp/is_melanotan_worth_it_over_fake_tanning/",
+  "author_hash": "287fa657e48d2a45d5c5be9b874d549561872ab27e537baa0d396f2a1545407f",
+  "confidence_tier": 4,
+  "date_published": "2026-03-20T15:39:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MT2",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "MT2 works for tanning"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Nausea for 24 hours post pin",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Terrible sleep after pinning MT2",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Currently on MT2, experiencing significant side effects. Plans to try MT1 as an alternate to compare tolerability. Refers to injection as 'pin'.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106217Z"
+}

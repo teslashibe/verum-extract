@@ -1,0 +1,62 @@
+{
+  "id": "1bdce339-287c-4243-923b-3d55682b80ba",
+  "source_id": "1fctk4s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fctk4s/tesa/",
+  "author_hash": "fd4788855fab4d8b62fe8102f0c989d5fed80d413b85dc28c73c0ffd98a3d1f2",
+  "confidence_tier": 4,
+  "date_published": "2024-09-09T09:23:52-07:00",
+  "reported_sex": "male",
+  "training_status": "lean",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Sermorelin/Ipamorelin stack noted to be effective for fat loss; found Sermorelin more effective than Tesamorelin",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Lean male. Used Sermorelin on its own, now uses it with Ipamorelin. Also cycles MOD GRF 1-29 to replace Sermorelin. Currently using 200mcg Sermorelin and 300mcg Ipamorelin daily. Found Sermorelin more effective than Tesamorelin for fat loss.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696288Z"
+}

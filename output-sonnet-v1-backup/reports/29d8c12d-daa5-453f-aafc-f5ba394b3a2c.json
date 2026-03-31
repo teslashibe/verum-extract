@@ -1,0 +1,38 @@
+{
+  "id": "29d8c12d-daa5-453f-aafc-f5ba394b3a2c",
+  "source_id": "1odic0l",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1odic0l/contemplating_daily_dosing_of_tirzepatide/",
+  "author_hash": "3838f3b49e81da82426eaf62a51589622c42137e3d75e24782fceb7d8ec8b1de",
+  "confidence_tier": 4,
+  "date_published": "2025-10-22T12:42:09-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 11,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Much better food noise control at 12mg; trend started back down after 2 weeks at 12mg",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Weight trend started downward again after increasing to 12mg; currently maintaining on 11mg",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Was stalling and even gaining at 10mg. Increased to 12mg for 2 weeks which was effective, then dropped to 11mg to maintain downward trend.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.267083Z"
+}

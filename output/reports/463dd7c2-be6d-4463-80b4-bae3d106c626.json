@@ -1,0 +1,35 @@
+{
+  "id": "463dd7c2-be6d-4463-80b4-bae3d106c626",
+  "source_id": "1qdrbpq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qdrbpq/messed_up_with_ghkcu/",
+  "author_hash": "bc439cc4cbe8e64638546162128d585c6226744d48cb585a94eb7d382cd97e12",
+  "confidence_tier": 5,
+  "date_published": "2026-01-15T10:20:43-08:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Pain at injection site",
+      "onset_days": 0
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "GI system not well",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "User experienced injection site pain and GI upset approximately 18 hours after injection.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.671077Z"
+}

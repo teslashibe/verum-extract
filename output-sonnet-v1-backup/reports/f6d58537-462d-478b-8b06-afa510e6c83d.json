@@ -1,0 +1,45 @@
+{
+  "id": "f6d58537-462d-478b-8b06-afa510e6c83d",
+  "source_id": "1ry993p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ry993p/need_help_assessing_what_to_take/",
+  "author_hash": "3e6a74a22e7272bb3f218dbe74526800300ae70e02f86be6db3ff057e7ca72ca",
+  "confidence_tier": 5,
+  "date_published": "2026-03-19T11:57:34-07:00",
+  "health_conditions": [
+    "low testosterone"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "Big difference in mood, performance, and energy levels",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Night and day difference in energy levels",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Testosterone",
+      "value_before": 340,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "User mentions they were around 340 testosterone and started TRT, reporting significant improvements. Also mentions enclo as an option to preserve fertility.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106505Z"
+}

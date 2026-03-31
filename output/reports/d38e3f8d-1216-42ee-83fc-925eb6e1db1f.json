@@ -1,0 +1,41 @@
+{
+  "id": "d38e3f8d-1216-42ee-83fc-925eb6e1db1f",
+  "source_id": "1kbrmnl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kbrmnl/ghkcu_cured_my_canker_sores/",
+  "author_hash": "87adca674bcadc6a24b54966aa390e0c79f7a5a8c4e0cbc734f07ca567bb625c",
+  "confidence_tier": 4,
+  "date_published": "2025-04-30T14:15:51-07:00",
+  "health_conditions": [
+    "canker sores (chronic)"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Canker sores resolved and no new canker sores formed over 4 months (January to late April)",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Life-changing improvement; previously suffered from canker sores approximately once per month lasting 7 days",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started January 2025. Stopped peptide during 10-day overseas vacation (days 9-10); canker sores reappeared, confirming causality.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.691723Z"
+}

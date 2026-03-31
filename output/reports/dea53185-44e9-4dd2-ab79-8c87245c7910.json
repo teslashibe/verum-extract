@@ -1,0 +1,77 @@
+{
+  "id": "dea53185-44e9-4dd2-ab79-8c87245c7910",
+  "source_id": "1pe6r9u",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pe6r9u/impossible_result/",
+  "author_hash": "7790207b6cb090add548003b4d0119b24238a46144941a3570f7b1f896d9c0fc",
+  "confidence_tier": 4,
+  "date_published": "2025-12-04T09:54:33-08:00",
+  "health_conditions": [
+    "golfer's elbow (tendonitis)",
+    "acne (TRT-related)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.33,
+      "dose_unit": "mg",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Golfer's elbow pain completely resolved after first dose",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "energy",
+      "description": "Woke up energized and full of energy",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "KLOW blend (BPC-157, TB-500, GHK-Cu, KPV) administered as 2mg total dose. Injected subcutaneously in love handles. User on TRT for a few months. Originally selected KLOW for acne control, not for elbow injury.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.67543Z"
+}

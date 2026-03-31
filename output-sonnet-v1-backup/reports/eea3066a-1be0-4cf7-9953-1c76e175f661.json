@@ -1,0 +1,38 @@
+{
+  "id": "eea3066a-1be0-4cf7-9953-1c76e175f661",
+  "source_id": "1mteslc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mteslc/struggling_with_sleeping_on_retra/",
+  "author_hash": "ff1c503f8734ea9f4e1070edeb3e835e6a2124248a259616861f2f4227485e53",
+  "confidence_tier": 4,
+  "date_published": "2025-08-17T23:55:44-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "magnesium glycinate",
+      "name_normalized": "magnesium_glycinate",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Horrific insomnia on the day of dosing and the day after tirzepatide injection",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Managed insomnia with magnesium glycinate; takes something stronger before important days post-dose.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.274965Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "dab2d0d0-faaa-4f85-96d5-5236f6da47e2",
+  "source_id": "1p3ly65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p3ly65/why_the_f_is_everyone_dosing_reta_so_high/",
+  "author_hash": "c81174ce3928d2ba7d4ab34de3d68a91b3ab4ef683d0822dca67ada2a5ec9bab",
+  "confidence_tier": 4,
+  "date_published": "2025-11-21T22:10:12-08:00",
+  "training_status": "active (resistance training during weight loss phase)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 84,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 35 lbs total over 3 months (2 months on reta); currently losing weight at 1mg dose",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Very noticeable hunger suppression at 1mg; maintains 2300-2400 cal/day average",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Gained good amount of muscle during weight loss phase; no muscle loss",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started at 0.5mg, increased to 0.75mg after 2 weeks, then to 1mg after 4 weeks, stayed at 1mg for 3 months. Also running test and tren (per commenter reference). Diet described as 'spot on'. Planning to increase dose again soon due to slightly reduced appetite suppression.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.393155Z"
+}

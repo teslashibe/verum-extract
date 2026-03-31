@@ -1,0 +1,63 @@
+{
+  "id": "4f624a7e-cd86-49c0-8566-1a88ba6fab1a",
+  "source_id": "1s3yfim",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3yfim/first_time_glp_user_tirzepatide_vs_retatrutide/",
+  "author_hash": "fcb01fd88b60dec2bfaebdc5cce324d4d8d5f429420001a6e8974738d2964d00",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T22:07:06-07:00",
+  "reported_weight": {
+    "value": 284,
+    "unit": "lbs"
+  },
+  "training_status": "lifting",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "cycle_length_days": 133,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 34 lbs over 19 weeks (from 284 to 250 lbs)",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Tirzepatide really suppresses hunger",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Very minimal nausea waves lasting about 10 minutes every once in a while",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Tirzepatide causes constipation",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_loss",
+      "description": "Unfortunately will lose muscle and strength; still recovering bench, lost 30 pounds on incline bench",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "19 weeks on tirzepatide at 6mg. Started at 284 lbs, currently 250 lbs. Slow titration approach: started on 2.5mg and stayed there for 7 weeks until food noise returned and no weight change on scale. Currently on TRT which changes muscle loss dynamics. Side effects minimal, mainly nausea waves. May need something to stimulate muscle growth to keep muscle mass while on tirzepatide. Notes need to eat protein.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.646682Z"
+}

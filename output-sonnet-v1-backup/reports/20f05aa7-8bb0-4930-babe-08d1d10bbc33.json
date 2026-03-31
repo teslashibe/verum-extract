@@ -1,0 +1,58 @@
+{
+  "id": "20f05aa7-8bb0-4930-babe-08d1d10bbc33",
+  "source_id": "1qs9xw2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qs9xw2/thoughts_on_peptides_to_stack_with_ret_and_trt/",
+  "author_hash": "6ce18c96860c317342c8c55ab3d1916164b6a215778a644d5310d6cd3b02408d",
+  "confidence_tier": 4,
+  "date_published": "2026-01-31T10:22:53-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "trt",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "hgh",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 3,
+      "dose_unit": "IU",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "mots-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 on 2 off",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite cut to at least half, probably 25% of normal, described as insanely awesome",
+      "severity": "significant",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "Only 2nd day on reta (2mg), HGH (3 IU), and Mots-C (2mg, 5 on 2 off) stack. Already experiencing dramatic appetite suppression.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.122592Z"
+}

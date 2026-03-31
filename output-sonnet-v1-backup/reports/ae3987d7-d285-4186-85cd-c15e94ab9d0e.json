@@ -1,0 +1,36 @@
+{
+  "id": "ae3987d7-d285-4186-85cd-c15e94ab9d0e",
+  "source_id": "172gfv0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/172gfv0/bpc157_has_removed_all_effects_psych_medication/",
+  "author_hash": "6b4a47f6e558ab579d02a2df818930babc69e3514384c841e309b676b208f90a",
+  "confidence_tier": 5,
+  "date_published": "2023-10-07T13:46:56-07:00",
+  "compounds": [
+    {
+      "name_raw": "bpc157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tb500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Extreme anxiety resulting in a severe panic attack, nearly called 911; no prior history of anxiety",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Unable to determine which compound (BPC-157 or TB-500) caused the anxiety/panic attack. Will never take again.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.296566Z"
+}

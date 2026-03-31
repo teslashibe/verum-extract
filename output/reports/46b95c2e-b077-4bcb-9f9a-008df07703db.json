@@ -1,0 +1,67 @@
+{
+  "id": "46b95c2e-b077-4bcb-9f9a-008df07703db",
+  "source_id": "1rkw6rk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rkw6rk/healing_blend/",
+  "author_hash": "005eddad8660eaf16ac6051259092046914e008b8a7140714fa78239dd848cb1",
+  "confidence_tier": 4,
+  "date_published": "2026-03-04T12:13:57-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Uses KLOW blend for injury healing protocol"
+    },
+    {
+      "category": "inflammation",
+      "description": "KPV and GHK-Cu anti-inflammatory effects for reducing aches and pains"
+    }
+  ],
+  "protocol_notes": "Uses both KLOW (80mg reconstituted with 2ml bac water, 10units/0.1ml daily) and Wolverine blend in combination. Mentions considering higher doses of BPC-157 for acute injury healing effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.668792Z"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "600078ba-6698-4f91-bbe2-0ad08cc786f9",
+  "source_id": "1qqwqer",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqwqer/reta_and_hgh/",
+  "author_hash": "b51a312d3e6fcf55db9629f26f2ee049ae38ea0f86f9c0e356a1249155935f79",
+  "confidence_tier": 4,
+  "date_published": "2026-01-29T21:28:31-08:00",
+  "reported_weight": {
+    "value": 200,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "every 10 days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "hgh",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost significant weight from 300lbs to 200lbs using Reta",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Lost all muscle along with fat loss",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Currently at maintenance dose of 1mg reta every 10 days. Lost 100lbs on Reta but also lost all muscle. Now wants to add test and HGH to bulk up. Asking about carpal tunnel issues from HGH.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123148Z"
+}

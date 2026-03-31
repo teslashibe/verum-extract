@@ -1,0 +1,55 @@
+{
+  "id": "4968e7fa-4531-42be-a848-7df7b5bfd900",
+  "source_id": "1pa5lyl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pa5lyl/opinions_on_my_current_stack/",
+  "author_hash": "a03e6b59a1d87b3b04cc0aa975c1472038b7e336efc82479733bfa603e62218e",
+  "confidence_tier": 4,
+  "date_published": "2025-11-29T17:28:00-08:00",
+  "training_status": "lifting five times a week, cardio six days a week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "once per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "once per week",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Losing weight while gaining muscle",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Gaining muscle despite caloric deficit from GLP agonists",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Good energy levels",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started with Tirzepatide 2.5mg/week, then added Retatrutide at half dose mid-week and titrated up slowly. This protocol reportedly helped break through a weight loss stall experienced on Tirzepatide alone. No side effects reported during the transition. Currently at 4mg Retatrutide per week after exhausting Tirzepatide supply.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.675885Z"
+}

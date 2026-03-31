@@ -1,0 +1,46 @@
+{
+  "id": "2c686af4-e49d-40d5-88ac-9e48b652079b",
+  "source_id": "1beywks",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1beywks/tb500_reversed_greying_of_my_hair/",
+  "author_hash": "34297a9cb8e7b8c6d65698dca15a9c3200f9ff351dc2f3859394405ef99ca7ec",
+  "confidence_tier": 4,
+  "date_published": "2024-03-14T16:04:49-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Used post-surgery",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Protocol: 5mg 2x/week for 1 week, then 2.5mg twice a week for 4 weeks. Reconstituted with 1.6ml bac water per 5mg. Describes TB-500 as thick and advises tracking mixture ratios and units carefully.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698431Z"
+}

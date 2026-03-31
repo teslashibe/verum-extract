@@ -1,0 +1,42 @@
+{
+  "id": "c57d9415-95ef-468a-89ec-8f75bc602220",
+  "source_id": "1qu69w2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qu69w2/should_i_up_my_dose_on_tirz_or_try_reta_instead/",
+  "author_hash": "f6302860713b5637d4b7b5fc77707377747bab96b8aa1cb2d3ccda8fb16044f3",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T12:15:28-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Overcame plateau after moving from lower dose to 10 mg Tirzepatide. Resumed weight loss after changing injection site to back of arm at 15 mg",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User experienced similar plateau on Tirzepatide as OP. Escalated dose to 10 mg, then hit another plateau and escalated to 15 mg. Changed injection site from unspecified location to back of arm at 15 mg dose and resumed weight loss.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.667856Z"
+}

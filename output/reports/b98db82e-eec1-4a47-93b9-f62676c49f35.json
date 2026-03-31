@@ -1,0 +1,48 @@
+{
+  "id": "b98db82e-eec1-4a47-93b9-f62676c49f35",
+  "source_id": "1rmijcn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmijcn/sermorelin_or_motsc/",
+  "author_hash": "a32cde8e44484ab66ddab95c5b29bdb75616a3cc24cc75651fc46d34d1b58ff1",
+  "confidence_tier": 4,
+  "date_published": "2026-03-06T08:24:57-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "training_status": "lifting weights with progressive overload 2-3x per week, cardio on other days",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Creatine",
+      "name_normalized": "creatine",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 60 lbs over 8 months, lost 4 inches on waist",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Gained 1/2 inch around biceps, can lift heavier than 8 months ago",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Taking Zepbound (brand name for tirzepatide). Currently on 10mg/week, holding off on increasing to highest dose. Insurance covers 90% of cost. Experiencing weight loss plateau in recent month.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.656134Z"
+}

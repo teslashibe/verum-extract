@@ -1,0 +1,47 @@
+{
+  "id": "fe96edb3-3a2f-4417-8a4a-1cf597bda987",
+  "source_id": "1r6cad0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6cad0/crazy_acne_first_week_on_ghkcu/",
+  "author_hash": "b343d891cd0e18731ae6096a93ff23426b6f81b1c6a84b9c039a2abf14971dec",
+  "confidence_tier": 4,
+  "date_published": "2026-02-16T07:17:06-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 5,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Zinc",
+      "name_normalized": "zinc",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 50,
+      "dose_unit": "ng",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Severe acne breakouts, worst since teenage years",
+      "severity": "significant",
+      "onset_days": 5
+    }
+  ],
+  "protocol_notes": "First cycle. User notes that acne purging is listed as a possible first-week effect. Taking zinc citrate 50ng daily concurrently.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.675717Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "e8f25764-dff8-4ede-8d9d-1eff905adc44",
+  "source_id": "1rdje5x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdje5x/overdose_of_ipamorelin_cjc1295/",
+  "author_hash": "74dc0b054107884520f37164452835c5148e62674f48138cea8e7feb31275059",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T07:33:53-08:00",
+  "reported_age_range": "25-29",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 600,
+      "dose_unit": "mcg",
+      "frequency": "once daily (morning)",
+      "cycle_length_days": 2,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC1295 no DAC",
+      "name_normalized": "cjc1295_no_dac",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 600,
+      "dose_unit": "mcg",
+      "frequency": "once daily (morning)",
+      "cycle_length_days": 2,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Previously observed skin changes within a week on prior supplier batch at 100mcg; no changes observed on current batch at 100mcg over 3 weeks",
+      "onset_days": 7
+    },
+    {
+      "category": "recovery",
+      "description": "Taking for recovery benefits"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Stomach growling an hour after injection at 600mcg dose, suggesting appetite/hunger response indicating compound activity",
+      "severity": "mild",
+      "onset_days": 2
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Used to experience flushing upon injection as indicator of activity; absent with current batch at 100mcg",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "OP had a previous positive experience with ipamorelin/CJC1295 no DAC at 100mcg daily for 2 months in 2022 at age ~24 from a different supplier. Current batch suspected to be low purity or degraded. Currently sitting on 8mg of ipam+CJC combined. Initially dosed 100mcg for 3 weeks with no effect, escalated to 600mcg for 2 days. Fasting protocol: no eating for 3 hours after morning injection, or 4 hours before bed if doing evening injection. Never did two injections in one day previously. Considering scaling back to 200mcg to use up remaining stock.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.115363Z"
+}

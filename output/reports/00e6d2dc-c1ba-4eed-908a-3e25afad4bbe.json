@@ -1,0 +1,33 @@
+{
+  "id": "00e6d2dc-c1ba-4eed-908a-3e25afad4bbe",
+  "source_id": "1rze52n",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rze52n/tesamorelin_dosage/",
+  "author_hash": "56a8bdd90fc349b219aa926a391fff229091d3543818cecfd3a55b93b80bdedc",
+  "confidence_tier": 5,
+  "date_published": "2026-03-20T18:08:27-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 33,
+      "dose_unit": "units",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Obtained from healthcare provider. Pre-mixed blend (Tesa/Ipa). Dose clarification disputed in comments (0.1mg vs 1mg Tesa per injection).",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.64919Z"
+}

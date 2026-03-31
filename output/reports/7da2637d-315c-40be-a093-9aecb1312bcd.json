@@ -1,0 +1,35 @@
+{
+  "id": "7da2637d-315c-40be-a093-9aecb1312bcd",
+  "source_id": "1r2afsa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2afsa/explain_to_me_like_im_5_years_old/",
+  "author_hash": "2f3d78dc3dbc4f0f7b33fe6822de42d4cec6881447f7846f3a49d1af4caed855",
+  "confidence_tier": 4,
+  "date_published": "2026-02-11T13:36:50-08:00",
+  "reported_age_range": "50-59",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GH secretagogues",
+      "name_normalized": "gh_secretagogues",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 140,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User is older and self-identifies as possible under-responder. Ran GH secretagogues concurrent with 6 IU real HGH for 20 weeks. States that outside of GLP-1s, peptides are subtle in effects and less important than sleep, training, and nutrition. Notes that TRT doses of testosterone have more undeniable results compared to peptides for body composition and muscle growth.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.664737Z"
+}

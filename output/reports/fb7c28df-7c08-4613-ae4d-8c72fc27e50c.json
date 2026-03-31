@@ -1,0 +1,35 @@
+{
+  "id": "fb7c28df-7c08-4613-ae4d-8c72fc27e50c",
+  "source_id": "1s7f48b",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s7f48b/is_my_reta_dosage_too_high/",
+  "author_hash": "44a6146b4867840c82e8b19229cd64c11af1c9297fe50aae8f60b76e3f4353c5",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T20:04:11-07:00",
+  "training_status": "active training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 12,
+      "dose_unit": "mg",
+      "frequency": "every 6 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Effective for weight loss when paired with proper diet and training",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User currently takes 12mg every 6 days and plans to increase to 15mg soon. Mentions clinical trial protocols titrate up every 4 weeks, reaching 9mg at 18 weeks and 12mg at 20 weeks. User manages side effects and maintains macros and workout goals.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.655788Z"
+}

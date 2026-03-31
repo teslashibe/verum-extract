@@ -1,0 +1,53 @@
+{
+  "id": "ed21ced9-e122-4f5c-9025-b048285b11c5",
+  "source_id": "1rb2yq1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rb2yq1/does_reta_dosing_depend_on_weight/",
+  "author_hash": "cdc9bcaccfe04c8ca2d9a37e0c5047b02d86f099952b5cb71bfbb4770ccc0332",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T13:24:38-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 365,
+    "unit": "lbs"
+  },
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "66lbs weight loss with only 7lb muscle loss based on body scan",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "couldn't eat for a few days at 0.5mg",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "nausea",
+      "description": "nauseous until body adjusted at 1mg dose",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "6'5\", titrated from 0.5mg to 1mg to 6mg weekly based on tolerance. Recommendation to start low and titrate up gradually.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.673815Z"
+}

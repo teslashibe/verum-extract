@@ -1,0 +1,45 @@
+{
+  "id": "ec6869c8-a062-413f-ac0d-83763953b275",
+  "source_id": "1o9amaz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o9amaz/my_father_has_been_in_pain_for_the_past_15_years/",
+  "author_hash": "888d21294971b545e87093110a9a918c4cf6c5edde1c23df9bb7fee4c65649dc",
+  "confidence_tier": 4,
+  "date_published": "2025-10-17T12:23:32-07:00",
+  "health_conditions": [
+    "gastrointestinal/hemorrhoid flares",
+    "fistulas",
+    "abscesses",
+    "sepsis"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BOX157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Seemed to work for some shoulder and hand issues",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Gastrointestinal/hemorrhoid flares, fistulas, abscesses, sepsis; required 9 hospitalizations for surgeries/procedures since June; still healing",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "User suspects BPC-157 (referred to as BOX157, likely a typo) may have contributed to angiogenesis triggering existing GI condition. Flares possibly triggered by alcohol. Awaiting surgery to remove affected tissue.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.267732Z"
+}

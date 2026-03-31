@@ -1,0 +1,141 @@
+{
+  "id": "c12d6f9f-88e6-4bc0-9afa-b29264fd8b2e",
+  "source_id": "1p7k8iq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p7k8iq/before_and_after_on_retatrutide_no_trt/",
+  "author_hash": "f4e76208f217d7fb6ce06eb9fbb172452b0577e076531abe315d5681f1cb6bd7",
+  "confidence_tier": 3,
+  "date_published": "2025-11-26T13:35:01-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 67,
+    "unit": "kg"
+  },
+  "training_status": "recreational, 3x/week lifting + 1-2x/week cardio",
+  "health_conditions": [
+    "unrelated medical issue (unspecified)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "SLU-PP-332",
+      "name_normalized": "slu_pp_332",
+      "category": "body_composition",
+      "frequency": "intermittent (a few times, then stopped)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC DAC",
+      "name_normalized": "cjc_1295_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 3,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 6.5 kg over ~11 weeks; body fat dropped from 24.2% to 18.4% (5.8% reduction); waist reduced from 30 to 28 inches; visible abs beginning to show; face noticeably leaner; visceral fat very low on multiple scans",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Strong appetite suppression inferred from low caloric intake (~1200 kcal/day); previously noted tirz at 7.5mg had strong appetite effect",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "dizziness",
+      "description": "Light headedness",
+      "severity": "mild"
+    },
+    {
+      "category": "other",
+      "description": "Bowel movements not so good but tolerable",
+      "severity": "mild"
+    },
+    {
+      "category": "other",
+      "description": "Strength decrease noted: bench press from 65 kg down to 60 kg",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Body Weight",
+      "value_before": 67,
+      "value_after": 60.5,
+      "unit": "kg",
+      "timeframe_days": 75
+    },
+    {
+      "marker_name": "Muscle Mass (InBody)",
+      "value_before": 28.7,
+      "value_after": 27.9,
+      "unit": "kg",
+      "timeframe_days": 75
+    },
+    {
+      "marker_name": "Body Fat Percentage (InBody)",
+      "value_before": 24.2,
+      "value_after": 18.4,
+      "unit": "%",
+      "timeframe_days": 75
+    }
+  ],
+  "protocol_notes": "Prior history on Tirzepatide reducing weight from 74 kg to 68 kg before starting Retatrutide. Retatrutide dose titrated: 2 mg for 4 weeks, 2.5 mg for 4 weeks, then 5 mg (ongoing at time of post). Body fat loss accelerated at 5 mg after stalling at 2.5 mg. Also supplemented with Creatine, natural testosterone boosters, D3K2, and sleep supplements. CJC DAC stopped after 2 weeks (lost vial). Tesamorelin stopped after 3 days due to needle aversion. SLU-PP-332 stopped due to unrelated medication. InBody machines differed between before and after measurements. No TRT used. Diet averaged ~80g protein/day (target was 120g) and ~1200 kcal/day of lean meats, rice, and fruits.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.263083Z"
+}

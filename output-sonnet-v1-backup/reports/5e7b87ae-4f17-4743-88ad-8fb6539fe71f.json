@@ -1,0 +1,43 @@
+{
+  "id": "5e7b87ae-4f17-4743-88ad-8fb6539fe71f",
+  "source_id": "1f1lxlv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1f1lxlv/maxed_on_tirz_add_reta/",
+  "author_hash": "d0cd6918e8ac44d9765508a7b099792abc26e171f29dda83876bd17bbc56592e",
+  "confidence_tier": 4,
+  "date_published": "2024-08-26T04:33:14-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Combination of Reta and Tirz seems to be working after Tirz alone did nothing"
+    }
+  ],
+  "protocol_notes": "Tirz alone had no effect. Now stacking 6mg/week Reta with 2mg/week Tirz spaced out throughout the week.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.291793Z"
+}

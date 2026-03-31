@@ -1,0 +1,75 @@
+{
+  "id": "806c69dc-8c99-49ab-a871-6a188c57066e",
+  "source_id": "1rx1kuz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx1kuz/what_are_muscle_growth_peptides_with_least_side/",
+  "author_hash": "a13f3997e3e7845ff2af404a0058e8e163138d7cfa2f16a1715ced6edfce71de",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T04:42:58-07:00",
+  "reported_sex": "male",
+  "training_status": "active, resistance training with structured diet",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "mots c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily pre workout",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF 1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "mcg",
+      "frequency": "pre workout, site injected per site",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Noticeably bigger, put on size on arms, quads, and chest. Received comments suggesting steroid use.",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Waist measurement shrank while gaining muscle size.",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "total testosterone",
+      "value_before": 750,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "User refers to themselves as 'lab rat'. Not on TRT. Natural testosterone ~750 total. Diet: 200+ grams protein, 250-400 grams carbs daily. IGF-1 LR3 site injected into chest or arms (left and right). Intra-workout quick digesting carbs used to manage blood sugar due to IGF-1 insulin interaction.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106959Z"
+}

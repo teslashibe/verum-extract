@@ -1,0 +1,82 @@
+{
+  "id": "f56f4d62-1117-4927-a7ed-1b787a311d4e",
+  "source_id": "10umccs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/10umccs/bpc157_and_tb500_cured_my_chronic_pain_success/",
+  "author_hash": "cbabc79e0e77c38936899ded44e78811e60dfe566cacd9016b94c3eae534d609",
+  "confidence_tier": 4,
+  "date_published": "2023-02-05T12:20:10-08:00",
+  "reported_age_range": "30-39",
+  "training_status": "weight training for 8 months, fit, strong",
+  "health_conditions": [
+    "widespread tendonosis",
+    "high hamstring tendonosis",
+    "elbow pain",
+    "ankle weakness",
+    "old knee injury"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "2-3x daily",
+      "cycle_length_days": 900,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "1x daily in morning",
+      "cycle_length_days": 900,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Tendonosis healed throughout body, high hamstring tendonosis resolved, elbow pain resolved, ankle strengthened, knee injury improved",
+      "severity": "significant",
+      "onset_days": 165
+    },
+    {
+      "category": "pain_relief",
+      "description": "Hip and hamstring pain completely resolved, can sleep in any position, no pain with sitting, standing, or sexual activity",
+      "severity": "significant",
+      "onset_days": 55
+    },
+    {
+      "category": "recovery",
+      "description": "Able to weight train, do pull-ups, weighted squats, run",
+      "severity": "significant",
+      "onset_days": 120
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Ravenous appetite from BPC-157, required intermittent fasting",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "anxiety",
+      "description": "TB-500 worsened anxiety and caused nightmares, spikes cortisol",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Used approximately 7 vials of BPC-157 and 5 vials of TB-500 over ~10 months (March 2022 - December 2022). Each vial was 10mg. Used every other month after initial daily protocol. Mixed injection approach: sometimes local injections near injured areas, sometimes subcutaneous in belly fat. Vendor: Canlabs.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.701777Z"
+}

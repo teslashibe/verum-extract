@@ -1,0 +1,48 @@
+{
+  "id": "ce305622-fb00-49d1-980f-7d5db88134f6",
+  "source_id": "1s3yfim",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3yfim/first_time_glp_user_tirzepatide_vs_retatrutide/",
+  "author_hash": "71ad7af6a5365180ab76119823c77ffee39c92cd0b04de7aff2972f29eeb98b9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T22:07:06-07:00",
+  "training_status": "lifting",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Tirzepatide provided strongest appetite suppression with no food noise, would forget meals",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Retatrutide appears more effective for continued fat burn despite higher food noise, keeps fat burn going past typical plateaus",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Currently on keto and fasting with Retatrutide. Tirzepatide had effortless appetite suppression. Retatrutide requires discipline but breaks through weight loss plateaus.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.657803Z"
+}

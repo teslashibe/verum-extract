@@ -1,0 +1,40 @@
+{
+  "id": "fbdb7e0b-1e93-4881-9028-2d92d1fe79fc",
+  "source_id": "1k7us7w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k7us7w/hgh_side_effects/",
+  "author_hash": "c7a24b0ca794fbd074d122134bc02097014022d0cdd55d68c55230ec1c1e6f71",
+  "confidence_tier": 5,
+  "date_published": "2025-04-25T13:18:42-07:00",
+  "health_conditions": [
+    "anxiety"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "multiple peptides (unspecified)",
+      "name_normalized": "multiple_peptides_unspecified",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "anxiety",
+      "description": "Similar response when starting any new peptide; manifests as physical anxiety symptoms: feeling/hearing heartbeat, chest tightness, jaw tightness, general overstimulation",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Recently started GH. Uses breathing exercises (box breathing, physiological sigh) and Lavela (lavender) supplementation to manage anxiety symptoms.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.692011Z"
+}

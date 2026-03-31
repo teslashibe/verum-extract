@@ -1,0 +1,43 @@
+{
+  "id": "c40b3149-6151-40b9-abdf-3fea4f20abac",
+  "source_id": "1s4j9xn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4j9xn/ipacjc_timing/",
+  "author_hash": "fab066ff3f1217c533e46fa637236b200513f27c6cb4321fd811f977ecddaa75",
+  "confidence_tier": 5,
+  "date_published": "2026-03-26T13:42:32-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "mots",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC+IPA",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "before sleep",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Reta reduces dinner intake; eats less around 6pm, then injects CJC/IPA stack right before sleep between 9-10pm"
+    }
+  ],
+  "protocol_notes": "Stacks CJC+IPA with MOTS-c and Retatrutide. Dinner around 6pm, bedtime 9-10pm, injects right before sleep to maintain fasted window of ~3-4 hours.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104057Z"
+}

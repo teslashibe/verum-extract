@@ -1,0 +1,72 @@
+{
+  "id": "6cf7b952-137d-4c97-81f6-420d25dd56c8",
+  "source_id": "1c37s5x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1c37s5x/considering_tesamorelin_ipamorelin_cjc_1295_stack/",
+  "author_hash": "cb08834ac7d5e7d4fed6098f7306cb9712c798671e15a17af8f72f3c8e25dd14",
+  "confidence_tier": 4,
+  "date_published": "2024-04-13T10:54:16-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 120,
+      "dose_unit": "mcg",
+      "frequency": "5 days per week",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 120,
+      "dose_unit": "mcg",
+      "frequency": "5 days per week",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 240,
+      "dose_unit": "mcg",
+      "frequency": "5 days per week",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost a total of 50 pounds",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Added a ton of muscle",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body weight",
+      "value_after": -50,
+      "unit": "lbs"
+    }
+  ],
+  "protocol_notes": "Total stack dose: 480 mcg (240 CJC-1295/120 Ipamorelin/120 Tesamorelin). Used 5 out of 7 days for 6-8 weeks at a time. Also using Tirzepatide in combination.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.415663Z"
+}

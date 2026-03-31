@@ -1,0 +1,67 @@
+{
+  "id": "55fd4ddf-06f5-47a4-ab28-5cf5f9740394",
+  "source_id": "1cuzs61",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1cuzs61/a_cautionary_tale_how_weight_loss_affected_my/",
+  "author_hash": "4cd291e4a6d5b015024912f20376618b65c5d4fa1b9381f066954d2f0e0cc5b0",
+  "confidence_tier": 4,
+  "date_published": "2024-05-18T08:27:15-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 223,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "high blood pressure",
+    "hypertension on medication"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Incredible for reducing food cravings",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost from 260 lbs to 223 lbs over two months, goal weight 190 lbs",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "dizziness",
+      "description": "Brief episodes of lightheadedness and dizziness when standing up quickly; blood pressure dropped to around 105/60",
+      "severity": "moderate",
+      "onset_days": 30,
+      "resolved": true
+    },
+    {
+      "category": "blood_pressure",
+      "description": "Blood pressure dropped to approximately 105/60 (low diastolic of 60), required reducing blood pressure medication to half or quarter dose to find balance",
+      "severity": "moderate",
+      "onset_days": 30,
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Blood Pressure",
+      "unit": "mmHg"
+    }
+  ],
+  "protocol_notes": "46-year-old male, 5'9\", starting weight 260 lbs, current weight 223 lbs, goal 190 lbs. On long-term blood pressure medication. After weight loss on Tirzepatide, BP medication became too strong and dose had to be reduced. Warns others on antihypertensive meds to monitor BP closely during weight loss.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.293158Z"
+}

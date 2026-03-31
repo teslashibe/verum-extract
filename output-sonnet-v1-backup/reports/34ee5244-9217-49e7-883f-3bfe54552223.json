@@ -1,0 +1,117 @@
+{
+  "id": "34ee5244-9217-49e7-883f-3bfe54552223",
+  "source_id": "1qqnksq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqnksq/please_review_stack/",
+  "author_hash": "ee6de67982c6da980cb0a6df2a03b84511bbd3e3ce4ac3b456704d7d4aefafd0",
+  "confidence_tier": 4,
+  "date_published": "2026-01-29T14:41:57-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "training_status": "Weight lifting 4x/week, yoga 3x/week",
+  "health_conditions": [
+    "post-menopausal",
+    "on HRT (estrogen patch + progesterone)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "cycle_length_days": 20,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 2000,
+      "dose_unit": "mcg",
+      "frequency": "3x weekly AM",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 30,
+      "dose_unit": "mg",
+      "frequency": "twice weekly AM",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1665,
+      "dose_unit": "mcg",
+      "frequency": "5x weekly nightly",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "weekly (Monday AM)",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295 (NO DAC)",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "nightly fasted",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "nightly fasted",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Skin feels like it did in her 30s and keeps getting better",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Bad lingering ankle sprain improved 75% after one vial of BPC-157",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "Started approximately 3 weeks ago and tweaking/adding along the way. Perfect lab results as of 2 weeks ago. BPC-157 pinned locally at ankle site for sprain. Awaiting IGF-1 results. Plans to add TB4/TB500 and KPV to stack in future. Prefers individual compounds over combos (except CJC/IPA) to better isolate side effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123284Z"
+}

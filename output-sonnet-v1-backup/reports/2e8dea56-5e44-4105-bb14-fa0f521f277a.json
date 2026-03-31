@@ -1,0 +1,43 @@
+{
+  "id": "2e8dea56-5e44-4105-bb14-fa0f521f277a",
+  "source_id": "1rvp24a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvp24a/ss31_fatigue_and_brain_fog_and_mitigation/",
+  "author_hash": "08bf3ef8a39bcf3744b43c15b76edd4a5d2de8a31e5e014386f29d06f43d249c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T15:50:02-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "First week was rough with fatigue similar to OP",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Brain fog in first week",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Mitigated side effects by dropping back to 2-3mg for a few days and then working back up more slowly. Recommends dropping to 3mg for a week and adding 1mg per week. Notes that quick taper up to 6mg is aggressive.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.10763Z"
+}

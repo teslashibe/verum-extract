@@ -1,0 +1,35 @@
+{
+  "id": "ed978bf5-4303-4bc4-8d23-488cdef75b46",
+  "source_id": "1rx2u70",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx2u70/is_ss31_a_must_before_starting_motsc/",
+  "author_hash": "ff1c503f8734ea9f4e1070edeb3e835e6a2124248a259616861f2f4227485e53",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T05:42:53-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Benefits diminished after the second cycle",
+      "severity": "moderate",
+      "resolution_days": 240
+    }
+  ],
+  "protocol_notes": "Ran 10mg SS-31 daily for 6 week cycles. Second cycle 8 months later showed diminished benefits.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.661861Z"
+}

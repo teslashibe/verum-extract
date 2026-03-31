@@ -1,0 +1,41 @@
+{
+  "id": "02e4a352-9d64-48ac-b4dd-3db6f26c6141",
+  "source_id": "1rzsjr1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzsjr1/peptide_blends/",
+  "author_hash": "309cefc041004980828db5f54539c6c1a3c237540d4e8fe3f5b33de1a85a0678",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T07:14:52-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Used BPC-157, TB-500, and GHK-Cu individually and together as Klow blend. Takes max dose daily for primary compounds and adds extra TB-500 twice weekly. Requires 4 injections when doing individually vs 1 when using Klow blend.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660315Z"
+}

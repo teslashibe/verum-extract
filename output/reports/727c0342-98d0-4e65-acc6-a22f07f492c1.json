@@ -1,0 +1,48 @@
+{
+  "id": "727c0342-98d0-4e65-acc6-a22f07f492c1",
+  "source_id": "1rb5vbn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rb5vbn/cjcno_dacipam_scary_effects_normal/",
+  "author_hash": "712d1cf60f6a61658851bc2d35224a23a85bd9aed5686d156f940db07b49dc10",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T15:25:23-08:00",
+  "health_conditions": [
+    "hypochondriasis"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Stinging at injection site is really bad",
+      "severity": "moderate",
+      "onset_days": 0
+    },
+    {
+      "category": "flushing",
+      "description": "Flushing occurs",
+      "severity": "mild",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "User notes that stinging and flushing are normal. Suggests that anxiety/hypochondria may amplify perception of side effects and increase blood pressure.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.673626Z"
+}

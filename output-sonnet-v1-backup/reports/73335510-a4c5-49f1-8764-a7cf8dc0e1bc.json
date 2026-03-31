@@ -1,0 +1,157 @@
+{
+  "id": "73335510-a4c5-49f1-8764-a7cf8dc0e1bc",
+  "source_id": "nkj7jq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/nkj7jq/peptides_for_cognition/",
+  "author_hash": "1dba18fc0ce08426c19d8fed89f23ce8049f110f219b560bc4a91c3a5719455b",
+  "confidence_tier": 4,
+  "date_published": "2021-05-24T23:43:17-07:00",
+  "training_status": "active (mentions pre-workout dosing)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC nasal",
+      "name_normalized": "bpc_nasal",
+      "category": "other",
+      "route": "nasal",
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC1295 dac",
+      "name_normalized": "cjc_1295_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "once a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "dose_unit": "IU",
+      "frequency": "per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH frag",
+      "name_normalized": "hgh_frag",
+      "category": "other",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "2 to 3 times per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-CU facial spray",
+      "name_normalized": "ghk_cu_facial_spray",
+      "category": "other",
+      "route": "topical",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-CU injection",
+      "name_normalized": "ghk_cu_injections",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "PT141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "oxytocin",
+      "name_normalized": "oxytocin",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ara-290",
+      "name_normalized": "ara_290",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "PT141 works as expected"
+    },
+    {
+      "category": "cognitive",
+      "description": "Semax reported to work"
+    },
+    {
+      "category": "other",
+      "description": "HGH frag - user notices a difference, though some don't",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "TB500 causes full-blown flu-like symptoms; rare reaction",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Selank - no noticeable results"
+    },
+    {
+      "category": "other",
+      "description": "Oxytocin - no results"
+    }
+  ],
+  "protocol_notes": "User makes their own GHK-Cu facial spray. Has ordered ARA-290 from a Chinese manufacturer, awaiting delivery. Planning to also try Cerebrolysin. BPC dose ranges 1-2mg. HCG 1000-1500 IU per week. Ipamorelin previously dosed more frequently, now down to once a week.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.430112Z"
+}

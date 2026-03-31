@@ -1,0 +1,32 @@
+{
+  "id": "aa0c229a-295a-4b98-9d48-dac327ac8fb4",
+  "source_id": "16riop4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16riop4/how_do_you_organizeprep_your_stacks/",
+  "author_hash": "ebe89011d3c9c369dd4247b294165e54dd0b52e7b77028ae9efe044bb80ddad6",
+  "confidence_tier": 4,
+  "date_published": "2023-09-24T21:45:00-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GLP1s",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "morning and night",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "GLP-1 peptides turned cloudy when mixed with other peptides in the same syringe, presumably due to longer chains being more complex/delicate",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Takes 5-6 peptides per injection, morning and night, drawing from each relevant vial into one insulin syringe. Keeps GLP-1s in a separate syringe due to cloudiness when mixed. Does not pre-fill syringes for longer than a day or two for safety/hygiene reasons.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.296824Z"
+}

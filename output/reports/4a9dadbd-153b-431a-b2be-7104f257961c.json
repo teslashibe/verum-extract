@@ -1,0 +1,70 @@
+{
+  "id": "4a9dadbd-153b-431a-b2be-7104f257961c",
+  "source_id": "1ikftl8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ikftl8/thank_god_for_whoever_invented_tb500_and_bpc157/",
+  "author_hash": "853f2f6951ecdf8660b8c3476861951850f39aeace7b84f97c94d34a41cbb265",
+  "confidence_tier": 4,
+  "date_published": "2025-02-07T21:16:07-08:00",
+  "health_conditions": [
+    "shoulder pain",
+    "back pain"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "1-2x daily",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "frequency": "1-2x daily",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Constant all-day and nighttime pain nearly eliminated within 2 weeks",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "energy",
+      "description": "Higher energy levels noticed",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "sleep",
+      "description": "Better sleep quality",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Accidentally hit a nerve or vein once or twice during injection",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "12-week cycle starting at low dose, gradually building up. 1-month break after cycle completion. Injecting closer to injury site for better results. Using 23-gauge needle for injection and 18-gauge for drawing from vials. Forgot to use for 5 days during the 2-week period with reported benefits. Attempted to mix both compounds in same syringe but liquid from first vial was sucked into second vial, so uses separate injections instead.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.411387Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "113db276-7f83-4205-aabd-d3f579e71b90",
+  "source_id": "1pcdlz2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pcdlz2/peptide_with_low_weekly_injections/",
+  "author_hash": "50064956b5d84d24a98f727796341662d435b7e6898732ea11b0ffd254d0b2c0",
+  "confidence_tier": 4,
+  "date_published": "2025-12-02T08:53:04-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User stacks TB-500 and MOTS-c for twice weekly injections",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.391937Z"
+}

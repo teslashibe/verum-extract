@@ -1,0 +1,57 @@
+{
+  "id": "60171e19-2d70-4156-afc9-7f6da4edfd3e",
+  "source_id": "1r425h1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r425h1/cjc1295pamorelin_rapid_heart_rate/",
+  "author_hash": "cdff369f460fb8b9ea5ae66c1bfa56d06584b860880480eaaed56813b5b4989f",
+  "confidence_tier": 4,
+  "date_published": "2026-02-13T13:45:21-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "very good shape",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Hoping for better sleep"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Muscle fullness"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "Elevated heart rate lasting for hours, unable to sleep",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Blend of CJC-1295 and Ipamorelin. Dose adjusted by doctor to tolerance-building schedule: Week 2: 50mcg 2 days (Tues/Thur), Week 3: 50mcg 3 days (Mon/Wed/Fri), Week 4: 50mcg 5 days on 2 days off, Week 5: 100mcg 5 days on 2 days off. Taken 2 hours after last meal at night.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.663975Z"
+}

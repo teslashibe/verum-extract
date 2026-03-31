@@ -1,0 +1,59 @@
+{
+  "compound_id": "grey_tirzepatide",
+  "display_name": "grey tirzepatide",
+  "category": "other",
+  "total_reports": 6,
+  "reports_by_tier": {
+    "4": 1,
+    "5": 5
+  },
+  "top_benefits": [
+    {
+      "category": "fat_loss",
+      "count": 1,
+      "pct": 100
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "other",
+      "count": 2,
+      "pct": 200,
+      "avg_severity": 2
+    },
+    {
+      "category": "injection_site",
+      "count": 1,
+      "pct": 100,
+      "avg_severity": 2
+    }
+  ],
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "pharma_mounjaro",
+      "display_name": "pharma mounjaro",
+      "report_count": 1
+    },
+    {
+      "compound_id": "pharmaceutical_mounjaro",
+      "display_name": "pharmaceutical Mounjaro",
+      "report_count": 1
+    },
+    {
+      "compound_id": "tirzepatide",
+      "display_name": "mounjaro",
+      "report_count": 1
+    }
+  ],
+  "avg_cycle_length_days": 75,
+  "avg_sentiment_score": 0.75,
+  "sentiment_breakdown": {
+    "positive": 3,
+    "mixed": 3,
+    "negative": 0,
+    "neutral": 0
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.966415Z"
+}

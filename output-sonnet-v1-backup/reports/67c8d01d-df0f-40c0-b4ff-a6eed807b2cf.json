@@ -1,0 +1,72 @@
+{
+  "id": "67c8d01d-df0f-40c0-b4ff-a6eed807b2cf",
+  "source_id": "1rfjcnn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rfjcnn/looking_for_general_experiences_with_retatrutide/",
+  "author_hash": "ba3459cae6945c337604725283e14c07b53681edfd9feccd662fb159755c10ed",
+  "confidence_tier": 4,
+  "date_published": "2026-02-26T11:12:17-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 235,
+    "unit": "lbs"
+  },
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Noticed appetite suppression at 2mg; eats half as much as before, no food noise, no constant chasing highs, no sugar rushes or binging",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "fat_loss",
+      "description": "Down 20 pounds in 6 weeks",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Dopamine-chasing in general is down, which has helped regulate emotions better",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Feels full all the time; food moves slower; pooping takes much longer",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Burping is a consistent side effect; at too high a dose, burps feel like heartburn with possible vomiting",
+      "severity": "moderate"
+    },
+    {
+      "category": "libido_change",
+      "description": "Libido is down; less interested in sex",
+      "severity": "moderate"
+    },
+    {
+      "category": "nausea",
+      "description": "Cannot drink alcohol without feeling awful all day with stomach-aches and low energy",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started at 0.5mg x2 for first two doses (1mg/week), then increased to 2mg, then 3mg by week 6. Notes that Reta has effects lasting about 5 days for him. Emphasizes importance of high protein intake (~200g for his size).",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114588Z"
+}

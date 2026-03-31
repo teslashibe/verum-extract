@@ -1,0 +1,50 @@
+{
+  "id": "276f8509-f412-4663-89a1-86a5ae4ba02f",
+  "source_id": "1qu28vg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qu28vg/have_you_found_hgh_to_reduce_fat_loss_by/",
+  "author_hash": "f7bb46d6fbd23952227e014d57a8e7eb5711002da4dd421b66030d3ceac26a92",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T09:55:20-08:00",
+  "training_status": "active (dieting and training)",
+  "health_conditions": [
+    "gynecomastia"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "microdose (unspecified)",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Expecting fat loss from HGH but water retention is masking results"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Significant water retention from microdose HGH despite being in caloric deficit. Water retention seems to prevent visible fat loss results despite continued caloric deficit.",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "User is on caloric deficit and refeeds. Currently using HGH on and off for approximately one month. Tried mitigation strategies: 3g potassium daily, 5g taurine daily, dandelion root (caused skin dryness). Also tried 5g salt per day in 4 liters of water which caused temporary bloating (~1 week). Does not use creatine due to similar water retention issues. Considering every-other-day dosing to manage water retention between doses. Mentions gynecomastia as separate condition. Does not use glucosamine for same reason (water retention).",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.667929Z"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "e4fc10a6-7192-4b1b-983d-c054e2d8f793",
+  "source_id": "1rlo5yi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rlo5yi/tesa_ipa_vs_cjc_ipa/",
+  "author_hash": "f4ab4828098df038abfcb4d7ce3fc0c1362317ee5dbdd1e62b26f0fd51eff7e4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T09:45:30-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "cjc(no dac)",
+      "name_normalized": "cjc_no_dac",
+      "category": "other",
+      "route": "subcutaneous",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Heavy heart beat / elevated awareness of heartbeat within 5 minutes post injection of CJC, lasting about 20-30 minutes",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Joint pain experienced approximately 2 weeks into the tesa cycle, considered an indicator of increased GH secretion",
+      "severity": "mild",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "Completed a sequential protocol: 3 months tesa/ipa followed by 3 months cjc(no dac)/ipa. Personally prefers the tesa blend. Notes that CJC did not produce joint pain despite also increasing GH secretion, which they found curious.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.11197Z"
+}

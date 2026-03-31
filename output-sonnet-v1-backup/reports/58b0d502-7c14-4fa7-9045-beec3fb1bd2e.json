@@ -1,0 +1,37 @@
+{
+  "id": "58b0d502-7c14-4fa7-9045-beec3fb1bd2e",
+  "source_id": "1ryks9i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ryks9i/isr_from_peptide_stack/",
+  "author_hash": "4a1b1316a6a7d86d313cfd9ffae5e6db2544f5dcc1b43a274ec17f4d9c419204",
+  "confidence_tier": 5,
+  "date_published": "2026-03-19T19:55:01-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Histamine reaction from pinning multiple peptides; Reta causes ISR starting around week 4, every time; Tesa makes it worse",
+      "severity": "moderate",
+      "onset_days": 28
+    }
+  ],
+  "protocol_notes": "Commenter notes histamine reaction is common when pinning multiple peptides. Reta ISR onset at week 4 for them.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106389Z"
+}

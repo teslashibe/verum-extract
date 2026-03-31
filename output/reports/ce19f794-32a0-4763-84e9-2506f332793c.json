@@ -1,0 +1,47 @@
+{
+  "id": "ce19f794-32a0-4763-84e9-2506f332793c",
+  "source_id": "1p1cow4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p1cow4/tesamorelin/",
+  "author_hash": "cb08a026c5aeb633c3d857fe4c8e4151705be1bc86c046b80eb153b43f1de4d1",
+  "confidence_tier": 4,
+  "date_published": "2025-11-19T08:43:40-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "evening, Saturday-Thursday",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 730,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "waist and stomach area noticeably smaller",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Pre-mixed Tesa/IPA blend. Tirzepatide used for approximately 2 years prior to adding Tesa/IPA. About 1 month into Tesa/IPA protocol at time of report.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.393226Z"
+}

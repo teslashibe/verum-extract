@@ -1,0 +1,43 @@
+{
+  "id": "1716425f-d1a7-456d-bafa-6e3a22ef8c19",
+  "source_id": "1rqir2m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rqir2m/hands_swelling_means_good_hgh/",
+  "author_hash": "6ce18c96860c317342c8c55ab3d1916164b6a215778a644d5310d6cd3b02408d",
+  "confidence_tier": 5,
+  "date_published": "2026-03-10T20:24:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Retatrutide zaps most hunger, making hunger-based HGH indicators unreliable"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Retatrutide messes with sleep"
+    },
+    {
+      "category": "fatigue",
+      "description": "Always groggy in the morning"
+    }
+  ],
+  "protocol_notes": "Not experiencing typical HGH side effects (hand swelling, hunger, deep sleep) due to confounding effects of retatrutide. Uncertain if HGH is bunk, underdosed, or effects masked by retatrutide.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109852Z"
+}

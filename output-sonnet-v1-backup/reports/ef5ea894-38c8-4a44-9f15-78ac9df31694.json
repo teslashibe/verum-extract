@@ -1,0 +1,46 @@
+{
+  "id": "ef5ea894-38c8-4a44-9f15-78ac9df31694",
+  "source_id": "1refvpq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1refvpq/hgh_and_test/",
+  "author_hash": "4b3743c4c749b08c22c7c1c81afdf23261fafa802c302e3f94f2ecae09bf3b34",
+  "confidence_tier": 4,
+  "date_published": "2026-02-25T07:13:45-08:00",
+  "health_conditions": [
+    "high blood pressure"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Heart flutter from HGH",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "blood_pressure",
+      "description": "BP rose to the point of feeling sick on HGH; already had higher BP on test (non-TRT doses)",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Was not using TRT doses of test. Stopped HGH due to heart flutter and BP rise. Advises dialing in TRT before adding HGH.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114804Z"
+}

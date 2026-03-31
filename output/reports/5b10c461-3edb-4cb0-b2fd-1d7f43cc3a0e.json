@@ -1,0 +1,78 @@
+{
+  "id": "5b10c461-3edb-4cb0-b2fd-1d7f43cc3a0e",
+  "source_id": "1n7n5ol",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n7n5ol/the_perfect_stack_update/",
+  "author_hash": "f5248c653f333ecf701ef3b667d23933ad1e6c4cd5b1cb0931fff5e52af7a3f9",
+  "confidence_tier": 4,
+  "date_published": "2025-09-03T11:41:27-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 326,
+    "unit": "lbs"
+  },
+  "training_status": "3-5 times per week resistance training and cardio, distance running",
+  "health_conditions": [
+    "obesity"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 8.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost over 40lbs in 4 months, muscle definition coming in, helps maintain healthy deficit",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Building muscle while in deficit, targeting visceral fat",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Struggling to eat 1500 calories a day, appetite significantly suppressed",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Workouts more energized",
+      "severity": "moderate"
+    },
+    {
+      "category": "endurance",
+      "description": "Running endurance increased significantly, improved from 15 minute mile to 10 minute mile in 4 months",
+      "severity": "significant",
+      "onset_days": 120
+    }
+  ],
+  "protocol_notes": "Started June 2025 at 4mg Retatrutide, 1mg Tesamorelin, 500mcg Semaglutide. Current doses as of September: 8.5mg Retatrutide, 2mg Tesamorelin, 1mg Semaglutide. Plans to cycle off Tesamorelin after 2 more months. Prescribed by doctor at compounding pharmacy due to initial obesity (326lbs). User reports starting at 4mg was recommended due to severe obesity. Caloric intake 1500-2000 calories per day depending on adherence. High protein diet with animal sources, whey isolate, Greek yogurt. Protein2o during workouts.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.399344Z"
+}

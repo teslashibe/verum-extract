@@ -1,0 +1,35 @@
+{
+  "id": "85f96564-58b2-4ec6-919f-a9edfd21bae5",
+  "source_id": "1ri366m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ri366m/what_does_ghkcu_injection_pain_feel_like/",
+  "author_hash": "60ff6967287858cc0de9cfd4c8ef63eb343fc51144904b20696cccba2b6025cf",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T09:26:54-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "single dose",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Stomach lower area: pain on and off for minutes lasting all day with red mark",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "First injection at 1mg into stomach lower area. Pain persisted throughout day with visible redness.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.670349Z"
+}

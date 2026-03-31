@@ -1,0 +1,64 @@
+{
+  "id": "3383721d-630c-4ec2-b418-5733d81066db",
+  "source_id": "1kyofud",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kyofud/best_peptides_to_reduce_inflammation_and_water/",
+  "author_hash": "cfb5cb442b98bf906d8c37c48669e179661678ce715de917a62ba1957e97967d",
+  "confidence_tier": 4,
+  "date_published": "2025-05-29T15:41:09-07:00",
+  "health_conditions": [
+    "water_retention"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "inflammation",
+      "description": "User ordered peptide stack including GHK-Cu, BPC-157, and TB-500 for inflammation and water weight reduction"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "total_testosterone",
+      "value_after": 1037,
+      "unit": "ng/dL",
+      "timeframe_days": 180
+    },
+    {
+      "marker_name": "free_testosterone",
+      "value_after": 246,
+      "unit": "pg/mL",
+      "timeframe_days": 180
+    },
+    {
+      "marker_name": "estradiol",
+      "value_before": 76,
+      "value_after": 23,
+      "unit": "pg/mL",
+      "timeframe_days": 180
+    }
+  ],
+  "protocol_notes": "User on TRT for 6 months. Taking 0.5 mg aromatase inhibitor per week. Just ordered 'glow stack' containing GHK-Cu, BPC-157, and TB-500. TRT dose and ester not specified.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.407166Z"
+}

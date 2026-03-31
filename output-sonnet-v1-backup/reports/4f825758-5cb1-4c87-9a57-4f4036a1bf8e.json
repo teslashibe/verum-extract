@@ -1,0 +1,36 @@
+{
+  "id": "4f825758-5cb1-4c87-9a57-4f4036a1bf8e",
+  "source_id": "1olx2ej",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1olx2ej/melanotan_i_spray_vs_injection_reduced_nausea/",
+  "author_hash": "185fb6161bf1e236f4a47a8cba5cf9191cf200ff47baea386a78eacc8a713116",
+  "confidence_tier": 4,
+  "date_published": "2025-11-01T12:44:55-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "melanotan I",
+      "name_normalized": "melanotan_1",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 10,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Persistent nausea and queasiness lasting at least 3 hours after injection, dose-dependent; 300mcg caused approximately 30% more nausea than 200mcg. Even 100mcg caused queasiness.",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "OP was attempting a 10-day loading phase at 200mcg daily before transitioning to a weekly 1mg maintenance dose. Tried taking dose after food which helped somewhat but nausea persisted. Concerned about tolerating higher doses. Inquiring about nasal spray as alternative to reduce nausea.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.265979Z"
+}

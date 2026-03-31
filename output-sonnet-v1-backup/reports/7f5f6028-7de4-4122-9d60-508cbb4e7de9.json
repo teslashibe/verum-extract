@@ -1,0 +1,89 @@
+{
+  "id": "7f5f6028-7de4-4122-9d60-508cbb4e7de9",
+  "source_id": "10umccs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/10umccs/bpc157_and_tb500_cured_my_chronic_pain_success/",
+  "author_hash": "cbabc79e0e77c38936899ded44e78811e60dfe566cacd9016b94c3eae534d609",
+  "confidence_tier": 4,
+  "date_published": "2023-02-05T12:20:10-08:00",
+  "reported_age_range": "30-39",
+  "training_status": "sedentary prior to treatment, began weight training during recovery",
+  "health_conditions": [
+    "widespread tendonosis",
+    "high hamstring tendonosis",
+    "elbow tendonosis",
+    "ankle weakness",
+    "chronic knee injury",
+    "depression"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "bpc157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "frequency": "2-3x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tb500 (thymosin 4 fragment 17-23)",
+      "name_normalized": "tb500_thymosin_4_fragment_17_23",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "frequency": "1x daily (morning only)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Chronic widespread tendonosis resolved including high hamstring, elbows, ankle, and knee. After 3-4 months was in much better shape. Felt fully healed.",
+      "severity": "significant",
+      "onset_days": 55
+    },
+    {
+      "category": "joint_pain",
+      "description": "Pain from sitting, standing, sleeping, and sex resolved. No longer in pain after treatment.",
+      "severity": "significant",
+      "onset_days": 55
+    },
+    {
+      "category": "mood",
+      "description": "Depression lifted as pain resolved; resumed social activities and physical training.",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Able to weight train for 8 months, do pull ups, weighted squats, and run.",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Ravenous appetite from BPC; had to start intermittent fasting to manage.",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "mood_change",
+      "description": "TB500 worsened anxiety.",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "TB500 caused nightmares; resolved by taking smaller doses in the morning only.",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started March 2022. Used 1 vial of BPC157 and 1 vial of TB500 per month (each vial 10mg). Vial lasted 22-30 days, injections were 150-250mcg each. Approximately 7 BPC vials and 5 TB500 vials total used. Took peptides every other month after initial injury relapse. Injected close to injured areas and sometimes belly. TB500 dose reduced and moved to mornings only due to side effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.427947Z"
+}

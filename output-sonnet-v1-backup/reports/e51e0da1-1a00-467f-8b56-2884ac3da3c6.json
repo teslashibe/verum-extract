@@ -1,0 +1,97 @@
+{
+  "id": "e51e0da1-1a00-467f-8b56-2884ac3da3c6",
+  "source_id": "1qqwqer",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqwqer/reta_and_hgh/",
+  "author_hash": "d9a93956966dfb667b433106f3a74be64ecb0982d46754636f10706a12eebffa",
+  "confidence_tier": 4,
+  "date_published": "2026-01-29T21:28:31-08:00",
+  "training_status": "active, making strength gains",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Test P",
+      "name_normalized": "test_c",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 75,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mast P",
+      "name_normalized": "mast_p",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tren",
+      "name_normalized": "tren",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 30,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 8,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SLU",
+      "name_normalized": "slu",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mots C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Making strength gains while cutting at the same time",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Cutting simultaneously with strength gains",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Feels like superman (attributed to tren)",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Not a beginners stack. Goal is to ride down to 12% body fat then add more clean calories with the same stack to bulk up.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123148Z"
+}

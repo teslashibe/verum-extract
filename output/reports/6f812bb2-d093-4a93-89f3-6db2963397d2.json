@@ -1,0 +1,47 @@
+{
+  "id": "6f812bb2-d093-4a93-89f3-6db2963397d2",
+  "source_id": "1rsqa3b",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rsqa3b/i_think_the_general_public_is_overcomplicating/",
+  "author_hash": "52d724210eecc24bd7fef62d664ae69d515012c9b8f8a2237c1eeb1de64771a9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-13T08:23:05-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "GLP-1s made meaningful change",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive",
+      "description": "Selank and Semax made meaningful changes",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Tried many peptides but concluded only GLP-1s (Semaglutide), Selank, and Semax made meaningful changes. Considers most other peptides ineffective.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.76,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.664562Z"
+}

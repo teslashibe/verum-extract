@@ -1,0 +1,65 @@
+{
+  "id": "13790db7-bca4-4a58-92cd-06903d6fa718",
+  "source_id": "1lzmi4g",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lzmi4g/pairing_monjauro_with_reta/",
+  "author_hash": "e88e07cb6a9051d4c1403a3b28d6fe2889ba3f5d5359f36bc118093b2488779d",
+  "confidence_tier": 4,
+  "date_published": "2025-07-14T06:32:44-07:00",
+  "reported_weight": {
+    "value": 186,
+    "unit": "lbs"
+  },
+  "training_status": "gym 5x per week, 6x if light",
+  "health_conditions": [
+    "Type 2 diabetes (remission)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Monjauro",
+      "name_normalized": "monjouro",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "weekly (Saturdays)",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Down 85 lbs since November; currently plateaued at 186-188 lbs with stubborn belly fat",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Blood sugar under control; A1C dropped from 10.6 to 4.9 since November",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Lost some muscle mass as part of overall 85 lb weight loss; currently struggling to put on muscle",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C",
+      "value_before": 10.6,
+      "value_after": 4.9,
+      "unit": "%"
+    },
+    {
+      "marker_name": "body fat percentage",
+      "value_before": 22.5,
+      "value_after": 21.6,
+      "unit": "%",
+      "timeframe_days": 7
+    }
+  ],
+  "protocol_notes": "On strict diet since November; considering adding retatrutide on alternating days (Tue/Wed) to break plateau. Tracking macros, targeting 190g protein. Using body analysis scale for BF% tracking. Weight 186-188 lbs at plateau.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.279212Z"
+}

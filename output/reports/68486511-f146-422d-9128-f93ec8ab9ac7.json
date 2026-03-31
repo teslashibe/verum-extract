@@ -1,0 +1,45 @@
+{
+  "id": "68486511-f146-422d-9128-f93ec8ab9ac7",
+  "source_id": "1c8ax9s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1c8ax9s/bpc_157_overdose/",
+  "author_hash": "af97f259a8cf240ad3a68fa062efd3d5aaecfaf9ea1340cb31281d97535f5214",
+  "confidence_tier": 4,
+  "date_published": "2024-04-19T16:12:19-07:00",
+  "health_conditions": [
+    "shoulder injury"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 10,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Worked well for shoulder injury",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cognitive_impairment",
+      "description": "Derealization and demotivation after 10-day cycle",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "10-day oral cycle at 500 mcg 2x daily for shoulder injury. Effective for injury healing but experiencing anhedonia-like symptoms (derealization and demotivation) post-cycle. Inquiring about duration of anhedonia after discontinuation.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.697825Z"
+}

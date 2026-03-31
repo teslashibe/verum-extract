@@ -1,0 +1,50 @@
+{
+  "id": "1e250308-ba07-40c1-a3a8-d400a9a0a0c7",
+  "source_id": "1p0iklx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p0iklx/why_am_i_suddenly_getting_veins_all_over_my_legs/",
+  "author_hash": "633c32f19ec6d3a780fa95b27b97f032dcbe7cb22ec72293d6226cda02755ba5",
+  "confidence_tier": 4,
+  "date_published": "2025-11-18T09:45:39-08:00",
+  "reported_sex": "female",
+  "reported_weight": {
+    "value": 125,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 10 pounds in 8 weeks",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Increased vascularity on hands, feet, inside of elbows, and forehead",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_weight",
+      "value_before": 135,
+      "value_after": 125,
+      "unit": "lbs",
+      "timeframe_days": 56
+    }
+  ],
+  "protocol_notes": "Female, 5'4\" height; lost 10 lbs in 8 weeks on reta; not super lean but noticed vascularity increase; user questions if this is normal for reta",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.393352Z"
+}

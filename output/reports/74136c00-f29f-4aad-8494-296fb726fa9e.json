@@ -1,0 +1,63 @@
+{
+  "id": "74136c00-f29f-4aad-8494-296fb726fa9e",
+  "source_id": "1rmijcn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmijcn/sermorelin_or_motsc/",
+  "author_hash": "33cc9238e937e018d1bf58236b539353be6583072f9a9fe988df2db79fe88178",
+  "confidence_tier": 4,
+  "date_published": "2026-03-06T08:24:57-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 195,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Able to put muscle on, now at 8.5% body fat",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Down to 8.5% body fat (per Hume scale measurement), from peak of 256 lbs to current 195 lbs with muscle gain",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_fat_percentage",
+      "value_after": 8.5,
+      "unit": "%"
+    },
+    {
+      "marker_name": "testosterone"
+    }
+  ],
+  "protocol_notes": "Age 54, male, 6'3\" tall. Started TRT after blood work showed low testosterone (value not specified) with physician recommendation. Lowest weight was 180 lbs, current weight 195 lbs at 8.5% body fat. States he values testosterone most of all the compounds he uses. Uses Tirz then switched to Reta. Peak weight was 256 lbs.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.656134Z"
+}

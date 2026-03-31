@@ -1,0 +1,83 @@
+{
+  "id": "3c15b8d2-e5f8-4928-93e7-b07b7ff659dd",
+  "source_id": "1n0k8c9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n0k8c9/monjouro_to_retatrutide/",
+  "author_hash": "0fda60468cafcb727d55e71687cfd740f7fc8a24b9c21bb1672d649fa1f4e770",
+  "confidence_tier": 4,
+  "date_published": "2025-08-26T05:16:57-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 12.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight moving in the right direction on Retatrutide",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression present but less pronounced than Tirzepatide",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "Monitoring for tachycardia when switching from Tirzepatide to Retatrutide; no tachycardia observed at 2-3mg doses. Increased average resting heart rate suspected but not confirmed.",
+      "severity": "mild"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Lower dosing of Retatrutide having less effect on intestinal tract compared to Tirzepatide",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Switched from 12.5mg Tirzepatide weekly to Retatrutide, starting at 2mg week 1, titrating to 3mg week 2, planning 4mg week 3. Monitoring cardiac response (resting heart rate). Considering stack with Cariprazine or other compounds if Retatrutide ineffective. Notes that Tirzepatide and Retatrutide dosing is not 1:1.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.40003Z"
+}

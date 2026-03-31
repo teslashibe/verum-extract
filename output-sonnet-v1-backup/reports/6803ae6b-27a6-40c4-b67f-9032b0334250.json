@@ -1,0 +1,40 @@
+{
+  "id": "6803ae6b-27a6-40c4-b67f-9032b0334250",
+  "source_id": "1o2xl8j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o2xl8j/bpc157_tb500_for_chronic_shoulder_pain_30_days/",
+  "author_hash": "ba6dddaf48796ed34b7d39edd374aae9924493903083f34a92dbde8763d12fb3",
+  "confidence_tier": 4,
+  "date_published": "2025-10-10T03:49:39-07:00",
+  "health_conditions": [
+    "shoulder injury"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Previous cycle at 250mcg each, SubQ belly fat injections, saw little effect on shoulder. Plans future cycle of BPC only at 1mg/day for 2 months.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.268472Z"
+}

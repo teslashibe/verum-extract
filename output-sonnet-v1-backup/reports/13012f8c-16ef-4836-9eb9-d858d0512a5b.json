@@ -1,0 +1,51 @@
+{
+  "id": "13012f8c-16ef-4836-9eb9-d858d0512a5b",
+  "source_id": "1eu2ahc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1eu2ahc/im_lost/",
+  "author_hash": "60732606419f8c3b522b87b29421ff2fce2776b289e81e82ba86e8cd0190bb69",
+  "confidence_tier": 5,
+  "date_published": "2024-08-16T15:46:04-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "it",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Helped cut out hunger and food noise",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Gave the kick needed to continue weight loss regimen",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Major nausea the day of and the day after injection",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 2
+    },
+    {
+      "category": "mood_change",
+      "description": "Mental issues while on the peptide",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Was on tirzepatide (implied) for 6 weeks, stopped due to mental health issues and cost. Nausea occurred day of and day after injection, felt physically fine afterward.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.291978Z"
+}

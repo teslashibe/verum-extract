@@ -1,0 +1,35 @@
+{
+  "id": "f04fef15-7069-4c8b-976d-32a1847f53b6",
+  "source_id": "1rp2dgi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rp2dgi/ghkcu_experience/",
+  "author_hash": "3d909de6c84f97434f3d68fb7afb8b2b538d39c36908212130085507e63cccbe",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T07:54:52-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Copper sting/burning sensation at injection site; moderate intensity described as 'burning impact'; varies by injection site location and batch",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "User on second 50mg vial. First vial (from reseller website) produced no sting; second vial from same purchase produced copper stings starting day 1. By day 4 of second vial, rotating injection sites reduced sting severity. User notes lower abdomen (between beltline and belly button level) produces less burning than other sites. Mentions concern about vial quality/potency differences between batches.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.666641Z"
+}

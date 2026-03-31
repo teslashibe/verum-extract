@@ -1,0 +1,66 @@
+{
+  "id": "37b7080a-dcab-48c5-8a58-8b8212baf727",
+  "source_id": "1rvp24a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvp24a/ss31_fatigue_and_brain_fog_and_mitigation/",
+  "author_hash": "3159b5e4d4d993686c2748bbfd6159b457ec382d9420daa6605713104209c2bc",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T15:50:02-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "3 times per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TMG",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Vitamin B12",
+      "name_normalized": "vitamin_b12",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Folinic acid",
+      "name_normalized": "folinic_acid",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cognitive_impairment",
+      "description": "severe brain fog",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 2
+    },
+    {
+      "category": "fatigue",
+      "description": "severe fatigue",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 2
+    }
+  ],
+  "protocol_notes": "Started at low dose of 300mcg daily for 3 days, experienced severe side effects. Took break and added TMG, B12, and folinic acid supplementation. Reported feeling baseline 2 days after stopping. Planning 1-week break then restart at lower doses with 3x weekly injections instead of daily. User acknowledges 300mcg is a low dose.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.651049Z"
+}

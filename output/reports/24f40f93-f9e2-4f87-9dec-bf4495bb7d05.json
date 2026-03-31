@@ -1,0 +1,75 @@
+{
+  "id": "24f40f93-f9e2-4f87-9dec-bf4495bb7d05",
+  "source_id": "1qkdemd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qkdemd/split_lyophilized_powder_into_2_vials/",
+  "author_hash": "bb55c40086a703d510853ab87f3a963d3ce1b06c6235b5544cb1301053f3b24f",
+  "confidence_tier": 4,
+  "date_published": "2026-01-22T17:40:31-08:00",
+  "health_conditions": [
+    "joint pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "5 days on / 2 days off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Planning to use for fat loss"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Planning to use for muscle building"
+    },
+    {
+      "category": "recovery",
+      "description": "Planning to use for recovery"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Joint pain from tesamorelin, planning to use lower dose",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "IGF-1 came in high. Using ipamorelin with tesamorelin and tirzepatide (Mounjaro brand mentioned). Vial contains 10mg ipamorelin.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.683452Z"
+}

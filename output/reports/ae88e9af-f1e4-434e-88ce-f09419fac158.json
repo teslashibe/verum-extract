@@ -1,0 +1,71 @@
+{
+  "id": "ae88e9af-f1e4-434e-88ce-f09419fac158",
+  "source_id": "10umccs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/10umccs/bpc157_and_tb500_cured_my_chronic_pain_success/",
+  "author_hash": "cbabc79e0e77c38936899ded44e78811e60dfe566cacd9016b94c3eae534d609",
+  "confidence_tier": 4,
+  "date_published": "2023-02-05T12:20:10-08:00",
+  "reported_age_range": "30-39",
+  "training_status": "weight training for 8 months, fit, strong, can do pull-ups, weighted squats, running",
+  "health_conditions": [
+    "widespread tendonosis",
+    "high hamstring tendonosis",
+    "elbow pain",
+    "ankle weakness",
+    "chronic knee injury"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mg",
+      "frequency": "2-3x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mg",
+      "frequency": "1x daily morning",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Mild improvement at 55 days, significant improvement at 3-4 months. Permanent healing of tendonosis, hamstring pain, elbow pain, ankle, and knee injury. Able to run, do pull-ups, weighted squats, sleep in any position without pain.",
+      "severity": "significant",
+      "onset_days": 55
+    },
+    {
+      "category": "recovery",
+      "description": "Accelerated recovery from twisted knee injury during training.",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Ravenous appetite from BPC-157, required intermittent fasting to manage.",
+      "severity": "moderate"
+    },
+    {
+      "category": "anxiety",
+      "description": "TB-500 worsened anxiety and gave nightmares, cortisol spike. Had to reduce doses and take only in morning.",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Used approximately 7 BPC-157 vials and 5 TB-500 vials total from March 2022 to December 2022. Started March 2022, used 1 vial of each per month initially. Doses varied from 150-250 mcg per injection. Each vial was 10mg. Injected close to injured areas when possible, sometimes into belly. Took peptides every other month after summer 2022. Brand: Canlabs.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.128672Z"
+}

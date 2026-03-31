@@ -1,0 +1,40 @@
+{
+  "id": "c185527d-216a-46b4-9504-a5e3076c9ed9",
+  "source_id": "1ohykl3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ohykl3/help_day_9_on_ghkcu_day_by_day_it_burns_more/",
+  "author_hash": "e2041e585bcb1c9a1c2fd1ec1e90e5ba8766b43f1661a08736384117e0386be8",
+  "confidence_tier": 5,
+  "date_published": "2025-10-27T19:57:46-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injection_site",
+      "description": "After nearly 2 months of continuous use, zero stinging at injection site; acclimation to GHK-Cu injections",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Initial stinging with GHK-Cu injections that resolved with continued use",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 60
+    }
+  ],
+  "protocol_notes": "Almost 2 months straight on GHK-Cu. User notes missing the initial stinging sensation after acclimation.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.678624Z"
+}

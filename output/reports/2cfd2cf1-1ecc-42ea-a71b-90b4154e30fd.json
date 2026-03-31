@@ -1,0 +1,54 @@
+{
+  "id": "2cfd2cf1-1ecc-42ea-a71b-90b4154e30fd",
+  "source_id": "1jb1y10",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jb1y10/longevityantiaging_peptide_stack_thoughts/",
+  "author_hash": "6013a93ae6dd7e50d35a781a4146cbf2f3e2e2ae31dee4104c59974e830ae8c8",
+  "confidence_tier": 4,
+  "date_published": "2025-03-14T04:43:36-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "intramuscular",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "every 4 days",
+      "cycle_length_days": 17,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Pinealon",
+      "name_normalized": "pinealon",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Boost of energy, clarity",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Very good sleep; improved sleep with Pinealon",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "When taken at night, caused energy boost that delayed sleep onset",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Russian/Ukrainian protocol: 10mg injections (4 total) spread over 17 days. Switched from night to morning/mid-morning dosing for better results. Also runs Pinealon.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.69339Z"
+}

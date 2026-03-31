@@ -1,0 +1,78 @@
+{
+  "id": "f7289a1d-ff66-4a06-872e-3af56ff4c65a",
+  "source_id": "1rr12jp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr12jp/round_2_of_semaglutide_not_working/",
+  "author_hash": "16dc28238bd11d1d91a6b414e0d84843685d9e4c1631c36769b0b811e53fe381",
+  "confidence_tier": 4,
+  "date_published": "2026-03-11T10:57:01-07:00",
+  "reported_sex": "female",
+  "reported_weight": {
+    "value": 267,
+    "unit": "lbs"
+  },
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Carnitine",
+      "name_normalized": "l_carnitine",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression on Tirzepatide",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "Better sleep on Tirzepatide compared to Retatrutide",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Severe sleep disruption on Retatrutide - sleeping 1-2 hours per night",
+      "severity": "significant"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Gets sick if drinking too much water on Retatrutide",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood_change",
+      "description": "Wacky mood disturbances on Retatrutide, likely related to lack of sleep",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Height: 5'5\". Doctor prescribed aggressive titration schedule (2mg/week increase). Retatrutide: severe negative experience with sleep disruption, water intolerance, and mood changes. Switched to Tirzepatide with better tolerance. Starting Testosterone and considering stacking with Carnitine. User notes titration was too fast and may be partially responsible for side effects.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.653443Z"
+}

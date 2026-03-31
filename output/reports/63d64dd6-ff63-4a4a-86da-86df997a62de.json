@@ -1,0 +1,57 @@
+{
+  "id": "63d64dd6-ff63-4a4a-86da-86df997a62de",
+  "source_id": "1qtcugz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtcugz/suggestions/",
+  "author_hash": "37ac5a4fd43862169d82ded08ea632198a5a10c8d3e66592ea9adace884a1074",
+  "confidence_tier": 4,
+  "date_published": "2026-02-01T14:24:54-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 100,
+    "unit": "kg"
+  },
+  "training_status": "kickboxing and gym training, beginner strength training",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "CJC-1295 NO DAC variant. Timing: BPC-157 in morning, MOTS-C in afternoon before training, CJC-1295 before bed with 2-hour fasting window. Also taking creatine 5g daily. First week into protocol. Considering adding Tesamorelin and SS-31. Height 193 cm, weight 100+ kg. Primary goals: strength, endurance, fat loss (target -10 kg).",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.668353Z"
+}

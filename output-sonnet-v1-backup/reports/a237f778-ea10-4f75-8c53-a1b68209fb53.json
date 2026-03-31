@@ -1,0 +1,34 @@
+{
+  "id": "a237f778-ea10-4f75-8c53-a1b68209fb53",
+  "source_id": "1gefdgs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1gefdgs/tirz/",
+  "author_hash": "770555f3221929a26a4f3d868fb6bd21a5360091319e5106e8e0b5af32793616",
+  "confidence_tier": 4,
+  "date_published": "2024-10-28T15:38:19-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 12.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Resumed weight loss after 3-week lag following restart at 12.5mg after 5-week break",
+      "onset_days": 21
+    }
+  ],
+  "protocol_notes": "Reached 12.5mg weekly, quit for 5 weeks, restarted at same 12.5mg dose and started losing again after ~3 weeks; has cycled on and off multiple times over the past year; chooses to take breaks when satisfied with weight loss",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.289853Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "f4bfd8eb-1ec8-49c7-8b1b-6b06277e17f9",
+  "source_id": "1rthpan",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rthpan/avoided_meniscus_surgery_with_bpctbghk_8week/",
+  "author_hash": "2854d0ca17566bc959b612af5e904d89a3faff38bf9e2df6a2e692c9f389f839",
+  "confidence_tier": 4,
+  "date_published": "2026-03-14T05:05:05-07:00",
+  "health_conditions": [
+    "knee injury (implied)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tb500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "2x/wk",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "bpc",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Better results for knee repair with higher BPC doses and TB500 vs TB4-based products"
+    },
+    {
+      "category": "hair",
+      "description": "Glow (hair/skin/nail product) worked well for hair, skin, nails"
+    },
+    {
+      "category": "skin",
+      "description": "Glow worked well for skin"
+    }
+  ],
+  "protocol_notes": "Started BPC at 500mcg twice daily then dropped to 250mcg. Noted that 'Glow' product uses TB4 (not TB500) and has too low a BPC dose for knee repair. BPC dose reduction timing not specified.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.1085Z"
+}

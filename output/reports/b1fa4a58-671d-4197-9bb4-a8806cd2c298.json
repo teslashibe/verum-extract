@@ -1,0 +1,42 @@
+{
+  "id": "b1fa4a58-671d-4197-9bb4-a8806cd2c298",
+  "source_id": "1ldahe3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ldahe3/best_non_glp1s_for_weight_loss/",
+  "author_hash": "e7ccf72b3dd4dd323284c9f10f5fbb7a9c355eb298a46208ef435f4c851625b9",
+  "confidence_tier": 4,
+  "date_published": "2025-06-16T18:21:48-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "absolute hunger suppression to point of not feeling like eating at all for more than a day",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "absolute hunger suppression - not healthy, had to stop",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 14
+    }
+  ],
+  "protocol_notes": "0.25mg for 2 weeks, had to stop due to severity of appetite suppression",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.406089Z"
+}

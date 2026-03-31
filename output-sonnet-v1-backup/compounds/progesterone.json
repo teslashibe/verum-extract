@@ -1,0 +1,46 @@
+{
+  "compound_id": "progesterone",
+  "display_name": "progesterone",
+  "category": "other",
+  "total_reports": 1,
+  "reports_by_tier": {
+    "4": 1
+  },
+  "top_benefits": null,
+  "top_side_effects": [
+    {
+      "category": "nausea",
+      "count": 1,
+      "pct": 100,
+      "avg_severity": 1
+    },
+    {
+      "category": "fatigue",
+      "count": 1,
+      "pct": 100,
+      "avg_severity": 2
+    }
+  ],
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "pt_141",
+      "display_name": "PT-141",
+      "report_count": 1
+    },
+    {
+      "compound_id": "bioidentical_estradiol",
+      "display_name": "bioidentical estradiol",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0,
+  "sentiment_breakdown": {
+    "positive": 0,
+    "mixed": 0,
+    "negative": 1,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.971611Z"
+}

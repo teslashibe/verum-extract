@@ -1,0 +1,45 @@
+{
+  "id": "c4617c0d-c1e3-4659-bfda-5c7d94833848",
+  "source_id": "1ltldo9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ltldo9/bpc157_tb500_ghkcu/",
+  "author_hash": "ceee4634ba0801f2fbde53303b44c9dee4f9cc4ff011dfa4d5adfa8e03c5cf18",
+  "confidence_tier": 4,
+  "date_published": "2025-07-06T21:49:24-07:00",
+  "training_status": "martial arts",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Made a massive difference",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Injected near injury site. Does not use GHK-Cu.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.687873Z"
+}

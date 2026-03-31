@@ -1,0 +1,40 @@
+{
+  "id": "fcd19b6e-1615-46cd-8965-4d2566aea7b3",
+  "source_id": "184hboe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/184hboe/antiaging_particularly_to_skincare_stack/",
+  "author_hash": "6a34e2c7add1fd6f4abb4bcc81cb2f5adf89e4c1cfab653fa4c8c1474a302688",
+  "confidence_tier": 4,
+  "date_published": "2023-11-26T10:34:39-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 3.5,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 330,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Describes results as 'amazing' after 9 months on HGH and TRT stack",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "On 3-4 IU/day HGH for 9 months along with TRT. Plans to stop at 11 months, take a year off, then do another 10-month cycle. Recommends HGH 3-4 IU/day for anti-aging goals.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.295854Z"
+}

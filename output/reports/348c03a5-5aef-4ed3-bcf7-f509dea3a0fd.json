@@ -1,0 +1,91 @@
+{
+  "id": "348c03a5-5aef-4ed3-bcf7-f509dea3a0fd",
+  "source_id": "1s3445j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3445j/a_fix_for_bpccaused_sleep_disturbance_melatonin/",
+  "author_hash": "716c0a5dcd888e94c81e1e63ec94e14c11d1a68f285bb713f49b163b8daf2ed4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T00:31:15-07:00",
+  "training_status": "active exercise",
+  "health_conditions": [
+    "slow MAO-B",
+    "slow COMT",
+    "skin growth requiring removal",
+    "HSV outbreaks"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 5,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "LL-37",
+      "name_normalized": "ll_37",
+      "category": "immune",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Melatonin",
+      "name_normalized": "melatonin",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Helped healing of wounds from skin growth removal",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Helped with exercise recovery and general strength",
+      "severity": "significant"
+    },
+    {
+      "category": "endurance",
+      "description": "Had a lot more stamina",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "20mg melatonin cancelled out BPC-related sleep disturbance",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "BPC caused huge sleep disturbance at low doses (100-250 mcg/day)",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "BPC caused reduced gut motility",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "First experiment: 100-250 mcg BPC daily for 12 days caused sleep and gut issues; discontinued. Second experiment: resumed BPC at low dose with concurrent melatonin 20mg and prior LL-37 course (200 mcg daily for 5-7 days); sleep and gut disturbance resolved. User attributes slow MAO-B and slow COMT as potential reason for initial sensitivity. User reports already on probiotics, lactoferrin, and other gut support supplements. LL-37 helped HSV outbreak.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.647161Z"
+}

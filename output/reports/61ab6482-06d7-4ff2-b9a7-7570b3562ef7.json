@@ -1,0 +1,40 @@
+{
+  "id": "61ab6482-06d7-4ff2-b9a7-7570b3562ef7",
+  "source_id": "1rlm71k",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rlm71k/tesareta_stack/",
+  "author_hash": "c928fe15db48a7845f1cb08f6e842796e6197a39ca7239ad4b7670929b57062a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T08:33:00-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "blood chemistry",
+      "timeframe_days": 730
+    },
+    {
+      "marker_name": "liver enzymes",
+      "timeframe_days": 730
+    },
+    {
+      "marker_name": "lipid panel",
+      "timeframe_days": 730
+    }
+  ],
+  "protocol_notes": "References HIV+ friend prescribed Tesamorelin 2mg daily by physician for 2 years with zero negative effects on blood chemistry, liver enzymes, or lipid panels. Used to combat visceral fat from antiretroviral medications. Medical trial data supports daily usage for up to 1 year with minimal negative effects. States 1mg is not effective dose.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.668474Z"
+}

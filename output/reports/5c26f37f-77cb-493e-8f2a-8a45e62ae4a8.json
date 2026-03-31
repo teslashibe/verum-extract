@@ -1,0 +1,63 @@
+{
+  "id": "5c26f37f-77cb-493e-8f2a-8a45e62ae4a8",
+  "source_id": "1ldahe3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ldahe3/best_non_glp1s_for_weight_loss/",
+  "author_hash": "38e2c2f5327194ac2eacc20d0d150f9a82a38ece57faeb9ece86181618bcf6d5",
+  "confidence_tier": 4,
+  "date_published": "2025-06-16T18:21:48-07:00",
+  "training_status": "active (gym training mentioned)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "twice daily (morning and 1pm)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "twice daily (morning and 1pm)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "lost substantial fat",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "gained noticeable amounts of muscle",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "metabolism in overdrive, core temp warmer, full of energy",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "eat less when injected on empty stomach",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "no sleep improvements; if taken in evening/night causes tossing and turning with too much energy",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "One very small subq injection in morning, another half dose around 1pm. Works best on empty digestive tract. Takes weed/binge eating reduces efficacy.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.406089Z"
+}

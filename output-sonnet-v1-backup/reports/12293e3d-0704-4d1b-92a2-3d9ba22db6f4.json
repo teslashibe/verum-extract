@@ -1,0 +1,43 @@
+{
+  "id": "12293e3d-0704-4d1b-92a2-3d9ba22db6f4",
+  "source_id": "1m6wd15",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m6wd15/how_do_you_keep_track_of_multiple_peptides/",
+  "author_hash": "d5711c15e08550820b914bee503f218baf6d0172a335be48a13100d619298b3e",
+  "confidence_tier": 4,
+  "date_published": "2025-07-22T18:34:00-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC/Ipam",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "nightly, 5 days on",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "OP is asking for tracking/logging tips for managing multiple peptides simultaneously. Notes app was being used previously but described as chaotic.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.278148Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "937b4b32-0338-466f-8387-9dbc4ff64453",
+  "source_id": "1qpgwvo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qpgwvo/post_reta/",
+  "author_hash": "86fc7e88c40ce0cb28eda58dccd8c978df2325004546920c3050978560b9635f",
+  "confidence_tier": 4,
+  "date_published": "2026-01-28T08:57:24-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "60+",
+  "reported_weight": {
+    "value": 118,
+    "unit": "lbs"
+  },
+  "training_status": "lifts 4x per week",
+  "health_conditions": [
+    "cancer survivor (no evidence of disease)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "topical",
+      "dose_value": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Added muscle mass over a year, manages to build muscle while maintaining low body weight",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Weight loss from 140 to 118 lbs over approximately 1 year",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_after": 90
+    }
+  ],
+  "protocol_notes": "Testosterone cream from compounding pharmacy, dosed by functional medicine doctor with bloodwork every 3 months for first year. Started GHK-Cu in October, added MOTS-c and TA1 in December. Avoids growth hormones due to cancer history. Reports no adverse side effects (no facial hair). Regular bloodwork monitoring due to cancer history. Lifts 4x per week.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.682699Z"
+}

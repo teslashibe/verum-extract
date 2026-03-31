@@ -1,0 +1,51 @@
+{
+  "id": "2e521897-d0d7-4639-ae19-28f950590888",
+  "source_id": "1k74ace",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k74ace/doctor_offering_dsip_deltasleepinducing_peptide/",
+  "author_hash": "26dcbda6d03cab1085df6a6d5dd7208181a34cd2e131a1514e56a0a0be045e51",
+  "confidence_tier": 4,
+  "date_published": "2025-04-24T14:42:54-07:00",
+  "health_conditions": [
+    "insomnia"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "helps calibrate sleep cycles; felt more rested despite not sleeping immediately",
+      "severity": "moderate",
+      "onset_days": 2
+    },
+    {
+      "category": "recovery",
+      "description": "memory repair processing; neutral feeling similar to psilocybin comedown; wakes feeling restful",
+      "severity": "moderate",
+      "onset_days": 2
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "waking 1 hour earlier than normal; didn't help with insomnia on days 3-4",
+      "severity": "mild",
+      "onset_days": 3
+    }
+  ],
+  "protocol_notes": "Using 5mg bottles at 250mcg dose (approximately 20 nights per bottle); user notes it doesn't work at high doses to induce sleep immediately for everyone; suggests it may work at 500mcg for some",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.409175Z"
+}

@@ -1,0 +1,101 @@
+{
+  "compound_id": "collagen_peptides",
+  "display_name": "Collagen peptides",
+  "category": "other",
+  "total_reports": 2,
+  "reports_by_tier": {
+    "3": 1,
+    "4": 1
+  },
+  "top_benefits": [
+    {
+      "category": "recovery",
+      "count": 1,
+      "pct": 50
+    },
+    {
+      "category": "injury_healing",
+      "count": 1,
+      "pct": 50
+    },
+    {
+      "category": "pain_relief",
+      "count": 1,
+      "pct": 50
+    },
+    {
+      "category": "inflammation",
+      "count": 1,
+      "pct": 50
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "fatigue",
+      "count": 1,
+      "pct": 50,
+      "avg_severity": 2
+    },
+    {
+      "category": "recovery",
+      "count": 1,
+      "pct": 50,
+      "avg_severity": 2
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "oral",
+      "dose": 10,
+      "unit": "g",
+      "frequency": "post-exercise",
+      "count": 1,
+      "pct": 50
+    },
+    {
+      "route": "oral",
+      "dose": 25,
+      "unit": "g",
+      "frequency": "once daily",
+      "count": 1,
+      "pct": 50
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "bpc_157",
+      "display_name": "BPC-157",
+      "report_count": 1
+    },
+    {
+      "compound_id": "tb_500",
+      "display_name": "TB-500",
+      "report_count": 1
+    },
+    {
+      "compound_id": "cjc_1295_no_dac",
+      "display_name": "CJC-1295",
+      "report_count": 1
+    },
+    {
+      "compound_id": "citrulline_malate",
+      "display_name": "Citrulline Malate",
+      "report_count": 1
+    },
+    {
+      "compound_id": "creatine_monohydrate",
+      "display_name": "Creatine Monohydrate",
+      "report_count": 1
+    }
+  ],
+  "avg_cycle_length_days": 30,
+  "avg_sentiment_score": 0.5,
+  "sentiment_breakdown": {
+    "positive": 1,
+    "mixed": 0,
+    "negative": 1,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T04:29:07.892321Z"
+}

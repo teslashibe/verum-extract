@@ -1,0 +1,57 @@
+{
+  "id": "d7964359-5722-4c62-b509-0b3a7c779e3b",
+  "source_id": "1rvq0ho",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvq0ho/allergic_to_mt2/",
+  "author_hash": "eea7016489cad3d5d5a0986fb46309212f20f80bb023b1b3c1dd792093b3bb6b",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T16:25:48-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ghk-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "mt2",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Intense itching on left side of beard and chin area under corner of lip, with redness; began after increasing MT2 dose from 0.25mg to 0.5mg",
+      "severity": "significant",
+      "onset_days": 3,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "OP had been on GHK-CU for a couple of weeks before starting MT2 and reta on Thursday. MT2 dose was escalated from 0.25mg to 0.5mg on Sunday, which appeared to trigger itching. Dropping back to 0.25mg resolved the itching the following day.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.107536Z"
+}

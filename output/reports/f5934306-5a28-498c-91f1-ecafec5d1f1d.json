@@ -1,0 +1,57 @@
+{
+  "id": "f5934306-5a28-498c-91f1-ecafec5d1f1d",
+  "source_id": "1re1ye6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1re1ye6/wolverine_blend_plan/",
+  "author_hash": "ae58274e7ebaf6a63953e9062bc169c2548083d849345b06ec3151c0bc698e47",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T19:22:12-08:00",
+  "training_status": "military (20 years)",
+  "health_conditions": [
+    "multiple bad discs in back",
+    "joint pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "not specified",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "not specified",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "GHK-Cu for hair and skin"
+    },
+    {
+      "category": "skin",
+      "description": "GHK-Cu for hair and skin"
+    },
+    {
+      "category": "inflammation",
+      "description": "Anti-inflammatory effects for joint pain",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Uses GHK-Cu 2.5mg + KPV 0.5mg blend for anti-inflammatory purposes. For acute healing (recent hand surgery), uses KLOW protocol for 20-30 days instead. Avoids BPC-157 and TB-500 due to angiogenesis concerns. Notes that benefits become apparent when discontinuing peptides (increased pain without them).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.672213Z"
+}

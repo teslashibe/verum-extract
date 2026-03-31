@@ -1,0 +1,87 @@
+{
+  "id": "57c30ec2-624a-4a8c-af37-c99fc19f6530",
+  "source_id": "1rx2u70",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx2u70/is_ss31_a_must_before_starting_motsc/",
+  "author_hash": "01eb1026c8ea39b4a72bf581fd59350127b9aa41c9f72c7bd1820d4fe5f1745c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T05:42:53-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "Active, 5am workouts",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ss31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTs-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "hgh",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 4,
+      "dose_unit": "IU",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Huge energy benefit from SS31, first two weeks felt unreal, little to no coffee needed",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive",
+      "description": "Focus and energy after introducing NAD+",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "recovery",
+      "description": "Helps with endurance aspect of workouts",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Leaning down for summer while keeping strength up",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started with SS31 at 2-3mg ED, introduced NAD+ after 2 weeks, now running MOTS-C (2mg e2d) and NAD+ (50mg e2d) for 4 weeks. Also on 4IU HGH and 4mg RETA for body recomposition. SS31 dose noted as 2-3mg ED; used midpoint 2.5mg as representative value.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106918Z"
+}

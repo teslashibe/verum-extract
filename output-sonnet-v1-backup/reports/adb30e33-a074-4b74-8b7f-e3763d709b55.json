@@ -1,0 +1,54 @@
+{
+  "id": "adb30e33-a074-4b74-8b7f-e3763d709b55",
+  "source_id": "1r6cjww",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6cjww/anyone_else_get_weird_skin_reactions_from_tirz/",
+  "author_hash": "4b9980ce04cda2f44c68da99ea2234f253858eee9e71805251a31e4c65cbdf62",
+  "confidence_tier": 4,
+  "date_published": "2026-02-16T07:27:15-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "grey Tirzepatide",
+      "name_normalized": "grey_tirzepatide",
+      "category": "other",
+      "route": "subcutaneous",
+      "cycle_length_days": 75,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss working well over ~2.5 months",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Abnormally dry and cracking skin, especially on hands",
+      "severity": "moderate",
+      "onset_days": 45,
+      "resolved": false
+    },
+    {
+      "category": "other",
+      "description": "Rashes and patches of flaky/itchy skin around body",
+      "severity": "moderate",
+      "onset_days": 45,
+      "resolved": false
+    },
+    {
+      "category": "injection_site",
+      "description": "Redness and itching at injection site approximately 24 hours after pinning; developed a few weeks ago",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "OP tried cortisone and diaper rash cream with little relief. Increased hydration and moisturizing helped slightly. No prior history of eczema or psoriasis. Considering switching to Retatrutide but concerned about similar skin issues.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.117695Z"
+}

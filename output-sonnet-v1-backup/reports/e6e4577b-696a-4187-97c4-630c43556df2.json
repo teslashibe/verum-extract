@@ -1,0 +1,41 @@
+{
+  "id": "e6e4577b-696a-4187-97c4-630c43556df2",
+  "source_id": "1b7q317",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1b7q317/unusual_request/",
+  "author_hash": "1914f90096dbd55c65c48ba29a548fb769bd8eac7b274df2a7c564bc683cebc2",
+  "confidence_tier": 5,
+  "date_published": "2024-03-05T19:58:38-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "mod-GRF",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Commenter mentions having personally run IGF-1 LR3 in the past. Recommends ipamorelin + mod-GRF (CJC-1295 no DAC) as classic combination at 100 mcg each. Notes that tesamorelin can substitute mod-GRF as a GHRH. Advises against stacking multiple GHRPs (GHRP-2, GHRP-6 redundant with ipamorelin). Notes concern about unbound IGF-1 LR3 and cancer risk.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294439Z"
+}

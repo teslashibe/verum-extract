@@ -1,0 +1,40 @@
+{
+  "id": "9ee598cd-f031-488c-9c2b-73c3b2c1cd39",
+  "source_id": "1s6kkaw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6kkaw/how_long_is_this_sustainable/",
+  "author_hash": "22aa4c538c5779bec3b7de88941c08fe7aad7f76ef53ab6d7e397fcb238c22aa",
+  "confidence_tier": 4,
+  "date_published": "2026-03-28T20:33:19-07:00",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 82,
+    "unit": "kg"
+  },
+  "training_status": "2x per week heavy weights",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "per week",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped 6 kg in 6 weeks",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Late 30s male. Started at 88 kg, down to 82 kg after 6 weeks at 1-2 mg per week dose. Training twice weekly with heavy weights. Currently on 3-week holiday break, plans to resume upon return.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.645547Z"
+}

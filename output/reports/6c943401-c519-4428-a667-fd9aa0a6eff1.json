@@ -1,0 +1,46 @@
+{
+  "id": "6c943401-c519-4428-a667-fd9aa0a6eff1",
+  "source_id": "1mtabi7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mtabi7/peptideterzepitide_confusion/",
+  "author_hash": "be392a65e436e451a9f0cccd5e29caef2fc4693b31501cf09db0ccbbb0ae92c1",
+  "confidence_tier": 4,
+  "date_published": "2025-08-17T19:49:47-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Delayed gastric emptying less pronounced on tirzepatide compared to semaglutide; some people experience diarrhea on retatrutide",
+      "severity": "moderate",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "Comparative experience across three compounds. Noted individual variation in delayed gastric emptying effects. On dose 2 of retatrutide with early observations of slowed gastric emptying. Individual sensitivity to appetite suppression effects varies (some crave sweets, others repulsed).",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.68436Z"
+}

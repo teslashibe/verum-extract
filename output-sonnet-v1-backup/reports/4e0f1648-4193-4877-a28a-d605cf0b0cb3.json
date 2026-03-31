@@ -1,0 +1,51 @@
+{
+  "id": "4e0f1648-4193-4877-a28a-d605cf0b0cb3",
+  "source_id": "1rwcfgo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwcfgo/ghkcu_gluta_interaction/",
+  "author_hash": "fd1d5d0f05687a9ae7ee2e8b7313227a9522d64053388965e69b35e5140ca3f2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-17T10:03:22-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHKCu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "gluta",
+      "name_normalized": "gluta",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Tiredness from glutathione improved by 5th dose",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Significant tiredness when pinning GHK-Cu and glutathione together or close in time; improved by 5th dose",
+      "severity": "moderate"
+    },
+    {
+      "category": "injection_site",
+      "description": "Irritation at injection site while liquid is dispersing, subq in belly fat",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "OP initially pinned GHK-Cu and glutathione (200mg/ml, subQ belly fat) at the same time and experienced tiredness. Switched to pinning at opposite times of day and felt better. Eventually moved GHK-Cu to evening and glutathione to morning. Tiredness improved by the 5th dose.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.107282Z"
+}

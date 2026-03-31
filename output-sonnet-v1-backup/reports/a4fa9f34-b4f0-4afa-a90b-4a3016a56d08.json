@@ -1,0 +1,43 @@
+{
+  "id": "a4fa9f34-b4f0-4afa-a90b-4a3016a56d08",
+  "source_id": "1pd4pee",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pd4pee/motsc_and_gym_performancemood/",
+  "author_hash": "01df7b1fa576cfc6db92d8d7a6c86b24c3eee6c93e0187e1ef132e6f00628942",
+  "confidence_tier": 4,
+  "date_published": "2025-12-03T05:51:27-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "3x/week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "methylene blue",
+      "name_normalized": "methylene_blue",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "on off days from MOTS-C",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Reports great results with current stack",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Uses methylene blue capsules on days not injecting MOTS-C as part of mitochondrial support stack.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.262127Z"
+}

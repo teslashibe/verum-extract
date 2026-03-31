@@ -1,0 +1,32 @@
+{
+  "id": "c6f3a9f7-225d-4b3f-9779-9d6578b170b5",
+  "source_id": "1s3kq0k",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3kq0k/hgh_sweet_spot/",
+  "author_hash": "6e8420835a688c26f6eccf0e3c696e0a94ae35e0a4a63df45f17cdc8be3e0f70",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T12:30:52-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 4,
+      "dose_unit": "IU",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1 Z-score",
+      "value_after": 1.8,
+      "unit": "z-score"
+    }
+  ],
+  "protocol_notes": "User runs 4IU and achieved a Z-score of 1.8 on IGF-1.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104372Z"
+}

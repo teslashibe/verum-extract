@@ -1,0 +1,40 @@
+{
+  "id": "1d890e5f-7032-46dd-a0bd-6420fa0b2769",
+  "source_id": "1m0o6t5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m0o6t5/i_took_20mg_of_ghkcu_in_one_sitting/",
+  "author_hash": "70a858fa19a80c8d716f164180eccd966ef1645f51a77ddf5e4b83d5e54293ff",
+  "confidence_tier": 5,
+  "date_published": "2025-07-15T10:34:14-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ghkcu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 75,
+      "dose_unit": "mcg",
+      "frequency": "single dose mentioned",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Self-described as 'glowing' for 3 weeks after use",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Itching like a mother fucker",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User took 75 units of GHK-Cu at one time. Recommends taking Zinc to balance copper, ensuring zinc supplement does not already contain copper. Reports glowing skin effect lasting 3 weeks.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.279073Z"
+}

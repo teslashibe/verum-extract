@@ -1,0 +1,49 @@
+{
+  "id": "816e6f52-db2a-4b44-aae7-f1265bd4c6ca",
+  "source_id": "1rvpa2a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvpa2a/na_semax_dosage/",
+  "author_hash": "1a5735a21d0a8c3d5c16d67dd65909af61c5fa30bddc5248a3990b2424bd06e3",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T15:58:13-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Feeling great at 500mcg dose",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Angry and annoyed all day after dosing 1mg",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User was tolerating 500mcg SubQ well, then increased to 1mg SubQ without specific reason, which resulted in negative mood effects. Suggests dose-dependent adverse response.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.662763Z"
+}

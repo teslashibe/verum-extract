@@ -1,0 +1,34 @@
+{
+  "id": "b6d1bc4a-3c73-44dd-8d7d-0d62f4e5d8ef",
+  "source_id": "1n7sb0l",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n7sb0l/motsc_protocols_are_all_over_the_board/",
+  "author_hash": "e5425c79437648104d88b9cf9dc359cf08b6bb5cba0c80642cb5788c596a04c3",
+  "confidence_tier": 4,
+  "date_published": "2025-09-03T14:58:28-07:00",
+  "compounds": [
+    {
+      "name_raw": "mots-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "intramuscular",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "5x/week",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Strong histamine response with very itchy rashes; switched from subcutaneous to IM to manage but still experiencing reaction",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Switched to IM from subcutaneous due to persistent histamine/rash reaction. Still experiencing reaction on IM. Plans to stop after finishing current vial.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.27291Z"
+}

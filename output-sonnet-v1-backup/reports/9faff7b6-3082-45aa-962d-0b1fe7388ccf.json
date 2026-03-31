@@ -1,0 +1,34 @@
+{
+  "id": "9faff7b6-3082-45aa-962d-0b1fe7388ccf",
+  "source_id": "1rryih0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rryih0/motsc_im_injection/",
+  "author_hash": "bab9c7f611b25a3b28b819a2b43b9ea769dda65647111463ab7722c71ff76ee9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T11:16:00-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "intramuscular",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 times per week",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Red welts when using SubQ route; no injection site issues with IM route",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Switched from SubQ (which caused red welts) to IM injection at 2mg 5x/week with no injection site problems.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109303Z"
+}

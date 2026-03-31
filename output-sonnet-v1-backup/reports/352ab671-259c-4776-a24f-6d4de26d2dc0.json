@@ -1,0 +1,53 @@
+{
+  "id": "352ab671-259c-4776-a24f-6d4de26d2dc0",
+  "source_id": "1s4wrye",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4wrye/tesamorelin_motsc_reta_in_caloric_surplus/",
+  "author_hash": "1b9bbfcb72e935329824301ef769c2964f8912c92efbf428f753e863d26153d4",
+  "confidence_tier": 5,
+  "date_published": "2026-03-26T23:50:11-07:00",
+  "training_status": "active, trains hard",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Reta makes it nearly impossible to get calories in; described as controlled starvation, very effective for weight loss",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Tesamorelin is good for forcing the body towards anabolism and helping maintain and build muscle; a great recomp tool",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "MOTS-C helps with glucose uptake into muscle, fat partitioning, and directing calories toward use rather than storage",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User has personal experience with all three compounds separately. Notes reta is counterproductive for a caloric surplus due to extreme appetite suppression. Tesamorelin used with good results for recomposition. MOTS-C described as a metabolic adaptation peptide rather than a fat loss peptide.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.103887Z"
+}

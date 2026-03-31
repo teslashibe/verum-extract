@@ -1,0 +1,50 @@
+{
+  "id": "f3f979c7-b217-4d1c-9fee-2f433c12e0e3",
+  "source_id": "1s08in4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s08in4/thoughts_on_adding_motsc_to_next_tesamorelin_cycle/",
+  "author_hash": "41e01c16f9f45f1c3eab69eb7d8ba98550c87e677bd85c49ef4f0d20802ee5af",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T18:18:22-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "frequency": "5 days on 2 days off",
+      "cycle_length_days": 84,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5 days on 2 days off",
+      "cycle_length_days": 84,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "2x weekly (Monday, Thursday)",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Completed 12-week Tesamorelin cycle at escalating doses (0.75mg to 1mg). Planning 4-week break, then restart at 1.25-1.50mg for another 12 weeks. Considering adding MOTS-c for first 6 weeks of next cycle at 10mg Monday and Thursday.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.648723Z"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "56c9b2f6-7493-44cd-85a9-ee102c6b42f6",
+  "source_id": "1orc5f1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1orc5f1/weight_loss_question_for_the_ladies/",
+  "author_hash": "a9b07db28bc8ff44d11fa90e565f91413141659500581993ac0cde21b558e3d8",
+  "confidence_tier": 4,
+  "date_published": "2025-11-07T17:12:41-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 136,
+    "unit": "lbs"
+  },
+  "training_status": "3-4x per week bodyweight training, 30-40 minutes",
+  "health_conditions": [
+    "perimenopause"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 64 pounds over one year (200 lbs to 136 lbs). Added Retatrutide to reduce calorie intake further.",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Became hungrier in August, added Retatrutide to manage increased appetite and enable further calorie reduction to 1250-1350 cal/day",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hormonal",
+      "description": "Period stopped coming for 60 days, then became spotting only, now stopped completely. Likely due to combination of low calorie intake and weight loss at perimenopause stage.",
+      "severity": "significant",
+      "onset_days": 120,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Height: 5'7\". Goal weight: 132 lbs (60 kg). Currently stalled at 136 lbs for 4 weeks despite maintaining 1250-1350 calorie intake. User is in perimenopause with previously regular periods. Considering switching to maintenance mode due to concern about hormonal disruption.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.677772Z"
+}

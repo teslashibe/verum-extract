@@ -1,0 +1,49 @@
+{
+  "id": "07247f7f-569b-423c-b529-a1a48b85923b",
+  "source_id": "1p4e598",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p4e598/concerns_about_glow_peptide/",
+  "author_hash": "b7ee1e5d156135bbb5ffc63cf6384abd344d583afa549a43849731707a40ece7",
+  "confidence_tier": 4,
+  "date_published": "2025-11-22T21:02:00-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "3x per week",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "3x per week",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Maintenance-level injury support",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Injury repair support",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Uses 1mg BPC-157 Mon/Wed/Fri for maintenance due to preference for avoiding daily injections. Uses 1mg TB-500 3x per week for maintenance, can increase to 2mg 3x per week for aggressive approach. Notes that BPC-157 has short half-life and TB-500 has longer half-life. Prefers separate vials for better control. Cost is limiting factor preventing higher doses.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.9,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.393116Z"
+}

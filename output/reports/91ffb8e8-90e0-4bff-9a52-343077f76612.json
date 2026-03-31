@@ -1,0 +1,56 @@
+{
+  "id": "91ffb8e8-90e0-4bff-9a52-343077f76612",
+  "source_id": "1rj6gis",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rj6gis/time_between_cycles/",
+  "author_hash": "ab6f747e30770ffcfc758e385865bd0b653d33e607ab6ec40cda4b76810cf52d",
+  "confidence_tier": 5,
+  "date_published": "2026-03-02T13:52:07-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "1-2 times daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "1-2 times daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    },
+    {
+      "marker_name": "fasting glucose"
+    },
+    {
+      "marker_name": "A1C"
+    },
+    {
+      "marker_name": "lipids"
+    }
+  ],
+  "protocol_notes": "Commenter providing general protocol advice, not personal experience report. Recommends 4-8 week break between GH/IGF-1 affecting cycles with labs. Notes tesamorelin dosed at night (2-3 hours fasted), CJC/Ipamorelin in morning (fasted up to 2 hours). Dosing 200mcg per compound (400 total if blend), 1x daily if stacking with Tesamorelin, 1-2x daily otherwise. DAC vs non-DAC variants affect dosing.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.669793Z"
+}

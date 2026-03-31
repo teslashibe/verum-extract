@@ -1,0 +1,60 @@
+{
+  "id": "b054c290-558f-4ae0-9c04-4422b2af4a53",
+  "source_id": "1qidto9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qidto9/realistically_how_effective_would_it_be_to_add/",
+  "author_hash": "c78a7f569b5e2af6eee0740d2761b9afb388764a647d05447e3faa627b0f6ca5",
+  "confidence_tier": 4,
+  "date_published": "2026-01-20T13:16:55-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "MOTS-c increasing energy and stamina in the gym",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Running mitochondrial protocol. Added NAD+ at low dose last week. Running SS-31 first to heal mitochondrial wall, then MOTS-c for optimization. Plans to add GLOW stack. Escalated SS-31 from 50mg to 100mg to 200mg over 6 weeks. Felt flush at 100mg. Shared detailed Google Doc protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.683711Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "705fc60d-d7b1-4901-806f-d7b74c317529",
+  "source_id": "1jvx60w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jvx60w/need_help_switched_from_semaglutide_to/",
+  "author_hash": "85b900875b4635683964f7cf30b9d880d264c035d75b125e7f4f418c05c98c0a",
+  "confidence_tier": 4,
+  "date_published": "2025-04-10T05:53:19-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Experienced appetite suppression and fullness on semaglutide; no such effects noted after first tirzepatide injection"
+    }
+  ],
+  "protocol_notes": "Switched from insurance-covered semaglutide 1mg auto-injector to self-purchased tirzepatide lyophilized powder (30mg vial). Reconstituted with 3mL bacteriostatic water. Drew 40 units for first injection based on online conversion chart. Powder was stored at room temperature for an unknown period before reconstitution. No effects felt after a few days. Concerned about possible degradation or underdosing.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.286168Z"
+}

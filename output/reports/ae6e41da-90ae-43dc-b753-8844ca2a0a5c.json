@@ -1,0 +1,52 @@
+{
+  "id": "ae6e41da-90ae-43dc-b753-8844ca2a0a5c",
+  "source_id": "pjatce",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/pjatce/funny_story_about_bpc157/",
+  "author_hash": "8a820014ab106270dd359d9b0cd9181ae0e4b90f3d24f6278f9a808d5f5006b9",
+  "confidence_tier": 4,
+  "date_published": "2021-09-06T16:10:02-07:00",
+  "training_status": "active training",
+  "health_conditions": [
+    "chronic shoulder pain from repetitive stress injury",
+    "anxiety"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Helped recover faster than normal, able to work out and build strength without flare ups from chronic shoulder pain",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Improved mood, helpful for dealing with anxiety",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Stacked with TB-500 and GHK-Cu, cannot isolate BPC effect. Benefits persisted for couple weeks after stopping peptides.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.13037Z"
+}

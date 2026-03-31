@@ -1,0 +1,33 @@
+{
+  "id": "36585fbb-33ba-44e7-8532-aae3eb2e79a2",
+  "source_id": "1s78p8j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s78p8j/cjc1295/",
+  "author_hash": "fcf3fb4d001a7a11aaf47394f25aa1566643c0ff05c7f8a655a54c42b1d09be3",
+  "confidence_tier": 5,
+  "date_published": "2026-03-29T15:13:32-07:00",
+  "training_status": "experienced (20 years lifting)",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2.25,
+      "dose_unit": "mg",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "User is asking about adding CJC-1295 to existing Retatrutide protocol. Taking creatine and 200g protein daily. Goal is lean muscle building while cutting on Reta. Also inquired about TB-500 and HGH but no details on actual usage.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.645037Z"
+}

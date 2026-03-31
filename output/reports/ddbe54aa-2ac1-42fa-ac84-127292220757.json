@@ -1,0 +1,61 @@
+{
+  "id": "ddbe54aa-2ac1-42fa-ac84-127292220757",
+  "source_id": "1re12v6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1re12v6/mental_health_peptides/",
+  "author_hash": "899a6cb5b9c006fb68edacde50eb6d49116670c05a8f65e39a83cd04732dafcd",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T18:42:37-08:00",
+  "health_conditions": [
+    "depression",
+    "anxiety",
+    "ADHD"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once daily (morning)",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once daily (evening)",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Improved task initiation and sustained focus, able to stay on task for about 3 hours instead of scrolling",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Improved sleep with more vivid dreams",
+      "severity": "moderate"
+    },
+    {
+      "category": "anxiety_relief",
+      "description": "Expected anxiety reduction as Selank builds in system over weeks",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "4 weeks on / 4 weeks off cycle. Semax taken subQ every morning, Selank subQ every night. Currently maintaining 500mcg Selank dose but considering increasing to 1mg next cycle. Interested in testing nasal spray forms. User notes Selank may take couple weeks to build up in system.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.672288Z"
+}

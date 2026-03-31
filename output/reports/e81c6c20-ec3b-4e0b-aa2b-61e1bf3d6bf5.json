@@ -1,0 +1,34 @@
+{
+  "id": "e81c6c20-ec3b-4e0b-aa2b-61e1bf3d6bf5",
+  "source_id": "1kydvtk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kydvtk/klow_crosscheck_plz/",
+  "author_hash": "1b50b2bdfe174814f5df3c8b3af51f863ca1ddc34ff58dd4586305648c3362f4",
+  "confidence_tier": 4,
+  "date_published": "2025-05-29T08:35:32-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "intramuscular",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Injection site burning/pain when administered subcutaneously at higher concentrations; switched to IM to mitigate",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Current concentration: 5 mg/l GHK-Cu. Reports that 16 mg/l concentration causes significant injection site pain with subcutaneous administration. Uses IM route instead.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.69015Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "c88bca1a-d2e2-43ea-8d2c-e2d3a8c807d5",
+  "source_id": "1rx991i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx991i/anyone_taken_cerebrolysin/",
+  "author_hash": "c36bf3ebe2328083b084936b65ce353e9ea4555ebdac508bf74e8db0c577963e",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T09:51:46-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Cerebrolysin",
+      "name_normalized": "cerebrolysin",
+      "category": "cognitive",
+      "route": "intramuscular",
+      "dose_value": 5,
+      "dose_unit": "ml",
+      "frequency": "daily",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "felt almost too sharp, remembered things with no reason to remember them",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "felt amazing overall",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive",
+      "description": "left user 10% better than baseline after cycle ended",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "headache",
+      "description": "gave migraines, possibly associated with high BDNF levels",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Protocol: 5ml/day, 5 days per week for 4 weeks. User speculated high BDNF levels may cause migraines based on research.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.649919Z"
+}

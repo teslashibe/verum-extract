@@ -1,0 +1,66 @@
+{
+  "id": "1ae64333-64ab-445b-ac47-e87ddb531b1b",
+  "source_id": "1maxgru",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1maxgru/am_i_taking_too_many_things_at_once/",
+  "author_hash": "476859bb30304ab4ff1b0c2a1ddfc5003cd4a517df86155cf85ac9365c65a09b",
+  "confidence_tier": 4,
+  "date_published": "2025-07-27T14:01:17-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "every other day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "every 5 days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Prostamax",
+      "name_normalized": "prostamax",
+      "category": "immune",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "frequency": "every 3 days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SLU-PP-322",
+      "name_normalized": "slu_pp",
+      "category": "other",
+      "route": "oral",
+      "frequency": "3 times daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User commented that they are glad they are not the only one pinning a lot of compounds. Appears to be running a comprehensive anti-aging/performance protocol.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.686241Z"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "5cc3df2c-5ffc-42e4-8532-7e3bff6fea4d",
+  "source_id": "1ry993p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ry993p/need_help_assessing_what_to_take/",
+  "author_hash": "d0b7d1ad92ebfa015736c86f38ce61553e613eb7be5c301c91ef7ce57f55925b",
+  "confidence_tier": 4,
+  "date_published": "2026-03-19T11:57:34-07:00",
+  "health_conditions": [
+    "low testosterone"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone Cypionate",
+      "name_normalized": "testosterone_cypionate",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "split twice per week",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Testosterone levels raised from 110 ng/dL to 1200 ng/dL; described as a HUGE difference",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Testosterone",
+      "value_before": 110,
+      "value_after": 1200,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "User recommends Intramuscular Testosterone Cypionate at 200mg split twice per week. Mentions TRT will shut down natural production and may affect fertility, requiring PCT if discontinued.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106505Z"
+}

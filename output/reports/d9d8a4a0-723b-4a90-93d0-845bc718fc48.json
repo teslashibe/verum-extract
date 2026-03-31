@@ -1,0 +1,49 @@
+{
+  "id": "d9d8a4a0-723b-4a90-93d0-845bc718fc48",
+  "source_id": "15y7gnn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/15y7gnn/best_sema_source/",
+  "author_hash": "25b093d674b99e0e82b2ac8fb9126623915e2909a158d93df5367bba2940ab6c",
+  "confidence_tier": 4,
+  "date_published": "2023-08-22T07:28:22-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "QSC and Arctic sources provided measurable appetite suppression. Original MJ pens from Walgreens in April also effective.",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "blood_sugar"
+    },
+    {
+      "marker_name": "insulin"
+    },
+    {
+      "marker_name": "liver_enzymes"
+    }
+  ],
+  "protocol_notes": "Multi-week experience with QSC and Arctic semaglutide. Recently tried genuine MJ 10mg pen from CVS which did not perform as well as previous QSC/Arctic or original Walgreens MJ pens from April. Notes that GLP-1 medications cause dynamic body chemistry changes (reduced blood sugar, increased insulin production, reduced liver enzymes, reduced caloric intake) that affect dose-to-dose response variation.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.700974Z"
+}

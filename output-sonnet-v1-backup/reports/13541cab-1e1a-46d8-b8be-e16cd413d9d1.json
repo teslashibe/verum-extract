@@ -1,0 +1,106 @@
+{
+  "id": "13541cab-1e1a-46d8-b8be-e16cd413d9d1",
+  "source_id": "1nnpcen",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nnpcen/what_the_hell_happened_to_me_after_taking_cjc1295/",
+  "author_hash": "7bcc026250fd43f6e604cafa426c43da1af90bf936ec21aaeae9876e54b604d2",
+  "confidence_tier": 4,
+  "date_published": "2025-09-22T08:18:42-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 180,
+    "unit": "lbs"
+  },
+  "training_status": "Trains 5-6 days per week consistently, ~13% body fat",
+  "health_conditions": [
+    "low testosterone (400-440 ng/dL baseline)",
+    "below baseline testosterone as a man"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC1295 with DAC",
+      "name_normalized": "cjc1295_with_dac",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "twice per week (intended weekly per DAC protocol, split into twice weekly)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Injection site burned immediately and for a solid day after first injection",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "numbness_tingling",
+      "description": "Left arm completely numb and tingling the morning after first injection; arms extremely sensitive to numbness and tingling for any activity; ongoing tingling in left arm",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "other",
+      "description": "Muscles hurting, back hurting, feeling like pulled muscles in legs",
+      "severity": "moderate",
+      "onset_days": 1
+    },
+    {
+      "category": "appetite_change",
+      "description": "Appetite disappeared; forced to eat despite naturally having a massive appetite",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "mood_change",
+      "description": "Lost sense of confidence and strength felt from testosterone; now just 'exists' with diminished sense of well-being",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_before": 420,
+      "unit": "ng/dL"
+    },
+    {
+      "marker_name": "estrogen",
+      "value_before": 25
+    }
+  ],
+  "protocol_notes": "OP is naive to peptides and made a dosing error — injected 0.5 mL of CJC1295 w/DAC and 0.3 mL of Ipamorelin, not understanding that volumes must be converted to mcg/mg based on reconstitution. Used 10 mg vials reconstituted with 2 mL bacteriostatic water, meaning approximate doses were 2.5 mg CJC1295 w/DAC and 1.5 mg Ipamorelin per injection. Only administered two injections total before stopping. OP acknowledged the overdose error in an update. Also concurrently on week 7 of a 10-week testosterone cycle at 200 mg/week.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.270536Z"
+}

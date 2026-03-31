@@ -1,0 +1,32 @@
+{
+  "id": "bec391e3-775b-49ed-9e21-d9b50df163c7",
+  "source_id": "1q89bx0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q89bx0/can_i_inject_glutathione_into_the_fat_tissue/",
+  "author_hash": "a8dec926cfde8e9f816728ec248b64a0e49de78f28962eee64220bc9a8f844c6",
+  "confidence_tier": 4,
+  "date_published": "2026-01-09T06:14:19-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Some report a burn from glutathione",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Uses GTB (glutathione reconstitution buffer) to reconstitute glutathione to avoid burn sensation. Uses 1/2 inch needle for subcutaneous administration. No issues reported with this protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.671445Z"
+}

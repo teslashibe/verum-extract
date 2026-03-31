@@ -1,0 +1,38 @@
+{
+  "id": "97c6297a-dad1-41a6-8ab8-49e2fd0af4d3",
+  "source_id": "1rj1j09",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rj1j09/thymosin_alpha1/",
+  "author_hash": "619704059f73ccdfab34df9a70ef6565e096da13aa2cfe85de77274bfdf19364",
+  "confidence_tier": 5,
+  "date_published": "2026-03-02T10:51:57-08:00",
+  "compounds": [
+    {
+      "name_raw": "ta-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "topical",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "immune",
+      "description": "Aunt was in ICU with sepsis, applied topically twice, woke up and ate for the first time in several weeks",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "WBC"
+    },
+    {
+      "marker_name": "lymphocytes"
+    }
+  ],
+  "protocol_notes": "Reporting on aunt's use, not personal use. Applied topically twice during ICU stay for sepsis. Also mentions bloodwork showing normal WBC and lymphocytes (unclear if personal or aunt's).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.113035Z"
+}

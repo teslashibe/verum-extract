@@ -1,0 +1,49 @@
+{
+  "id": "cd0a7304-e156-46eb-b1ef-5deefe88b3d1",
+  "source_id": "1s4nb6z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4nb6z/semorelin_vs_cjc_vs_tesamorelin/",
+  "author_hash": "0490e7e950ac4824865d886f9da6ce0d695c2aa9d1482b44d7c9100fea3779a4",
+  "confidence_tier": 5,
+  "date_published": "2026-03-26T16:19:12-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Better sleep on sermorelin",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Better body composition on sermorelin",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Appetite doubled on Tesa",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Stopped Tesa due to doubled appetite. Preferred sermorelin for sleep and body composition. Plans to try CJC next.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104021Z"
+}

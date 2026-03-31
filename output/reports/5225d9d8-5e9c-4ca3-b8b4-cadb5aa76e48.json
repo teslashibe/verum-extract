@@ -1,0 +1,43 @@
+{
+  "id": "5225d9d8-5e9c-4ca3-b8b4-cadb5aa76e48",
+  "source_id": "1fv4rz5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fv4rz5/body_recomp_on_ozempic_what_peptides_can_i_stack/",
+  "author_hash": "b1e0975b90d23aa14b75ea3f21233303b1de23387de35d14f370d3051baed2d1",
+  "confidence_tier": 4,
+  "date_published": "2024-10-03T03:46:13-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily (5 on, 2 off)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Day 1: itching near tesamorelin injection site. Day 2-3: increased itching, hives around injection site. Day 3+: extreme itching on feet, palms, and lips.",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 14
+    }
+  ],
+  "protocol_notes": "Started tesamorelin approximately 1 month before semaglutide. Combined dosing (tesamorelin + semaglutide) on day 1 triggered reaction. Tesamorelin discontinued during semaglutide course. Restarted tesamorelin 1 week after final semaglutide dose with small reaction. No reaction noted 2+ weeks after last semaglutide injection. Reaction appeared to be related to combination or timing of both peptides.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.413386Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "7441e88f-1f4d-44d8-8127-c09d8dc5cf74",
+  "source_id": "1qpeogu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qpeogu/help_spot_on_glute/",
+  "author_hash": "7e52fae5b46e85fbb8f1369af727fababd0b78372210cca0c0bb7be1c90e44f1",
+  "confidence_tier": 4,
+  "date_published": "2026-01-28T07:38:26-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Brown patch on glute approximately 12 cm x 7 cm in size",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User suspects Melanotan II caused the brown patch and stopped it immediately. Patch does not itch or hurt but user is concerned about skin cancer.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.682723Z"
+}

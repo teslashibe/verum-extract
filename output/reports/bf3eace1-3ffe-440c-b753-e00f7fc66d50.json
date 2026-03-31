@@ -1,0 +1,59 @@
+{
+  "id": "bf3eace1-3ffe-440c-b753-e00f7fc66d50",
+  "source_id": "13o0qe1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/13o0qe1/bpc157_love/",
+  "author_hash": "1116ce54b3d42b777eda82665d846a4d160711c05924035761ecba567328e07f",
+  "confidence_tier": 4,
+  "date_published": "2023-05-21T10:22:37-07:00",
+  "training_status": "active lifter",
+  "health_conditions": [
+    "ulnar wrist issue",
+    "shoulder tendonopathy"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Ulnar wrist issue healed within 5 days with supportive care (brace, ice, mindful positioning)",
+      "severity": "significant",
+      "onset_days": 5
+    },
+    {
+      "category": "injury_healing",
+      "description": "2-year shoulder tendonopathy healed within 1 week despite months of physical therapy previously",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "mood",
+      "description": "At 500mcg per day, mood improved; at 1mg per day, caused anhedonia",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "At 1mg daily dosing, caused anhedonia; repeated use at higher doses led to anxious anhedonia",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Initially dosed at 500mcg twice daily. Switched to 250mcg twice daily after initial healing. Injected subcutaneously above pain site on wrist. User notes source quality varies significantly; current source (2023) much more effective than source from summer previous year. Mentions compound is systemic despite localized injection.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.420834Z"
+}

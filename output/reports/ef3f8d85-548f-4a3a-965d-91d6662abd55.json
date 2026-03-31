@@ -1,0 +1,55 @@
+{
+  "id": "ef3f8d85-548f-4a3a-965d-91d6662abd55",
+  "source_id": "1ryjyx5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ryjyx5/alternating_injection_spots_wolverine_stack/",
+  "author_hash": "94487f8fbf30dd83ac39217bd7ed6bb59d0794d03ad9298bbb6de3b23d755e21",
+  "confidence_tier": 4,
+  "date_published": "2026-03-19T19:17:57-07:00",
+  "health_conditions": [
+    "shoulder injury"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Reversed shoulder reconstruction surgery need. Went from zero ROM and pain to full weight shoulder and chest presses. No gym activity brings pain or concern now.",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Full range of motion recovery in shoulder",
+      "severity": "significant"
+    },
+    {
+      "category": "pain_relief",
+      "description": "Eliminated shoulder pain during exercise",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "BPC-157 pinned directly at shoulder injury site (top of shoulder). TB-500 pinned in abdomen. User emphasizes localized injection at site of injury for BPC due to shorter half-life compared to TB-500. Separate injection sites and separate injection timing recommended. User cites Dr. Hyman and Trevor Bachmeyer as sources for site-specific injection rationale.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.661032Z"
+}

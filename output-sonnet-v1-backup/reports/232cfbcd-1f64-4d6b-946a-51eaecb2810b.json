@@ -1,0 +1,44 @@
+{
+  "id": "232cfbcd-1f64-4d6b-946a-51eaecb2810b",
+  "source_id": "1mamwcr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mamwcr/do_youshould_you_cycle_kisspeptin10/",
+  "author_hash": "f245827ed9b70573b603b8264f7cf42059d61e90932eef8701ebf8a8c1e26a8c",
+  "confidence_tier": 5,
+  "date_published": "2025-07-27T06:55:17-07:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "low testosterone",
+    "high estrogen (e2 buildup)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "clomid",
+      "name_normalized": "enclomiphene",
+      "category": "hormonal",
+      "route": "oral",
+      "cycle_length_days": 365,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Kisspeptin",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "frequency": "2-3 times a week",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "libido_change",
+      "description": "Clomid completely killed libido, most likely due to e2 buildup",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Currently on doctor-prescribed clomid for 1+ year to raise testosterone without TRT. Wants to switch to Kisspeptin due to perceived safety advantage (mimics natural GnRH pulses, short half-life). Plans to get frequent labs and assess HPTA recovery during breaks. Tried to get enclomiphene but doctor could not prescribe it (not FDA approved) and local compounding pharmacies would not make it.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.277652Z"
+}

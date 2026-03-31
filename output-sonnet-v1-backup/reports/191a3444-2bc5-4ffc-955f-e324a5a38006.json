@@ -1,0 +1,39 @@
+{
+  "id": "191a3444-2bc5-4ffc-955f-e324a5a38006",
+  "source_id": "1rvp24a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvp24a/ss31_fatigue_and_brain_fog_and_mitigation/",
+  "author_hash": "a6478ccf09c71c5aa72d251a46a14c18cbb8c66f452e22c0679fef23d5a5ea73",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T15:50:02-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Receives benefits at 5mg dose"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "10mg kicked his ass; could not tolerate doses above 5mg despite 5 titration attempts",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Attempted to titrate up to 10mg five times but settled at 5mg as maximum tolerable dose.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.10763Z"
+}

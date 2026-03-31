@@ -1,0 +1,60 @@
+{
+  "id": "5217cb5a-02f6-412a-bd8f-2f156f259c81",
+  "source_id": "1r425h1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r425h1/cjc1295pamorelin_rapid_heart_rate/",
+  "author_hash": "7cf5d0b92ee86fc7ff87bc2073ecba5d0f296ed05b925225e9b10903d3525487",
+  "confidence_tier": 4,
+  "date_published": "2026-02-13T13:45:21-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Flushing in face",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 4
+    },
+    {
+      "category": "headache",
+      "description": "Slight pressure in head",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 4
+    },
+    {
+      "category": "cardiac",
+      "description": "Elevated heart rate",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 4
+    }
+  ],
+  "protocol_notes": "Blend of CJC-1295 and Ipamorelin, 100mcg each. Effects lasted approximately 15 minutes. After 4 days, effects subsided. Body became accustomed to the peptide. Has kept dose the same with no issues since.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.663975Z"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "d60b7c49-9ac8-494a-81b7-bd459c9692bb",
+  "source_id": "1no254w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1no254w/reta_admission_learn_from_my_mistakes/",
+  "author_hash": "ba5e72037ac6c24bfbef033af7fabff704a94c527cc84a14cf78efe52660b37d",
+  "confidence_tier": 4,
+  "date_published": "2025-09-22T16:37:20-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Still requires small meals to avoid heartburn, implying some appetite effect",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Heartburn if meals are not kept small",
+      "severity": "mild"
+    },
+    {
+      "category": "other",
+      "description": "Too much side effects at 1.2mg, took weeks off",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started at 0.5mg, went up to 1.2mg which was too much, took several weeks off, then restarted at 0.5mg twice weekly about two weeks ago.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.270257Z"
+}

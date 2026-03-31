@@ -1,0 +1,48 @@
+{
+  "id": "217a6140-d89f-42ad-9c15-77dddc052f4a",
+  "source_id": "1me8d30",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1me8d30/ehlersdanlos_syndrome_eds/",
+  "author_hash": "83c438a5d9240ed8d1b3259019c2fb8c27092c9749c53ed861f0387cd05500be",
+  "confidence_tier": 5,
+  "date_published": "2025-07-31T10:48:58-07:00",
+  "health_conditions": [
+    "EDS type 3",
+    "fibromyalgia",
+    "non-restorative sleep"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "bpc",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Mounjaro",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "DSIP made sleep worse on first use",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Just started BPC, too early to tell results. Tried DSIP once for non-restorative sleep with negative outcome. Mounjaro (Tirzepatide) prescribed for weight loss made no difference to EDS/fibro symptoms. Located in UK.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.276965Z"
+}

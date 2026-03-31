@@ -1,0 +1,52 @@
+{
+  "id": "d7b42405-ff1e-4ec0-b955-47da742c1092",
+  "source_id": "1mlauja",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mlauja/his_hers/",
+  "author_hash": "c9167085cc046cb87811678401b84386ae72a0fac6592f53700a561afabbe92e",
+  "confidence_tier": 4,
+  "date_published": "2025-08-08T16:47:49-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "dose_value": 160,
+      "dose_unit": "mg",
+      "frequency": "split Monday and Thursday",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD/CJC",
+      "name_normalized": "aodcjc",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC157/TB500",
+      "name_normalized": "bpc157tb500",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Testosterone",
+      "value_after": 1250
+    }
+  ],
+  "protocol_notes": "OP pins testosterone daily; wife does injections for him. Stack includes NAD, Testosterone, AOD/CJC, BPC157/TB500 x2. Uses Easy Touch syringes. Does most research on ChatGPT. Syringes stored refrigerated per provider guidance.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.276062Z"
+}

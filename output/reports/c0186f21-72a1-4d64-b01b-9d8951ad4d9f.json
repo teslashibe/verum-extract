@@ -1,0 +1,43 @@
+{
+  "id": "c0186f21-72a1-4d64-b01b-9d8951ad4d9f",
+  "source_id": "1i0tu3a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1i0tu3a/can_i_take_protein_shake_an_hour_before_tesaipa/",
+  "author_hash": "c3d1a73484fdfa40965e2297d27e81300b106cd73bdcda6ba4c3e2baa44d537b",
+  "confidence_tier": 4,
+  "date_published": "2025-01-13T16:55:28-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "IGF-1 elevation"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "timeframe_days": 14
+    }
+  ],
+  "protocol_notes": "User reports anecdotal study of 1: ran tesa+ipa with fasting protocol, testing IGF-1 every couple weeks. Then ran tesa+ipa without fasting. Found IGF-1 levels higher on non-fasted protocol. Reports testing every couple of weeks during both protocols.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.694479Z"
+}

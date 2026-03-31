@@ -1,0 +1,63 @@
+{
+  "id": "6056e553-13c8-4d9f-b2e6-da6bc6a7aa8a",
+  "source_id": "16gr706",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16gr706/can_i_stack/",
+  "author_hash": "7c37c7edf55a67dcf04abc0218868d2704907c5965d0ea6ea25b93a218cd98d1",
+  "confidence_tier": 4,
+  "date_published": "2023-09-12T06:19:06-07:00",
+  "training_status": "works out regularly",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 10 pounds in 2 months on AOD-9604",
+      "severity": "moderate",
+      "onset_days": 60
+    },
+    {
+      "category": "body_composition",
+      "description": "Muscle to fat ratio improved, receiving compliments",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Ipamorelin/CJC-1295 combination cut appetite significantly",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "strength",
+      "description": "Improved strength and endurance",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Added Ipamorelin/CJC-1295 after 2 months on AOD-9604 due to weight loss plateau. Planning to discontinue AOD-9604 and continue with Ipamorelin/CJC-1295.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.7008Z"
+}

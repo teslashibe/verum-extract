@@ -1,0 +1,100 @@
+{
+  "id": "c8e0d53e-d4b4-4ae5-8144-f144d7be816a",
+  "source_id": "kejcwl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/kejcwl/i_compiled_my_experiences_with_peptides_over_a/",
+  "author_hash": "f4d7aa26ffb2128edc666f83c12f8b65e5e373c2aa61eb0837a1754d2adfe0f8",
+  "confidence_tier": 4,
+  "date_published": "2020-12-16T14:15:22-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "nasal",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "nasal",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "Overall youthful feeling, described as feeling like 25 again",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Skin improvement with topical GHK-Cu",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive",
+      "description": "Cognitive enhancement with Selank/Semax nasal combination",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Enhanced recovery effects when combining Epithalon and Thymosin Alpha-1",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "GHK-Cu injections formed lumps under skin that itched/hurt and took days to absorb, occurred regardless of injection site or dose",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "headache",
+      "description": "Headaches when dosing Selank/Semax too much in a row",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Combined multiple peptides into single syringe via backfill to reduce injection frequency. BPC dose later reduced from 1mg daily due to suspected inefficiency at higher doses. GHK-Cu initially attempted as injection but caused persistent lumps; also tried nasal spray (caused burning and mucus membrane drying) and tablets (ineffective); settled on topical application. Reports Epithalon/Thymosin Alpha-1 combination more effective than either alone. Selank and Semax used together nasally for 6+ months with monolaurin; cycles them to avoid headaches. Also uses psilocybin microdose daily in rotation. Year-long experimentation period documented in Medium articles.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.703508Z"
+}

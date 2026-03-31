@@ -1,0 +1,34 @@
+{
+  "id": "1dbffe05-f276-4d2e-8306-45d5b8b12073",
+  "source_id": "1f8k5cg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1f8k5cg/just_as_a_random_n1_on_what_happens_when_you/",
+  "author_hash": "bb3c17c358b15d93bbb5ad1a376592bef81c082f6333a7b1cbcc3c5cf5edcbb0",
+  "confidence_tier": 4,
+  "date_published": "2024-09-03T21:04:49-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Insomnia at higher doses (1000-1500mcg); returned to 500mcg daily to manage; occasional insomnia still occurs at 1000mcg",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Has taken up to 1500mcg on some days. Back to 500mcg daily as standard due to sleep issues at higher doses. Sometimes still takes 1000mcg but notes no subjective difference in effects beyond sleep disruption.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.291299Z"
+}

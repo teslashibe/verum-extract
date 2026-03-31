@@ -1,0 +1,64 @@
+{
+  "id": "27ac0e1b-0ce0-4b91-8af2-1e0608692ee8",
+  "source_id": "1o053oo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o053oo/hgh_reta_vs_tesaipa_tirz/",
+  "author_hash": "f3b7544c4b46e327381fc06d237a94f7ef1b48a9ef9796d52cbddf34a0ffd127",
+  "confidence_tier": 4,
+  "date_published": "2025-10-06T21:24:34-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "HGH provides modest fat loss boost equivalent to approximately 50 calorie daily deficit",
+      "severity": "mild"
+    },
+    {
+      "category": "skin",
+      "description": "HGH provides noticeable skin improvements over 6+ months when combined with strict skincare, tretinoin, and estradiol management",
+      "severity": "significant",
+      "onset_days": 180
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "HGH causes water retention affecting scale weight and blood pressure readings",
+      "severity": "moderate"
+    },
+    {
+      "category": "blood_pressure",
+      "description": "RAAS-mediated hypertension from HGH; manageable with ACE inhibitor",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "May feel less rested if waking to alarm; requires 10-12 hour sleep cycles",
+      "severity": "moderate"
+    },
+    {
+      "category": "hormonal",
+      "description": "HGH makes insulin resistance worse or creates new metabolic disorder",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Currently on tirz + HGH + TRT (testosterone replacement therapy). Uses ACE inhibitor to mitigate hypertension. Maintains high estradiol (E2) with 12-hour sleep cycles. Long-term HGH use for skin benefits combined with strict skincare routine and tretinoin.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.68Z"
+}

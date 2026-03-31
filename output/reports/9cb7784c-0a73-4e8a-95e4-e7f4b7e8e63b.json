@@ -1,0 +1,39 @@
+{
+  "id": "9cb7784c-0a73-4e8a-95e4-e7f4b7e8e63b",
+  "source_id": "1s1y4t8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1y4t8/middle_of_the_night_cjc1295ipa/",
+  "author_hash": "a7b2a6904bec0b34f8f9049d2fe415892fcc6beecad77536c6e9ee4d6964d7a7",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T17:00:35-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "pre-bed routine",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Red face, veins prominent like a road map",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "cardiac",
+      "description": "Increased heart rate",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Flush onset ~90 seconds post-injection, lasting 10-15 minutes. Increased HR follows flush and lasts longer. User adjusted timing to 30-60 minutes before sleep to manage side effects.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.647677Z"
+}

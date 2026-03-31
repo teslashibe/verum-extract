@@ -1,0 +1,60 @@
+{
+  "id": "60a1d222-c18a-4034-8ca9-4a70d24cc183",
+  "source_id": "1r224wg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r224wg/vip_reactions/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-02-11T08:34:37-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "VIP",
+      "name_normalized": "vip",
+      "category": "immune",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Local area reaction at injection site",
+      "severity": "moderate"
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "Severe reaction with flushing, sweating, tachycardia, lightheadedness, vision loss, hypotension (75/35)",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "cardiac",
+      "description": "Extreme tachycardia with heart pounding",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "blood_pressure",
+      "description": "Severe hypotension at 75/35 mmHg",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "flushing",
+      "description": "Immediate redness and flushing",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "dizziness",
+      "description": "Lightheadedness and nearly fainting with vision loss",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Reaction occurred on 10th injection after 6-7 initial injections without issues. Reactions progressively worsened with 8th injection showing local reaction, 9th showing local and systemic symptoms, and 10th being severe. Required Benadryl and emergency monitoring. User reports extensive prior peptide experience without reactions. Suspected either peptide degradation or developing Type I hypersensitivity/IgE antibodies.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.664826Z"
+}

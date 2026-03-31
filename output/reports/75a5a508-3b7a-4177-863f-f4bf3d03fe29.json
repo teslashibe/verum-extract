@@ -1,0 +1,94 @@
+{
+  "id": "75a5a508-3b7a-4177-863f-f4bf3d03fe29",
+  "source_id": "1lowms0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lowms0/tb500_and_bpc157_are_life_changing/",
+  "author_hash": "7c233e131023a1fc869b9f94caf505025b3ed3dad7f9395ced43493cb06f6a0a",
+  "confidence_tier": 4,
+  "date_published": "2025-07-01T01:48:56-07:00",
+  "reported_sex": "female",
+  "reported_weight": {
+    "value": 65,
+    "unit": "kg"
+  },
+  "training_status": "returning to resistance training after injury and illness",
+  "health_conditions": [
+    "chronic left knee pain",
+    "previous muscle loss from injury and illness"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "2x daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "2x daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Eliminated debilitating DOMS that lasted 4-5 days, now minimal soreness",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "joint_pain",
+      "description": "Chronic left knee pain significantly improved and less bothersome while lifting",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Hit personal records and nearly 10% heavier lifts after 3 weeks",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "sleep",
+      "description": "Improved sleep quality since starting peptides",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "BPC-157 causes stinging sensation before injection if needle cap not recapped and allowed to sit",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "timeframe_days": 365
+    },
+    {
+      "marker_name": "iron",
+      "timeframe_days": 365
+    }
+  ],
+  "protocol_notes": "Loading phase for 6 weeks then maintenance. Using 0.5mL insulin syringes. Injecting subcutaneously in stomach area 2x per week. 5mg vials with 1mL bacteriostatic water. Female, 65kg, 5'7\", eating 160g protein daily (2.46g/kg), in calorie deficit at 1900 calories for recomposition. Resistance training 4 sets of 8-10 reps with warmup set.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.688177Z"
+}

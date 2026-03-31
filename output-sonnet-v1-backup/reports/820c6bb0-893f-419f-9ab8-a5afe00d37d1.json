@@ -1,0 +1,69 @@
+{
+  "id": "820c6bb0-893f-419f-9ab8-a5afe00d37d1",
+  "source_id": "1lnjbru",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lnjbru/epitalon_klow_overdoing_it/",
+  "author_hash": "6fc3ff403a846d0c6dbcde243e5324f76ce87cd0fd16392cf29ba0a5e1d9eec7",
+  "confidence_tier": 4,
+  "date_published": "2025-06-29T09:47:37-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "perimenopausal",
+    "chronic sleep disturbance (waking every 2 hours)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "dsip",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Klow",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Dramatically improved sleep onset; now falls asleep easily despite not feeling sleepy; consistent vivid dreams",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Noticeable skin benefits from Epitalon"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Tesamorelin raised heart rate and worsened sleep; extra tired waking up",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Age 49, perimenopausal. Used original Epithalon protocol of 10mg/day for 10 days. Cycles off KLOW and DSIP. Mother uses same protocol for 20 days due to older age. Notes 10mg/10-day protocol is for Epithalamin; clarified by another commenter that Epitalon at 1mg may be more appropriate.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.280382Z"
+}

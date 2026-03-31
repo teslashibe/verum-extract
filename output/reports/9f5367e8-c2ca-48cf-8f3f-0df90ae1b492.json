@@ -1,0 +1,91 @@
+{
+  "id": "9f5367e8-c2ca-48cf-8f3f-0df90ae1b492",
+  "source_id": "1qwx24x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qwx24x/tirz_side_effects/",
+  "author_hash": "0f0062ef117baeda7f964495df06c3cbcd4f8be723ca05504ae72a573e49568b",
+  "confidence_tier": 4,
+  "date_published": "2026-02-05T12:46:21-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 157,
+    "unit": "lbs"
+  },
+  "training_status": "strength training",
+  "health_conditions": [
+    "chronic upper back pain",
+    "sternum/chest pain (costochondritis)",
+    "ADHD"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "cycle_length_days": 10,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.25,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Reduced food noise and binge eating",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "fat_loss",
+      "description": "Weight loss from 163 to 157 lbs in about 10 days",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "inflammation",
+      "description": "Significant reduction in chronic upper back and chest pain/costochondritis inflammation",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Intense nausea, could barely consume 1,500 calories",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 7
+    },
+    {
+      "category": "anxiety",
+      "description": "Intense bouts of anxiety, heavy chest sensation 24/7; possibly related to dopamine blunting and ADHD interaction",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "mood_change",
+      "description": "Depression and emotional flatness (anhedonia)",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Started 2.5mg, reduced to 1.25mg after experiencing excessive nausea and anxiety. Calorie deficit started 1 week before peptide. Considering discontinuation after 2 weeks due to mental health side effects despite anti-inflammatory benefits. Interested in KPV as alternative.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.666935Z"
+}

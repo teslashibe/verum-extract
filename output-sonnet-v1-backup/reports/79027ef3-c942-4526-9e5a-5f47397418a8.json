@@ -1,0 +1,52 @@
+{
+  "id": "79027ef3-c942-4526-9e5a-5f47397418a8",
+  "source_id": "1mrif03",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mrif03/going_from_tirz_to_reta/",
+  "author_hash": "05016b61d8a5f12a0fd5bfb2880fdc958e1f812b9b8743cb144f421175c4f0b0",
+  "confidence_tier": 4,
+  "date_published": "2025-08-15T19:40:45-07:00",
+  "reported_sex": "male",
+  "training_status": "Bodybuilder",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Positive impact to blood work from micro dose of Retatrutide",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "1mg of Tirz per week completely crushes appetite; uses Tirz when needing to dampen food noise",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Bodybuilder and TRT user. Uses micro dose of Reta primarily for blood work benefits. Adds Tirz when needing appetite suppression. States Reta has about 1/3 the appetite suppression of Tirz and 1/6 compared to Sema.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.275341Z"
+}

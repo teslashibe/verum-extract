@@ -1,0 +1,49 @@
+{
+  "id": "4dd0a28e-9053-4d07-ba5f-faee95d622ad",
+  "source_id": "1ry993p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ry993p/need_help_assessing_what_to_take/",
+  "author_hash": "b5bb2d7d22f79999319b8fc21ceafb7dc6d63654e8743a37e7e0e976093cc759",
+  "confidence_tier": 4,
+  "date_published": "2026-03-19T11:57:34-07:00",
+  "reported_sex": "male",
+  "training_status": "lifts, emphasis on squats and lower body",
+  "health_conditions": [
+    "low testosterone"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Kisspeptin-10",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GH peptides",
+      "name_normalized": "ghs_peptides",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Raised natural testosterone levels from 300-400 to almost double that",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_before": 350,
+      "value_after": 700,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "User took Kisspeptin-10 and GH peptides ('testagen' mentioned as product name). Combines with finasteride/dutasteride, heavy lifting (squats/lower body), diet optimization, plastic avoidance, and swimming for temperature regulation. Mentions synergistic benefits of muscle tissue production on hormone stabilization.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.649666Z"
+}

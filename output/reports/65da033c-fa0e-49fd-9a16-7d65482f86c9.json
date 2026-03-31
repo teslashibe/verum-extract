@@ -1,0 +1,63 @@
+{
+  "id": "65da033c-fa0e-49fd-9a16-7d65482f86c9",
+  "source_id": "1lht1y7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lht1y7/cjc1295_ipamorelin_with_testosterone_replacement/",
+  "author_hash": "2bc767d717eec70814c6ed74fd187dd72d6e7c919a9e22c698445481244f5713",
+  "confidence_tier": 4,
+  "date_published": "2025-06-22T10:11:53-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "60+",
+  "training_status": "bodybuilding workouts",
+  "health_conditions": [
+    "frequent injuries"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Hexarelin",
+      "name_normalized": "hexarelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Can actually recover from bodybuilding workouts",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hormonal",
+      "description": "Increased cortisol with Hexarelin/Ipamorelin combo",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Desensitization requiring breaks with Hexarelin/Ipamorelin combo",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Age 64. Gets good results with CJC/Ipamorelin combo with TRT. Also experimented with Hexarelin/Ipamorelin combo which has rocket-like effects but more sides. Notes that injuries are more frequent if not careful.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.688669Z"
+}

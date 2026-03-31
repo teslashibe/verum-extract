@@ -1,0 +1,75 @@
+{
+  "id": "80780431-0007-4892-b1ce-d762190b7a2a",
+  "source_id": "1l7e7f3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1l7e7f3/i_had_a_severe_mast_cell_reaction_to_sermorelin/",
+  "author_hash": "6b027dbc050c0f3d9cf462304fe4c52434ccaa84009936b2913c890c5fa87683",
+  "confidence_tier": 4,
+  "date_published": "2025-06-09T12:37:03-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "perimenopause"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "improved sleep",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "improved recovery",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "preserved lean mass during fat loss",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "localized inflammation and itching at injection sites",
+      "severity": "moderate",
+      "onset_days": 28,
+      "resolved": true,
+      "resolution_days": 28
+    },
+    {
+      "category": "injection_site",
+      "description": "visibly irritated and reactive injection sites lasting 1-2 days after injection",
+      "severity": "moderate",
+      "onset_days": 42,
+      "resolved": true,
+      "resolution_days": 14
+    }
+  ],
+  "protocol_notes": "Used CJC-1295/Ipamorelin combination last year. On HRT. Received new estrogen pellet prior to reaction. Reaction occurred during cycle phase with elevated estrogen. Hypothesized mechanism: estrogen stimulates mast cell histamine release, histamine upregulates estrogen production (feedback loop). Discontinued peptides around week 10. Pre-injection support with Quercetin 500 mg and Vitamin C 1000 mg reduced reaction severity.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.689703Z"
+}

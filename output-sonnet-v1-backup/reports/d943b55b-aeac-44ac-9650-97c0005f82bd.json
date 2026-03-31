@@ -1,0 +1,51 @@
+{
+  "id": "d943b55b-aeac-44ac-9650-97c0005f82bd",
+  "source_id": "1s1m3gc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1m3gc/tesamorelin/",
+  "author_hash": "3ed5b16bd84e6179e171c42a6117ddf30e72962aacff30b4755139e8066ddfe0",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T09:42:47-07:00",
+  "training_status": "cutting",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Outstanding results in lean muscle retention while cutting",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Administered tesamorelin and ipamorelin first thing in the morning in a fasted state. Was forced to pin in the AM due to concurrent use of retatrutide (reta). Advocates for 30-60 minute fast post-injection to avoid insulin spike blocking GH pulse.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105175Z"
+}

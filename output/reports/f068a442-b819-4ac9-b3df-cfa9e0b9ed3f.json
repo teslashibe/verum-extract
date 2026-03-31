@@ -1,0 +1,44 @@
+{
+  "id": "f068a442-b819-4ac9-b3df-cfa9e0b9ed3f",
+  "source_id": "1rdykth",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdykth/any_downsides_to_switching_to_tirz_after_reta/",
+  "author_hash": "5acc3f1666ebc8431ec0742c7881bff42700e179da94b8014d310babc364235a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T16:52:12-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Successfully lost most of the weight desired",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Developed strange skin allergy/reaction causing large raised welts at injection sites that itch intensely. Rashes last over a week even with antihistamine use.",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "hair_change",
+      "description": "Losing hair, had to force self to eat",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Tried multiple mitigation strategies for skin reaction without success: rotating injection sites, taking breaks, diluting, allowing to reach room temperature, different BAC water, changing suppliers. Planning to switch to Tirzepatide due to intolerable injection site reactions.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.660193Z"
+}

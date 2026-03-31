@@ -1,0 +1,51 @@
+{
+  "id": "0940be2b-80ed-4f1c-8696-09cf83f394dd",
+  "source_id": "1m3bv3q",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m3bv3q/bpc157_tb500_glow_or_klow_for_ligament_and_tendon/",
+  "author_hash": "55d9aa227358f157ef7689365475459867adadb60d4856fd5ace44e26f2c87de",
+  "confidence_tier": 4,
+  "date_published": "2025-07-18T12:39:45-07:00",
+  "reported_sex": "female",
+  "training_status": "active (exercising and stretching)",
+  "health_conditions": [
+    "chronic hamstring tendinopathy"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC 500",
+      "name_normalized": "bpctb500",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB 500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Chronic hamstring tendinopathy approximately 70% better after first round of BPC 500mcg daily for 6 weeks, followed by 4 weeks off. Had previously tried chiro, physio, MRI, cortisone, and massage without success.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "First round: BPC 500mcg daily for 6 weeks. 4 weeks off. Started second round adding TB 500 at same dose (500mcg daily) for 8 weeks. Chose separate vials (not combined) for purity and dose control.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.278712Z"
+}

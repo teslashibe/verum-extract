@@ -1,0 +1,53 @@
+{
+  "id": "92e4d32d-f356-4a63-a0ee-4d8f24a32337",
+  "source_id": "1ryxm0f",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ryxm0f/which_peptide_to_lose_that_last_little_stubborn/",
+  "author_hash": "9c5cd854a3007af3eb3a560ff8de28d64d124d72ecce0c2381662f0900aa8462",
+  "confidence_tier": 4,
+  "date_published": "2026-03-20T07:22:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Tirzepatide more effective than Retatrutide for subcutaneous belly fat, especially love handle fat",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Tirz calms down impulsive behavior",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Recommends tirzepatide over retatrutide for subcutaneous belly/love handle fat. Suggests CJC-1295+Ipamorelin as alternative. Notes that proper sleep, cortisol management, avoiding processed foods, and L-theonine are important. Recommends hormone level testing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660801Z"
+}

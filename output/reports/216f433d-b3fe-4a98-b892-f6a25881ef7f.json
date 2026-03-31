@@ -1,0 +1,78 @@
+{
+  "id": "216f433d-b3fe-4a98-b892-f6a25881ef7f",
+  "source_id": "1lx6tdb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lx6tdb/bpc157_tb500_current_results_40m/",
+  "author_hash": "b76442536fd5dcd63cc43eec61b61edd0973fcd19bde32c5b7a05573225577a7",
+  "confidence_tier": 4,
+  "date_published": "2025-07-11T06:23:53-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 187,
+    "unit": "lbs"
+  },
+  "training_status": "lifting, running, Muay Thai, BJJ",
+  "health_conditions": [
+    "Achilles Tendinopathy",
+    "hamstring strain",
+    "calf strain",
+    "hip flexor pain",
+    "lateral hip pain",
+    "toe injury",
+    "calf re-injury"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "pain reduction in two days, able to walk without limp",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "injury_healing",
+      "description": "improved mobility and function in calf strain injury",
+      "severity": "moderate",
+      "onset_days": 4
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "pain_change",
+      "description": "old injuries (Achilles, toe, previous hamstring/calf) became tender and painful; calf cramping and swelling; pain level increased from baseline",
+      "severity": "moderate",
+      "onset_days": 5,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Started 500mcg of both BPC-157 and TB-500 daily subcutaneous, planned 6-week cycle. Later split dose to 250mcg each morning and evening due to cost constraints. Has 3 x 5mg bottles of each per month available. User is 40M, achieved significant body composition change (247 lbs to 170 lbs over 2+ years, currently 187 lbs at 17% BF). Multiple recurring soft tissue injuries from combat sports and high training volume.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.687587Z"
+}

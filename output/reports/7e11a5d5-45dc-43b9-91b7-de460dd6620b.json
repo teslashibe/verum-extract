@@ -1,0 +1,56 @@
+{
+  "id": "7e11a5d5-45dc-43b9-91b7-de460dd6620b",
+  "source_id": "1bk96xj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bk96xj/the_nugget_tesaipa_question/",
+  "author_hash": "45e019625e82f119602d1e6ff9c7f53e8658e4d25b79fa81caf34f764ce528d0",
+  "confidence_tier": 4,
+  "date_published": "2024-03-21T08:26:42-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "1x per day morning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "1x per day morning with Tesa, 2x per day with CJC",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x per day post-workout and before bed",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Shredding fat",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Preserved muscle and strength",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Using alternate day fasting alongside peptide protocol. Tesa/Ipa dosed in morning, CJC/Ipa post-workout and before bed. Source: Aminos Research, $100 for 22mg vials. Subject attributes fat loss partly to fasting but maintains muscle and strength.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698353Z"
+}

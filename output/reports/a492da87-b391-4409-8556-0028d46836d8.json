@@ -1,0 +1,37 @@
+{
+  "id": "a492da87-b391-4409-8556-0028d46836d8",
+  "source_id": "1rpi2jz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpi2jz/first_time_mixing/",
+  "author_hash": "5860c0992446849f62a54ed2b046e0a8dbffe9ba6089bf02317ccb9136ae36b5",
+  "confidence_tier": 5,
+  "date_published": "2026-03-09T17:32:37-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Pre-mixed blend: 5mg CJC-1295 (no DAC) + 5mg Ipamorelin in single 10mg vial. Reconstituting with 2ml bacteriostatic water. CJC-1295 variant specified as no DAC.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.666438Z"
+}

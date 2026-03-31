@@ -1,0 +1,52 @@
+{
+  "id": "f0999403-01fb-4795-abd8-f229b83a6e37",
+  "source_id": "1rryih0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rryih0/motsc_im_injection/",
+  "author_hash": "2687ed181c51bb64fc08717d78ac4de4c00644582601ed9d9f48045a1ac61745",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T11:16:00-07:00",
+  "health_conditions": [
+    "Type 2 Diabetes"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "blood_sugar",
+      "description": "Blood sugar management normalized; first time achieving normal blood sugar since Type 2 Diabetes diagnosis",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Small red welts/bumps at injection site appearing 12-24 hours after injection",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "User reports using MOTS-C for 3 weeks before side effects appeared. Considering protocol modifications: adding more BAC water for dilution and allowing syringe to reach room temperature before injection. Also considering switching to IM route. Using both MOTS-C and Retatrutide at micro-doses.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.652887Z"
+}

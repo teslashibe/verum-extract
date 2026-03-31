@@ -1,0 +1,68 @@
+{
+  "id": "33d1de04-4c32-4930-98ab-6a36cbf2a62f",
+  "source_id": "1ltldo9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ltldo9/bpc157_tb500_ghkcu/",
+  "author_hash": "fd00bf1ef03fff6923ca19933867337a8fcae4680ad79720d1d7c90531a92c44",
+  "confidence_tier": 4,
+  "date_published": "2025-07-06T21:49:24-07:00",
+  "health_conditions": [
+    "AC joint tear in shoulder"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "bpc",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tb",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ghk-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Tore AC joint in shoulder 8 weeks ago, now fully healed using this stack",
+      "severity": "significant",
+      "onset_days": 56
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Significant sting from GHK-Cu, described as 'very spicy' the first week, like a bee sting with bruising lasting 12-16 hours. Worst in the first few days. Attributed to high pH of the copper.",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Injected BPC and TB directly into shoulder near injury site. Keeps GHK-Cu to max 6 weeks. Takes 50mg zinc supplement orally with GHK-Cu. Prefers love handles or glutes over stomach to avoid noticeable bruising.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.279789Z"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "ee2ec3d0-d8c4-4edb-8289-9379243edb3c",
+  "source_id": "1rtra6z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rtra6z/ss31_severe_fatigue_and_tiredness/",
+  "author_hash": "90a8b3056690cb1ac73b4f4cafe2dba8c9bf45de8cc202920b52a40c2db7d4ac",
+  "confidence_tier": 4,
+  "date_published": "2026-03-14T11:42:49-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "exhausted the whole time during SS-31 cycle",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 30
+    }
+  ],
+  "protocol_notes": "Ran SS-31 for a month in November. Switched to MOTS-C with opposite (positive) effect. Very impressed with MOTS-C.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.652024Z"
+}

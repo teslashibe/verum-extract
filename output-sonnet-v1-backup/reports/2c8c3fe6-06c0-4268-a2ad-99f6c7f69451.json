@@ -1,0 +1,43 @@
+{
+  "id": "2c8c3fe6-06c0-4268-a2ad-99f6c7f69451",
+  "source_id": "16778vf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16778vf/pt_141_low_dose_female/",
+  "author_hash": "b61734e54be9bbaf6aec65c8e5fee04db64f4346b13ac55bc00c60d5685931c8",
+  "confidence_tier": 4,
+  "date_published": "2023-09-01T06:31:28-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "post-menopausal",
+    "low libido"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "dose_value": 1.75,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "oxytocin",
+      "name_normalized": "oxytocin",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Felt more cranky and edgy when combined with oxytocin on first use",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Tried PT-141 twice at 1.75mg. First time taken with oxytocin — felt cranky and edgy. Second time no noted libido effect. Considering trying a couple more times. Post-menopausal. Booked appointment with Midi for HRT/TRT after lack of results.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.29705Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "6af45c32-9d7a-4d80-9df5-40f65e5e5f83",
+  "source_id": "1r4qcvt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r4qcvt/glow_peptide_and_nad/",
+  "author_hash": "92bd4965941edef15187a9ec92b08be83159cbc9a63dd36fb34bf7d3d152a242",
+  "confidence_tier": 4,
+  "date_published": "2026-02-14T09:23:47-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "GHK-Cu is very painful and can leave nodules when injected subcutaneously",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "GHK-Cu sublingual administration (troche form made by pharmacy) is next best option after subcutaneous injection due to pain and nodule formation. NAD+ should not be painful and is most stable at physiological pH. Emphasizes importance of endotoxin-controlled API grade for NAD+ when used SQ/IM/IV.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.663879Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "6e0a59ba-dc94-4852-bafe-4de95808dc37",
+  "source_id": "1rkh5k3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rkh5k3/cjc_and_ipa_dose/",
+  "author_hash": "b5744914abceef399a820222c7544fead033d326461bcb804e5ab224965c56e5",
+  "confidence_tier": 3,
+  "date_published": "2026-03-04T01:36:45-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 28.3,
+      "value_after": 20.5,
+      "unit": "nmol/L",
+      "timeframe_days": 365
+    }
+  ],
+  "protocol_notes": "Planning to start CJC and Ipamorelin separately reconstituted. Previous bloodwork shows declining IGF-1 levels over 12 months from 28.3 to 20.5 nmol/L. Tests taken on 04/03/24, 27/02/25, 30/05/25, and 19/09/25. User monitoring bloods to assess protocol efficacy.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.657133Z"
+}

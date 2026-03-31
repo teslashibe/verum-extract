@@ -1,0 +1,72 @@
+{
+  "id": "6d71811a-62be-4a72-b4d9-e3665f319c9b",
+  "source_id": "1d5nwq1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1d5nwq1/could_reta_and_cagri_cause_diabetes/",
+  "author_hash": "83ea4c5883be967a2c8685a17c9302111de17f29184809f65d0c175c24906db6",
+  "confidence_tier": 4,
+  "date_published": "2024-06-01T07:14:23-07:00",
+  "health_conditions": [
+    "prediabetic"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "cycle_length_days": 150,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "blood_sugar",
+      "description": "Fasting blood sugar reduced from 143 to below 100 within a week",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "blood_sugar",
+      "description": "A1C improved from 6.6 to 5.0 within 3 months",
+      "severity": "significant",
+      "onset_days": 90
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_sugar",
+      "description": "Hypoglycemia (blood sugar dropped to 65) after 24 hours of fasting while on Semaglutide",
+      "severity": "significant",
+      "onset_days": 150,
+      "resolved": true
+    },
+    {
+      "category": "dizziness",
+      "description": "Light-headedness due to low blood sugar",
+      "severity": "moderate",
+      "onset_days": 150,
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C",
+      "value_before": 6.6,
+      "value_after": 5,
+      "unit": "%",
+      "timeframe_days": 90
+    },
+    {
+      "marker_name": "fasting blood sugar",
+      "value_before": 143,
+      "unit": "mg/dL",
+      "timeframe_days": 7
+    }
+  ],
+  "protocol_notes": "5 months total duration. User notes that fasting blood sugar fell below 100 within a week and remained in upper normal range. Hypoglycemic episode occurred after 24-hour fast with no food intake.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.697445Z"
+}

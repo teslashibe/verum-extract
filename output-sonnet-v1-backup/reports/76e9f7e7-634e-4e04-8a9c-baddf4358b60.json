@@ -1,0 +1,50 @@
+{
+  "id": "76e9f7e7-634e-4e04-8a9c-baddf4358b60",
+  "source_id": "1r18dkl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r18dkl/bulk_peptide_purchasing_question_tirz_reta/",
+  "author_hash": "957ed163f0579ca819f417c688b849988d754c0793459e5e79088d3810c1260a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T10:14:03-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Cagrilintide works incredibly well for appetite suppression alongside Tirz or Reta for both self and husband",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Buys kits of Tirz (T30 preferred over T60 to reduce degradation/contamination risk) and Reta (R10 and R20 kits). Started Cagri at 0.25mg when on 10mg Tirz. Currently at 0.50mg Cagri per week even months after starting. Husband also uses same compounds.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.119582Z"
+}

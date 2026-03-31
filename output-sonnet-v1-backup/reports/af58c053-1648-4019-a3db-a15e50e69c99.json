@@ -1,0 +1,33 @@
+{
+  "id": "af58c053-1648-4019-a3db-a15e50e69c99",
+  "source_id": "1rj6gis",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rj6gis/time_between_cycles/",
+  "author_hash": "ab6f747e30770ffcfc758e385865bd0b653d33e607ab6ec40cda4b76810cf52d",
+  "confidence_tier": 5,
+  "date_published": "2026-03-02T13:52:07-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "once daily at night, 2-3 hours fasted after last meal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC/Ipa",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "1x daily in the morning when stacked with Tesa",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Recommends 4-8 weeks off between cycles and checking IGF-1, fasting glucose, A1C, lipids before starting new cycle. CJC/Ipa dosing: 200mcg per peptide (400mcg total if a blend), 1-2x daily; only 1x daily if also on Tesa. Takes Tesa at night fasted 2-3 hours post last meal; CJC/Ipa in the morning fasted up to 2 hours.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112995Z"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "48d3a402-723b-48a7-a445-c7c397f079dc",
+  "source_id": "1s5bcdz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s5bcdz/cjc1295_and_ipamorelin/",
+  "author_hash": "649c8626af0cb8d6929b77156b6ef2a1bee6a7b36f0ab5a724ca198fc8cfcc65",
+  "confidence_tier": 4,
+  "date_published": "2026-03-27T10:49:28-07:00",
+  "training_status": "hypertrophy weight training 6 days a week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "once daily at night",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IPA",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "once daily at night",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep improved, dreams more, feels better rested",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Feels less fatigued, though may be attributable to KLOW",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Joint pain developed on first attempt at 250mcg twice daily",
+      "severity": "significant",
+      "onset_days": 3,
+      "resolved": true,
+      "resolution_days": 5
+    },
+    {
+      "category": "fatigue",
+      "description": "Body fatigue developed on first attempt at 250mcg twice daily",
+      "severity": "significant",
+      "onset_days": 3,
+      "resolved": true,
+      "resolution_days": 5
+    }
+  ],
+  "protocol_notes": "Initially tried CJC+IPA at 250mcg each twice daily (morning and night) starting at week 6 of Reta; stopped on day 5 due to side effects. Took 3 weeks off, then restarted at 250mcg each once nightly only. Has been on reduced dose for just over 2 weeks with no recurrence of side effects. Also on TRT and KLOW, started KLOW same time as restarting CJC+IPA.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.103807Z"
+}

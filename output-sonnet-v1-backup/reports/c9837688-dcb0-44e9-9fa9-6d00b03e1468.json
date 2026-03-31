@@ -1,0 +1,43 @@
+{
+  "id": "c9837688-dcb0-44e9-9fa9-6d00b03e1468",
+  "source_id": "1fctk4s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fctk4s/tesa/",
+  "author_hash": "6e602abdaab1f5a69e04f7c39ef1ed4c4696261c098c00860e4c9c322c0b80f8",
+  "confidence_tier": 5,
+  "date_published": "2024-09-09T09:23:52-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 127,
+    "unit": "lbs"
+  },
+  "training_status": "walks 4-5 days/week, heavy lift 2x/week",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "nightly, 5 on 2 off",
+      "cycle_length_days": 70,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "42F, 5'1\", 127 lbs. Currently on 2.5mg tirzepatide and at a healthy weight. Considering adding Tesamorelin for midsection fat. Asking for feedback on proposed protocol.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.291027Z"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "24e19ab0-c83c-46f3-9031-2ae916795735",
+  "source_id": "1oa2qdq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oa2qdq/the_switch_from_tirz_to_reta/",
+  "author_hash": "b439b9847db404ca2aadfa40f8ed29dba58a706e0d97f2abd31984db02224eb1",
+  "confidence_tier": 5,
+  "date_published": "2025-10-18T11:05:49-07:00",
+  "reported_sex": "female",
+  "training_status": "trains heavily, lifts heavy",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "cycle_length_days": 240,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "semorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Uses tirzepatide mostly for gut and anti-inflammatory benefits"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appreciates lack of food noise from tirzepatide"
+    }
+  ],
+  "protocol_notes": "On HRT in addition to semorelin and tirzepatide. Planning to switch from tirzepatide to retatrutide for body recomposition and fat burning benefits. Has been on lowest dose of tirzepatide (2.5mg) for about 8 months. Does not need to lose weight, focused on body recomp.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.26759Z"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "c6af50e6-d114-4f61-85ea-93c6055b6790",
+  "source_id": "1rdykth",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdykth/any_downsides_to_switching_to_tirz_after_reta/",
+  "author_hash": "95ba7e8e4c10108299716db01c1eafcc1766afe5205f41e3529a4a5dad72f5e9",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T16:52:12-08:00",
+  "training_status": "cutting",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 8,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "cycle_length_days": 365,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 42 lbs in the last year; easy to maintain initial loss and dial in additional weight loss",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "No more grinding exhaustion from before",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Skin was itchy and a little more sensitive early on",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_fat_percentage",
+      "value_after": 12,
+      "unit": "%",
+      "timeframe_days": 365
+    }
+  ],
+  "protocol_notes": "On Retatrutide since April 2025. Split 8mg/week into two doses. Side effects resolved after initial period. Almost a year in, reports feeling completely evened out in last 2-3 months.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.67236Z"
+}

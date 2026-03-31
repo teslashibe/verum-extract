@@ -1,0 +1,55 @@
+{
+  "id": "4d5e24f8-a074-4b15-841f-a1491bfd0f59",
+  "source_id": "1rnyto1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rnyto1/peptide_serums_for_hair_loss/",
+  "author_hash": "13b47458f832d44e62743907245bf1d0f0d6305945779f5bb69a29c5c7da068d",
+  "confidence_tier": 5,
+  "date_published": "2026-03-07T23:45:07-08:00",
+  "health_conditions": [
+    "hair loss"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GHK",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "topical",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC topical",
+      "name_normalized": "bpc_topical",
+      "category": "other",
+      "route": "topical",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "oral Finasteride",
+      "name_normalized": "oral_finasteride",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "oral minoxidil",
+      "name_normalized": "oral_minoxidil",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "topical minoxidil",
+      "name_normalized": "topical_minoxidil",
+      "category": "other",
+      "route": "topical",
+      "frequency": "2x/day",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Also takes iron, vitamin D, and fish oils",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.111116Z"
+}

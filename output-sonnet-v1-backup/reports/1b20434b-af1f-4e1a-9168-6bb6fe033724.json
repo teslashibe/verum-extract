@@ -1,0 +1,49 @@
+{
+  "id": "1b20434b-af1f-4e1a-9168-6bb6fe033724",
+  "source_id": "1rizczv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rizczv/phlegm_for_a_month_after_starting/",
+  "author_hash": "8cef2bd4361b03ecb5223c6cf0659473c04efa59ac98edee556e31a69bd01c87",
+  "confidence_tier": 5,
+  "date_published": "2026-03-02T09:35:15-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Persistent phlegm requiring constant spitting, onset around same time as starting peptides, lasting at least one month. No feeling of illness.",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Epithalon was stopped; still on Reta, GHK-Cu, and NAD+. Uncertain whether phlegm is peptide-related or a coincidental virus.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.113061Z"
+}

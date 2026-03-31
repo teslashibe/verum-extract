@@ -1,0 +1,35 @@
+{
+  "id": "1bfd9b9d-1670-44e4-b131-ac612e369b7e",
+  "source_id": "1s3kq0k",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3kq0k/hgh_sweet_spot/",
+  "author_hash": "27298b016c343395d13742716aa9fa720477e7492d40317381d687bc3e09e066",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T12:30:52-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 1.5,
+      "dose_unit": "IU",
+      "frequency": "upon waking",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 1.5,
+      "dose_unit": "IU",
+      "frequency": "before bed",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Split dose protocol: 1.5 IU upon waking and 1.5 IU before bed (total 3 IU daily).",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.646941Z"
+}

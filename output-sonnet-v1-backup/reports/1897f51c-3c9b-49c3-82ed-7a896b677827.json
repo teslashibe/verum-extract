@@ -1,0 +1,43 @@
+{
+  "id": "1897f51c-3c9b-49c3-82ed-7a896b677827",
+  "source_id": "1pzz0nu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pzz0nu/ghk_cu_what_is_happening/",
+  "author_hash": "405575ce4e7b460723a5fe31b2fd99cc46ab07175dcedbfccf010c1ee70fc8e6",
+  "confidence_tier": 5,
+  "date_published": "2025-12-30T16:45:37-08:00",
+  "reported_sex": "female",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "No sting when blending GHK 100mg with BPC 10mg",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Blends GHK 100mg with BPC 10mg per injection; reports no sting whatsoever.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.257431Z"
+}

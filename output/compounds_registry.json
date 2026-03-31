@@ -1,0 +1,2615 @@
+[
+  {
+    "id": "bpc_157",
+    "name": "bpc_157",
+    "display_name": "BPC-157",
+    "aliases": [
+      "BPC-157",
+      "BPC157",
+      "BPC 157",
+      "Body Protection Compound",
+      "Body Protection Compound 157",
+      "Pentadecapeptide"
+    ],
+    "category": "healing_recovery",
+    "description": "Gastric pentadecapeptide with broad tissue-repair properties",
+    "mechanism": "Upregulates growth factor expression (VEGF, FGF), promotes angiogenesis, modulates nitric oxide system",
+    "common_routes": [
+      "subcutaneous",
+      "intramuscular",
+      "oral"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "tb_500",
+    "name": "tb_500",
+    "display_name": "TB-500",
+    "aliases": [
+      "TB-500",
+      "TB500",
+      "TB 500",
+      "Thymosin Beta-4 Fragment",
+      "Thymosin Beta-4",
+      "TB4",
+      "Tβ4"
+    ],
+    "category": "healing_recovery",
+    "description": "Thymosin beta-4 fragment promoting tissue repair and cell migration",
+    "mechanism": "Promotes cell migration and differentiation, upregulates actin, reduces inflammation",
+    "common_routes": [
+      "subcutaneous",
+      "intramuscular"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "ghk_cu",
+    "name": "ghk_cu",
+    "display_name": "GHK-Cu",
+    "aliases": [
+      "GHK-Cu",
+      "GHK Cu",
+      "GHKCu",
+      "Copper Peptide",
+      "GHK-Copper",
+      "GHK Copper",
+      "Glycyl-L-histidyl-L-lysine copper"
+    ],
+    "category": "skin_cosmetic",
+    "description": "Copper-binding tripeptide for skin and tissue remodeling",
+    "mechanism": "Stimulates collagen synthesis, glycosaminoglycan production, tissue remodeling, stem cell attraction",
+    "common_routes": [
+      "subcutaneous",
+      "topical"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "ahk_cu",
+    "name": "ahk_cu",
+    "display_name": "AHK-Cu",
+    "aliases": [
+      "AHK-Cu",
+      "AHK Cu",
+      "Copper Tripeptide-3",
+      "Tripeptide-3",
+      "Ala-His-Lys Copper"
+    ],
+    "category": "skin_cosmetic",
+    "description": "Copper-binding tripeptide for hair growth and skin regeneration",
+    "mechanism": "Stimulates hair follicle elongation and dermal papilla cell proliferation",
+    "common_routes": [
+      "topical"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "kpv",
+    "name": "kpv",
+    "display_name": "KPV",
+    "aliases": [
+      "KPV",
+      "Alpha-MSH Fragment"
+    ],
+    "category": "gut_health",
+    "description": "Tripeptide from alpha-MSH C-terminal with anti-inflammatory properties",
+    "mechanism": "Anti-inflammatory via NF-κB inhibition, antimicrobial, gut mucosal healing",
+    "common_routes": [
+      "oral",
+      "subcutaneous",
+      "topical"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "pentosan",
+    "name": "pentosan",
+    "display_name": "Pentosan Polysulfate",
+    "aliases": [
+      "Pentosan",
+      "Pentosan Polysulfate",
+      "PPS",
+      "Elmiron"
+    ],
+    "category": "healing_recovery",
+    "description": "Semi-synthetic polysulfated xylan for joint and tissue repair",
+    "mechanism": "GAG replenishment, anti-inflammatory, cartilage protection",
+    "common_routes": [
+      "subcutaneous",
+      "intramuscular",
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "ll_37",
+    "name": "ll_37",
+    "display_name": "LL-37",
+    "aliases": [
+      "LL-37",
+      "LL37",
+      "Cathelicidin"
+    ],
+    "category": "immune",
+    "description": "Human cathelicidin antimicrobial peptide",
+    "mechanism": "Direct antimicrobial activity, immune modulation, wound healing",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "cjc_1295_dac",
+    "name": "cjc_1295_dac",
+    "display_name": "CJC-1295 DAC",
+    "aliases": [
+      "CJC-1295 DAC",
+      "CJC-1295 with DAC",
+      "CJC DAC",
+      "CJC1295 DAC",
+      "CJC 1295 DAC"
+    ],
+    "category": "gh_secretagogue",
+    "description": "Long-acting GHRH analog with Drug Affinity Complex",
+    "mechanism": "GHRH analog with extended half-life via albumin binding, sustained GH elevation",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "cjc_1295_no_dac",
+    "name": "cjc_1295_no_dac",
+    "display_name": "CJC-1295 (no DAC)",
+    "aliases": [
+      "CJC-1295 no DAC",
+      "CJC-1295 without DAC",
+      "CJC-1295",
+      "CJC1295",
+      "Mod GRF 1-29",
+      "Mod GRF",
+      "Modified GRF",
+      "mod GRF 1-29"
+    ],
+    "category": "gh_secretagogue",
+    "description": "Short-acting GHRH analog preserving natural GH pulsatility",
+    "mechanism": "GHRH analog; stimulates pulsatile GH release from pituitary",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "ipamorelin",
+    "name": "ipamorelin",
+    "display_name": "Ipamorelin",
+    "aliases": [
+      "Ipamorelin",
+      "Ipa",
+      "Ipam",
+      "IPA"
+    ],
+    "category": "gh_secretagogue",
+    "description": "Selective GH secretagogue with minimal side effects",
+    "mechanism": "Selective ghrelin mimetic; stimulates GH release without significant cortisol/prolactin increase",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "mk_677",
+    "name": "mk_677",
+    "display_name": "MK-677",
+    "aliases": [
+      "MK-677",
+      "MK677",
+      "MK 677",
+      "Ibutamoren",
+      "Nutrobal",
+      "L-163,191"
+    ],
+    "category": "gh_secretagogue",
+    "description": "Oral GH secretagogue (non-peptide)",
+    "mechanism": "Non-peptide ghrelin receptor agonist; oral bioavailability, sustained GH/IGF-1 elevation",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "tesamorelin",
+    "name": "tesamorelin",
+    "display_name": "Tesamorelin",
+    "aliases": [
+      "Tesamorelin",
+      "Tesa",
+      "Egrifta"
+    ],
+    "category": "gh_secretagogue",
+    "description": "FDA-approved GHRH analog for lipodystrophy",
+    "mechanism": "GHRH analog; reduces visceral adipose tissue, increases GH/IGF-1",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "sermorelin",
+    "name": "sermorelin",
+    "display_name": "Sermorelin",
+    "aliases": [
+      "Sermorelin",
+      "Serm",
+      "Geref"
+    ],
+    "category": "gh_secretagogue",
+    "description": "GHRH(1-29) analog for GH stimulation",
+    "mechanism": "GHRH analog; stimulates natural GH production and pulsatility",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "hgh",
+    "name": "hgh",
+    "display_name": "HGH",
+    "aliases": [
+      "HGH",
+      "Human Growth Hormone",
+      "Growth Hormone",
+      "GH",
+      "Somatropin",
+      "rhGH"
+    ],
+    "category": "gh_secretagogue",
+    "description": "Recombinant human growth hormone",
+    "mechanism": "Direct GH replacement; stimulates IGF-1 production, promotes growth and repair",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "IU"
+  },
+  {
+    "id": "igf_1_lr3",
+    "name": "igf_1_lr3",
+    "display_name": "IGF-1 LR3",
+    "aliases": [
+      "IGF-1 LR3",
+      "IGF-1",
+      "IGF1 LR3",
+      "IGF LR3",
+      "Long R3 IGF-1"
+    ],
+    "category": "gh_secretagogue",
+    "description": "Long-acting insulin-like growth factor 1 analog",
+    "mechanism": "Potent IGF-1 analog with extended half-life; promotes muscle growth and recovery",
+    "common_routes": [
+      "subcutaneous",
+      "intramuscular"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "hexarelin",
+    "name": "hexarelin",
+    "display_name": "Hexarelin",
+    "aliases": [
+      "Hexarelin",
+      "Examorelin"
+    ],
+    "category": "gh_secretagogue",
+    "description": "Potent hexapeptide GH secretagogue",
+    "mechanism": "Ghrelin mimetic; strong GH release, may increase cortisol/prolactin at higher doses",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "ghrp_6",
+    "name": "ghrp_6",
+    "display_name": "GHRP-6",
+    "aliases": [
+      "GHRP-6",
+      "GHRP6",
+      "GHRP 6"
+    ],
+    "category": "gh_secretagogue",
+    "description": "Growth hormone releasing hexapeptide",
+    "mechanism": "Ghrelin mimetic; stimulates appetite and GH release",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "ghrp_2",
+    "name": "ghrp_2",
+    "display_name": "GHRP-2",
+    "aliases": [
+      "GHRP-2",
+      "GHRP2",
+      "GHRP 2"
+    ],
+    "category": "gh_secretagogue",
+    "description": "Growth hormone releasing peptide-2",
+    "mechanism": "Potent ghrelin mimetic; strong GH release with less appetite stimulation than GHRP-6",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "semaglutide",
+    "name": "semaglutide",
+    "display_name": "Semaglutide",
+    "aliases": [
+      "Semaglutide",
+      "Sema",
+      "Ozempic",
+      "Wegovy",
+      "Rybelsus",
+      "GLP-1"
+    ],
+    "category": "body_composition",
+    "description": "GLP-1 receptor agonist for weight management",
+    "mechanism": "Reduces appetite via hypothalamic signaling, slows gastric emptying, improves insulin sensitivity",
+    "common_routes": [
+      "subcutaneous",
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "tirzepatide",
+    "name": "tirzepatide",
+    "display_name": "Tirzepatide",
+    "aliases": [
+      "Tirzepatide",
+      "Tirz",
+      "Mounjaro",
+      "Zepbound",
+      "GIP/GLP-1"
+    ],
+    "category": "body_composition",
+    "description": "Dual GIP/GLP-1 receptor agonist",
+    "mechanism": "Dual incretin agonist; superior weight loss vs GLP-1 alone",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "retatrutide",
+    "name": "retatrutide",
+    "display_name": "Retatrutide",
+    "aliases": [
+      "Retatrutide",
+      "Reta",
+      "GGG agonist",
+      "LY3437943"
+    ],
+    "category": "body_composition",
+    "description": "Triple agonist (GLP-1/GIP/Glucagon)",
+    "mechanism": "Triple incretin agonist; targets GLP-1, GIP, and glucagon receptors",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "survodutide",
+    "name": "survodutide",
+    "display_name": "Survodutide",
+    "aliases": [
+      "Survodutide",
+      "BI 456906"
+    ],
+    "category": "body_composition",
+    "description": "Dual glucagon/GLP-1 receptor agonist",
+    "mechanism": "Glucagon/GLP-1 agonist for weight and MASH",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "aod_9604",
+    "name": "aod_9604",
+    "display_name": "AOD-9604",
+    "aliases": [
+      "AOD-9604",
+      "AOD9604",
+      "AOD 9604"
+    ],
+    "category": "body_composition",
+    "description": "Modified fragment of human growth hormone for fat metabolism",
+    "mechanism": "HGH fragment (176-191); stimulates lipolysis without IGF-1 elevation",
+    "common_routes": [
+      "subcutaneous",
+      "oral"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "5_amino_1mq",
+    "name": "5_amino_1mq",
+    "display_name": "5-Amino-1MQ",
+    "aliases": [
+      "5-Amino-1MQ",
+      "5-amino-1mq",
+      "5 amino 1MQ",
+      "NNMT inhibitor"
+    ],
+    "category": "body_composition",
+    "description": "NNMT inhibitor for fat metabolism",
+    "mechanism": "Inhibits NNMT enzyme; increases NAD+ and SAM, promotes fat cell energy expenditure",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "selank",
+    "name": "selank",
+    "display_name": "Selank",
+    "aliases": [
+      "Selank",
+      "TP-7"
+    ],
+    "category": "cognitive",
+    "description": "Tuftsin analog with anxiolytic and nootropic properties",
+    "mechanism": "GABA modulation, enhances BDNF expression, modulates IL-6, improves memory consolidation",
+    "common_routes": [
+      "nasal",
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "semax",
+    "name": "semax",
+    "display_name": "Semax",
+    "aliases": [
+      "Semax",
+      "ACTH(4-7)-PGP",
+      "Semax nasal"
+    ],
+    "category": "cognitive",
+    "description": "Synthetic ACTH analog with neuroprotective effects",
+    "mechanism": "Enhances BDNF/NGF, neuroprotective, improves attention and cognitive flexibility",
+    "common_routes": [
+      "nasal",
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "dihexa",
+    "name": "dihexa",
+    "display_name": "Dihexa",
+    "aliases": [
+      "Dihexa",
+      "N-hexanoic-Tyr-Ile-(6) aminohexanoic amide"
+    ],
+    "category": "cognitive",
+    "description": "Potent HGF/MET receptor system activator",
+    "mechanism": "Hepatocyte growth factor mimetic; promotes synaptogenesis, potent nootropic in animal models",
+    "common_routes": [
+      "oral",
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "nsi_189",
+    "name": "nsi_189",
+    "display_name": "NSI-189",
+    "aliases": [
+      "NSI-189",
+      "NSI189"
+    ],
+    "category": "cognitive",
+    "description": "Neurogenic compound for hippocampal growth",
+    "mechanism": "Stimulates hippocampal neurogenesis; antidepressant and procognitive effects",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "epithalon",
+    "name": "epithalon",
+    "display_name": "Epithalon",
+    "aliases": [
+      "Epithalon",
+      "Epitalon",
+      "Epithalone",
+      "AEDG"
+    ],
+    "category": "anti_aging",
+    "description": "Tetrapeptide telomerase activator",
+    "mechanism": "Activates telomerase, regulates melatonin production, pineal gland bioregulator",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "snap_8",
+    "name": "snap_8",
+    "display_name": "SNAP-8",
+    "aliases": [
+      "SNAP-8",
+      "SNAP8",
+      "Acetyl Octapeptide-3"
+    ],
+    "category": "skin_cosmetic",
+    "description": "Acetyl octapeptide for wrinkle reduction",
+    "mechanism": "Modulates SNARE complex; reduces muscle contraction depth at injection site",
+    "common_routes": [
+      "topical"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "thymosin_alpha_1",
+    "name": "thymosin_alpha_1",
+    "display_name": "Thymosin Alpha-1",
+    "aliases": [
+      "Thymosin Alpha-1",
+      "Ta1",
+      "TA1",
+      "Zadaxin",
+      "Thymosin Alpha 1"
+    ],
+    "category": "immune",
+    "description": "Thymic peptide for immune modulation",
+    "mechanism": "Enhances T-cell maturation, dendritic cell activation, TLR signaling, NK cell activity",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "pt_141",
+    "name": "pt_141",
+    "display_name": "PT-141",
+    "aliases": [
+      "PT-141",
+      "PT141",
+      "PT 141",
+      "Bremelanotide",
+      "Vyleesi"
+    ],
+    "category": "sexual_health",
+    "description": "Melanocortin receptor agonist for sexual dysfunction",
+    "mechanism": "MC4R agonist; stimulates sexual arousal centrally via hypothalamic pathways",
+    "common_routes": [
+      "subcutaneous",
+      "nasal"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "kisspeptin",
+    "name": "kisspeptin",
+    "display_name": "Kisspeptin",
+    "aliases": [
+      "Kisspeptin",
+      "Kisspeptin-10",
+      "KP-10"
+    ],
+    "category": "hormonal",
+    "description": "Neuropeptide regulating reproductive hormones",
+    "mechanism": "Stimulates GnRH release, regulates LH/FSH pulsatility",
+    "common_routes": [
+      "subcutaneous",
+      "intravenous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "gonadorelin",
+    "name": "gonadorelin",
+    "display_name": "Gonadorelin",
+    "aliases": [
+      "Gonadorelin",
+      "GnRH",
+      "LHRH"
+    ],
+    "category": "hormonal",
+    "description": "Natural GnRH for fertility preservation",
+    "mechanism": "Pulsatile administration maintains LH/FSH production during TRT",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "enclomiphene",
+    "name": "enclomiphene",
+    "display_name": "Enclomiphene",
+    "aliases": [
+      "Enclomiphene",
+      "Enclomid",
+      "Androxal"
+    ],
+    "category": "hormonal",
+    "description": "Selective estrogen receptor modulator for testosterone support",
+    "mechanism": "SERM; blocks estrogen feedback at hypothalamus, increases LH/FSH and endogenous testosterone",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "melanotan_2",
+    "name": "melanotan_2",
+    "display_name": "Melanotan II",
+    "aliases": [
+      "Melanotan II",
+      "Melanotan 2",
+      "MT-2",
+      "MT2",
+      "MT-II",
+      "MT II"
+    ],
+    "category": "tanning",
+    "description": "Melanocortin receptor agonist for tanning and libido",
+    "mechanism": "Non-selective MCR agonist; stimulates melanogenesis, may increase libido and reduce appetite",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "melanotan_1",
+    "name": "melanotan_1",
+    "display_name": "Melanotan I",
+    "aliases": [
+      "Melanotan I",
+      "Melanotan 1",
+      "MT-1",
+      "MT1",
+      "Afamelanotide",
+      "Scenesse"
+    ],
+    "category": "tanning",
+    "description": "Selective MC1R agonist for photoprotection",
+    "mechanism": "Selective MC1R agonist; stimulates melanin production without broad MCR activation",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "ss_31",
+    "name": "ss_31",
+    "display_name": "SS-31",
+    "aliases": [
+      "SS-31",
+      "SS31",
+      "Elamipretide",
+      "Bendavia",
+      "MTP-131"
+    ],
+    "category": "mitochondrial",
+    "description": "Mitochondria-targeted peptide for cellular energy",
+    "mechanism": "Targets cardiolipin in inner mitochondrial membrane; stabilizes cristae, reduces ROS",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "mots_c",
+    "name": "mots_c",
+    "display_name": "MOTS-c",
+    "aliases": [
+      "MOTS-c",
+      "MOTSc",
+      "MOTS c"
+    ],
+    "category": "metabolic",
+    "description": "Mitochondrial-derived peptide for metabolic regulation",
+    "mechanism": "Activates AMPK, regulates metabolic homeostasis, exercise mimetic properties",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "humanin",
+    "name": "humanin",
+    "display_name": "Humanin",
+    "aliases": [
+      "Humanin",
+      "HN"
+    ],
+    "category": "metabolic",
+    "description": "Mitochondrial-derived cytoprotective peptide",
+    "mechanism": "Anti-apoptotic, neuroprotective, cardioprotective via STAT3 and IGFBP3 pathways",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "follistatin_344",
+    "name": "follistatin_344",
+    "display_name": "Follistatin 344",
+    "aliases": [
+      "Follistatin",
+      "Follistatin 344",
+      "Follistatin-344",
+      "FST344"
+    ],
+    "category": "muscle_performance",
+    "description": "Myostatin inhibitor for muscle growth",
+    "mechanism": "Binds and neutralizes myostatin/activin; removes brake on muscle growth",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "ace_031",
+    "name": "ace_031",
+    "display_name": "ACE-031",
+    "aliases": [
+      "ACE-031",
+      "ACE031"
+    ],
+    "category": "muscle_performance",
+    "description": "Activin receptor decoy for muscle growth",
+    "mechanism": "Soluble ActRIIB-Fc fusion; traps myostatin, activins, and GDF-11",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "peg_mgf",
+    "name": "peg_mgf",
+    "display_name": "PEG-MGF",
+    "aliases": [
+      "PEG-MGF",
+      "PEG MGF",
+      "Pegylated Mechano Growth Factor",
+      "IGF-1 Splice Variant"
+    ],
+    "category": "muscle_performance",
+    "description": "Pegylated mechano growth factor for muscle repair",
+    "mechanism": "Modified IGF-1 splice variant with extended half-life; promotes muscle repair and regeneration",
+    "common_routes": [
+      "intramuscular",
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "adalank",
+    "name": "adalank",
+    "display_name": "Adalank",
+    "aliases": [
+      "Adalank",
+      "N-Acetyl Selank Amidate",
+      "NA Selank Amidate",
+      "Enhanced Tuftsin Analog"
+    ],
+    "category": "cognitive",
+    "description": "Enhanced synthetic derivative of Selank with superior BBB penetration",
+    "mechanism": "N-terminal acetylation and C-terminal amidation of Selank; anxiolytic and neuroprotective",
+    "common_routes": [
+      "nasal",
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "adamax",
+    "name": "adamax",
+    "display_name": "Adamax",
+    "aliases": [
+      "Adamax"
+    ],
+    "category": "cognitive",
+    "description": "Synthetic nootropic peptide derived from Semax with adamantane modification",
+    "mechanism": "Modified Semax with enhanced stability and BBB penetration for cognitive enhancement and neuroprotection",
+    "common_routes": [
+      "nasal",
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "cerebrolysin",
+    "name": "cerebrolysin",
+    "display_name": "Cerebrolysin",
+    "aliases": [
+      "Cerebrolysin",
+      "FPE 1070"
+    ],
+    "category": "cognitive",
+    "description": "Neuropeptide preparation from purified porcine brain proteins",
+    "mechanism": "Neurotrophic support; promotes neuronal survival, synaptogenesis, and neuroplasticity",
+    "common_routes": [
+      "intramuscular",
+      "intravenous"
+    ],
+    "dose_unit": "ml"
+  },
+  {
+    "id": "cgp",
+    "name": "cgp",
+    "display_name": "Cyclic Glycine-Proline",
+    "aliases": [
+      "cGP",
+      "Cyclic Glycine-Proline",
+      "Cyclic GP"
+    ],
+    "category": "cognitive",
+    "description": "Naturally occurring cyclic dipeptide from IGF-1 metabolism",
+    "mechanism": "Regulates IGF-1 bioavailability; neuroprotective in Alzheimer's and Parkinson's models",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "na_semax_amidate",
+    "name": "na_semax_amidate",
+    "display_name": "NA Semax Amidate",
+    "aliases": [
+      "NA Semax Amidate",
+      "N-Acetyl Semax Amidate",
+      "NASA"
+    ],
+    "category": "cognitive",
+    "description": "Stabilized Semax analog with enhanced cognitive effects",
+    "mechanism": "Acetylated and amidated Semax with superior stability and bioavailability for neuroprotection",
+    "common_routes": [
+      "nasal"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "noopept",
+    "name": "noopept",
+    "display_name": "Noopept",
+    "aliases": [
+      "Noopept",
+      "Omberacetam",
+      "GVS-111",
+      "DVD-111"
+    ],
+    "category": "cognitive",
+    "description": "Synthetic nootropic dipeptide for cognitive enhancement",
+    "mechanism": "Enhances BDNF and NGF expression; improves memory, learning, and concentration",
+    "common_routes": [
+      "oral",
+      "nasal",
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "p21",
+    "name": "p21",
+    "display_name": "P21",
+    "aliases": [
+      "P21",
+      "P021",
+      "Ac-DGGLAG-NH2"
+    ],
+    "category": "cognitive",
+    "description": "Tetrapeptide derived from CNTF for neurogenesis",
+    "mechanism": "Promotes neurogenesis and cognitive function via CNTF-derived active region",
+    "common_routes": [
+      "nasal",
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "pe_22_28",
+    "name": "pe_22_28",
+    "display_name": "PE-22-28",
+    "aliases": [
+      "PE-22-28",
+      "Mini-Spadin",
+      "Mini Spadin"
+    ],
+    "category": "cognitive",
+    "description": "Heptapeptide TREK-1 antagonist with rapid antidepressant effects",
+    "mechanism": "TREK-1 channel antagonist; enhances neurogenesis and synaptogenesis for mood improvement",
+    "common_routes": [
+      "nasal",
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "pinealon",
+    "name": "pinealon",
+    "display_name": "Pinealon",
+    "aliases": [
+      "Pinealon",
+      "EDR",
+      "Glu-Asp-Arg"
+    ],
+    "category": "cognitive",
+    "description": "Tripeptide bioregulator for cognitive and neuroprotective support",
+    "mechanism": "Interacts with DNA to regulate gene expression for neuronal protein synthesis",
+    "common_routes": [
+      "oral",
+      "nasal"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "adipotide",
+    "name": "adipotide",
+    "display_name": "Adipotide",
+    "aliases": [
+      "Adipotide",
+      "Prohibitin-TP01",
+      "TP01"
+    ],
+    "category": "body_composition",
+    "description": "Peptidomimetic targeting white adipose tissue blood supply",
+    "mechanism": "Targets prohibitin and annexin A2 on white fat; disrupts blood supply to fat cells",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "bioglutide",
+    "name": "bioglutide",
+    "display_name": "Bioglutide",
+    "aliases": [
+      "Bioglutide",
+      "NA-931"
+    ],
+    "category": "body_composition",
+    "description": "First-in-class oral quadruple receptor agonist",
+    "mechanism": "Targets IGF-1, GLP-1, GIP, and glucagon receptors with high oral bioavailability",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "cagrilintide",
+    "name": "cagrilintide",
+    "display_name": "Cagrilintide",
+    "aliases": [
+      "Cagrilintide",
+      "AM833",
+      "NN9838",
+      "CagriSema"
+    ],
+    "category": "body_composition",
+    "description": "Synthetic amylin analog for weight management",
+    "mechanism": "Dual amylin and calcitonin receptor agonist; reduces appetite and body weight",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "mazdutide",
+    "name": "mazdutide",
+    "display_name": "Mazdutide",
+    "aliases": [
+      "Mazdutide",
+      "IBI362",
+      "LY3305677"
+    ],
+    "category": "body_composition",
+    "description": "Dual GLP-1/glucagon receptor agonist for weight loss",
+    "mechanism": "Oxyntomodulin analog; dual agonist suppressing appetite and increasing energy expenditure",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "orforglipron",
+    "name": "orforglipron",
+    "display_name": "Orforglipron",
+    "aliases": [
+      "Orforglipron",
+      "LY3502970",
+      "OWL833"
+    ],
+    "category": "body_composition",
+    "description": "Oral non-peptide GLP-1 receptor agonist",
+    "mechanism": "Small molecule GLP-1R agonist with oral bioavailability; weight loss and glycemic control",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "slu_pp_332",
+    "name": "slu_pp_332",
+    "display_name": "SLU-PP-332",
+    "aliases": [
+      "SLU-PP-332",
+      "SLU PP 332"
+    ],
+    "category": "body_composition",
+    "description": "Synthetic exercise mimetic compound",
+    "mechanism": "Pan-estrogen-related receptor agonist (ERRα focus); exercise mimetic effects without physical activity",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "tesofensine",
+    "name": "tesofensine",
+    "display_name": "Tesofensine",
+    "aliases": [
+      "Tesofensine",
+      "NS2330"
+    ],
+    "category": "body_composition",
+    "description": "Triple monoamine reuptake inhibitor for weight loss",
+    "mechanism": "Inhibits reuptake of norepinephrine, dopamine, and serotonin; appetite suppression",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "ara_290",
+    "name": "ara_290",
+    "display_name": "Ara 290",
+    "aliases": [
+      "Ara 290",
+      "Ara290",
+      "Cibinetide"
+    ],
+    "category": "healing_recovery",
+    "description": "Engineered erythropoietin-derived tissue-protective peptide",
+    "mechanism": "Targets Innate Repair Receptor; tissue-protective and anti-inflammatory without erythropoietic effects",
+    "common_routes": [
+      "subcutaneous",
+      "intravenous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "cartalax",
+    "name": "cartalax",
+    "display_name": "Cartalax",
+    "aliases": [
+      "Cartalax",
+      "Ala-Glu-Asp",
+      "AED Tripeptide",
+      "T-31"
+    ],
+    "category": "healing_recovery",
+    "description": "Tripeptide bioregulator for cartilage and connective tissue",
+    "mechanism": "Cartilage-specific bioregulator promoting joint regeneration and cellular repair",
+    "common_routes": [
+      "oral",
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "thymosin_beta_4",
+    "name": "thymosin_beta_4",
+    "display_name": "Thymosin Beta-4",
+    "aliases": [
+      "Thymosin Beta-4",
+      "TB-4",
+      "Tβ4",
+      "Timbetasin",
+      "Thymosin Beta 4"
+    ],
+    "category": "healing_recovery",
+    "description": "Full-length thymosin beta-4 for tissue repair and regeneration",
+    "mechanism": "Promotes angiogenesis, cellular migration, and wound healing; reduces inflammation",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "glutathione",
+    "name": "glutathione",
+    "display_name": "Glutathione",
+    "aliases": [
+      "Glutathione",
+      "L-Glutathione",
+      "GSH",
+      "Reduced Glutathione"
+    ],
+    "category": "immune",
+    "description": "Master antioxidant tripeptide for detoxification and immune support",
+    "mechanism": "Neutralizes free radicals, supports detoxification pathways, enhances immune cell function",
+    "common_routes": [
+      "intravenous",
+      "oral",
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "thymulin",
+    "name": "thymulin",
+    "display_name": "Thymulin",
+    "aliases": [
+      "Thymulin",
+      "Serum Thymic Factor",
+      "FTS",
+      "Facteur Thymique Serique"
+    ],
+    "category": "immune",
+    "description": "Zinc-dependent thymic peptide for immune modulation",
+    "mechanism": "Produced by thymic epithelial cells; modulates T-cell differentiation and immune function (requires zinc)",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "prostamax",
+    "name": "prostamax",
+    "display_name": "Prostamax",
+    "aliases": [
+      "Prostamax",
+      "KEDP",
+      "Lys-Glu-Asp-Pro"
+    ],
+    "category": "immune",
+    "description": "Tetrapeptide bioregulator for prostate health",
+    "mechanism": "Tissue-specific bioregulator targeting anterior pituitary and prostate function",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "vip",
+    "name": "vip",
+    "display_name": "VIP",
+    "aliases": [
+      "VIP",
+      "Vasoactive Intestinal Peptide",
+      "Aviptadil"
+    ],
+    "category": "immune",
+    "description": "Neuropeptide with anti-inflammatory and immunomodulatory properties",
+    "mechanism": "Binds VPAC1/VPAC2 receptors; potent anti-inflammatory, vasodilatory, and neuroprotective effects",
+    "common_routes": [
+      "nasal",
+      "subcutaneous",
+      "intravenous"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "hcg",
+    "name": "hcg",
+    "display_name": "HCG",
+    "aliases": [
+      "HCG",
+      "hCG",
+      "Human Chorionic Gonadotropin",
+      "Pregnyl",
+      "Novarel"
+    ],
+    "category": "hormonal",
+    "description": "Glycoprotein hormone for fertility and testosterone support",
+    "mechanism": "LH-mimetic; stimulates Leydig cells to maintain testosterone production and testicular function",
+    "common_routes": [
+      "subcutaneous",
+      "intramuscular"
+    ],
+    "dose_unit": "IU"
+  },
+  {
+    "id": "oxytocin",
+    "name": "oxytocin",
+    "display_name": "Oxytocin",
+    "aliases": [
+      "Oxytocin",
+      "Pitocin",
+      "Syntocinon"
+    ],
+    "category": "hormonal",
+    "description": "Neuropeptide for social bonding and reproductive function",
+    "mechanism": "Hypothalamic peptide; promotes social bonding, trust, and reproductive functions",
+    "common_routes": [
+      "nasal",
+      "subcutaneous",
+      "intravenous"
+    ],
+    "dose_unit": "IU"
+  },
+  {
+    "id": "testagen",
+    "name": "testagen",
+    "display_name": "Testagen",
+    "aliases": [
+      "Testagen",
+      "KEDG",
+      "KEDG Tetrapeptide"
+    ],
+    "category": "hormonal",
+    "description": "Tetrapeptide bioregulator for pituitary and hormonal support",
+    "mechanism": "Targets anterior pituitary; regulates TSH and supports testosterone/thyroid hormone production",
+    "common_routes": [
+      "oral"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "foxo4_dri",
+    "name": "foxo4_dri",
+    "display_name": "FOXO4-DRI",
+    "aliases": [
+      "FOXO4-DRI",
+      "FOXO4 DRI"
+    ],
+    "category": "anti_aging",
+    "description": "Senolytic peptide targeting senescent cells",
+    "mechanism": "Disrupts FOXO4-p53 interaction; induces apoptosis in senescent cells selectively",
+    "common_routes": [
+      "subcutaneous"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "nad_plus",
+    "name": "nad_plus",
+    "display_name": "NAD+",
+    "aliases": [
+      "NAD+",
+      "NAD",
+      "Nicotinamide Adenine Dinucleotide"
+    ],
+    "category": "anti_aging",
+    "description": "Essential coenzyme for cellular energy and DNA repair",
+    "mechanism": "Supports sirtuin activity, PARP-mediated DNA repair, and mitochondrial function",
+    "common_routes": [
+      "intravenous",
+      "subcutaneous",
+      "oral"
+    ],
+    "dose_unit": "mg"
+  },
+  {
+    "id": "dsip",
+    "name": "dsip",
+    "display_name": "DSIP",
+    "aliases": [
+      "DSIP",
+      "Delta Sleep Inducing Peptide",
+      "Delta Sleep-Inducing Peptide"
+    ],
+    "category": "sleep",
+    "description": "Neuropeptide for promoting deep delta wave sleep",
+    "mechanism": "Modulates sleep-wake cycles; promotes delta wave sleep and reduces stress-related cortisol",
+    "common_routes": [
+      "subcutaneous",
+      "nasal"
+    ],
+    "dose_unit": "mcg"
+  },
+  {
+    "id": "testosterone_cypionate",
+    "name": "testosterone_cypionate",
+    "display_name": "Testosterone Cypionate",
+    "aliases": [
+      "Testosterone Cypionate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "huperzine_a",
+    "name": "huperzine_a",
+    "display_name": "Huperzine A",
+    "aliases": [
+      "Huperzine A"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "klow",
+    "name": "klow",
+    "display_name": "KLOW",
+    "aliases": [
+      "KLOW"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "5_amino",
+    "name": "5_amino",
+    "display_name": "5-Amino",
+    "aliases": [
+      "5-Amino"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "slu_pp",
+    "name": "slu_pp",
+    "display_name": "SLU PP",
+    "aliases": [
+      "SLU PP"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "testosterone",
+    "name": "testosterone",
+    "display_name": "Testosterone",
+    "aliases": [
+      "Testosterone"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "melatonin",
+    "name": "melatonin",
+    "display_name": "Melatonin",
+    "aliases": [
+      "Melatonin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "creatine",
+    "name": "creatine",
+    "display_name": "Creatine",
+    "aliases": [
+      "Creatine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "magnesium_glycinate",
+    "name": "magnesium_glycinate",
+    "display_name": "Magnesium glycinate",
+    "aliases": [
+      "Magnesium glycinate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "l_carnitine",
+    "name": "l_carnitine",
+    "display_name": "L-Carnitine",
+    "aliases": [
+      "L-Carnitine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bacteriostatic_water",
+    "name": "bacteriostatic_water",
+    "display_name": "Bacteriostatic Water",
+    "aliases": [
+      "Bacteriostatic Water"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "hgh_fragment_176_191",
+    "name": "hgh_fragment_176_191",
+    "display_name": "HGH Fragment 176-191",
+    "aliases": [
+      "HGH Fragment 176-191"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "klotho",
+    "name": "klotho",
+    "display_name": "Klotho",
+    "aliases": [
+      "Klotho"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "anastrozole",
+    "name": "anastrozole",
+    "display_name": "Anastrozole",
+    "aliases": [
+      "Anastrozole"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "vitamin_b12",
+    "name": "vitamin_b12",
+    "display_name": "Vitamin B12",
+    "aliases": [
+      "Vitamin B12"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "folinic_acid",
+    "name": "folinic_acid",
+    "display_name": "Folinic acid",
+    "aliases": [
+      "Folinic acid"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "syn_ake",
+    "name": "syn_ake",
+    "display_name": "Syn-Ake",
+    "aliases": [
+      "Syn-Ake"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "collagen_peptides",
+    "name": "collagen_peptides",
+    "display_name": "Collagen peptides",
+    "aliases": [
+      "Collagen peptides"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "nicotinamide_riboside",
+    "name": "nicotinamide_riboside",
+    "display_name": "Nicotinamide Riboside",
+    "aliases": [
+      "Nicotinamide Riboside"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "magnesium",
+    "name": "magnesium",
+    "display_name": "Magnesium",
+    "aliases": [
+      "Magnesium"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "coq10",
+    "name": "coq10",
+    "display_name": "CoQ10",
+    "aliases": [
+      "CoQ10"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "spironolactone",
+    "name": "spironolactone",
+    "display_name": "Spironolactone",
+    "aliases": [
+      "Spironolactone"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cortagen",
+    "name": "cortagen",
+    "display_name": "Cortagen",
+    "aliases": [
+      "Cortagen"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "epobis",
+    "name": "epobis",
+    "display_name": "Epobis",
+    "aliases": [
+      "Epobis"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "asha_091",
+    "name": "asha_091",
+    "display_name": "ASHA-091",
+    "aliases": [
+      "ASHA-091"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cardarine",
+    "name": "cardarine",
+    "display_name": "Cardarine",
+    "aliases": [
+      "Cardarine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "hygetropin",
+    "name": "hygetropin",
+    "display_name": "Hygetropin",
+    "aliases": [
+      "Hygetropin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "vesugen",
+    "name": "vesugen",
+    "display_name": "Vesugen",
+    "aliases": [
+      "Vesugen"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "zinc",
+    "name": "zinc",
+    "display_name": "Zinc",
+    "aliases": [
+      "Zinc"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "copper",
+    "name": "copper",
+    "display_name": "Copper",
+    "aliases": [
+      "Copper"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "arginine",
+    "name": "arginine",
+    "display_name": "Arginine",
+    "aliases": [
+      "Arginine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "vyvanse",
+    "name": "vyvanse",
+    "display_name": "Vyvanse",
+    "aliases": [
+      "Vyvanse"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "wellbutrin",
+    "name": "wellbutrin",
+    "display_name": "Wellbutrin",
+    "aliases": [
+      "Wellbutrin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "curcumin",
+    "name": "curcumin",
+    "display_name": "Curcumin",
+    "aliases": [
+      "Curcumin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "fish_oil",
+    "name": "fish_oil",
+    "display_name": "Fish Oil",
+    "aliases": [
+      "Fish Oil"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "l_glutamine",
+    "name": "l_glutamine",
+    "display_name": "L-Glutamine",
+    "aliases": [
+      "L-Glutamine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "zyflamend",
+    "name": "zyflamend",
+    "display_name": "Zyflamend",
+    "aliases": [
+      "Zyflamend"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "vitamin_d",
+    "name": "vitamin_d",
+    "display_name": "Vitamin D",
+    "aliases": [
+      "Vitamin D"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "quercetin",
+    "name": "quercetin",
+    "display_name": "Quercetin",
+    "aliases": [
+      "Quercetin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "astaxanthin",
+    "name": "astaxanthin",
+    "display_name": "Astaxanthin",
+    "aliases": [
+      "Astaxanthin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "caffeine",
+    "name": "caffeine",
+    "display_name": "Caffeine",
+    "aliases": [
+      "Caffeine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "methylene_blue",
+    "name": "methylene_blue",
+    "display_name": "Methylene Blue",
+    "aliases": [
+      "Methylene Blue"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "foxo4",
+    "name": "foxo4",
+    "display_name": "FOXO4",
+    "aliases": [
+      "FOXO4"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "metformin",
+    "name": "metformin",
+    "display_name": "Metformin",
+    "aliases": [
+      "Metformin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "1_mq",
+    "name": "1_mq",
+    "display_name": "1-MQ",
+    "aliases": [
+      "1-MQ"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "pnc_27",
+    "name": "pnc_27",
+    "display_name": "PNC-27",
+    "aliases": [
+      "PNC-27"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "boron",
+    "name": "boron",
+    "display_name": "Boron",
+    "aliases": [
+      "Boron"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "amphetamine",
+    "name": "amphetamine",
+    "display_name": "Amphetamine",
+    "aliases": [
+      "Amphetamine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "fragment_176_191",
+    "name": "fragment_176_191",
+    "display_name": "Fragment 176-191",
+    "aliases": [
+      "Fragment 176-191"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "gh_secretagogue_unspecified",
+    "name": "gh_secretagogue_unspecified",
+    "display_name": "GH secretagogue (unspecified)",
+    "aliases": [
+      "GH secretagogue (unspecified)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "liraglutide",
+    "name": "liraglutide",
+    "display_name": "Liraglutide",
+    "aliases": [
+      "Liraglutide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "prostatilen",
+    "name": "prostatilen",
+    "display_name": "Prostatilen",
+    "aliases": [
+      "Prostatilen"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "capromorelin",
+    "name": "capromorelin",
+    "display_name": "Capromorelin",
+    "aliases": [
+      "Capromorelin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "trenbolone",
+    "name": "trenbolone",
+    "display_name": "Trenbolone",
+    "aliases": [
+      "Trenbolone"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "leukine",
+    "name": "leukine",
+    "display_name": "Leukine",
+    "aliases": [
+      "Leukine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "mechano_growth_factor",
+    "name": "mechano_growth_factor",
+    "display_name": "Mechano Growth Factor",
+    "aliases": [
+      "Mechano Growth Factor"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "nandrolone",
+    "name": "nandrolone",
+    "display_name": "Nandrolone",
+    "aliases": [
+      "Nandrolone"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "masteron",
+    "name": "masteron",
+    "display_name": "Masteron",
+    "aliases": [
+      "Masteron"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "svetinorm",
+    "name": "svetinorm",
+    "display_name": "Svetinorm",
+    "aliases": [
+      "Svetinorm"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "liverra",
+    "name": "liverra",
+    "display_name": "Liverra",
+    "aliases": [
+      "Liverra"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "r_lipoic_acid",
+    "name": "r_lipoic_acid",
+    "display_name": "R-Lipoic Acid",
+    "aliases": [
+      "R-Lipoic Acid"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ubiquinol",
+    "name": "ubiquinol",
+    "display_name": "Ubiquinol",
+    "aliases": [
+      "Ubiquinol"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "urolithin_a",
+    "name": "urolithin_a",
+    "display_name": "Urolithin A",
+    "aliases": [
+      "Urolithin A"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "liposomal_vitamin_c",
+    "name": "liposomal_vitamin_c",
+    "display_name": "Liposomal Vitamin C",
+    "aliases": [
+      "Liposomal Vitamin C"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ostarine",
+    "name": "ostarine",
+    "display_name": "Ostarine",
+    "aliases": [
+      "Ostarine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "dutasteride",
+    "name": "dutasteride",
+    "display_name": "Dutasteride",
+    "aliases": [
+      "Dutasteride"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "minoxidil",
+    "name": "minoxidil",
+    "display_name": "Minoxidil",
+    "aliases": [
+      "Minoxidil"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tadalafil",
+    "name": "tadalafil",
+    "display_name": "Tadalafil",
+    "aliases": [
+      "Tadalafil"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "finasteride",
+    "name": "finasteride",
+    "display_name": "Finasteride",
+    "aliases": [
+      "Finasteride"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ru58841",
+    "name": "ru58841",
+    "display_name": "RU58841",
+    "aliases": [
+      "RU58841"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "lipo_c",
+    "name": "lipo_c",
+    "display_name": "Lipo-C",
+    "aliases": [
+      "Lipo-C"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "gb115",
+    "name": "gb115",
+    "display_name": "GB115",
+    "aliases": [
+      "GB115"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "vision_combo",
+    "name": "vision_combo",
+    "display_name": "Vision combo",
+    "aliases": [
+      "Vision combo"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "yohimbine_hcl",
+    "name": "yohimbine_hcl",
+    "display_name": "Yohimbine HCL",
+    "aliases": [
+      "Yohimbine HCL"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "slu",
+    "name": "slu",
+    "display_name": "SLU",
+    "aliases": [
+      "SLU"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "orgong",
+    "name": "orgong",
+    "display_name": "Orgong",
+    "aliases": [
+      "Orgong"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "gabapentin",
+    "name": "gabapentin",
+    "display_name": "Gabapentin",
+    "aliases": [
+      "Gabapentin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "peptides_unspecified",
+    "name": "peptides_unspecified",
+    "display_name": "Peptides (unspecified)",
+    "aliases": [
+      "Peptides (unspecified)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "9_me_bc",
+    "name": "9_me_bc",
+    "display_name": "9-me-BC",
+    "aliases": [
+      "9-me-BC"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "rad140",
+    "name": "rad140",
+    "display_name": "RAD140",
+    "aliases": [
+      "RAD140"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "lgd_4033",
+    "name": "lgd_4033",
+    "display_name": "LGD-4033",
+    "aliases": [
+      "LGD-4033"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "levothyroxine",
+    "name": "levothyroxine",
+    "display_name": "Levothyroxine",
+    "aliases": [
+      "Levothyroxine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "b_12",
+    "name": "b_12",
+    "display_name": "B-12",
+    "aliases": [
+      "B-12"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bam15",
+    "name": "bam15",
+    "display_name": "BAM15",
+    "aliases": [
+      "BAM15"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "modafinil",
+    "name": "modafinil",
+    "display_name": "Modafinil",
+    "aliases": [
+      "Modafinil"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "clenbuterol",
+    "name": "clenbuterol",
+    "display_name": "Clenbuterol",
+    "aliases": [
+      "Clenbuterol"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "gh_secretagogue",
+    "name": "gh_secretagogue",
+    "display_name": "GH secretagogue",
+    "aliases": [
+      "GH secretagogue"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "5a1mq",
+    "name": "5a1mq",
+    "display_name": "5A1MQ",
+    "aliases": [
+      "5A1MQ"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "insulin",
+    "name": "insulin",
+    "display_name": "Insulin",
+    "aliases": [
+      "Insulin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "primobolan",
+    "name": "primobolan",
+    "display_name": "Primobolan",
+    "aliases": [
+      "Primobolan"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glp_1_receptor_agonist_unspecified",
+    "name": "glp_1_receptor_agonist_unspecified",
+    "display_name": "GLP-1 receptor agonist (unspecified)",
+    "aliases": [
+      "GLP-1 receptor agonist (unspecified)"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "equipoise",
+    "name": "equipoise",
+    "display_name": "Equipoise",
+    "aliases": [
+      "Equipoise"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "endoluten",
+    "name": "endoluten",
+    "display_name": "Endoluten",
+    "aliases": [
+      "Endoluten"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "berberine",
+    "name": "berberine",
+    "display_name": "Berberine",
+    "aliases": [
+      "Berberine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "inositol",
+    "name": "inositol",
+    "display_name": "Inositol",
+    "aliases": [
+      "Inositol"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glow70",
+    "name": "glow70",
+    "display_name": "GLOW70",
+    "aliases": [
+      "GLOW70"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "trazodone",
+    "name": "trazodone",
+    "display_name": "Trazodone",
+    "aliases": [
+      "Trazodone"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "adderall",
+    "name": "adderall",
+    "display_name": "Adderall",
+    "aliases": [
+      "Adderall"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "yohimbine",
+    "name": "yohimbine",
+    "display_name": "Yohimbine",
+    "aliases": [
+      "Yohimbine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cialis",
+    "name": "cialis",
+    "display_name": "Cialis",
+    "aliases": [
+      "Cialis"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "viagra",
+    "name": "viagra",
+    "display_name": "Viagra",
+    "aliases": [
+      "Viagra"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cerebroprotein",
+    "name": "cerebroprotein",
+    "display_name": "Cerebroprotein",
+    "aliases": [
+      "Cerebroprotein"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "unknown_peptide",
+    "name": "unknown_peptide",
+    "display_name": "Unknown peptide",
+    "aliases": [
+      "Unknown peptide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "sertraline",
+    "name": "sertraline",
+    "display_name": "Sertraline",
+    "aliases": [
+      "Sertraline"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cortexin",
+    "name": "cortexin",
+    "display_name": "Cortexin",
+    "aliases": [
+      "Cortexin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "acp_105",
+    "name": "acp_105",
+    "display_name": "ACP-105",
+    "aliases": [
+      "ACP-105"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "citrulline_malate",
+    "name": "citrulline_malate",
+    "display_name": "Citrulline Malate",
+    "aliases": [
+      "Citrulline Malate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "creatine_monohydrate",
+    "name": "creatine_monohydrate",
+    "display_name": "Creatine Monohydrate",
+    "aliases": [
+      "Creatine Monohydrate"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "teriparatide",
+    "name": "teriparatide",
+    "display_name": "Teriparatide",
+    "aliases": [
+      "Teriparatide"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "epithalamin",
+    "name": "epithalamin",
+    "display_name": "Epithalamin",
+    "aliases": [
+      "Epithalamin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "valerian_root",
+    "name": "valerian_root",
+    "display_name": "Valerian root",
+    "aliases": [
+      "Valerian root"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "thymogen",
+    "name": "thymogen",
+    "display_name": "Thymogen",
+    "aliases": [
+      "Thymogen"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "vilon",
+    "name": "vilon",
+    "display_name": "Vilon",
+    "aliases": [
+      "Vilon"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "crystagen",
+    "name": "crystagen",
+    "display_name": "Crystagen",
+    "aliases": [
+      "Crystagen"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "kilobase",
+    "name": "kilobase",
+    "display_name": "Kilobase",
+    "aliases": [
+      "Kilobase"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ozone",
+    "name": "ozone",
+    "display_name": "Ozone",
+    "aliases": [
+      "Ozone"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "stem_cells",
+    "name": "stem_cells",
+    "display_name": "Stem cells",
+    "aliases": [
+      "Stem cells"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "anabolic_steroids",
+    "name": "anabolic_steroids",
+    "display_name": "Anabolic Steroids",
+    "aliases": [
+      "Anabolic Steroids"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "accutane",
+    "name": "accutane",
+    "display_name": "Accutane",
+    "aliases": [
+      "Accutane"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "glp_1_receptor_agonist",
+    "name": "glp_1_receptor_agonist",
+    "display_name": "GLP-1 receptor agonist",
+    "aliases": [
+      "GLP-1 receptor agonist"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "kybella",
+    "name": "kybella",
+    "display_name": "Kybella",
+    "aliases": [
+      "Kybella"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "osthole",
+    "name": "osthole",
+    "display_name": "Osthole",
+    "aliases": [
+      "Osthole"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "serrapeptase",
+    "name": "serrapeptase",
+    "display_name": "Serrapeptase",
+    "aliases": [
+      "Serrapeptase"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "laennec",
+    "name": "laennec",
+    "display_name": "Laennec",
+    "aliases": [
+      "Laennec"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "matrixyl",
+    "name": "matrixyl",
+    "display_name": "Matrixyl",
+    "aliases": [
+      "Matrixyl"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "argireline",
+    "name": "argireline",
+    "display_name": "Argireline",
+    "aliases": [
+      "Argireline"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "hyaluronic_acid",
+    "name": "hyaluronic_acid",
+    "display_name": "Hyaluronic Acid",
+    "aliases": [
+      "Hyaluronic Acid"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ketamine",
+    "name": "ketamine",
+    "display_name": "Ketamine",
+    "aliases": [
+      "Ketamine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "5_htp",
+    "name": "5_htp",
+    "display_name": "5-HTP",
+    "aliases": [
+      "5-HTP"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "khavinson_sport_recovery_complex",
+    "name": "khavinson_sport_recovery_complex",
+    "display_name": "Khavinson sport recovery complex",
+    "aliases": [
+      "Khavinson sport recovery complex"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bronchogen",
+    "name": "bronchogen",
+    "display_name": "Bronchogen",
+    "aliases": [
+      "Bronchogen"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "chonluten",
+    "name": "chonluten",
+    "display_name": "Chonluten",
+    "aliases": [
+      "Chonluten"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "unknown",
+    "name": "unknown",
+    "display_name": "unknown",
+    "aliases": [
+      "unknown"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "cyanocobalamin",
+    "name": "cyanocobalamin",
+    "display_name": "Cyanocobalamin",
+    "aliases": [
+      "Cyanocobalamin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "pregnenolone",
+    "name": "pregnenolone",
+    "display_name": "Pregnenolone",
+    "aliases": [
+      "Pregnenolone"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "oxiracetam",
+    "name": "oxiracetam",
+    "display_name": "Oxiracetam",
+    "aliases": [
+      "Oxiracetam"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "bromantane",
+    "name": "bromantane",
+    "display_name": "Bromantane",
+    "aliases": [
+      "Bromantane"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "mod_29",
+    "name": "mod_29",
+    "display_name": "Mod-29",
+    "aliases": [
+      "Mod-29"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "b7_33",
+    "name": "b7_33",
+    "display_name": "B7-33",
+    "aliases": [
+      "B7-33"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "folitropin",
+    "name": "folitropin",
+    "display_name": "Folitropin",
+    "aliases": [
+      "Folitropin"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "tamoxifen",
+    "name": "tamoxifen",
+    "display_name": "Tamoxifen",
+    "aliases": [
+      "Tamoxifen"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "orexin_a",
+    "name": "orexin_a",
+    "display_name": "Orexin-A",
+    "aliases": [
+      "Orexin-A"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "biotinoyl_tripeptide_1",
+    "name": "biotinoyl_tripeptide_1",
+    "display_name": "Biotinoyl Tripeptide-1",
+    "aliases": [
+      "Biotinoyl Tripeptide-1"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "uridine",
+    "name": "uridine",
+    "display_name": "Uridine",
+    "aliases": [
+      "Uridine"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "ace_2494",
+    "name": "ace_2494",
+    "display_name": "ACE-2494",
+    "aliases": [
+      "ACE-2494"
+    ],
+    "category": "other"
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "id": "09f2cc7c-a094-4ac1-b37a-e689228be4aa",
+  "source_id": "1s1tng9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1tng9/ghk_cu_5_weeks_results/",
+  "author_hash": "893ddf0c734be692723d33a574401bffec483fcee322eeaf74672afe31cb3e66",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T14:07:52-07:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "seborrheic dermatitis",
+    "psoriasis (scalp and body)"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily before sleep",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Seborrheic dermatitis almost completely resolved after 5 weeks",
+      "severity": "significant",
+      "onset_days": 28
+    },
+    {
+      "category": "skin",
+      "description": "Psoriasis on scalp and body decreasing over time",
+      "severity": "moderate",
+      "onset_days": 28
+    }
+  ],
+  "protocol_notes": "Injected subcutaneously in upper fatty tissue of the glute at a slight angle. Also takes zinc in the morning (not consistently) for copper/zinc balance. Stopped using ketoconazole cream after 1-2 weeks of starting GHK-Cu. No specific diet. Previously used ketoconazole cream long-term.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105019Z"
+}

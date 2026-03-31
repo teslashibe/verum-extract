@@ -1,0 +1,61 @@
+{
+  "id": "8c2793ce-816f-4a2e-8112-ccd72cdaa519",
+  "source_id": "1q2dviq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q2dviq/i_injected_2mgs_of_oxytocin_by_accident_felt/",
+  "author_hash": "d2243da9109c2bdb935c78ca0524b54af7679a41f53d6226918c5d72e4cfaf18",
+  "confidence_tier": 4,
+  "date_published": "2026-01-02T15:14:50-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Oxytocin",
+      "name_normalized": "oxytocin",
+      "category": "hormonal",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "single dose",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "enjoyed everyone around me after acute reaction subsided",
+      "severity": "moderate",
+      "onset_days": 0
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "insane flushing",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    },
+    {
+      "category": "anxiety",
+      "description": "feeling like going to explode, eyes were going to burst, felt close to death",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "user reported feeling anaphylactic",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    }
+  ],
+  "protocol_notes": "User took 2mg oxytocin based on misreading dosing information. Later clarified that correct dosing is in mcg not mg. Mistakenly thought dosages were 20IUs. Acute reaction lasted approximately 10 minutes.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.672006Z"
+}

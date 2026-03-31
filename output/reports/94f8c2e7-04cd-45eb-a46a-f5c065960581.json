@@ -1,0 +1,55 @@
+{
+  "id": "94f8c2e7-04cd-45eb-a46a-f5c065960581",
+  "source_id": "1l7e7f3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1l7e7f3/i_had_a_severe_mast_cell_reaction_to_sermorelin/",
+  "author_hash": "6b027dbc050c0f3d9cf462304fe4c52434ccaa84009936b2913c890c5fa87683",
+  "confidence_tier": 4,
+  "date_published": "2025-06-09T12:37:03-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "perimenopause",
+    "on HRT"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Support for body composition",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Localized reactions at injection sites starting around week 6-7, visibly irritated and reactive injection sites by week 8, lasting 1-2 days after injection",
+      "severity": "moderate",
+      "onset_days": 42,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Used CJC/Ipamorelin combination last year. Discontinued around week 10 due to injection site reactions. Reports tolerating this stack better than sermorelin but still developed localized reactions.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.406739Z"
+}

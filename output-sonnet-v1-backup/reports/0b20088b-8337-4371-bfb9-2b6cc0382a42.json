@@ -1,0 +1,41 @@
+{
+  "id": "0b20088b-8337-4371-bfb9-2b6cc0382a42",
+  "source_id": "1rkc3ut",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rkc3ut/ghkcu_copper_peptide_use/",
+  "author_hash": "852ff80bb716cc953614769b17e16d963d8e11d4c3f1074c5db5cad81135b824",
+  "confidence_tier": 4,
+  "date_published": "2026-03-03T20:40:31-08:00",
+  "health_conditions": [
+    "stretch marks",
+    "acne scars",
+    "eczema",
+    "injection site welts"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHKCU copper peptide",
+      "name_normalized": "ghkcu_copper_peptide",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 75,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Large injection welts at injection site; notes GHKCU is hard to absorb",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Used approximately 100mg total over 2-3 months (~1-2mg/day based on referenced guide at researchdosing.com). Primary goals were healing stretch marks and acne scars. Also had eczema but saw no improvement; still required hydrocortisone cream. No bloodwork done.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112411Z"
+}

@@ -1,0 +1,105 @@
+{
+  "id": "a383a340-2769-4247-8d1b-c0bfccf581db",
+  "source_id": "1m1x5w8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m1x5w8/full_rupture_of_distal_bicep_tendon_my_protocol/",
+  "author_hash": "bfa35580104186d6114adae763cef58de29b7d3fdfee3da9c0e355a9845f38f6",
+  "confidence_tier": 3,
+  "date_published": "2025-07-16T20:33:29-07:00",
+  "reported_sex": "male",
+  "training_status": "active_weightlifting",
+  "health_conditions": [
+    "complete_distal_bicep_tendon_rupture"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Citrulline Malate",
+      "name_normalized": "citrulline_malate",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 5,
+      "dose_unit": "g",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Creatine Monohydrate",
+      "name_normalized": "creatine_monohydrate",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 5,
+      "dose_unit": "g",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Collagen Peptides",
+      "name_normalized": "collagen_peptides",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 25,
+      "dose_unit": "g",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Accelerated recovery from complete distal bicep tendon rupture; 4-6 weeks ahead of schedule per physical therapist",
+      "severity": "significant"
+    },
+    {
+      "category": "pain_relief",
+      "description": "Minimal discomfort and nearly non-existent pain post-surgery",
+      "severity": "significant"
+    },
+    {
+      "category": "inflammation",
+      "description": "Minimal swelling compared to typical rupture cases",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Rapid range of motion recovery; full supination and pronation with little discomfort 8 days post-surgery",
+      "severity": "significant",
+      "onset_days": 8
+    }
+  ],
+  "protocol_notes": "Complete distal bicep tendon rupture on May 30th; surgery on June 17th; protocol started same night as surgery. All peptide injections administered subcutaneously to stomach/abdomen area. Also on TRT 150mg/week (75mg Sunday and Thursday). Previous experience with BPC/TB for knee pain; local injection to left knee only showed no additional benefit over systemic (stomach) injection to right knee. Cast and sling removed June 25th (8 days post-op). Resumed training (lower body, core, cardio) 2 days post-surgery while in cast/sling. By July 3rd (first PT appointment) was 4-6 weeks ahead of standard recovery timeline. By July 14th (second PT appointment) cleared for barbell squats up to 225lbs and advanced resistance band work.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.95,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.403992Z"
+}

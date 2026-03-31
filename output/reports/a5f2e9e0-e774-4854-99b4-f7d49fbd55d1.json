@@ -1,0 +1,41 @@
+{
+  "id": "a5f2e9e0-e774-4854-99b4-f7d49fbd55d1",
+  "source_id": "1s4j9xn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4j9xn/ipacjc_timing/",
+  "author_hash": "50e6d45fa78d914436edcc505397f1b0fc650c3c2df4745359f5647c79b8ac6d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-26T13:42:32-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "GHRP peptides help cut through appetite suppression from Retatrutide",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "Reports on friend's extensive A/B testing (year-long) comparing fasted vs non-fasted dosing of Tesamorelin/Ipamorelin with repeated IGF-1 testing. Friend found better IGF-1 response when taken with a meal vs fasted, contrary to community consensus. Notes GHRP peptides increase appetite via mouse trials. Ipamorelin is microdose for appetite effect.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.657618Z"
+}

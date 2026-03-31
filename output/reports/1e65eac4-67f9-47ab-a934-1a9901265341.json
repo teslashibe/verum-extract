@@ -1,0 +1,74 @@
+{
+  "id": "1e65eac4-67f9-47ab-a934-1a9901265341",
+  "source_id": "1fnw1hd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fnw1hd/thoughts_on_ta1_kpv_instead_of_antibiotics_for/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2024-09-23T14:32:30-07:00",
+  "health_conditions": [
+    "active tooth infection"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "once (day 1)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "once (day 2, morning)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "once (day 1)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "once (day 2, morning)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "immune",
+      "description": "considering TA1 and KPV for potential immune support against active tooth infection"
+    }
+  ],
+  "protocol_notes": "User started TA1 and KPV as alternative to prescribed amoxicillin for post-extraction infected tooth. Planned to combine with methylene blue, garlic pills, and oil of oregano. Also taking BPC-157 and TB-500. User trying to avoid antibiotics long-term.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.413464Z"
+}

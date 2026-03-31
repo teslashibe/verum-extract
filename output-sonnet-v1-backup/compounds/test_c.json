@@ -1,0 +1,152 @@
+{
+  "compound_id": "test_c",
+  "display_name": "test-c",
+  "category": "other",
+  "total_reports": 11,
+  "reports_by_tier": {
+    "4": 8,
+    "5": 3
+  },
+  "top_benefits": [
+    {
+      "category": "muscle_gain",
+      "count": 4,
+      "pct": 50
+    },
+    {
+      "category": "fat_loss",
+      "count": 4,
+      "pct": 50
+    },
+    {
+      "category": "other",
+      "count": 3,
+      "pct": 37.5
+    },
+    {
+      "category": "mood",
+      "count": 1,
+      "pct": 12.5
+    },
+    {
+      "category": "anti_aging",
+      "count": 1,
+      "pct": 12.5
+    },
+    {
+      "category": "injury_healing",
+      "count": 1,
+      "pct": 12.5
+    },
+    {
+      "category": "energy",
+      "count": 1,
+      "pct": 12.5
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "other",
+      "count": 2,
+      "pct": 25,
+      "avg_severity": 2
+    },
+    {
+      "category": "fatigue",
+      "count": 1,
+      "pct": 12.5,
+      "avg_severity": 3
+    },
+    {
+      "category": "numbness_tingling",
+      "count": 1,
+      "pct": 12.5,
+      "avg_severity": 1
+    },
+    {
+      "category": "injection_site",
+      "count": 1,
+      "pct": 12.5,
+      "avg_severity": 1
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "intramuscular",
+      "dose": 75,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 9.1
+    },
+    {
+      "route": "intramuscular",
+      "dose": 250,
+      "unit": "mg",
+      "frequency": "weekly",
+      "count": 1,
+      "pct": 9.1
+    },
+    {
+      "route": "intramuscular",
+      "dose": 260,
+      "unit": "mg",
+      "frequency": "weekly",
+      "count": 1,
+      "pct": 9.1
+    },
+    {
+      "route": "intramuscular",
+      "dose": 140,
+      "unit": "mg",
+      "frequency": "weekly",
+      "count": 1,
+      "pct": 9.1
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 120,
+      "unit": "mg",
+      "frequency": "40mg every other day",
+      "count": 1,
+      "pct": 9.1
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Reta",
+      "report_count": 5
+    },
+    {
+      "compound_id": "hgh",
+      "display_name": "HGH",
+      "report_count": 4
+    },
+    {
+      "compound_id": "tesamorelin",
+      "display_name": "Tesa.",
+      "report_count": 3
+    },
+    {
+      "compound_id": "hcg",
+      "display_name": "HCG",
+      "report_count": 2
+    },
+    {
+      "compound_id": "bpc_157",
+      "display_name": "BPC157",
+      "report_count": 2
+    }
+  ],
+  "avg_cycle_length_days": 270,
+  "avg_sentiment_score": 0.864,
+  "sentiment_breakdown": {
+    "positive": 9,
+    "mixed": 0,
+    "negative": 0,
+    "neutral": 2
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.969373Z"
+}

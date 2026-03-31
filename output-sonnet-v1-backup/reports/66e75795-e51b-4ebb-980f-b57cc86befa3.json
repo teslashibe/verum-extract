@@ -1,0 +1,75 @@
+{
+  "id": "66e75795-e51b-4ebb-980f-b57cc86befa3",
+  "source_id": "1c37s5x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1c37s5x/considering_tesamorelin_ipamorelin_cjc_1295_stack/",
+  "author_hash": "cb08834ac7d5e7d4fed6098f7306cb9712c798671e15a17af8f72f3c8e25dd14",
+  "confidence_tier": 4,
+  "date_published": "2024-04-13T10:54:16-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 240,
+      "dose_unit": "mcg",
+      "frequency": "5 out of 7 days",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 120,
+      "dose_unit": "mcg",
+      "frequency": "5 out of 7 days",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC 1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 120,
+      "dose_unit": "mcg",
+      "frequency": "5 out of 7 days",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost a total of 50 pounds",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Added a ton of muscle",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Very few negative side effects associated with the stack",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Total dose of 480mcg split as 240/120/120. Used 5 out of 7 days for 6-8 weeks at a time. Also used tirzepatide alongside the stack.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.293692Z"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "d1c82aec-5df6-4820-a600-5fd791aed19d",
+  "source_id": "1rusiw3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rusiw3/reta_or_tesa_to_get_rid_of_stubborn_abdominal_and/",
+  "author_hash": "1b9bbfcb72e935329824301ef769c2964f8912c92efbf428f753e863d26153d4",
+  "confidence_tier": 3,
+  "date_published": "2026-03-15T15:54:33-07:00",
+  "reported_weight": {
+    "value": 83,
+    "unit": "kg"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 6cm of waist circumference (100cm to 94cm); subcutaneous abdominal fat reduction with concurrent lean mass gain (muscle, water, glycogen). No scale weight change despite body composition improvement.",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Gained lean mass while losing subcutaneous abdominal fat; arms, legs, chest, hips remained same or very similar",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Visceral fat",
+      "value_before": 520,
+      "unit": "g",
+      "timeframe_days": 42
+    },
+    {
+      "marker_name": "Waist circumference",
+      "value_before": 100,
+      "value_after": 94,
+      "unit": "cm",
+      "timeframe_days": 42
+    },
+    {
+      "marker_name": "Body weight",
+      "value_before": 83,
+      "value_after": 83,
+      "unit": "kg",
+      "timeframe_days": 42
+    }
+  ],
+  "protocol_notes": "Fasted administration. Trial-based protocol. User had reasonably low baseline visceral fat (520g), so circumference loss was primarily from subcutaneous abdominal fat reduction.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.663325Z"
+}

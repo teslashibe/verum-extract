@@ -1,0 +1,82 @@
+{
+  "id": "9132befe-517e-4eaf-a07c-ad92a2984930",
+  "source_id": "1rum95a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rum95a/experiences_with_cjc1295ipamorelin_while_on/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T11:51:32-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "reported_weight": {
+    "value": 283,
+    "unit": "lbs"
+  },
+  "training_status": "recreational, time-limited (20-30 mins 3x/week rucking, kettlebells, tire work, assault bike)",
+  "health_conditions": [
+    "on tirzepatide for weight loss",
+    "on TRT pellets"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "sleeping much more deeply",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "strength improving",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "flushing was very funny but has mostly gone away",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "water_retention",
+      "description": "fluid retention, weight up more than 3 pounds; weight has stayed around 285-286 lbs for two weeks despite body composition improvements",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body composition (via body scan)"
+    }
+  ],
+  "protocol_notes": "Started CJC-1295/Ipamorelin while already on tirzepatide (started November at 324 lbs, now 283 lbs with good body recomposition). Also on TRT pellets every 5-6 months. Medical student with limited training time. Considering whether to continue for full month or pause until more optimal training season. Interested in comparing peptides and learning mechanisms.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.651567Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "c9bd4e0c-12fb-45e9-8f22-25a08a9b802e",
+  "source_id": "1prb7m1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1prb7m1/transition_from_trizep_to_retatrutide/",
+  "author_hash": "16d08fd25f62fea3e9f473eeacc01fccdb9874a9d95e6b2064f4a3ee8ab91115",
+  "confidence_tier": 4,
+  "date_published": "2025-12-20T02:19:47-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "working beautifully on combined 5mg Tirz + 6mg Reta stack for 3 months",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Running 5mg Tirz and 6mg Reta concurrently for 3 months with 3 days gap between pins. Recommends starting with 0.5mg Reta and lowering Tirz by same amount after each pin.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.259473Z"
+}

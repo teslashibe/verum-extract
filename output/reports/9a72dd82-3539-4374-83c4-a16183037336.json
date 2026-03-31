@@ -1,0 +1,51 @@
+{
+  "id": "9a72dd82-3539-4374-83c4-a16183037336",
+  "source_id": "1r2afsa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2afsa/explain_to_me_like_im_5_years_old/",
+  "author_hash": "80a83c5da69da25aa7faefb4cbe4bc6c6ed9a450fe6e0558f4036e79ba92f2cb",
+  "confidence_tier": 4,
+  "date_published": "2026-02-11T13:36:50-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "1x daily (AM fasted)",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "1x daily (before bed, fasted)",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Improved sleep almost right away",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "body_composition",
+      "description": "Body recomposition visible after about a month",
+      "severity": "moderate",
+      "onset_days": 30
+    }
+  ],
+  "protocol_notes": "Fasted administration both AM and PM. Takes approximately one month to see noticeable body recomposition effects. User notes may need to increase dosage.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.664737Z"
+}

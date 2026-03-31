@@ -1,0 +1,48 @@
+{
+  "id": "d2e4dc1b-f76c-419c-bc38-493dde948e85",
+  "source_id": "1rsuihu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rsuihu/does_anyone_take_peptides_and_is_on_zepbound_at/",
+  "author_hash": "8cae5cf6837253ae716b98df4e150c381dec296c0ccc8d97b6bf34449e07a07f",
+  "confidence_tier": 4,
+  "date_published": "2026-03-13T10:54:47-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_sugar",
+      "description": "Blood sugar can get too low when stacking multiple peptides with Zepbound",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Taking Zepbound with SS-31, NAD+, and MOTS-c. Notes that the biggest risk is blood sugar getting too low.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.652513Z"
+}

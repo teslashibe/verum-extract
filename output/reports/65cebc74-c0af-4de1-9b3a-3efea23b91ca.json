@@ -1,0 +1,56 @@
+{
+  "id": "65cebc74-c0af-4de1-9b3a-3efea23b91ca",
+  "source_id": "1ppb5xu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ppb5xu/probably_not_but_is_there_a_peptide_for_more/",
+  "author_hash": "c77d727994914cb44c2b6d285994370aed30d453fc88c09d68b80e1fb8ef1ae5",
+  "confidence_tier": 4,
+  "date_published": "2025-12-17T15:10:48-08:00",
+  "health_conditions": [
+    "depression",
+    "anxiety",
+    "ADHD"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Adderall",
+      "name_normalized": "adderall",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Mood improvement, focus, depression and anxiety relief",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "More social, more even-tempered",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Cycles between Selank and Semax vials. Reduced Adderall XR from 30mg to 20mg due to peptide effects. Negative response to SSRIs and SNRIs; finds peptides helpful alternative.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.674173Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2a82f52e-6d14-45dc-882a-629bfdbcf34c",
+  "source_id": "1rn5beq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rn5beq/how_do_you_manage_multiple_peptides_without/",
+  "author_hash": "bbd54555faadb10fb9afac62c53f13aabd0b9192199467af189dbabd44f4eb97",
+  "confidence_tier": 4,
+  "date_published": "2026-03-07T01:02:46-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Running 3 peptides concurrently. Uses PeptIQ app to track doses, timing, reconstitution dates, and subjective notes. Syncs with Apple Health to monitor weight, sleep, and HRV trends.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.655825Z"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "01489aab-0188-42cc-8571-8382350709ad",
+  "source_id": "1qoaq7e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qoaq7e/ghkcu_copper_uglies_something_to_worry_about/",
+  "author_hash": "79f948b675541639449281a957bd5b5b600fb0867d02ebeb57f24a43c8eaa5e6",
+  "confidence_tier": 4,
+  "date_published": "2026-01-27T02:56:11-08:00",
+  "health_conditions": [
+    "cystic acne (induced by GHK-Cu injections)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 35,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Snap-8",
+      "name_normalized": "snap_8",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Argireline",
+      "name_normalized": "argireline",
+      "category": "other",
+      "route": "topical",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Matrixyl",
+      "name_normalized": "matrixyl",
+      "category": "other",
+      "route": "topical",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Perfect skin when cycling off subcutaneous GHK-Cu",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Cystic acne on cheek/chin area after subcutaneous injection",
+      "severity": "significant",
+      "onset_days": 14,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Completed 3 separate 6-month-spaced cycles of subcutaneous GHK-Cu (first cycle 5 weeks, subsequent cycles stopped at week 2 due to adverse reaction). Cystic acne appeared consistently in week 2 of each cycle. Switched to topical GHK-Cu application which works well without side effects. Makes own topical blend using raw cosmetic GHK-Cu powder, Snap-8, Argireline, HA, and Matrixyl.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669854Z"
+}

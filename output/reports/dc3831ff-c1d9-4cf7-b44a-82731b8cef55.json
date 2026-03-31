@@ -1,0 +1,52 @@
+{
+  "id": "dc3831ff-c1d9-4cf7-b44a-82731b8cef55",
+  "source_id": "1s22e2o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s22e2o/klow_question/",
+  "author_hash": "9b8e6ab4467f74f21b887583237e1e4583c3ff9b23f11381a216f02e66b68b7e",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T20:06:00-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Hair feels noticeably thicker",
+      "severity": "moderate"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Healing started after 1 week mark",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "skin",
+      "description": "Experiencing copper uglies (temporary phase where skin looks duller, breakouts occur as old damaged collagen breaks down and is replaced with healthier collagen)",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Copper uglies - skin looks duller, breakouts occurring. Described as temporary 'looks worse before you get better' phase at beginning of cycle",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "12 units with 3ml Bac water (2mg GHK-Cu per day). Rotates injection site to glutes only. Daily dosing. Planned 8-week cycle minimum. No pain reported with daily protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.658713Z"
+}

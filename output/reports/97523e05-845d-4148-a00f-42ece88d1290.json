@@ -1,0 +1,33 @@
+{
+  "id": "97523e05-845d-4148-a00f-42ece88d1290",
+  "source_id": "1r8r26a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r8r26a/allergic_reaction_while_using_cjc_1295_no_dac_and/",
+  "author_hash": "c083ac0d72020e01c51cdfaead62be140d5dfd5e72568f81e477cf6ff8687e9f",
+  "confidence_tier": 5,
+  "date_published": "2026-02-18T21:44:59-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 125,
+      "dose_unit": "mcg",
+      "frequency": "before bed",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Same type of allergic reaction as OP experienced, leading to discontinuation",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Recommends 125-150 mcg as appropriate starting dose before bed. Stopped use due to adverse reaction.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662329Z"
+}

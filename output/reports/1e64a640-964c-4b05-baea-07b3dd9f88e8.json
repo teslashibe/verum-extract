@@ -1,0 +1,84 @@
+{
+  "id": "1e64a640-964c-4b05-baea-07b3dd9f88e8",
+  "source_id": "1l7e7f3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1l7e7f3/i_had_a_severe_mast_cell_reaction_to_sermorelin/",
+  "author_hash": "6b027dbc050c0f3d9cf462304fe4c52434ccaa84009936b2913c890c5fa87683",
+  "confidence_tier": 3,
+  "date_published": "2025-06-09T12:37:03-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "perimenopause",
+    "mast cell activation"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "cycle_length_days": 70,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "support for body composition and healthy aging",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "recovery support",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "mild itching at injection site",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "intense itching all over lower abdomen and back, 4 bumps on abdomen swelled up at prior injection sites",
+      "severity": "significant",
+      "onset_days": 70,
+      "resolved": true,
+      "resolution_days": 3
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "severe abdominal and uterine cramping like labor pain radiating down legs and into lower back",
+      "severity": "significant",
+      "onset_days": 70,
+      "resolved": true,
+      "resolution_days": 3
+    }
+  ],
+  "protocol_notes": "On hormone pellets (testosterone + estrogen support) and micronized progesterone. Vial used for 10+ weeks. Reaction occurred on day 8 of menstrual cycle (peak estrogen, low progesterone). Consumed red wine evening of reaction. Post-reaction recovery protocol included: Quercetin 500 mg 2x/day, Vitamin C 1000 mg/day, Magnesium glycinate, Zyrtec daily x 3-5 days, low-histamine diet. Previously tolerated CJC-1295 + Ipamorelin well. Theory: mast cell activation triggered by combination of vial degradation, cycle timing, perimenopause, HRT, prior BPC-157/TB-500 use, and red wine consumption.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.689703Z"
+}

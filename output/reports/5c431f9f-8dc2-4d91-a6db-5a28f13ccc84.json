@@ -1,0 +1,35 @@
+{
+  "id": "5c431f9f-8dc2-4d91-a6db-5a28f13ccc84",
+  "source_id": "1kgcrqv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kgcrqv/the_wolverine_peptide/",
+  "author_hash": "0812e3d991d2bd4e0a28014417f6300c428d8882bb24595ab2c322a20bb79ea2",
+  "confidence_tier": 5,
+  "date_published": "2025-05-06T12:04:39-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "unknown",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Using Ipamorelin 100mcg and Sermorelin 250mcg fasted before bed. Seeking dosage guidance.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.38,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.408427Z"
+}

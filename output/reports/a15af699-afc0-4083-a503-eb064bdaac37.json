@@ -1,0 +1,45 @@
+{
+  "id": "a15af699-afc0-4083-a503-eb064bdaac37",
+  "source_id": "1r2txhz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2txhz/wolverine_stack_with_trt_and_tesamorelin/",
+  "author_hash": "25f32774a82798de9903345f5109dfbede93bcfbea2a857e741694108983a6ab",
+  "confidence_tier": 4,
+  "date_published": "2026-02-12T05:50:18-08:00",
+  "health_conditions": [
+    "carpal tunnel",
+    "tendonitis",
+    "tennis elbow"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Working very well for carpal tunnel and tendonitis/tennis elbow",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Using bulldog clip to pinch skin for subcutaneous injection over painful areas. Duration approximately 1 month.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677084Z"
+}

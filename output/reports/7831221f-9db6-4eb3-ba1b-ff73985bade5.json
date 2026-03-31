@@ -1,0 +1,66 @@
+{
+  "id": "7831221f-9db6-4eb3-ba1b-ff73985bade5",
+  "source_id": "1ng83kh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ng83kh/is_anyone_nervous_about_the_glp1_lawsuits/",
+  "author_hash": "e1c423153200302907729f0465997f2cb59bd8c3b7f2be858c7dd9e2fe02ef58",
+  "confidence_tier": 4,
+  "date_published": "2025-09-13T13:37:15-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 84,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "weight loss at 2.5mg and 5mg doses",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "vomiting at 7.5mg dose",
+      "severity": "significant"
+    },
+    {
+      "category": "fatigue",
+      "description": "very low energy at 7.5mg dose",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User describes family member's experience with tirzepatide titration schedule: 2.5mg weeks 1-4, 5mg weeks 4-8, 7.5mg weeks 8-12. Side effects appeared at highest dose despite similar weight loss.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.398207Z"
+}

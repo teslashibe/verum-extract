@@ -1,0 +1,82 @@
+{
+  "id": "1e2472c9-7235-4674-8f0f-5b609a05b36c",
+  "source_id": "1741n7w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1741n7w/anyone_else_getting_a_prescription_for_their/",
+  "author_hash": "15cd21331129b4e7bc369a2db56caabe69370d824eba13139bb09c59b32c9b44",
+  "confidence_tier": 4,
+  "date_published": "2023-10-09T13:09:56-07:00",
+  "training_status": "trained",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "3-5x per week",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "3-5x per week",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "improved sleep",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "skin",
+      "description": "skin was glowing and looked a lot healthier",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "endurance",
+      "description": "improvement in cardio",
+      "severity": "moderate",
+      "onset_days": 28
+    },
+    {
+      "category": "muscle_gain",
+      "description": "lifting heavier weights",
+      "severity": "moderate",
+      "onset_days": 28
+    },
+    {
+      "category": "mood",
+      "description": "improved sense of well being",
+      "severity": "moderate",
+      "onset_days": 42
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "insomnia starting in the first week with weird dreams",
+      "severity": "moderate",
+      "onset_days": 7,
+      "resolved": true,
+      "resolution_days": 14
+    }
+  ],
+  "protocol_notes": "Started with compounded peptides from Southlake pharmacy ($150 + shipping for 6mg CJC and 12mg IPA), then switched to research vendor ($77 for 50mg CJC and 50mg IPA). Injected AM and after workout fasted. Felt compounded was weak. Experienced flushing with research source but not compounded. Switched injection timing from evening to morning to resolve insomnia. Cycle duration nearly 2 months.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.700377Z"
+}

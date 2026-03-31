@@ -1,0 +1,69 @@
+{
+  "id": "021ade6a-781c-467c-b7d4-1d51f1983e4c",
+  "source_id": "1rgqppm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rgqppm/need_help_breaking_reta_stall_what_to_stack/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T18:33:51-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 225,
+    "unit": "lbs"
+  },
+  "training_status": "sedentary (newborn, limited workouts)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 12.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 85 lbs from 265 to 180 on Mounjaro; subsequent weight loss stalled on Retatrutide despite appetite suppression",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Still present on Retatrutide",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Significantly less constipation on Retatrutide compared to Tirzepatide",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Currently on TRT. History: Mounjaro (end 2022 to Summer 2023, down to 180 lbs); paused TRT for Clomid (wife's pregnancy attempt, gained back to 240 lbs); restarted TRT May 2025 after wife became pregnant; titrated Tirzepatide to 12.5 mg (down to 225 lbs); switched to Retatrutide starting at 4 mg, titrated to 10 mg. No weight loss for 2 months on current Retatrutide dose. Previously tried 8 mg Retatrutide monthly (believed supply was poor). Brand name Mounjaro mentioned for Tirzepatide.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.658775Z"
+}

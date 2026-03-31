@@ -1,0 +1,43 @@
+{
+  "id": "746bc715-7a0a-4522-aa2f-4ff061d5a55e",
+  "source_id": "1qt5m91",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qt5m91/tirz_has_been_amazing_for_weight_loss_but_i_want/",
+  "author_hash": "fd60b576095341c6a6b9ce8c2457f0d665a8cb9974fdab525909edc2d916b21c",
+  "confidence_tier": 5,
+  "date_published": "2026-02-01T10:02:19-08:00",
+  "reported_age_range": "25-29",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Raising testosterone from low levels to 1000 range provides building blocks for muscle gain",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "Feel great on low dose TRT to maintain 1000 levels",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_before": 350,
+      "value_after": 1000,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "Low dose TRT maintaining around 1000 testosterone. Normal range discussed as 350-1000. Mentions free testosterone and total testosterone are key markers.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.668464Z"
+}

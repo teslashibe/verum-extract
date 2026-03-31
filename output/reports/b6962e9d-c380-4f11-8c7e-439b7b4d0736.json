@@ -1,0 +1,59 @@
+{
+  "id": "b6962e9d-c380-4f11-8c7e-439b7b4d0736",
+  "source_id": "1lzmi4g",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lzmi4g/pairing_monjauro_with_reta/",
+  "author_hash": "e88e07cb6a9051d4c1403a3b28d6fe2889ba3f5d5359f36bc118093b2488779d",
+  "confidence_tier": 4,
+  "date_published": "2025-07-14T06:32:44-07:00",
+  "reported_weight": {
+    "value": 186,
+    "unit": "lbs"
+  },
+  "training_status": "gym 5-6x per week",
+  "health_conditions": [
+    "type 2 diabetes (remission)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "blood_sugar",
+      "description": "A1C reduced from 10.6 to 4.9 since November",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Down 85 lbs since November; body fat % dropped from 22.4-22.7 to 21.6; abs more noticeable",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C",
+      "value_before": 10.6,
+      "value_after": 4.9,
+      "unit": "%"
+    },
+    {
+      "marker_name": "body fat percentage",
+      "value_before": 22.5,
+      "value_after": 21.6,
+      "unit": "%",
+      "timeframe_days": 7
+    }
+  ],
+  "protocol_notes": "On Mounjaro (tirzepatide). Considering adding Retatrutide on alternating days (Reta Tu/Wed, Mounjaro Saturday). Strict diet since November. Tracking macros. T2DM in remission. Lost 85 lbs but notes some muscle loss. Currently at 186-188 lbs, experiencing weight loss plateau. Using random body analysis scale for body composition tracking.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.687477Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "683d9dd5-21f9-48da-9c20-b38ead532037",
+  "source_id": "1qzw2n9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qzw2n9/motsc_day_1_anecdotal_experience/",
+  "author_hash": "9511eea6d55e1974de61fdba299e04b4d4009268e5818f55832de0d45f625980",
+  "confidence_tier": 4,
+  "date_published": "2026-02-08T21:44:55-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "2-3 times per week (testing 3x/week)",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Mind on go mode; felt capable of knocking down tasks one after another; previously felt mentally, physically, and emotionally exhausted after 1-2 tasks, now can continue",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "tolerance",
+      "description": "Felt nothing on shots 4-6 after initial 1-2 shots at 2.5mg, necessitating dose increase to 5mg",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started at 2.5mg and felt initial effects on shots 1-2, then plateau on shots 4-6. Increased to standard dose of 5mg which resolved tolerance issue. Currently injecting Monday and Thursday with TRT to remember schedule. Considering MWF frequency. Reported no negative side effects with increased frequency.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665975Z"
+}

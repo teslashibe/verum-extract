@@ -1,0 +1,42 @@
+{
+  "id": "cda2b754-b12c-4c37-bd21-1d03bd67ceeb",
+  "source_id": "1mrif03",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mrif03/going_from_tirz_to_reta/",
+  "author_hash": "da42d9e685be6eec447d109aa27c68feaa8009744e23b22652b026469109f731",
+  "confidence_tier": 4,
+  "date_published": "2025-08-15T19:40:45-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Hypothermia and gastric issues possible when switching from Tirzepatide to Retatrutide without proper tapering",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Recommends staying on Tirzepatide and uptitrating to maximum dose (15mg) before switching to Retatrutide. Advises gradual tapering of Tirzepatide over 2-4 weeks to avoid adverse effects when transitioning compounds. Only switch when at max dose with 30+ day plateau.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.401192Z"
+}

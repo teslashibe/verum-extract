@@ -1,0 +1,137 @@
+{
+  "id": "e883cedb-261a-46bd-934b-ffd36827fdc7",
+  "source_id": "1r9dd65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9dd65/major_fatigue_2_mg_reta_3_iu_hgh_trt_2_mg_motsc5/",
+  "author_hash": "6ce18c96860c317342c8c55ab3d1916164b6a215778a644d5310d6cd3b02408d",
+  "confidence_tier": 3,
+  "date_published": "2026-02-19T14:20:33-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 207,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "moderate sleep apnea (treated with CPAP)",
+    "chronic fatigue (baseline)",
+    "low vitamin D (previously)",
+    "elevated hematocrit",
+    "low ferritin"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "hgh",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "mots-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 on 2 off",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "test cyp",
+      "name_normalized": "test_cyp",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 175,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 12 pounds in 3 weeks, body fat estimated down from ~24% to ~19-20%",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Fatigue worsened from low-to-moderate baseline to moderate-severe on Reta; has had chronic baseline fatigue for years",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "appetite_change",
+      "description": "Appetite severely suppressed after 2mg Reta injection; consuming only 500-1500 calories per day, down from 2500-3000",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "nausea",
+      "description": "Nausea and vomiting when attempting to force more food intake in the first few days after injection",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep more fragmented; nighttime HRV dropped from 40ms to 20-25ms; resting heart rate increased ~15 bpm",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Total Testosterone (trough)",
+      "value_after": 900,
+      "unit": "ng/dL"
+    },
+    {
+      "marker_name": "Heart Rate Variability (nighttime)",
+      "value_before": 40,
+      "value_after": 22,
+      "unit": "ms",
+      "timeframe_days": 21
+    },
+    {
+      "marker_name": "Resting Heart Rate",
+      "unit": "bpm"
+    },
+    {
+      "marker_name": "Body Weight",
+      "value_before": 207,
+      "value_after": 195,
+      "unit": "lbs",
+      "timeframe_days": 21
+    },
+    {
+      "marker_name": "Body Fat Percentage",
+      "value_before": 24,
+      "value_after": 19.5,
+      "unit": "%",
+      "timeframe_days": 21
+    }
+  ],
+  "protocol_notes": "Started all three compounds simultaneously. Reta titrated: 1mg first injection, 1.25-1.5mg second injection, 2mg third injection (1 week ago). HGH taken 4 hours or less before sleep. Taking liquid IV electrolytes daily, ~1 gallon water/day. On CPAP for sleep apnea. TRT 175mg test cyp/week split into two 100mg injections. Total T at trough ~900 ng/dL, E2 reportedly good. Recently received bloodwork suggesting possibly elevated hematocrit and low ferritin as contributors to fatigue. Vitamin D previously low, now supplementing 10,000 IU/day with K2 MK7. Plans to drop HGH to 2 IU EOD. Height 6ft.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.116468Z"
+}

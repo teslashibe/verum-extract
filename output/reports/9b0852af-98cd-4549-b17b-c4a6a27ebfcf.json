@@ -1,0 +1,60 @@
+{
+  "id": "9b0852af-98cd-4549-b17b-c4a6a27ebfcf",
+  "source_id": "1nr1qtw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nr1qtw/on_tirz_and_losing_slowly_need_help/",
+  "author_hash": "e296e64a13cf9c3612f76b58ceab42005c53b92fe48b07a7bdc2435513ce1978",
+  "confidence_tier": 4,
+  "date_published": "2025-09-26T06:44:30-07:00",
+  "reported_sex": "female",
+  "training_status": "limited due to spine injury (L5-S1 fusion with planned L3-L5 fusion, 10 lb weight limit, 15-20 min walking tolerance)",
+  "health_conditions": [
+    "spinal fusion L5-S1",
+    "degenerative disc disease L3-L5"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "27 pounds lost over 14 weeks (approximately 1.9 lbs/week)",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "appetite definitely down",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "A LOT of nausea when stacked with Cagrilintide a few weeks ago",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started at 2.5mg (May 2025, first month no weight loss). Currently at 7.5mg for 14 weeks. Planned dose increase to 10mg after current vial. Maintains 1400 calorie daily intake tracked in MyFitnessPal. Focus on protein with carbs fitting macros. Does not snack or overeat. Currently in 4-week weight loss plateau. No weight loss from Cagrilintide stack trial despite increased dose.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.397018Z"
+}

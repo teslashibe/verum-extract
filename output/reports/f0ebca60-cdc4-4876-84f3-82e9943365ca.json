@@ -1,0 +1,50 @@
+{
+  "id": "f0ebca60-cdc4-4876-84f3-82e9943365ca",
+  "source_id": "1n0i8bv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n0i8bv/how_does_cjc1295ipamorelin_stack_against/",
+  "author_hash": "6202893042666229b4ac9029e5410c439bae53bb8bffc508a7d3cd37c3d3d6c4",
+  "confidence_tier": 4,
+  "date_published": "2025-08-26T03:33:22-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost some fat",
+      "severity": "mild"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "More a muscle builder than fat loss",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "No appetite suppression noticed",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "On CJC/Ipamorelin for 8-9 weeks. User notes self-described as 'fatass' which may have affected perception of appetite suppression.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.40006Z"
+}

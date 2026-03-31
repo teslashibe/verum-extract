@@ -1,0 +1,59 @@
+{
+  "id": "be021ba5-1db6-46db-859f-54a1b5aeeaa2",
+  "source_id": "1qpgwvo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qpgwvo/post_reta/",
+  "author_hash": "230539a51c1ff4e770025d7cb091b50e0fb68a352f9d340368f90593cdbb1239",
+  "confidence_tier": 4,
+  "date_published": "2026-01-28T08:57:24-08:00",
+  "reported_sex": "female",
+  "training_status": "advanced lifter, ULPPL to failure",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Gained 10lbs of muscle mass (62lbs to 72lbs muscle) over 7 months with ULPPL training",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Test provides great energy",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_pressure",
+      "description": "Cholesterol has been going up, backing down test dosage to 150-200 range",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_after": 300,
+      "unit": "ng/dL"
+    },
+    {
+      "marker_name": "cholesterol"
+    }
+  ],
+  "protocol_notes": "Height: 5'5\". Pins 1iu HGH daily. Also takes testosterone (specific dose not stated, but bloodwork shows \u003c300 ng/dL). Uses Thorne hormone support supplement to manage estrogen conversion. Already a lifter before starting. No masculinizing side effects reported.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669642Z"
+}

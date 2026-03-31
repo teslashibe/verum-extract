@@ -1,0 +1,39 @@
+{
+  "id": "28dcd41a-ba1f-44a8-9531-db970bbbe0dd",
+  "source_id": "1esn2ze",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1esn2ze/anyone_injecting_ghkcu_and_bpc157_in_their_azz/",
+  "author_hash": "7526ac29d17a655dd0bcfd4ea850bd81c0df49ca476b27149c409e29bbb9de49",
+  "confidence_tier": 5,
+  "date_published": "2024-08-14T22:16:08-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ghk-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "bpc 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Sting and welts reduced by adding 15 units of extra BAC water to the mix",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Recommends mixing GHK-CU with BPC-157 and adding 15 units of extra BAC water to reduce sting and prevent welts.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.292042Z"
+}

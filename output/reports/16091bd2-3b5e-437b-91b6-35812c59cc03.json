@@ -1,0 +1,53 @@
+{
+  "id": "16091bd2-3b5e-437b-91b6-35812c59cc03",
+  "source_id": "1fiu7dt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fiu7dt/which_glp1_cause_least_muscle_loss/",
+  "author_hash": "87e19573fe282e985b9ae930494be382e48387e55e442567a5302bd6e29b5f89",
+  "confidence_tier": 4,
+  "date_published": "2024-09-17T01:59:33-07:00",
+  "reported_age_range": "40-49",
+  "training_status": "cardio and resistance training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "40lbs weight loss",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Skin looks great",
+      "severity": "moderate"
+    },
+    {
+      "category": "hair",
+      "description": "No hair fall out",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Muscle maintained according to scanner app",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_composition",
+      "unit": "lbs"
+    }
+  ],
+  "protocol_notes": "Age 40; used Tirz with protein intake and cardio; monitored body composition with scanner app",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696155Z"
+}

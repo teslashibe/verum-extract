@@ -1,0 +1,56 @@
+{
+  "id": "cfe3a201-4654-4c73-b912-cfce9f872291",
+  "source_id": "13zi284",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/13zi284/why_no_human_trials_on_bpc157_this_stuff_seems/",
+  "author_hash": "680fcdb620dbac55e74bc9dcbe4617665089edb759ca48c3d070f43e989b40d1",
+  "confidence_tier": 4,
+  "date_published": "2023-06-03T09:36:05-07:00",
+  "health_conditions": [
+    "degenerative disc disease L3-S1",
+    "arthritis",
+    "bulging discs",
+    "compressed disc",
+    "cervical disc damage",
+    "suspected epidural hematoma",
+    "chronic inflammation",
+    "chronic pain"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "before bed",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "dramatically reduced morning pain and overall inflammation, went from bed-ridden to functional",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "helped recovery from major fall with domino effect injuries",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Was bed-ridden before starting BPC-157. Takes 250mcg twice daily, sometimes 500mcg before bed instead. Noticed significant help only after a few weeks break made effects apparent.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.701276Z"
+}

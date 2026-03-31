@@ -1,0 +1,49 @@
+{
+  "id": "dfa2ad56-3671-4051-a0bf-c4114600ea65",
+  "source_id": "1s74bbc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s74bbc/motsc_dosage_with_reta/",
+  "author_hash": "b7ee1e5d156135bbb5ffc63cf6384abd344d583afa549a43849731707a40ece7",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T12:23:13-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "variable, morning dosing",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "blood_sugar",
+      "description": "Improved glucose metabolism and insulin sensitivity; increased glucose uptake into muscle cells independent of insulin",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Improved fuel partitioning, less fat storage, higher energy expenditure",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Increased energy expenditure through AMPK activation",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Currently running MOTS-c in the morning while on Retatrutide; fasted vs fed state does not appear to matter for efficacy; stacking with fasted state or pre-training for optimization purposes",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.645104Z"
+}

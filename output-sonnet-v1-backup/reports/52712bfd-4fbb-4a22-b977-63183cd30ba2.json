@@ -1,0 +1,93 @@
+{
+  "id": "52712bfd-4fbb-4a22-b977-63183cd30ba2",
+  "source_id": "1f8k5cg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1f8k5cg/just_as_a_random_n1_on_what_happens_when_you/",
+  "author_hash": "c991773bd403927760af2a0d1a4a025b478c5e97ee6c0b721a62e622fc055895",
+  "confidence_tier": 4,
+  "date_published": "2024-09-03T21:04:49-07:00",
+  "reported_sex": "female",
+  "training_status": "sedentary",
+  "health_conditions": [
+    "low blood pressure",
+    "standing tachycardia"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "single dose (first use)",
+      "cycle_length_days": 1,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "not specified (HRT)",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "frequency": "on break at time of report",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Intended to use BPC-157 for deep sleep based on community reports; no confirmed benefit noted due to adverse experience"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "dizziness",
+      "description": "Vertigo spinning episodes lasting approximately ten seconds each, occurring every 30-60 minutes for approximately six hours",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "other",
+      "description": "Nystagmus (side-to-side eye spasms) accompanying vertigo episodes; unable to drive next morning due to symptom severity",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "nausea",
+      "description": "Some nausea noted; OP attributed it possibly to heavy dinner",
+      "severity": "mild",
+      "onset_days": 0
+    },
+    {
+      "category": "fatigue",
+      "description": "Felt tired and head felt fuzzy/eye muscles tired the following morning",
+      "severity": "mild",
+      "onset_days": 1
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Could not sleep normally due to recurring vertigo episodes throughout the night",
+      "severity": "moderate",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "First-time BPC-157 use. Intended dose was 250mcg but miscalculated reconstitution (added ~2.25mL bacteriostatic water to 5mg vial instead of proper ratio), resulting in estimated 500-625mcg dose. Took testosterone (5mg, female HRT) the night prior. Was also recently on tirzepatide but on a break. Planned to restart BPC-157 at lower dose after a few days.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.291299Z"
+}

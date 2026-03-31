@@ -1,0 +1,44 @@
+{
+  "id": "da56e653-7699-4c5b-8082-05764a7ac259",
+  "source_id": "1pivlj9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pivlj9/retatrutide_question/",
+  "author_hash": "4032419f8245d664a27bf1d0763204377c792c282b376b236380cb64b88ddb33",
+  "confidence_tier": 4,
+  "date_published": "2025-12-09T22:33:07-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 35,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Initial 10mg vial worked amazing for appetite suppression over 5 weeks",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "After 5 weeks of second 20mg vial, user started getting really hungry and doubted efficacy",
+      "severity": "significant",
+      "onset_days": 35,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started at 2mg/week using 10mg vial for 5 weeks with good results. Switched to 20mg vial, experienced loss of appetite suppression effect after 5 weeks and discarded remaining half-bottle. Obtained fresh vial which worked as expected. User notes Reta stability lasts closer to 5 months post-reconstitution rather than the commonly cited 1 month.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.391058Z"
+}

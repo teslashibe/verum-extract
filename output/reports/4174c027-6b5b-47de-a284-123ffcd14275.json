@@ -1,0 +1,70 @@
+{
+  "id": "4174c027-6b5b-47de-a284-123ffcd14275",
+  "source_id": "17glkca",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17glkca/blame/",
+  "author_hash": "8f03c4bfd69b4f55c4de3fb33af6d5efc07a476fd02000de13751343a2aa311c",
+  "confidence_tier": 4,
+  "date_published": "2023-10-25T18:59:40-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "60+",
+  "training_status": "sedentary to resistance training",
+  "health_conditions": [
+    "diabetes",
+    "diabetic neuropathy"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 32 lbs over 4 months",
+      "severity": "significant"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Able to walk more distance without assistance than in past couple of years",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Improved from depression, increased social engagement and gym attendance",
+      "severity": "significant"
+    },
+    {
+      "category": "immune",
+      "description": "Possibly improved immune response; did not get flu despite household exposure",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "general blood work",
+      "timeframe_days": 120
+    }
+  ],
+  "protocol_notes": "Stack of BPC-157, AOD-9604, and GHK-Cu. User mentions phenomenal blood work results. Timeline: 4 months of use. Lives with 8-year-old grandson and family.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.700209Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2a754adf-ca26-437e-bf3c-3fc9a8b3941f",
+  "source_id": "1rrpxwj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rrpxwj/wegovy_reta/",
+  "author_hash": "652d733b178f7cf5fb568ea4b0ca328eddd9471873cfd0a659a8bf7ed9b6c3f7",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T05:52:50-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "once weekly (Saturday)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly (Wednesday)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Cures midweek cravings",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Using for weight loss; has over 100 lbs to lose"
+    }
+  ],
+  "protocol_notes": "Brand name Wegovy (semaglutide) covered by insurance at $100 per dose. Was already taking Retatrutide consistently before Wegovy was approved. Stacking approach: Reta on Saturday, Sema on Wednesday to manage midweek appetite between weekly Reta doses. Reports no heart rate problems with 4mg Reta.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.665141Z"
+}

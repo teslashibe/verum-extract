@@ -1,0 +1,44 @@
+{
+  "id": "a6ca9328-4794-402a-aaff-8e1938c1ca8c",
+  "source_id": "1qvxa3k",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qvxa3k/ghk_cu_bruises/",
+  "author_hash": "44a390efb7c28af586a8671ece4db7f320574196c972e128a517cab9fb4384f5",
+  "confidence_tier": 4,
+  "date_published": "2026-02-04T10:53:48-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injection_site",
+      "description": "Adding KPV reduced bruising from GHK-Cu injections",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Bruising from GHK-Cu",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Stacked GHK-Cu with KPV to smooth out injection site bruising",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.667112Z"
+}

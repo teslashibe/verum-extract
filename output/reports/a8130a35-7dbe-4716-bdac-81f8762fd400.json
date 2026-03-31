@@ -1,0 +1,43 @@
+{
+  "id": "a8130a35-7dbe-4716-bdac-81f8762fd400",
+  "source_id": "m539x0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/m539x0/bpc157_from_alibaba_qindao_sigma_7_days_in/",
+  "author_hash": "c516e0072ba4e1f0945da0d7e44c7cddfb7db159e6f19bfd5ea636eff0df9f3e",
+  "confidence_tier": 4,
+  "date_published": "2021-03-14T13:20:04-07:00",
+  "health_conditions": [
+    "back pain"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Back pain relief occurred within 12-24 hours",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "pain_change",
+      "description": "Pain returned within 2-3 days when travel prevented continued use",
+      "severity": "moderate",
+      "onset_days": 3,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Used for approximately 8 weeks total. Had to stop several times for travel due to impracticality of bringing product. Planned to stop soon and hoped pain would not return.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.131779Z"
+}

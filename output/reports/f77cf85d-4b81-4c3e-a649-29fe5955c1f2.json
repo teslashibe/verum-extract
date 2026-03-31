@@ -1,0 +1,55 @@
+{
+  "id": "f77cf85d-4b81-4c3e-a649-29fe5955c1f2",
+  "source_id": "1rnovs2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rnovs2/new_here_help/",
+  "author_hash": "58eda37187ced0f7f7cbbce0dde870ca4539278f73cddcdbc0617d782fc8c886",
+  "confidence_tier": 5,
+  "date_published": "2026-03-07T15:31:27-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 25,
+      "dose_unit": "units",
+      "frequency": "5 days a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "units",
+      "frequency": "1 time a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "units",
+      "frequency": "7 days a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "7 days a week",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "OP has Tes-250 water, Reta-100 water, CJC/IPA-250 water loaded in V2 Reusable Injection Pen with Cartridge. CJC and IPA are in a pre-mixed blend. Dosing is expressed in units via the injection pen device.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.667453Z"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "bc15c4d2-50d2-4826-8a90-a30e9d90206a",
+  "source_id": "1quqz3p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1quqz3p/ghrp_ghrh_recommendations_for_beginner_female/",
+  "author_hash": "d4de6cad8c9e04dd84f06261b629f25954100ed92725c60862e9e7924ba280ca",
+  "confidence_tier": 5,
+  "date_published": "2026-02-03T04:45:20-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHRP",
+      "name_normalized": "ghrp_6",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "GHRPs can spike hunger"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "GHRPs spike hunger, not compatible with GLPs"
+    }
+  ],
+  "protocol_notes": "Commenter shares opinion that GHRPs spike hunger and should not be used with GLPs. States secretagogues may not increase above natural levels for young individuals. Recommends HGH as only consistent method.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.667613Z"
+}

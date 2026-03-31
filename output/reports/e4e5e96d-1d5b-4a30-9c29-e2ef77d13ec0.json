@@ -1,0 +1,37 @@
+{
+  "id": "e4e5e96d-1d5b-4a30-9c29-e2ef77d13ec0",
+  "source_id": "1qfo2pt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qfo2pt/bpc_157_tpc_500_blend_dose/",
+  "author_hash": "c48ebe3b11d65c4a99fc455745bdc857e9967d90d7e0c6d95418e8d23df7c026",
+  "confidence_tier": 5,
+  "date_published": "2026-01-17T12:35:04-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Blended 10mg/10mg BPC-157/TB-500 reconstituted with 3ml bac water. 250 mcg dose of each requires 8 ticks on insulin syringe.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.670767Z"
+}

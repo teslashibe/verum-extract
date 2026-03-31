@@ -1,0 +1,120 @@
+{
+  "id": "a0e20c97-aad9-4313-9ac9-88f2ac935e84",
+  "source_id": "1eg1r9i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1eg1r9i/hit_15mg_tirz_what_now/",
+  "author_hash": "191c31d0c9f70aac255e4dd1bb600b1ac253d8a13a5257b40dd21fcfb09cfd38",
+  "confidence_tier": 4,
+  "date_published": "2024-07-30T12:07:28-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 185,
+    "unit": "lbs"
+  },
+  "training_status": "highly active, consistent lifting splits, cardio, nutrition and recovery for ~2 years",
+  "health_conditions": [
+    "IBS",
+    "alcohol cravings",
+    "carb cravings/food noise",
+    "restless sleep"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "frequency": "weekly (titrating to every 5 days when tolerance increases)",
+      "cycle_length_days": 365,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa/modgrf",
+      "name_normalized": "ipamodgrf",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "160test",
+      "name_normalized": "160test",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 160,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "60primo",
+      "name_normalized": "primo",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 60,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tadalafil",
+      "name_normalized": "tadalafil",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "creatine",
+      "name_normalized": "creatine",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Allowed OP to eat like a robot, perfectly hit macros every day without going to bed hungry; eliminated food noise",
+      "severity": "significant"
+    },
+    {
+      "category": "gut_health",
+      "description": "Cured ongoing IBS issues; able to expand food variety without IBS flare-ups",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Curbed alcohol cravings",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Got shredded for 40th birthday; maintained lean physique; able to maintain calorie deficit",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "Improved sleep; previously had restless sleep due to carb cravings/food noise",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Each titration increment comes on strong the first few days; nausea if dose too high leading to inability to eat",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Tolerance buildup requiring dose escalation every 4-6 weeks; began pinning every 5 days instead of 7 before bumping dose",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started Tirz at 2.5mg, titrating up by 2.5mg increments each time it became ineffective (every 4-6 weeks), reaching 15mg over ~12 months. On TRT+ protocol (testosterone 160mg, primobolan 60mg). Also uses ipamorelin/mod-GRF, tadalafil, creatine. Not prescribed; purchased online. Has taken 2-3 week breaks from Tirz since starting. Height 5'9\". Changed diet ~2 years ago after naturopath visit and ALCAT test. Quit alcohol prior to starting Tirz.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.292414Z"
+}

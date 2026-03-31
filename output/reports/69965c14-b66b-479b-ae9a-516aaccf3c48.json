@@ -1,0 +1,49 @@
+{
+  "id": "69965c14-b66b-479b-ae9a-516aaccf3c48",
+  "source_id": "1qek46x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qek46x/why_the_microstack_beats_the_megadose/",
+  "author_hash": "de9515c26f97ddaf06645960d1b6a7eb21217fc91791c95b5b8f9f754d671e71",
+  "confidence_tier": 5,
+  "date_published": "2026-01-16T08:10:08-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "every 4 days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "frequency": "every 4 days",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression maintained with micro-dosing approach",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Weight loss achieved at lower doses with reduced tolerance buildup",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Theoretical micro-stack protocol: 1.5 mg Tirzepatide + 0.75 mg Retatrutide every 4 days. Author discusses receptor occupancy theory and tolerance prevention. Post is primarily educational/theoretical rather than a personal usage report.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.670873Z"
+}

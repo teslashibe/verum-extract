@@ -1,0 +1,41 @@
+{
+  "id": "c4ef2f6d-492f-469e-b865-373a13aea427",
+  "source_id": "1qvth9x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qvth9x/cagri/",
+  "author_hash": "0d7ffb12c9a0328433884b17b85ff61a950ecb02d0c88bce758b69941abc7686",
+  "confidence_tier": 4,
+  "date_published": "2026-02-04T08:39:30-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Cagri",
+      "name_normalized": "cagri",
+      "category": "other",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Initially very strong appetite suppression ('like death'); now able to power through it, possibly due to tolerance",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Extreme appetite suppression when first started",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Has tried multiple sources. Suspects tolerance has built up over time.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121339Z"
+}

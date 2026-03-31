@@ -1,0 +1,43 @@
+{
+  "id": "c00c5ca5-a583-4da0-9264-e3210fc82a40",
+  "source_id": "1rqacfn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rqacfn/ghkcu_and_chelated_copper_supplements/",
+  "author_hash": "f92ed8b62c2a4cac56e714a4769fa65b5d4a3ccc4c1cd7a08d8fce310ca9746e",
+  "confidence_tier": 5,
+  "date_published": "2026-03-10T14:37:06-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "ghk-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "zinc",
+      "name_normalized": "zinc",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "copper",
+      "name_normalized": "copper",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "OP planning to add GHK-Cu to existing zinc and copper supplement routine. Asked whether to stop copper supplements when starting GHK-Cu.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.110014Z"
+}

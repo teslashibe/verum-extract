@@ -1,0 +1,49 @@
+{
+  "id": "a88e4baf-9115-4016-be61-27a44dd49df6",
+  "source_id": "1qzwdzq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qzwdzq/compromised_vial/",
+  "author_hash": "3b2814369c814b66e16991d36746f26d2c402bd3848e96d293af25d61bc4a9a2",
+  "confidence_tier": 4,
+  "date_published": "2026-02-08T22:01:41-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "evening",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "evening",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "evening",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "evening",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "OP runs an evening stack of BPC-157/TB-500 and CJC-1295/Ipamorelin. Accidentally used same needle for two separate injections (BPC/TB first, then CJC/IPQ after). Post focuses on protocol safety concern rather than outcomes.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.678521Z"
+}

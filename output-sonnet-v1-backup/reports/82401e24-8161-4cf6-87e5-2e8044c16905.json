@@ -1,0 +1,83 @@
+{
+  "id": "82401e24-8161-4cf6-87e5-2e8044c16905",
+  "source_id": "1mabyts",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mabyts/what_was_the_combo_you_found_that_broke_your/",
+  "author_hash": "2f3d78dc3dbc4f0f7b33fe6822de42d4cec6881447f7846f3a49d1af4caed855",
+  "confidence_tier": 4,
+  "date_published": "2025-07-26T20:15:55-07:00",
+  "training_status": "walk 4 miles a day, strength training twice a week, ReHIT twice a week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Serm",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mots-C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Broke plateau after 80 pounds lost on Tirzepatide 15mg; losing again after adding new compounds",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Previously stalled on Tirzepatide 15mg after 80 pounds lost. Added Ipa, Serm, Tesa, Mots-C daily and Reta 1mg twice weekly to break plateau. Also on 200mg Testosterone weekly and mentions some other ancillaries and supplements not specified.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.277805Z"
+}

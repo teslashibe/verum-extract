@@ -1,0 +1,113 @@
+{
+  "id": "9ce23eca-a49e-4e7a-8fc5-74ee6a87e0ca",
+  "source_id": "1dwsil1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1dwsil1/beginners_advice/",
+  "author_hash": "34b4d2973dd8d7f29afa6c9ff5ee71d54b37a919063bba1fc4986226ea2f996d",
+  "confidence_tier": 4,
+  "date_published": "2024-07-06T08:43:51-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "frequency": "as needed",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "frequency": "as needed",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Oxytocin",
+      "name_normalized": "oxytocin",
+      "category": "hormonal",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Tirzepatide for weight loss"
+    },
+    {
+      "category": "injury_healing",
+      "description": "BPC-157 and TB-500 for injury recovery"
+    },
+    {
+      "category": "anxiety_relief",
+      "description": "Selank for stress reduction and anti-anxiety"
+    },
+    {
+      "category": "cognitive",
+      "description": "Selank for focus and energy"
+    },
+    {
+      "category": "mood",
+      "description": "Oxytocin for feel good and bonding"
+    },
+    {
+      "category": "libido",
+      "description": "PT-141 for libido and sex drive with great successful outcomes",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Tesamorelin for muscle growth"
+    }
+  ],
+  "protocol_notes": "OP states not taking all compounds simultaneously; some taken as needed, some held for future research. PT-141 and MT-2 have been previously researched with positive outcomes. Selank is a 2-week research trial with titration up to 1mg. Has not yet researched Semax, Oxytocin, or Tesamorelin.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.697114Z"
+}

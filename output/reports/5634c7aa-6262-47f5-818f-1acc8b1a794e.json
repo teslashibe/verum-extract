@@ -1,0 +1,44 @@
+{
+  "id": "5634c7aa-6262-47f5-818f-1acc8b1a794e",
+  "source_id": "1ndlcmk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ndlcmk/semax_selank_what_are_peoples_experience/",
+  "author_hash": "c63f514bb403b3dc90b0f2478b3df4ce1118d98ac9500e60e3eaa7d1172928b1",
+  "confidence_tier": 4,
+  "date_published": "2025-09-10T10:54:07-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 600,
+      "dose_unit": "mcg",
+      "frequency": "once daily in morning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 600,
+      "dose_unit": "mcg",
+      "frequency": "once daily in morning",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Best results when combined in same syringe",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User mixes both compounds in same syringe at 600mcg each, administered morning",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.682054Z"
+}

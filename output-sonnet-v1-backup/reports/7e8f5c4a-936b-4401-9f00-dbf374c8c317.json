@@ -1,0 +1,47 @@
+{
+  "id": "7e8f5c4a-936b-4401-9f00-dbf374c8c317",
+  "source_id": "1n7sb0l",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n7sb0l/motsc_protocols_are_all_over_the_board/",
+  "author_hash": "668ca7404e4cbf02e04d9b5dc079941bbc621a47c26903bea67170cc881956db",
+  "confidence_tier": 4,
+  "date_published": "2025-09-03T14:58:28-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC/IPA",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "frequency": "evening",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "mots-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Hoping to add to fat burning with mots-c stack"
+    }
+  ],
+  "protocol_notes": "OP titrated reta slowly over 4 weeks: .5mg, then .7mg, then 1mg. Purchased 40mg of mots-c. Self-described as cautious/slow starter.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.27291Z"
+}

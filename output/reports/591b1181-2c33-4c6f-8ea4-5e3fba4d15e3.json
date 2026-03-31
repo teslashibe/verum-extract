@@ -1,0 +1,41 @@
+{
+  "id": "591b1181-2c33-4c6f-8ea4-5e3fba4d15e3",
+  "source_id": "p9kfuf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/p9kfuf/neuroregenerative_peptides/",
+  "author_hash": "4ab58c91d4fc50c027df1dd2c9377e79394d630dbef161548709c1ea40f1fdf2",
+  "confidence_tier": 4,
+  "date_published": "2021-08-22T13:38:37-07:00",
+  "training_status": "incorporates dead-hangs for mobility",
+  "health_conditions": [
+    "double elbow tendinosis",
+    "shoulder impingement"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Totally erased double elbow tendinosis and shoulder impingement",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "BPC-157/TB-500 protocol. Shoulder impingement appeared to be from tendon fraying and aggravated inflammation that persisted despite 800mg ibuprofen twice daily, MSM, and rest for many weeks. Cleared up soon after beginning BPC-157 and TB-500 with dead-hangs for mobility. Protocol duration not specified but appears to be several weeks based on context.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.130615Z"
+}

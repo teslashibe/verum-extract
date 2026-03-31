@@ -1,0 +1,39 @@
+{
+  "id": "d84e0320-0c7b-4456-93f2-c5748653ca88",
+  "source_id": "1fyprjn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fyprjn/effects_of_gchku_and_bpc157_injections_for_almost/",
+  "author_hash": "2399cfee469ecd94860844b09bba9dc801b207e3c719cddcc19076773904e575",
+  "confidence_tier": 4,
+  "date_published": "2024-10-07T19:42:56-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "irregular",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Inch-long eyebrow hairs growing straight out rather than at normal angle; attributed effect to GHK-Cu after stopping BPC-157 six months ago",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Ran similar doses irregularly; initially thought local injection near eyebrows was necessary so did not prioritize observation; noticed trimmed eyebrow hairs were inch-long before discontinuing documentation",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.695975Z"
+}

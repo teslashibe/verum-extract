@@ -1,0 +1,96 @@
+{
+  "id": "37b83bf7-ef14-4a3c-ab61-0020600f3c35",
+  "source_id": "1nb0koz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nb0koz/opinions_on_best_stacks_for_muscle_growth_44yr_old/",
+  "author_hash": "d1183f286241331302c8885119f33b9957f12136db700591cf4d4817ab78ede7",
+  "confidence_tier": 4,
+  "date_published": "2025-09-07T11:19:10-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "slender build, actively training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 150,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 13,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "intramuscular",
+      "frequency": "split dose both sides",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Noticeable growth from IGF-1 IM injections",
+      "severity": "moderate"
+    },
+    {
+      "category": "anti_aging",
+      "description": "HGH for longevity purposes",
+      "severity": "moderate"
+    },
+    {
+      "category": "body_composition",
+      "description": "Muscle mass increase expected over months from HGH",
+      "severity": "moderate",
+      "onset_days": 180
+    }
+  ],
+  "protocol_notes": "44-year-old male on prescription protocol from Defy Medical. HGH brand: Omnitrope at $750/vial, 4 vials per month (13 IU daily). Test at 150mg/week, user wants to increase to 200-250mg/week. IGF-1 LR3 dosed split on both sides. User mentions HGH takes 6+ months to show muscle-building effects. Bloodwork scheduled. Also has Tesamorelin and HCG on hand.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.398842Z"
+}

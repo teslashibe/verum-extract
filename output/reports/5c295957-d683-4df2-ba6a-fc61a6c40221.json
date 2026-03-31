@@ -1,0 +1,59 @@
+{
+  "id": "5c295957-d683-4df2-ba6a-fc61a6c40221",
+  "source_id": "1n5qiin",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n5qiin/tesaipa_vs_hgh_cost_effectiveness_and_longterm/",
+  "author_hash": "d4de6cad8c9e04dd84f06261b629f25954100ed92725c60862e9e7924ba280ca",
+  "confidence_tier": 4,
+  "date_published": "2025-09-01T07:40:54-07:00",
+  "reported_age_range": "25-29",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "3x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "3x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "daily or every other day",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "CJC + Ipamorelin 3x daily in mid-20s produced comparable results to 2 IU HGH currently",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Developed injection site reactions to morelins",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Years of experience; ran CJC + Ipamorelin 3x daily in mid-20s; currently on ~2 IU HGH pinned once daily or EOD; notes advantage of HGH is once-daily or EOD pinning frequency and no need to time around meals; switched to HGH due to injection site reactions",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.399536Z"
+}

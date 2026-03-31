@@ -1,0 +1,89 @@
+{
+  "id": "c0e78c51-f8c2-4a40-b651-7664cc08a8f0",
+  "source_id": "1s6uant",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6uant/hgh_sides/",
+  "author_hash": "6030423f8e00f4114204ac470d09a4f17472cbd4874dbe968e11545277ab51bf",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T05:52:38-07:00",
+  "health_conditions": [
+    "overweight"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "once daily in the morning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "once daily in the morning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "cjc",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "once daily at night",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "once daily at night",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep improved again after adding CJC+IPA at night",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Weight loss going steady again after adding CJC+IPA",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Carpal tunnel symptoms when titrating up to 2 IU; took nearly 2 months to tolerate 2 IU without carpal tunnel",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 60
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep quality suffered when dosing HGH pre-bed without CJC+IPA",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "water_retention",
+      "description": "Weight gain attributed to water retention when taking HGH pre-bed without CJC+IPA",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "55+ age range inferred from self-description. HGH at 6am with 300mcg IPA; CJC+IPA 300mcg each at 11pm (16-17 hours after HGH). Previously tried HGH pre-bed only without CJC+IPA with poor results. About 2 months into HGH use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.103255Z"
+}

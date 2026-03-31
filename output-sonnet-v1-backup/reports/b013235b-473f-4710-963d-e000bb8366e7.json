@@ -1,0 +1,43 @@
+{
+  "id": "b013235b-473f-4710-963d-e000bb8366e7",
+  "source_id": "1afnaml",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1afnaml/peptides_for_loose_skin_after_weight_loss/",
+  "author_hash": "e2c16b57c95426e0a8d662c4a919dedfd7efdbc258fc731c8ac3b2f975cada08",
+  "confidence_tier": 3,
+  "date_published": "2024-01-31T09:28:52-08:00",
+  "health_conditions": [
+    "loose skin after weight loss"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 120,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Serum copper went from low normal to elevated after 120 days of GHK-cu. Stopped for 30 days and copper returned to normal range.",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 30
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Serum copper",
+      "timeframe_days": 120
+    }
+  ],
+  "protocol_notes": "Used GHK-cu for 120 days. Noted copper elevation; stopped for 30 days and levels returned to range. Notes zinc interacts with copper in gut but injected copper does not interact with zinc supplementation. Mentions some now recommend 50% GHK and 50% GHK-cu blend to keep copper lower.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.295167Z"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "302f8230-e65d-42b2-a58d-24741749aead",
+  "source_id": "1enmty8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1enmty8/bpc157_and_ghkcu_have_changed_my_life/",
+  "author_hash": "7526ac29d17a655dd0bcfd4ea850bd81c0df49ca476b27149c409e29bbb9de49",
+  "confidence_tier": 4,
+  "date_published": "2024-08-08T18:10:35-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Mixing at higher concentrations causes pain that lasts for days at injection sites",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "copper toxicity",
+      "timeframe_days": 60
+    }
+  ],
+  "protocol_notes": "Mixed 5mg GHK-Cu with 15 units (500mcg) BPC-157, then diluted with 1.5 units of bac water for total of 4 units. This dilution reduces injection site pain significantly. Reported 'day 30 of this cycle going well'. Initial recommended 2mg dose of GHK-Cu produced no results; increased to 10mg and found better results. Notes that GHK-Cu is 14% copper; 10mg injection = 1.4mg copper. Daily copper limit is 10mg, so would need ~80mg/day to exceed limit. Ran bloodwork showing no copper toxicity issues at 5mg 2x daily for 2 months without zinc supplement.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696855Z"
+}

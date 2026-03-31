@@ -1,0 +1,40 @@
+{
+  "id": "3854e07d-272d-4ccd-bb34-1edc1076ca8c",
+  "source_id": "1rpk7dg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpk7dg/blacking_out_after_pinning/",
+  "author_hash": "76eecb0949196a03f2d725961d31a6a154ef250349527debbaffa3bf57bb9fcf",
+  "confidence_tier": 5,
+  "date_published": "2026-03-09T19:04:05-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Vasovagal syncope - blacked out for approximately 20 seconds after injection, likely triggered by pain, difficulty inserting needle, and sight of blood; regained consciousness within a minute",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "injection_site",
+      "description": "Bleeding at injection site; needle harder to break through skin than usual and more painful than typical",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "On week 4 of retatrutide. Had just increased dose by 0.5mg. Incident likely related to hitting a firm spot or poor injection technique in combination with dose increase. OP notes prior injections had been uneventful.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.110344Z"
+}

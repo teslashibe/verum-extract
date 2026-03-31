@@ -1,0 +1,125 @@
+{
+  "id": "8dd2107f-14c2-44f5-bcc6-93ece631dac5",
+  "source_id": "1m6z8rc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m6z8rc/peptides_work/",
+  "author_hash": "140d77638639ace0c06b599418549c738d3a5e53409ce0bfa80486c3fd38ed74",
+  "confidence_tier": 4,
+  "date_published": "2025-07-22T20:55:47-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 240,
+    "unit": "lbs"
+  },
+  "training_status": "recovering from shoulder and elbow injury, planning to increase workout routine",
+  "health_conditions": [
+    "shoulder injury",
+    "elbow injury",
+    "knee valgus",
+    "chronic knee pain and tightness"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "2x weekly (5mg Monday, 5mg Thursday)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone Cypionate",
+      "name_normalized": "testosterone_cypionate",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 140,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "route": "intramuscular",
+      "dose_value": 750,
+      "dose_unit": "IU",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 55 lbs (240 to 185 lbs) over 8 months; stomach fat reduction and abdominal definition achieved",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Recovery from shoulder and elbow injury with physical therapy support",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Increased vascularity; noticeable muscle preservation during weight loss",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Improved diet quality and eating habits; clothing size reduced from L/XL to M",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Excessive stiffness and tightness in joints at 7 IU HGH dose",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "injection_site",
+      "description": "Easy bruising at injection sites, especially stomach and glutes",
+      "severity": "mild",
+      "resolved": false
+    },
+    {
+      "category": "joint_pain",
+      "description": "Hand stiffness upon waking at current 5 IU HGH dose",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Started at 2.5mg Tirz and 2 IU HGH, slowly titrated up. BPC-157 and TB-500 injected separately in deltoid (not mixed). HGH injected in glute; testosterone in opposite cheek. Tirzepatide injected in stomach twice weekly. Noted prior experience with semaglutide showed inferior results to current stack. User attributes stomach fat loss specifically to HGH effect.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.95,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.403422Z"
+}

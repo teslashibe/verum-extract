@@ -1,0 +1,57 @@
+{
+  "id": "359c48bb-581a-4dda-b605-e615a4a5e201",
+  "source_id": "1rq1iil",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rq1iil/ghkcu_injection_skin_issues/",
+  "author_hash": "3a4178c7c79f714d6c773da1cd38803ee0a8c31507f8d442c4e2655711def481",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T09:24:42-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "rosacea"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Skin completely clear after pushing through initial 'copper uglies'; red bumps and irritation resolved after approximately 1.5 weeks",
+      "severity": "moderate",
+      "onset_days": 11
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin",
+      "description": "Red breakout bumps on cheek and incredibly dry skin ('copper uglies') shortly after starting; not at injection site",
+      "severity": "moderate",
+      "onset_days": 7,
+      "resolved": true,
+      "resolution_days": 11
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "zinc levels"
+    },
+    {
+      "marker_name": "copper levels"
+    }
+  ],
+  "protocol_notes": "Uses 5/16 inch (0.312 inch) needles for subcutaneous injection in stomach. Takes zinc supplementation to balance copper. Gets zinc and copper levels checked every three months. Considering cycling off for a month every 2-3 months.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.110154Z"
+}

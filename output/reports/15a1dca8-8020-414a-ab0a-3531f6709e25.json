@@ -1,0 +1,45 @@
+{
+  "id": "15a1dca8-8020-414a-ab0a-3531f6709e25",
+  "source_id": "z5y5on",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/z5y5on/elbow_tendonitis_recovery_using_bpc157/",
+  "author_hash": "4f5185f7ad322ee619c84e9e9c060d2963d8cdf79b0f4faf98d0e0b8233ef6a5",
+  "confidence_tier": 4,
+  "date_published": "2022-11-27T02:42:26-08:00",
+  "training_status": "active (boxing)",
+  "health_conditions": [
+    "hyperextended elbow from boxing"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Hyperextended jab-side elbow recovered from sharp pain with arm straightening to 95% better in 3 weeks, now 100% better.",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "joint_pain",
+      "description": "Sharp pain with arm extension resolved.",
+      "severity": "significant",
+      "onset_days": 21
+    }
+  ],
+  "protocol_notes": "Used 4x the OP's dose (1g daily). 75% of injections targeted elbow, 25% to shoulder. Did not use TB-500. Indicates 3-week cycle is good, can return after 2 weeks if necessary.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.129456Z"
+}

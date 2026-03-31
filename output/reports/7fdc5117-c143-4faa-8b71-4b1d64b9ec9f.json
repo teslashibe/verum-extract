@@ -1,0 +1,48 @@
+{
+  "id": "7fdc5117-c143-4faa-8b71-4b1d64b9ec9f",
+  "source_id": "1obxadv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1obxadv/peptides_for_sleep_quality/",
+  "author_hash": "ba775b3be2e101cf5157f7d61c7af170c0ea2af6fc3e07a79e94229defd46674",
+  "confidence_tier": 4,
+  "date_published": "2025-10-20T16:28:00-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Winning combo for sleep",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "DSIP and Selank are the winning combination; uncertain about CJC/Ipa contribution to sleep",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.395459Z"
+}

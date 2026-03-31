@@ -1,0 +1,65 @@
+{
+  "id": "d1793681-4538-4a2c-944c-ad168645c2f2",
+  "source_id": "1mj7i3z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mj7i3z/what_retratutide_starting_dose_if_i_tolerated/",
+  "author_hash": "563ef3f88b847a0ecbdb5b4b827e91472794a21274b3e2a4112dbc47ee488d64",
+  "confidence_tier": 5,
+  "date_published": "2025-08-06T08:19:26-07:00",
+  "reported_weight": {
+    "value": 10,
+    "unit": "kg"
+  },
+  "health_conditions": [
+    "small appetite"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 14kg since May 28th, seeking faster fat oxidation",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Already has small appetite, considering complete appetite suppression",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Little bit of acid reflux on day one or if accidentally ate a meal too big",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Brand: Wegovy (Semaglutide). Considering starting Retatrutide at 0.25mg total (two injections) week 1, 0.4mg week 2, titrating up slowly. Has already lost 14kg and trying to lose remaining 10kg in less than two months before winter travel. Currently craving doughnuts despite calorie deficit.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.402083Z"
+}

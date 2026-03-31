@@ -1,0 +1,47 @@
+{
+  "id": "77c7f4d7-9e3c-43fd-ad78-509ee45119e3",
+  "source_id": "1rm6fki",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rm6fki/reta_usage/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T22:26:14-08:00",
+  "reported_weight": {
+    "value": 101.5,
+    "unit": "kg"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 112,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss from 116 kg to 101-102 kg over 3-4 months",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "Tingling/electric type of sensation in thighs, occurring nearly every day, affecting sleep quality. Did not occur in early stages of treatment.",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "User taking multivitamins and other supplements for nutrient support. Deliberately maintaining 4mg weekly dose to minimize loose skin risk.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.667984Z"
+}

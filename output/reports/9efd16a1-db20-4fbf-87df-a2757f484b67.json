@@ -1,0 +1,35 @@
+{
+  "id": "9efd16a1-db20-4fbf-87df-a2757f484b67",
+  "source_id": "1k74ace",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k74ace/doctor_offering_dsip_deltasleepinducing_peptide/",
+  "author_hash": "6604be3c33c8a57389f0a4e02b8df5c361924c763b8e13014b2adbdc1259e73c",
+  "confidence_tier": 4,
+  "date_published": "2025-04-24T14:42:54-07:00",
+  "health_conditions": [
+    "sleep issues",
+    "waking in middle of night"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "deep sleep"
+    },
+    {
+      "marker_name": "REM sleep"
+    }
+  ],
+  "protocol_notes": "User measured deep sleep and REM sleep; neither increased during trial",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.409175Z"
+}

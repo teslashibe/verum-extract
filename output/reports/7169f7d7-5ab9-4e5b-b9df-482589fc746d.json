@@ -1,0 +1,56 @@
+{
+  "id": "7169f7d7-5ab9-4e5b-b9df-482589fc746d",
+  "source_id": "1r9ncfx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9ncfx/bpc157tb500_dosage_guidance/",
+  "author_hash": "8ec5455c5cec63596e3450d3bce3ac7ef5c1f88b0612ccee1289d9e443b25ccc",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T21:55:41-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Headaches resolved",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nasal",
+      "description": "Stuffed nose (severe/persistent)",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Using 'Glow stack' (BPC-157 + TB-500 + GHK-Cu blend). Dosing 12 units total using 1mL BAC water reconstituted into each of three 10mg vials (3mL total). GHK-Cu dosed at 1mg daily. Currently managing nasal congestion with Benadryl. Previously experienced headaches which have now resolved.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661776Z"
+}

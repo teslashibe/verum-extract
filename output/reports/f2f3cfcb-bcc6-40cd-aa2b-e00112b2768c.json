@@ -1,0 +1,42 @@
+{
+  "id": "f2f3cfcb-bcc6-40cd-aa2b-e00112b2768c",
+  "source_id": "1ivfcak",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ivfcak/tirzepatide_review_works_way_too_damn_well/",
+  "author_hash": "f19d81e74aa2c4aaf9f8a334c26be8503515297bb6b5466d39153c0dfb44c973",
+  "confidence_tier": 4,
+  "date_published": "2025-02-22T01:50:04-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Down 40 lbs total, slow weight loss initially but improved as dosage increased and stacked with Retatrutide",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Self-identified as 'low responder' to GLP-1s. Started with Semaglutide then Tirzepatide with slow initial response, improved with dosage increases. Now stacking with Retatrutide. Plans to continue for several years. Down 40 lbs, needs to lose another ~40 lbs (judging by fat percentage not weight).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.411134Z"
+}

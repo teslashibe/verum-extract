@@ -1,0 +1,48 @@
+{
+  "id": "a7390224-4929-4ea1-a556-f04ce591b2fa",
+  "source_id": "1o2xl8j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o2xl8j/bpc157_tb500_for_chronic_shoulder_pain_30_days/",
+  "author_hash": "ba6dddaf48796ed34b7d39edd374aae9924493903083f34a92dbde8763d12fb3",
+  "confidence_tier": 5,
+  "date_published": "2025-10-10T03:49:39-07:00",
+  "health_conditions": [
+    "shoulder injury"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "pain_change",
+      "description": "Did not feel significant benefit at 250mcg dose for shoulder injury",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Used subcutaneous injections in belly fat for 1 month with BPC/TB at 250mcg. Plans to try BPC-157 only at 1mg daily for 2 months next cycle due to cost constraints.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.679789Z"
+}

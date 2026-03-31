@@ -1,0 +1,39 @@
+{
+  "id": "5adf809b-e501-449d-8df7-abc96f6b0dad",
+  "source_id": "1q7ci5x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q7ci5x/ghkcu_welts/",
+  "author_hash": "3ad07231752c8f8b760affc80ccab7d36c4adb6748a071918ea32e2375632ed8",
+  "confidence_tier": 4,
+  "date_published": "2026-01-08T05:59:50-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Taking at night does wonders for sleep",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Skin irritation and mild post-injection pain lasting for hours when using 5/16\" 31G needle in belly",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Initial injection: 5/16\" 31G needle in belly caused skin irritation. Switched to 1/2\" 30G needle, which resolved the issue. Injecting deeper into subcutaneous fat prevents seepage into skin layer. Part of KLOW blend (GHK-Cu mixed with other peptides). Prefers deeper injection with longer needle despite slightly more initial discomfort than 31G.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.671521Z"
+}

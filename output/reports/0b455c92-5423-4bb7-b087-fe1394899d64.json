@@ -1,0 +1,99 @@
+{
+  "id": "0b455c92-5423-4bb7-b087-fe1394899d64",
+  "source_id": "1qtzwq8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtzwq8/concern_about_reta_effectiveness/",
+  "author_hash": "a1fb416c070a463357860a580e2be77e9130a0bf68b04914542db3dd89008c6e",
+  "confidence_tier": 3,
+  "date_published": "2026-02-02T08:34:00-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 5.16,
+    "unit": "feet"
+  },
+  "training_status": "lean",
+  "health_conditions": [
+    "food noise"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression kicked in within 48 hours and got stronger by week 3. No hunger cues after a few weeks. Able to easily not eat.",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost 10 pounds in 12 weeks. First time getting under 120 lbs as adult since age 16.",
+      "severity": "significant"
+    },
+    {
+      "category": "food_noise",
+      "description": "Food noise and cravings completely gone",
+      "severity": "significant"
+    },
+    {
+      "category": "cardiovascular",
+      "description": "Total cholesterol dropped by over 40 points. LDL dropped by over 40 points and is lowest it's been in a decade.",
+      "severity": "significant",
+      "onset_days": 70
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "total cholesterol",
+      "unit": "mg/dL",
+      "timeframe_days": 70
+    },
+    {
+      "marker_name": "LDL",
+      "unit": "mg/dL",
+      "timeframe_days": 70
+    },
+    {
+      "marker_name": "body fat percentage",
+      "value_after": 15.9,
+      "unit": "%",
+      "timeframe_days": 84
+    }
+  ],
+  "protocol_notes": "46F, 5'2\", already lean, goal was marginal leanness and eliminate food noise. Started 0.50mg weekly, moved to 0.75mg. Lost 10 lbs in 12 weeks. Stopped dieting late December and added calories/carbs back. Dexa scan showed 15.9% body fat. Plan to keep current dose until calories/carbs higher, then lower to 0.50mg, then 0.25mg for biomarker benefits.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.680908Z"
+}

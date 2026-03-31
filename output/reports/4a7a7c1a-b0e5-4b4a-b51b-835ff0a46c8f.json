@@ -1,0 +1,50 @@
+{
+  "id": "4a7a7c1a-b0e5-4b4a-b51b-835ff0a46c8f",
+  "source_id": "1r5171j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r5171j/leaner_guys_subq/",
+  "author_hash": "9511eea6d55e1974de61fdba299e04b4d4009268e5818f55832de0d45f625980",
+  "confidence_tier": 4,
+  "date_published": "2026-02-14T16:58:27-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Red and itchy injection site in belly",
+      "severity": "mild"
+    },
+    {
+      "category": "skin_reaction",
+      "description": "Retatrutide caused significant itching in belly but not in buttocks",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User reports trying multiple injection sites due to belly reactions. Avoids belly for NAD+ injections due to severity. Uses ventro glute for IM testosterone. Prefers buttocks over abdominal injections.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.6762Z"
+}

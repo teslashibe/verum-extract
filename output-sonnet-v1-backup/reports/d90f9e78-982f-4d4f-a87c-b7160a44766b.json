@@ -1,0 +1,42 @@
+{
+  "id": "d90f9e78-982f-4d4f-a87c-b7160a44766b",
+  "source_id": "1qkeyc4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qkeyc4/just_started_out_with_reta/",
+  "author_hash": "6a3dc80dab7077b32493b263d04e2e2b945cab522434012965947546e56bdcce",
+  "confidence_tier": 4,
+  "date_published": "2026-01-22T18:49:41-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "as needed when wanting to eat",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Expects not to be hungry the day after dosing; uses supplemental 0.5mg dose when finding themselves really wanting to eat",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "2nd week on Reta. Takes 1mg weekly as primary dose, with optional 0.5mg supplemental dose when appetite returns. Suggests redosing may be needed at 3-4 days.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.124219Z"
+}

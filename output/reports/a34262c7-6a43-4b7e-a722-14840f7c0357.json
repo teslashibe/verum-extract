@@ -1,0 +1,41 @@
+{
+  "id": "a34262c7-6a43-4b7e-a722-14840f7c0357",
+  "source_id": "hpkfhf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/hpkfhf/thymosin_alpha1_cured_me_and_my_brothers_grass/",
+  "author_hash": "0476c80ec8693af11f264b7654e77482cee21a943c799f2f28efecdfea60efd7",
+  "confidence_tier": 4,
+  "date_published": "2020-07-11T16:46:36-07:00",
+  "health_conditions": [
+    "grass allergy",
+    "pollen allergy",
+    "Lyme disease",
+    "co-infections"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 466,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "immune",
+      "description": "Grass allergy completely resolved, zero symptoms after starting TA-1. Allergy was severe enough to previously require travel to avoid pollen season.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Planning to use for 2-3 months while treating Lyme disease and co-infections, then potentially do 20-day cycles every 4-6 months. Mechanism: fixes Th1/Th2 immune imbalance.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.132165Z"
+}

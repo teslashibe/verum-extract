@@ -1,0 +1,41 @@
+{
+  "id": "8f8ad2b6-1e46-4918-90e3-f81d43010ff5",
+  "source_id": "1afnaml",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1afnaml/peptides_for_loose_skin_after_weight_loss/",
+  "author_hash": "e2c16b57c95426e0a8d662c4a919dedfd7efdbc258fc731c8ac3b2f975cada08",
+  "confidence_tier": 4,
+  "date_published": "2024-01-31T09:28:52-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 120,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hormonal",
+      "description": "Serum copper elevated after 120 days GHK-Cu use",
+      "severity": "moderate",
+      "onset_days": 120,
+      "resolved": true,
+      "resolution_days": 30
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Serum copper",
+      "timeframe_days": 120
+    }
+  ],
+  "protocol_notes": "Copper went from low normal to elevated after 120 days. Stopped and returned to normal range within 30 days. Notes some users now recommend 50% GHK-Cu and 50% GHK (without copper) to manage copper levels.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.416968Z"
+}

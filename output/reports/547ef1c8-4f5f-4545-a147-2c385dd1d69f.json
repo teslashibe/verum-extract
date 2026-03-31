@@ -1,0 +1,54 @@
+{
+  "id": "547ef1c8-4f5f-4545-a147-2c385dd1d69f",
+  "source_id": "1qcumm0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qcumm0/cymbalta_blocks_glp1s/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2026-01-14T10:10:10-08:00",
+  "health_conditions": [
+    "depression"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 1095,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Initial weight loss of 40lbs, maintained on lower dose",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Effective appetite suppression for 3 years until Cymbalta introduction",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Loss of appetite suppression and increased appetite after Cymbalta introduction; weight gain of 7 pounds in 3 months despite doubling Retatrutide dosage",
+      "severity": "significant",
+      "onset_days": 90,
+      "resolved": false
+    },
+    {
+      "category": "weight_change",
+      "description": "Weight gain of 7 pounds in 3 months after starting Cymbalta",
+      "severity": "significant",
+      "onset_days": 90
+    }
+  ],
+  "protocol_notes": "User suspects Cymbalta (duloxetine) blocks GLP-1 effects. Doubled Retatrutide dosage without improvement. On Cymbalta for 3 months.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.6844Z"
+}

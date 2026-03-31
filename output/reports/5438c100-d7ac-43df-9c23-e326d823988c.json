@@ -1,0 +1,60 @@
+{
+  "id": "5438c100-d7ac-43df-9c23-e326d823988c",
+  "source_id": "1ipmmgx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ipmmgx/how_long_for_ss31_to_kick_in/",
+  "author_hash": "556b14f83df15fd21b59b1490efb649758c5efab0737248539331a98a686f641",
+  "confidence_tier": 4,
+  "date_published": "2025-02-14T14:18:16-08:00",
+  "health_conditions": [
+    "mitochondrial damage from undiagnosed illness"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Energy improvement expected but not yet realized",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Detox symptoms",
+      "severity": "moderate",
+      "onset_days": 0
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "Histamine reactions",
+      "severity": "moderate",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "Started low at 2.5mg due to concern about adverse reactions. Titrated to 6mg. Normal protocol cited as 20-40mg daily for 30 days. Illness occurred ~20 years ago.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.693995Z"
+}

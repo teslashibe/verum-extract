@@ -1,0 +1,97 @@
+{
+  "id": "530b6e1e-d55b-4b61-947f-d6b0295dd825",
+  "source_id": "1fc20k7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fc20k7/tesaipa_amazing_benefits_after_1_week/",
+  "author_hash": "9e48753c21ed44f113d22ad4d7a65d85a1ce834f8d07b52d47f6fc74ff8d957f",
+  "confidence_tier": 4,
+  "date_published": "2024-09-08T09:36:29-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "50-59",
+  "health_conditions": [
+    "broken hip from car accident 5 years ago",
+    "shattered pelvis from car accident 5 years ago",
+    "chronic insomnia",
+    "peri-menopausal"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 7.5,
+      "dose_unit": "mcg",
+      "frequency": "not specified",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mcg",
+      "frequency": "not specified",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "drastic improvement in energy levels",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "endurance",
+      "description": "superior endurance for working out",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "injury_healing",
+      "description": "5 year old car wreck injuries improved by at least 50%, especially pain after walking and jogging from broken hip and shattered pelvis",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "body_composition",
+      "description": "improvement in waist and tummy",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "more water weight with 1.5mg tesa compared to 1mg",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Female, 50 years old. Initially on Tirzepatide 7.5mcg/CJC-1295 1.0mcg felt constant fatigue. Added Tesamorelin/Ipamorelin stack. Pins in early morning (5-6am) because afternoon/evening doses cause sleep disruption. Practices intermittent fasting (eats after 2pm). Started Tesa at 1mg for first 6 weeks, increased to 1.5mg for last 6 weeks at time of post (week 10). Ipamorelin dose stayed at 200mcg throughout. Plans 12 weeks on/12 weeks off cycle (or 8 on/8 off). Considering trying CJC-1295 (no DAC)/Ipamorelin in future for cost savings. Notes that Tesa/Ipa makes her wired unlike others who report sleep benefits.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696385Z"
+}

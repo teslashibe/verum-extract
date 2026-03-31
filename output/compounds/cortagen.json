@@ -1,0 +1,97 @@
+{
+  "compound_id": "cortagen",
+  "display_name": "Cortagen",
+  "category": "other",
+  "total_reports": 6,
+  "reports_by_tier": {
+    "4": 4,
+    "5": 2
+  },
+  "top_benefits": [
+    {
+      "category": "cognitive",
+      "count": 2,
+      "pct": 50
+    },
+    {
+      "category": "inflammation",
+      "count": 1,
+      "pct": 25
+    },
+    {
+      "category": "sleep",
+      "count": 1,
+      "pct": 25
+    },
+    {
+      "category": "skin",
+      "count": 1,
+      "pct": 25
+    },
+    {
+      "category": "anti_aging",
+      "count": 1,
+      "pct": 25
+    },
+    {
+      "category": "mood",
+      "count": 1,
+      "pct": 25
+    },
+    {
+      "category": "energy",
+      "count": 1,
+      "pct": 25
+    },
+    {
+      "category": "fatigue",
+      "count": 1,
+      "pct": 25
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "cognitive_impairment",
+      "count": 1,
+      "pct": 25,
+      "avg_severity": 3
+    }
+  ],
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "pinealon",
+      "display_name": "Pinealon",
+      "report_count": 4
+    },
+    {
+      "compound_id": "epithalon",
+      "display_name": "Epithalon",
+      "report_count": 3
+    },
+    {
+      "compound_id": "mots_c",
+      "display_name": "MOTS-c",
+      "report_count": 2
+    },
+    {
+      "compound_id": "ghk_cu",
+      "display_name": "GHK-Cu",
+      "report_count": 2
+    },
+    {
+      "compound_id": "nad_plus",
+      "display_name": "NAD+",
+      "report_count": 2
+    }
+  ],
+  "avg_sentiment_score": 0.875,
+  "sentiment_breakdown": {
+    "positive": 5,
+    "mixed": 0,
+    "negative": 0,
+    "neutral": 1
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T04:29:07.89282Z"
+}

@@ -1,0 +1,127 @@
+{
+  "id": "cd2d417f-d5f6-481e-a661-07263a5ebd6d",
+  "source_id": "1n2ytoq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n2ytoq/i_went_to_the_er_tonight_bpc157_side_effects/",
+  "author_hash": "bf3a96cf67d10ef841b468d5d95e1fd0d23d92b16009b59fe74088e653dd24cc",
+  "confidence_tier": 4,
+  "date_published": "2025-08-28T22:19:28-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 150,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "history of preeclampsia",
+    "IBS"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "cycle_length_days": 3,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Building over a few days",
+      "severity": "significant",
+      "onset_days": 3,
+      "resolved": true
+    },
+    {
+      "category": "nausea",
+      "description": "Building over a few days",
+      "severity": "significant",
+      "onset_days": 3,
+      "resolved": true
+    },
+    {
+      "category": "headache",
+      "description": "Horrible migraine",
+      "severity": "significant",
+      "onset_days": 3,
+      "resolved": true
+    },
+    {
+      "category": "blood_pressure",
+      "description": "BP elevated to 170/98 at home, 170/110 at ER. OP has history of preeclampsia and recognized symptoms as similar to previous hypertensive episode",
+      "severity": "significant",
+      "onset_days": 3,
+      "resolved": true
+    },
+    {
+      "category": "dizziness",
+      "description": "Felt like was going to pass out",
+      "severity": "significant",
+      "onset_days": 3,
+      "resolved": true
+    },
+    {
+      "category": "flushing",
+      "description": "Hot flush from NAD+ injection approximately 1 week prior, resolved within 20 minutes",
+      "severity": "mild",
+      "onset_days": 7,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Blood Pressure",
+      "value_after": 170,
+      "unit": "mmHg systolic",
+      "timeframe_days": 3
+    },
+    {
+      "marker_name": "Blood Pressure",
+      "value_after": 98,
+      "unit": "mmHg diastolic",
+      "timeframe_days": 3
+    },
+    {
+      "marker_name": "Blood Pressure at ER",
+      "value_after": 170,
+      "unit": "mmHg systolic",
+      "timeframe_days": 3
+    },
+    {
+      "marker_name": "Blood Pressure at ER",
+      "value_after": 110,
+      "unit": "mmHg diastolic",
+      "timeframe_days": 3
+    },
+    {
+      "marker_name": "Blood Pressure at discharge",
+      "value_after": 127,
+      "unit": "mmHg systolic",
+      "timeframe_days": 3
+    },
+    {
+      "marker_name": "Blood Pressure at discharge",
+      "value_after": 80,
+      "unit": "mmHg diastolic",
+      "timeframe_days": 3
+    }
+  ],
+  "protocol_notes": "First-time peptide user. ER physician recommended clonidine for BP management. OP's personal physician (known for ~2 years) also attributed symptoms to BPC-157. OP tested negative for COVID and flu at ER. Stopped peptide use after ER visit. OP acknowledges possible nocebo effect but attributes symptoms to genuine physiological response based on similarity to previous preeclampsia episode. Height: 5'5\". Was prescribed by her physician. Considered trying KPV for IBS but decided against it after this experience.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.683305Z"
+}

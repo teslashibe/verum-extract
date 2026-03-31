@@ -1,0 +1,41 @@
+{
+  "id": "b2065b46-55d3-4273-a099-b2fc5f6c7708",
+  "source_id": "1rno5en",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rno5en/accutane_ghkcu/",
+  "author_hash": "35549341453a9ad13940241bd2c67634c66998b3cfa93110392dbbf5363f40d3",
+  "confidence_tier": 5,
+  "date_published": "2026-03-07T15:00:09-08:00",
+  "health_conditions": [
+    "acne",
+    "scarring"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Synergistic effects on cell turnover with accutane; every little scratch leaves a red mark, amplifying accutane's effects. Old scars also became red. Redness was less severe when not taking KLOW.",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Took GHK-Cu concurrently with accutane 80mg. Also used KLOW (contains KPV and GHK-Cu). Cycled KLOW and noted redness was less severe off KLOW. Residual discoloration improved over time.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.111222Z"
+}

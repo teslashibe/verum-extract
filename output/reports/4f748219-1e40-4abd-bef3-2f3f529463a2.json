@@ -1,0 +1,61 @@
+{
+  "id": "4f748219-1e40-4abd-bef3-2f3f529463a2",
+  "source_id": "1pghwaa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pghwaa/1_week_of_epitalon/",
+  "author_hash": "648b846c49d0fb3df90104e9cd3996c46a9973235e23490c3a7846caa6bb1dd4",
+  "confidence_tier": 4,
+  "date_published": "2025-12-07T05:04:51-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "frequency": "1x daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep has improved",
+      "severity": "moderate"
+    },
+    {
+      "category": "cognitive",
+      "description": "Focus has improved",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Energy is up",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Getting leaner while on diet",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "HRV blow up",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "HRV",
+      "timeframe_days": 7
+    }
+  ],
+  "protocol_notes": "Used aggressive dosing option (20mg/night pre-bed). Concurrent diet with Retatrutide. OP cited PubMed study 14523363 showing 5-10mg standard dose but chose higher amount. Dose appears to be 20x higher than commonly cited Epitalon protocol; multiple commenters noted this was likely dose intended for Epithalamin, not Epitalon.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.675031Z"
+}

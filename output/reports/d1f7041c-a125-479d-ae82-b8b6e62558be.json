@@ -1,0 +1,73 @@
+{
+  "id": "d1f7041c-a125-479d-ae82-b8b6e62558be",
+  "source_id": "1nnyup5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nnyup5/low_grade_prostrate_cancer/",
+  "author_hash": "e1c1259294e477e74b079a065b32c839022b02ea3eada5071333bf615728e695",
+  "confidence_tier": 4,
+  "date_published": "2025-09-22T14:15:47-07:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "prostate cancer"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Prostamax",
+      "name_normalized": "prostamax",
+      "category": "immune",
+      "route": "intramuscular",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Prostatilen",
+      "name_normalized": "prostatilen",
+      "category": "other",
+      "route": "topical",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Endoluten",
+      "name_normalized": "endoluten",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cancer_management",
+      "description": "PSA levels stayed low and MRI scans show no cancer growth",
+      "severity": "significant"
+    },
+    {
+      "category": "inflammation",
+      "description": "Reduced systemic and prostate-specific inflammation",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "PSA"
+    }
+  ],
+  "protocol_notes": "User reports focal laser ablation procedure for prostate cancer. Combined peptide therapy with lifestyle interventions: upper body HIIT 2x/week, strength training 2x/week, daily 20-min walk. Also supplemented with saw palmetto, zinc, curcumin. Vitaprost oral also mentioned.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.3974Z"
+}

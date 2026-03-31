@@ -1,0 +1,81 @@
+{
+  "compound_id": "ghk_cu_injections",
+  "display_name": "GHK-cu injections",
+  "category": "other",
+  "total_reports": 4,
+  "reports_by_tier": {
+    "4": 3,
+    "5": 1
+  },
+  "top_benefits": [
+    {
+      "category": "other",
+      "count": 2,
+      "pct": 66.7
+    },
+    {
+      "category": "skin",
+      "count": 1,
+      "pct": 33.3
+    },
+    {
+      "category": "cognitive",
+      "count": 1,
+      "pct": 33.3
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "other",
+      "count": 3,
+      "pct": 100,
+      "avg_severity": 3
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 2,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 25
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "tb_500",
+      "display_name": "TB500",
+      "report_count": 1
+    },
+    {
+      "compound_id": "ghk_cu_mist_spray",
+      "display_name": "GHK-Cu mist spray",
+      "report_count": 1
+    },
+    {
+      "compound_id": "kpv",
+      "display_name": "BPC",
+      "report_count": 1
+    },
+    {
+      "compound_id": "bpc_nasal",
+      "display_name": "BPC nasal",
+      "report_count": 1
+    },
+    {
+      "compound_id": "cjc_1295_dac",
+      "display_name": "CJC1295 dac",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.75,
+  "sentiment_breakdown": {
+    "positive": 2,
+    "mixed": 2,
+    "negative": 0,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.966112Z"
+}

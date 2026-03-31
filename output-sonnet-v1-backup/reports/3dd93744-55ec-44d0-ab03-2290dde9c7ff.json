@@ -1,0 +1,71 @@
+{
+  "id": "3dd93744-55ec-44d0-ab03-2290dde9c7ff",
+  "source_id": "1qpmkp9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qpmkp9/52_year_old_female_curious_about_sermorelin/",
+  "author_hash": "bac7f3c301cb567195e1ae2d500d840674de9601258fb233c2a2986c09246e13",
+  "confidence_tier": 4,
+  "date_published": "2026-01-28T12:13:16-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "60+",
+  "training_status": "Started Starting Strength program a few weeks before beginning Sermorelin",
+  "health_conditions": [
+    "sleep difficulties"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "nightly before bed",
+      "cycle_length_days": 16,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Mild improvement in sleep; more vivid dreams, sleeps deeply for a couple of hours but then wakes and has poor sleep again",
+      "severity": "mild"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Has started gaining muscle and losing fat; clothes are looser, though change is only perceptible to herself",
+      "severity": "mild"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Losing some fat alongside muscle gain; no weight loss on scale",
+      "severity": "mild"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Hoping for positive effects on skin in 5 months or so"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Injection before bed causes her to wake up more, making it harder to fall asleep initially",
+      "severity": "mild"
+    },
+    {
+      "category": "injection_site",
+      "description": "Injection stings a little",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Takes Sermorelin on empty stomach 15 minutes before bed. Finds timing difficult due to early dinner (~5pm) and early sleepiness (~8-8:30pm). Also taking Tirzepatide. Took Sermorelin primarily for anti-aging properties. 2 weeks and 2 days into protocol at time of post.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123555Z"
+}

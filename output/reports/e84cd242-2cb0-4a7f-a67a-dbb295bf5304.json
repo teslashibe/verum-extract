@@ -1,0 +1,54 @@
+{
+  "id": "e84cd242-2cb0-4a7f-a67a-dbb295bf5304",
+  "source_id": "1bk96xj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bk96xj/the_nugget_tesaipa_question/",
+  "author_hash": "eafd2a7714ffc89082c9b969ebde87567fb2ae8aa07627961324ef55ad8eb072",
+  "confidence_tier": 4,
+  "date_published": "2024-03-21T08:26:42-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "No sleep problems on Tesamorelin alone",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Both Ipamorelin and CJC-1295 kept subject awake when tested separately",
+      "severity": "moderate"
+    },
+    {
+      "category": "numbness_tingling",
+      "description": "Terrible carpel tunnel in hands upon waking on Tesamorelin alone",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Test subject tested CJC/Ipa together (awake), then Tesa solo (no awake), then ordered CJC and Ipa separately and tested both individually (both kept awake). Identified Ipamorelin as the compound causing sleep disruption, not Tesamorelin. Developed carpel tunnel as side effect on Tesa alone.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698353Z"
+}

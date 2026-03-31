@@ -1,0 +1,35 @@
+{
+  "id": "31c69b36-ca96-4eaf-89a9-d0db89a96a11",
+  "source_id": "1qtsnge",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtsnge/cjc_1295ipamorelin_sleep_problems/",
+  "author_hash": "c3d929eff783c92a67697f47dadc832c3d7b24f467f0b9bace25b49db37c2c7a",
+  "confidence_tier": 5,
+  "date_published": "2026-02-02T03:34:14-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "units",
+      "frequency": "twice daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Issues sleeping when taking before bed, and now having issues when taking in the morning fasted",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Initially took 2 units before bed with sleep issues, switched to morning fasted dosing but still experiencing sleep problems.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.668141Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8d9ad0d3-8bfd-468f-99dc-f45df9f8a39f",
+  "source_id": "1aqx477",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1aqx477/peptide_sciences/",
+  "author_hash": "702c3fb42f6d6e17a76cc96e25e6280ff06f7bcb09d128ce3e41820be27b974f",
+  "confidence_tier": 4,
+  "date_published": "2024-02-14T12:36:48-08:00",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "CJC-1295/Ipamorelin increases hunger, Tirzepatide decreases hunger - offsetting effects",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Currently taking CJC-1295/Ipamorelin blend with Tirzepatide concurrently. User notes one increases hunger while other decreases it.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698914Z"
+}

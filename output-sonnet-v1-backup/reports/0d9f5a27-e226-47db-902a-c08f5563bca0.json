@@ -1,0 +1,33 @@
+{
+  "id": "0d9f5a27-e226-47db-902a-c08f5563bca0",
+  "source_id": "1qnrkj9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qnrkj9/retatrutide/",
+  "author_hash": "30e46523e31749c87666d85736def9279f9fd0244f09b10f6e5485ea53e5e221",
+  "confidence_tier": 5,
+  "date_published": "2026-01-26T12:17:10-08:00",
+  "health_conditions": [
+    "dry eye"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "One eye always blurry; resolved with Systane eye drops after identifying dry eye caused by bottom lid creeping open at night",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Blurry eye fixed with Systane; cause was dry eye from eyelid opening during sleep, not necessarily directly Reta-related.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123912Z"
+}

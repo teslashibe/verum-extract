@@ -1,0 +1,44 @@
+{
+  "id": "2eaeba46-02de-4b96-ac55-7efa614e9922",
+  "source_id": "1qrq52i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qrq52i/hgh_for_41m_who_is_very_active_and_normal_to_high/",
+  "author_hash": "f76c0645452fb3a0e920a0ae60cf8385e8c1c3033e7d40167a2056df94ff5d0e",
+  "confidence_tier": 4,
+  "date_published": "2026-01-30T18:37:32-08:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "feel 300 times better",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Free Testosterone",
+      "value_before": 66.8,
+      "value_after": 300
+    }
+  ],
+  "protocol_notes": "User reports free testosterone increased from ~66.8 to 300 after starting TRT. Also uses HGH.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.668853Z"
+}

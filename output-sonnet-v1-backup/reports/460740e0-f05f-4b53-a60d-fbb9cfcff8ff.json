@@ -1,0 +1,48 @@
+{
+  "id": "460740e0-f05f-4b53-a60d-fbb9cfcff8ff",
+  "source_id": "1r3db1c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r3db1c/just_starting_out_bpc157_motsc_dsip_ghkcu_ss31/",
+  "author_hash": "7208db7d36a23ff716ba9fd4678dda370b05b7d5eec4e4a6f54ad2c9189804b0",
+  "confidence_tier": 5,
+  "date_published": "2026-02-12T18:36:53-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ghkcu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "bpc",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Difficulty adjusting to daily injections compared to weekly Reta injections",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Started with Reta first, then added GHK-CU and BPC. Found the daily pinning schedule harder to manage compared to weekly Reta pins.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.118423Z"
+}

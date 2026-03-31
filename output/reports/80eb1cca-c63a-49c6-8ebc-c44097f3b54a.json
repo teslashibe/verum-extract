@@ -1,0 +1,81 @@
+{
+  "id": "80eb1cca-c63a-49c6-8ebc-c44097f3b54a",
+  "source_id": "184hboe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/184hboe/antiaging_particularly_to_skincare_stack/",
+  "author_hash": "a21189edabcaaf0e4993d078188f7e5906ef47a5320ee2bfdcd296ef531256ff",
+  "confidence_tier": 4,
+  "date_published": "2023-11-26T10:34:39-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "training_status": "bodybuilding (dirty bulk phase)",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Collagen",
+      "name_normalized": "cortagen",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Matrixyl 3000",
+      "name_normalized": "matrixyl",
+      "category": "other",
+      "route": "topical",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Hyaluronic Acid",
+      "name_normalized": "hyaluronic_acid",
+      "category": "other",
+      "route": "topical",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "frequency": "as needed on tanning days, then maintenance dose",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "anti-aging skincare, collagen production, skin appearance",
+      "severity": "moderate"
+    },
+    {
+      "category": "anti_aging",
+      "description": "goal to look mid-20s into 30s"
+    }
+  ],
+  "protocol_notes": "User is age 28-29, just started peptide protocol. Plans to add radiofrequency, gua sha, collagen masks, Morpheus8, and PRF. Previously used over-the-counter collagen (non-hydrolyzed) and retinol; recently switched to prescription tretinoin. Recently dirty bulked with muscle and fat gain; concerned about nasolabial folds from facial fat increase. Reports looking young for age (at 28 appeared 22, now at 29 appears 29). Stack focused on skin anti-aging.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.418196Z"
+}

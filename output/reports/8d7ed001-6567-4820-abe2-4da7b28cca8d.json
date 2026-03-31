@@ -1,0 +1,31 @@
+{
+  "id": "8d7ed001-6567-4820-abe2-4da7b28cca8d",
+  "source_id": "1ohykl3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ohykl3/help_day_9_on_ghkcu_day_by_day_it_burns_more/",
+  "author_hash": "79c87cd397fc26c034f6c7ecca83b367a3cce8d3b679c7f8c26dd0e532c1e140",
+  "confidence_tier": 5,
+  "date_published": "2025-10-27T19:57:46-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Suggests adding BPC-157 to GHK-Cu injections for automatic healing of injection site pain.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.39491Z"
+}

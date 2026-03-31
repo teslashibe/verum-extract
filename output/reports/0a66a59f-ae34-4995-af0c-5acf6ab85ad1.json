@@ -1,0 +1,61 @@
+{
+  "id": "0a66a59f-ae34-4995-af0c-5acf6ab85ad1",
+  "source_id": "1b55g35",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1b55g35/45_months_progress_50_lbs/",
+  "author_hash": "572e290609ec82315a98553a3ee24125e7a6184ef8dabec07368f9bba68bc057",
+  "confidence_tier": 4,
+  "date_published": "2024-03-02T18:02:04-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 175,
+    "unit": "lbs"
+  },
+  "training_status": "moderate resistance training 3-4x weekly, 20-30 min sessions, no cardio",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 126,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost approximately 50 lbs over 4-5 months (from 226 lbs to 175 lbs). Achieved visible abdominal definition (4-pack visible for first time). Body composition scan showed approximately 15% body fat.",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Made caloric restriction much easier to maintain",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_fat_percentage",
+      "value_after": 15,
+      "unit": "%",
+      "timeframe_days": 126
+    },
+    {
+      "marker_name": "body_weight",
+      "value_before": 226,
+      "value_after": 175,
+      "unit": "lbs",
+      "timeframe_days": 126
+    }
+  ],
+  "protocol_notes": "Started 2023-09-23. Titration: 0.25 mg/week for 2 weeks, then increased to 0.5 mg/week and maintained at that dose. User notes stayed at lowest dose of efficacy. Combined with resistance training and protein intake (~80g daily). User emphasizes semaglutide as a tool, not a standalone solution; credits diet adherence and exercise as foundational.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.95,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.416443Z"
+}

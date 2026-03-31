@@ -1,0 +1,54 @@
+{
+  "compound_id": "adderall",
+  "display_name": "adderall",
+  "category": "other",
+  "total_reports": 1,
+  "reports_by_tier": {
+    "4": 1
+  },
+  "top_benefits": null,
+  "top_side_effects": [
+    {
+      "category": "sleep_disruption",
+      "count": 1,
+      "pct": 100,
+      "avg_severity": 2
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "oral",
+      "dose": 20,
+      "unit": "mg",
+      "frequency": "",
+      "count": 1,
+      "pct": 100
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "retatrutide",
+      "display_name": "reta",
+      "report_count": 1
+    },
+    {
+      "compound_id": "hgh",
+      "display_name": "GH",
+      "report_count": 1
+    },
+    {
+      "compound_id": "tesamorelin",
+      "display_name": "test",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.5,
+  "sentiment_breakdown": {
+    "positive": 0,
+    "mixed": 1,
+    "negative": 0,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.970744Z"
+}

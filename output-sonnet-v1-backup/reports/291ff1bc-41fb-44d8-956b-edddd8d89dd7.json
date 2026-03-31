@@ -1,0 +1,47 @@
+{
+  "id": "291ff1bc-41fb-44d8-956b-edddd8d89dd7",
+  "source_id": "172gfv0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/172gfv0/bpc157_has_removed_all_effects_psych_medication/",
+  "author_hash": "105e2e4cc087570870cb9dc57f6c21451a151047ce9298909b415ce5f7c706ef",
+  "confidence_tier": 4,
+  "date_published": "2023-10-07T13:46:56-07:00",
+  "health_conditions": [
+    "gastric ulcers",
+    "chronic pelvic girdle and hip pain",
+    "anxiety"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirz compounded with BPC",
+      "name_normalized": "tirz_compounded_with_bpc",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Anxiety increased at 250mcg BPC alone; full panic attacks with Tirz 10mg + 500mcg BPC combination; ended up hospitalized with non-stop panic attacks for 9 hours until sedated",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "BPC was compounded into Tirz at ~500mcg per 10mg. Had $600 worth of Tirz too scared to use. Tirz alone already increased anxiety somewhat; combination caused explosive anxiety response requiring hospitalization. Trying BPC for 2 ulcers (to prevent perforation like a prior one) and chronic pelvic/hip pain.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.296566Z"
+}

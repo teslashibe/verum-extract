@@ -1,0 +1,47 @@
+{
+  "id": "9020fd97-c891-433e-afa7-98c0fd172f86",
+  "source_id": "1s3p6qw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3p6qw/anhedonia_from_bpc157_at_lower_dosages/",
+  "author_hash": "a6478ccf09c71c5aa72d251a46a14c18cbb8c66f452e22c0679fef23d5a5ea73",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T15:15:12-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "1x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood_change",
+      "description": "Initial anhedonia resolved over time",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Anhedonia when first started GLOW blend",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Using GLOW blend (BPC-157 + TB-500). Current dose 1mg/day BPC with no current issues.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.646809Z"
+}

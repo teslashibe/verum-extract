@@ -1,0 +1,53 @@
+{
+  "id": "4bcb2ecb-b161-4b95-94f4-d8ec04a4c3ce",
+  "source_id": "m539x0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/m539x0/bpc157_from_alibaba_qindao_sigma_7_days_in/",
+  "author_hash": "dd0765541b4bc65b74cfb00292bbbff06f9c3634f76500aca87aa7aee8dc97a0",
+  "confidence_tier": 4,
+  "date_published": "2021-03-14T13:20:04-07:00",
+  "health_conditions": [
+    "shoulder tendon injury (6 months)",
+    "knee pain",
+    "forearm pain"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Shoulder pain reduced 50% within a few hours of first injection, 80% reduction by day 7",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "joint_pain",
+      "description": "Knee pain completely gone by day 5 despite not being the target injury",
+      "severity": "significant",
+      "onset_days": 5
+    },
+    {
+      "category": "injury_healing",
+      "description": "Forearm pain completely gone by day 7",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Reconstituted 5mg vial with 2ml BAC water, injecting 0.1ml per injection. Ordered from Qindao Sigma (Alibaba), 10 vials x 5mg for $70 plus BAC water. Injecting subQ in shoulder. Plans to continue 2-4 weeks or until healed. Notes that anti-inflammatory effects relieve pain but tissue is still injured.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.430477Z"
+}

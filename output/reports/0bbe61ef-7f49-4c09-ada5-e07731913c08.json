@@ -1,0 +1,35 @@
+{
+  "id": "0bbe61ef-7f49-4c09-ada5-e07731913c08",
+  "source_id": "1qzw2n9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qzw2n9/motsc_day_1_anecdotal_experience/",
+  "author_hash": "37ee45d70cfdb4e44f0ac56e56fc0256ee88cec369b244fe0fd355a3520e1c0b",
+  "confidence_tier": 5,
+  "date_published": "2026-02-08T21:44:55-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 0.4,
+      "dose_unit": "mg",
+      "frequency": "Day 1, planning to increase",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Pin pain at injection site",
+      "severity": "mild",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "Started with 0.4mg (400 mcg). Plans to increase to 1mg tomorrow. No subjective effects reported on day 1 other than injection pain.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665975Z"
+}

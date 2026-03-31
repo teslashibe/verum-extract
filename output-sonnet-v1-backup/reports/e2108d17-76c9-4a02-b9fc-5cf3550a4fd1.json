@@ -1,0 +1,34 @@
+{
+  "id": "e2108d17-76c9-4a02-b9fc-5cf3550a4fd1",
+  "source_id": "o4xqfn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/o4xqfn/started_bpc_yesterday/",
+  "author_hash": "161577c802c3c2062c1570e251e5d21f947f83ed5db7208d81e83a73638feb6c",
+  "confidence_tier": 4,
+  "date_published": "2021-06-21T08:28:37-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157 pills",
+      "name_normalized": "bpc_157_pills",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Gradual reduction in efficacy of stimulant medications and blood pressure medications; blunted response to caffeine. On third dose, total shutdown of response to meds/drugs after 2 days, requiring cessation.",
+      "severity": "significant",
+      "onset_days": 2,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Third time using BPC-157. Previous two times used injectable route. This time using oral pills. Notes that longer duration of use leads to longer-lasting blunting of medication effects after stopping. Stopped after 2 days on this cycle due to side effects.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.429803Z"
+}

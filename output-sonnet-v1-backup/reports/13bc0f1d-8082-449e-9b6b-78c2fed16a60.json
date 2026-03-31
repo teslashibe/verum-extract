@@ -1,0 +1,44 @@
+{
+  "id": "13bc0f1d-8082-449e-9b6b-78c2fed16a60",
+  "source_id": "1luelnd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1luelnd/moving_from_tirz_to_reta_anyone_try/",
+  "author_hash": "bc470c11566c8d8bb839043d12c7968b7c1aec32e7876196ba4ec1ea65f254b9",
+  "confidence_tier": 4,
+  "date_published": "2025-07-07T20:37:31-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Very strong hunger suppression during first two weeks on combined half doses of Tirz and Reta",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Reta still working for appetite suppression at week 6, though not as strong as Tirz",
+      "severity": "moderate",
+      "onset_days": 21
+    }
+  ],
+  "protocol_notes": "First two weeks took both Tirz and Reta at half doses. Week 3 switched fully to Reta. At week 6, Reta doesn't feel as strong as Tirz but still working. Plans to increase dosage after week 8.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.279633Z"
+}

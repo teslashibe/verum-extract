@@ -1,0 +1,77 @@
+{
+  "id": "8d54b7b6-30d3-4b81-a68b-2ff985569a73",
+  "source_id": "1ruhwqb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ruhwqb/bpc_157_awful_fatigue/",
+  "author_hash": "744d0715b78c8f73b696fa4c40a1c38d4cee2ae4bc021616c819843e5d0fbb59",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T09:05:29-07:00",
+  "health_conditions": [
+    "MCAS",
+    "gut issues",
+    "fatigue"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "delayed dosing",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Bone deep level of fatigue, can barely drag out of bed",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive_impairment",
+      "description": "Brain fog",
+      "severity": "significant"
+    },
+    {
+      "category": "headache",
+      "description": "Headache",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Insane dreams",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood_change",
+      "description": "Zero energy or motivation",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Initially on BPC-157 250 mcg delayed twice daily for 6 months under naturopathic doctor supervision. Switched to BPC-157 and KPV combination for 2 months due to poor tolerance. Then switched back to BPC-157 delayed dosing alone about 1 week before post.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.663579Z"
+}

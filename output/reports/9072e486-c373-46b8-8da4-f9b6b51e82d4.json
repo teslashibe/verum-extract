@@ -1,0 +1,42 @@
+{
+  "id": "9072e486-c373-46b8-8da4-f9b6b51e82d4",
+  "source_id": "1s1tng9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1tng9/ghk_cu_5_weeks_results/",
+  "author_hash": "2fdf69b27d1987ebe45e94255f8190a2f9d0681a44e9054eca97f9fffb61246c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T14:07:52-07:00",
+  "health_conditions": [
+    "seborrheic dermatitis"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "3-4x weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "soreness later in the day from pinning",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Uses reduced frequency (3-4x weekly) due to injection site soreness. Finds that lowering processed carbs significantly helps but doesn't eliminate seb derm. Planning to add BPC-157 for gut repair component to address seb derm, as recommended by dermatologist.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.658969Z"
+}

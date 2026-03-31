@@ -1,0 +1,49 @@
+{
+  "id": "80d59e07-80c1-4bc3-a431-0b14aeaeb414",
+  "source_id": "1s22e2o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s22e2o/klow_question/",
+  "author_hash": "9f705ed72dc0b31f0bab9bfc01d7342f6ab108dd6ce999e3514845ad27fac735",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T20:06:00-07:00",
+  "health_conditions": [
+    "on blood thinners"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "3x per week (M-W-F)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Bruising at injection sites, likely from being on blood thinners and/or from multiple weekly injections",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "On Eliquis (blood thinner). Injects 3x per week (M-W-F) with GHK-Cu, NAD+, and Retatrutide. Bruising noted but unsure if directly caused by KLOW or from hitting capillaries with multiple weekly injections. No known issues between blood thinners and KLOW usage.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.658713Z"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "fec17988-12ad-4415-90eb-d309e7ea08f4",
+  "source_id": "1s4nb6z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4nb6z/semorelin_vs_cjc_vs_tesamorelin/",
+  "author_hash": "03b7ba9c206f7bf2639f43dfe3a906d770af0706782cee40a7ae8b7f8582c4a9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-26T16:19:12-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "training_status": "active gym-goer",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC/IPA",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "5 days on, 2 days off",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Slightly better recovery in the gym on Semorelin",
+      "severity": "mild"
+    },
+    {
+      "category": "libido",
+      "description": "Higher libido on Semorelin",
+      "severity": "mild"
+    },
+    {
+      "category": "sleep",
+      "description": "Great sleep on CJC/IPA",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Significant fat loss from midsection on Tesamorelin; visible abs for the first time in her life",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Setting PRs in the gym on Tesamorelin",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Generally feeling better all over on Tesamorelin",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Flushing and heart racing on CJC/IPA",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Under care of a doctor at a medspa. Nearly at end of second month of Tesamorelin. Has progressed through Semorelin, then CJC/IPA, and now Tesamorelin. Notes her dose may be lower than typical but it is working. 5 on 2 off schedule for 3-month cycle.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104021Z"
+}

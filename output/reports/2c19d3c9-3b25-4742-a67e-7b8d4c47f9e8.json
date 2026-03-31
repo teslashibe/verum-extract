@@ -1,0 +1,44 @@
+{
+  "id": "2c19d3c9-3b25-4742-a67e-7b8d4c47f9e8",
+  "source_id": "1s1lurk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1lurk/na_semax_na_selank/",
+  "author_hash": "8151faf75f4158f941f72f22ad8653f33c6d767f55d4e73e370e1d2c75df304c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T09:34:23-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Effects more pronounced when fasted",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "N-acetyl Semax and N-acetyl Selank. Started at 100mcg, increased to 200mcg. Initial plan to stagger doses (semax morning, selank afternoon) to test if anxiolytic effects of selank interfere with semax cognition effects. User notes minimal effects at starting doses.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.659216Z"
+}

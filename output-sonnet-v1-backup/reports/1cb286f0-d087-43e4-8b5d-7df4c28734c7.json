@@ -1,0 +1,45 @@
+{
+  "id": "1cb286f0-d087-43e4-8b5d-7df4c28734c7",
+  "source_id": "1rjyp82",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rjyp82/looking_for_insight_into_bpc157_and_tb500_stack/",
+  "author_hash": "b82f8d27f07cb75f724fa0bddd51f97349ec31a9af14685a926f6de291b25ee2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-03T11:22:14-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BP (BPC-157)",
+      "name_normalized": "bp_bpc_157",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 20,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TBC (TB-500)",
+      "name_normalized": "tbc_tb_500",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 20,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Protocol worked for user"
+    }
+  ],
+  "protocol_notes": "Separately reconstituted with 2ml each. Advised against pre-stacked vials due to differing pH. 10mg each purchased separately.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112706Z"
+}

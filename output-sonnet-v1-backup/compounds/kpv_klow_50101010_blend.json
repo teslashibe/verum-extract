@@ -1,0 +1,48 @@
+{
+  "compound_id": "kpv_klow_50101010_blend",
+  "display_name": "KPV (KLOW 50/10/10/10 blend)",
+  "category": "other",
+  "total_reports": 1,
+  "reports_by_tier": {
+    "4": 1
+  },
+  "top_benefits": null,
+  "top_side_effects": null,
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 400,
+      "unit": "mcg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 100
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "ghk_cu_klow_50101010_blend",
+      "display_name": "GHK-Cu (KLOW 50/10/10/10 blend)",
+      "report_count": 1
+    },
+    {
+      "compound_id": "tb_500_klow_50101010_blend",
+      "display_name": "TB-500 (KLOW 50/10/10/10 blend)",
+      "report_count": 1
+    },
+    {
+      "compound_id": "bpc_157_klow_50101010_blend",
+      "display_name": "BPC-157 (KLOW 50/10/10/10 blend)",
+      "report_count": 1
+    }
+  ],
+  "avg_cycle_length_days": 56,
+  "avg_sentiment_score": 0.25,
+  "sentiment_breakdown": {
+    "positive": 0,
+    "mixed": 0,
+    "negative": 0,
+    "neutral": 1
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.969564Z"
+}

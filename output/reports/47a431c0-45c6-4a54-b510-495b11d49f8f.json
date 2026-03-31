@@ -1,0 +1,130 @@
+{
+  "id": "47a431c0-45c6-4a54-b510-495b11d49f8f",
+  "source_id": "1r9dd65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9dd65/major_fatigue_2_mg_reta_3_iu_hgh_trt_2_mg_motsc5/",
+  "author_hash": "6ce18c96860c317342c8c55ab3d1916164b6a215778a644d5310d6cd3b02408d",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T14:20:33-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 207,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "moderate sleep apnea",
+    "baseline fatigue",
+    "low vitamin D (treated)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 days on, 2 days off",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone Cypionate",
+      "name_normalized": "testosterone_cypionate",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 175,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Baseline low to low-moderate fatigue exacerbated to moderate-severe on Retatrutide. Worsened by caloric deficit from appetite suppression.",
+      "severity": "significant",
+      "onset_days": 7,
+      "resolved": false
+    },
+    {
+      "category": "appetite_change",
+      "description": "Appetite plummeted after Retatrutide injection. Consuming 500-1500 calories per day versus baseline 2500-3000.",
+      "severity": "significant",
+      "onset_days": 7,
+      "resolved": false
+    },
+    {
+      "category": "nausea",
+      "description": "Super nauseated, threw up protein shake when attempting to force more food intake in first few days after injection.",
+      "severity": "moderate",
+      "onset_days": 3
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep more fragmented than before. Nighttime heart rate variability down from 40ms to 20-25ms. Resting heart rate up about 15 bpm.",
+      "severity": "moderate",
+      "onset_days": 7,
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Total Testosterone",
+      "value_after": 900,
+      "unit": "ng/dL",
+      "timeframe_days": 21
+    },
+    {
+      "marker_name": "Estradiol"
+    },
+    {
+      "marker_name": "Body Weight",
+      "value_before": 207,
+      "value_after": 195,
+      "unit": "lbs",
+      "timeframe_days": 21
+    },
+    {
+      "marker_name": "Body Fat Percentage",
+      "value_before": 24,
+      "value_after": 19.5,
+      "unit": "%",
+      "timeframe_days": 21
+    },
+    {
+      "marker_name": "Hematocrit"
+    },
+    {
+      "marker_name": "Ferritin"
+    }
+  ],
+  "protocol_notes": "Started all 3 peptides simultaneously at week 0. Retatrutide titration: 1mg injection 1, 1.25-1.5mg injection 2, 2mg injection 3 (week 3). HGH dosed 4 hours or less before sleep. Height: 6ft. Starting body fat: 24%, current ~19-20%. On Liquid IV daily. Water intake 3/4-1 gallon daily. TRT: 175mg test cyp weekly, split into 2x100mg doses. Total T at trough ~900ng/dL. E2 good. On CPAP therapy for moderate sleep apnea (working as intended). Recent blood work shows high hematocrit and low ferritin (suspected contributors to baseline fatigue). Previously on Adderall (1 year total use, avg 4-5 days/week, discontinued 1 year ago). Tried various nootropics: Cerebrolysin, racetams, selegiline, lion's mane. Vitamin D supplementation: 10k IU daily with K2 MK7.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661963Z"
+}

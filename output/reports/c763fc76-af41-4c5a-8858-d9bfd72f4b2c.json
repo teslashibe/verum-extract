@@ -1,0 +1,40 @@
+{
+  "id": "c763fc76-af41-4c5a-8858-d9bfd72f4b2c",
+  "source_id": "1o4xrez",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o4xrez/pt141_and_skin_darkening/",
+  "author_hash": "1d806282c5703dd2a460f8d3c4ca1ecbfa356ffa5927ac1c782622e8607488ae",
+  "confidence_tier": 4,
+  "date_published": "2025-10-12T12:09:23-07:00",
+  "reported_sex": "male",
+  "compounds": [
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "cycle_length_days": 3,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "libido",
+      "description": "very hard boners at random times",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "super dark skin darkening on face and gums only",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 14
+    }
+  ],
+  "protocol_notes": "Used 3 times; darkening improved 70% by 2 weeks after stopping",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.679451Z"
+}

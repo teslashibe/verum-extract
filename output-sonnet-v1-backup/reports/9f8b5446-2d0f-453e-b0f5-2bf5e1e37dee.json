@@ -1,0 +1,37 @@
+{
+  "id": "9f8b5446-2d0f-453e-b0f5-2bf5e1e37dee",
+  "source_id": "14gc20k",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/14gc20k/wolverine_stack_tb500_bpc157_protocol/",
+  "author_hash": "bbb89e5023afcd27ffd8117a00db67c42a267fe5c3103e9cf94d9291359a1326",
+  "confidence_tier": 4,
+  "date_published": "2023-06-22T12:10:44-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "every 5 days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Both injected SubQ in the stomach. User notes systemic delivery so no need for spot injection. States BPC157 dose is at the top of recommended dosing for their size.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.297458Z"
+}

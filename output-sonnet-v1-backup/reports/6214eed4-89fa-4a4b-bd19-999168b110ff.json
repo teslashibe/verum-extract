@@ -1,0 +1,36 @@
+{
+  "id": "6214eed4-89fa-4a4b-bd19-999168b110ff",
+  "source_id": "1qnrkj9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qnrkj9/retatrutide/",
+  "author_hash": "a1fb416c070a463357860a580e2be77e9130a0bf68b04914542db3dd89008c6e",
+  "confidence_tier": 5,
+  "date_published": "2026-01-26T12:17:10-08:00",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Blurred vision some mornings attributed to glucose dropping into the 60s",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Blood glucose",
+      "value_after": 65,
+      "unit": "mg/dL"
+    }
+  ],
+  "protocol_notes": "Glucose drops into the 60s causing morning blurred vision.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123912Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d1ec5dea-3fa7-40a6-a354-923801ffd016",
+  "source_id": "1r2txhz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2txhz/wolverine_stack_with_trt_and_tesamorelin/",
+  "author_hash": "ec0cbb99471d0f9ea465e8850ab60dc69d7f38fcc142fd295db508142357386b",
+  "confidence_tier": 5,
+  "date_published": "2026-02-12T05:50:18-08:00",
+  "training_status": "active_gym",
+  "health_conditions": [
+    "tennis elbow"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Also on clinic-prescribed TRT. Concerned about cancer risk and elevated IGF levels from combining tesamorelin with Wolverine stack.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677084Z"
+}

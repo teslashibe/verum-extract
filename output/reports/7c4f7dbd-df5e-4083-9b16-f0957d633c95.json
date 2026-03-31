@@ -1,0 +1,46 @@
+{
+  "id": "7c4f7dbd-df5e-4083-9b16-f0957d633c95",
+  "source_id": "1qt5m91",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qt5m91/tirz_has_been_amazing_for_weight_loss_but_i_want/",
+  "author_hash": "4b4fc698fd9f65ca71d0f297756c08906ff09c6a014c943bd91ca269bfb73791",
+  "confidence_tier": 4,
+  "date_published": "2026-02-01T10:02:19-08:00",
+  "training_status": "lifting",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Got great results in 3 months",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Good body composition gains",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "TRT at reasonable dose combined with Retatrutide. User describes results as 'great' over 3-month period.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.681438Z"
+}

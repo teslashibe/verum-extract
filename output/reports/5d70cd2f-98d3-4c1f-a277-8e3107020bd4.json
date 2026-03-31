@@ -1,0 +1,43 @@
+{
+  "id": "5d70cd2f-98d3-4c1f-a277-8e3107020bd4",
+  "source_id": "1o2xl8j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o2xl8j/bpc157_tb500_for_chronic_shoulder_pain_30_days/",
+  "author_hash": "3e5483b6ae4386e0d1569611e928b281d65fa40282f2c92cadc8ea24e715c311",
+  "confidence_tier": 4,
+  "date_published": "2025-10-10T03:49:39-07:00",
+  "health_conditions": [
+    "elbow issues",
+    "knee issues"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "pain_change",
+      "description": "No real difference noticed after approximately 6 weeks of BPC/TB",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "6-week cycle of BPC/TB for elbow and knee issues with minimal perceived benefit.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.679789Z"
+}

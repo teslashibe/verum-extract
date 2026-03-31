@@ -1,0 +1,63 @@
+{
+  "id": "b317e3a7-d9d1-4954-b4e7-f2de9db4b22a",
+  "source_id": "1re1ye6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1re1ye6/wolverine_blend_plan/",
+  "author_hash": "53878c17ec08e95b6a0e12821d3ed96312b94128a6a0ad1259e6a5755ce7e725",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T19:22:12-08:00",
+  "health_conditions": [
+    "shoulder pain",
+    "back pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "PEA",
+      "name_normalized": "pentosan",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 1200,
+      "dose_unit": "mg",
+      "frequency": "1x daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "99% pain free after 3 years of failed treatments",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "10mg + 10mg BPC/TB blend used for shoulder and back pain. Also uses PEA 1200mg daily and GHK-Cu. Uses larger vials with 5ml BAC for GHK-Cu. Previously tried: sauna, ab slings, TENS machine, inversion table, 6 months acupuncture, chiropractor, $3k massage chair.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.672213Z"
+}

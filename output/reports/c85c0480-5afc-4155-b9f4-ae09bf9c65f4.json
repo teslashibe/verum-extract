@@ -1,0 +1,49 @@
+{
+  "id": "c85c0480-5afc-4155-b9f4-ae09bf9c65f4",
+  "source_id": "1rwbvxo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwbvxo/hungry_on_reta/",
+  "author_hash": "79b29c5b343480e6b66cbd3ed289aad89c8672dd96d5417ce0477035067cf0b2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-17T09:44:27-07:00",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "shedding off some pounds",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "energy",
+      "description": "feeling good",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "feeling incredibly hungry after finishing meals, hunger persisting shortly after eating",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "Week 1: 0.5mg, Week 2: 1mg, Week 3: 2mg. User reports rapid titration (100% increase week 1-2, 200% increase week 2-3). Concerned about product quality initially but notes restraint from eating due to busy activities suggests some appetite modulation occurring.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.65069Z"
+}

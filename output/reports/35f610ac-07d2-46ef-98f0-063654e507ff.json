@@ -1,0 +1,77 @@
+{
+  "id": "35f610ac-07d2-46ef-98f0-063654e507ff",
+  "source_id": "1as1nba",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1as1nba/what_do_you_recommend_a_women_who_wants_to_lose/",
+  "author_hash": "e4db699a86a3cc10ab75f97b9bbdf10b3ba074fa28b0eb1ea933e0c8d0f6dd88",
+  "confidence_tier": 4,
+  "date_published": "2024-02-15T22:09:49-08:00",
+  "reported_sex": "female",
+  "reported_weight": {
+    "value": 143,
+    "unit": "lbs"
+  },
+  "training_status": "5-6 days per week workout routine",
+  "health_conditions": [
+    "SIBO (small intestinal bacterial overgrowth)",
+    "gluten intolerance",
+    "dairy intolerance",
+    "low FODMAP diet required"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Semaglutide caused significant weight loss",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "muscle_loss",
+      "description": "Experienced significant muscle loss on Semaglutide",
+      "severity": "significant"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Semaglutide gave her SIBO",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_change",
+      "description": "Super hungry on CJC-Ipamorelin combination",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Currently on Sermorelin but reports not seeing much benefit. Considering switching to Ipamorelin with something else. Previously took Semaglutide which caused muscle loss and exacerbated SIBO. Meals spaced 4-5 hours apart due to gut issues. Diet: eggs, turkey, chicken, rice. ~1800 calorie intake. ~5k daily steps (desk job). Competed in fitness 15 years ago.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698798Z"
+}

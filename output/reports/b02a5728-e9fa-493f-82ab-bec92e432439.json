@@ -1,0 +1,43 @@
+{
+  "id": "b02a5728-e9fa-493f-82ab-bec92e432439",
+  "source_id": "1qucf65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qucf65/is_my_semaxselank_dose_cope/",
+  "author_hash": "6844a9ddb1096eff649249311c92d484c95847af39e0893e8093ef85fe18e086",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T16:08:48-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "nasal",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "nasal",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Need to be locked in for difficult schooling"
+    }
+  ],
+  "protocol_notes": "User is unsure if 100mcg twice daily is adequate; aware others dose up to 500mcg daily.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.667753Z"
+}

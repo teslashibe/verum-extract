@@ -1,0 +1,50 @@
+{
+  "id": "efd46adb-dd4c-447c-806a-857291da8628",
+  "source_id": "1rjt8gv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rjt8gv/peptides_for_bone_fractures_jaw_surgery/",
+  "author_hash": "c2b08f3b695c8fc0aaf69859c0113e6c452943aee94797594d9906b393395683",
+  "confidence_tier": 4,
+  "date_published": "2026-03-03T08:05:22-08:00",
+  "health_conditions": [
+    "stress fractures"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Bpc",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tbc",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295 no dac",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Cut stress fracture recovery time in half",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Used BPC 1-2mg daily and TB (referred to as 'tbc') 1mg every other day for stress fractures. Recommends adding a secretagogue like CJC-1295 no DAC. Notes that individuals may respond differently to different secretagogues.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112728Z"
+}

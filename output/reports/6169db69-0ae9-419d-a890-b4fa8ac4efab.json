@@ -1,0 +1,34 @@
+{
+  "id": "6169db69-0ae9-419d-a890-b4fa8ac4efab",
+  "source_id": "1maxgru",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1maxgru/am_i_taking_too_many_things_at_once/",
+  "author_hash": "b6d7882e5c436dbcd5c423b3b7c631a4d2ef5b5ad5b273fd88d8632149db799f",
+  "confidence_tier": 4,
+  "date_published": "2025-07-27T14:01:17-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Injection site burning/pain with 3ml concentration",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Uses 90 units (1.5mg) of GHK-Cu reconstituted in 6ml to reduce injection site burn (original 3ml concentration was too painful). Currently doing 1.5mg dose in higher volume to mitigate site irritation.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.402997Z"
+}

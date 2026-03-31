@@ -1,0 +1,48 @@
+{
+  "id": "c0f1f676-380c-413d-b16a-99159631090b",
+  "source_id": "1pxe60j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pxe60j/advice_needed/",
+  "author_hash": "73ce60f47f783a7509de16065385a98dd5358183c557367d8f10c73d865a48db",
+  "confidence_tier": 4,
+  "date_published": "2025-12-27T17:14:45-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Fat loss with synergistic effect when MOTS-c added after Retatrutide",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Sustained energy throughout the day from MOTS-c",
+      "severity": "moderate"
+    },
+    {
+      "category": "mitochondrial_function",
+      "description": "MOTS-c ensures mitochondria works efficiently; Retatrutide creates optimal environment for mitochondrial function",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User has transformation pictures on profile. Protocol: Start Retatrutide first (dose not specified), then add MOTS-c after 2 months. User reports this stacking approach works better than MOTS-c alone, citing that others reported no effects from MOTS-c without the Retatrutide foundation. Retatrutide creates environment for mitochondria to work efficiently before MOTS-c is added.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.672839Z"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "c1baa578-bf65-46ab-93b0-8b1e4a507a29",
+  "source_id": "1pcc8ka",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pcc8ka/is_it_more_costeffective_to_get_2_months_worth_of/",
+  "author_hash": "9d2e7a2a8a95dd509ae24db7b1078d35d34cf4d93b6cfd2411a0f27324ea379c",
+  "confidence_tier": 4,
+  "date_published": "2025-12-02T08:02:08-08:00",
+  "health_conditions": [
+    "chronic tendinopathy"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 3.25,
+      "dose_unit": "mg",
+      "frequency": "twice per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Recommended protocol for chronic tendinopathy healing; BPC-157 injected close to affected tendon",
+      "severity": "significant"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Tendons thicken and get denser on HGH"
+    }
+  ],
+  "protocol_notes": "Recommended 6-10 week cycle; BPC-157 300-500mcg twice daily as shallow sub-Q near affected tendon; TB-500 2.5-4mg twice weekly; includes supportive supplements: Curcumin 1-2g with Piperine, Type 1 \u0026 3 Bovine Collagen 20g, quality Whey Protein; emphasizes sourcing quality and proper storage (avoiding heat exposure)",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.675678Z"
+}

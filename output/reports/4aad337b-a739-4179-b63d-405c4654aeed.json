@@ -1,0 +1,116 @@
+{
+  "id": "4aad337b-a739-4179-b63d-405c4654aeed",
+  "source_id": "16vq7rj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16vq7rj/talk_to_your_doctor_before_you_start_xyz/",
+  "author_hash": "efde470c77722808e4486f15a4c96976b6003a7a2ce1872f741d16c8e81bfdd9",
+  "confidence_tier": 4,
+  "date_published": "2023-09-29T15:56:51-07:00",
+  "reported_age_range": "50-59",
+  "health_conditions": [
+    "IBS"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "frequency": "daily",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "frequency": "every 6 months alternating",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "frequency": "every 6 months alternating",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "SNAP-8",
+      "name_normalized": "snap_8",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Argireline",
+      "name_normalized": "argireline",
+      "category": "other",
+      "route": "topical",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "IBS flareups reduced from 5-6 days per week to approximately 2 per month after 6 months of daily BPC-157",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "MCL tear healed in 4-5 weeks with BPC-157 and TB-500 combined with rest",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Increased energy and alertness with alternating Thymosin Alpha-1 and Epithalon every 6 months",
+      "severity": "moderate"
+    },
+    {
+      "category": "skin",
+      "description": "Improved skin elasticity with topical peptides (GHK-Cu, SNAP-8, Argireline) in lotions",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "PT-141 and Melanotan II cause nausea within seconds that lasts for 24 hours",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "User is 55 years old and uses peptides both systemically and topically in lotions. Husband also used BPC-157 and TB-500 for MCL injury. User reports spouse also uses same peptide protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.700588Z"
+}

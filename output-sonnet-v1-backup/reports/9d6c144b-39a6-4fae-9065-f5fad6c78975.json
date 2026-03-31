@@ -1,0 +1,78 @@
+{
+  "id": "9d6c144b-39a6-4fae-9065-f5fad6c78975",
+  "source_id": "1n0k8c9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n0k8c9/monjouro_to_retatrutide/",
+  "author_hash": "ea988db59b4cb890ce19aeb3c2ad3e4ba776ef61447558049b8dd47d425dc20a",
+  "confidence_tier": 4,
+  "date_published": "2025-08-26T05:16:57-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 2.4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 30 lbs over course of Sema and Tirz use",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression and no food noise on Retatrutide 4mg",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "energy",
+      "description": "Has energy on Reta, never had energy on Sema or Tirz",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Woke up feeling like shit for about an hour after 4mg dose",
+      "severity": "moderate",
+      "onset_days": 7,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Took week off between Tirz/Sema and starting Reta. First dose of Reta was 2.0mg on 8/15/25 - felt nothing. Increased to 4.0mg on 8/22/25. Plans to add Tesamorelin after losing another 30 lbs. Used Sema at max 2.4mg and Tirz at max 15mg prior.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.273878Z"
+}

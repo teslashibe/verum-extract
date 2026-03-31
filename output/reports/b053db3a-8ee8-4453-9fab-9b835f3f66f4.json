@@ -1,0 +1,50 @@
+{
+  "id": "b053db3a-8ee8-4453-9fab-9b835f3f66f4",
+  "source_id": "1nyzyxs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nyzyxs/repost_wrong_picture_for_12th_week_finally/",
+  "author_hash": "b5af942e80b2fcb8b9527da22993d13d05d6ff0f02c25ab5f2ed080150fe0e06",
+  "confidence_tier": 4,
+  "date_published": "2025-10-05T14:00:04-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 230,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 250,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 31 lbs over 12 weeks (230 lbs to 199 lbs)",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Week 1: 2mg Retatrutide; Week 2-3: 4mg; Week 4-7: 6mg; Week 8-10: 8mg; Week 11-12: 12mg. User reports zero side effects throughout entire 12-week cycle. Planning to continue on 2-4mg Retatrutide during bulk phase. User has 3 years of peptide experience.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.680092Z"
+}

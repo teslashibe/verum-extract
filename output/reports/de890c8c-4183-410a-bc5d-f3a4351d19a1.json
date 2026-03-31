@@ -1,0 +1,35 @@
+{
+  "id": "de890c8c-4183-410a-bc5d-f3a4351d19a1",
+  "source_id": "1rsn22v",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rsn22v/libido_loss_on_a_retatirz/",
+  "author_hash": "1fbd32a58b97b1008066f08286da93732ff4a94438797110d33c6a1b4871568a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-13T06:16:26-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "libido_change",
+      "description": "Libido was in the trash",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 4
+    }
+  ],
+  "protocol_notes": "User took 1.5mg reta once, experienced libido crash for 3-4 days before recovery. Did not continue with reta after this experience.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.664623Z"
+}

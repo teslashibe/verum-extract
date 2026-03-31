@@ -1,0 +1,35 @@
+{
+  "id": "704c3a7e-d52b-466c-8d6a-1c3b4a0ca78c",
+  "source_id": "18n23iq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/18n23iq/bpc157_and_my_libido/",
+  "author_hash": "8a7c7e08f9e53cf2c65fd631577005f9d941d070424bd8c38ee87874767dc22c",
+  "confidence_tier": 4,
+  "date_published": "2023-12-20T10:51:57-08:00",
+  "reported_sex": "male",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 750,
+      "dose_unit": "mcg",
+      "frequency": "split into 2 injections",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "libido",
+      "description": "Woken up in middle of night by strength of erection within first few days, then leveled off",
+      "severity": "significant",
+      "onset_days": 3
+    }
+  ],
+  "protocol_notes": "750 mcg total split into 2 injections daily",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.417893Z"
+}

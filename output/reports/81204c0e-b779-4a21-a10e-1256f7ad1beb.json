@@ -1,0 +1,56 @@
+{
+  "id": "81204c0e-b779-4a21-a10e-1256f7ad1beb",
+  "source_id": "1n2t1c6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n2t1c6/what_to_try_after_reta_motsc_aod9604_cagri_or/",
+  "author_hash": "668ca7404e4cbf02e04d9b5dc079941bbc621a47c26903bea67170cc881956db",
+  "confidence_tier": 4,
+  "date_published": "2025-08-28T17:29:38-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Lower body fat percentage measured by scale after one month of Retatrutide",
+      "severity": "moderate",
+      "onset_days": 30
+    },
+    {
+      "category": "recovery",
+      "description": "Better recovery, mood, work, and workouts after starting peptides",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User is also on TRT (90mg, titrated from 120mg to 100mg to 80mg over 6 months). Testosterone level was 1253 but adjusted downward due to SHBG concerns affecting free T. User found Sermorelin underwhelming over 8 weeks. Currently taking CJC/IPA after Sermorelin cycle. Interested in trying Retatrutide dose optimization, MOTS-c, AOD-9604, or Capromorelin. User expressed preference for peptide secretagogues over exogenous HGH.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.683332Z"
+}

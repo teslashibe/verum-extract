@@ -1,0 +1,36 @@
+{
+  "id": "a9a1c4e8-77f9-4288-a07c-fb0e7d514194",
+  "source_id": "1m86cbv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m86cbv/reta_so_sleepy/",
+  "author_hash": "ab4f4dd43b27cc7b3d34b8d43f332d73d66e280bda9061665c5116887d808ee7",
+  "confidence_tier": 4,
+  "date_published": "2025-07-24T07:46:01-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep issues similar to Retatrutide alone; Sermorelin does not improve sleep quality",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Taking Sermorelin with Retatrutide but sleep remains problematic",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.403364Z"
+}

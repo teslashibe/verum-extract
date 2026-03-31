@@ -1,0 +1,68 @@
+{
+  "id": "36668d13-df76-4e6a-b1d7-01972bbf2768",
+  "source_id": "1najnq4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1najnq4/accidentally_went_beast_mode/",
+  "author_hash": "4e66850fb6c5b2485d542abe802ef0905c36654126065a663149fb66222d7da8",
+  "confidence_tier": 4,
+  "date_published": "2025-09-06T21:11:40-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "No side effects at 0.5mg",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Faintest hint of nausea after eating yogurt at 1mg",
+      "severity": "mild",
+      "onset_days": 7
+    },
+    {
+      "category": "nausea",
+      "description": "Super nauseated and having trouble finishing meals at 2mg",
+      "severity": "significant",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "User titrated rapidly from 0.5mg to 2mg weekly over 3 weeks due to lack of initial effects. Notes studies suggest 4mg is when fat loss begins. Plans to continue at 2mg.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.398957Z"
+}

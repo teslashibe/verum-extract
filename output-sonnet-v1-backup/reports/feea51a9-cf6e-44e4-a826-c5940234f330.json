@@ -1,0 +1,48 @@
+{
+  "id": "feea51a9-cf6e-44e4-a826-c5940234f330",
+  "source_id": "1qgfzsl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qgfzsl/psa_do_not_mix_retra_and_ss31_on_the_same_syringe/",
+  "author_hash": "1acb625af748e682197eee144b57a8f6beb8625dcccf84cbea1eb2f1bdf8e301",
+  "confidence_tier": 5,
+  "date_published": "2026-01-18T10:19:44-08:00",
+  "training_status": "active (running 10 miles, gym)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ss-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 6.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "retra",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ghk-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Subtle but real energy increase after 6.5mg SS-31, able to run 10 miles and still go to the gym",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "OP typically mixes SS-31 and GHK-CU in same syringe without issues. Added Retra and mixture denatured. Comparison made to MOTS-c which produces sharper energy.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.124558Z"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "fc525c23-e644-4e23-82ad-0d3032acdee9",
+  "source_id": "1rjt8gv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rjt8gv/peptides_for_bone_fractures_jaw_surgery/",
+  "author_hash": "f3f29e79f8e86fe2e1aabe05416fa081d38e32b0bde9bd2cb4a00ac13fd93d73",
+  "confidence_tier": 4,
+  "date_published": "2026-03-03T08:05:22-08:00",
+  "health_conditions": [
+    "double jaw surgery",
+    "post-surgical recovery"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "PC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "every three days",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Started peptides 5 days post double jaw surgery, 1 day into protocol at time of post. Concerned doses may be too low. Also considering HGH but noted it should have been started months in advance.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112728Z"
+}

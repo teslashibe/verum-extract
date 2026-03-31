@@ -1,0 +1,38 @@
+{
+  "id": "83d06e80-db2f-4f8d-8692-46a81117f0e7",
+  "source_id": "1mxnltc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mxnltc/first_ghkcu_run_my_experience_so_far/",
+  "author_hash": "f3657b33916ead1388990a1d96c520529ea7eabb81de7163584826f51a4097e7",
+  "confidence_tier": 4,
+  "date_published": "2025-08-22T17:46:14-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "deep burn sensation approximately 5 hours post-injection, lasts rest of day, gone by next day",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "injection_site",
+      "description": "bruises at injection site, not every time",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Inconsistent side effects; occurs sometimes but not every injection.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.400434Z"
+}

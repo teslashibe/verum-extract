@@ -1,0 +1,48 @@
+{
+  "id": "51e77b1e-15d2-4f6e-82e1-5c1e8dcadf1d",
+  "source_id": "1r9rtny",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9rtny/adding_tesamorelin/",
+  "author_hash": "7eced37680c65cbaf4c17a1bd591573dd6d89ff02b38351b695af850f1e07e8a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-20T02:26:49-08:00",
+  "health_conditions": [
+    "secondary adrenal insufficiency"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Belt tightened by two notches; belly bulge visibly reduced; benefits sustained after cycle completion",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Sudden awakening if injected before bed; resolved by switching injection time to 3pm",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Currently on Retatrutide for weight loss; using Cortisol replacement therapy for adrenal insufficiency; administering Tesamorelin at 3pm to avoid sleep disruption; completed one cycle and planning another multi-week cycle",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.674032Z"
+}

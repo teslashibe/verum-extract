@@ -1,0 +1,54 @@
+{
+  "id": "b75c854d-cac5-41f6-a199-4a4572f4473b",
+  "source_id": "k303dc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/k303dc/peptides_for_brain_regeneration_after/",
+  "author_hash": "ee2f764fd01a28e018fbb165662614eff20bf72e01d8c496f61ea5bf0aaeb272",
+  "confidence_tier": 4,
+  "date_published": "2020-11-28T17:20:57-08:00",
+  "health_conditions": [
+    "LSD_exposure",
+    "SSRI_damage"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "frequency": "at night only",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "feeling flat; mixed results; life events also contributing",
+      "severity": "moderate",
+      "onset_days": 5
+    },
+    {
+      "category": "anxiety",
+      "description": "off balance feeling, increased anxiety when on BPC",
+      "severity": "moderate",
+      "onset_days": 5
+    },
+    {
+      "category": "headache",
+      "description": "slight headache upon waking; disorientation; dopamine-related",
+      "severity": "mild",
+      "onset_days": 5
+    },
+    {
+      "category": "mood_change",
+      "description": "general anxiety improved when off BPC",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Day 5 of BPC-157 oral liquid; shifted to night-only dosing; seeking serotonin receptor repair after LSD and SSRI damage; uncertain about continuing due to side effects",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.703566Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "d725d032-662b-405d-abca-4bc5ecdac708",
+  "source_id": "1qxsr0i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxsr0i/starting_reta_at_lowish_bf/",
+  "author_hash": "a1fb416c070a463357860a580e2be77e9130a0bf68b04914542db3dd89008c6e",
+  "confidence_tier": 3,
+  "date_published": "2026-02-06T12:21:43-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped from ~20% body fat (visual estimate) to 15.9% confirmed by DEXA scan",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "value_before": 20,
+      "value_after": 15.9,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Started at 0.50mg for 3 weeks then increased to 0.75mg. Currently doing a reverse diet after completing cut. Self-described as 'middle age female'. Saw scale drop within first week. Weighs daily, uses 7-day average, compares week to week.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.120786Z"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "69a5624c-3c8d-4b29-bbc2-91f6bbffd041",
+  "source_id": "1rb5vbn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rb5vbn/cjcno_dacipam_scary_effects_normal/",
+  "author_hash": "c77d727994914cb44c2b6d285994370aed30d453fc88c09d68b80e1fb8ef1ae5",
+  "confidence_tier": 5,
+  "date_published": "2026-02-21T15:25:23-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC/ipam",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Semax, Selank, KPV and BPC work well with no issues"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Itching and redness at injection site with CJC or ipam (allergic reaction to one or both)",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Adverse reaction to AOD and NAD+"
+    }
+  ],
+  "protocol_notes": "Commenter reports allergic reaction to CJC and/or ipam (itching and redness), and issues with AOD and NAD+. No issues with Semax, Selank, KPV, and BPC.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.115946Z"
+}

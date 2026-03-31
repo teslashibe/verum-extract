@@ -1,0 +1,40 @@
+{
+  "id": "b05623f8-634f-4b13-8fe8-5cae1041d731",
+  "source_id": "1r18dkl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r18dkl/bulk_peptide_purchasing_question_tirz_reta/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T10:14:03-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Significant weight loss achieved",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User started Tirzepatide in April 2025, currently at 10mg weekly, plans to titrate to 15mg and then transition to Retatrutide. Planning bulk purchase for approximately 2 years of supply.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677857Z"
+}

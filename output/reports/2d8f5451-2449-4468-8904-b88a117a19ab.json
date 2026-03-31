@@ -1,0 +1,69 @@
+{
+  "id": "2d8f5451-2449-4468-8904-b88a117a19ab",
+  "source_id": "1lysf1p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lysf1p/mild_cjcipa_allergy_turned_into_anaphylactic/",
+  "author_hash": "50a417b5fe2082a06cff7cf252af38e67d9b1e97851018ef96df2adb2d77ee03",
+  "confidence_tier": 4,
+  "date_published": "2025-07-13T06:08:35-07:00",
+  "health_conditions": [
+    "anaphylactic shock",
+    "allergic reaction to CJC/IPA"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 83,
+      "dose_unit": "mcg",
+      "frequency": "3-5 times a week",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 83,
+      "dose_unit": "mcg",
+      "frequency": "3-5 times a week",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "miraculous when working"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "body hives and joint inflammation on first cycle",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "injection_site",
+      "description": "small welt at injection site",
+      "severity": "mild"
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "anaphylactic shock - intense pressure and inflammation in neck lymphs within first minute, spreading to whole body, lightheadedness, collapse, unconsciousness, vomiting, body pain, waves of inflammation",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Pre-mixed CJC/IPA vial (5mg/5mg) diluted with 3ml BAC water. 0.05ml per injection. First cycle approximately 5 months, stopped after allergic reaction. Restarted after several months at low dose, titrated up to 83mcg over 3 months, 3-5 times per week. Anaphylactic reaction occurred at same dose as previous injections with no prior warning.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.687509Z"
+}

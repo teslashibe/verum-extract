@@ -1,0 +1,74 @@
+{
+  "id": "72ae57d4-a031-4728-a6e9-6a15c04af706",
+  "source_id": "1rb51di",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rb51di/peptides_for_grandma/",
+  "author_hash": "7eced37680c65cbaf4c17a1bd591573dd6d89ff02b38351b695af850f1e07e8a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T14:50:47-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "60+",
+  "training_status": "former athlete, currently sedentary due to disease",
+  "health_conditions": [
+    "Hashimoto's disease",
+    "autoimmune issues",
+    "severe fatigue",
+    "weight gain",
+    "muscle weakness"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "every 5 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "inflammation",
+      "description": "Anti-inflammatory effects kicked in by 2nd day",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "fat_loss",
+      "description": "40 pounds weight loss on 4mg dose",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Reduced fatigue and improved work capacity; able to walk dog 2 miles",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "body_composition",
+      "description": "Face swelling resolved within a week",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "recovery",
+      "description": "No longer experiencing multi-day crashes after minimal activity",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hormonal",
+      "description": "Required increased thyroid medication; feeling cold without adjustment",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "62-year-old male with Hashimoto's and autoimmune disease. Started at 2mg, titrated to 3mg, then 4mg. Lasts approximately 5 days. Former bicycle racer (previously 27mph, declined to 4mph before treatment). Now able to walk 2 miles and 20 pounds from ideal weight.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.66142Z"
+}

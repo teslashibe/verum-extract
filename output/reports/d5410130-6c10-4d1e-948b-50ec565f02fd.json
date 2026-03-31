@@ -1,0 +1,51 @@
+{
+  "id": "d5410130-6c10-4d1e-948b-50ec565f02fd",
+  "source_id": "1rfv7s4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rfv7s4/need_help_for_dosage/",
+  "author_hash": "2a11b38ee02302baa1cb87f89b6f5c15efd99144d1282564ea5b427aef1eb148",
+  "confidence_tier": 4,
+  "date_published": "2026-02-26T19:08:56-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "cycle_length_days": 120,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Strong appetite suppression when dosing, comes back after 3-4 days",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "fat_loss",
+      "description": "Used for weight loss via appetite suppression",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "No appetite at all in first couple days after dose increase from 1mg to 2mg",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Started at 1mg/week, titrated to 2mg/week after a few weeks to a month, then to 2mg twice weekly (4mg/week total) after 4 months. Uses PRN dosing when food cravings return every 3-4 days. Notes that some people need up to 12mg/week based on clinical trials. Emphasizes need to force macronutrient intake despite appetite suppression.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.671506Z"
+}

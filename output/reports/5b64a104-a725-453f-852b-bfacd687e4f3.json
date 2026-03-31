@@ -1,0 +1,57 @@
+{
+  "id": "5b64a104-a725-453f-852b-bfacd687e4f3",
+  "source_id": "1bgyaba",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bgyaba/anyone_taking_this_from_peptide_sciences/",
+  "author_hash": "93fcbceacff7e11e47fd287745acc953767de20ac171a1502848e29107a720d7",
+  "confidence_tier": 4,
+  "date_published": "2024-03-17T07:03:30-07:00",
+  "training_status": "trained",
+  "health_conditions": [
+    "shoulder injury"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "oral",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Left shoulder completely healed up",
+      "severity": "significant",
+      "onset_days": 60
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Able to bench press two plates with ease",
+      "severity": "moderate",
+      "onset_days": 60
+    },
+    {
+      "category": "sleep",
+      "description": "Can sleep on left shoulder again",
+      "severity": "significant",
+      "onset_days": 60
+    }
+  ],
+  "protocol_notes": "Peptide Sciences BPC-157 and TB-4 combination. Started one week after initial post, two months of use reported.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698401Z"
+}

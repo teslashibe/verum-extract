@@ -1,0 +1,46 @@
+{
+  "id": "cff4da0c-1a6a-4139-b82e-7f3a9e028129",
+  "source_id": "1pyrf9t",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pyrf9t/mom_putting_me_on_peptides/",
+  "author_hash": "c54c6deff3a47cdf857c131bb28087c1c3b08434eec48a59941a284f17299907",
+  "confidence_tier": 4,
+  "date_published": "2025-12-29T08:55:34-08:00",
+  "health_conditions": [
+    "chronic illness",
+    "mitochondrial dysfunction (suspected/confirmed)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "General health improvement for chronic illness",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Chronically ill user taking SS-31 10mg daily and TA1 daily. Notes that SS-31 requires higher doses (10mg+) to treat mitochondrial issues effectively and may not be effective in younger patients (\u003c40 years old) without confirmed mito dysfunction. TA1 recommended for immunity issues. No interference with Prozac noted.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.672691Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "087beba9-3ec7-4c20-86ab-88dc436527fc",
+  "source_id": "t1xmac",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/t1xmac/a_cautionary_tale/",
+  "author_hash": "8276cce48d96e839f430bd4a19864300e627b432034b89d459b328a2446e84e0",
+  "confidence_tier": 5,
+  "date_published": "2022-02-26T05:54:54-08:00",
+  "compounds": [
+    {
+      "name_raw": "FTTP",
+      "name_normalized": "thymulin",
+      "category": "immune",
+      "route": "intramuscular",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "kidney_damage",
+      "description": "Stage 5 kidney failure attributed to FTTP use",
+      "severity": "significant",
+      "onset_days": 30
+    }
+  ],
+  "protocol_notes": "User is reporting on Bostin Loyd's experience, not their own. Bostin used 1 bottle per day of FTTP. Concurrent use of 1g test and 1g primo. FTTP caused acute kidney injury in monkey trials at lower dosages.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.129946Z"
+}

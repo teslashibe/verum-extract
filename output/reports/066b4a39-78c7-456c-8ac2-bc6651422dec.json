@@ -1,0 +1,49 @@
+{
+  "id": "066b4a39-78c7-456c-8ac2-bc6651422dec",
+  "source_id": "1p3ly65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p3ly65/why_the_f_is_everyone_dosing_reta_so_high/",
+  "author_hash": "28c48f4f1e6c0d8d513dd683d0c78b5e2ece77d1701e5774a926723911cd7e53",
+  "confidence_tier": 4,
+  "date_published": "2025-11-21T22:10:12-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Initial appetite suppression reduced after a few weeks; titrated up to find sweet spot",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "fat_loss",
+      "description": "Weight loss achieved through titration protocol",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Appetite suppression tolerance developed",
+      "severity": "moderate",
+      "onset_days": 21,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Titration protocol: 1mg → 2mg → 3mg → 4mg → 5mg over many months. 5mg identified as personal sweet spot. Notes that everyone reacts differently.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.393155Z"
+}

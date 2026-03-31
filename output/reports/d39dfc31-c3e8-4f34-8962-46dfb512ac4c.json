@@ -1,0 +1,49 @@
+{
+  "id": "d39dfc31-c3e8-4f34-8962-46dfb512ac4c",
+  "source_id": "1rkpdc9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rkpdc9/how_to_know_how_much_retacagrilintide_blend_to/",
+  "author_hash": "a519c869dfacc618b43cb96cd1f84245d5d1ae91d62fdbfc57b5a971bc6f53a7",
+  "confidence_tier": 4,
+  "date_published": "2026-03-04T08:05:06-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 3.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "On semaglutide for 4 months, but progress stalled in last month"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Considering adding cagrilintide to improve hunger curbing since reta does not have as good appetite suppression as sema"
+    }
+  ],
+  "protocol_notes": "Currently on 3.5mg semaglutide weekly (described as almost 50% higher than highest approved dose). Purchased 20mg/2.5mg retatrutide/cagrilintide blend with BAC water. Asking about appropriate starting dose and whether to use pre-made blend or reconstitute separately.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.657033Z"
+}

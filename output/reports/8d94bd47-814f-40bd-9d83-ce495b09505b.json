@@ -1,0 +1,50 @@
+{
+  "id": "8d94bd47-814f-40bd-9d83-ce495b09505b",
+  "source_id": "1addn5u",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1addn5u/my_experience_with_peptides_for_fitness_and/",
+  "author_hash": "e2fcab7e86f994de7ab5063e32a685c1867d705e24cd5440a8567b4b5867889d",
+  "confidence_tier": 4,
+  "date_published": "2024-01-28T13:28:26-08:00",
+  "reported_sex": "female",
+  "training_status": "workouts in the morning",
+  "health_conditions": [
+    "sleep issues"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Having issues with hunger while on Tirzepatide",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User plans to add BPC-157 for recovery and DSIP for sleep issues. Interested in CJC/IPA timing and adjusting protocol to fit morning workouts. Plans to inject once in morning, then hour after lunch (around 4-5pm after not eating until then).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.417092Z"
+}

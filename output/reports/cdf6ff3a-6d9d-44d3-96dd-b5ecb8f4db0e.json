@@ -1,0 +1,61 @@
+{
+  "id": "cdf6ff3a-6d9d-44d3-96dd-b5ecb8f4db0e",
+  "source_id": "1m44bjy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m44bjy/cjcipa_impact_on_sleep_quality/",
+  "author_hash": "753c16950e5819556c866dbf84e51182227c8d5336ff00319276ea9ac03fd4e6",
+  "confidence_tier": 4,
+  "date_published": "2025-07-19T12:09:42-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "every 5-6 days",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Arms seem to be getting a little bigger and more defined",
+      "severity": "mild",
+      "onset_days": 14
+    },
+    {
+      "category": "sleep",
+      "description": "More REM sleep",
+      "severity": "mild",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Vivid dreams all the time (never dreamed before). Galaxy watch shows 0% deep sleep. Awake most of the night. Only getting 5-6 hours sleep despite being in bed 9-10 hours. Takes time to wake up and process dreams.",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "Using CJC/IPA for about 2 weeks. Also dosing 6mg Retatrutide every 5-6 days and Lipo-C vitamin injection every couple days. On keto diet for last couple months.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.403764Z"
+}

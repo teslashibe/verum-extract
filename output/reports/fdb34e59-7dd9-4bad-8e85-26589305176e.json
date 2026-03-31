@@ -1,0 +1,48 @@
+{
+  "id": "fdb34e59-7dd9-4bad-8e85-26589305176e",
+  "source_id": "1rr12jp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr12jp/round_2_of_semaglutide_not_working/",
+  "author_hash": "fb976fbd41a980ccaf440aeb33e6580a3fcdf1d34238c8030ecaf4066074c61c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-11T10:57:01-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite completely killed - got sick thinking of food day after first shot",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "fat_loss",
+      "description": "Achieving 500 kcal deficit below planned 750 kcal deficit consistently",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Makes user tired, sluggish first week",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Currently on 2.5mg Tirzepatide planning to stay on it for cut. Sluggishness improved by second week.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.653443Z"
+}

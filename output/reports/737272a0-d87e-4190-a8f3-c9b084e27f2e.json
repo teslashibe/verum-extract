@@ -1,0 +1,41 @@
+{
+  "id": "737272a0-d87e-4190-a8f3-c9b084e27f2e",
+  "source_id": "1s5z409",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s5z409/have_you_ever_received_peptides_that_didnt_match/",
+  "author_hash": "ae58274e7ebaf6a63953e9062bc169c2548083d849345b06ec3151c0bc698e47",
+  "confidence_tier": 4,
+  "date_published": "2026-03-28T05:32:32-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Retatrutide purity (first batch)",
+      "value_after": 0,
+      "unit": "%"
+    },
+    {
+      "marker_name": "Retatrutide purity (second batch)",
+      "value_after": 99.9,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Ordered Retatrutide from China with no COA. First batch tested as 0% Retatrutide (was actually Semaglutide). Vendor sent replacement batch with additional compensation ($400 to cover testing costs). Second batch tested as 99.9% pure Retatrutide.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.9,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.645719Z"
+}

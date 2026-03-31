@@ -1,0 +1,49 @@
+{
+  "id": "0a8c2065-18cf-4c37-bd55-1165fcd8cf0c",
+  "source_id": "1s4j9xn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4j9xn/ipacjc_timing/",
+  "author_hash": "ac47558beace6c059b87f8dcad3d3d2562b93b2b3c2ae9fe178a30c78bf8541c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-26T13:42:32-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 201,
+    "unit": "lbs"
+  },
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Goal is to achieve lean muscle with reduced fat at same weight"
+    }
+  ],
+  "protocol_notes": "Planning to start IPA+CJC stack. Considering fasted timing before bed or morning. Already on Retatrutide and considering whether to continue during IPA+CJC cycle. User is 57 years old, 6'2\", 201 lbs, stated goal is body recomposition (lean muscle gain, fat loss) without long-term commitment.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.646493Z"
+}

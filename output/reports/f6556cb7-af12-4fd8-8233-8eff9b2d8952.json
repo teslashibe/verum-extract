@@ -1,0 +1,68 @@
+{
+  "id": "f6556cb7-af12-4fd8-8233-8eff9b2d8952",
+  "source_id": "1rsd4ln",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rsd4ln/looking_for_advice_starting_34m/",
+  "author_hash": "6fd8cf6a54090519221b9b410905d3960672cc2d8361f99ee10983d57b9b827a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T21:02:14-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "training_status": "lifter",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "once daily at night",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "once daily at night",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "once daily at night",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Hasn't slept this good in years",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Meaningful improvements to overall physical wellbeing",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "CJC-1295 no DAC variant. Takes compounds 45 minutes before last meal of the day. Stack administered together at night. TB-500 was added after positive response to initial stack. User states cost-effective.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.652719Z"
+}

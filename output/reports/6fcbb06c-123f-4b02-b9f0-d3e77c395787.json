@@ -1,0 +1,50 @@
+{
+  "id": "6fcbb06c-123f-4b02-b9f0-d3e77c395787",
+  "source_id": "1p4e598",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p4e598/concerns_about_glow_peptide/",
+  "author_hash": "ae58274e7ebaf6a63953e9062bc169c2548083d849345b06ec3151c0bc698e47",
+  "confidence_tier": 3,
+  "date_published": "2025-11-22T21:02:00-08:00",
+  "health_conditions": [
+    "hair thinning"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Significant new hair growth",
+      "severity": "significant",
+      "onset_days": 90
+    }
+  ],
+  "protocol_notes": "Uses GLOW70 blend at 2 mg daily (dosed by copper content). After 3 months, switched to GHK-Cu + KPV. Girlfriend uses same blend at 1.5 mg daily with excellent hair growth results.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.676769Z"
+}

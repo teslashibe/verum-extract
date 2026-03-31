@@ -1,0 +1,43 @@
+{
+  "id": "f8d4c2a3-3d5f-463b-abe3-08cee7803180",
+  "source_id": "1ku7rh2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ku7rh2/took_20_iu_hgh_instead_of_2_how_many_days_i/",
+  "author_hash": "ccea618ca8b3fb74ffc86b2f2d5b21a7c9148742cb2c4099d585631bf269baa7",
+  "confidence_tier": 4,
+  "date_published": "2025-05-24T02:38:53-07:00",
+  "training_status": "active (working out)",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "hgh",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Extra stamina during workout, faster completion of workouts",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Accidentally injected 20 IU instead of 2 IU due to mechanical issue with pen; reported no difference felt after accidental overdose",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "OP is using pharmaceutical grade Pfizer HGH (Genotropin pen) obtained from pharmacy. Accidentally injected ~20 IU on one occasion due to mechanical issue with the pen. Normally dosing 2 IU. Plans to run 2 IU permanently for health benefits. Has been using for approximately 2 months. Asking how many days to skip after accidental overdose.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.283539Z"
+}

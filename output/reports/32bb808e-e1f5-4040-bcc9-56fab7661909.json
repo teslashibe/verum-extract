@@ -1,0 +1,39 @@
+{
+  "id": "32bb808e-e1f5-4040-bcc9-56fab7661909",
+  "source_id": "pb9db2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/pb9db2/warning/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2021-08-25T04:33:09-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "30-39",
+  "training_status": "very active",
+  "health_conditions": [
+    "breast cancer (aggressive grade)",
+    "ovarian cancer (aggressive grade)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Suspected acceleration of existing cancer cell division and aggressive growth rate due to angiogenic properties",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Two courses of BPC-157 over two years prior to cancer diagnosis. User explicitly states she does not claim BPC-157 caused the cancer but may have contributed to rapid cell division and aggressive growth. User follows low-carb diet, intermittent fasting, eats whole foods.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.702574Z"
+}

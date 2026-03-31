@@ -1,0 +1,64 @@
+{
+  "id": "754bef7d-7807-4187-94e5-146dfc501e45",
+  "source_id": "1mgzpzz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mgzpzz/whats_up_everyonethis_is_for_those_who_benefited/",
+  "author_hash": "2499829416f7dc5e324b44fdabf26074d728b5a12e4e1bbd4c5d23bf0b9d7573",
+  "confidence_tier": 4,
+  "date_published": "2025-08-03T17:54:18-07:00",
+  "health_conditions": [
+    "generalized anxiety disorder (GAD)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "5 days on, 2 days off",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "5 days on, 2 days off",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sertraline",
+      "name_normalized": "sertraline",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "Transforming effect on mood while going through tough time",
+      "severity": "significant"
+    },
+    {
+      "category": "anxiety_relief",
+      "description": "Helping with GAD",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "10 mg Selank/Semax combo blend (pre-mixed), 200 mcg subcutaneous, 5 days on 2 days off. Also on 50 mg Zoloft (sertraline) at night. User states peptides and SSRI don't work on same receptors per ChatGPT.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.402285Z"
+}

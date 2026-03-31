@@ -1,0 +1,32 @@
+{
+  "id": "49888a91-4dfb-495b-8b13-6404a3c80af0",
+  "source_id": "1rcaoos",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rcaoos/how_to_avoid_redness_and_histamine_reaction/",
+  "author_hash": "61b03f8d716b02a58dba8f6b46337a37b05ffa864ff900019ec6a4a59a0620ff",
+  "confidence_tier": 5,
+  "date_published": "2026-02-22T23:08:00-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "peptide",
+      "name_normalized": "peptides",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Redness and histamine reaction at injection site when injecting cold peptide; significantly reduced but mild redness still present when allowing peptide to warm for 5-7 minutes before injection",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "OP discovered that allowing the peptide to warm for at least 5-7 minutes before injecting significantly reduced injection site redness and histamine reactions. Previously tried rotating injection sites and varying injection angle (45 vs 90 degrees) without success.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.115728Z"
+}

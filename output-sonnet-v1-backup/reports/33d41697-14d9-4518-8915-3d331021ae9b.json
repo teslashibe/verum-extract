@@ -1,0 +1,38 @@
+{
+  "id": "33d41697-14d9-4518-8915-3d331021ae9b",
+  "source_id": "1no1qt3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1no1qt3/what_are_truly_the_best_antiaging_peptides_for/",
+  "author_hash": "86d3237526a6ba160b0f26377311b6509a2c0527daf17214444c5065dbc7ce34",
+  "confidence_tier": 4,
+  "date_published": "2025-09-22T16:19:02-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 150,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Adding glutathione after NAD+ for a couple months produced strong positive results ('that shit slaps')",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started by cleaning up sleep routine, then added NAD+ for a couple of months (150mg), then added glutathione. NAD+ dose of 150mg mentioned in a separate reply. Sequential protocol rather than simultaneous stack.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.270365Z"
+}

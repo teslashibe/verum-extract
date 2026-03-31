@@ -1,0 +1,36 @@
+{
+  "id": "df86474f-9d75-4156-bbbc-8e8c503a7034",
+  "source_id": "1r01h8a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r01h8a/nad_motsc_post_injecting/",
+  "author_hash": "7c90e3ae132b0aeb11cceeff0b6aba13258dcadb3d272f07075b8382cc659cea",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T03:10:47-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "NAD flush that faded after a few weeks",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 21
+    }
+  ],
+  "protocol_notes": "Taking NAD+ 100mg in the morning. Flush side effect resolved after a few weeks of use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665874Z"
+}

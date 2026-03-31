@@ -1,0 +1,147 @@
+{
+  "id": "f446dfd1-14d2-4d63-b79f-67b8704d8d09",
+  "source_id": "1s2rjxe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s2rjxe/anyone_ever_take_oral_bpc_157_to_help_heal_their/",
+  "author_hash": "094f1dbabe0bb9b9b3925a7e98663060beaf7f24e6317072f429d6e88cf406ce",
+  "confidence_tier": 3,
+  "date_published": "2026-03-24T14:47:06-07:00",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "every five days",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "Monday and Thursday",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "every second day",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "fibrosis resolution (65% reduction in fibrosis score)",
+      "severity": "significant"
+    },
+    {
+      "category": "liver_function",
+      "description": "normalized ALT/AST levels",
+      "severity": "significant"
+    },
+    {
+      "category": "inflammation",
+      "description": "decreased inflammation by 55%",
+      "severity": "significant"
+    },
+    {
+      "category": "anti_aging",
+      "description": "improved physical performance (grip strength by 45%)",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Fibrosis score",
+      "unit": "Masson's trichrome staining",
+      "timeframe_days": 84
+    },
+    {
+      "marker_name": "ALT/AST",
+      "unit": "serum levels",
+      "timeframe_days": 84
+    },
+    {
+      "marker_name": "TNF-α/IL-6",
+      "unit": "ELISA",
+      "timeframe_days": 84
+    },
+    {
+      "marker_name": "ROS/MDA",
+      "unit": "hepatic levels",
+      "timeframe_days": 84
+    },
+    {
+      "marker_name": "ATP production",
+      "unit": "luminescence assay",
+      "timeframe_days": 84
+    },
+    {
+      "marker_name": "CD4+/CD8+ ratio",
+      "unit": "flow cytometry",
+      "timeframe_days": 84
+    }
+  ],
+  "protocol_notes": "Cited from Dr Trevor's Liver Disease Reversal guide. This is a mouse study (C57BL/6 mice, CCl4-induced hepatic fibrosis) demonstrating combination therapy for liver fibrosis reversal. Also includes nicotine patch (7 mg daily transdermal). No adverse effects observed. Study period: 12 weeks.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.9,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.658445Z"
+}

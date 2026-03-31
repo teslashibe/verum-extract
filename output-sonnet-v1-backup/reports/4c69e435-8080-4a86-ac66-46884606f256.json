@@ -1,0 +1,51 @@
+{
+  "id": "4c69e435-8080-4a86-ac66-46884606f256",
+  "source_id": "1mrvy0p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mrvy0p/update_on_retratutide/",
+  "author_hash": "776c3232938d111df3910d8d2a5d8ddd3de05afebd7534fe91678c8173540be0",
+  "confidence_tier": 4,
+  "date_published": "2025-08-16T06:54:58-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "First month of Reta suppressed food noise",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "From 4mg onwards, Reta actually increased hunger initially",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "In fifth month of Reta, second month of using both Reta and Cagrilintide. Currently at 6mg Reta + 1mg Cagrilintide per week. Has a lot of weight to lose. Using Cagrilintide to moderate rate of Reta dose increases.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.27522Z"
+}

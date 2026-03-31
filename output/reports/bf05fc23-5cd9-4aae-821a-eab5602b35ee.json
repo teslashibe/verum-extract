@@ -1,0 +1,54 @@
+{
+  "id": "bf05fc23-5cd9-4aae-821a-eab5602b35ee",
+  "source_id": "1r11cz5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r11cz5/tesamorelin_keeps_turning_cloudy_and_gel_like/",
+  "author_hash": "53063f621749b46acb31f6290be1df5965ceb9eeecf85b7a7011ebf0f75cd345",
+  "confidence_tier": 5,
+  "date_published": "2026-02-10T05:54:52-08:00",
+  "training_status": "gym",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Tesamorelin vials turning cloudy and gel-like within 20 minutes to 1 day of reconstitution",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "4 vials received; 3 turned cloudy and viscous. Stored in fridge at 3°C. Other peptides (GHK-Cu, Ipamorelin, Semax) stored same way with no issues. Tested leaving one vial at room temperature (25°C) and it became extremely viscous and cloudy within 24 hours. Using regular BAC water. 5mg vials, 1mg per day dosing.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677973Z"
+}

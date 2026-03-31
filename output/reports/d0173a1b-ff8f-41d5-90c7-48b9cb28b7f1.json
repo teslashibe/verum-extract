@@ -1,0 +1,39 @@
+{
+  "id": "d0173a1b-ff8f-41d5-90c7-48b9cb28b7f1",
+  "source_id": "1r2867m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2867m/tesamorelin_ghkcu/",
+  "author_hash": "86eec75ef557a258180c6553e5a65998fa4d2b742d33218d8a4c02ce2f01d268",
+  "confidence_tier": 5,
+  "date_published": "2026-02-11T12:11:38-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "ml",
+      "frequency": "daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "ml",
+      "frequency": "daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User mixing both compounds in same syringe, dosing nightly for 2 weeks. Note: mL is unusual dosing unit for peptides; likely user confusion about actual dose.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.664788Z"
+}

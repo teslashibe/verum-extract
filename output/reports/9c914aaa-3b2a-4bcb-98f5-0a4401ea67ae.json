@@ -1,0 +1,46 @@
+{
+  "id": "9c914aaa-3b2a-4bcb-98f5-0a4401ea67ae",
+  "source_id": "1r01h8a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r01h8a/nad_motsc_post_injecting/",
+  "author_hash": "893c79c413f38c876a37b5e27fb94e67276de778092d457648db195cd6c3be7a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T03:10:47-08:00",
+  "training_status": "very active",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "frequency": "pre-workout",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "frequency": "pre-workout",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Energy bump before very hard workouts",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Would not be able to sleep if taken at night",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Takes NAD+ and MOTS-c before very hard workouts, loves the effects. Critical of nighttime dosing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.678503Z"
+}

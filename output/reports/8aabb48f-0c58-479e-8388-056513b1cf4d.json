@@ -1,0 +1,58 @@
+{
+  "id": "8aabb48f-0c58-479e-8388-056513b1cf4d",
+  "source_id": "1refvpq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1refvpq/hgh_and_test/",
+  "author_hash": "f71d25c19afa41585d1401262ee880bc224ba0b8365c130fde8b0c7514a39815",
+  "confidence_tier": 4,
+  "date_published": "2026-02-25T07:13:45-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "dose_value": 150,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "longevity",
+      "description": "Taking it for longevity and energy, not for muscle gains",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Taking it for longevity and energy",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Had about 8 lbs of water retention at 2iu, backed down to 1iu",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "51M on TRT 150mg/week plus HGH 1iu daily. Started at 2iu but experienced water retention. Has been on protocol for approximately 1 month at time of report.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.659915Z"
+}

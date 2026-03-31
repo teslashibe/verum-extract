@@ -1,0 +1,34 @@
+{
+  "id": "2e9c6378-6768-4c3e-8376-bd92539b8e71",
+  "source_id": "1s0iqgr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s0iqgr/bpc_and_tb/",
+  "author_hash": "5b5ac0367f5552275436d255c66fad439f7efcc5a42082d1de91c735899b238e",
+  "confidence_tier": 4,
+  "date_published": "2026-03-22T03:59:36-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x daily, then reduce to once daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Notices significant improvements when using full sequence 43aa TB4, finds fragment less effective",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Recommends local injection as close to injury site as possible. Emphasizes importance of full sequence TB4 (43aa) over TB-500 fragment for efficacy. Advises continuing 500mcg twice daily until noticing changes, then reduce to once daily.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.648571Z"
+}

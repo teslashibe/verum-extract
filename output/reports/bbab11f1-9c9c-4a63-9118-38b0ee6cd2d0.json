@@ -1,0 +1,41 @@
+{
+  "id": "bbab11f1-9c9c-4a63-9118-38b0ee6cd2d0",
+  "source_id": "1qyk3n7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qyk3n7/anyone_ever_get_hypopigmentation_spots_from/",
+  "author_hash": "ba893dabb30046307ac3d1815362aca55f5f4e2cdf067a92d19550b58ae924f2",
+  "confidence_tier": 4,
+  "date_published": "2026-02-07T09:40:58-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Tanning effect",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Hypopigmented spots on shoulders and upper arms",
+      "severity": "moderate",
+      "onset_days": 14,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Daily use of Melanotan II during summer for 2 months. Stopped usage but spots remain. ChatGPT suggested 6+ months recovery time but no change observed yet.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.666269Z"
+}

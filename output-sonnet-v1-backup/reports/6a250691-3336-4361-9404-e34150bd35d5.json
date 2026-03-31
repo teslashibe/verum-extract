@@ -1,0 +1,43 @@
+{
+  "id": "6a250691-3336-4361-9404-e34150bd35d5",
+  "source_id": "1m44bjy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m44bjy/cjcipa_impact_on_sleep_quality/",
+  "author_hash": "f245827ed9b70573b603b8264f7cf42059d61e90932eef8701ebf8a8c1e26a8c",
+  "confidence_tier": 4,
+  "date_published": "2025-07-19T12:09:42-07:00",
+  "compounds": [
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IPA",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "before bed",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Deep sleep became almost non-existent, extremely restless, rapid oscillation in sleep stages, woke up feeling like hit by a truck. Repeated 3 times with same results.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "OP noted 3rd dose caused significant sleep disruption. Planning to try morning injections. Also considering stepping down dose. Normal baseline deep sleep is 1-2 hours per night.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.278581Z"
+}

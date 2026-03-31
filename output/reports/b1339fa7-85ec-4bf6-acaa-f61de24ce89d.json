@@ -1,0 +1,65 @@
+{
+  "id": "b1339fa7-85ec-4bf6-acaa-f61de24ce89d",
+  "source_id": "1r9jkny",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9jkny/tesamorelin_initial_results_after_6_weeks/",
+  "author_hash": "d762146b29aca95df4ac24675a7dc5aa76f22e61f9866fcbf915306ae3cc2ac5",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T18:46:38-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 300,
+    "unit": "lbs"
+  },
+  "training_status": "powerlifter, 6 days per week gym training, 500 lb deadlift, 1100 lb powerlifting club member",
+  "health_conditions": [
+    "obesity history",
+    "diabetes (controlled)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily before bed",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Visceral fat reduction in abdomen; gut noticeably deflated after 6 weeks despite only 5 pounds weight loss; improved ability to zip coat and perform daily activities",
+      "severity": "significant",
+      "onset_days": 30
+    },
+    {
+      "category": "body_composition",
+      "description": "Fat loss specifically from gut/visceral area rather than distributed weight loss",
+      "severity": "significant",
+      "onset_days": 30
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C",
+      "value_after": 4.7,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Fasted for at least 3 hours before injection. Also on Mounjaro (tirzepatide) prescribed. Weight loss was 250 lbs over 3 years prior to tesamorelin. Gym training for 2 years with over 600 gym sessions. Planning to reduce to 1 mg dose due to cost.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661857Z"
+}

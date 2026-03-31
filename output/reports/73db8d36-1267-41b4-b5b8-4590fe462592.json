@@ -1,0 +1,44 @@
+{
+  "id": "73db8d36-1267-41b4-b5b8-4590fe462592",
+  "source_id": "1q0mqb9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q0mqb9/chinese_hgh/",
+  "author_hash": "40255abdade3cfac2d8efe3890de8c18ab73f69496f3114225da13af1b088189",
+  "confidence_tier": 4,
+  "date_published": "2025-12-31T12:33:13-08:00",
+  "training_status": "active (bulking/cutting cycles)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 5,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Improved mood and well-being at adjusted dose",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Water retention at 5 IU; manageable at 4.5 IU",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 4
+    }
+  ],
+  "protocol_notes": "Tested 5 IU with significant water retention. Dropped to 4.5 IU for 1 month with better results. Returned to 5 IU for final week before reverting. Plans to test 6 IU in February during bulking phase. Maintenance dose planned at 3-4 IU, cut phase at 4-5 IU.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.672224Z"
+}

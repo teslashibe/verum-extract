@@ -1,0 +1,55 @@
+{
+  "id": "42f59e66-8de6-45df-aedd-fe531e8d6951",
+  "source_id": "1r01h8a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r01h8a/nad_motsc_post_injecting/",
+  "author_hash": "44a6a448b405c9b2fa9c3c701372890e9411c813f0d9a74125b06615ce1ddb8c",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T03:10:47-08:00",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mots-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Rush/flush sensation 10-15 minutes post injection, like a sugar drop but not unpleasant, not faint",
+      "severity": "mild"
+    },
+    {
+      "category": "injection_site",
+      "description": "Rash/itch at injection site from GHK-cu",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Injecting all peptides at nighttime before bed. Plans to switch NAD+ and Mots-c to morning dosing based on community feedback.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.120144Z"
+}

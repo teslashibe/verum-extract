@@ -1,0 +1,50 @@
+{
+  "id": "fba20738-2c19-40e7-b1b9-1f1086fde28d",
+  "source_id": "1r7ar7k",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r7ar7k/acne_due_to_peptides/",
+  "author_hash": "5981d6317e55d035f60d611718a6e34fdcb95d5eab220fd2ff91767c43544469",
+  "confidence_tier": 4,
+  "date_published": "2026-02-17T08:27:49-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 0.7,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "boron",
+      "name_normalized": "boron",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Acne on back, sides, and arms; some painful to touch. Appeared after lowering tesa dose and adding ipamorelin and boron.",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "OP previously used tesa at 1mg with no issues. Acne appeared when dose was lowered to 0.7mg and ipamorelin (200mcg) and boron (6mg) were added. Boron is being used to reduce SHBG/enzyme binding to testosterone.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.117225Z"
+}

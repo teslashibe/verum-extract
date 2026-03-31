@@ -1,0 +1,67 @@
+{
+  "id": "836e061a-70bd-4c8a-b62e-c8b45c3b3031",
+  "source_id": "1r18dkl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r18dkl/bulk_peptide_purchasing_question_tirz_reta/",
+  "author_hash": "d029dd8a66a27a4ab1e947e32e71df0aa72fc118873e4d703c7b288f10a49693",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T10:14:03-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "Dyskinesia after switching to tirzepatide from retatrutide; required hospitalization for approximately 1.5 weeks",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 10
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Extreme vomiting during dyskinesia episode",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 10
+    },
+    {
+      "category": "pain_relief",
+      "description": "Extreme amount of pain during dyskinesia episode",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 10
+    },
+    {
+      "category": "skin_reaction",
+      "description": "Dysesthesia - crazy skin sensations; skin felt on fire with extreme hot/cold temperature dysregulation requiring cold showers",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "appetite_change",
+      "description": "Could not eat for over a week after switching to tirzepatide",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Experienced severe adverse effects after switching from retatrutide to tirzepatide. Everything was fine on retatrutide. States dyskinesia is a known side effect of GLPs and has been reported by peptide users. References dysesthesia as another known side effect.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665289Z"
+}

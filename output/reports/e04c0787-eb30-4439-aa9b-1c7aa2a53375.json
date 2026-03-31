@@ -1,0 +1,91 @@
+{
+  "id": "e04c0787-eb30-4439-aa9b-1c7aa2a53375",
+  "source_id": "1s0xre3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s0xre3/are_there_any_stimulant_peptides/",
+  "author_hash": "770ee439c563fdb13818f8d6a01ac23a3bcadb50ce905b0353a0a236a5fbd18c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-22T14:23:43-07:00",
+  "health_conditions": [
+    "ADD",
+    "sleep disorder",
+    "anhedonia"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleeping better than had in decades",
+      "severity": "significant",
+      "onset_days": 3
+    },
+    {
+      "category": "mood",
+      "description": "Feeling excited about life",
+      "severity": "significant",
+      "onset_days": 3
+    },
+    {
+      "category": "cognitive",
+      "description": "Full of motivation and focus",
+      "severity": "significant",
+      "onset_days": 3
+    },
+    {
+      "category": "energy",
+      "description": "Stopped needing stimulant medication",
+      "severity": "significant",
+      "onset_days": 3
+    },
+    {
+      "category": "fat_loss",
+      "description": "Wanted to lose 15 pounds before spring"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "New GI reality from Tirzepatide; body adjustment period",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Ran Tirzepatide for a week first to allow body adjustment before starting CJC-1295/Ipamorelin. Previously used 'Wolverine stack' (BPC-157/TB-500) for injury healing. Currently taking methylphenidate daily for ADD but discontinued use after CJC/IPA commenced. Small doses of Tirzepatide used.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.648378Z"
+}

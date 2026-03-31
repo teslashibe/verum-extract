@@ -1,0 +1,194 @@
+{
+  "id": "e108dce4-17ad-46a2-9a6b-97104a6e56f9",
+  "source_id": "1rr6gal",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr6gal/reta_recomp_3lbs_of_lean_mass_5lbs_of_fat_in_a/",
+  "author_hash": "06360ccaaf8a36b5e206e10a38e92ad10e82c1f83d9a5e324e586c255883cf45",
+  "confidence_tier": 3,
+  "date_published": "2026-03-11T14:06:51-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 220,
+    "unit": "lbs"
+  },
+  "training_status": "former athlete, 4-5 days per week lifting with zone 2 cardio",
+  "health_conditions": [
+    "reconstructed knee",
+    "achilles tendonitis"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "every 3 days",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "intramuscular",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily loading, then 5mg daily",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5x per week",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "3x per week",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "L-Carnitine",
+      "name_normalized": "l_carnitine",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "pre-workout",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 5.3lbs of fat in phase 2 (4 weeks); visceral fat dropped 37% in 4 weeks, 49% from baseline",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Gained 3.1lbs of total lean mass, including 1.5lbs of skeletal muscle mass in 4 weeks",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Immediate appetite suppression from Retatrutide in week 1",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "energy",
+      "description": "Energy levels through the roof by week 2; highest since turning 30; felt 29 again",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "sleep",
+      "description": "Measurable sleep improvement starting week 1 of phase 2",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "recovery",
+      "description": "Nagging injuries started to feel solid; strength booming",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "body_composition",
+      "description": "Overall recomp: +3lbs lean mass, -5lbs fat in 4 weeks",
+      "severity": "significant",
+      "onset_days": 28
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Lethargy in week 1 of Retatrutide, reversed by NAD+ addition in week 3",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 14
+    },
+    {
+      "category": "fatigue",
+      "description": "SS-31 wrecked energy on day 4, resolved by day 5",
+      "severity": "moderate",
+      "onset_days": 4,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "blood_pressure",
+      "description": "Initial HRV drop from GLP-1 (Retatrutide), reversed by NAD+, stabilized after ~4 weeks",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 28
+    },
+    {
+      "category": "injection_site",
+      "description": "MOTS-c with regular hypotonic BAC water causes significant burn and welts; isotonic BAC water with 0.9% NaCl solves this",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Body Fat (inBody scan)",
+      "unit": "%",
+      "timeframe_days": 28
+    },
+    {
+      "marker_name": "Lean Mass",
+      "value_after": 3.1,
+      "unit": "lbs",
+      "timeframe_days": 28
+    },
+    {
+      "marker_name": "Skeletal Muscle Mass",
+      "value_after": 1.5,
+      "unit": "lbs",
+      "timeframe_days": 28
+    },
+    {
+      "marker_name": "Visceral Fat",
+      "unit": "%",
+      "timeframe_days": 28
+    }
+  ],
+  "protocol_notes": "Phase 1: 1mg Retatrutide week 1, bumped to 1.5mg EOD by week 3. Phase 2: Recomp stack with dose adjustment to 1mg every 3 days. Protocol includes behavioral reinforcement (self-discipline from frequent injections). High protein intake ~200g/day from mixed sources (dairy, whey, steak, chicken, fish). Training 4-5 days/week, 75-90 min sessions with supersets, daily 30-45 min zone 2 cardio, functional movement work. Increased carb intake during phase 2 (smoothies during workouts, rice, pasta on training days). Used isotonic BAC water with 0.9% NaCl for MOTS-c injection. NAD+ given as IM (not subQ) with pH buffered preparation.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.95,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.653222Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "6e5baea4-376f-4c50-b1d5-1365c533f380",
+  "source_id": "1m3bv3q",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m3bv3q/bpc157_tb500_glow_or_klow_for_ligament_and_tendon/",
+  "author_hash": "181de1bcef282875e633b9f399d755ce7207166c2db7275f30379d87ca23fa06",
+  "confidence_tier": 4,
+  "date_published": "2025-07-18T12:39:45-07:00",
+  "training_status": "powerlifter",
+  "health_conditions": [
+    "joint pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Joint pain completely resolved after 5-6 years of chronic pain. Pain free by week 4, on week 5 of protocol.",
+      "severity": "significant",
+      "onset_days": 28
+    }
+  ],
+  "protocol_notes": "User had horrible joint pain from powerlifting that lasted 5-6 years prior. Injection route specified as having higher bioavailability than oral.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.687092Z"
+}

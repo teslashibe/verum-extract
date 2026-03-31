@@ -1,0 +1,69 @@
+{
+  "id": "05a8b882-11dc-469f-b0d2-b0ac9519bb62",
+  "source_id": "1r9beod",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9beod/final_boss_mega_stack_question/",
+  "author_hash": "a9feb62354aaafbee307aa8b6925dce63791b79ba1edad271a90f2641b9a5f76",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T13:06:13-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ss-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "mots-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 25,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "AOD",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "frequency": "morning",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "sermorelin/ipa blend",
+      "name_normalized": "sermorelinipa_blend",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "frequency": "twice a week (adjusted as needed)",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "AOD gelled on third vial; stopped using AOD due to gelling issue (user fault acknowledged)",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User recommends starting SS-31 at 4mg/day for 4 weeks, then following with MOTS-C. NAD+ starting at 25mg/day working up to 50mg/day. Advises waiting on other compounds until SS-31 and MOTS-C cycles are complete. Cautions against AOD due to limited data and gelling sensitivity. Concerned 5amino1MQ requires very high (expensive) doses to be effective. User follows OMAD diet (eating window 3pm-6pm), fasted for most of the day. Takes AOD in the morning in fasted state. Did not notice hunger changes on sermorelin/IPA blend, though attributes this to Tirzepatide coverage. Notes slight reduced insulin sensitivity concern from GHRH secretagogues but not worried due to fasted state.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.116622Z"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "0b2fd9c6-f483-40dd-9e65-90d93d57403a",
+  "source_id": "1rx1kuz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx1kuz/what_are_muscle_growth_peptides_with_least_side/",
+  "author_hash": "a13f3997e3e7845ff2af404a0058e8e163138d7cfa2f16a1715ced6edfce71de",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T04:42:58-07:00",
+  "reported_sex": "male",
+  "training_status": "trained",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily pre-workout",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "mcg",
+      "frequency": "pre-workout (site injected, both sides)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and night)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Noticeably bigger with noticeable size gains in arms, quads, and chest",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Got leaner; waist shrunk",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Gained size on arms, quads, and chest while waist shrunk; questioned about being on steroids",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_before": 750,
+      "unit": "ng/dL or similar"
+    }
+  ],
+  "protocol_notes": "Lab rat study (self-reported); natural testosterone levels ~750 total; diet: 200+ g protein, 250-400 g carbs daily; IGF-1 LR3 site-injected pre-workout with intra-workout quick carbs due to insulin sensitivity; not on TRT; took measurements before and after; cycle duration not specified",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.661927Z"
+}

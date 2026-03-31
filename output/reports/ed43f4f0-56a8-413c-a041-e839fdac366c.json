@@ -1,0 +1,49 @@
+{
+  "id": "ed43f4f0-56a8-413c-a041-e839fdac366c",
+  "source_id": "1rrpxwj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rrpxwj/wegovy_reta/",
+  "author_hash": "652d733b178f7cf5fb568ea4b0ca328eddd9471873cfd0a659a8bf7ed9b6c3f7",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T05:52:50-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Cures midweek cravings when combining Reta with Wegovy",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Using both compounds for weight loss with over 100 lbs to lose",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Using brand Semaglutide (Wegovy) via insurance at $100 cost. Already taking Retatrutide consistently before Wegovy approval. Stacking: 4mg Reta on Saturday, 0.5mg Wegovy on Wednesday. No reported heart rate problems.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.653047Z"
+}

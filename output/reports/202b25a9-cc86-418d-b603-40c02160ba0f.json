@@ -1,0 +1,48 @@
+{
+  "id": "202b25a9-cc86-418d-b603-40c02160ba0f",
+  "source_id": "1rzuob8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzuob8/reta_failure/",
+  "author_hash": "8ec5455c5cec63596e3450d3bce3ac7ef5c1f88b0612ccee1289d9e443b25ccc",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T08:43:18-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 35,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "down 10 lbs without changing diet",
+      "severity": "significant",
+      "onset_days": 35
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "slight nausea after eating",
+      "severity": "mild"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "some constipation but able to pass waste without issues",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "On week 5 at 2mg weekly. Has not experienced fatigue unlike OP. Side effects are minimal and tolerable.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660279Z"
+}

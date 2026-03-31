@@ -1,0 +1,44 @@
+{
+  "id": "b8d8943d-f4b4-4bff-aa7d-dc096cf62fe5",
+  "source_id": "1no254w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1no254w/reta_admission_learn_from_my_mistakes/",
+  "author_hash": "1583c888e157da96a06c8c5df69538f9cf753ec9c2145c689b8ed21fc0ae0143",
+  "confidence_tier": 4,
+  "date_published": "2025-09-22T16:37:20-07:00",
+  "reported_sex": "female",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.4,
+      "dose_unit": "ml",
+      "frequency": "weekly",
+      "cycle_length_days": 168,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "lost 20 pounds, 10 pounds away from goal",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "unable to eat anything at initial dose of 1ml",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 21
+    }
+  ],
+  "protocol_notes": "Started at 1ml which was way too much. Took several weeks of titration to find optimal dose of 0.4ml per week. Goal weight 10lbs away. Husband on same protocol at 6ml per week lost 36 pounds.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.681021Z"
+}

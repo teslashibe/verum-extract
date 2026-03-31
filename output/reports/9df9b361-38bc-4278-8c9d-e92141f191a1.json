@@ -1,0 +1,43 @@
+{
+  "id": "9df9b361-38bc-4278-8c9d-e92141f191a1",
+  "source_id": "1nonsru",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nonsru/is_this_ok/",
+  "author_hash": "3fedf6b3fe338b8ed7640b5165c8b06faf687550b449232994186853e2823ea2",
+  "confidence_tier": 4,
+  "date_published": "2025-09-23T10:32:44-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 60,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "CJC-1295 vial became cloudy and suspended within 4 days of reconstitution; occurred with 2 out of 3 vials",
+      "severity": "significant",
+      "onset_days": 4
+    }
+  ],
+  "protocol_notes": "Reconstituted CJC-1295 2mg with 2ml bacteriostatic water in 3ml vial. Stored in fridge door in Ziploc bag wrapped in paper towel with alcohol wipes inside bag. First vial had no issues and did not include alcohol wipes. Tirzepatide 60mg mixed and stored same way with no issues. Issue appears to be related to alcohol wipes stored with CJC-1295.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.680946Z"
+}

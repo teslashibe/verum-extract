@@ -1,0 +1,75 @@
+{
+  "id": "496825a8-7371-4109-819e-cda4f7770e0c",
+  "source_id": "1r5hx4c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r5hx4c/experiences_so_far_on_reta_and_bpc_157/",
+  "author_hash": "3012da6eda702a25077fe7be10783294c70361e3e7797a39a6baac881be6100b",
+  "confidence_tier": 4,
+  "date_published": "2026-02-15T07:50:50-08:00",
+  "reported_weight": {
+    "value": 160,
+    "unit": "lbs"
+  },
+  "training_status": "recreational",
+  "health_conditions": [
+    "mild rotator cuff tear (2018)",
+    "trap strain (2022)",
+    "chronic right trap/shoulder discomfort"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 8,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ghk cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Could go a whole day without eating and be fine; biggest noticeable effect",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "90% reduction in discomfort in right trap/shoulder area after chronic issues since 2018 and 2022 injuries within one week of BPC use",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "joint_pain",
+      "description": "Reduced shoulder/trap discomfort allowing better mental engagement and harder pushing during exercise",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Started reta at 1mg, upped to 2mg after ~1 week. BPC injected subcutaneously in belly, rotating sites, not locally near injury. Stopped BPC after 8 days due to cancer risk concerns. Switched to GHK-Cu and reta combo afterward. User is 5'7\", ~15% body fat with visible 4-pack but love handles. Protocol doses calculated by friend who owns peptide company.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.118047Z"
+}

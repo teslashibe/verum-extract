@@ -1,0 +1,51 @@
+{
+  "id": "89035e0c-a818-48b2-9c90-d3127b86cf1d",
+  "source_id": "1rlf6uk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rlf6uk/combos/",
+  "author_hash": "1176643a663445c8e34a1829e8cf876f762afdce1930fef891cf4826e2fadd08",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T03:27:12-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "60+",
+  "training_status": "lifting weights a couple times a week",
+  "health_conditions": [
+    "low energy",
+    "brain fog",
+    "joint pain",
+    "weight loss plateau"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 12.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "recent blood work"
+    }
+  ],
+  "protocol_notes": "User is 60-year-old female on HRT (recently switched from testosterone cream to patch). Currently on Mounjaro 12.5 (semaglutide). Inquiring about stacking MOTS-C GLOW and AOD-9604. Goals: lose 30 lbs, gain muscle, increase energy, relieve joint pain. Caloric intake 900-1200 kcal/day with 60-75g protein. Recent weight training soreness lasting 2 days.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.656764Z"
+}

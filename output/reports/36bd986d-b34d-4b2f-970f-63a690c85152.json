@@ -1,0 +1,53 @@
+{
+  "id": "36bd986d-b34d-4b2f-970f-63a690c85152",
+  "source_id": "1s0donv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s0donv/sales_peptides/",
+  "author_hash": "899a6cb5b9c006fb68edacde50eb6d49116670c05a8f65e39a83cd04732dafcd",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T22:44:40-07:00",
+  "training_status": "sales worker",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "mental clarity and cognitive function",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "increased mental stamina",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "energy boost",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "In sales; uses Semax and Selank together; mentions MOTS-c as alternative",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.659903Z"
+}

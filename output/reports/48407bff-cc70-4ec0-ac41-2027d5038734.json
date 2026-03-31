@@ -1,0 +1,50 @@
+{
+  "id": "48407bff-cc70-4ec0-ac41-2027d5038734",
+  "source_id": "1qidto9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qidto9/realistically_how_effective_would_it_be_to_add/",
+  "author_hash": "50e6d45fa78d914436edcc505397f1b0fc650c3c2df4745359f5647c79b8ac6d",
+  "confidence_tier": 4,
+  "date_published": "2026-01-20T13:16:55-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 150 lbs in a year",
+      "severity": "significant",
+      "onset_days": 365
+    },
+    {
+      "category": "body_composition",
+      "description": "Lean mass increase on DEXA scans",
+      "severity": "significant",
+      "onset_days": 365
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Lean mass (DEXA)",
+      "timeframe_days": 365
+    }
+  ],
+  "protocol_notes": "Washed out Tesamorelin for the entire last month to confirm lean mass increase was not from Tesa water weight. Used DEXA scans to track body composition.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.683711Z"
+}

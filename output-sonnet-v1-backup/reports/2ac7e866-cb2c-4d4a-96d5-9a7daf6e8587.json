@@ -1,0 +1,41 @@
+{
+  "id": "2ac7e866-cb2c-4d4a-96d5-9a7daf6e8587",
+  "source_id": "na2a95",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/na2a95/my_dad_65_wants_to_know_the_best_peptides_for/",
+  "author_hash": "3bc2988e272be72e65b5bf23cba07e9b128269c83bf1c832aba86419f4b9272e",
+  "confidence_tier": 3,
+  "date_published": "2021-05-11T10:22:11-07:00",
+  "health_conditions": [
+    "gut issues acquired while on vacation in Mexico",
+    "low testosterone"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Been sick for about a year with gut issues, finally starting to feel better on BPC157",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_before": 350,
+      "value_after": 1500
+    }
+  ],
+  "protocol_notes": "Uses testosterone pellets; testosterone level went from 350 to 1500. Using BPC157 for gut issues picked up on vacation. Also takes niacin 500mg 3x daily for cholesterol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.430251Z"
+}

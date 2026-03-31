@@ -1,0 +1,52 @@
+{
+  "id": "a3d3a535-1d16-431d-9fed-dc78d9ae1314",
+  "source_id": "1qt5m91",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qt5m91/tirz_has_been_amazing_for_weight_loss_but_i_want/",
+  "author_hash": "3d786331454dfb0148c2e3e0eeab7707be00d137f3375c084bf3856a8ee0de21",
+  "confidence_tier": 4,
+  "date_published": "2026-02-01T10:02:19-08:00",
+  "training_status": "Cutting while maintaining/building muscle",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 300,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tren a",
+      "name_normalized": "tren",
+      "category": "other",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 4,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Still packing on muscle even while cutting",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "States levels are low enough to minimise side effects. Currently running this stack while cutting.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.122437Z"
+}

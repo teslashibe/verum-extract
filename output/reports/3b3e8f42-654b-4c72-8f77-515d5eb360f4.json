@@ -1,0 +1,36 @@
+{
+  "id": "3b3e8f42-654b-4c72-8f77-515d5eb360f4",
+  "source_id": "1ri3lcs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ri3lcs/ghkcu_stinging_stopped_suddenly_4_weeks_after/",
+  "author_hash": "0620e02b5d2353806333548fa51e8e34036ca702a613d6b315b7722df05518b0",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T09:42:25-08:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "3x weekly, then daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Stinging sensation at injection site that subsided after 3 days of daily dosing",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 3
+    }
+  ],
+  "protocol_notes": "Started with 2 mg three times per week for four weeks. Changed to daily injections six days prior to post. Initial stinging resolved within three days of new protocol.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.670279Z"
+}

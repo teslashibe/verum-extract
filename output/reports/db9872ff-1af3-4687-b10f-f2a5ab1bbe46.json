@@ -1,0 +1,74 @@
+{
+  "id": "db9872ff-1af3-4687-b10f-f2a5ab1bbe46",
+  "source_id": "1s7pvyv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s7pvyv/bpc157_and_tb500_length_of_use/",
+  "author_hash": "c928fe15db48a7845f1cb08f6e842796e6197a39ca7239ad4b7670929b57062a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-30T06:00:04-07:00",
+  "reported_age_range": "40-49",
+  "training_status": "active training, body recomposition phase",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "1x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.3,
+      "dose_unit": "mcg",
+      "frequency": "1x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "frequency": "seasonal",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Better sleep",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Faster workout and injury recovery",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Additional fat burning",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Easier lean muscle gains",
+      "severity": "moderate"
+    },
+    {
+      "category": "immune",
+      "description": "Intense immune support, works for viral and bacterial infections",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "During body recomposition phase: 2mg Tesamorelin + 0.3mcg Ipamorelin daily, fasted right before bed. Currently at maintenance: 1mg Tesamorelin + 0.25mcg Ipamorelin per day. Thymosin Alpha-1 run for 2 weeks in fall at beginning of flu season and in spring. Effects of Thymosin Alpha-1 persist 4-6 weeks after cycle. Keeps emergency vial of Thymosin Alpha-1 in freezer to use when feeling ill. Stacks different GHRH receptors. User is in later 40s, sought longevity-focused approach.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.644827Z"
+}

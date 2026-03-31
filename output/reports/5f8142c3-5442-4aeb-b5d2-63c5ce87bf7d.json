@@ -1,0 +1,60 @@
+{
+  "id": "5f8142c3-5442-4aeb-b5d2-63c5ce87bf7d",
+  "source_id": "1rayuvi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rayuvi/look_for_libido_boost_help/",
+  "author_hash": "f6bd9a1b6d6c87dab0b223a71612f9218c6419fd332a74e705071cf3da0d373d",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T10:39:16-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "30-39",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "route": "nasal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Kisspeptin",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "route": "subcutaneous",
+      "dose_value": 0.1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Oxytocin",
+      "name_normalized": "oxytocin",
+      "category": "hormonal",
+      "route": "subcutaneous",
+      "dose_value": 33,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "libido",
+      "description": "Seeking libido boost"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Brain felt like it was going to explode, felt very hot for about 3 minutes after taking kisspeptin and oxytocin",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    }
+  ],
+  "protocol_notes": "OP has 10mg kisspeptin in 3ml bac water and oxytocin in similar preparation. Considering switching PT-141 from nasal to subcutaneous route due to low bioavailability of nasal form. BMI is 21. Previously lost significant weight (5 stone/70 lbs 2 years ago) without libido improvement. Considering menstrual cycle effects on dosing.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661588Z"
+}

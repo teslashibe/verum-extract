@@ -1,0 +1,61 @@
+{
+  "id": "ecd53174-4fd7-4e23-8ca6-8fa6f09b0692",
+  "source_id": "1jx2g8e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jx2g8e/tesamorelin_with_hgh/",
+  "author_hash": "18aafa3fe68ee921af23ec161fe95acc297cd1329d379d42572b4d44b1fefa1a",
+  "confidence_tier": 4,
+  "date_published": "2025-04-11T15:27:56-07:00",
+  "training_status": "Locked in with diet, training and hormones",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "growth",
+      "name_normalized": "growth",
+      "category": "other",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Extremely noticeable visceral fat loss at 2 IU HGH within a month; Reta resolved any water retention and further improved body composition",
+      "severity": "significant",
+      "onset_days": 30
+    },
+    {
+      "category": "skin",
+      "description": "Face leaned out and looked about 10 years younger once induction water came off",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Water retention during HGH induction phase, held in chin area, described as subQ not intramuscular",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Reta caused no water retention anywhere, leading to no pump and flat muscles",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Notes that water retention upon starting HGH or increasing dose typically lasts a couple of weeks but is variable. Emphasizes that being dialed in on diet, training, and hormones allows clear tracking of variables.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.286034Z"
+}

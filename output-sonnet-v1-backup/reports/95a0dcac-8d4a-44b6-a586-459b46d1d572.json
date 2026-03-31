@@ -1,0 +1,78 @@
+{
+  "id": "95a0dcac-8d4a-44b6-a586-459b46d1d572",
+  "source_id": "1fu7ef3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fu7ef3/ghkcu_unexpected_success_story_in_just_9_days/",
+  "author_hash": "f3f025bc43ca4140fc6380f500fffeeb731457259e5a9500796763043859da59",
+  "confidence_tier": 4,
+  "date_published": "2024-10-01T20:52:29-07:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "dry skin",
+    "rough dry patch on right shoulder (red, peeling)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "cycle_length_days": 9,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.6,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "cycle_length_days": 9,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 3.1,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "cycle_length_days": 9,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Chronic dry, rough, reddish peeling patch on right shoulder completely resolved after 9 days",
+      "severity": "significant",
+      "onset_days": 9
+    },
+    {
+      "category": "skin",
+      "description": "Face skin became oily where it was previously dry; perceived as improvement by wife",
+      "severity": "mild",
+      "onset_days": 9
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Burning and itching at injection site lasting 36 hours; partially resolved by significantly diluting the solution and splitting into two injection sites and halving the dose",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Used a ready-made blend vial from a supplier containing BPC-157 (8 mg total), TB-500 (10 mg total), and GHK-Cu (50 mg total). Injected subcutaneously into love handles. Initially injected full dose in a single site; eventually switched to splitting dose across 2x 0.3 ml injections at two sites to reduce injection site reaction. Dose was temporarily halved (0.25 mg BPC + 0.3 mg TB + 1.6 mg GHK-Cu) during the reaction troubleshooting period. Tried cetirizine HCl, hydrocortisone cream, fluticasone spray, and massage with minimal effect on injection site reaction.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.290339Z"
+}

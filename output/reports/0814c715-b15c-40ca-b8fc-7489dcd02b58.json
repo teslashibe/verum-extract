@@ -1,0 +1,45 @@
+{
+  "id": "0814c715-b15c-40ca-b8fc-7489dcd02b58",
+  "source_id": "1bpsf65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bpsf65/semaglutide_is_amazing/",
+  "author_hash": "74af5ee5f4f151ffe84dcfa7c92096cd04bcce9e93c8d4b3a0fe02e00d2549d3",
+  "confidence_tier": 4,
+  "date_published": "2024-03-28T03:39:16-07:00",
+  "health_conditions": [
+    "binge eating",
+    "emotional eating"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "5-HTP",
+      "name_normalized": "5_htp",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "No longer cares about fatty/bad foods",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Mood leveled out, stopped emotional comfort seeking behavior towards food",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Semaglutide combined with 5-HTP. User notes sema reduced food intake but 5-HTP stopped emotional comfort seeking behavior. Combination described as amazing for appetite control.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698185Z"
+}

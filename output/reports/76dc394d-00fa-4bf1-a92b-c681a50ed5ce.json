@@ -1,0 +1,42 @@
+{
+  "id": "76dc394d-00fa-4bf1-a92b-c681a50ed5ce",
+  "source_id": "1kucco8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kucco8/contamination_problem_please_help/",
+  "author_hash": "a6fed33920936cb9e0e5ab2d3f8013c3bd107d49378bce06d058a097bad7eabd",
+  "confidence_tier": 5,
+  "date_published": "2025-05-24T07:02:33-07:00",
+  "health_conditions": [
+    "Long COVID"
+  ],
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Brownish particles observed in reconstituted SS-31 solution - possible contamination",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "Ordered peptides from China supplier claiming third-party Jano testing. Reconstituted 50mg SS-31 vial with 3ml BAC water. Supplier only tested 10mg SS-31 vials, not 50mg batch. No batch number provided by supplier, only manufacture and expiration dates. Intended use for Long COVID condition.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.69061Z"
+}

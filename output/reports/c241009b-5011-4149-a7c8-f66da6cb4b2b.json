@@ -1,0 +1,35 @@
+{
+  "id": "c241009b-5011-4149-a7c8-f66da6cb4b2b",
+  "source_id": "1pzz0nu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pzz0nu/ghk_cu_what_is_happening/",
+  "author_hash": "cb26e0442d415d74c37a2a1e895da004e31296d6a6b0f0ed99389af5d0a9f648",
+  "confidence_tier": 4,
+  "date_published": "2025-12-30T16:45:37-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "pain_relief",
+      "description": "Strong internal pain localized to injection side, started 3 hours post-injection",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "First injection in abdomen. Injection site showed no external swelling or redness, puncture mark became paler over time. User reported stopping usage after trying multiple injection sites (abdomen, love handles) without resolution.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.672437Z"
+}

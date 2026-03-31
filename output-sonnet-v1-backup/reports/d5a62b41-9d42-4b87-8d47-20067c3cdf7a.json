@@ -1,0 +1,31 @@
+{
+  "id": "d5a62b41-9d42-4b87-8d47-20067c3cdf7a",
+  "source_id": "1b7mwv8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1b7mwv8/how_many_of_you_have_experienced_permanent/",
+  "author_hash": "6d2e1592c78a16668418896724b67364f8215ea25bfc618a2cb0842cc30adddd",
+  "confidence_tier": 5,
+  "date_published": "2024-03-05T17:28:54-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "semaglutide/tirzepatide (implied)",
+      "name_normalized": "semaglutidetirzepatide_implied",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "GI issues manageable with hydration, fiber supplements, magnesium citrate; ensures daily bowel movement",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Recommends hydration and fiber supplements to manage GI side effects; bowel movement every day is key",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294499Z"
+}

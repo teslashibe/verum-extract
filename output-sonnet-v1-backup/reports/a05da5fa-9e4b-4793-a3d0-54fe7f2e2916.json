@@ -1,0 +1,40 @@
+{
+  "id": "a05da5fa-9e4b-4793-a3d0-54fe7f2e2916",
+  "source_id": "1c8ax9s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1c8ax9s/bpc_157_overdose/",
+  "author_hash": "b117e0c749a6034766ebb9202670c054844aba1733597b0057e528198af14012",
+  "confidence_tier": 4,
+  "date_published": "2024-04-19T16:12:19-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Felt great on 2mg/day every day for weeks",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Potentially waking up after four hours of sleep, possibly related to tryptophan or BPC-157 serotonin interaction",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Takes tryptophan nightly to ward off potential anhedonia from BPC-157. Also mentions concern about serotonin interactions at larger doses.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.293504Z"
+}

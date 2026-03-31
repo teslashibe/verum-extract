@@ -1,0 +1,65 @@
+{
+  "compound_id": "ipa_ipamorelin",
+  "display_name": "IPA (Ipamorelin)",
+  "category": "other",
+  "total_reports": 2,
+  "reports_by_tier": {
+    "4": 1,
+    "5": 1
+  },
+  "top_benefits": [
+    {
+      "category": "muscle_gain",
+      "count": 2,
+      "pct": 200
+    },
+    {
+      "category": "energy",
+      "count": 1,
+      "pct": 100
+    },
+    {
+      "category": "recovery",
+      "count": 1,
+      "pct": 100
+    }
+  ],
+  "top_side_effects": null,
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "cjc_no_dac",
+      "display_name": "CJC no dac",
+      "report_count": 1
+    },
+    {
+      "compound_id": "oxytocin_nasal_spray",
+      "display_name": "oxytocin nasal spray",
+      "report_count": 1
+    },
+    {
+      "compound_id": "cgp",
+      "display_name": "CJC",
+      "report_count": 1
+    },
+    {
+      "compound_id": "sermorelin",
+      "display_name": "Sermorelin",
+      "report_count": 1
+    },
+    {
+      "compound_id": "cjc_with_dac",
+      "display_name": "CJC with DAC",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.625,
+  "sentiment_breakdown": {
+    "positive": 1,
+    "mixed": 0,
+    "negative": 0,
+    "neutral": 1
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.968623Z"
+}

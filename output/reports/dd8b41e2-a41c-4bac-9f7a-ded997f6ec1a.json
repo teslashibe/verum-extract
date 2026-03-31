@@ -1,0 +1,123 @@
+{
+  "id": "dd8b41e2-a41c-4bac-9f7a-ded997f6ec1a",
+  "source_id": "1rqc57z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rqc57z/can_agerelated_myopia_be_improved_with_peptides/",
+  "author_hash": "1f5af1b5b5f9f895cea0dc74d8dfd474ad24caa863c8cf604b4c9dec9b3a5b28",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T15:45:23-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "myopia"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ARA-290",
+      "name_normalized": "ara_290",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Vesugen",
+      "name_normalized": "vesugen",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "vision",
+      "description": "Prescription improved from -1.75 in each eye to -1.25",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Decreased need for glasses over time",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "headache",
+      "description": "Getting headaches that required glasses removal",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "eye prescription",
+      "value_before": -1.75,
+      "value_after": -1.25,
+      "unit": "diopters",
+      "timeframe_days": 730
+    }
+  ],
+  "protocol_notes": "Multiple peptides taken in various combinations over 2 years. Also used red light therapy panel at least weekly. User was not specifically tracking eye improvement; discovered vision improvement during routine eye exam.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.665916Z"
+}

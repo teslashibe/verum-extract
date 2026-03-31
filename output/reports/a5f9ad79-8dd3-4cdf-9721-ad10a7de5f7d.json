@@ -1,0 +1,83 @@
+{
+  "id": "a5f9ad79-8dd3-4cdf-9721-ad10a7de5f7d",
+  "source_id": "1k6h11a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k6h11a/ok_i_was_a_doubter_week_6_just_started_and_holy/",
+  "author_hash": "1b3ca6b9bc31c2ef72bb05c1ff3fa9f5cb11b7ad1f298f9a8f53f212bf9724f0",
+  "confidence_tier": 4,
+  "date_published": "2025-04-23T19:14:32-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "19 years of workout experience",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Getting lean and building muscle",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Huge pumps, lots of energy from IGF1-LR3",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Going to the toilet about six times a day",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Age 40, 19 years workout experience. Stack includes BPC, CJC-IPA blend, Tesamorelin, Test Cyp (testosterone), and IGF1-LR3. Added IGF1-LR3 after one month on other compounds. Notes difficulty building muscle at older age despite being dedicated.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.692134Z"
+}

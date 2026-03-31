@@ -1,0 +1,110 @@
+{
+  "id": "80d2ea53-e243-4230-ac59-11be74a432fd",
+  "source_id": "1luc8d8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1luc8d8/bpc157_absolutely_healed_my_brain_from_most_drug/",
+  "author_hash": "32fe917037faf96b17ca55d95ca3954fc7d424d6b740b48df54f021721077b16",
+  "confidence_tier": 4,
+  "date_published": "2025-07-07T18:39:31-07:00",
+  "health_conditions": [
+    "amphetamine abuse/dependence",
+    "ADHD",
+    "GERD",
+    "chronic pain (minor)",
+    "restless leg syndrome",
+    "schizophrenia (implied by psychiatric medication)",
+    "psychiatric comorbidities"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "circuprime",
+      "name_normalized": "circuprime",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Significant improvement in cognitive function and ability to focus without high-dose amphetamines; felt 70% back to normal by end of cycle",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "gut_health",
+      "description": "GERD fully resolved by end of 4-week cycle",
+      "severity": "significant",
+      "onset_days": 28
+    },
+    {
+      "category": "sleep",
+      "description": "Sleeping better during BPC cycle",
+      "severity": "moderate"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Minor chronic pain began to go away",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "other",
+      "description": "Restless leg syndrome symptoms began to go away",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "other",
+      "description": "Amphetamine tolerance dramatically reduced; 40mg Adderall felt equivalent to previous 160mg dose",
+      "severity": "significant",
+      "onset_days": 28
+    },
+    {
+      "category": "mood",
+      "description": "Able to cut psychiatric medication dosage in half without negative effects; feeling much better on lower dose",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Able to get out of bed and do work with BPC and nootropics alone",
+      "severity": "significant",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "BPC-157 taken in arginate salt form orally. Also ran selank and semax for 2 weeks concurrently while lowering psychiatric medication dosage. Quit Adderall entirely during the BPC cycle. Reports labs being ordered by psychiatrist to monitor health markers. Took Adderall (70-80mg XR+IR) as a test near end of cycle and went into psychosis, interpreted as evidence of brain healing. Followed by 40mg IR which felt equivalent to previous 160mg dose.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.279697Z"
+}

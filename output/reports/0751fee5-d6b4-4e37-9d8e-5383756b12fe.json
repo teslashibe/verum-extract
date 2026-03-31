@@ -1,0 +1,102 @@
+{
+  "id": "0751fee5-d6b4-4e37-9d8e-5383756b12fe",
+  "source_id": "1qt5m91",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qt5m91/tirz_has_been_amazing_for_weight_loss_but_i_want/",
+  "author_hash": "deabb6c5456eddbd8f1b6054051986b32a06cb5065a82f138e0af2c521810e41",
+  "confidence_tier": 4,
+  "date_published": "2026-02-01T10:02:19-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "naturally low testosterone at 220"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 215 pounds total",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Added significant muscle mass; gets comments about being jacked",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "More drive and positive attitude",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Better progressive overload capacity in training",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "libido_change",
+      "description": "Out of control libido in first few weeks that borderline got user in trouble",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "joint_pain",
+      "description": "Tesamorelin led to carpal tunnel, had to discontinue",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_before": 220,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "At age 41, user had naturally low testosterone. TRT protocol on legit dosage described as life-changing. Tesamorelin discontinued due to carpal tunnel. Low-dose HGH 2IU daily has not shown clear benefit yet. MOTS-c showed no subjective effects. User notes addictive personality and tendency to want to push testosterone too much, but is staying on legitimate TRT dosage. No negative health effects from TRT reported so far. Considering skin removal surgery.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.681438Z"
+}

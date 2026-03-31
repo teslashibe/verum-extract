@@ -1,0 +1,38 @@
+{
+  "id": "42dbe649-630f-4116-934d-16bc6413d5a4",
+  "source_id": "1r0oxac",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r0oxac/best_peptide_for_depressive_episodes/",
+  "author_hash": "b34c0ea52b5c244446e54fbb850325448ceb64d53a77189952a56f771af534e9",
+  "confidence_tier": 5,
+  "date_published": "2026-02-09T18:47:45-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "Semax good for depression, both Semax and Epitalon boost BDNF"
+    }
+  ],
+  "protocol_notes": "Recommends Semax at 500 mcg/day for depression, Epitalon also suggested. Notes wait between cycles. Selank for anxiety. Mechanism cited as BDNF boost similar to ketamine.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.119878Z"
+}

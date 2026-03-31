@@ -1,0 +1,41 @@
+{
+  "id": "d54ad204-d544-4142-b695-68d5d047b196",
+  "source_id": "1s3p6qw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3p6qw/anhedonia_from_bpc157_at_lower_dosages/",
+  "author_hash": "0f12258159c2cf3433e65c47975293a1665a96d7fcae513adb9e0f7ac6ed0747",
+  "confidence_tier": 5,
+  "date_published": "2026-03-25T15:15:12-07:00",
+  "health_conditions": [
+    "anxiety"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Anhedonia - feeling blah",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User is on 6 peptides total; unsure if anhedonia is from BPC-157, Selank, or edibles taken nightly. Recently increased Selank dose.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.657955Z"
+}

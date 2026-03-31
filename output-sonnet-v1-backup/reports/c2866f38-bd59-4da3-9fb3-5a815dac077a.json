@@ -1,0 +1,51 @@
+{
+  "id": "c2866f38-bd59-4da3-9fb3-5a815dac077a",
+  "source_id": "1p4e598",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p4e598/concerns_about_glow_peptide/",
+  "author_hash": "68053bdf3ec375408e1fddf794516d643f275ccc48e694e788a68d4e17166cd8",
+  "confidence_tier": 5,
+  "date_published": "2025-11-22T21:02:00-08:00",
+  "health_conditions": [
+    "joint problems (knees and shoulders)",
+    "poor skin health"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Ghk-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Bpc-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tb-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Doctor-prescribed GLOW blend. Only on 2nd pin at time of posting. Concerned about GHK-Cu being above typical recommendations and BPC-157/TB-500 being underdosed. Primary goals are joint health (knees and shoulders) and skin health.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.263902Z"
+}

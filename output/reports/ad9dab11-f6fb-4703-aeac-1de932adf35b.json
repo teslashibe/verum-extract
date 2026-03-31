@@ -1,0 +1,65 @@
+{
+  "id": "ad9dab11-f6fb-4703-aeac-1de932adf35b",
+  "source_id": "1rsqa3b",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rsqa3b/i_think_the_general_public_is_overcomplicating/",
+  "author_hash": "850bd9af1b80dc3a55c95b96191c1275bdad3e00018019215a21ec9e294a274c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-13T08:23:05-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Reduced ruddy complexion, skin color normalized, clearing of red bumps on upper arms",
+      "severity": "moderate"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Aesthetic improvements with GHK-Cu",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Completed first vial of GHK-Cu. Uses Tirzepatide from doctor. Planning to use GHK, BPC, and GLP-1s as primary compounds. Considers Retatrutide once available through doctor. Has large amounts of GLOW (likely growth hormone or similar) for injury use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.664562Z"
+}

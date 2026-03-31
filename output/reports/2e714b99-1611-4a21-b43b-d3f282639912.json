@@ -1,0 +1,111 @@
+{
+  "id": "2e714b99-1611-4a21-b43b-d3f282639912",
+  "source_id": "1eg1r9i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1eg1r9i/hit_15mg_tirz_what_now/",
+  "author_hash": "191c31d0c9f70aac255e4dd1bb600b1ac253d8a13a5257b40dd21fcfb09cfd38",
+  "confidence_tier": 4,
+  "date_published": "2024-07-30T12:07:28-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 185,
+    "unit": "lbs"
+  },
+  "training_status": "very active - consistent lifting splits, cardio, nutrition and recovery protocol for ~2 years",
+  "health_conditions": [
+    "IBS"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "frequency": "weekly (escalated to every 5 days at max dose)",
+      "cycle_length_days": 365,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 160,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Primobolan",
+      "name_normalized": "primobolan",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 60,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Allows perfectly hitting macros daily without hunger; eating like a robot",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Shredded physique achieved; stayed leaner when on medication",
+      "severity": "significant"
+    },
+    {
+      "category": "gut_health",
+      "description": "Cured ongoing IBS issues; resolved bloating and gas; able to expand food variety without IBS flare-ups",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Curbed alcohol cravings",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Improved sleep by reducing restlessness from carb cravings",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Nausea at higher doses interfered with ability to eat",
+      "severity": "moderate"
+    },
+    {
+      "category": "tolerance",
+      "description": "High tolerance developed; each dose increment only lasted 4-6 weeks before requiring escalation; started injecting every 5 days instead of weekly",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started at 2.5mg, titrated up by 2.5mg increments. Each dose effective for 4-6 weeks before tolerance required escalation. Reached 15mg after ~12 months. Also implemented diet changes based on ALCAT testing via naturopath ~2 years ago. Not prescribed; purchased online. Goal was to get shredded for 40th birthday. Height 5'9\". Took 2-3 week breaks from Tirz but felt better and stayed leaner when on it.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696922Z"
+}

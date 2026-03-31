@@ -1,0 +1,62 @@
+{
+  "id": "5488464f-8c02-494f-abc2-f6e75cfe4af1",
+  "source_id": "1rfvjiw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rfvjiw/moving_from_low_dose_tirzepatide_to_retatrutide/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-02-26T19:23:59-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped 9lbs during 6 weeks on Tirzepatide",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Hunger completely gone, could easily go 36hrs without desiring food",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "dry_mouth",
+      "description": "Slight dry mouth",
+      "severity": "mild"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Very mild constipation",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Compounded Tirzepatide from telehealth clinic. Considering transition protocol to Retatrutide. Significant muscle loss noted during Tirzepatide phase. Difficulty maintaining protein intake due to appetite suppression.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.671488Z"
+}

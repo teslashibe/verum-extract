@@ -1,0 +1,51 @@
+{
+  "id": "0563fbfd-7222-429f-b633-079ca2934325",
+  "source_id": "1s22e2o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s22e2o/klow_question/",
+  "author_hash": "c7d765199185f67814553fad24fd1a5fa33777bcc28d4c7add54d519a8c95729",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T20:06:00-07:00",
+  "health_conditions": [
+    "old injuries"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "5 days on 2 days off",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Started protocol to heal old injuries and improve health"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Wasp sting-like mild discomfort immediately after injection, progressing to significant pain over 16 hours. Bruising, swelling, and itching at injection site. Pain increases at steady rate and prevents sleep. Tried multiple injection sites (love handles, upper glute).",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": false
+    },
+    {
+      "category": "pain_relief",
+      "description": "Flu-like aching sensation in injection area (described as hip area pain)",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "KLOW blend (4mg total, which breaks down to 2.5mg GHK-Cu). Injecting every day after initially trying 5 days on 2 days off protocol. Reporting allergic-like reaction rather than typical post-injection pain. Already taking Zyrtec daily for allergies; planning to add additional antihistamine dose before injection. Unclear if blend contains other peptides beyond GHK-Cu.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.647564Z"
+}

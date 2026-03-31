@@ -1,0 +1,63 @@
+{
+  "id": "25e6966a-557d-49cf-9ea6-e3b392da7df0",
+  "source_id": "1qqf4e9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqf4e9/whats_the_best_peptide_for_fatigue_and_depression/",
+  "author_hash": "26b8108158ce8c9a119202bbc5b2227a59b0720e42eb7bfdf5b087b9cc840564",
+  "confidence_tier": 4,
+  "date_published": "2026-01-29T09:33:00-08:00",
+  "training_status": "active (previously very active, currently reduced)",
+  "health_conditions": [
+    "fatigue",
+    "depression",
+    "anhedonia"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss of 6 lbs",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "Improves sleep, enables going to bed at night and waking at decent hour, clocking 6-8 hours",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Little to no energy, very difficult to muster strength to even go for a walk; previously very active",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "mood_change",
+      "description": "Mood affected, depression and anhedonia; was previously a happy person",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "User reports taking 0.5 mg retatrutide after reducing from higher dose. Tried discontinuing for weeks to clear system, regained 6 lbs, then resumed at extremely low dose. Diet includes eggs, chicken, bagels, iced coffee, daily sweet treat. Eating mostly carbs. User describes having adequate calorie intake for body size.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.682439Z"
+}

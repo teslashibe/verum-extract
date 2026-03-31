@@ -1,0 +1,50 @@
+{
+  "id": "0748feed-58aa-4037-af76-866790bec244",
+  "source_id": "1imsetr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1imsetr/anyone_on_carnivore_using_sermorelin/",
+  "author_hash": "08d2f55ad26b358b169a5100a4c7f9706ff19f4f4b164249c1b3a50a38575492",
+  "confidence_tier": 3,
+  "date_published": "2025-02-10T22:31:42-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipa/Tesa",
+      "name_normalized": "ipatesa",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Fat melts off quick on PSMF diet; does a short stint once a year to stay lean",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep is terrible while on PSMF diet with Ipa/Tesa",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Everything is terrible (general malaise) while on PSMF diet; attributes to diet rather than peptides",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 230,
+      "value_after": 127,
+      "unit": "ng/mL"
+    }
+  ],
+  "protocol_notes": "Currently on PSMF diet (2% of macros from carbs, calorie deficit, predominantly protein). IGF-1 confirmed low via bloodwork at 127 ng/mL while on PSMF + Ipa/Tesa. Baseline natty IGF-1 was 230 ng/mL with no calorie deficit and 40% carbs. Believes low insulin from low-carb diet suppresses IGF-1 production in liver, reducing effectiveness of GH secretagogues. Does PSMF once a year short-term to stay lean.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.288016Z"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "36070c68-6b59-4bd9-a327-dd838acbca89",
+  "source_id": "1aryspf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1aryspf/first_time_running_bpc_and_tb/",
+  "author_hash": "3efae1ff7bbe87d4020395375ec3fbd28518a13d0b9feddf943d8c9dcea193b9",
+  "confidence_tier": 4,
+  "date_published": "2024-02-15T19:33:05-08:00",
+  "training_status": "active gym-goer",
+  "health_conditions": [
+    "shoulder injury/tightness"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 750,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Shoulder tightness improved significantly after 1 week. Incline chest press increased from 30 lbs back up to 65 lbs (from normal 70s). Pain previously preventing heavier lifting was greatly reduced.",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "recovery",
+      "description": "Recovered from workout by the time leaving the gym",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Started with lower doses first day (250mcg BPC / 750mcg TB) to assess reaction, then increased to 500mcg BPC 2x daily and 750mcg TB 2x daily. BPC vial was 15mg reconstituted with 3ml BAC water; TB vial was 10mg reconstituted with 2ml BAC water. Planned 3-week cycle with a break afterward. Notes high-end dosing acknowledged.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294793Z"
+}

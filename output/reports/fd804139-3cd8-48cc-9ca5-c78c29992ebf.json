@@ -1,0 +1,45 @@
+{
+  "id": "fd804139-3cd8-48cc-9ca5-c78c29992ebf",
+  "source_id": "1fc20k7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fc20k7/tesaipa_amazing_benefits_after_1_week/",
+  "author_hash": "e4fca7e996acb8c8eee8dd8be363abc21506286a8ecec74255d0716975d7828d",
+  "confidence_tier": 4,
+  "date_published": "2024-09-08T09:36:29-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "evening dose interfered with sleep, switched to single morning dose",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Ran Tesamorelin/Ipamorelin for multiple cycles. 2mg/400mcg was sweet spot. Initially pinned split twice daily (morning and evening) but evening dose caused sleep interference. Switched to single morning (AM) injection which resolved sleep issues. Reports running for 10-week cycles.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.413794Z"
+}

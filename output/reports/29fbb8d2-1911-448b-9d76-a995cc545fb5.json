@@ -1,0 +1,46 @@
+{
+  "id": "29fbb8d2-1911-448b-9d76-a995cc545fb5",
+  "source_id": "1r0k3m0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r0k3m0/glp1_receptors_are_everywhere_in_your_body_not/",
+  "author_hash": "d4869989e1cafd83f3e1f15e1ce8cccfe74070cd81dad881447c263dc723b74a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T15:19:37-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Tirzepatide found to be better for weight loss than semaglutide",
+      "severity": "significant"
+    },
+    {
+      "category": "inflammation",
+      "description": "Tirzepatide better for inflammation",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "Tirzepatide produces a zen-like quality with less frustration with little annoyances",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Tried both semaglutide and tirzepatide. Found tirzepatide superior.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665662Z"
+}

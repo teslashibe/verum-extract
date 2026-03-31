@@ -1,0 +1,79 @@
+{
+  "id": "f920af4d-6f15-4095-ac07-c6bdd3acd407",
+  "source_id": "1pkspf9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pkspf9/51_male_on_trt_thoughts_on_ipa_and_reta/",
+  "author_hash": "893c79c413f38c876a37b5e27fb94e67276de778092d457648db195cd6c3be7a",
+  "confidence_tier": 4,
+  "date_published": "2025-12-12T06:05:10-08:00",
+  "reported_sex": "male",
+  "training_status": "active",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "5 days per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "5 days per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "2 days per week",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Retatrutide and Tirzepatide strip down to desired weight",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Better results with IPA/Tesa/HGH combination than HGH alone",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "HCG filled in gaps after 2 years on testosterone alone",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "weight_change",
+      "description": "Straight HGH resulted in 14 lbs gained in 16 days",
+      "severity": "significant",
+      "onset_days": 16
+    }
+  ],
+  "protocol_notes": "Same build as OP (6' 210lbs). Uses 5 days IPA/Tesa, 2 days HGH protocol. When running straight HGH at 2iu (4iu 2 days per week), found it was horrible and put on too much weight too quickly. HCG was a god send after being on Test alone for 2 years.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.674658Z"
+}

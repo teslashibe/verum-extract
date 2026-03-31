@@ -1,0 +1,110 @@
+{
+  "id": "7f80de5e-615c-4e98-96b7-f6a2e7812c18",
+  "source_id": "1qrprge",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qrprge/submitting_my_protocol_for_feedback/",
+  "author_hash": "3ef17895290c565df28c2276544170ac3860615d1fb14f4d7dabd40aaf280ae1",
+  "confidence_tier": 4,
+  "date_published": "2026-01-30T18:20:44-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 183,
+    "unit": "lbs"
+  },
+  "training_status": "Tonal workouts 3-6 times per week, ~40 minutes per session, currently 4x/week. Daily 500 calorie deficit. Logs food religiously.",
+  "health_conditions": [
+    "tennis elbow",
+    "skin laxity related to age",
+    "age-related symptoms"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 8,
+      "dose_unit": "units",
+      "frequency": "once weekly",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Kisspeptin",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "dose_value": 10,
+      "dose_unit": "units",
+      "frequency": "Monday-Friday",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Leukine",
+      "name_normalized": "leukine",
+      "category": "other",
+      "dose_value": 10,
+      "dose_unit": "units",
+      "frequency": "Monday-Friday",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Oxytocin",
+      "name_normalized": "oxytocin",
+      "category": "hormonal",
+      "dose_value": 50,
+      "dose_unit": "units",
+      "frequency": "Monday-Friday",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mechano Growth Factor",
+      "name_normalized": "mechano_growth_factor",
+      "category": "other",
+      "dose_value": 10,
+      "dose_unit": "units",
+      "frequency": "Monday-Friday",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "once weekly on Mondays",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "Mondays, Wednesdays, Fridays",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 3 pounds over 6 weeks after weight loss plateau, after starting semaglutide",
+      "severity": "mild",
+      "onset_days": 42
+    },
+    {
+      "category": "injury_healing",
+      "description": "Hoping to address tennis elbow with peptide protocol"
+    },
+    {
+      "category": "body_composition",
+      "description": "Seeking more definition and muscle gains; aiming to break weight loss plateau"
+    }
+  ],
+  "protocol_notes": "Started semaglutide through Hims/Hers. Ramped up first 4 weeks at 8 units, now on 2nd dose at 18 units. KLOW blend is 10/10/50/10 (Kisspeptin/Leukine/Oxytocin/Mechano Growth Factor). User notes protocol diagram shows Retatrutide but is actually Semaglutide. Currently on TRT (mentioned in responses). Height 6 feet, body fat 19.8%. Recently lost 65 lbs from 248 lbs.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.681893Z"
+}

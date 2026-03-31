@@ -1,0 +1,34 @@
+{
+  "id": "e71cfa2a-3b34-454f-8259-ace5ef667ca0",
+  "source_id": "1kthefy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kthefy/down_around_40lbs_from_reta_what_is_a_good_muscle/",
+  "author_hash": "583f68ee854cf759ebb718954189f8cc9f34de5ea8d07b54806476d80051f565",
+  "confidence_tier": 4,
+  "date_published": "2025-05-23T04:41:49-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Recommending CJC-1295/Ipamorelin combo at 0.25mg daily for 8-12 weeks for muscle building",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.690785Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "8d60fa07-df41-44df-b0e3-1f88cb101ae2",
+  "source_id": "1pc0ras",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pc0ras/reta_and_basketball/",
+  "author_hash": "b8b76dc8451b4c052b1144a3743f8cb13d3195bcbc283ae54c9daeddc0cc4fa2",
+  "confidence_tier": 5,
+  "date_published": "2025-12-01T21:55:24-08:00",
+  "training_status": "athlete (plays sports)",
+  "compounds": [
+    {
+      "name_raw": "GLP-1 Receptor Agonist",
+      "name_normalized": "glp_1_receptor_agonist",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "appetite suppression negatively impacts athletic performance during sports",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User reports using GLP (likely GLP-1 agonist) while playing sports and experienced performance degradation. Suggests post-season timing instead.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.675763Z"
+}

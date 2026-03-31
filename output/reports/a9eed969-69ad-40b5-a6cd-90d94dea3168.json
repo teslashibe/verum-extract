@@ -1,0 +1,68 @@
+{
+  "id": "a9eed969-69ad-40b5-a6cd-90d94dea3168",
+  "source_id": "1fu7ef3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fu7ef3/ghkcu_unexpected_success_story_in_just_9_days/",
+  "author_hash": "f3f025bc43ca4140fc6380f500fffeeb731457259e5a9500796763043859da59",
+  "confidence_tier": 4,
+  "date_published": "2024-10-01T20:52:29-07:00",
+  "health_conditions": [
+    "dry skin on shoulder"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.6,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 3.1,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Oily skin, resolution of dry skin patch on right shoulder that had persisted for 1-2 years",
+      "severity": "significant",
+      "onset_days": 9
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Burning and itching at injection site for 36 hours; resolved with dilution and split injection across two sites",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 2
+    }
+  ],
+  "protocol_notes": "Pre-made blend from supplier (one vial). Initial protocol: 0.5 mg BPC + 0.6 mg TB + 3.1 mg GHK-Cu once daily subcutaneous. Adjusted to split injections across two sites (2x 0.3 ml) to reduce injection site reaction. User is skinny with thick thighs, injecting into love handle area.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.413444Z"
+}

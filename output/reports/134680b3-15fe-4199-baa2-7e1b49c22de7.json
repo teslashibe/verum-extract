@@ -1,0 +1,52 @@
+{
+  "id": "134680b3-15fe-4199-baa2-7e1b49c22de7",
+  "source_id": "1rwczgz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwczgz/retatrutide_and_cjcipamorelin_33_years_old/",
+  "author_hash": "7b77440b25c511f68e79aaf6f1f2a4066c14e4c886798b51e11dd8a52b9ba17f",
+  "confidence_tier": 4,
+  "date_published": "2026-03-17T10:22:29-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Felt like it was working",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started Retatrutide first for a month, then added Tesamorelin for a month before running out. Considering CJC/Ipamorelin combo with Retatrutide.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.58,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.662297Z"
+}

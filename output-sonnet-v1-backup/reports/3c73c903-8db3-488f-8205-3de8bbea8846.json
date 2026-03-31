@@ -1,0 +1,54 @@
+{
+  "id": "3c73c903-8db3-488f-8205-3de8bbea8846",
+  "source_id": "1rnwbxi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rnwbxi/is_peptides_safe_to_take_while_on_vyvanse/",
+  "author_hash": "fbeb16382f77af2d9e7e746764804ea60885a7d5d8390c6cec76174a71c5e2da",
+  "confidence_tier": 4,
+  "date_published": "2026-03-07T21:27:42-08:00",
+  "health_conditions": [
+    "ADHD (on Vyvanse)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "klow",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Vyvanse",
+      "name_normalized": "vyvanse",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Vyvanse completely ineffective on the first day after Reta dose; returns to normal after 24 hours",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "No issues with other peptides (klow and selank) and Vyvanse. Only Reta causes transient Vyvanse ineffectiveness for the first 24 hours post-dose.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.111164Z"
+}

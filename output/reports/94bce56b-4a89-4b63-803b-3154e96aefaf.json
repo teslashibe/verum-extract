@@ -1,0 +1,48 @@
+{
+  "id": "94bce56b-4a89-4b63-803b-3154e96aefaf",
+  "source_id": "1ruv4ss",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ruv4ss/retatruide_or_trizepatide/",
+  "author_hash": "6053d3e6cc341dc4e8e7faf51dd80a37d537969d208cc785484c9ddbe2ec2f0f",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T17:46:18-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "PCOS"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Better tolerability compared to semaglutide",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Experiencing side effects on semaglutide",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "OP discontinued semaglutide due to side effects, switched to tirzepatide which has been better tolerated. Researching CJC-1295, BPC-157, and Ipamorelin for muscle growth while managing PCOS with elevated endogenous GH and testosterone.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.651393Z"
+}

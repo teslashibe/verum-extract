@@ -1,0 +1,52 @@
+{
+  "id": "ed696591-3aca-45f9-85e2-2f2dfc5eefdc",
+  "source_id": "1qp04sn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qp04sn/how_much_to_take/",
+  "author_hash": "8ef4f2c563c1999f7fc6e63bd6fabeb5cd1b657ee34ca2a765f4dabb13d351d8",
+  "confidence_tier": 4,
+  "date_published": "2026-01-27T19:30:25-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 days on, 2 days off",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "GLOW is a pre-mixed blend. Recommends starting Tesamorelin at 0.5mg to gauge tolerance, then increasing to 2mg. GHK-Cu dose range 1.5-2mg daily depending on vial concentration.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.682878Z"
+}

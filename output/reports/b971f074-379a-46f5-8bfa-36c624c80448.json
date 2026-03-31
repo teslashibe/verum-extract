@@ -1,0 +1,37 @@
+{
+  "id": "b971f074-379a-46f5-8bfa-36c624c80448",
+  "source_id": "1rxj4kj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rxj4kj/reta_one_month_progress/",
+  "author_hash": "4e1a1d312972fd0d0d54e853e7b53099128ac9aae5ca75028a2878f884031fa2",
+  "confidence_tier": 5,
+  "date_published": "2026-03-18T15:53:00-07:00",
+  "training_status": "6 days per week resistance training",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost over 10lbs in less than one month",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body composition (InBody measurement)",
+      "timeframe_days": 30
+    }
+  ],
+  "protocol_notes": "User states disappointed with body fat loss percentage and muscle retention given diet was not optimized. InBody measurements used for tracking. User notes insufficient protein intake during protocol period and irregular eating schedule due to night shift work.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.64979Z"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "bcb6da49-2f8c-4dda-beda-1917a659c6c9",
+  "source_id": "1r98xrv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r98xrv/dsip_300_mcg_or_1000_mcg/",
+  "author_hash": "5b31a9c000874f6e14ba5827fc644b5c6d6de1110f1667a58ad0c34016f99b3e",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T11:34:03-08:00",
+  "health_conditions": [
+    "insomnia",
+    "difficulty staying asleep",
+    "wakes at 3am"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "dose_value": 125,
+      "dose_unit": "mcg",
+      "frequency": "every other day or every third day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "cjc/ipa",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "100-150mcg DSIP knocks them out; better results than 300mcg",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "CJC/IPA has helped somewhat with staying asleep",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Tried 300mcg DSIP with little effect; found 100-150mcg more effective. Doses every other day or every third day. Also takes D3/K2, magnesium glycinate, melatonin, glycine, lion's mane, chaga, and ashwagandha. Falling asleep is easy but staying asleep is difficult. Best remedy when waking at 3am is reading an ebook on phone.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.116678Z"
+}

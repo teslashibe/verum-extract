@@ -1,0 +1,53 @@
+{
+  "id": "18e890fa-8d6b-4ac3-890d-141102eae49d",
+  "source_id": "1qtz9d0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtz9d0/peptides_for_gaining_my_health_back_after3_years/",
+  "author_hash": "b74487a143c80f7b454fb7f36ce42d199671bb2237c39c069c27e7ec12360bce",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T08:11:10-08:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "prior opioid prescription use (10 years)",
+    "low testosterone"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "dose_value": 150,
+      "dose_unit": "mg",
+      "frequency": "split into 2 days a week",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "more energy",
+      "severity": "moderate"
+    },
+    {
+      "category": "cognitive",
+      "description": "no brain fog",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "more motivation and drive",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone"
+    }
+  ],
+  "protocol_notes": "Started testosterone a couple months ago after getting off 10 years of opioid prescription. Reports low test levels before starting.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.122133Z"
+}

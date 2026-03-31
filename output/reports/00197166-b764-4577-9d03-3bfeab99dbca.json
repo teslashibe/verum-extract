@@ -1,0 +1,68 @@
+{
+  "id": "00197166-b764-4577-9d03-3bfeab99dbca",
+  "source_id": "1ikftl8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ikftl8/thank_god_for_whoever_invented_tb500_and_bpc157/",
+  "author_hash": "853f2f6951ecdf8660b8c3476861951850f39aeace7b84f97c94d34a41cbb265",
+  "confidence_tier": 4,
+  "date_published": "2025-02-07T21:16:07-08:00",
+  "health_conditions": [
+    "shoulder pain",
+    "back pain"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "1-2x daily",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "constant pain all day and sometimes all night went away",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "energy",
+      "description": "higher energy levels",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "sleep",
+      "description": "better sleep",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "accidentally hit a nerve once or twice",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "12 weeks on, 1 month break, then repeat. Started at low dose and gradually built up. Injected near injury site (shoulder). Used 23 gauge needles for injection and 18 gauge for drawing from vials. Forgot to use for 5 days out of 2 weeks.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.694135Z"
+}

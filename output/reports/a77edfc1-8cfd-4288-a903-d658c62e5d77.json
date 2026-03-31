@@ -1,0 +1,33 @@
+{
+  "id": "a77edfc1-8cfd-4288-a903-d658c62e5d77",
+  "source_id": "1qui1bu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qui1bu/when_to_work_out_on_cjc_ipa/",
+  "author_hash": "7ff8968fd1c39a4dee75bcca915073745d018671074e2749dc3b36aceab2449b",
+  "confidence_tier": 5,
+  "date_published": "2026-02-02T20:17:02-08:00",
+  "training_status": "active",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "morning fasted",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "morning fasted",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Fasted morning injection. Workouts at 7 PM.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.667674Z"
+}

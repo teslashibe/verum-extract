@@ -1,0 +1,67 @@
+{
+  "id": "1a3d4d94-d6e7-4c5c-b086-a977045224d0",
+  "source_id": "1lzmi4g",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lzmi4g/pairing_monjauro_with_reta/",
+  "author_hash": "e88e07cb6a9051d4c1403a3b28d6fe2889ba3f5d5359f36bc118093b2488779d",
+  "confidence_tier": 4,
+  "date_published": "2025-07-14T06:32:44-07:00",
+  "reported_weight": {
+    "value": 186,
+    "unit": "lbs"
+  },
+  "training_status": "gym 5x a week, 6x if light",
+  "health_conditions": [
+    "type 2 diabetes (remission)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "blood_sugar",
+      "description": "A1C reduced from 10.6 to 4.9 since November",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "85 lbs weight loss since November, body fat percentage dropping from 22.4-22.7 to 21.6, abs more noticeable",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C",
+      "value_before": 10.6,
+      "value_after": 4.9,
+      "unit": "%",
+      "timeframe_days": 227
+    },
+    {
+      "marker_name": "body_fat_percentage",
+      "value_before": 22.4,
+      "value_after": 21.6,
+      "unit": "%"
+    },
+    {
+      "marker_name": "weight",
+      "value_before": 271,
+      "value_after": 186,
+      "unit": "lbs",
+      "timeframe_days": 227
+    }
+  ],
+  "protocol_notes": "On Mounjaro (brand name for tirzepatide). Patient has type 2 diabetes in remission. Considering adding retatrutide on alternating days but post indicates this is contemplative, not yet implemented. Currently on strict diet since November and training 5-6x per week. Recent week showed downward trend in fat mass and body fat percentage on body composition scale.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.40428Z"
+}

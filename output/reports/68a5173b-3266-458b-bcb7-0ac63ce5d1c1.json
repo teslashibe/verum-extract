@@ -1,0 +1,39 @@
+{
+  "id": "68a5173b-3266-458b-bcb7-0ac63ce5d1c1",
+  "source_id": "1fc20k7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fc20k7/tesaipa_amazing_benefits_after_1_week/",
+  "author_hash": "46592ab4d98ebba40b8bc5bd228c9a7bb3d8449466af10f0289b81adfc852498",
+  "confidence_tier": 4,
+  "date_published": "2024-09-08T09:36:29-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily, 5 days on / 2 days off",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "daily, 5 days on / 2 days off",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Ran Tesamorelin 1.0mg/Ipamorelin 150mcg for 3 months with 5 days on / 2 days off schedule. Had good results. Recommends finding valid source with testing for generic peptides these days.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696385Z"
+}

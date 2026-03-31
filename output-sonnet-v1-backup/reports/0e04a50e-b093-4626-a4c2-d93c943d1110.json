@@ -1,0 +1,38 @@
+{
+  "id": "0e04a50e-b093-4626-a4c2-d93c943d1110",
+  "source_id": "1bp0035",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bp0035/has_anyone_had_these_kind_of_reactions_from_cjcipa/",
+  "author_hash": "c1098f818e6d5a38d38533de452cf5c41a7bc35a24b5a1a1af75488720b61fc5",
+  "confidence_tier": 5,
+  "date_published": "2024-03-27T04:53:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "cjc",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Started with mild hives, eventually progressed to anaphylaxis",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Commenter states this progression from mild hives to anaphylaxis is 'pretty common with cjc and ipamorelin'.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294093Z"
+}

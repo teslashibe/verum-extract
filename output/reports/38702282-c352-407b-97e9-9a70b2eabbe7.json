@@ -1,0 +1,68 @@
+{
+  "id": "38702282-c352-407b-97e9-9a70b2eabbe7",
+  "source_id": "1o3yyxg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o3yyxg/after_reta/",
+  "author_hash": "230539a51c1ff4e770025d7cb091b50e0fb68a352f9d340368f90593cdbb1239",
+  "confidence_tier": 4,
+  "date_published": "2025-10-11T08:47:47-07:00",
+  "training_status": "heavy lifter, cycling 40-60 miles per week",
+  "health_conditions": [
+    "autoimmune issues",
+    "metabolic dysfunction",
+    "food noise"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GLP-1 receptor agonist (unspecified)",
+      "name_normalized": "glp_1_receptor_agonist_unspecified",
+      "category": "other",
+      "route": "subcutaneous",
+      "cycle_length_days": 540,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Added 8 lbs of muscle while losing fat",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost 32 lbs of fat over 1.5 years",
+      "severity": "significant"
+    },
+    {
+      "category": "immune",
+      "description": "Autoimmune issues controlled while on GLP-1",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Hunger signals and food noise returned after 1-3 months off compound",
+      "severity": "significant",
+      "onset_days": 30
+    },
+    {
+      "category": "weight_change",
+      "description": "Gained 15 lbs within 4 months of discontinuation",
+      "severity": "moderate",
+      "onset_days": 120
+    },
+    {
+      "category": "hormonal",
+      "description": "Autoimmune issues flared back up after discontinuation",
+      "severity": "significant",
+      "onset_days": 120
+    }
+  ],
+  "protocol_notes": "Was on GLP-1 for 1.5 years. Insurance stopped covering. Describes metabolic dysfunction as a permanent brain change from obesity. Views GLP-1 as necessary maintenance medication rather than temporary intervention.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.83,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.395961Z"
+}

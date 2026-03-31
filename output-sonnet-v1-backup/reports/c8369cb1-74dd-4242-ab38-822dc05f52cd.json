@@ -1,0 +1,41 @@
+{
+  "id": "c8369cb1-74dd-4242-ab38-822dc05f52cd",
+  "source_id": "172gfv0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/172gfv0/bpc157_has_removed_all_effects_psych_medication/",
+  "author_hash": "23edd6cc96d394969b2b7553ec354d9ebf282bb0ccb0cff4945a982b6748dba1",
+  "confidence_tier": 5,
+  "date_published": "2023-10-07T13:46:56-07:00",
+  "health_conditions": [
+    "anxiety"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "frequency": "once a day",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Great results at lowest dose with zero anxiety",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Anxiety spiked every time dose was increased by even 3 units or when dosed twice a day",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Lowest dose once a day was optimal. Any increase in dose or dosing frequency caused anxiety spikes.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.296566Z"
+}

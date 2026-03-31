@@ -1,0 +1,55 @@
+{
+  "id": "a89aa2e7-7480-487e-8043-4eb6dc1dbc7b",
+  "source_id": "1qwx24x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qwx24x/tirz_side_effects/",
+  "author_hash": "272a32b4efc1baa170f231ec53230858d5ab87f99c8d377b8bf280717b7e38e3",
+  "confidence_tier": 4,
+  "date_published": "2026-02-05T12:46:21-08:00",
+  "health_conditions": [
+    "ADHD",
+    "eczema"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 3.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "KPV used for eczema with noted anti-inflammatory benefits"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Felt sleepy and in zombie mode at 3.5mg tirzepatide",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "mood_change",
+      "description": "Emotionally flat, anhedonia; attributed to dopamine blunting interacting with ADHD",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Has ADHD; experienced zombie mode and emotional flatness on first try of Tirz at 3.5mg. Notes side effects adjusted as levels stabilized. Now also using KPV for eczema. Confirmed that Tirz side effects are common/normal especially for neurodivergent individuals.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121159Z"
+}

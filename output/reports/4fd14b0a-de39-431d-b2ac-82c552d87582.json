@@ -1,0 +1,70 @@
+{
+  "id": "4fd14b0a-de39-431d-b2ac-82c552d87582",
+  "source_id": "1r7q37o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r7q37o/tesamorelin/",
+  "author_hash": "5509c59f4366d3569191219042d3fdc84bee5e3af6c486d17b5070613d6147fc",
+  "confidence_tier": 4,
+  "date_published": "2026-02-17T18:03:19-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Help with recovery",
+      "severity": "moderate"
+    },
+    {
+      "category": "body_composition",
+      "description": "Slight edge on leaning out",
+      "severity": "mild"
+    },
+    {
+      "category": "sleep",
+      "description": "Sleeping like a log",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Joint pain got really bad, primarily in legs and just above knees on CJC/Ipa",
+      "severity": "significant",
+      "onset_days": 60,
+      "resolved": true,
+      "resolution_days": 7
+    },
+    {
+      "category": "joint_pain",
+      "description": "Similar pain occurred after 1 week on Sermorelin",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Stopped CJC/Ipa after 2 months due to joint pain. After clearing system, tried Sermorelin but experienced similar joint pain within 1 week.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662649Z"
+}

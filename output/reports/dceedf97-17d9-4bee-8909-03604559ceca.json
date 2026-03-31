@@ -1,0 +1,47 @@
+{
+  "id": "dceedf97-17d9-4bee-8909-03604559ceca",
+  "source_id": "1rp0i42",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rp0i42/safe_muscle_growth_peptide/",
+  "author_hash": "a13f3997e3e7845ff2af404a0058e8e163138d7cfa2f16a1715ced6edfce71de",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T06:41:03-07:00",
+  "reported_weight": {
+    "value": 195,
+    "unit": "lbs"
+  },
+  "training_status": "resistance training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "intramuscular",
+      "dose_value": 20,
+      "dose_unit": "mcg",
+      "frequency": "pre-workout",
+      "cycle_length_days": 40,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "1 inch gained on quads, 0.5 inch on arms and chest. Visually notable difference.",
+      "severity": "significant",
+      "onset_days": 40
+    },
+    {
+      "category": "body_composition",
+      "description": "Weight gain of 2 lbs (195 to 197) over 40 days with lean muscle appearance",
+      "severity": "significant",
+      "onset_days": 40
+    }
+  ],
+  "protocol_notes": "Local pre-workout injections. 40 day cycle duration reported.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.666752Z"
+}

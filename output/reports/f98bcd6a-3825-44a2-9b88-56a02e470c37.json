@@ -1,0 +1,89 @@
+{
+  "id": "f98bcd6a-3825-44a2-9b88-56a02e470c37",
+  "source_id": "1io07mg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1io07mg/peptides_saved_my_skin/",
+  "author_hash": "b89fcd9d2bf9da6c2f28ef59b29aff16d74d08fa6dfb3655b773781cd46dece5",
+  "confidence_tier": 4,
+  "date_published": "2025-02-12T12:01:38-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "training_status": "gym-going, strength-focused",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 15,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "frequency": "daily",
+      "cycle_length_days": 15,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 15,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 15,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 15,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "dose_value": 250,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Healed nose injury from car collision with minimal discoloration in 15 days, faster than previous month-long healing timeline",
+      "severity": "significant",
+      "onset_days": 15
+    },
+    {
+      "category": "skin",
+      "description": "Previous cystic acne scarring improvement with topical GHK-Cu",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Also used silicon (scar-away) gel cream topically during 15-day injury recovery protocol. Previously used Accutane for acne treatment. Uses micro-needling pen for acne scar treatment. Uses tanning bed weekly (with MT-2 mentioned separately). Describes peptides as generally well-tolerated with little to no side effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.694053Z"
+}

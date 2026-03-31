@@ -1,0 +1,66 @@
+{
+  "id": "4ca7da0d-fd8f-4f96-a475-9961ec31bcd9",
+  "source_id": "1agr41t",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1agr41t/bad_reaction_to_ipamorelincjc1295/",
+  "author_hash": "24d1c36f6721a1b80570f8eb894d890339dac7312fcb98f78fac146bb8b85b6d",
+  "confidence_tier": 4,
+  "date_published": "2024-02-01T17:02:40-08:00",
+  "compounds": [
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "cjc1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Major flushing, not minor, strong flushing starting within 2-3 minutes and progressively worsening",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    },
+    {
+      "category": "dizziness",
+      "description": "Severe dizziness, almost losing consciousness, booming wavy feeling in head before passing out",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    },
+    {
+      "category": "other",
+      "description": "Tightness in chest, not severe; symptoms came in waves for about 40 minutes then faded",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    },
+    {
+      "category": "blood_pressure",
+      "description": "Not sure if high or low blood pressure, nearly lost consciousness",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    }
+  ],
+  "protocol_notes": "OP believes ipamorelin is the culprit as a separate vial of ipamorelin alone produced similar reaction. Discontinued use after reaction lasting ~40 minutes.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.295102Z"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "4b079a06-b374-48ca-b5ef-f4cba5fc1ae0",
+  "source_id": "1f3dq5d",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1f3dq5d/ipamorelin_for_long_covid/",
+  "author_hash": "c63e18d7ad11a0c14a5afed1803766d60072ebf51c79532032ff5c29b4de4a9a",
+  "confidence_tier": 4,
+  "date_published": "2024-08-28T08:53:18-07:00",
+  "health_conditions": [
+    "long COVID",
+    "severe brain fog",
+    "fatigue",
+    "bedbound"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "oral",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cerebrolysin",
+      "name_normalized": "cerebrolysin",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "brain fog starting to improve",
+      "severity": "mild"
+    },
+    {
+      "category": "energy",
+      "description": "small amount of energy, can be out of bed during the day",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "waking up constantly, sleep quality worse after starting Ipamorelin",
+      "severity": "moderate",
+      "onset_days": 4
+    }
+  ],
+  "protocol_notes": "Ipamorelin troches prescribed by doctor. Taking Ipamorelin for 6 weeks intended for sleep quality improvement. Also reordered SS-31. Has been on stack for 3 weeks total.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.41394Z"
+}

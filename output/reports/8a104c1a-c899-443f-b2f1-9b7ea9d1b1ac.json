@@ -1,0 +1,37 @@
+{
+  "id": "8a104c1a-c899-443f-b2f1-9b7ea9d1b1ac",
+  "source_id": "1hoxwgu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1hoxwgu/vile_dosage/",
+  "author_hash": "951ffc395a20aaa39c8489b3bd98ee8dee8e276355ff964e5f5cb3dc64aeaf7f",
+  "confidence_tier": 4,
+  "date_published": "2024-12-29T07:10:40-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Pre-mixed blend vial containing 5mg Ipamorelin and 5mg CJC-1295. Treated as 5mg per compound for reconstitution and dosing purposes. Dosed before bed.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.694748Z"
+}

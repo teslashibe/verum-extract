@@ -1,0 +1,43 @@
+{
+  "id": "d9c56b02-978e-4792-a9c6-7483432ea925",
+  "source_id": "18q1n79",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/18q1n79/which_peptides_are_best_for_antiaging/",
+  "author_hash": "b218dc4fef368bf3e530caf6567ed83af25b6df696682631b5e673ada75d671c",
+  "confidence_tier": 5,
+  "date_published": "2023-12-24T11:10:16-08:00",
+  "reported_sex": "female",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "GHK-CU provides youthful skin benefits but they go away when off GHK-CU",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Recommends CJC-1295 \u0026 Ipamorelin to increase GH endogenously, plus GHK-cu for skin benefits. Notes skin benefits from GHK-cu disappear when discontinued.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.295651Z"
+}

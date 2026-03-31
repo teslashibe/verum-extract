@@ -1,0 +1,46 @@
+{
+  "id": "0174bae4-8b37-40b5-ad7b-1907fa54e8d4",
+  "source_id": "1r8kmy8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r8kmy8/high_igf1_levels/",
+  "author_hash": "84bf76dc03748c9e9304673464aef9e85a288b1f221ed9d8d03561d8b1faf686",
+  "confidence_tier": 3,
+  "date_published": "2026-02-18T16:38:01-08:00",
+  "health_conditions": [
+    "insomnia"
+  ],
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "IU",
+      "frequency": "every day",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Switched to evening dosing before bed at week 4 and reports sleeping very well; describes it as a 'god send' as an insomniac",
+      "severity": "significant",
+      "onset_days": 22
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 134,
+      "value_after": 506,
+      "timeframe_days": 28
+    }
+  ],
+  "protocol_notes": "Titrated HGH dose over 4 weeks: 1IU week 1 (morning fasted), 2IU week 2 (morning fasted), 3IU week 3 (morning fasted), 4IU week 4 (evenings before bed). Plans to drop back to 2IU and retest IGF-1 in another 4 weeks. Reports no adverse side effects throughout titration.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.116891Z"
+}

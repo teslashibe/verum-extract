@@ -1,0 +1,46 @@
+{
+  "id": "d7a5fe03-84af-4c00-838a-21667479d69d",
+  "source_id": "1ofz05s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ofz05s/what_are_reasons_to_get_just_ghkcu_over_glow/",
+  "author_hash": "6073e90e19ce73735e9ed3255ea23f07b9151d5fd508840ef7d4e6a1c935ac1d",
+  "confidence_tier": 4,
+  "date_published": "2025-10-25T11:33:46-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2.3,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 166,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "skin glowing",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "First cycle: 6 weeks at 2.3mg GHK-Cu daily + 166mcg BPC-157. Second cycle: 6 weeks with KLOW stack. No welts, irritation, or pain. Reconstituting with PBS instead of BAC water. Has 14 vials of unreconstituted 100mg GHK-Cu available. Previously used Mounjaro.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.678802Z"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "2cf2ed01-dba1-4bc7-b1f7-e7ec606b1390",
+  "source_id": "op4oko",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/op4oko/epitalon/",
+  "author_hash": "9ee93acabfcfca14dc2a85a735f8a8b61398c1256a08c7a3e4bd45b4025fd007",
+  "confidence_tier": 4,
+  "date_published": "2021-07-21T19:23:32-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "nightly before bed",
+      "cycle_length_days": 10,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 10,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "thymulin",
+      "name_normalized": "thymulin",
+      "category": "immune",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep improvement observed nightly with 300mcg before bed; circadian rhythm reset in patients",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Patient stopped having restless leg syndrome after 10-day 10mg dosing protocol",
+      "severity": "significant",
+      "onset_days": 10
+    },
+    {
+      "category": "other",
+      "description": "Patients reported better eyesight at end of 10-day protocol",
+      "severity": "moderate",
+      "onset_days": 10
+    },
+    {
+      "category": "gut_health",
+      "description": "Used in chronic conditions such as ulcerative colitis with good results; takes a few months to see a difference",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Practitioner (doctor) reporting use in patients. 10-day protocol for circadian rhythm reset and telomere extension. Uses 10mg dosing 2x yearly for telomere benefits. Previously stacked with thymulin (no longer available from compounding pharmacies). Does not continue epitalon long-term in patients. States 10mg dosing produces noticeably different results compared to 300mcg dosing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.429107Z"
+}

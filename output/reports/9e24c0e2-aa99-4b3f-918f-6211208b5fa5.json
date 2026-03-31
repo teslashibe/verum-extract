@@ -1,0 +1,51 @@
+{
+  "id": "9e24c0e2-aa99-4b3f-918f-6211208b5fa5",
+  "source_id": "1s1hbwi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1hbwi/anyone_taking_just_solely_peptides_for_muscle_mass/",
+  "author_hash": "34c7d563b6a962e83130c6d9609ca09ed3bd42bc74e8732c039af1ae743ccbd1",
+  "confidence_tier": 3,
+  "date_published": "2026-03-23T06:46:44-07:00",
+  "compounds": [
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "gained 7 lbs muscle in body composition scan",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "fat_loss",
+      "description": "lost 12 lbs fat while in calorie deficit",
+      "severity": "significant",
+      "onset_days": 14
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "muscle mass",
+      "unit": "lbs",
+      "timeframe_days": 14
+    },
+    {
+      "marker_name": "body fat",
+      "unit": "lbs",
+      "timeframe_days": 14
+    }
+  ],
+  "protocol_notes": "Short cycle of 2 weeks at 100 mcg dose. User mentions body composition scans but notes uncertainty about scan accuracy. Does not report subjective workout performance changes.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.648173Z"
+}

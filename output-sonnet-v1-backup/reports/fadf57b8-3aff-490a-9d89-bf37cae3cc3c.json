@@ -1,0 +1,52 @@
+{
+  "id": "fadf57b8-3aff-490a-9d89-bf37cae3cc3c",
+  "source_id": "139kz5e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/139kz5e/best_sleep_in_30_years/",
+  "author_hash": "dcd3d9fb2b7d6dd1eb2261e8da458688cef8314440b65f8d09fc4a1274875989",
+  "confidence_tier": 4,
+  "date_published": "2023-05-06T05:01:29-07:00",
+  "compounds": [
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IPA",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "BPC157 working wonders (unspecified benefits)"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "After two weeks on CJC/IPA, sleep is still terrible; requires melatonin to sleep",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Obtained CJC/IPA through local clinic for $700 for 3 vials (2mg CJC / 2mg IPA each) from Wells Pharmacy. BPC157 from Peptide Sciences. Two weeks into CJC/IPA with no sleep improvement.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.297685Z"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "adf8caf2-9511-4928-b300-d7ce26ac07ac",
+  "source_id": "1s1m3gc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1m3gc/tesamorelin/",
+  "author_hash": "3ed5b16bd84e6179e171c42a6117ddf30e72962aacff30b4755139e8066ddfe0",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T09:42:47-07:00",
+  "training_status": "cutting",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 on 2 off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "5 on 2 off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "lean muscle retention while cutting",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Morning administration with Ipamorelin. Stack includes Retatrutide. User reports outstanding results. Fasted state preferred for GH optimization. 30-60 minute fasting window post-injection recommended.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.64794Z"
+}

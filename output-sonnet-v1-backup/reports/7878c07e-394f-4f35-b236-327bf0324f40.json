@@ -1,0 +1,42 @@
+{
+  "id": "7878c07e-394f-4f35-b236-327bf0324f40",
+  "source_id": "1nmana2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nmana2/ghkcu_stopped_my_reactions_to_the_covid_shot/",
+  "author_hash": "b34c0ea52b5c244446e54fbb850325448ceb64d53a77189952a56f771af534e9",
+  "confidence_tier": 4,
+  "date_published": "2025-09-20T14:51:15-07:00",
+  "health_conditions": [
+    "strong reactions to COVID vaccines",
+    "anxiety"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "cycle_length_days": 11,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "immune",
+      "description": "Dramatically reduced typical COVID vaccine side effects (chills, aches, headache, sleep trouble) to only a mild headachey feeling and slight jaw tightness",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Significant reduction in anxiety, compared to effect of Klonopin",
+      "severity": "significant",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "OP had historically strong reactions to COVID vaccines including Novavax. After 8 days of GHK-Cu (2 mg), received Pfizer shot with minimal reaction. By day 11, anxiety reduction had begun on day 2 of the protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.270644Z"
+}

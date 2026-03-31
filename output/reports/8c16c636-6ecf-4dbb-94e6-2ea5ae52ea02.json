@@ -1,0 +1,50 @@
+{
+  "id": "8c16c636-6ecf-4dbb-94e6-2ea5ae52ea02",
+  "source_id": "o4xqfn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/o4xqfn/started_bpc_yesterday/",
+  "author_hash": "f5a1de20d2b0270c55710bdff0a788086a18bbd0647ee24831ab4cee793fe95e",
+  "confidence_tier": 4,
+  "date_published": "2021-06-21T08:28:37-07:00",
+  "training_status": "active in gym",
+  "health_conditions": [
+    "rotator cuff strain (supraspinatus)",
+    "tennis elbow"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Completely fixed strained rotator cuff (supraspinatus)",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "injury_healing",
+      "description": "Fixed minor tennis elbow (irritation, not complete tendinopathy)",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "recovery",
+      "description": "Substantially improved recovery in the gym",
+      "severity": "moderate"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Joints felt very fluid, no muscle soreness",
+      "severity": "significant"
+    }
+  ],
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.131169Z"
+}

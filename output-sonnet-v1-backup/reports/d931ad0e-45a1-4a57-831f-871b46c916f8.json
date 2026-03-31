@@ -1,0 +1,41 @@
+{
+  "id": "d931ad0e-45a1-4a57-831f-871b46c916f8",
+  "source_id": "1fctk4s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fctk4s/tesa/",
+  "author_hash": "fd4788855fab4d8b62fe8102f0c989d5fed80d413b85dc28c73c0ffd98a3d1f2",
+  "confidence_tier": 4,
+  "date_published": "2024-09-09T09:23:52-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipam",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Prefers sermorelin over tesamorelin; found sermorelin to be more effective for fat loss and significantly cheaper."
+    }
+  ],
+  "protocol_notes": "Has used sermorelin alone, now uses it with ipamorelin. Also cycles in mod GRF 1-29 to replace sermorelin. Noticed nothing better with Tesa compared to sermorelin. Currently lean.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.291027Z"
+}

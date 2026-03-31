@@ -1,0 +1,57 @@
+{
+  "id": "ea133ccb-132b-40ee-bc9b-2d9f3844c571",
+  "source_id": "1o2xl8j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o2xl8j/bpc157_tb500_for_chronic_shoulder_pain_30_days/",
+  "author_hash": "18291d0b60a47265a4c0c02e15c34de3f9a23c5d110cf266c5ce0d4a79a83b9d",
+  "confidence_tier": 4,
+  "date_published": "2025-10-10T03:49:39-07:00",
+  "training_status": "sedentary to light activity",
+  "health_conditions": [
+    "shoulder injury from fall",
+    "three-level spinal fusion",
+    "ongoing back pain"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "frequency": "every 3 days",
+      "cycle_length_days": 9,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "frequency": "every 3 days",
+      "cycle_length_days": 9,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Pain reduced from 8-9/10 to manageable levels by day 9. Increased shoulder mobility and upward arm movement with reduced immediate pain.",
+      "severity": "significant",
+      "onset_days": 9
+    },
+    {
+      "category": "recovery",
+      "description": "More movement ability and reduced pain on shoulder lift",
+      "severity": "moderate",
+      "onset_days": 9
+    }
+  ],
+  "protocol_notes": "Shoulder injury from fall 4 months prior. Also has 3-level spinal fusion from 1 year ago with ongoing pain (7/10). Injecting every 3 days subcutaneously in stomach and upper buttocks areas, plus directly in shoulder area. Starting yoga and gym stretching concurrently. Committed to proceeding at own pace.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.396116Z"
+}

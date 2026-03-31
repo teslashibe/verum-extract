@@ -1,0 +1,42 @@
+{
+  "id": "c5e167dd-d6bb-4357-8971-10d3ee0a6811",
+  "source_id": "1rr12jp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr12jp/round_2_of_semaglutide_not_working/",
+  "author_hash": "576ec0a65e0abfdc428d8c1aeb6c9490e34473439d5264cea5b5e3b8341c5c81",
+  "confidence_tier": 4,
+  "date_published": "2026-03-11T10:57:01-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Initial weight loss on Ozempic",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Used Ozempic (semaglutide), became immune/tolerant. Switched to Tirzepatide, developed same immunity/tolerance. Recently started Retatrutide with hope for effectiveness.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.653443Z"
+}

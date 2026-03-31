@@ -1,0 +1,80 @@
+{
+  "id": "830696e7-73d0-4d85-aa50-9022339873e4",
+  "source_id": "1n2t1c6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n2t1c6/what_to_try_after_reta_motsc_aod9604_cagri_or/",
+  "author_hash": "668ca7404e4cbf02e04d9b5dc079941bbc621a47c26903bea67170cc881956db",
+  "confidence_tier": 4,
+  "date_published": "2025-08-28T17:29:38-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC/IPA",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 90,
+      "dose_unit": "mg",
+      "cycle_length_days": 180,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Hume scale showing lower body fat after a month on reta despite no scale weight loss",
+      "severity": "mild",
+      "onset_days": 30
+    },
+    {
+      "category": "recovery",
+      "description": "Better recovery attributed to TRT",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "Better mood attributed to TRT",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Better workouts and work performance attributed to TRT",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_after": 1253,
+      "unit": "ng/dL"
+    },
+    {
+      "marker_name": "SHBG"
+    }
+  ],
+  "protocol_notes": "OP started with sermorelin for 8 weeks (found underwhelming), moved to CJC/IPA stack. Also on TRT for 6 months, currently adjusting dose from 120mg down through 100mg to 80mg, now at 90mg. Concerned high testosterone (1253) is suppressing SHBG and lowering free T. Goal is recomposition without significant appetite suppression. Father had prostate cancer, nervous about HGH.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.273438Z"
+}

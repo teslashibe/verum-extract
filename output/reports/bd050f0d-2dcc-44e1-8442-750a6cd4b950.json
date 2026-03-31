@@ -1,0 +1,44 @@
+{
+  "id": "bd050f0d-2dcc-44e1-8442-750a6cd4b950",
+  "source_id": "1rb51di",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rb51di/peptides_for_grandma/",
+  "author_hash": "7eced37680c65cbaf4c17a1bd591573dd6d89ff02b38351b695af850f1e07e8a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T14:50:47-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "60+",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "intermittent with breaks",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss of nearly 20 pounds",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Chronic trouble with nausea, 2mg Reta dose causes significant nausea the next day",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Wife of SilverNo9691. 2mg dose causes next-day nausea. Takes Ondansetron (nausea medication) to manage side effect. Has skipped several weeks when not feeling well. No other health issues reported.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.673696Z"
+}

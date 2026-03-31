@@ -1,0 +1,55 @@
+{
+  "id": "eb7db6a7-6024-41e3-90c1-af39a90b7e94",
+  "source_id": "1quw4sr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1quw4sr/reta_sleep_problems/",
+  "author_hash": "7c18d44ffec12c18ad0e41b6ee2e522462de1665bad6dee408882d2221037478",
+  "confidence_tier": 4,
+  "date_published": "2026-02-03T08:13:13-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "weekly, escalated",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Feel fine overall despite sleep and HRV issues",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep problems on even low dose of Reta; never resolved despite dose escalation",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "cardiac",
+      "description": "Resting heart rate elevated; HRV is very low",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "heart rate"
+    },
+    {
+      "marker_name": "HRV"
+    }
+  ],
+  "protocol_notes": "Started at 500mcg, escalated to 2mg weekly. Sleep problems persist; using OTC sleeping pills as management. HRV remains low despite feeling physically fine.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.667501Z"
+}

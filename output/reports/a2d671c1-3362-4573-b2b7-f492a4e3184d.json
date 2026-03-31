@@ -1,0 +1,94 @@
+{
+  "id": "a2d671c1-3362-4573-b2b7-f492a4e3184d",
+  "source_id": "1ldt88j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ldt88j/peptides_for_endurance_athletes/",
+  "author_hash": "c1da4114f1e6e26d0af75191cd8f361537d39add74056f7c1630c79e92c8539b",
+  "confidence_tier": 4,
+  "date_published": "2025-06-17T10:26:18-07:00",
+  "training_status": "experienced with peptides and training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MK-677",
+      "name_normalized": "mk_677",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "helps with soft tissue injuries when combined at 250/250/250 dosing",
+      "severity": "mild"
+    },
+    {
+      "category": "mobility",
+      "description": "improves mobility with CJC/Ipamorelin",
+      "severity": "mild"
+    },
+    {
+      "category": "fat_loss",
+      "description": "modest fat loss with CJC/Ipamorelin stack",
+      "severity": "mild"
+    },
+    {
+      "category": "injury_healing",
+      "description": "MK-677 helps a lot more in terms of healing than CJC/Ipamorelin",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "MK-677 caused sluggishness",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_change",
+      "description": "MK-677 caused overeating and some fat gain",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "5 years of CJC-1295 and Ipamorelin experience. CJC/Ipamorelin described as mild in terms of GH benefit (0.5-2 IU equivalent). BPC-157 and TB-500 noted as effective for soft tissue injuries only, not bone.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.688993Z"
+}

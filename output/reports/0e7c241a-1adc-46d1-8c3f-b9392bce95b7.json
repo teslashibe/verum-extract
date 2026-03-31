@@ -1,0 +1,54 @@
+{
+  "id": "0e7c241a-1adc-46d1-8c3f-b9392bce95b7",
+  "source_id": "1q0chkl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q0chkl/dsip_oh_my/",
+  "author_hash": "af20d5405a408f90380956392309761d558e3fbd5eea52af6c60e81f3f8bc763",
+  "confidence_tier": 4,
+  "date_published": "2025-12-31T05:01:26-08:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep improved after adding DSIP to Retatrutide regimen",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Can eat less, be more selective about food choices",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "Generally feels more positive",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Wife reports user has been short with her and appears moody on Retatrutide",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Uses Retatrutide and DSIP together. Sleep was poor on Reta alone, resolved after adding DSIP. User indicates he feels great otherwise with no major side effects reported by him (though wife notices mood changes).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.672344Z"
+}

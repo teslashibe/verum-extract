@@ -1,0 +1,58 @@
+{
+  "id": "88252c1b-8b8e-49e2-828f-060e55da50fd",
+  "source_id": "1rnovs2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rnovs2/new_here_help/",
+  "author_hash": "1fbd32a58b97b1008066f08286da93732ff4a94438797110d33c6a1b4871568a",
+  "confidence_tier": 5,
+  "date_published": "2026-03-07T15:31:27-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "before bed, 5 days on 2 off",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "every morning and night, 5 on 2 off",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "every morning and night, 5 on 2 off",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "2 times a week",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Commenter providing protocol recommendations. Advises against using both Tesamorelin and CJC-1295/Ipamorelin together (both are GHRH). Recommends minimum 8 week cycle for CJC/Ipamorelin. Retatrutide expected to last 1-2 months at 10mg.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.25,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.655712Z"
+}

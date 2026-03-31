@@ -1,0 +1,64 @@
+{
+  "id": "c2e93524-4dc2-4f1e-a431-44fd377354c3",
+  "source_id": "1bk96xj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bk96xj/the_nugget_tesaipa_question/",
+  "author_hash": "ef3376326556c52fa051a6dd709c21dd8f07a93c132690831346c96679e10720",
+  "confidence_tier": 4,
+  "date_published": "2024-03-21T08:26:42-07:00",
+  "training_status": "exercises 5-6x/week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Improved sleep quality and schedule when administered at night",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Tesa/Ipa combo kept subject awake when dosed at night; described as general 'I could stay awake' feeling",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Personal HRT clinic prescription was 400mcg/200mcg Tesa/Ipa which OP considered under-dosed on Tesa side. Planning to administer Tesa/Ipa and CJC/Ipa separately to test subject to isolate which compound affects sleep. Also has individual Ipamorelin vial and combined CJC/Ipamorelin (5/5mg) vial for planned studies; would titrate CJC/Ipa up to 200/200mcg/day, possibly split into 2 doses.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698353Z"
+}

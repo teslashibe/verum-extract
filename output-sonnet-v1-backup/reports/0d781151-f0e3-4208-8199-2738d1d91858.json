@@ -1,0 +1,83 @@
+{
+  "id": "0d781151-f0e3-4208-8199-2738d1d91858",
+  "source_id": "1ojrk9p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ojrk9p/looking_to_use_peptides_for_the_first_time/",
+  "author_hash": "6dd30a09fb4142a0d42cd1d0a32f2315fa10b11845fad5c7fcd03ce8033bfe63",
+  "confidence_tier": 4,
+  "date_published": "2025-10-29T22:35:33-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC1295/Ipamorelin",
+      "name_normalized": "cjc_1295ipamorelin",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "cjc1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "bpc/tb500",
+      "name_normalized": "bpctb500",
+      "category": "other",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Reta at 1.25mg/week was enough to kill most of appetite",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Was able to get to 6-8% BF range before feeling fatigue, compared to hitting fatigue at 10-12% previously",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Increased muscle mass preserved during cut compared to nothing",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Continuously runs BPC/TB500 for recovery support during cut"
+    },
+    {
+      "category": "energy",
+      "description": "Less diet and training fatigue compared to previous cut without peptides",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Stack used during a cut starting mid-spring. Describes it as a pretty optimal cutting stack. Noted it won't have anywhere near the effect of an anabolic compound but combination of GH secretagogue, GLP-1 triple antagonist (Reta), and BPC/TB500 improves outcomes versus no peptides.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.266353Z"
+}

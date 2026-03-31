@@ -1,0 +1,52 @@
+{
+  "compound_id": "ghk_cu_serum",
+  "display_name": "GHK-Cu serum",
+  "category": "other",
+  "total_reports": 3,
+  "reports_by_tier": {
+    "4": 3
+  },
+  "top_benefits": [
+    {
+      "category": "skin",
+      "count": 1,
+      "pct": 33.3
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "other",
+      "count": 2,
+      "pct": 66.7,
+      "avg_severity": 1.5
+    }
+  ],
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "ghk_cu_mist_spray",
+      "display_name": "GHK-Cu mist spray",
+      "report_count": 1
+    },
+    {
+      "compound_id": "ghk_cu_injections",
+      "display_name": "GHK-Cu injections",
+      "report_count": 1
+    },
+    {
+      "compound_id": "ghk_cu_cosmetic_grade_powder",
+      "display_name": "GHK-CU cosmetic grade powder",
+      "report_count": 1
+    }
+  ],
+  "avg_cycle_length_days": 14,
+  "avg_sentiment_score": 0.667,
+  "sentiment_breakdown": {
+    "positive": 2,
+    "mixed": 0,
+    "negative": 1,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.97188Z"
+}

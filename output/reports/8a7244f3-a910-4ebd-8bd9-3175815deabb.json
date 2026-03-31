@@ -1,0 +1,40 @@
+{
+  "id": "8a7244f3-a910-4ebd-8bd9-3175815deabb",
+  "source_id": "1rux4ga",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rux4ga/not_sure_what_to_do/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T19:16:10-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 285,
+    "unit": "lbs"
+  },
+  "training_status": "lifting 4x per week, 4-5 cardio sessions per week (30-45 min each)",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "cycle_length_days": 70,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Started at 365 lbs, current 285 lbs over approximately 1 year. Body fat percentage decreased despite weight plateau in last 10 weeks.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "1800-2200 calories daily, 200-220g protein daily. Started tirzepatide at unknown dose, increased to 15mg. Weight loss stalled for 10 weeks at current dose. Considering switching to retatrutide and/or adding cagrisema.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.65132Z"
+}

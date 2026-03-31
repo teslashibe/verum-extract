@@ -1,0 +1,47 @@
+{
+  "id": "1faab865-c5aa-42a9-9107-f184c776558d",
+  "source_id": "1rr12jp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr12jp/round_2_of_semaglutide_not_working/",
+  "author_hash": "c13972dc7f4a7e4b66a17a5962e85d44f9e3ed1dfd39a55a612033b6289c1f25",
+  "confidence_tier": 4,
+  "date_published": "2026-03-11T10:57:01-07:00",
+  "health_conditions": [
+    "COVID-19",
+    "obesity"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ozempic",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.1,
+      "dose_unit": "mg",
+      "cycle_length_days": 365,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 90 lbs on first round of ozempic at 1mg",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "First round on Ozempic 1mg resulted in 90lb weight loss. Stopped, got COVID, regained ~45 lbs. Started second round of semaglutide at 1.1mg a year ago with no results. Considering switching to Tirzepatide or Retatrutide.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109715Z"
+}

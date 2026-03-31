@@ -1,0 +1,36 @@
+{
+  "id": "c5d5bea5-c511-4c74-99a9-8e9e496cdb30",
+  "source_id": "1rlf6uk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rlf6uk/combos/",
+  "author_hash": "9244ae4db494cb7002ac033817923d5d95691ed80270de084354a5f32fc46ed7",
+  "confidence_tier": 5,
+  "date_published": "2026-03-05T03:27:12-08:00",
+  "health_conditions": [
+    "joint pain"
+  ],
+  "compounds": [
+    {
+      "name_raw": "testosterone injections",
+      "name_normalized": "testosterone_injections",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Joint pain returns if testosterone dose is missed or late",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User does 20mg testosterone per week via injection. Notes joint pain returns when a dose is missed or delayed, suggesting testosterone helps with joint pain management.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112096Z"
+}

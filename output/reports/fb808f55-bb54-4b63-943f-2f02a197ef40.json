@@ -1,0 +1,47 @@
+{
+  "id": "fb808f55-bb54-4b63-943f-2f02a197ef40",
+  "source_id": "12swt93",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/12swt93/best_peptide_for_fat_loss/",
+  "author_hash": "a7e52855d1d662651c8cbe630a56af00b16ad95a38c4754665e7a5e9de5daebf",
+  "confidence_tier": 4,
+  "date_published": "2023-04-20T05:19:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression effect",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Weight loss progress",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Nausea as primary side effect",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started at normal starting dosage of 2.5mg weekly. Now at 7.5mg after a few months. Splits weekly dose due to 120-hour half-life to avoid hunger return on day 5. Extra water intake helps manage side effects. Got user working out more due to weight loss progress acting as incentive.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.127974Z"
+}

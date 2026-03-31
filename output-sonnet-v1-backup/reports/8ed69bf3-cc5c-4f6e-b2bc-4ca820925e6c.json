@@ -1,0 +1,71 @@
+{
+  "id": "8ed69bf3-cc5c-4f6e-b2bc-4ca820925e6c",
+  "source_id": "1s1ng2g",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1ng2g/looking_for_help_for_my_gf_dealing_with_pain/",
+  "author_hash": "e77f7e8d3aefe857f7027b9150b4ac23cf41293049ed7e4b591af3b86b6c3216",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T10:28:36-07:00",
+  "health_conditions": [
+    "soft tissue back issues",
+    "back and knee pain",
+    "allergy to CJC1295 DAC"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC1295 DAC",
+      "name_normalized": "cjc_1295_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GLOW blend",
+      "name_normalized": "glow_blend",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "CJC1295 DAC described as 'a miracle' for soft tissue back issues",
+      "severity": "significant"
+    },
+    {
+      "category": "joint_pain",
+      "description": "GLOW blend helped with back and knee issues, described as good but not as wonderful as CJC1295 DAC",
+      "severity": "moderate"
+    },
+    {
+      "category": "skin",
+      "description": "Skin health effects from GLOW blend were more noticeable than other effects",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Developed an allergy to CJC1295 DAC and can no longer tolerate it",
+      "severity": "significant"
+    },
+    {
+      "category": "injection_site",
+      "description": "Burning sensation if GLOW blend is injected incorrectly; described as off-putting for newbies",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Used CJC1295 DAC back when DAC was new; later switched to GLOW blend for back and knees due to supplier availability. Plans to cycle off GLOW blend and try KLOW next. Notes skepticism about stacked blends being as synergistic as marketed. Mentions modern thought may favor straight CJC1295 or an IPA blend over DAC version.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.10512Z"
+}

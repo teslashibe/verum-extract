@@ -1,0 +1,52 @@
+{
+  "id": "4917a01e-da07-4fd8-bf26-090ac2387d02",
+  "source_id": "1s7f48b",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s7f48b/is_my_reta_dosage_too_high/",
+  "author_hash": "7d96434b0b16457d3f0b0d81c1422f3438142265720324c5454bcb70822b2053",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T20:04:11-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 229,
+    "unit": "lbs"
+  },
+  "training_status": "active training mentioned",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 126,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone Cypionate",
+      "name_normalized": "testosterone_cypionate",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Cut from 244 lbs to 229 lbs over 18 weeks",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Titrated retatrutide from 1mg to 2mg to 4mg to 5mg to current 6mg per week. Height 6'. Mesomorph body type with abs showing but stubborn lower belly fat and love handles. Diet: 2300 calories/day, 225g protein. Started testosterone cypionate during cut after having low testosterone. Initial weight before peptides: 265 lbs.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.655788Z"
+}

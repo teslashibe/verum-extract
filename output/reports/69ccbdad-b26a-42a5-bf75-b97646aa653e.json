@@ -1,0 +1,76 @@
+{
+  "id": "69ccbdad-b26a-42a5-bf75-b97646aa653e",
+  "source_id": "1mdto7t",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mdto7t/is_the_hype_with_ghk_true_when_it_comes_to_skin/",
+  "author_hash": "614cac9663429d3a1ee9b3929328275bb480ce38629224b735a5acd98c18a235",
+  "confidence_tier": 4,
+  "date_published": "2025-07-30T22:56:48-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1.66,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 340,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 340,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "skin is most clear in years, feels thicker",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "deep cat scratch healed with barely visible scar",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "hair",
+      "description": "nails less brittle, split nail finally healed",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "redness, bruising, itchiness around injection site despite splitting dose into 3 shots; fades over time",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "6 weeks on, 3 weeks off cycle. Uses modified Anela protocol with doubled BAC water to reduce stinging. Experiences injection site reaction despite mitigation efforts.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.685908Z"
+}

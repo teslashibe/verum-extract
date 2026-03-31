@@ -1,0 +1,56 @@
+{
+  "id": "e242e03a-9d4b-4d42-a7b9-eab357c0b012",
+  "source_id": "o24vxt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/o24vxt/peptides_for_longevity/",
+  "author_hash": "057a44b876fab195b77f2307d8301fe4f0869eb4da5572266fdd3407026ebd01",
+  "confidence_tier": 5,
+  "date_published": "2021-06-17T12:01:15-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "thymus peptides",
+      "name_normalized": "thymus_peptides",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD subq",
+      "name_normalized": "nad_subq",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "sr9011",
+      "name_normalized": "sr9011",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "NAD subq described as working incredibly well; preferred over humanin and mots-c as more cost-effective alternatives",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "NAD subq can give scar tissue due to acidity",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User prefers epitalon and thymus peptides; recommends replacing other injectable peptides like humanin and mots-c with orals or sr9011 and NAD boosters for cost reasons.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.429891Z"
+}

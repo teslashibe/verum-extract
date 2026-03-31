@@ -1,0 +1,45 @@
+{
+  "id": "2658f11a-fe74-4568-a91c-70963e095a2c",
+  "source_id": "1rb5vbn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rb5vbn/cjcno_dacipam_scary_effects_normal/",
+  "author_hash": "85e1ac2402051b4930ab5094a1ff7a12c2d90b8224bf67655acc2b7bfaaf84e6",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T15:25:23-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "anxiety",
+      "description": "Pulsating tinnitus (thumping in ears from heart rate and blood pressure rising too high)",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "Histamine reaction symptoms that escalated with time",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User discontinued CJC-1295/Ipamorelin due to escalating histamine reaction symptoms. Notes that compound works well for most but is not universally tolerated. Mentions reports of anaphylactic shock in some users.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661353Z"
+}

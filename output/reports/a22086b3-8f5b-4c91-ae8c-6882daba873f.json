@@ -1,0 +1,46 @@
+{
+  "id": "a22086b3-8f5b-4c91-ae8c-6882daba873f",
+  "source_id": "1pmy5cv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pmy5cv/anyone_got_the_copper_uglies_after_starting_ghkcu/",
+  "author_hash": "b261800fc4ab41228af5da78cc0d83a4ccf969acc246fb92a8cf5e931efed783",
+  "confidence_tier": 4,
+  "date_published": "2025-12-14T20:13:19-08:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Zinc",
+      "name_normalized": "zinc",
+      "category": "other",
+      "route": "oral",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Copper uglies resolved after adding zinc picolinate and timing doses separately",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Copper uglies",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 3
+    }
+  ],
+  "protocol_notes": "Takes GHK-Cu and zinc picolinate at different times of day",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.390684Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "1f93c880-16ec-4489-9a08-054485e82308",
+  "source_id": "1afnaml",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1afnaml/peptides_for_loose_skin_after_weight_loss/",
+  "author_hash": "b5c9c6fb3ffb7932419aa01bd9a85099fda6c9283132d296a037750bce51f575",
+  "confidence_tier": 4,
+  "date_published": "2024-01-31T09:28:52-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Helps with loose skin",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Using Anela's protocol (1-2mg GHK-Cu injection daily). Combined with moisturizer and microneedling.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.416968Z"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "a508ce82-9d56-4210-82cc-337ebe39b8cf",
+  "source_id": "1s20gpp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s20gpp/tesamorelinreta/",
+  "author_hash": "0c3ceb1d967b69a35456f205f30ad4544849a29146170caf7757ca802a105cd8",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T18:39:24-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "Hands and arms numb upon waking; tingling reported",
+      "severity": "moderate"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Carpal tunnel symptoms",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Low dose described. Stack of Tesamorelin and Retatrutide. At week 5-6 of protocol.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.65881Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "44e6fee9-44e1-4836-877c-c1b258cf73bd",
+  "source_id": "1o5ucb6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o5ucb6/tesaipa_and_reta_at_same_time/",
+  "author_hash": "420d4acb18c916ce3ca4da5e5e18da6a01a02f791d0ece987022d80d320bb1d4",
+  "confidence_tier": 5,
+  "date_published": "2025-10-13T12:56:15-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IPA",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "OP had retatrutide ordered and had already started tesa/IPA. Was unsure whether they could overlap or should stop tesa/IPA while running low dose Reta. Mentions different mechanisms as reasoning for potential compatibility.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.267836Z"
+}

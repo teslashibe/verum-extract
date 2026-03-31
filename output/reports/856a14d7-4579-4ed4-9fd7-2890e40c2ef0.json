@@ -1,0 +1,45 @@
+{
+  "id": "856a14d7-4579-4ed4-9fd7-2890e40c2ef0",
+  "source_id": "1r66c5j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r66c5j/angiogenesis_from_bpctb/",
+  "author_hash": "6f66b03b61c97ff83e44e18b01f9ce1d243763266a2b25c3aacbfbb450e5d816",
+  "confidence_tier": 4,
+  "date_published": "2026-02-16T02:40:11-08:00",
+  "training_status": "lifts heavy and regularly",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Increased vascularity; new veins observed that weren't present before; people commenting on improved vascular appearance",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "timeframe_days": 60
+    }
+  ],
+  "protocol_notes": "Current cycle duration: 2 months. Previous cycle in 2025 lasted several months with similar vascularity observations. User attributes vascularity gains partially to reduced body fat. Running other unnamed compounds in addition to BPC/TB.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.675874Z"
+}

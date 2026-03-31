@@ -1,0 +1,66 @@
+{
+  "id": "6061e8e4-e092-4337-a401-ff97761f1d90",
+  "source_id": "1r98xrv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r98xrv/dsip_300_mcg_or_1000_mcg/",
+  "author_hash": "5b31a9c000874f6e14ba5827fc644b5c6d6de1110f1667a58ad0c34016f99b3e",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T11:34:03-08:00",
+  "health_conditions": [
+    "insomnia",
+    "sleep maintenance difficulty",
+    "racing thoughts during sleep"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "dose_value": 125,
+      "dose_unit": "mcg",
+      "frequency": "every other day or every third day",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "unknown",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "unknown",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "CJC/Ipamorelin has helped with sleep maintenance; lower DSIP dose (100-150 mcg) more effective than 300 mcg",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Wakes up at 3am every morning with mind wide awake and moving fast",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Reports taking multiple sleep supplements: D3, K2, magnesium glycinate, melatonin, glycine, lion's mane, chaga, ashwagandha. Notes that magnesium malate wakes them up at 2-3am. States that lower DSIP dose (100-150 mcg) knocked them out better than 300 mcg. Frequency adjusted to every other or every third day. Found that reading on phone when waking at 3am helps return to sleep within 15 minutes.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.674497Z"
+}

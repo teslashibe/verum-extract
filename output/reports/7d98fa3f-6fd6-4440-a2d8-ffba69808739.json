@@ -1,0 +1,52 @@
+{
+  "id": "7d98fa3f-6fd6-4440-a2d8-ffba69808739",
+  "source_id": "1k2l1qm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k2l1qm/glp1s_are_so_misunderstood_and_hated_on/",
+  "author_hash": "cf76ae5e7f35488086d11bc45b8e5eb2cc812de9533a8840fbf98fd9f92666e5",
+  "confidence_tier": 4,
+  "date_published": "2025-04-18T18:31:16-07:00",
+  "health_conditions": [
+    "sleep apnea (CPAP-dependent)",
+    "hypertension",
+    "high cholesterol"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "No longer needs CPAP machine after 90 days",
+      "severity": "significant",
+      "onset_days": 90
+    },
+    {
+      "category": "blood_pressure",
+      "description": "No longer requires blood pressure medication after 8 months",
+      "severity": "significant",
+      "onset_days": 240
+    },
+    {
+      "category": "cardiovascular",
+      "description": "Cholesterol numbers at best levels ever",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Weight loss described as mild side effect",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "90 days in on timeline for CPAP discontinuation, 8 months in for BP medication discontinuation. Describes weight loss as only one mild side effect among many body benefits.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.409532Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "18b0294d-f23e-47b5-88cf-5841a3beeaf9",
+  "source_id": "1qu8j8r",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qu8j8r/is_ghkcu_the_only_peptide_that_can_help_improve/",
+  "author_hash": "7cfe2f5d0e5cff8ddf8d98abc0ff9e60f973ffff3479d10ed38496ede6b363c5",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T13:37:03-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "route": "intramuscular",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Both compounds used together for skin benefits"
+    }
+  ],
+  "protocol_notes": "Stacking GHK-Cu (sub-q) and Glutathione (IM)",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.667823Z"
+}

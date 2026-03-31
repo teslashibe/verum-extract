@@ -1,0 +1,33 @@
+{
+  "id": "ffb8205b-7437-46df-8917-dff76f682ba1",
+  "source_id": "1rdruy9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdruy9/is_this_really_true/",
+  "author_hash": "3f2e1996a33737e62b5ddcad07ddddb8721da949d964049e56e1f2f30301ebd7",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T12:35:00-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User injected both GHK-Cu and Retatrutide subcutaneously in the same spot within ~1cm, separated by a few minutes. Normally rotates injection sites on both sides of belly button approximately 4-5cm away from belly button.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.672583Z"
+}

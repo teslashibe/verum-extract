@@ -1,0 +1,45 @@
+{
+  "id": "8a819c4a-b9c5-4a29-95ae-e64c7cb92355",
+  "source_id": "qvgjrr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/qvgjrr/rant_peptides_arent_magic/",
+  "author_hash": "a1ab7b999f1cdcc7f0c3bc24b6b1bd1b9655f4ced2fcb2d8137982bf8d0457ae",
+  "confidence_tier": 4,
+  "date_published": "2021-11-16T11:57:17-08:00",
+  "training_status": "jiu jitsu",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Peptides have helped immensely",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "BPC-157 250mcg 2x daily subcutaneous at injection site. TB-500 2.5mg 2x weekly subcutaneous in belly fat. Cycling for 2 years. Started as recommended by training partners.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.702463Z"
+}

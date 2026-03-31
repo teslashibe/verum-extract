@@ -1,0 +1,65 @@
+{
+  "id": "a772a33e-9af6-404b-b9d0-f8769b88c964",
+  "source_id": "1o9amaz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o9amaz/my_father_has_been_in_pain_for_the_past_15_years/",
+  "author_hash": "a2a1bf68d97c74541304d2b781711b5812bdb2c17219a076887af8022b9da9ac",
+  "confidence_tier": 4,
+  "date_published": "2025-10-17T12:23:32-07:00",
+  "health_conditions": [
+    "minor ligament tear",
+    "hip bursitis"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 12,
+      "dose_unit": "units",
+      "frequency": "once daily",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 12,
+      "dose_unit": "units",
+      "frequency": "once daily",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 12,
+      "dose_unit": "units",
+      "frequency": "once daily",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 12,
+      "dose_unit": "units",
+      "frequency": "once daily",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Using KLOW stack (blend of BPC-157, TB-500, GHK-Cu, KPV) at 12 units per day for 10 days via 1mL insulin syringe. Inquiring about safely increasing to 24 units per day (12 units morning and 12 units evening) for treatment of minor ligament tear and hip bursitis.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.395645Z"
+}

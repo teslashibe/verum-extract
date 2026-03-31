@@ -1,0 +1,43 @@
+{
+  "id": "25a1f4c0-352d-4b6b-b2a8-62d473c2ed80",
+  "source_id": "1s4s3bn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4s3bn/cjc_1295_no_dac_ipamorelin_for_sleep/",
+  "author_hash": "d7b0e154d113a3494617c1ebc6930d12ff7b9d88adf4bf035dda27417d90241a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-26T19:45:15-07:00",
+  "health_conditions": [
+    "hormonal issue"
+  ],
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "better deep sleep with vivid dreaming",
+      "severity": "moderate"
+    },
+    {
+      "category": "hormonal",
+      "description": "fixed a hormonal issue",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "CJC-1295 no DAC formulation; stack with Ipamorelin. Does not induce sleepiness; requires ability to fall asleep for efficacy. User notes does not work as sleep aid for those with difficulty falling asleep.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.646303Z"
+}

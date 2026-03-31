@@ -1,0 +1,46 @@
+{
+  "id": "883d8ae4-c516-4de2-b530-e95313836e65",
+  "source_id": "1r425h1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r425h1/cjc1295pamorelin_rapid_heart_rate/",
+  "author_hash": "5cb23f767a70b19b18a893ca72eb59cecbd52efd5ade5ee042a5f0ea85dce4cc",
+  "confidence_tier": 4,
+  "date_published": "2026-02-13T13:45:21-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Couldn't sleep",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 42
+    },
+    {
+      "category": "endurance",
+      "description": "Cardio went down the toilet",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 42
+    },
+    {
+      "category": "anxiety",
+      "description": "Felt like having a nervous breakdown",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 42
+    }
+  ],
+  "protocol_notes": "Posted about similar issues a couple of years ago. Took approximately 6 weeks to recover after stopping.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.663975Z"
+}

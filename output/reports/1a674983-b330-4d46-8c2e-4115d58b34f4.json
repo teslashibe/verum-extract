@@ -1,0 +1,51 @@
+{
+  "id": "1a674983-b330-4d46-8c2e-4115d58b34f4",
+  "source_id": "1rlm71k",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rlm71k/tesareta_stack/",
+  "author_hash": "62c4ed7ea0a49b0d1ad9c3e87110ca3e6356cb46d95af7da3aca7c3f50ca3d06",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T08:33:00-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 120,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and evening)",
+      "cycle_length_days": 120,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 120,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Can feel and see body recomposing in real time",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Running triple stack of Tesamorelin 2mg daily + Ipamorelin 200-300mcg morning and evening + Retatrutide for approximately 4 months with positive recomposition results.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.668474Z"
+}

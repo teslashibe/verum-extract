@@ -1,0 +1,71 @@
+{
+  "id": "3b1422a4-4a92-4f91-a303-e25f3aff8a16",
+  "source_id": "1rzerz6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzerz6/mots_c_side_effects/",
+  "author_hash": "1446d00d4a53e09a9c784e1a147f3cebb2c764cdbb7f2dd229d4485c839410fe",
+  "confidence_tier": 4,
+  "date_published": "2026-03-20T18:37:39-07:00",
+  "reported_age_range": "40-49",
+  "training_status": "active (lifting, cardio)",
+  "health_conditions": [
+    "seasonal allergies"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Mots C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Great energy boost immediately after injection, felt great all day",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Elevated resting heart rate, slowly increasing over 6 days per Whoop tracker",
+      "severity": "moderate",
+      "onset_days": 1
+    },
+    {
+      "category": "other",
+      "description": "Chest tightening after lifting while on stairmaster; heart rate 160-170 vs normal 130-140 max",
+      "severity": "moderate",
+      "onset_days": 6
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Activated/wired feeling at nighttime, inconsistent sleep",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Increased stress levels per Whoop tracker",
+      "severity": "moderate"
+    },
+    {
+      "category": "injection_site",
+      "description": "Significant burning at injection site at 500mcg dose; added more water to reduce burning",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Reconstituted 10mg bottle with 2cc water; doing 1/10th cc per injection = 500mcg. Also on TRT for 12 years. Experienced peptide user. Decided to stop taking Mots-C after day 6 due to cardiovascular concerns.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106118Z"
+}

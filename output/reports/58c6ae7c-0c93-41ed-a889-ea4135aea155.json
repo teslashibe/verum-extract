@@ -1,0 +1,40 @@
+{
+  "id": "58c6ae7c-0c93-41ed-a889-ea4135aea155",
+  "source_id": "12swt93",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/12swt93/best_peptide_for_fat_loss/",
+  "author_hash": "7fabf29fb41b951c443b909c1d882b1ba0b7f269be7da35e62612a9eab83359f",
+  "confidence_tier": 4,
+  "date_published": "2023-04-20T05:19:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppressant and delays gastric emptying, making user feel full longer",
+      "severity": "moderate"
+    },
+    {
+      "category": "blood_sugar",
+      "description": "Helps regulate blood sugar, staying steady and easier to maintain ketosis",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "blood_sugar"
+    }
+  ],
+  "protocol_notes": "User currently on semaglutide. Notices blood sugar stays steady and easier to stay in ketosis.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.127974Z"
+}

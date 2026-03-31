@@ -1,0 +1,68 @@
+{
+  "id": "3b1c3027-bbfc-4f3f-909a-6d7ec6adadfe",
+  "source_id": "1nr1qtw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nr1qtw/on_tirz_and_losing_slowly_need_help/",
+  "author_hash": "619704059f73ccdfab34df9a70ef6565e096da13aa2cfe85de77274bfdf19364",
+  "confidence_tier": 4,
+  "date_published": "2025-09-26T06:44:30-07:00",
+  "reported_sex": "female",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "3 times per week",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 100 pounds over 2 years at slower pace",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "able to eat meals out, normal size BP cuff usage",
+      "severity": "moderate"
+    },
+    {
+      "category": "joint_pain",
+      "description": "knees and back not hurting",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "At 7.5mg Tirzepatide, experienced lack of interest in doing stuff, described as 'eh' but not tired",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "appetite_change",
+      "description": "Microdosing Retatrutide because 2mg changes sensitivity to salt",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Switched from 7.5mg Tirzepatide to 5mg Tirzepatide (original dose too strong). Now microdosing Retatrutide at 1-1.5mg 3 times per week (3-4mg total weekly) instead of standard 2mg dose due to salt sensitivity. Values non-scale victories including clothing size reduction.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.680705Z"
+}

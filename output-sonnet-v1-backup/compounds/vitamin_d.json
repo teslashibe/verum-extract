@@ -1,0 +1,48 @@
+{
+  "compound_id": "vitamin_d",
+  "display_name": "Vitamin D",
+  "category": "other",
+  "total_reports": 2,
+  "reports_by_tier": {
+    "5": 2
+  },
+  "top_benefits": null,
+  "top_side_effects": null,
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "tb_500",
+      "display_name": "tb500",
+      "report_count": 2
+    },
+    {
+      "compound_id": "kpv",
+      "display_name": "kvp",
+      "report_count": 1
+    },
+    {
+      "compound_id": "lcarnatine",
+      "display_name": "l-carnitine",
+      "report_count": 1
+    },
+    {
+      "compound_id": "taurine",
+      "display_name": "taurine",
+      "report_count": 1
+    },
+    {
+      "compound_id": "coq10",
+      "display_name": "coq10",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.625,
+  "sentiment_breakdown": {
+    "positive": 1,
+    "mixed": 0,
+    "negative": 0,
+    "neutral": 1
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.966109Z"
+}

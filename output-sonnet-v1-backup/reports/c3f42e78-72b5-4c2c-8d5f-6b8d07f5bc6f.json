@@ -1,0 +1,57 @@
+{
+  "id": "c3f42e78-72b5-4c2c-8d5f-6b8d07f5bc6f",
+  "source_id": "1ldt88j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ldt88j/peptides_for_endurance_athletes/",
+  "author_hash": "82ffcc362a9f9a1755ad5b1a9c8be49acbf63b4fbc8fadb5ee3f4dbbb2d45945",
+  "confidence_tier": 4,
+  "date_published": "2025-06-17T10:26:18-07:00",
+  "training_status": "Marathon runner, currently ~50 mpw building to 70 mpw peak",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 20,
+      "dose_unit": "mg",
+      "frequency": "divided over 3 days before race",
+      "cycle_length_days": 3,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC+Ipa",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Improved cardiovascular endurance during marathon; ran 3:04 with sustained high heart rate compared to previous 3:10:10 performance",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Using BPC, TB500, and CJC+Ipa stack for recovery during training block"
+    }
+  ],
+  "protocol_notes": "Ran 3:10:10 previously at avg HR 164. With 20mg MOTS-C split over last 3 days before race, ran 3:04 with HR 164 first half and ~174 second half. Currently mid-training block at ~50 mpw, plans to use MOTS-C mid-block and again 1-2 weeks before race. Also on BPC, TB500, and CJC+Ipa stack currently.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.281533Z"
+}

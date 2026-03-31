@@ -1,0 +1,46 @@
+{
+  "id": "b94835e0-d337-47a2-a60f-548f5ddd2e44",
+  "source_id": "1bo5olh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bo5olh/bpc157_freaking_me_out_a_bit/",
+  "author_hash": "f99a3d7ed956aa0dc156fe82ead247bd7714caeb0ce7b9a2250e38031eb978be",
+  "confidence_tier": 4,
+  "date_published": "2024-03-26T04:36:02-07:00",
+  "health_conditions": [
+    "suspected labrum tear in shoulder"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "Feels less stressed and anti-anxiety effect noticed immediately; describes self as normally a very 'stressy' person",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Shooting pain sensation behind shoulder and front of shoulder after injection into left side delt; described as BANG pain, more uncomfortable than painful, comes and goes randomly",
+      "severity": "mild",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Injecting with 0.5 inch needle into left side delt as local injection for suspected labrum tear. Started 3 days prior to comment.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294149Z"
+}

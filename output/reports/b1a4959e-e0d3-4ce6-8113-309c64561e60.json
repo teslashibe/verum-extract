@@ -1,0 +1,46 @@
+{
+  "id": "b1a4959e-e0d3-4ce6-8113-309c64561e60",
+  "source_id": "1kg65tu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kg65tu/ghrp6_is_a_life_saver_for_me/",
+  "author_hash": "08c8cd427788bb9715b9f7e6760e42eb33d22b44bdd325bc812f4b3a6eecc1cb",
+  "confidence_tier": 4,
+  "date_published": "2025-05-06T07:40:03-07:00",
+  "health_conditions": [
+    "appetite_loss"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GHRP-6",
+      "name_normalized": "ghrp_6",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Stimulates ghrelin, creates hunger sensation, enables weight gain and improved energy levels",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Steady weight gain achieved",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Relief from weakness and lethargy",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Dosing protocol: Start 100 mcg, increase by 100 mcg every 2 weeks up to 300 mcg maximum, then take a 6-week break. User suspected appetite loss may be stress-related or constitutional. Has been force-feeding in fasted state for most of life before treatment.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.408443Z"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "db9e9d7c-bc66-42ee-8729-f5455110560b",
+  "source_id": "1rp2ehc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rp2ehc/40m57_200lbs178lbs_3_years_body_recomp/",
+  "author_hash": "44e1f0777f377da237fa3cd201696873b5a2f932c2eef104175cbb2a9372f8a4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T07:55:57-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 178,
+    "unit": "lbs"
+  },
+  "training_status": "consistent gym routine, working out regularly",
+  "health_conditions": [
+    "low testosterone (hypogonadism)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 1095,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GLP-1",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost from 200 lbs to 178 lbs over 3 years; 196 to 178 lbs in the final 3 months with GLP-1",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "GLP-1 used to 'turn off all the noise from food', enabling calorie deficit adherence",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Body recomposition noted over year 2 with consistent gym routine",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "OP is 40M, 5'7\". Started at ~200 lbs, now 178 lbs over 3 years. Year 1: TRT only with some fat loss. Year 2: added consistent gym routine, slow body recomposition. Year 3: added GLP-1, went from 196 to 178 lbs in ~3 months. TRT is physician-prescribed and monitored with 2 blood tests per year. Combined approach of calorie counting, macro tracking, protein targets, caloric deficit, consistent sleep, and training.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.110493Z"
+}

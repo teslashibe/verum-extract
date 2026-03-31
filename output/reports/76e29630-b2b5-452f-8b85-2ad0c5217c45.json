@@ -1,0 +1,55 @@
+{
+  "id": "76e29630-b2b5-452f-8b85-2ad0c5217c45",
+  "source_id": "1s2s3x4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s2s3x4/terrible_stomach_discomfort/",
+  "author_hash": "7d47b817b53b930ca6e7d70cb93bb0d9c4cc186a55c90a2a8816c8c5029d1e6e",
+  "confidence_tier": 4,
+  "date_published": "2026-03-24T15:08:29-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 210,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5x weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Terrible stomach discomfort and pains, nausea, sharp stabbing pains",
+      "severity": "significant",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "On Retatrutide since September 2025 with decreased dose. Recently started MOTS-c at 3x 1mg weekly and GHK-Cu at 1mg 5x per week 2 weeks ago. Changed BAC water source from original bottle to sterile water from hospital. Reconstituted peptides with non-BAC sterile water, potentially introducing bacterial contamination.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.647222Z"
+}

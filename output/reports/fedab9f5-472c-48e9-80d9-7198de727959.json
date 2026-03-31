@@ -1,0 +1,38 @@
+{
+  "id": "fedab9f5-472c-48e9-80d9-7198de727959",
+  "source_id": "1531nje",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1531nje/i_blew_off_through_the_5th_vial_no_changes_except/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2023-07-18T08:32:21-07:00",
+  "reported_weight": {
+    "value": 16,
+    "unit": "kg"
+  },
+  "compounds": [
+    {
+      "name_raw": "GHRP",
+      "name_normalized": "ghrp_6",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Increased hunger",
+      "severity": "significant"
+    },
+    {
+      "category": "weight_change",
+      "description": "Gained approximately 16 kg",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Completed 5 vials of GHRP product. No noticeable muscle gain reported. Weight gain attributed to increased appetite from peptide.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.701159Z"
+}

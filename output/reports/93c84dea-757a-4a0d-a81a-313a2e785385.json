@@ -1,0 +1,86 @@
+{
+  "id": "93c84dea-757a-4a0d-a81a-313a2e785385",
+  "source_id": "1kgcrqv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kgcrqv/the_wolverine_peptide/",
+  "author_hash": "e549296478f3f681e463363fad9f2255d77d3b10d0e769f1d391c729e3459df7",
+  "confidence_tier": 4,
+  "date_published": "2025-05-06T12:04:39-07:00",
+  "reported_sex": "male",
+  "training_status": "carpenter since age 18, currently surfing-focused",
+  "health_conditions": [
+    "severe back pain",
+    "herniated disc",
+    "spinal stenosis",
+    "post-microdiscectomy and micro-laminotomy"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Minimal post-operative pain 24 hours after micro discectomy and micro-laminotomy; did not require narcotic pain medication",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "injury_healing",
+      "description": "Able to walk carefully around surgical site with minimal discomfort; surgeon noted minimal nerve irritation",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "pain_relief",
+      "description": "Before surgery, peptides enabled tolerance of work despite years of crippling back pain",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Post-operative stiffness and nagging sciatica",
+      "severity": "mild",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Used BPC-157 and TB-500 on and off for 3 months (2 cycles) prior to surgery. Loaded system with BPC and TB approximately 2 weeks before surgery. Continued regimen through post-op period (at least 6 days post-op). Plans to continue until 6 weeks post-op. Injected subcutaneously into belly fat pinch using bacteriostatic water reconstitution. Reports overall discomfort down 85% by day 6 post-op. Carpenter by trade for 30+ years.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.691358Z"
+}

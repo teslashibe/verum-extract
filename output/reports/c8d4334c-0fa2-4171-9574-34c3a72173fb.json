@@ -1,0 +1,47 @@
+{
+  "id": "c8d4334c-0fa2-4171-9574-34c3a72173fb",
+  "source_id": "1bpsf65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bpsf65/semaglutide_is_amazing/",
+  "author_hash": "74af5ee5f4f151ffe84dcfa7c92096cd04bcce9e93c8d4b3a0fe02e00d2549d3",
+  "confidence_tier": 4,
+  "date_published": "2024-03-28T03:39:16-07:00",
+  "health_conditions": [
+    "binge eating disorder"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "5-HTP",
+      "name_normalized": "5_htp",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "No longer care about fatty/bad foods, no binge eating or emotional comfort attachment to food",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "5-HTP leveled out mood and stopped emotional comfort seeking behavior towards food",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User notes 5-HTP dose is 100mg at night, which is half the recommended 200mg dose. Semaglutide key but 5-HTP was crucial for emotional eating behavior. Still ate bad food just less of it on Semaglutide alone.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.415931Z"
+}

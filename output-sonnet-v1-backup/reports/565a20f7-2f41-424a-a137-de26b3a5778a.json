@@ -1,0 +1,47 @@
+{
+  "id": "565a20f7-2f41-424a-a137-de26b3a5778a",
+  "source_id": "1rciw9r",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rciw9r/hard_lump_on_injection_site/",
+  "author_hash": "3e176e2f7bfaad6774523b24c63bd4f297441791d45458d1087db1ad041b60c9",
+  "confidence_tier": 5,
+  "date_published": "2026-02-23T06:28:14-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "cjc1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Itchy lumps/welts at injection site with tesamorelin; resolved within 24-48 hours after stopping",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 2
+    }
+  ],
+  "protocol_notes": "Switched from tesamorelin to CJC1295 + ipamorelin stack due to itchy lump side effects. Notes the itchy lumps are less of a problem with the CJC/IPA combo.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.115642Z"
+}

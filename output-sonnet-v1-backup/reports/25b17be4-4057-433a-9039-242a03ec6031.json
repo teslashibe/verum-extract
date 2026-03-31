@@ -1,0 +1,65 @@
+{
+  "id": "25b17be4-4057-433a-9039-242a03ec6031",
+  "source_id": "1nyzyxs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nyzyxs/repost_wrong_picture_for_12th_week_finally/",
+  "author_hash": "8a92989a2b4bd05916791a315c507ef5a6dc6f0847963a8f1901d6efafa02fe5",
+  "confidence_tier": 4,
+  "date_published": "2025-10-05T14:00:04-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 78,
+    "unit": "kg"
+  },
+  "training_status": "active, resistance training during cut",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "intramuscular",
+      "dose_value": 300,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "eq",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "intramuscular",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Completed a cut further than OP, finished at 78kg, now sitting at 83-84kg on maintenance with visible abs",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Reta noted as fairly muscle sparing during cut; regained strength and weight on maintenance (glycogen refill)",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Way stronger after transitioning to maintenance calories post-cut",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Ran 2-5mg per week of Retatrutide with calorie deficit and training. Used EQ for E2 control. After cut finished at 78kg, now at 83-84kg on maintenance with visible abs still present. Attributes strength loss during cut to glycogen depletion rather than muscle loss.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.268982Z"
+}

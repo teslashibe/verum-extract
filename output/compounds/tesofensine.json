@@ -1,0 +1,91 @@
+{
+  "compound_id": "tesofensine",
+  "display_name": "Tesofensine",
+  "category": "body_composition",
+  "total_reports": 5,
+  "reports_by_tier": {
+    "4": 5
+  },
+  "top_benefits": [
+    {
+      "category": "energy",
+      "count": 3,
+      "pct": 60
+    },
+    {
+      "category": "appetite_suppression",
+      "count": 3,
+      "pct": 60
+    },
+    {
+      "category": "fat_loss",
+      "count": 2,
+      "pct": 40
+    },
+    {
+      "category": "thermogenesis",
+      "count": 2,
+      "pct": 40
+    },
+    {
+      "category": "cognitive",
+      "count": 1,
+      "pct": 20
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "sleep_disruption",
+      "count": 2,
+      "pct": 40,
+      "avg_severity": 2
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "oral",
+      "dose": 0.5,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 2,
+      "pct": 40
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Retatrutide",
+      "report_count": 3
+    },
+    {
+      "compound_id": "bam15",
+      "display_name": "BAM15",
+      "report_count": 2
+    },
+    {
+      "compound_id": "5_amino_1mq",
+      "display_name": "5-Amino-1MQ",
+      "report_count": 2
+    },
+    {
+      "compound_id": "rad140",
+      "display_name": "RAD-140",
+      "report_count": 2
+    },
+    {
+      "compound_id": "lgd_4033",
+      "display_name": "LGD-4033",
+      "report_count": 2
+    }
+  ],
+  "avg_cycle_length_days": 24,
+  "avg_sentiment_score": 1,
+  "sentiment_breakdown": {
+    "positive": 5,
+    "mixed": 0,
+    "negative": 0,
+    "neutral": 0
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T04:48:57.358765Z"
+}

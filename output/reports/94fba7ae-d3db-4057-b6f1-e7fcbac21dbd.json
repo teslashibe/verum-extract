@@ -1,0 +1,43 @@
+{
+  "id": "94fba7ae-d3db-4057-b6f1-e7fcbac21dbd",
+  "source_id": "1rx991i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx991i/anyone_taken_cerebrolysin/",
+  "author_hash": "81a3b1f63a7dfb80c25af5bd07973210280435ed3ac71008e3ffb94a3b94c01a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T09:51:46-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Cerebrolysin",
+      "name_normalized": "cerebrolysin",
+      "category": "cognitive",
+      "route": "intramuscular",
+      "dose_value": 1,
+      "dose_unit": "ml",
+      "frequency": "daily",
+      "cycle_length_days": 12,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Most obvious and consistent effect on various parts of brain function; benefits persisted 2 weeks after discontinuation",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Injection fatigue from running multiple peptides simultaneously",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Cut cycle short due to injection fatigue and cycling other peptides; reported option to run at lower than 5ml/day IM maximum",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.661548Z"
+}

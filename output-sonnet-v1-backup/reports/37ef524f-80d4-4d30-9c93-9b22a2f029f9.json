@@ -1,0 +1,46 @@
+{
+  "id": "37ef524f-80d4-4d30-9c93-9b22a2f029f9",
+  "source_id": "1q7ci5x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q7ci5x/ghkcu_welts/",
+  "author_hash": "3ad07231752c8f8b760affc80ccab7d36c4adb6748a071918ea32e2375632ed8",
+  "confidence_tier": 4,
+  "date_published": "2026-01-08T05:59:50-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Taking GHK-Cu at night does wonders for sleep",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Skin irritation and mild post-injection pain lasting hours when using 5/16\" 31G needle (too shallow); resolved by switching to 1/2\" 30G needle for deeper injection",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Initially used 5/16\" 31G needle in belly causing skin irritation. Switched to 1/2\" 30G needle injecting deeper into belly, resolving irritation. Takes GHK-Cu as part of KLOW blend at night.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.255903Z"
+}

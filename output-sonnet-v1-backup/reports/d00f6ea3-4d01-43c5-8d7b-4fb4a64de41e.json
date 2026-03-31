@@ -1,0 +1,62 @@
+{
+  "id": "d00f6ea3-4d01-43c5-8d7b-4fb4a64de41e",
+  "source_id": "n3d54g",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/n3d54g/ruined_vasectomy/",
+  "author_hash": "e1c8a01cbe723fea624573f4c2c5b8042926d90ff161b7b2b506cfccafe67633",
+  "confidence_tier": 4,
+  "date_published": "2021-05-02T11:56:04-07:00",
+  "reported_sex": "male",
+  "compounds": [
+    {
+      "name_raw": "GHK Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "twice daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB 500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 750,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "once daily 5 days on 2 days off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mod GRF 1-29",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "once daily 5 days on 2 days off",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User is running a healing protocol and planning to get a vasectomy. Concerned about whether the peptide stack could interfere with the procedure. Sourced from Xpeptides.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.43028Z"
+}

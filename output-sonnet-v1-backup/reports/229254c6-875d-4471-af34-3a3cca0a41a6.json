@@ -1,0 +1,96 @@
+{
+  "id": "229254c6-875d-4471-af34-3a3cca0a41a6",
+  "source_id": "1lht1y7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lht1y7/cjc1295_ipamorelin_with_testosterone_replacement/",
+  "author_hash": "41c48b123cff766e9200754cb331ed7173b1ae7bf2b17e443b055d255dd41851",
+  "confidence_tier": 4,
+  "date_published": "2025-06-22T10:11:53-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "heavy lifting protocol, lean build with low body fat",
+  "health_conditions": [
+    "slightly underweight prior to TRT",
+    "elbow issue",
+    "shoulder issue"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Test-C",
+      "name_normalized": "test_c",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 120,
+      "dose_unit": "mg",
+      "frequency": "40mg every other day",
+      "cycle_length_days": 300,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295 (no DAC)",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "5 on / 2 off",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "5 on / 2 off",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Gained approximately 15 lbs on TRT with proper dieting and heavy lifting; hoping peptides will add additional 10 lbs of lean mass",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "High Estradiol when on 140mg/week TRT dose; not taking an AI",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Total Testosterone",
+      "value_before": 350,
+      "value_after": 1080,
+      "unit": "ng/dl",
+      "timeframe_days": 300
+    },
+    {
+      "marker_name": "Free Testosterone",
+      "value_after": 22,
+      "unit": "ng/dl"
+    },
+    {
+      "marker_name": "Bioavailable Testosterone",
+      "value_after": 535,
+      "unit": "ng/dl"
+    },
+    {
+      "marker_name": "IGF-1",
+      "value_after": 160,
+      "unit": "ng/ml"
+    }
+  ],
+  "protocol_notes": "10 months on TRT with great results. Currently planning to start CJC-1295 (no DAC) + Ipamorelin based on Jay Campbell's protocol of 200 mcg (5 on/2 off) for 8-10 weeks on/off. Previously ran 140mg/week TRT (70mg twice weekly) with trough of 1,260 ng/dl but had high Estradiol. Switched to 40mg EOD. Goal is optimization for later years, not bodybuilding.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.281058Z"
+}

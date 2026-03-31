@@ -1,0 +1,38 @@
+{
+  "id": "22306c10-e0a5-46a4-8022-2f3f209c00d1",
+  "source_id": "1rtgaod",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rtgaod/kisspeptin/",
+  "author_hash": "5ac3f93d79eb8d6427575e3660f28151f91e41fc785317e2363092fd3ad4aa49",
+  "confidence_tier": 3,
+  "date_published": "2026-03-14T03:47:17-07:00",
+  "compounds": [
+    {
+      "name_raw": "Kisspeptin",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "route": "subcutaneous",
+      "frequency": "2x daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "LH"
+    },
+    {
+      "marker_name": "FSH"
+    },
+    {
+      "marker_name": "Testosterone"
+    },
+    {
+      "marker_name": "Free Testosterone"
+    }
+  ],
+  "protocol_notes": "Administered fasted, subcutaneous, twice daily. Before and after bloodwork conducted. LH and FSH increased marginally but T and Free T did not meaningfully increase. User notes that studies showing increases used continuously administered IV, which is difficult to replicate with twice daily subq dosing.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.108518Z"
+}

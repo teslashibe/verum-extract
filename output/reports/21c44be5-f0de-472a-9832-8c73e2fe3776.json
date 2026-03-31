@@ -1,0 +1,50 @@
+{
+  "id": "21c44be5-f0de-472a-9832-8c73e2fe3776",
+  "source_id": "1lh0fgl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lh0fgl/my_brain_crashes_and_motivation_drops_anywhere/",
+  "author_hash": "2b66071e483509d3a9e10cced1d24f45ec902aa5222979f7dde4dd173cc2e600",
+  "confidence_tier": 5,
+  "date_published": "2025-06-21T09:22:51-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 0.25,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "some success with Teso and Selank/Semax for energy",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "Teso can elevate heart rate",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Recommends starting with 1/4 dose of Tesamorelin due to heart rate elevation. Mentions using Teso and Selank/Semax with some success.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.405729Z"
+}

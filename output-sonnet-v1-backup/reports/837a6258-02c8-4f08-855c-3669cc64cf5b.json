@@ -1,0 +1,39 @@
+{
+  "id": "837a6258-02c8-4f08-855c-3669cc64cf5b",
+  "source_id": "1jlds0z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jlds0z/did_peptides_cause_my_autoimmune_disease/",
+  "author_hash": "a89091594b5ea11767762f00071acc773579c96176db84e5a5a000642f3037d9",
+  "confidence_tier": 5,
+  "date_published": "2025-03-27T14:08:45-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "Mixed Connective Tissue Disease (MCTD)"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Onset of autoimmune disease (MCTD) following Sema use; symptoms appeared after fourth injection and never went away",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "RNP"
+    }
+  ],
+  "protocol_notes": "Used Sema purchased from Arctic Peptides 4 times last April. All labs fall into normal range except low positive RNP. Diagnosed with MCTD based on RNP result and symptoms. Symptoms persisted after fourth injection.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.286768Z"
+}

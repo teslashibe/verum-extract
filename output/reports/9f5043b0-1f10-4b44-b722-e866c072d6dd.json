@@ -1,0 +1,74 @@
+{
+  "id": "9f5043b0-1f10-4b44-b722-e866c072d6dd",
+  "source_id": "1lht1y7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lht1y7/cjc1295_ipamorelin_with_testosterone_replacement/",
+  "author_hash": "41c48b123cff766e9200754cb331ed7173b1ae7bf2b17e443b055d255dd41851",
+  "confidence_tier": 4,
+  "date_published": "2025-06-22T10:11:53-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "heavy lifting protocol",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "every other day",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "every other day",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 120,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Total Testosterone",
+      "value_before": 350,
+      "value_after": 1080,
+      "unit": "ng/dL",
+      "timeframe_days": 300
+    },
+    {
+      "marker_name": "Free Testosterone",
+      "value_after": 22,
+      "unit": "ng/dL"
+    },
+    {
+      "marker_name": "Bioavailable Testosterone",
+      "value_after": 535,
+      "unit": "ng/dL"
+    },
+    {
+      "marker_name": "IGF-1",
+      "value_before": 160,
+      "unit": "ng/mL"
+    }
+  ],
+  "protocol_notes": "Planning to run CJC-1295 (no DAC) + Ipamorelin for 8-10 weeks. Currently on TRT at 120mg/week (40mg EOD). Previously ran 70mg twice weekly with high estradiol. Considering Jay Campbell's protocol (200 mcg, 5 on/2 off). Goals: optimize body composition, add ~10 lbs lean mass, improve joint health due to elbow and shoulder concerns. Already lean with low body fat, gained 15 lbs on TRT.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.405661Z"
+}

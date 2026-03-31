@@ -1,0 +1,66 @@
+{
+  "id": "71b00909-20c6-4162-887d-99c1e320d940",
+  "source_id": "1r200a5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r200a5/has_anyone_stacked_reta_on_top_of_max_sema/",
+  "author_hash": "e2041e585bcb1c9a1c2fd1ec1e90e5ba8766b43f1661a08736384117e0386be8",
+  "confidence_tier": 4,
+  "date_published": "2026-02-11T07:14:39-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "cycle_length_days": 240,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Liraglutide",
+      "name_normalized": "liraglutide",
+      "category": "other",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "blood_sugar",
+      "description": "Tanked LDL and boosted HDL better than pharma liraglutide, pharma tirzepatide, and grey retatrutide",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Made user starving the entire duration",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "LDL",
+      "timeframe_days": 240
+    },
+    {
+      "marker_name": "HDL",
+      "timeframe_days": 240
+    }
+  ],
+  "protocol_notes": "Pharma-grade semaglutide used for 6-8 months. User compared to pharma liraglutide, pharma tirzepatide, and grey-market retatrutide. Favorable lipid profile compared to other GLP-1/GIP agonists.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.664886Z"
+}

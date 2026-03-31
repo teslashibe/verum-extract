@@ -1,0 +1,41 @@
+{
+  "id": "a9af54e9-1cd8-4d45-8f31-66b2f6c5197c",
+  "source_id": "1naxhz1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1naxhz1/multiple_peptides_with_1_syringe/",
+  "author_hash": "476912914595a6fa4b860d964c22685e7973cc0d935cb7cb3d66ef654e0f539f",
+  "confidence_tier": 5,
+  "date_published": "2025-09-07T09:20:44-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Provided information on peptide compatibility for mixing: GHK-Cu has reactive copper ion that can oxidize or bind other peptides; Tesamorelin has fragile structure and manufacturer explicitly recommends against mixing; BPC-157 and TB-500 can be mixed but only if injected immediately after mixing.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.398865Z"
+}

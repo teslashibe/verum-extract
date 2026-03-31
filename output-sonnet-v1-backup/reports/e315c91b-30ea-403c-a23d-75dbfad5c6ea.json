@@ -1,0 +1,59 @@
+{
+  "id": "e315c91b-30ea-403c-a23d-75dbfad5c6ea",
+  "source_id": "1jb1y10",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jb1y10/longevityantiaging_peptide_stack_thoughts/",
+  "author_hash": "6013a93ae6dd7e50d35a781a4146cbf2f3e2e2ae31dee4104c59974e830ae8c8",
+  "confidence_tier": 4,
+  "date_published": "2025-03-14T04:43:36-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "every 4 days",
+      "cycle_length_days": 17,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Pinealon",
+      "name_normalized": "pinealon",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep greatly improved after adding Pinealon; Epitalon alone improved sleep but found Pinealon more effective",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Energy boost noted; first dose taken at night caused too much energy to fall asleep quickly, so switched to morning",
+      "severity": "moderate"
+    },
+    {
+      "category": "cognitive",
+      "description": "Clarity reported",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Took Epitalon/peptide at night on first use; caused energy boost that delayed sleep onset",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "References a Russian/Ukrainian protocol of 10mg per injection across 4 total injections spread over 17 days. Switched dosing to morning or mid-morning to avoid sleep disruption. Added Pinealon which significantly improved sleep over Epitalon alone.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.287089Z"
+}

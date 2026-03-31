@@ -1,0 +1,58 @@
+{
+  "id": "bb2c464a-d60f-47da-b0e5-5fa58524e14a",
+  "source_id": "1mgzpzz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mgzpzz/whats_up_everyonethis_is_for_those_who_benefited/",
+  "author_hash": "dedfac32fe3cbef0c012a4d76cdbcf55f3b626ef29b82b936b0d9564653906e9",
+  "confidence_tier": 4,
+  "date_published": "2025-08-03T17:54:18-07:00",
+  "health_conditions": [
+    "long Covid",
+    "depression",
+    "seasonal depression"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "nasal",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selynk",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "Depression resolved completely, no more highs and lows, emotional stability maintained",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive",
+      "description": "Felt like a god the first snort, never felt better in life",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Rollercoaster of effects after initial dose",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Used semax intranasal at 15mg (likely a typo for 15mcg or mg; noted as 'wrong dose'). Combined with Selank after initial semax use. Context of recovering from long Covid.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.276608Z"
+}

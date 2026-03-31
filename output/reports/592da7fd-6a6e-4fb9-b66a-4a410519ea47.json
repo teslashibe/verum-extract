@@ -1,0 +1,208 @@
+{
+  "id": "592da7fd-6a6e-4fb9-b66a-4a410519ea47",
+  "source_id": "1rr6gal",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr6gal/reta_recomp_3lbs_of_lean_mass_5lbs_of_fat_in_a/",
+  "author_hash": "06360ccaaf8a36b5e206e10a38e92ad10e82c1f83d9a5e324e586c255883cf45",
+  "confidence_tier": 3,
+  "date_published": "2026-03-11T14:06:51-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 220,
+    "unit": "lbs"
+  },
+  "training_status": "former athlete, 4-5 days/week strength training with zone 2 cardio",
+  "health_conditions": [
+    "reconstructed knee",
+    "achilles tendonitis"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly, then every 3 days at 1mg",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "intramuscular",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "intramuscular",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily loading, then 5mg daily",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "L-Carnitine",
+      "name_normalized": "l_carnitine",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "pre-workout",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5x per week",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "intramuscular",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "3x per week",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 5.3lbs of fat in phase 2; visceral fat dropped 37% in 4 weeks, 49% from baseline",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Gained 3.1lbs total lean mass, 1.5lbs skeletal muscle mass",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Immediate appetite suppression from Reta in week 1",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "energy",
+      "description": "Highest energy levels since turning 30; NAD+ reversed initial fatigue; SS-31 and MOTS-c provided significant energy boost",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "sleep",
+      "description": "Measurable sleep improvement tracked by RingConn",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "joint_pain",
+      "description": "Nagging injuries started to feel solid",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "recovery",
+      "description": "Strength improvements and better workout performance",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "body_composition",
+      "description": "Recomp effect: gained muscle while losing fat simultaneously",
+      "severity": "significant",
+      "onset_days": 21
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Initial lethargy from Reta in week 1",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 7
+    },
+    {
+      "category": "fatigue",
+      "description": "SS-31 caused fatigue on day 4 of phase 2",
+      "severity": "significant",
+      "onset_days": 4,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "blood_pressure",
+      "description": "Initial drop in HRV from Reta; stabilized after ~4 weeks",
+      "severity": "moderate",
+      "onset_days": 7,
+      "resolved": true,
+      "resolution_days": 21
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body composition (inBody scan)",
+      "value_before": 220,
+      "unit": "lbs",
+      "timeframe_days": 28
+    },
+    {
+      "marker_name": "lean mass",
+      "value_after": 3.1,
+      "unit": "lbs gained",
+      "timeframe_days": 28
+    },
+    {
+      "marker_name": "fat mass",
+      "value_after": -5.3,
+      "unit": "lbs lost",
+      "timeframe_days": 28
+    },
+    {
+      "marker_name": "skeletal muscle mass",
+      "value_after": 1.5,
+      "unit": "lbs gained",
+      "timeframe_days": 28
+    },
+    {
+      "marker_name": "water weight",
+      "value_after": 2.2,
+      "unit": "lbs gained",
+      "timeframe_days": 28
+    },
+    {
+      "marker_name": "visceral fat",
+      "value_after": -37,
+      "unit": "% reduction",
+      "timeframe_days": 28
+    }
+  ],
+  "protocol_notes": "Phase 1 (weeks 1-4): Retatrutide + NAD+. Phase 2 (weeks 5-8): Added SS-31, L-Carnitine, Tesamorelin, MOTS-c. Also attempted KLOW for knee (deemed wrong choice). Adjusted Reta from weekly to every 3 days at 1mg in phase 2. Increased carb intake on training days. Training: 4-5 days/week, 75-90 minutes with supersets plus daily 30-45 min zone 2 cardio. Protein intake ~200g/day from dairy, whey, steak, chicken, fish. Critical note: MOTS-c requires isotonic BAC water with 0.9% NaCl; regular hypotonic water causes severe injection site pain and welts. NAD+ requires pH-buffered formulation and isotonic water for IM injection to avoid pain.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.95,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.665313Z"
+}

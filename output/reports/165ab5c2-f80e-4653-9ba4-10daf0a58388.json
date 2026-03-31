@@ -1,0 +1,67 @@
+{
+  "id": "165ab5c2-f80e-4653-9ba4-10daf0a58388",
+  "source_id": "1rwbvxo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwbvxo/hungry_on_reta/",
+  "author_hash": "1b9bbfcb72e935329824301ef769c2964f8912c92efbf428f753e863d26153d4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-17T09:44:27-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 370,
+    "unit": "lbs"
+  },
+  "training_status": "exercise",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 12,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 270,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "70 pounds down over 9 months",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "few days of nausea",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "RHR",
+      "timeframe_days": 270
+    },
+    {
+      "marker_name": "BP",
+      "timeframe_days": 270
+    },
+    {
+      "marker_name": "insulin",
+      "timeframe_days": 270
+    },
+    {
+      "marker_name": "glucose",
+      "timeframe_days": 270
+    }
+  ],
+  "protocol_notes": "Rapid titration: Week 1=2.5mg, Week 2=5mg, Week 3=7.5mg, Week 4=10mg, Week 5+=12mg. Prior retatrutide experience with established good tolerance. DEXA scans obtained before/after. Vial tested by Janoshik for verification. Monitored RHR, BP, sleep, insulin, glucose. Goal was time-bound weight loss for cruise preparation. Accepted trade-offs including some lean muscle loss.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.65069Z"
+}

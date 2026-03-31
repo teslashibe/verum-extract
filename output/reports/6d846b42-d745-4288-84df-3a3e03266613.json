@@ -1,0 +1,44 @@
+{
+  "id": "6d846b42-d745-4288-84df-3a3e03266613",
+  "source_id": "1f1lxlv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1f1lxlv/maxed_on_tirz_add_reta/",
+  "author_hash": "d0cd6918e8ac44d9765508a7b099792abc26e171f29dda83876bd17bbc56592e",
+  "confidence_tier": 4,
+  "date_published": "2024-08-26T04:33:14-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Tirzepatide alone was ineffective; combination with Retatrutide working",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Tirzepatide monotherapy was ineffective. Switched to combination of Retatrutide 6.0mg/week and Tirzepatide 2.0mg/week spaced out.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696642Z"
+}

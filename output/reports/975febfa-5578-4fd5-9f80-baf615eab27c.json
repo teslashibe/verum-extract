@@ -1,0 +1,37 @@
+{
+  "id": "975febfa-5578-4fd5-9f80-baf615eab27c",
+  "source_id": "1rys86u",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rys86u/bpc157_tb500_dosage_after_tendon_surgery_question/",
+  "author_hash": "69203b74533d3393577098cc3412d5dc4834530db29c623d564708bba8d001b9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-20T03:04:13-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 4.5,
+      "dose_unit": "mg",
+      "frequency": "twice per week",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Post-op tendon surgery protocol. TB-500 loading phase weeks 1-4 at 4-5mg/week, then weeks 5-12 at 2-2.5mg/week. No loading phase for BPC-157. Recommends adequate protein intake and physical therapy.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660864Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "a47b6b6a-b4bf-4855-a24e-371d3c5d57a8",
+  "source_id": "1mwcln6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mwcln6/why_is_there_a_negative_stigma_for_glp1_users/",
+  "author_hash": "93ed73942d0e9b59db5a141e99e791c5a01937bf5b6727e8ab7ed80f4bb6f60c",
+  "confidence_tier": 4,
+  "date_published": "2025-08-21T07:32:41-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 410,
+    "unit": "lbs"
+  },
+  "training_status": "sedentary (equipment operator)",
+  "health_conditions": [
+    "ulcerative colitis",
+    "depression",
+    "low testosterone",
+    "obesity"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 72lbs since March 2024",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Happier and feeling much better",
+      "severity": "significant"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Knee pain resolved",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "Improved sleep quality",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Testosterone",
+      "value_before": 73,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "Using Wegovy (brand name for semaglutide) and TRT. History of ulcerative colitis on prednisone, parents divorced at age 13, stress eating developed then. Highest weight 410lbs in March 2024. Current weight loss 72lbs (down to 338lbs). Sedentary job, knee pain from obesity. Baseline testosterone critically low at 73 ng/dL.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.684163Z"
+}

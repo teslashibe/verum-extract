@@ -1,0 +1,42 @@
+{
+  "id": "c46a90f6-1709-4eea-af8c-b73b0e07696a",
+  "source_id": "1rjg6q1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rjg6q1/bad_hgh/",
+  "author_hash": "e94fccf9a9fe1c133abf8a7700ac4368aaeb98be50992b42950747a98fbd68c2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T20:50:06-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_unit": "IU",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "General positive results from cloudy HGH tested at 97% purity",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "HGH purity",
+      "value_after": 97,
+      "unit": "%"
+    },
+    {
+      "marker_name": "dimer content"
+    }
+  ],
+  "protocol_notes": "Has been using cloudy HGH for nearly 20 years. Tested at 97% purity with low dimer content. Used cloudy vials (15iu and 36iu) for 6 months in Melbourne. Reports no difference between cloudy and clear formulations.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.657601Z"
+}

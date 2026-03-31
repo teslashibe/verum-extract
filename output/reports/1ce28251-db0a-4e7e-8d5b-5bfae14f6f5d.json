@@ -1,0 +1,53 @@
+{
+  "id": "1ce28251-db0a-4e7e-8d5b-5bfae14f6f5d",
+  "source_id": "1l8cyhh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1l8cyhh/tirz_and_methadone/",
+  "author_hash": "dc0d5412096f53b234f839d6b053d2084afbcd5bccca8d8d2258708277f30189",
+  "confidence_tier": 4,
+  "date_published": "2025-06-10T15:52:37-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss effects observed at lower dosing",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Constipation significant at higher doses (7.5-10 mg)",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep medication takes longer to kick in; adjusted to 3 hours before bed",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "appetite_change",
+      "description": "Decreased desire to drink alcohol; previously a social drinker",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Dose titration: started low, increased to 7.5 mg, then 10 mg daily. Delayed gastric emptying effects noted with reduced sleep medication absorption. Daily Miralax used for constipation management.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.40661Z"
+}

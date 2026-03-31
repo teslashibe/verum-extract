@@ -1,0 +1,42 @@
+{
+  "id": "f5764492-280c-4088-acc7-844be5e9cba1",
+  "source_id": "1rmijcn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmijcn/sermorelin_or_motsc/",
+  "author_hash": "351944eccc7626dfbe18179c76c7035ebafa82788c6a915a7677278bda97bb65",
+  "confidence_tier": 4,
+  "date_published": "2026-03-06T08:24:57-08:00",
+  "training_status": "fasted cardio",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "5-Amino-1MQ",
+      "name_normalized": "5_amino_1mq",
+      "category": "body_composition",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Sweating like a hoe n church during fasted cardio",
+      "severity": "moderate",
+      "onset_days": 21
+    }
+  ],
+  "protocol_notes": "3 weeks into protocol at time of comment. Stack includes MOTS-C 1mg and 5-amino (5mg, likely 5-Amino-1MQ).",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.656134Z"
+}

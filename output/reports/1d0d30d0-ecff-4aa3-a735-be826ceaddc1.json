@@ -1,0 +1,52 @@
+{
+  "id": "1d0d30d0-ecff-4aa3-a735-be826ceaddc1",
+  "source_id": "1ryjyx5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ryjyx5/alternating_injection_spots_wolverine_stack/",
+  "author_hash": "94487f8fbf30dd83ac39217bd7ed6bb59d0794d03ad9298bbb6de3b23d755e21",
+  "confidence_tier": 4,
+  "date_published": "2026-03-19T19:17:57-07:00",
+  "reported_sex": "male",
+  "training_status": "strength training",
+  "health_conditions": [
+    "shoulder injury"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Completely reversed shoulder reconstruction surgery. Went from zero range of motion and pain to full weight shoulder and chest presses. No gym activity brings pain or concern.",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Full recovery of shoulder function and pain-free strength training.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Wolverine stack protocol: BPC-157 500mcg daily injected directly into shoulder injury site (subcutaneous), TB-500 3x weekly into abdomen (subcutaneous). User emphasizes localized injection at injury site for BPC due to shorter half-life. Cites Dr. Hyman and Trevor Bachmeyer podcasts on rationale. Completely avoided shoulder reconstruction surgery.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.649577Z"
+}

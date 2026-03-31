@@ -1,0 +1,34 @@
+{
+  "id": "34ddd1e4-71f4-46ce-a79b-014b0e79ba7c",
+  "source_id": "1rbvmmm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rbvmmm/tesamorelin_histamine_reaction_anyone/",
+  "author_hash": "4478e73ce7adfd9f5f016d97aad500e9e0bf0594ddd5a5420d7235cb858517a5",
+  "confidence_tier": 4,
+  "date_published": "2026-02-22T11:51:40-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Systemic histamine reaction with itching everywhere, beginning of hives, raised heart rate",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Cycled tesamorelin off and on multiple times. Histamine reaction occurred on last two doses of most recent cycle. Reaction subsided quickly with Benadryl. Uses 1/2 inch syringe. Considering switching to sermorelin or ipamorelin.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.67345Z"
+}

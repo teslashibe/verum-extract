@@ -1,0 +1,40 @@
+{
+  "id": "dee30a33-1a62-4536-ae68-8ceb3a534972",
+  "source_id": "1mj7i3z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mj7i3z/what_retratutide_starting_dose_if_i_tolerated/",
+  "author_hash": "65e51b2e86ce4b7c2632a2be7e1cc025e07a4502300719fad31708b77a22bb22",
+  "confidence_tier": 4,
+  "date_published": "2025-08-06T08:19:26-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Had issues on semaglutide previously; took slower titration approach on Retatrutide and has not had any issues",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started Retatrutide at 0.5mg, then 1mg the following week, titrating up by 1mg each week. Took slower approach due to previous issues with semaglutide.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.27635Z"
+}

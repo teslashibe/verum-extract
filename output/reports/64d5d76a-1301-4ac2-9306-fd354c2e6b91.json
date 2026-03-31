@@ -1,0 +1,58 @@
+{
+  "id": "64d5d76a-1301-4ac2-9306-fd354c2e6b91",
+  "source_id": "1kpkzto",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kpkzto/different_protocols_and_cycles_noted_down_for_you/",
+  "author_hash": "40255abdade3cfac2d8efe3890de8c18ab73f69496f3114225da13af1b088189",
+  "confidence_tier": 4,
+  "date_published": "2025-05-18T07:16:23-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Semaglutide had way less hunger and food noise at 0.75mg/week",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost more weight with Semaglutide compared to Tirzepatide",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Retatrutide may be better for body recomp",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User stacked Tirzepatide and Retatrutide for a few weeks and was fine. Planning to dose Retatrutide at 6mg split between 2 days/week or 1mg daily. Total timeframe: 7 months across all three compounds.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.408047Z"
+}

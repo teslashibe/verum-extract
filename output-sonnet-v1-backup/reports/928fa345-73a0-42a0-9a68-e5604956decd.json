@@ -1,0 +1,59 @@
+{
+  "id": "928fa345-73a0-42a0-9a68-e5604956decd",
+  "source_id": "156zljc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/156zljc/i_used_to_love_opening_the_kitchen_fridge/",
+  "author_hash": "ac5e445d4d25210d16b1f5d596bdcb88c9a0efd11abfd862b246653778ecc0db",
+  "confidence_tier": 4,
+  "date_published": "2023-07-22T17:07:41-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD 9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipamorelin/CJC 1295 w/o DAC",
+      "name_normalized": "ipamorelincjc_1295_wo_dac",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Using tirzepatide for weight loss"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Using AOD 9604 for leaning out, been on for 6 weeks"
+    },
+    {
+      "category": "sleep",
+      "description": "Ipamorelin/CJC 1295 w/o DAC caused deep restful sleep",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Two research subjects sharing a supply with 3 daily pins total. Tirz is from Phat Strength in 10mg vials. OP keeps approximately 1.5 month supply in circulation and stores peptides in a dedicated mini fridge with food-grade silica packets for humidity control.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.297395Z"
+}

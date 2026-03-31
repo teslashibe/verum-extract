@@ -1,0 +1,69 @@
+{
+  "id": "3f34f720-9b14-4429-af41-c8082426be94",
+  "source_id": "1n5qiin",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n5qiin/tesaipa_vs_hgh_cost_effectiveness_and_longterm/",
+  "author_hash": "6a177159634fb87e83ea65d57eed1e3e1c90c4de792573ccb40a4e78fc3acd9f",
+  "confidence_tier": 4,
+  "date_published": "2025-09-01T07:40:54-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Skin felt great",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Body felt great overall",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Trimmed a little fat",
+      "severity": "mild"
+    },
+    {
+      "category": "sleep",
+      "description": "Slept very hard on it (initially positive but also disruptive)",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Slept so damn hard, made it difficult to wake up in the morning with kids starting school",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Messed with IGF levels; mitigated by intermittent fasting and switching to AM pins",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "Ran 1 IU/day of GH for a couple of months. Stopped due to lifestyle change (kids starting school, needed easier mornings). Later resumed with intermittent fasting and keto/low-carb diet which eliminated the sleep side effect and improved results. Switched to AM pins.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.273127Z"
+}

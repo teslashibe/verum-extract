@@ -1,0 +1,53 @@
+{
+  "id": "b25e563d-6f0a-495c-a75a-52494a639ddb",
+  "source_id": "txohe1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/txohe1/bpc157_tb500_for_a_heart_condition_in_a_minor_if/",
+  "author_hash": "ef60db21f69bb27723c79f26abdff052773cb12332fe0e833b499854f49ee549",
+  "confidence_tier": 4,
+  "date_published": "2022-04-06T08:15:30-07:00",
+  "health_conditions": [
+    "Wolff-Parkinson-White syndrome",
+    "shoulder bursitis",
+    "frozen shoulder",
+    "ankle sprain",
+    "dural puncture complication",
+    "chronic headaches"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "headache",
+      "description": "Fewer and less severe headaches after 12 weeks; some days no headache at all. Chronic severe headaches since 2017 from dural puncture complication. Believes peptides may be helping heal the dural hole.",
+      "severity": "significant"
+    },
+    {
+      "category": "pain_relief",
+      "description": "Reduction in headache severity and frequency",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "12 weeks into BPC-157 \u0026 TB-500 stack. Originally started for shoulder bursitis and frozen shoulder with minimal improvement in those areas. Significant improvement noted in chronic headaches from 2017 dural puncture complication. User concerned headaches may return when current supply runs out and is planning to continue injections.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.702283Z"
+}

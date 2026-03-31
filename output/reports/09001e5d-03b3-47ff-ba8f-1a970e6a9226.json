@@ -1,0 +1,56 @@
+{
+  "id": "09001e5d-03b3-47ff-ba8f-1a970e6a9226",
+  "source_id": "1r98xrv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r98xrv/dsip_300_mcg_or_1000_mcg/",
+  "author_hash": "fa1a6e688faea0440d4be44177271367a396af2604cd0e202c45fc4b8b72a8ec",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T11:34:03-08:00",
+  "health_conditions": [
+    "insomnia",
+    "sleep maintenance difficulty",
+    "vivid dreams"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Improved sleep with ability to return to sleep quickly after waking to use bathroom",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Mind won't relax, thinking about random things or music in head, cortisol spike-like feeling making it uncomfortable to stay in bed",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User combining DSIP and Ipamorelin with magnesium supplementation. Reports hit or miss results with Ipamorelin. Started DSIP at 300 mcg nightly with positive initial results.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662168Z"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "196cc843-0434-44d2-a048-253a94fa52fc",
+  "source_id": "1qcumm0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qcumm0/cymbalta_blocks_glp1s/",
+  "author_hash": "527a308f6f21a448adb1a1f7f7b7378779fea85efadf5983069fd2c8ece68311",
+  "confidence_tier": 4,
+  "date_published": "2026-01-14T10:10:10-08:00",
+  "health_conditions": [
+    "depression (on Cymbalta)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Cymbalta",
+      "name_normalized": "cymbalta",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 60,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Reta proving highly effective at appetite suppression when dosed above 4mg/week despite concurrent Cymbalta use",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "On 60mg Cymbalta daily. Reta effective above 4mg/week dose. Suggests Cymbalta may have changed OP's set point and recommends titrating Reta dose to find effective suppression threshold.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.124913Z"
+}

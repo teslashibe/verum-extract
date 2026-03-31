@@ -1,0 +1,46 @@
+{
+  "id": "3b041074-4b0f-4bbf-926f-5ed7105b8007",
+  "source_id": "1aryspf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1aryspf/first_time_running_bpc_and_tb/",
+  "author_hash": "a08cf650d6806a3b4d86f8360bbde32ee0941d0a117d633aa8f4f5a74586ab24",
+  "confidence_tier": 5,
+  "date_published": "2024-02-15T19:33:05-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "frequency": "morning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "frequency": "at night",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep improved after switching BPC to morning and TB500 to night. Believes TB500 helped sleep.",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "BPC negatively affected sleep when not taken in the morning",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Adjusted timing mid-cycle after hearing BPC can negatively affect sleep. Switched BPC to morning and TB500 to night with positive results.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294793Z"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "fc6638cf-da51-430e-85ec-2f392918866b",
+  "source_id": "1rt68tn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rt68tn/reta_anxiety_attacks/",
+  "author_hash": "14d850456db729dccfbfa9213939998b17c29fb0ba82ab2ee25eb0e323c4c2b5",
+  "confidence_tier": 4,
+  "date_published": "2026-03-13T18:30:56-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "health_conditions": [
+    "naturally anxious person"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "every 4th day",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_pressure",
+      "description": "Resting heart rate climbed from 65bpm to 78bpm over 3 weeks",
+      "severity": "moderate",
+      "resolved": false
+    },
+    {
+      "category": "mood_change",
+      "description": "Massive panic/anxiety attack requiring ER visit; thought going into anaphylaxis; second anxiety attack at work, couldn't breathe",
+      "severity": "significant",
+      "onset_days": 14,
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "resting heart rate",
+      "value_before": 65,
+      "value_after": 78,
+      "unit": "bpm",
+      "timeframe_days": 21
+    }
+  ],
+  "protocol_notes": "Stopped Reta after panic attacks. Prescribed escitalopram 10mg by Telehealth doctor. ECG, blood tests, blood pressure, CT scan, swab all came back normal at ER. Considering retry in a couple of months with antihistamine pretreatment from a different vial.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.108731Z"
+}

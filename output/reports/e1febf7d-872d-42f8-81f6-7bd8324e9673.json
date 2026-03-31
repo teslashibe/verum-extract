@@ -1,0 +1,43 @@
+{
+  "id": "e1febf7d-872d-42f8-81f6-7bd8324e9673",
+  "source_id": "1qrps3k",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qrps3k/first_time_with_peptides_kinda_messed_up/",
+  "author_hash": "a48fa64c6a6f9361beaccf67b37e29c37deef528b7252d62bdeb334f10742e97",
+  "confidence_tier": 4,
+  "date_published": "2026-01-30T18:21:33-08:00",
+  "training_status": "warehouse worker",
+  "health_conditions": [
+    "tennis elbow",
+    "rotator cuff issue (5+ years)",
+    "knee hyperextension"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "single dose",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "single dose",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "5/5mg blend (BPC-157/TB-500), reconstituted with 1ml BAC water (intended 2ml), administered subcutaneous to stomach. User initially thought they had dosed 1000mcg but clarification from community revealed each peptide was 500mcg separately.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.681866Z"
+}

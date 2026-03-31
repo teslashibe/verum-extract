@@ -1,0 +1,44 @@
+{
+  "id": "a1bb7fa8-3eaf-4754-a5f8-e78df014e585",
+  "source_id": "1qeh9rd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qeh9rd/best_growth_hormone_peptide_to_pair_with/",
+  "author_hash": "d9674c89630d4f0b2b654b7fe178f44c27169d7124b895490dd9a25c756b21ed",
+  "confidence_tier": 4,
+  "date_published": "2026-01-16T06:23:03-08:00",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Slept like a baby",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Injection site was very itchy for days every time injected",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Had to quit due to persistent injection site itchiness",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.67095Z"
+}

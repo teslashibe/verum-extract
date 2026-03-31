@@ -1,0 +1,42 @@
+{
+  "id": "35954940-bc41-47ba-8f57-9b4c922d21d5",
+  "source_id": "1r8r26a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r8r26a/allergic_reaction_while_using_cjc_1295_no_dac_and/",
+  "author_hash": "90c11e05d24181a95740ddb86d7c8ab7c6093ff74d4e249b84a19e1af0d0aec7",
+  "confidence_tier": 4,
+  "date_published": "2026-02-18T21:44:59-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Mast cell histamine response on first use or two from a new vial, then subsides",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Takes antihistamine before pinning and keeps epi pen on hand. Recommends stopping if reaction continues past 2nd or 3rd pin. Current stack is 100 mcg of each twice daily.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.11686Z"
+}

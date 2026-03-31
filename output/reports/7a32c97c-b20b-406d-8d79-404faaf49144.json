@@ -1,0 +1,54 @@
+{
+  "id": "7a32c97c-b20b-406d-8d79-404faaf49144",
+  "source_id": "1c6h4bl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1c6h4bl/any_peptides_for_depression/",
+  "author_hash": "097f3d8b398e805050d6d56994d44151e9e9e748e8b257062fa77c3f36b6e91a",
+  "confidence_tier": 4,
+  "date_published": "2024-04-17T11:21:17-07:00",
+  "health_conditions": [
+    "depression"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MIF-1",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cerebrolysin",
+      "name_normalized": "cerebrolysin",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mL",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "Cerebrolysin has mood brightening effect",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "NAD improves mitochondrial function",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Cerebrolysin has mood brightening effect in like 2 hours at 2 mL dose. Notes that NAD is not exactly a peptide but subQ NAD can help.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.415576Z"
+}

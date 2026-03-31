@@ -1,0 +1,46 @@
+{
+  "id": "d5c21ced-657c-4249-a304-33da8150abf5",
+  "source_id": "1ry993p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ry993p/need_help_assessing_what_to_take/",
+  "author_hash": "d0b7d1ad92ebfa015736c86f38ce61553e613eb7be5c301c91ef7ce57f55925b",
+  "confidence_tier": 4,
+  "date_published": "2026-03-19T11:57:34-07:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "low testosterone"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone Cypionate",
+      "name_normalized": "testosterone_cypionate",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "twice per week",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Brought testosterone levels from 110ng/dL up to 1200ng/dL",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_before": 110,
+      "value_after": 1200,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "TRT protocol using intramuscular testosterone cypionate. User reports significant improvement in levels.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.649666Z"
+}

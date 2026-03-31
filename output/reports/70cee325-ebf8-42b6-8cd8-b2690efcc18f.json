@@ -1,0 +1,49 @@
+{
+  "id": "70cee325-ebf8-42b6-8cd8-b2690efcc18f",
+  "source_id": "1r425h1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r425h1/cjc1295pamorelin_rapid_heart_rate/",
+  "author_hash": "0cd044ecfc3cea08bd9434b7997ff4ce6a0f3d5ff6ed27fe026b3513fb74c0a0",
+  "confidence_tier": 4,
+  "date_published": "2026-02-13T13:45:21-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "headache",
+      "description": "Head pressure",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "flushing",
+      "description": "Flushing",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "cardiac",
+      "description": "Elevated heart rate",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Reports that head pressure, flushing, and elevated heart rate start around 5 minutes after taking and last for 10-15 minutes. States almost everyone gets this response.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.663975Z"
+}

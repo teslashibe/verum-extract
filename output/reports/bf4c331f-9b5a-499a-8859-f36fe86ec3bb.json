@@ -1,0 +1,54 @@
+{
+  "id": "bf4c331f-9b5a-499a-8859-f36fe86ec3bb",
+  "source_id": "1gptorb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1gptorb/need_combination_advise_i_am_kidney_disease/",
+  "author_hash": "dedfac32fe3cbef0c012a4d76cdbcf55f3b626ef29b82b936b0d9564653906e9",
+  "confidence_tier": 4,
+  "date_published": "2024-11-12T11:51:44-08:00",
+  "health_conditions": [
+    "non-diabetic proteinuric renal disease"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Osthole",
+      "name_normalized": "osthole",
+      "category": "other",
+      "route": "oral",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Serrapeptase",
+      "name_normalized": "serrapeptase",
+      "category": "other",
+      "route": "oral",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "nasal",
+      "frequency": "daily, may take 2 doses 12 hours apart",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "kidney_pain",
+      "description": "Healed non-diabetic proteinuric renal disease",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Protocol sourced from naturopath. Includes rebound therapy 4-10 minutes daily for lymphatic drainage. Claims complete healing of renal disease at any stage in no more than 30 days. User references supporting research articles on osthole fibrosis reduction, serrapeptase therapeutic potential, and BPC-157 gut health benefits.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.695544Z"
+}

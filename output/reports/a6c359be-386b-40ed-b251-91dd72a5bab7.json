@@ -1,0 +1,33 @@
+{
+  "id": "a6c359be-386b-40ed-b251-91dd72a5bab7",
+  "source_id": "1rk287p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rk287p/hgh_secretagogue_bloodwork/",
+  "author_hash": "84e5201b20e2787133b9baa9dfea745223148abeb87f9e051085399ad57e6d9a",
+  "confidence_tier": 3,
+  "date_published": "2026-03-03T13:32:01-08:00",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 350,
+      "dose_unit": "mcg",
+      "frequency": "nightly",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 103,
+      "value_after": 171,
+      "unit": "ng/mL"
+    }
+  ],
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.95,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.669307Z"
+}

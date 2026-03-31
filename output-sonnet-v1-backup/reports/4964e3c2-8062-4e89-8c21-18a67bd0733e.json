@@ -1,0 +1,39 @@
+{
+  "id": "4964e3c2-8062-4e89-8c21-18a67bd0733e",
+  "source_id": "1rkh5k3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rkh5k3/cjc_and_ipa_dose/",
+  "author_hash": "c58166c59b281cbba919ca0d42cf27e0d00213fdbb4d8594ba68906642e29c36",
+  "confidence_tier": 3,
+  "date_published": "2026-03-04T01:36:45-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC (no DAC)",
+      "name_normalized": "cjc_no_dac",
+      "category": "other",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IPA",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "timeframe_days": 42
+    }
+  ],
+  "protocol_notes": "User reported 10% increase in IGF-1 at 100mg/100mg (no DAC). Doubled the dose and retested IGF-1 6 weeks later with no improvement over lower dose. Reports feeling none of the benefits. Dose unit listed as mg which is likely a transcription error by the user (probably mcg).",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112352Z"
+}

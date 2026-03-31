@@ -1,0 +1,59 @@
+{
+  "id": "ceb55740-2b0e-4af2-b81a-50f769aad096",
+  "source_id": "1rtra6z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rtra6z/ss31_severe_fatigue_and_tiredness/",
+  "author_hash": "48d420ad026800add6f91ca97291164e2c8475f3059eb7c46805131dc15dd4e8",
+  "confidence_tier": 4,
+  "date_published": "2026-03-14T11:42:49-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "active (workouts mentioned)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "before workouts",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "MOTS-C gives extreme energy and truly helps training",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Almost an anxiety feeling in the first 30 minutes after MOTS-C injection",
+      "severity": "mild"
+    },
+    {
+      "category": "other",
+      "description": "Palpitations from MOTS-C, partially controlled with magnesium and CoQ10",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started SS-31 every morning at 2mg with no tiredness. Started MOTS-C 2 weeks later. Avoids MOTS-C outside of training due to palpitations. Uses magnesium and CoQ10 to manage palpitations. 47 year old male.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.108432Z"
+}

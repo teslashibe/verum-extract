@@ -1,0 +1,55 @@
+{
+  "id": "872034d5-bbd9-46df-a60d-44e20641a3b6",
+  "source_id": "1gptorb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1gptorb/need_combination_advise_i_am_kidney_disease/",
+  "author_hash": "dedfac32fe3cbef0c012a4d76cdbcf55f3b626ef29b82b936b0d9564653906e9",
+  "confidence_tier": 4,
+  "date_published": "2024-11-12T11:51:44-08:00",
+  "health_conditions": [
+    "non-diabetic proteinuric renal disease"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Osthole",
+      "name_normalized": "osthole",
+      "category": "other",
+      "route": "oral",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Serrapeptase",
+      "name_normalized": "serrapeptase",
+      "category": "other",
+      "route": "oral",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "nasal",
+      "frequency": "1-2x daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "kidney_health",
+      "description": "Healed non-diabetic proteinuric renal disease at any stage of damage",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Protocol from naturopath. Take one dose of each agent on empty stomach daily until healed for no more than 30 days. May take two doses of BPC-157 12 hours apart for additional effects. Includes daily rebounding (4-10 minutes) for lymphatic drainage. Claims complete healing in one week. Anecdotal report with supporting scientific articles provided.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.41274Z"
+}

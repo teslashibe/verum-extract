@@ -1,0 +1,37 @@
+{
+  "id": "e01c9357-eca5-4cdd-ba2e-cf1f8ab1ceaa",
+  "source_id": "1rwekc3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwekc3/mon_avis_sur_reta_ghkcu_nad_et_bpc157/",
+  "author_hash": "2cec8b3c95cbb674a197457dfbb5594f8b898c7bb895690743070153bb9e5892",
+  "confidence_tier": 5,
+  "date_published": "2026-03-17T11:16:07-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "NAD+ causing fatigue, compounding fatigue already experienced from Retatrutide",
+      "severity": "moderate",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "Just started NAD+ after 2 days of use. Already on Retatrutide which was causing fatigue.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.650497Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "b6f96624-fa4a-4255-8060-c2b2439a2faa",
+  "source_id": "1s1m7p6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1m7p6/glow_x_accutane/",
+  "author_hash": "5b5e332c96f938dfc977dd9ff474dd55ebff45f38f216048c8733412a5bf2521",
+  "confidence_tier": 5,
+  "date_published": "2026-03-23T09:46:48-07:00",
+  "health_conditions": [
+    "acne"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "help with scar healing post-Accutane treatment"
+    }
+  ],
+  "protocol_notes": "Stopped GLOW stack during Accutane treatment; planning to restart after treatment ends for scar healing",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.647925Z"
+}

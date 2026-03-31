@@ -1,0 +1,50 @@
+{
+  "id": "9e53664a-f4d1-4eb4-8c7a-7bc241dbee00",
+  "source_id": "1mqkduy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mqkduy/sermorelin_whats_the_hype/",
+  "author_hash": "ffff2f020997e404bf678719eb8dbe9c1b00284c3a95fd88f24ac0354635cf04",
+  "confidence_tier": 4,
+  "date_published": "2025-08-14T19:00:39-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "health_conditions": [
+    "multiple ortho issues",
+    "sleep problems"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 5,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 5,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "worked wonders for multiple ortho issues causing sleep problems",
+      "severity": "significant",
+      "onset_days": 5
+    },
+    {
+      "category": "recovery",
+      "description": "helps with recovery",
+      "severity": "significant",
+      "onset_days": 5
+    }
+  ],
+  "protocol_notes": "47-year-old male, started 5 days ago with stack of Sermorelin and BPC-157.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.684673Z"
+}

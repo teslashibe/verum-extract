@@ -1,0 +1,55 @@
+{
+  "id": "238cce22-56ee-4489-be94-b6fa23c84d38",
+  "source_id": "1keurvb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1keurvb/glow_help/",
+  "author_hash": "b01fc69999fdb026715837808b7cd353238c580f0ea6ce89d5827103df530246",
+  "confidence_tier": 4,
+  "date_published": "2025-05-04T14:21:11-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "daily (morning)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily (morning)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "2x daily (morning and evening)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Reports protocol works great",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Minor sting at injection site",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Uses exact same blend as OP (50/10/10 mg). Adds 2mL bacteriostatic water. Doses 10 units daily in morning, adds additional BPC-157 dose in evening.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.40859Z"
+}

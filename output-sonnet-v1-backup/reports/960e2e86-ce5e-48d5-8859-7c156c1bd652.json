@@ -1,0 +1,55 @@
+{
+  "id": "960e2e86-ce5e-48d5-8859-7c156c1bd652",
+  "source_id": "1rlm71k",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rlm71k/tesareta_stack/",
+  "author_hash": "62c4ed7ea0a49b0d1ad9c3e87110ca3e6356cb46d95af7da3aca7c3f50ca3d06",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T08:33:00-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "7 days a week",
+      "cycle_length_days": 120,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_unit": "mcg",
+      "frequency": "morning and evening",
+      "cycle_length_days": 120,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 120,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Can feel and see body recomposing in real time after ~4 months on the stack",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Body recomposition noted, implying muscle gain alongside fat loss",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Running Tesamorelin 2mg 7 days/week plus Ipamorelin 200-300mcg morning and evening, plus Reta, for approximately 4 months. Recommends this combination to OP.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112003Z"
+}

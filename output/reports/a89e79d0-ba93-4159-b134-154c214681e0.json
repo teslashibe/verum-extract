@@ -1,0 +1,44 @@
+{
+  "id": "a89e79d0-ba93-4159-b134-154c214681e0",
+  "source_id": "1s5kpjv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s5kpjv/mt_2/",
+  "author_hash": "fc89164405ac75d88767cb4122b7b53dd8673aa2857e2e493339b1ed09a14e0d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-27T16:47:28-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "tanning effect requires multiple sessions"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "nausea early in use",
+      "severity": "mild"
+    },
+    {
+      "category": "flushing",
+      "description": "flushing early in use",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Start with 250 mcg one hour before tanning. Effects take several sessions to develop, not rapid. Tanning booth/bed sessions limited by equipment constraints initially.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.645944Z"
+}

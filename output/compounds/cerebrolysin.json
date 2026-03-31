@@ -1,0 +1,198 @@
+{
+  "compound_id": "cerebrolysin",
+  "display_name": "Cerebrolysin",
+  "category": "cognitive",
+  "total_reports": 44,
+  "reports_by_tier": {
+    "3": 2,
+    "4": 30,
+    "5": 12
+  },
+  "top_benefits": [
+    {
+      "category": "cognitive",
+      "count": 33,
+      "pct": 103.1
+    },
+    {
+      "category": "mood",
+      "count": 12,
+      "pct": 37.5
+    },
+    {
+      "category": "sleep",
+      "count": 9,
+      "pct": 28.1
+    },
+    {
+      "category": "energy",
+      "count": 5,
+      "pct": 15.6
+    },
+    {
+      "category": "injury_healing",
+      "count": 4,
+      "pct": 12.5
+    },
+    {
+      "category": "other",
+      "count": 3,
+      "pct": 9.4
+    },
+    {
+      "category": "inflammation",
+      "count": 2,
+      "pct": 6.3
+    },
+    {
+      "category": "libido",
+      "count": 2,
+      "pct": 6.3
+    },
+    {
+      "category": "anxiety_relief",
+      "count": 1,
+      "pct": 3.1
+    },
+    {
+      "category": "fat_loss",
+      "count": 1,
+      "pct": 3.1
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "headache",
+      "count": 4,
+      "pct": 12.5,
+      "avg_severity": 2.5
+    },
+    {
+      "category": "sleep_disruption",
+      "count": 3,
+      "pct": 9.4,
+      "avg_severity": 2
+    },
+    {
+      "category": "hair_change",
+      "count": 3,
+      "pct": 9.4,
+      "avg_severity": 3
+    },
+    {
+      "category": "injection_site",
+      "count": 2,
+      "pct": 6.3,
+      "avg_severity": 1
+    },
+    {
+      "category": "nerve_related",
+      "count": 2,
+      "pct": 6.3,
+      "avg_severity": 3
+    },
+    {
+      "category": "fatigue",
+      "count": 1,
+      "pct": 3.1,
+      "avg_severity": 1
+    },
+    {
+      "category": "illness",
+      "count": 1,
+      "pct": 3.1,
+      "avg_severity": 3
+    },
+    {
+      "category": "cognitive_impairment",
+      "count": 1,
+      "pct": 3.1,
+      "avg_severity": 2
+    },
+    {
+      "category": "other",
+      "count": 1,
+      "pct": 3.1,
+      "avg_severity": 2
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "intramuscular",
+      "dose": 1,
+      "unit": "ml",
+      "frequency": "daily",
+      "count": 2,
+      "pct": 4.5
+    },
+    {
+      "route": "intramuscular",
+      "dose": 5,
+      "unit": "mL",
+      "frequency": "daily",
+      "count": 2,
+      "pct": 4.5
+    },
+    {
+      "route": "intramuscular",
+      "dose": 10,
+      "unit": "mL",
+      "frequency": "daily",
+      "count": 2,
+      "pct": 4.5
+    },
+    {
+      "route": "intramuscular",
+      "dose": 5,
+      "unit": "ml",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 2.3
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 2,
+      "unit": "ml",
+      "frequency": "",
+      "count": 1,
+      "pct": 2.3
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "semax",
+      "display_name": "Semax",
+      "report_count": 14
+    },
+    {
+      "compound_id": "bpc_157",
+      "display_name": "BPC-157",
+      "report_count": 13
+    },
+    {
+      "compound_id": "ipamorelin",
+      "display_name": "Ipamorelin",
+      "report_count": 11
+    },
+    {
+      "compound_id": "cjc_1295_no_dac",
+      "display_name": "CJC-1295",
+      "report_count": 10
+    },
+    {
+      "compound_id": "selank",
+      "display_name": "Selank",
+      "report_count": 10
+    }
+  ],
+  "avg_cycle_length_days": 33.9,
+  "avg_sentiment_score": 0.705,
+  "sentiment_breakdown": {
+    "positive": 26,
+    "mixed": 4,
+    "negative": 2,
+    "neutral": 12
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T04:48:57.363729Z"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "d3729f1a-91b9-43dd-8563-57725e4789b4",
+  "source_id": "1b29hiw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1b29hiw/tb500_bpc157_gyno/",
+  "author_hash": "d70f617c8cd2756b4abe5a13a40750e09b81f84e2a0ca87cdc9be36722d68c19",
+  "confidence_tier": 4,
+  "date_published": "2024-02-28T08:00:40-08:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "gynecomastia symptoms",
+    "on TRT since 2021",
+    "joint issues"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TRT (testosterone)",
+      "name_normalized": "trt_testosterone",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "adex",
+      "name_normalized": "adex",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "nolva",
+      "name_normalized": "nolva",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ralox",
+      "name_normalized": "ralox",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "caber",
+      "name_normalized": "caber",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Gynecomastia symptoms / spicy nips appearing after adding TB-500; suspected prolactin or progesterone related",
+      "severity": "moderate",
+      "onset_days": 7,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "OP has been on TRT since 2021 (over a year). Normal TRT dose reportedly up to 250mg/week. One injection was accidentally 15-25mg higher than usual. Gyno symptoms appeared after adding TB-500 for one week. Suspects prolactin/progesterone involvement as AI and nolva are not resolving symptoms. Also considering low-dose deca for joints in the future. Previously ran tren with manageable sides.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294641Z"
+}

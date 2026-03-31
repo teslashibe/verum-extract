@@ -1,0 +1,55 @@
+{
+  "id": "82ff9714-b13b-4539-99cf-0fe4193cca85",
+  "source_id": "1qtw2ru",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtw2ru/anyone_tried_prostatilen_suppositories/",
+  "author_hash": "e1c1259294e477e74b079a065b32c839022b02ea3eada5071333bf615728e695",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T06:11:10-08:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "benign prostatic hyperplasia",
+    "prostate cancer (post-treatment)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Prostatilen",
+      "name_normalized": "prostatilen",
+      "category": "other",
+      "frequency": "approximately 10 days per month",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Prostatilen",
+      "name_normalized": "prostatilen",
+      "category": "other",
+      "route": "oral",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "inflammation",
+      "description": "reduced inflammation",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "kept PSA down, maintained cancer-free status, maintained urinary function and flow",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "PSA",
+      "timeframe_days": 912
+    }
+  ],
+  "protocol_notes": "User reports 2.5 years of consistent use post-laser ablation for prostate cancer treatment. Uses both suppository and oral forms. Direct zinc delivery mechanism noted.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.668075Z"
+}

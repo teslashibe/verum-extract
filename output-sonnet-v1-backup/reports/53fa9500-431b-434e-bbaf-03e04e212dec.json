@@ -1,0 +1,70 @@
+{
+  "id": "53fa9500-431b-434e-bbaf-03e04e212dec",
+  "source_id": "1rrr3sk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rrr3sk/stacking_suggestions/",
+  "author_hash": "16dc28238bd11d1d91a6b414e0d84843685d9e4c1631c36769b0b811e53fe381",
+  "confidence_tier": 5,
+  "date_published": "2026-03-12T06:43:15-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "25-29",
+  "reported_weight": {
+    "value": 215,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "functional neurological disorder (FND)",
+    "psychogenic non-epileptic seizures",
+    "liver issues (suspected Tylenol-related)",
+    "mental health conditions (on medications)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 50 lbs in a year; goal to lose 100 lbs total",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Not sleeping while on Reta due to misinformation about titration/dosing",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_change",
+      "description": "Midnight eating and barely eating (500-800 cal/day) while on Reta",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Really bad bloating while on Reta",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "liver markers"
+    }
+  ],
+  "protocol_notes": "OP is transmasc (transgender man), starting testosterone for HRT. Previously on Reta with bad side effects due to misinformation on titration. Switching back to tirz. Notes that tirz wears off after 3-5 days even at highest dose. Goals include muscle gain, fat loss, cognitive support (FND), and liver recovery. On mental health medications. No Tylenol or alcohol since liver issue discovered.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109375Z"
+}

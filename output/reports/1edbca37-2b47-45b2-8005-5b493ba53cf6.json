@@ -1,0 +1,35 @@
+{
+  "id": "1edbca37-2b47-45b2-8005-5b493ba53cf6",
+  "source_id": "1n5hwl1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n5hwl1/semaglutide_and_muscle_damage/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2025-09-01T00:04:06-07:00",
+  "training_status": "actively training, post-leg surgery",
+  "health_conditions": [
+    "leg surgery recovery",
+    "pectoralis major partial tear"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "muscle_cramp",
+      "description": "Pectoralis major partial tear during drop-set on bench press; second partial tear while on semaglutide",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Protein intake 200-250g daily. Post-leg surgery recovery phase. Reports history of muscle tears while on semaglutide (two occurrences).",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.6831Z"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "bb1f88cb-c999-4d19-b0a0-08e0b44bc737",
+  "source_id": "1jx2g8e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jx2g8e/tesamorelin_with_hgh/",
+  "author_hash": "18aafa3fe68ee921af23ec161fe95acc297cd1329d379d42572b4d44b1fefa1a",
+  "confidence_tier": 4,
+  "date_published": "2025-04-11T15:27:56-07:00",
+  "training_status": "locked in with diet, training and hormones",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Extremely noticeable visceral fat loss within one month at 2 IU HGH dose",
+      "severity": "significant",
+      "onset_days": 30
+    },
+    {
+      "category": "skin",
+      "description": "Improved skin quality; face leaned out and lost 10 years of appearance after induction water came off",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Initial water retention (induction water) in face and body; resolved after acclimation period",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "body_composition",
+      "description": "With Retatrutide: no water retention anywhere, resulting in no pump and flat muscles",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Diet, training, and hormones reported as tightly controlled variables. Water retention held in chin area initially. User observed that increasing HGH dose causes temporary water retention that stabilizes. Experimented with Retatrutide at 1mg dose which eliminated water retention but affected muscle pump.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.409781Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "fde6f468-22f0-410c-b0b0-33129e6a74fd",
+  "source_id": "ba2ard",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/ba2ard/ukpeptides_thymosinbeta4_lab_results/",
+  "author_hash": "85165965e51be9428e24b00d1af95aec5d1132546512504e85e5d5b906a801ea",
+  "confidence_tier": 3,
+  "date_published": "2019-04-06T01:25:55-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "TB-500 content (HPLC/DAD)",
+      "value_after": 1.05,
+      "unit": "mg"
+    },
+    {
+      "marker_name": "TB-500 purity (HPLC/DAD)",
+      "value_after": 98,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Vendor: UK-PEPTIDES. Sample labeled as 2mg vial tested via HPLC/DAD analysis. Benchmark sample contained 4.55mg. Testing revealed vial contained only 1.05mg active ingredient (approximately 50% of advertised dose). Purity confirmed at 98%+. OP purchased from vendor and had sample independently tested. Vendor claims all products batch tested via HPLC and Mass Spectrometry Analysis. OP never received batch number with order.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.95,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.132298Z"
+}

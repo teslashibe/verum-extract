@@ -1,0 +1,44 @@
+{
+  "id": "a5c2747c-5961-445a-bb61-d31371fb3f64",
+  "source_id": "1ivp3ru",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ivp3ru/on_tirz_for_7_months_adding_sema_to_mix/",
+  "author_hash": "86b8b47c6dc4c1330f06e1ac05220a9606485f57055ecb7dc27243491bbe2231",
+  "confidence_tier": 4,
+  "date_published": "2025-02-22T10:14:00-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "2 days apart from Reta",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Pretty good results on Reta + Sema stack",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User stacks 6mg Reta weekly with 1.5mg Sema dosed 2 days apart. Reports pretty good results. Has never tried Tirz.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.287624Z"
+}

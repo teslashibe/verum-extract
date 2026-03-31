@@ -1,0 +1,44 @@
+{
+  "id": "bf744a61-7113-4730-9163-4730db084288",
+  "source_id": "1n034kk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n034kk/too_much_reta/",
+  "author_hash": "86fe6391deea3cac6196e822a38ffc7c6d2692f53e6f752f7e7d210326b63a7a",
+  "confidence_tier": 4,
+  "date_published": "2025-08-25T14:23:02-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "every 4 days",
+      "cycle_length_days": 4,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Cannot remotely finish a meal through day 3",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Severe appetite suppression lasting 3 days, appetite returns on day 4",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 4
+    }
+  ],
+  "protocol_notes": "Protocol is 1 mg every 4 days on a 'subject'. Appetite suppression effect is pronounced through day 3 with recovery by day 4.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.400113Z"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "e2bb8558-a4c1-44f8-ac45-5b11d8168f87",
+  "source_id": "1iq89d7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1iq89d7/which_peptides_should_i_add/",
+  "author_hash": "4b2f708659bdc09d0e05dc001b4a8982e4c494787795adeea111cfc164383c4e",
+  "confidence_tier": 4,
+  "date_published": "2025-02-15T10:50:04-08:00",
+  "reported_weight": {
+    "value": 182.5,
+    "unit": "lbs"
+  },
+  "training_status": "active (jogging, HIIT)",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "every 4-5 days",
+      "cycle_length_days": 10,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Cagril",
+      "name_normalized": "cagri",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Effective in reducing how much they eat and the types of foods desired; severely limited alcohol consumption",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost 4.5 lbs in 10 days",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Experienced nausea, worse in first week, improving after 7 days",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": false
+    },
+    {
+      "category": "fatigue",
+      "description": "Too sleepy or exhausted to move most of the time; began from the very first day",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": false
+    },
+    {
+      "category": "appetite_change",
+      "description": "Appetite suppression wore off after ~7 days; feeling very hungry by morning despite rest days",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "OP is new to peptides, no doctor guidance. Started at 5mg Tirz every 4-5 days (3 shots in 10 days), then escalated to 6mg on third shot. Eating 1200-1400 kcal/day in a 4-7pm window (intermittent fasting). Apple Watch reports 2400-2700 kcal burned/day. Goal is to lose 25-30 lbs total, with 8-10 lbs target in ~1 month. SS-31 and Cagril purchased but not yet started.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.287752Z"
+}

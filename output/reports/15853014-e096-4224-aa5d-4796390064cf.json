@@ -1,0 +1,54 @@
+{
+  "id": "15853014-e096-4224-aa5d-4796390064cf",
+  "source_id": "1s1kzg5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s1kzg5/trt_reta_how_long_is_safe_to_stay_on_this_cycle/",
+  "author_hash": "c928fe15db48a7845f1cb08f6e842796e6197a39ca7239ad4b7670929b57062a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-23T09:03:24-07:00",
+  "reported_age_range": "40-49",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "1x weekly",
+      "cycle_length_days": 365,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Maintenance dose for over a year with positive metabolic markers",
+      "severity": "significant"
+    },
+    {
+      "category": "blood_sugar",
+      "description": "Blood sugar back to mid-20s levels",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "lipid panel",
+      "timeframe_days": 365
+    },
+    {
+      "marker_name": "liver panel",
+      "timeframe_days": 365
+    },
+    {
+      "marker_name": "blood glucose",
+      "timeframe_days": 365
+    }
+  ],
+  "protocol_notes": "Maintenance dose of 3mg/week for over one year. All biomarkers returned to mid-20s baseline. Doctor approval and monitoring.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.648089Z"
+}

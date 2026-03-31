@@ -1,0 +1,65 @@
+{
+  "id": "bc0d58d1-08dd-4ce5-9602-1c27648f76cc",
+  "source_id": "1ryxm0f",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ryxm0f/which_peptide_to_lose_that_last_little_stubborn/",
+  "author_hash": "ce5ca0acbfde39fd130a0a903fa75cfcb495d592fedc42a29894adfc44d6144a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-20T07:22:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Down 40+ lbs on tirzepatide",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Good body recomp on tirz, gaining muscle while losing fat per body scanner tracking",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "Depth of sleep is amazing on CJC-1295/ipamorelin",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Initial fluid retention of approximately 5-6 lbs when starting CJC-1295/ipamorelin",
+      "severity": "moderate"
+    },
+    {
+      "category": "flushing",
+      "description": "Initial flushing that dissipates over time",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started tirzepatide in November with 40+ lb weight loss. Added CJC-1295 + ipamorelin about one month prior to comment. Reports body weight stagnant for few weeks due to fluid retention despite clothes fitting bigger. Using body scanner for tracking. Uncertain about added value of CJC/ipa beyond subjective improvements.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.649405Z"
+}

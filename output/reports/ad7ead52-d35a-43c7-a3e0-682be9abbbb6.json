@@ -1,0 +1,45 @@
+{
+  "id": "ad7ead52-d35a-43c7-a3e0-682be9abbbb6",
+  "source_id": "1rvp24a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvp24a/ss31_fatigue_and_brain_fog_and_mitigation/",
+  "author_hash": "08bf3ef8a39bcf3744b43c15b76edd4a5d2de8a31e5e014386f29d06f43d249c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T15:50:02-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "fatigue in first week",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 7
+    },
+    {
+      "category": "cognitive_impairment",
+      "description": "brain fog in first week",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Mitigation strategy: dropped to 2-3mg for a few days then increased 1mg per week. Noted that quick tapering is aggressive. Observed that SS-31 ramps up cellular energy production and adequate sleep is critical during adjustment period.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.651049Z"
+}

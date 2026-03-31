@@ -1,0 +1,33 @@
+{
+  "id": "52bb26bf-2b53-4d45-8b70-62752fe4eec5",
+  "source_id": "1o0yyqv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o0yyqv/reta_screw_up_50_units_instead_of_15_wtf_do_i_do/",
+  "author_hash": "cc683dd857d1fde979f4a6f449913b93855d334057364be230f23c43ab09d20e",
+  "confidence_tier": 5,
+  "date_published": "2025-10-07T19:43:05-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Made a similar dosing error with Retatrutide and experienced severe side effects lasting over a week",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Commenter reporting personal experience with accidental Retatrutide overdose. Described experience as 'horrible' and being 'a mess for over a week'.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.679905Z"
+}

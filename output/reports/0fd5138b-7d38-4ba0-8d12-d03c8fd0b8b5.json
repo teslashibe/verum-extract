@@ -1,0 +1,47 @@
+{
+  "id": "0fd5138b-7d38-4ba0-8d12-d03c8fd0b8b5",
+  "source_id": "1rdnbe0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdnbe0/peptide_consultant_thoughts_on_my_peptide/",
+  "author_hash": "7008e68ae7789fa6fd774257de43f11acff170e534ebb18eb1481452ad91dee7",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T09:54:01-08:00",
+  "health_conditions": [
+    "shoulder injury"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Thymosin Beta-4",
+      "name_normalized": "thymosin_beta_4",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 750,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "shoulder injury recovery support"
+    }
+  ],
+  "protocol_notes": "Prescribed by health clinic in UAE with baseline bloodwork completed prior to starting. BPC-157: 2000 mcg/ml solution, 0.15ml (300 mcg) daily in evening for 1 month. Thymosin Beta-4: 3000 mcg/ml solution, 0.25ml (750 mcg) daily, 20 days on / 10 days off cycle. Compounded by partnered compound pharmacy in UAE. User considering third-party testing before administration due to unfamiliarity with the compounding pharmacy.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.660618Z"
+}

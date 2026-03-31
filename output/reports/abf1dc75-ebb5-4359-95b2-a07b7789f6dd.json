@@ -1,0 +1,41 @@
+{
+  "id": "abf1dc75-ebb5-4359-95b2-a07b7789f6dd",
+  "source_id": "1hqojs9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1hqojs9/what_would_you_say_is_the_ideal_fat_loss_peptide/",
+  "author_hash": "57b6b43085962b6b4d09d45f8d350fef809b4e5d4bce7823c7fe678781159acd",
+  "confidence_tier": 4,
+  "date_published": "2024-12-31T13:32:25-08:00",
+  "training_status": "lifter",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "cycle_length_days": 84,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 26 lbs since October 8th, including stubborn 15 lbs that refused to come off with diet, lifting, and cardio",
+      "severity": "significant",
+      "onset_days": 84
+    },
+    {
+      "category": "body_composition",
+      "description": "Never been this lean in entire adult life",
+      "severity": "significant",
+      "onset_days": 84
+    }
+  ],
+  "protocol_notes": "At maximum dose of 5mg; stubborn fat loss resistance despite diet, lifting, and cardio",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.69473Z"
+}

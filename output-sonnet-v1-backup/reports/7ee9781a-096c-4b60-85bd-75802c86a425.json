@@ -1,0 +1,40 @@
+{
+  "id": "7ee9781a-096c-4b60-85bd-75802c86a425",
+  "source_id": "na2a95",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/na2a95/my_dad_65_wants_to_know_the_best_peptides_for/",
+  "author_hash": "2676145a56e5c1271b51213fcc12989055f5b2b4c7de2b52b98140a6edc6b50a",
+  "confidence_tier": 4,
+  "date_published": "2021-05-11T10:22:11-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "60+",
+  "health_conditions": [
+    "insulin resistance",
+    "high cholesterol"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "5 days a week",
+      "cycle_length_days": 300,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "trest/ment with trt",
+      "name_normalized": "trestment_with_trt",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Also takes niacin (1g), berberine (500mg-1g), bergamot for cholesterol and insulin. Metformin 500mg before bed and 500mg morning. Berberine used to counteract insulin resistance from niacin. HGH 10-month supply at 2IU/day 5 days/week.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.430251Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "76c234f0-b572-481a-918a-e026561056d6",
+  "source_id": "1luelnd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1luelnd/moving_from_tirz_to_reta_anyone_try/",
+  "author_hash": "405575ce4e7b460723a5fe31b2fd99cc46ab07175dcedbfccf010c1ee70fc8e6",
+  "confidence_tier": 4,
+  "date_published": "2025-07-07T20:37:31-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Hunger suppression reported when titrating Tirz down and Reta up",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Titrated Tirzepatide down while titrating Retatrutide up. Reports 4-8 weeks needed for Reta to fully kick in; may require up to 4-8 mg before noticing effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.404677Z"
+}

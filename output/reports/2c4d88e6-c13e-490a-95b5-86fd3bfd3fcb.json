@@ -1,0 +1,57 @@
+{
+  "id": "2c4d88e6-c13e-490a-95b5-86fd3bfd3fcb",
+  "source_id": "1nmh3t6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nmh3t6/help_me_stay_on_tirzepatide/",
+  "author_hash": "27caba2cad95e8f39b37f60f54c10e8f2da1382eda66a7cc656187c286f85f8f",
+  "confidence_tier": 4,
+  "date_published": "2025-09-20T20:04:19-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "smashed hunger on tirzepatide, less hunger suppression on retatrutide which is more suitable; reduced urges for junk foods and alcohol",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "dropped 40 pounds since middle of February",
+      "severity": "significant"
+    },
+    {
+      "category": "blood_sugar",
+      "description": "blood glucose is awesome, A1c improved from creeping up year after year",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1c"
+    }
+  ],
+  "protocol_notes": "Switched from tirzepatide 4mg weekly to retatrutide, using microdosing protocol with retatrutide starting at 0.25mg, then 0.50mg, now holding at 0.75mg daily. Timeline: started mid-February.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.681257Z"
+}

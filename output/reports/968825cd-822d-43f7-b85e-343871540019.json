@@ -1,0 +1,38 @@
+{
+  "id": "968825cd-822d-43f7-b85e-343871540019",
+  "source_id": "1pmy5cv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pmy5cv/anyone_got_the_copper_uglies_after_starting_ghkcu/",
+  "author_hash": "0d42772abf8fbf5749bd3540126f0c7eb09b9d91b0dccd15deaa23323df0fa0c",
+  "confidence_tier": 4,
+  "date_published": "2025-12-14T20:13:19-08:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Possible beneficial cell turnover effect on problem area forehead",
+      "severity": "moderate",
+      "onset_days": 3
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Red spots on forehead",
+      "severity": "mild",
+      "onset_days": 3
+    }
+  ],
+  "protocol_notes": "Did not use topical form, suspected similar retinoid-like effect (worse before better)",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.390684Z"
+}

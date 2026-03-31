@@ -1,0 +1,47 @@
+{
+  "id": "bf75e6eb-86fe-40d8-99e6-40a0af2a5cf9",
+  "source_id": "1qu69w2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qu69w2/should_i_up_my_dose_on_tirz_or_try_reta_instead/",
+  "author_hash": "f6302860713b5637d4b7b5fc77707377747bab96b8aa1cb2d3ccda8fb16044f3",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T12:15:28-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss resumed after increasing to 10 mg and again after injection site rotation to back of arm",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Overcame appetite suppression plateau at 7.5 mg by moving to 10 mg",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Experienced similar plateau pattern to OP; escalated from 7.5 to 10 mg (breakthrough) then to 15 mg (plateau again); found injection site variation (back of arm) restored weight loss response",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.680751Z"
+}

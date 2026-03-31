@@ -1,0 +1,39 @@
+{
+  "id": "cf7435ba-403d-40ce-8663-27c9d7d39dec",
+  "source_id": "1n5cz5m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n5cz5m/melanotan_overdose/",
+  "author_hash": "7369a4604ecd4c62924407db2c947f67c0ca4a1c1075d5503c0e7b0996183c5b",
+  "confidence_tier": 5,
+  "date_published": "2025-08-31T19:29:41-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Caverject",
+      "name_normalized": "caverject",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Viagra",
+      "name_normalized": "viagra",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "libido_change",
+      "description": "11-hour erection from combining Caverject and Viagra; also experienced multiple 4-5 hour erections on other occasions",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User reports mixing Caverject and Viagra resulted in extended priapism lasting 11 hours. ER would not intervene until 24 hours of sustained erection. Multiple instances of 4-5 hour erections reported.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.683151Z"
+}

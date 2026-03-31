@@ -1,0 +1,45 @@
+{
+  "id": "bd822689-7a78-45ca-b405-6223fddaa153",
+  "source_id": "10le119",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/10le119/has_anyone_used_semaglutide_from_saf_research/",
+  "author_hash": "a83524684b278a8e930d720c89dda61903d9e621c0922e60867d8be4d3f1689c",
+  "confidence_tier": 4,
+  "date_published": "2023-01-25T16:05:43-08:00",
+  "compounds": [
+    {
+      "name_raw": "semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "cycle_length_days": 49,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression felt at ~60 hours after first dose; ongoing appetite suppression noted at 7 weeks",
+      "severity": "moderate",
+      "onset_days": 3
+    },
+    {
+      "category": "fat_loss",
+      "description": "Down 10 lbs at 7 weeks; attributed to loss of appetite and exercise, with slacking on diet",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Metallic taste in the mouth and food tastes less intense",
+      "severity": "mild",
+      "onset_days": 3
+    }
+  ],
+  "protocol_notes": "Started at 0.25mg dose; reconstituted 5mg vial with 2mL bacteriostatic water yielding 0.25mg per 0.1mL (10 units). Slacking on diet but exercise maintained.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.428084Z"
+}

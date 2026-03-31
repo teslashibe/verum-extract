@@ -1,0 +1,40 @@
+{
+  "id": "5db9c3a9-7c41-43c1-8954-8767e32ef740",
+  "source_id": "1741n7w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1741n7w/anyone_else_getting_a_prescription_for_their/",
+  "author_hash": "a6e523ef2b6fb439db9b99d57fc3e479b6a9c22c34d5c8f85dcd81aadf8b225f",
+  "confidence_tier": 4,
+  "date_published": "2023-10-09T13:09:56-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 180,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 180,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "worked decently",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Compound pharmacy prescription for 6 months. Results not robust enough to justify expense. Noted research grade peptides cause significant injection site burning. Now prefers TRT.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.700377Z"
+}

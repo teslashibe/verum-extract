@@ -1,0 +1,54 @@
+{
+  "id": "ef36b046-f843-43d1-97ea-fc1c20926dcc",
+  "source_id": "1rj6gis",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rj6gis/time_between_cycles/",
+  "author_hash": "cca64846eb6e6f270a37d30d225a2e21af9f09df02223eaded6d376b7239f32c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T13:52:07-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "training_status": "bodybuilder",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 110,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "decent muscle retention and a little muscle growth on cut",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "definitely noticed fat shredding aspect towards second half of cycle",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "First tesamorelin cycle completed. Planning next cycle with CJC/Ipamorelin to prioritize muscle growth and recovery. Inquiring about time between cycles and dosing protocols.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.657869Z"
+}

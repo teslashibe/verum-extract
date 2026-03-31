@@ -1,0 +1,45 @@
+{
+  "id": "f078d6f4-2fcd-4d28-af02-8132e25a3e20",
+  "source_id": "1rbvmmm",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rbvmmm/tesamorelin_histamine_reaction_anyone/",
+  "author_hash": "b02c3f4c18a146bca451820d22a41d2c25567707d7a832a46283a1eeaab788f3",
+  "confidence_tier": 4,
+  "date_published": "2026-02-22T11:51:40-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Head rush, injection site itching and histamine reaction",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "flushing",
+      "description": "Felt a little warmer",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Using CJC/Ipamorelin stack. Initially experienced side effects which improved over time. Needle gauge made a difference—switched from 6mm to 8mm (5/16 inch) needle and symptoms improved further. Prefers or considers 1/2 inch needle to ensure adequate subcutaneous depth.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.67345Z"
+}

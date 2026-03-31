@@ -1,0 +1,36 @@
+{
+  "id": "ea882869-9093-42a4-b533-0603b94731a2",
+  "source_id": "1rmyf77",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmyf77/reta_tingle/",
+  "author_hash": "4bde630fceac7456dfd0582a00fd599f2ac10269e26f1efccc900b1292cbc14c",
+  "confidence_tier": 5,
+  "date_published": "2026-03-06T18:55:53-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "Tingling from Reta never resolved, leading to switch to tirzepatide.",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Switched from Reta to tirz due to persistent tingling side effect.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.111378Z"
+}

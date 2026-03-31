@@ -1,0 +1,46 @@
+{
+  "id": "1763c7ca-8b00-4e4b-8ada-c2b86d544497",
+  "source_id": "1pql7zt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pql7zt/reta_and_sleeping/",
+  "author_hash": "5f8d4d699f7d8cc3691686f3a3685fc9d9b232f9cae56d189d6837056af9d561",
+  "confidence_tier": 4,
+  "date_published": "2025-12-19T05:33:52-08:00",
+  "reported_weight": {
+    "value": 185,
+    "unit": "lbs"
+  },
+  "training_status": "trains often",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "frequency": "every night",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep wrecked. Constantly shit. Waking up multiple times a night.",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Height 6', 185 lbs, 11% body fat, trains often. Started at 1.2mg/week, increased to 1.6mg, then 2mg. Was good for a few weeks then sleep became constantly bad. Tried cycling through cutting weight, maintenance, and surplus with no change. Currently dropping back to 1.2mg but still experiencing sleep issues. On HGH every night before bed.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.390233Z"
+}

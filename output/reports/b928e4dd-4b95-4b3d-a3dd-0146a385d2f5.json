@@ -1,0 +1,57 @@
+{
+  "id": "b928e4dd-4b95-4b3d-a3dd-0146a385d2f5",
+  "source_id": "1qtjmlk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtjmlk/reta_alternative/",
+  "author_hash": "f2b70850c177470e3b4d3a859b2e4489d5646e868a9f0894fec196f74528213b",
+  "confidence_tier": 4,
+  "date_published": "2026-02-01T19:14:24-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "reported_weight": {
+    "value": 200,
+    "unit": "lbs"
+  },
+  "training_status": "bodybuilding, running, cycling",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Increase fat burning and cut faster",
+      "severity": "moderate"
+    },
+    {
+      "category": "blood_sugar",
+      "description": "Helps stable blood sugar reducing fat, increases metabolism, helps maintain muscle by increasing glucose storage and absorption",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "GLP-1 helps maintain muscle",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Would probably eat under 1000 calories with Retatrutide",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Under 20% body fat; planning aggressive 6-8 week cuts; considering 1mg daily dose; previously cut to 1600-1800 calories; approximately 25-33% calories from shakes",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.681165Z"
+}

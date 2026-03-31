@@ -1,0 +1,49 @@
+{
+  "id": "15c6bd95-1de1-4041-825d-0f776959f488",
+  "source_id": "1qquiwx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qquiwx/sermorelin_reaction/",
+  "author_hash": "c0c096cc48a65b83961766816c199ccc9980f5370e3a06b728621f599f07342f",
+  "confidence_tier": 4,
+  "date_published": "2026-01-29T19:40:46-08:00",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "frequency": "5 nights per week before bed",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Extreme itching all over body, sneezing twice, dizziness, red palms — possible anaphylactic/allergic reaction occurring approximately 5 minutes after injection; subsided after 5-7 minutes",
+      "severity": "significant",
+      "onset_days": 60,
+      "resolved": true
+    },
+    {
+      "category": "dizziness",
+      "description": "Felt pretty dizzy shortly after injection",
+      "severity": "significant",
+      "onset_days": 60,
+      "resolved": true
+    },
+    {
+      "category": "flushing",
+      "description": "Palms appeared to get really red",
+      "severity": "moderate",
+      "onset_days": 60,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "OP had been taking Sermorelin for 2 months with no apparent issues before this acute allergic/anaphylactic-like reaction. Decided to stop taking it after this incident. Dose reported as '15 units' which is an ambiguous measurement as noted by a commenter — actual mcg dose unknown without knowing the reconstitution volume.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123216Z"
+}

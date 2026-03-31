@@ -1,0 +1,67 @@
+{
+  "id": "70ce96a6-3ba8-496c-a1ae-8ca5cae754b8",
+  "source_id": "1r2867m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2867m/tesamorelin_ghkcu/",
+  "author_hash": "7537e7ccfac819d15cd108636fe22e7db9b7aac14aabf502edf1e86b2e99f4e9",
+  "confidence_tier": 5,
+  "date_published": "2026-02-11T12:11:38-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 3.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "light appetite suppression while maintaining ability to eat, continued weight loss",
+      "severity": "mild"
+    },
+    {
+      "category": "sleep",
+      "description": "improved sleep quality",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "aids recovery",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Protocol recommendation: CJC-1295 no DAC/Ipamorelin stack with microdosed Tirzepatide at 3.5-4mg/week. User notes MOTS-C appears more efficacious than AOD-9604. Recommends peptides as recovery multipliers, not monumental changers. Warns against extended cutting due to hormonal dysfunction risk.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.664788Z"
+}

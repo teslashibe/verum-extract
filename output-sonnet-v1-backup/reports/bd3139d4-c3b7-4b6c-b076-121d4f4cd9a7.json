@@ -1,0 +1,42 @@
+{
+  "id": "bd3139d4-c3b7-4b6c-b076-121d4f4cd9a7",
+  "source_id": "1qrq52i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qrq52i/hgh_for_41m_who_is_very_active_and_normal_to_high/",
+  "author_hash": "f76c0645452fb3a0e920a0ae60cf8385e8c1c3033e7d40167a2056df94ff5d0e",
+  "confidence_tier": 5,
+  "date_published": "2026-01-30T18:37:32-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Hgh",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Free testosterone went from similar to OP's level to 300, feels significantly better",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Free Testosterone",
+      "value_after": 300
+    }
+  ],
+  "protocol_notes": "States free T was similar to OP's before starting test. Now at 300 and feels significantly better. Mentions HGH is also great.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.122752Z"
+}

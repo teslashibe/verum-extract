@@ -1,0 +1,41 @@
+{
+  "id": "75172c58-3ea8-41eb-94c3-9faee104215d",
+  "source_id": "1qtdny5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtdny5/what_time_of_day_to_take_ipa_cjc_no_dac/",
+  "author_hash": "5e41ecaa14d45be8832289ae1180399d32c6f4003fc389a7d8cc990f3af5600c",
+  "confidence_tier": 4,
+  "date_published": "2026-02-01T14:57:14-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "wrecked my sleep when taken at night",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Switched from evening to fasted AM dosing after sleep disruption. Reports no issues with AM dosing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.681288Z"
+}

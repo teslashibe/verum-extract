@@ -1,0 +1,79 @@
+{
+  "id": "3db1d41a-f58d-48a0-90b4-b9a09b38ccd6",
+  "source_id": "1mdymo0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mdymo0/where_can_i_optimize_full_stack_listed/",
+  "author_hash": "75d8bfbe01a3761ad7ea2b5f0d1804121c8cb33f700d1eadffd3ef2fb809b5d9",
+  "confidence_tier": 4,
+  "date_published": "2025-07-31T04:07:55-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 195,
+    "unit": "lbs"
+  },
+  "training_status": "weightlifting 5 days a week",
+  "health_conditions": [
+    "anxiety",
+    "ADHD",
+    "poor sleep"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "4x a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepetide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "frequency": "once a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cialis",
+      "name_normalized": "cialis",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 20 lbs from 215 to 195 lbs over approximately 4 months",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Poor sleep quality, cause not fully determined",
+      "severity": "moderate",
+      "resolved": false
+    },
+    {
+      "category": "appetite_change",
+      "description": "Difficulty eating enough protein, likely related to Tirzepatide appetite suppression",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Started TRT in March 2025 at 200mg injected 4x a week (later clarified as 200mg split across 4 injections). Started Tirzepatide in June 2025, currently at 7.5mg once a week. Extensive supplement stack including multivitamins, magnesium, vitamin D, B vitamins, L-theanine, L-tyrosine, amino acids, reishi, lion's mane, ashwagandha, ALA, ENL, fiber, pre/probiotics, milk thistle, BROM, DIM, NAC, zinc, L-arginine, fish oil, creatine. Diet is low carb, no processed foods or sugars, approximately 100-125g protein per day. Takes Adderall as needed. Previously took benzodiazepines for sleep but has stopped. Goal is to reduce lower abdominal fat, continue body recomposition, and improve anxiety and focus.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.277021Z"
+}

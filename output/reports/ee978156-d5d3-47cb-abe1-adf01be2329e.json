@@ -1,0 +1,51 @@
+{
+  "id": "ee978156-d5d3-47cb-abe1-adf01be2329e",
+  "source_id": "1qc2xpw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qc2xpw/blends_are_bunk/",
+  "author_hash": "55d7eaa74009abd1a95ba452ba0aeeffc75ff7c1fce48cb41749b1130dca38b4",
+  "confidence_tier": 4,
+  "date_published": "2026-01-13T12:50:26-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "1-2x daily",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Site-specific injury healing with BPC-157 and whole body recovery with TB-500",
+      "severity": "significant"
+    },
+    {
+      "category": "pain_relief",
+      "description": "Overall pain relief for significant injury",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Loading phase: TB-500 4-6 weeks at 5-7mg per week (user did daily), BPC-157 250-500mcg 1-2x daily for 2-4 weeks or until significant relief (user dosed both shoulders at 7mg per week max). Maintenance phase: TB-500 2.5-5mg every 1-2 weeks, BPC-157 2.5-5mg weekly or as needed. Blends mentioned (Klow, TB/BPC blend) designed for maintenance doses only and are suboptimal without proper loading phases. User emphasizes importance of individual peptide research before using blends.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.671189Z"
+}

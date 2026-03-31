@@ -1,0 +1,75 @@
+{
+  "id": "98d4ba71-17e2-4a5e-89e1-e9a235a43ad8",
+  "source_id": "1r33u52",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r33u52/help_no_libido/",
+  "author_hash": "b7fabe0fc1dba5a5abbee4a3b6bac1977f616aa5ea2835e4c324331b364ad672",
+  "confidence_tier": 4,
+  "date_published": "2026-02-12T12:03:38-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 180,
+    "unit": "lbs"
+  },
+  "training_status": "previously heavily trained (PED use), currently seeking to return",
+  "health_conditions": [
+    "type 1 diabetes",
+    "azoospermia/no semen production",
+    "low testosterone",
+    "no libido"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tren E",
+      "name_normalized": "tren",
+      "category": "other",
+      "route": "intramuscular",
+      "frequency": "2x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Test Cyp",
+      "name_normalized": "test_cyp",
+      "category": "other",
+      "route": "intramuscular",
+      "frequency": "2x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "dose_unit": "IU",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "clomid",
+      "name_normalized": "enclomiphene",
+      "category": "hormonal",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "libido_change",
+      "description": "Complete loss of libido",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "other",
+      "description": "Stopped producing semen approximately 3 years prior",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "OP ran Tren E and Test Cyp for ~5 years at 0.5cc 2x/week of each (sometimes 0.75cc), never properly tapered off. Only cycled off a few times for a couple months before resuming. Did a declining-dose HCG cycle (10000 IU day 1, 7500 IU day 6, 5000 IU day 11, 2500 IU day 16, 1000 IU day 21) with Clomid last year with no improvement. Reports erectile dysfunction (blue pills ineffective). Seeking fertility restoration and libido recovery. Finished HCG cycle September 20, 2025.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.118636Z"
+}

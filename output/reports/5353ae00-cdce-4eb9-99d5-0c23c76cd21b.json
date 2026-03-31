@@ -1,0 +1,79 @@
+{
+  "id": "5353ae00-cdce-4eb9-99d5-0c23c76cd21b",
+  "source_id": "1o0hd4u",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o0hd4u/hit_a_vein_passed_out_and_prude_sweating/",
+  "author_hash": "7678db3bbd5457ca2492016a2088130979ea37477f6f777490bf5a550ec1460f",
+  "confidence_tier": 4,
+  "date_published": "2025-10-07T08:06:50-07:00",
+  "health_conditions": [
+    "history of anaphylaxis to sermorelin",
+    "recovering heroin user"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "units",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "Sharp pain in heart, heart pounding",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "dizziness",
+      "description": "Extreme dizziness, passed out twice within 2 minutes",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "skin_reaction",
+      "description": "Skin felt like it was on fire, burning sensation moving from chest to legs",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Extreme heartburn sensation, felt like would defecate",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "anxiety",
+      "description": "Profuse sweating, could barely speak or move",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "OP doubled dose because missed previous injection. Injected with 8mm 30g needle. Episode resolved after ~40 minutes on floor. Described chemical taste in mouth. OP concluded this was severe anaphylaxis, not vein injection. No breathing difficulty or heart soreness the next day. OP planned to contact primary care physician.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.396242Z"
+}

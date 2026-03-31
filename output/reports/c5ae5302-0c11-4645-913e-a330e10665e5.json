@@ -1,0 +1,150 @@
+{
+  "id": "c5ae5302-0c11-4645-913e-a330e10665e5",
+  "source_id": "1qffh0x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qffh0x/for_those_of_you_who_research_multiple_peptides/",
+  "author_hash": "c54c6deff3a47cdf857c131bb28087c1c3b08434eec48a59941a284f17299907",
+  "confidence_tier": 4,
+  "date_published": "2026-01-17T07:04:45-08:00",
+  "training_status": "unable to work out due to chronic illness",
+  "health_conditions": [
+    "ME/CFS"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "frequency": "weekdays",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Lipoic Acid",
+      "name_normalized": "lipoic_acid",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "weekdays",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "VIP",
+      "name_normalized": "vip",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 0.3,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 60,
+      "dose_unit": "IU",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "immune",
+      "description": "Chronic illness improved significantly overall",
+      "severity": "significant"
+    },
+    {
+      "category": "respiratory",
+      "description": "VIP improved respiratory, HRV and oxygen scores per Apple Watch",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "endurance",
+      "description": "VIP makes user feel like could run for days",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "SS-31 at 10mg daily doubled energy initially, doubled upright time in day, able to sit up longer and run errands daily",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "VIP makes face flush 5 minutes after taking, similar to melanotan",
+      "severity": "mild"
+    },
+    {
+      "category": "fatigue",
+      "description": "Sermorelin made user tired",
+      "severity": "moderate"
+    },
+    {
+      "category": "fatigue",
+      "description": "Tirzepatide made user a bit more tired",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "cardiac",
+      "description": "Retatrutide upped resting heart rate by about 7 bpm",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Using about 12 injections per day at peak. Rotates injection sites: left thigh, right thigh, left stomach, right stomach. NAD, Lipoic C, Super Human on weekdays only. KLOW, SS-31, TA1, VIP taken daily. On peptides for 10 months. Has chronic illness (ME/CFS) and was desperate for relief. SS-31 initially 4mg daily for few months, then increased to 10mg. Tirzepatide switched to Retatrutide due to fatigue. Planning to try LL-37 next month. Also on mestinon medication which helped significantly.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.670828Z"
+}

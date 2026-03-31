@@ -1,0 +1,70 @@
+{
+  "id": "e9795dab-e990-4e26-ace2-7bc08585a37d",
+  "source_id": "1nr1qtw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nr1qtw/on_tirz_and_losing_slowly_need_help/",
+  "author_hash": "619704059f73ccdfab34df9a70ef6565e096da13aa2cfe85de77274bfdf19364",
+  "confidence_tier": 4,
+  "date_published": "2025-09-26T06:44:30-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "sensitivity to salt noted with reta at 2mg"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "3 times a week",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 100 lbs over 2 years with slow, steady approach",
+      "severity": "significant"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Knees and back not hurting",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Able to use a normal size blood pressure cuff; clothes size reduction",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "At 7.5mg tirz would lack interest in doing stuff - not tired, just 'eh'",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "2mg reta changes sensitivity to salt",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Microdosing reta at 1-1.5mg taken 3 times a week (total 3-4mg/week) to avoid salt sensitivity side effect. Previously on 7.5mg tirz which caused mood flatness; 5mg tirz did not. Switched to reta in June (2025). Can still eat out while maintaining diet.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.269897Z"
+}

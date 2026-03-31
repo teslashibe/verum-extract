@@ -1,0 +1,51 @@
+{
+  "id": "cb19fc60-8a3f-466d-9798-dfc2c8cbdf02",
+  "source_id": "1lidnjd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lidnjd/fatigue_for_40_years_can_anyone_recommend/",
+  "author_hash": "95694f7b2432fd1d28cbd0b51c3aab6e755b198bfeb1e2603956f606cd459430",
+  "confidence_tier": 4,
+  "date_published": "2025-06-23T04:00:46-07:00",
+  "reported_age_range": "60+",
+  "training_status": "athletic",
+  "health_conditions": [
+    "subclinical thyroid disease",
+    "recurrent anemia",
+    "B vitamin deficiency from malabsorption"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Sermorelin changed life, competing in sports, significant energy improvement",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Miss a dose and need a nap by 5 pm",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Age 63. Identified root causes: subclinical thyroid disease (T3-T4 conversion issue not routinely treated by providers) and lifelong B vitamin deficiency from malabsorption (diagnosed after 40 years). Once addressed, energy levels transformed dramatically. Now relies on regular B12 shots and targeted supplementation. Sermorelin essential for maintaining energy.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.688612Z"
+}

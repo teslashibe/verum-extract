@@ -1,0 +1,84 @@
+{
+  "id": "487fd7a4-36b3-4259-a866-06a7d5410dfb",
+  "source_id": "rpc3zw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/rpc3zw/horrible_reaction_from_25_units_of_b500/",
+  "author_hash": "dee0aae54baf84509431381a7b3445cd5e7b0ff07dd7880dec77131365190333",
+  "confidence_tier": 4,
+  "date_published": "2021-12-26T18:16:06-08:00",
+  "training_status": "sedentary (due to chronic pain and post-peptide reaction)",
+  "health_conditions": [
+    "fluoroquinolone toxicity (ciprofloxacin)",
+    "central sensitization",
+    "widespread neuropathy",
+    "joint pain",
+    "tendon pain",
+    "degenerative disc disease (cervical, severe)",
+    "traumatic brain injury",
+    "cerebellum aneurysm (small, history of)",
+    "high sensitivity to supplements/medications/foods"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 25,
+      "dose_unit": "units",
+      "frequency": "single dose",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "anxiety",
+      "description": "extreme anxiety and wired feeling, described as feeling like injected with meth",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": false
+    },
+    {
+      "category": "pain_change",
+      "description": "severe whole-body pain, described as feeling dipped in acid and beaten with a baseball bat; exceeded baseline chronic pain significantly",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": false
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "woke up at 10:22 pm completely wired and unable to sleep after taking peptide at 5:30 pm",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 12
+    },
+    {
+      "category": "cardiac",
+      "description": "abnormally elevated heart rate with minimal activity (pulse 144 bpm just standing in line at eye doctor); elevated blood pressure with simple activity",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": false
+    },
+    {
+      "category": "numbness_tingling",
+      "description": "neuropathy flare-up and worsening; user reports symptoms suggest autonomic/sympathetic nervous system dysfunction",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": false
+    },
+    {
+      "category": "other",
+      "description": "CNS dysfunction described as feeling like sympathetic nervous system was nuked or electrocuted; persistent symptoms week post-injection",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Obtained from compounding pharmacy in New York City via prescription from Manhattan-based doctor. User reports source was legitimate (called pharmacy to verify no Chinese relabeling). Dose listed as '25 units' which commenter notes is not standard measurement without knowing syringe dilution (actual mcg dose unclear). User baseline chronic pain score 6-8/10. Post-injection symptoms persisted for approximately 12 hours at worst, but autonomic symptoms (elevated HR/BP with activity) and neuropathy not fully resolved 1 week post-injection. User was taking alpha lipoic acid to manage neuropathy post-reaction.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.702434Z"
+}

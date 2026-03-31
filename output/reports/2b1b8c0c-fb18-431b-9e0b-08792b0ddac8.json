@@ -1,0 +1,62 @@
+{
+  "id": "2b1b8c0c-fb18-431b-9e0b-08792b0ddac8",
+  "source_id": "1rp2ehc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rp2ehc/40m57_200lbs178lbs_3_years_body_recomp/",
+  "author_hash": "44e1f0777f377da237fa3cd201696873b5a2f932c2eef104175cbb2a9372f8a4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T07:55:57-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 200,
+    "unit": "lbs"
+  },
+  "training_status": "consistent gym routine, 3 years",
+  "health_conditions": [
+    "low testosterone"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 22 lbs over 3 months (196 to 178 lbs) in year 3 after adding GLP-1",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Body recomposition over 3 years with fat loss and some muscle gain",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "GLP-1 used as leverage to turn off noise from food cravings",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone"
+    }
+  ],
+  "protocol_notes": "RX prescribed TRT for 3 years, monitored with 2 blood tests per year. GLP-1 used in year 3 for 3 months to facilitate rapid fat loss. Emphasizes that results required consistent diet (counted calories, balanced macros, adequate protein), sleep, and gym routine alongside compounds. Height 5'7\", started at 200 lbs, ended at 178 lbs. Acknowledges prior experimentation with black market steroids years earlier before switching to prescribed TRT.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.666608Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7418207b-683e-41e8-afbd-535a8b3e81d5",
+  "source_id": "1q4vdjh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q4vdjh/reta_allergy_development_or_just_expired_product/",
+  "author_hash": "5acc3f1666ebc8431ec0742c7881bff42700e179da94b8014d310babc364235a",
+  "confidence_tier": 4,
+  "date_published": "2026-01-05T11:27:29-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Red, itchy rash at injection site; rash worsens over time with increased size, redness, itchiness, lasting over one week post-injection",
+      "severity": "moderate",
+      "onset_days": 52,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Started injecting first vial on November 14, 2025 (same week purchased). Initial injections tolerated well; rash developed approximately one month into use. Storage: refrigerated in dark container. Injection site: below bellybutton area. Single-use needles, meticulous alcohol wiping protocol before and after vial use, and before injection site. Former nurse with strict injection hygiene. Switched suppliers after one-month mark due to worsening reaction.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.388033Z"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "203f4238-f104-4f8e-9c4b-da249b85186a",
+  "source_id": "13ft3g9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/13ft3g9/peptide_primer_30_is_here_it_covers_dosage/",
+  "author_hash": "791d85d9cc1eca0344002db6dd7ee9e22801051a0c6364011740d0adf18aa6ee",
+  "confidence_tier": 4,
+  "date_published": "2023-05-12T11:29:16-07:00",
+  "health_conditions": [
+    "long Covid",
+    "neurological issues"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 350,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1.7,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "P21",
+      "name_normalized": "p21",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NA Semax Amidate",
+      "name_normalized": "na_semax_amidate",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "intranasal Bromantane",
+      "name_normalized": "intranasal_bromantane",
+      "category": "other",
+      "route": "nasal",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "No fatigue from BPC, opposite effect observed (increased energy)",
+      "severity": "moderate"
+    },
+    {
+      "category": "cognitive",
+      "description": "P21, NA Semax Amidate, and Bromantane used to fight fatigue and help with cognition"
+    },
+    {
+      "category": "other",
+      "description": "Using BPC and GHK-CU for healing from long Covid"
+    }
+  ],
+  "protocol_notes": "Former medical news journalist working in a clinic alongside physicians. Stacking BPC-157 and GHK-CU daily along with a list of neuro peptides for the brain to address long Covid symptoms.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.297632Z"
+}

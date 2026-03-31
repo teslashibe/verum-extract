@@ -1,0 +1,37 @@
+{
+  "id": "78794eeb-c340-4144-9964-914449c68e91",
+  "source_id": "1r9bto9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9bto9/injectable_ghk_cu_side_effects/",
+  "author_hash": "cc9d65d4a64ab51d70620077168e1ef543ab581c748e22a365c5099fc80b0fe4",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T13:21:46-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "soreness at injection site on first couple pins",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "Started at 250mcg and titrated up to 1.5mg over 2 weeks. User has sensitive skin. Recommends gradual titration approach rather than starting at high doses.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.674358Z"
+}

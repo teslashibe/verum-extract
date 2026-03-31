@@ -1,0 +1,51 @@
+{
+  "id": "662e04d7-c771-484d-9a1e-3b2e9eb3b571",
+  "source_id": "1qe7sl2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qe7sl2/45_months_on_reta/",
+  "author_hash": "3a1317a28cf30ab15f91f8072bb35cd88b80d6a3d4f342f4ea7d8a524fd9c0f2",
+  "confidence_tier": 4,
+  "date_published": "2026-01-15T21:48:20-08:00",
+  "reported_weight": {
+    "value": 315,
+    "unit": "lbs"
+  },
+  "training_status": "light exercise (walking a few miles per week)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 135,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 65 lbs in 4.5 months, down from ~400 lbs to 315 lbs",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "Sleeps well; described as sleeping 'like a baby'",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "heart rate",
+      "timeframe_days": 135
+    }
+  ],
+  "protocol_notes": "3mg weekly Retatrutide. Self-employed with flexible schedule. Minimal exercise (walking a few miles per week). Attributes most weight loss to the peptide rather than exercise. Heart rate lowered slightly, attributed partially to reduced strain from lower body weight. Wife also using at higher dose.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.684211Z"
+}

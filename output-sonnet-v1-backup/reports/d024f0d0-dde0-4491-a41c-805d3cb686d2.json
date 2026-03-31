@@ -1,0 +1,50 @@
+{
+  "id": "d024f0d0-dde0-4491-a41c-805d3cb686d2",
+  "source_id": "1ayhxto",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ayhxto/not_losing_weight_or_am_i_expecting_too_much/",
+  "author_hash": "370b7449d52bc22f20bf5a543d685e0254d66632a0f24c020b5ee8ceaffed3ab",
+  "confidence_tier": 4,
+  "date_published": "2024-02-23T17:27:33-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "25-29",
+  "reported_weight": {
+    "value": 170,
+    "unit": "lbs"
+  },
+  "training_status": "active, exercises regularly",
+  "health_conditions": [
+    "PCOS"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "trizepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 10 lbs over approximately 3 weeks, starting at 170 lbs and reaching 160 lbs",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Maintaining calorie intake and protein goals while on medication"
+    }
+  ],
+  "protocol_notes": "Started February 2nd. First week lost 6 lbs, second week lost 3 lbs, third week lost 1 lb. 4th dose administered in thigh. Height 5'7\". Watching calorie intake, protein intake, and exercising. Has PCOS which was noted as a reason for difficulty losing weight.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294682Z"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "c4794acf-aeda-4bd0-b23f-81ac01245dc8",
+  "source_id": "1rdel2e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdel2e/recommendations/",
+  "author_hash": "021c16fb8f0f30e0a9f342266ff719eb5bfc5ccd122439c4d1ea1c748e83c169",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T04:11:11-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "50-59",
+  "health_conditions": [
+    "multiple sclerosis",
+    "hashimotos"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Currently losing weight on tirzepatide",
+      "severity": "moderate"
+    },
+    {
+      "category": "pain_relief",
+      "description": "Considering BPC-157 to help with general pain"
+    },
+    {
+      "category": "recovery",
+      "description": "Considering BPC-157 to help with recovery"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Considering ipamorelin to help with muscle tone"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "User is super sensitive to medications that increase appetite; concerned about ipamorelin increasing appetite",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Currently on tirzepatide, about to start BPC-157. Considering ipamorelin but concerned about appetite increase. Very sensitive to appetite-stimulating medications.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.660754Z"
+}

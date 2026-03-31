@@ -1,0 +1,63 @@
+{
+  "id": "a021bae8-ff87-42e8-a7b8-9668989cebed",
+  "source_id": "1b7mwv8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1b7mwv8/how_many_of_you_have_experienced_permanent/",
+  "author_hash": "027f87b62dc9642e7a1340fd2912d2e9fee76c850e0b19a6564d4c157214f377",
+  "confidence_tier": 3,
+  "date_published": "2024-03-05T17:28:54-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "60+",
+  "health_conditions": [
+    "Hashimoto's thyroiditis",
+    "Rheumatoid Arthritis",
+    "frozen shoulder"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost weight on semaglutide; back on sema to drop to desired weight"
+    },
+    {
+      "category": "gut_health",
+      "description": "Nearly daily bowel movements; no gastroparesis",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Reduced protein absorption; low protein and albumin levels on comprehensive metabolic panel",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Could not gain weight even after stopping semaglutide for several weeks",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "protein"
+    },
+    {
+      "marker_name": "albumin"
+    }
+  ],
+  "protocol_notes": "Takes protease (protein digestive enzymes) and protein drinks to address low protein/albumin. Also takes prebiotics and probiotics. Protein and albumin currently low in range but not below. Age 65.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294499Z"
+}

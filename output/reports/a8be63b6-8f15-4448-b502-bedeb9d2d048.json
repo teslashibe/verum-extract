@@ -1,0 +1,58 @@
+{
+  "id": "a8be63b6-8f15-4448-b502-bedeb9d2d048",
+  "source_id": "1ldahe3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ldahe3/best_non_glp1s_for_weight_loss/",
+  "author_hash": "3a6cb9c90be983f3c1b8c920c61a3fa6fcedfe87e0bdeb5485538297dcd0f520",
+  "confidence_tier": 4,
+  "date_published": "2025-06-16T18:21:48-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "working for fat loss, visceral fat reduction, waistline fat burn",
+      "severity": "moderate"
+    },
+    {
+      "category": "body_composition",
+      "description": "fat burning from waistline",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Tes makes me retain some water",
+      "severity": "mild"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "sleep may be hurting",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Also using MOTS-c 1mg AM 5 days/week. Stack makes it hard to isolate individual compound effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.406089Z"
+}

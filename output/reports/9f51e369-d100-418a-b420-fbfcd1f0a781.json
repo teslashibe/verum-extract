@@ -1,0 +1,65 @@
+{
+  "id": "9f51e369-d100-418a-b420-fbfcd1f0a781",
+  "source_id": "zf6a6e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/zf6a6e/hgh_has_helped_me_in_so_many_ways_sleep_quality/",
+  "author_hash": "040c3ccfd353aa02b99113269a6d68e57656168acf0ac42db424fc14efabb366",
+  "confidence_tier": 4,
+  "date_published": "2022-12-07T08:50:48-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "IU",
+      "frequency": "once daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Extremely drowsy",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_change",
+      "description": "Craves sugary foods",
+      "severity": "moderate"
+    },
+    {
+      "category": "sinus_pressure",
+      "description": "Sinus pressure bad enough to cause complete nasal closure",
+      "severity": "significant"
+    },
+    {
+      "category": "headache",
+      "description": "Headache",
+      "severity": "moderate"
+    },
+    {
+      "category": "dizziness",
+      "description": "Moderate vertigo",
+      "severity": "moderate"
+    },
+    {
+      "category": "cognitive_impairment",
+      "description": "Brain fog",
+      "severity": "moderate"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Stomach cramps",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Tried both Norditropin (pharma) and unmixed generic HGH. First pharma attempt at day dose caused issues, switched to night injections. Second attempt with suspected degraded product. Third attempt with unmixed generic caused severe side effects lasting 16+ hours, thought was COVID initially. Tried tolerating for a week before stopping. Also tried secretagogues (CJC, IPA, MK677); MK677 had similar negative effects. Has not experienced benefits on other peptides (CJC, BPC, semaglutide).",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.12915Z"
+}

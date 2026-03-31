@@ -1,0 +1,56 @@
+{
+  "id": "77017ea3-d53e-4cbe-b3d2-d406d7227553",
+  "source_id": "1ltauhp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ltauhp/peptides_and_autoimmune_diseases/",
+  "author_hash": "614871b5ca6f02dabea0de332314b28458db05ff7fdaf4a035778aa990b5fe80",
+  "confidence_tier": 4,
+  "date_published": "2025-07-06T13:14:33-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "autoimmune issues",
+    "seasonal allergies"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 30,
+      "dose_unit": "IU",
+      "frequency": "10 day protocol twice yearly, plus periodic maintenance at 10 units",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Thymulin",
+      "name_normalized": "thymulin",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "IU",
+      "frequency": "10 day protocol twice yearly, plus periodic maintenance at 5 units",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "immune",
+      "description": "Changed life; great benefits for autoimmune issues",
+      "severity": "significant"
+    },
+    {
+      "category": "allergy_relief",
+      "description": "Cured seasonal allergies; Oklahoma air used to cause problems 10 months out of year",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Mixed at 2:1 ratio (2 vials TA-1 to 1 vial Thymulin) in 3ml BAC water. Uses pen/dial method. Female user ('pen gal'). Mixes Thymosin Alpha-1 with Thymulin.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.687926Z"
+}

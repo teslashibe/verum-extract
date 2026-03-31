@@ -1,0 +1,73 @@
+{
+  "id": "2ee1a024-880c-4b09-ac05-ad4dbadfbbef",
+  "source_id": "1m1x5w8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m1x5w8/full_rupture_of_distal_bicep_tendon_my_protocol/",
+  "author_hash": "2634a9ef9d5f07466094c7c94c4517c60ba31559e7a76d3b66774f01917a0e00",
+  "confidence_tier": 4,
+  "date_published": "2025-07-16T20:33:29-07:00",
+  "training_status": "active_weightlifting",
+  "health_conditions": [
+    "complete_bicep_tendon_tear"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "once or twice daily",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "once or twice daily",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Reduced recovery time by 30-50% for full bicep tendon tear",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "Improved sleep quality",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Myriad benefits for training recovery",
+      "severity": "moderate"
+    },
+    {
+      "category": "inflammation",
+      "description": "Reduced inflammation",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Pain and tightness when starting training again; persistent tightness in some range of motion (full supine stretch and hand rotation) holding weights at 6 months post-injury",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Used separate TB-500 and BPC-157 vials. Initial injections in forearm, later moved to fat stores (stomach/abdomen) with no observed difference in efficacy. Recommended 4-6 week cycle at 250mcg each compound, once or twice daily. Doctors noted amazement at recovery time. At 6 months post-injury, training back levers and one-arm pull-ups. Some persistent range of motion limitations requiring scar tissue breakdown via massage and release work.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.403992Z"
+}

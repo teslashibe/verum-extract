@@ -1,0 +1,35 @@
+{
+  "id": "3b5489e6-3d41-42d9-a12f-283414bc6d2e",
+  "source_id": "1s2o6ub",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s2o6ub/ghkcu_100mg/",
+  "author_hash": "c99f60d0de462631636252882ff502417beb2169a54aa89c556422fee9abcf86",
+  "confidence_tier": 4,
+  "date_published": "2026-03-24T12:43:37-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "intramuscular",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Some injection sites sting; left quad and glute do not",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "100mg vial reconstituted with 3mL BAC water. Doses 2mg per injection using 10 units BAC water then 6 units GHK-Cu in insulin syringe. Injects in left quad and glute to avoid stinging. Same vial stored well for 2 months; always swabs top before use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.104642Z"
+}

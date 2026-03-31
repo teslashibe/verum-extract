@@ -1,0 +1,62 @@
+{
+  "id": "0a1c3be6-67b5-4469-8efa-6084c145c819",
+  "source_id": "1nsq3ll",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nsq3ll/motsc_is_the_golf_peptide/",
+  "author_hash": "600761aa3e14307f1876855f078c8bdb597d62343f064d46f167d2d0300d247a",
+  "confidence_tier": 4,
+  "date_published": "2025-09-28T07:43:44-07:00",
+  "training_status": "Active - mountain biking, dirt biking, cardio",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "3x per week",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 110,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Gets dialed in and has way more energy before cardio activities like mountain biking and dirt biking",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive",
+      "description": "Feels very dialed in during activities",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Completed a 6-week run of MOTS-C at 10mg/week split into 3 shots, alongside daily AOD, 110mg TRT, and tirzepatide. Waiting for tirzepatide to start causing sluggishness before considering a second run of MOTS-C. Uses MOTS-C before activities rather than on a fixed daily schedule.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.269714Z"
+}

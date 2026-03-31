@@ -1,0 +1,55 @@
+{
+  "id": "917b67b1-25fe-433d-9265-14aa6818712c",
+  "source_id": "1qxl6y2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxl6y2/cycle_42m_on_trt_anyone_using_lowdose_retatrutide/",
+  "author_hash": "51a25dfbf3b6cfac00854a69cb1718c28a9625d49405742274c3177c18792ddb",
+  "confidence_tier": 4,
+  "date_published": "2026-02-06T07:48:37-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "intramuscular",
+      "dose_value": 250,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "every 5 days",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 35lbs of fat over 3 months",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Maintaining and building new muscle while losing fat",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "No longer thinks about food; has to remind himself to eat",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started at 0.5mg and worked up to 6mg over ~10 weeks. Noted significant appetite suppression jump when going from 2mg to 4mg.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.12093Z"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a9ba30e1-f238-480a-95da-86bb73d94237",
+  "source_id": "k303dc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/k303dc/peptides_for_brain_regeneration_after/",
+  "author_hash": "6a636b9b7957e190de9365c338902d5777fd57f905b22815fde484dfe48aea7d",
+  "confidence_tier": 5,
+  "date_published": "2020-11-28T17:20:57-08:00",
+  "reported_age_range": "25-29",
+  "health_conditions": [
+    "heavy daily alcohol use",
+    "daily phenibut abuse",
+    "attention span decline",
+    "short term memory impairment",
+    "working memory impairment",
+    "GABA-A/B channel dysregulation"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "NAC",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "oral",
+      "dose_value": 2000,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Felt very vulnerable after NAC 2g/day for a few days",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood_change",
+      "description": "Same vulnerable/uncomfortable reaction to higher doses of selank as with NAC and previously with weed",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "OP is 26, tapering off phenibut first then alcohol. Pursuing intensive outpatient for alcohol with psychiatrist. Considering BPC-157 for a ligament issue and gut biome benefits. Interested in Cerebrolysin and Cortexin based on recommendations in thread.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.43103Z"
+}

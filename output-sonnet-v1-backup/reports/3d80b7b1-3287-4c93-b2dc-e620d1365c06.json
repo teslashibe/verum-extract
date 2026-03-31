@@ -1,0 +1,31 @@
+{
+  "id": "3d80b7b1-3287-4c93-b2dc-e620d1365c06",
+  "source_id": "1qtdny5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtdny5/what_time_of_day_to_take_ipa_cjc_no_dac/",
+  "author_hash": "5e41ecaa14d45be8832289ae1180399d32c6f4003fc389a7d8cc990f3af5600c",
+  "confidence_tier": 5,
+  "date_published": "2026-02-01T14:57:14-08:00",
+  "compounds": [
+    {
+      "name_raw": "Ipa + Cjc no dac",
+      "name_normalized": "ipa__cjc_no_dac",
+      "category": "other",
+      "frequency": "fasted in the morning",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Wrecked sleep when taken before bed; switched to fasted AM with no issues",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Originally took before bed which disrupted sleep; switched to fasted morning dosing and resolved the issue.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.122336Z"
+}

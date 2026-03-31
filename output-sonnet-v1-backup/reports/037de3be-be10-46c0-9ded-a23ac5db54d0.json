@@ -1,0 +1,48 @@
+{
+  "id": "037de3be-be10-46c0-9ded-a23ac5db54d0",
+  "source_id": "1lh0fgl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lh0fgl/my_brain_crashes_and_motivation_drops_anywhere/",
+  "author_hash": "2b66071e483509d3a9e10cced1d24f45ec902aa5222979f7dde4dd173cc2e600",
+  "confidence_tier": 5,
+  "date_published": "2025-06-21T09:22:51-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Teso",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Used Teso and Selank/Semax with some success",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_pressure",
+      "description": "Teso can elevate heart rate; recommends starting at 1/4 dose"
+    }
+  ],
+  "protocol_notes": "Reports some success with Teso and Selank/Semax stack. Notes Teso can elevate heart rate and recommends starting at 1/4 dose.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.281147Z"
+}

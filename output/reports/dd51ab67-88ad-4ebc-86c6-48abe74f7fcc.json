@@ -1,0 +1,40 @@
+{
+  "id": "dd51ab67-88ad-4ebc-86c6-48abe74f7fcc",
+  "source_id": "1rciw9r",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rciw9r/hard_lump_on_injection_site/",
+  "author_hash": "82dc2248bb3af02bc93e64ec4298ac3dcd9f4c10824cd226eb478263edf9c638",
+  "confidence_tier": 4,
+  "date_published": "2026-02-23T06:28:14-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Hard lump at injection site, itchiness around injection site",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "User reports getting leaner and having to adjust injection angle to 45 degrees to avoid shallow IM injection. Not rotating injection sites frequently enough on lower stomach.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.673176Z"
+}

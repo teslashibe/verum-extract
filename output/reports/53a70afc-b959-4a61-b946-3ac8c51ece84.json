@@ -1,0 +1,43 @@
+{
+  "id": "53a70afc-b959-4a61-b946-3ac8c51ece84",
+  "source_id": "1rdje5x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdje5x/overdose_of_ipamorelin_cjc1295/",
+  "author_hash": "4901501e8bca393b8b2ea85260680e40f9a1be654aca8f818284555654e5674e",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T07:33:53-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and before bed)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and before bed)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Compounds work synergistically with effects lasting about one day, suggesting twice-daily dosing maintains continuous activity"
+    }
+  ],
+  "protocol_notes": "Recommends 100-150mcg of each compound twice daily (morning and before bed). Can be mixed in same syringe. Morning dose recommended as pre-workout if exercising. Fasting: 30 minutes before injection preferred (not 4 hours necessary). Before bed: 1-2 hours fasting sufficient. Notes compounds work synergistically with ~24-hour activity window, suggesting night injection may be particularly important.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.660647Z"
+}

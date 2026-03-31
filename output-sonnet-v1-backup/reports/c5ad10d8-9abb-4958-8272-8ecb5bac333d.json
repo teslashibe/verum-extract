@@ -1,0 +1,45 @@
+{
+  "id": "c5ad10d8-9abb-4958-8272-8ecb5bac333d",
+  "source_id": "1nc9snk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nc9snk/ghkcu/",
+  "author_hash": "7e39a8cbb7300b48875169c010c3195e821ae12bff0b0becb906ae038e69744f",
+  "confidence_tier": 4,
+  "date_published": "2025-09-08T21:41:54-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2000,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB4",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BCP157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Uses 2000mcg daily for 8 weeks on, 4 weeks off. Part of the KLOW blend (KPV, TB4, BCP157).",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.272018Z"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "3a99e143-5df3-426a-842f-eac13af1ac11",
+  "source_id": "1rymdik",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rymdik/1_month_transformation/",
+  "author_hash": "34c7d563b6a962e83130c6d9609ca09ed3bd42bc74e8732c039af1ae743ccbd1",
+  "confidence_tier": 3,
+  "date_published": "2026-03-19T21:12:23-07:00",
+  "reported_weight": {
+    "value": 232,
+    "unit": "lbs"
+  },
+  "training_status": "active, weight training 70 min daily with 20-30 min zone 2 cardio",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "every 5 days",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mots C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "every other day before training",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "cycle_length_days": 23,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost approximately 19 lbs over roughly one month (232 lbs to 213 lbs)",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "IGF-1 LR3 introduced to combat atrophy and possibly increase muscle mass",
+      "onset_days": 14
+    },
+    {
+      "category": "energy",
+      "description": "MOTS-C used as pre-workout, resulted in much better workouts without jitters",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "other",
+      "description": "Overall results described as working incredibly well; body composition improvements shown via Evolt BIA scanner",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Minimal side effects from Reta despite rapid titration; carbs structured around workouts to combat hypoglycemia risk",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Body weight",
+      "value_before": 232,
+      "value_after": 213,
+      "unit": "lbs",
+      "timeframe_days": 30
+    }
+  ],
+  "protocol_notes": "First month using peptides. Reta titration: 1mg week 1, 1.5mg week 2, 2mg weeks 3-4. Tesamorelin and Reta started simultaneously at week 1; MOTS-C and IGF-1 LR3 added at week 2. Diet tightly controlled with macro counting. Body composition tracked via Evolt BIA scanner at local gym. The two body scans reflect only the last two weeks of the journey.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.106365Z"
+}

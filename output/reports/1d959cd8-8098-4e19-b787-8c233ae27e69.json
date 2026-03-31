@@ -1,0 +1,34 @@
+{
+  "id": "1d959cd8-8098-4e19-b787-8c233ae27e69",
+  "source_id": "15y7gnn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/15y7gnn/best_sema_source/",
+  "author_hash": "6c88beb4e30971ca826f2e08383d0162c0b3efbf05dc94d4c93958dfe9d2d0cb",
+  "confidence_tier": 4,
+  "date_published": "2023-08-22T07:28:22-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Zero appetite suppression after third dose at 500mcg",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Second week of first Arctic Peptides order. Started with standard dose, upped to 500mcg on third week. First time using any peptide. Unclear what effects should be expected. Contacted Arctic customer service regarding lack of effect.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.420373Z"
+}

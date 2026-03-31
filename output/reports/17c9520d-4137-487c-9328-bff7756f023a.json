@@ -1,0 +1,47 @@
+{
+  "id": "17c9520d-4137-487c-9328-bff7756f023a",
+  "source_id": "1s5lly5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s5lly5/motsc_protocol/",
+  "author_hash": "9704d887b878cc57f883736075c4fa1acb589649ff1c23cee79cbdd0ae62ebe5",
+  "confidence_tier": 4,
+  "date_published": "2026-03-27T17:25:56-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5 days per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "dose_value": 0.3,
+      "dose_unit": "mg",
+      "frequency": "5 days per week",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Great energy",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Some weight loss",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Stack used with wife; same protocol for both compounds",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.656909Z"
+}

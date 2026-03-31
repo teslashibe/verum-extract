@@ -1,0 +1,38 @@
+{
+  "id": "b68c9019-a10c-4be5-a0c9-5521d9f78ae3",
+  "source_id": "1rwekc3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwekc3/mon_avis_sur_reta_ghkcu_nad_et_bpc157/",
+  "author_hash": "2cec8b3c95cbb674a197457dfbb5594f8b898c7bb895690743070153bb9e5892",
+  "confidence_tier": 5,
+  "date_published": "2026-03-17T11:16:07-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "nad+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "cycle_length_days": 2,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Fatigue experienced on reta; started NAD+ to address it but NAD+ seems to be making fatigue even worse so far (only 2 days in)",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Started NAD+ specifically to counter fatigue from reta. Only 2 days into NAD+ at time of comment.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.107159Z"
+}

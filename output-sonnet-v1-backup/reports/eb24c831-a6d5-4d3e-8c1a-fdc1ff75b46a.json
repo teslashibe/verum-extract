@@ -1,0 +1,38 @@
+{
+  "id": "eb24c831-a6d5-4d3e-8c1a-fdc1ff75b46a",
+  "source_id": "1rglvg5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rglvg5/dsip_dosing_frequency/",
+  "author_hash": "f71d25c19afa41585d1401262ee880bc224ba0b8365c130fde8b0c7514a39815",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T15:01:50-08:00",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "frequency": "5 days on, 2 days off",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleeps deeper early in sleep cycle; surprised by how short the time feels when waking within first few hours",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Dreams more frequently, though not vivid dreams as some others report",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "3 weeks into current cycle of 400mcg on a 5 days on / 2 days off schedule. Reports no loss of sensitivity so far.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.113882Z"
+}

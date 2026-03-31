@@ -1,0 +1,32 @@
+{
+  "id": "dd3c4725-2b2f-44cd-b298-cffa77b429b0",
+  "source_id": "13zi284",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/13zi284/why_no_human_trials_on_bpc157_this_stuff_seems/",
+  "author_hash": "822d2bf0bb69954b0bfced6842c128baeedf74ef6eae129a806063c3c502cb98",
+  "confidence_tier": 4,
+  "date_published": "2023-06-03T09:36:05-07:00",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "per day",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "pretty bad anhedonia",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User plans to cycle BPC-157 again in the future",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.701276Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "dbd6b943-2266-4ada-9b3f-4fc35050a61b",
+  "source_id": "1rryih0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rryih0/motsc_im_injection/",
+  "author_hash": "2687ed181c51bb64fc08717d78ac4de4c00644582601ed9d9f48045a1ac61745",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T11:16:00-07:00",
+  "health_conditions": [
+    "Type 2 Diabetes"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "blood_sugar",
+      "description": "Blood sugar management normalized, maintains normal blood sugar levels for first time since T2D diagnosis",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Small red welts/bumps at injection site appearing 12-24 hours after injection",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Using MOTS-c with Retatrutide at micro doses for insulin resistance. Attempted dilution with additional bacteriostatic water and warming syringe to room temperature to reduce histamine response. Planning to switch to IM administration.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.664964Z"
+}

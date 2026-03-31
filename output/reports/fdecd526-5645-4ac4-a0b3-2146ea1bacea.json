@@ -1,0 +1,44 @@
+{
+  "id": "fdecd526-5645-4ac4-a0b3-2146ea1bacea",
+  "source_id": "1r8at3o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r8at3o/best_option_for_muscle_loss_prevention/",
+  "author_hash": "35b75d5b36eb4518ce9cce0e9850e717d8db828d24735ac89108c5469744040c",
+  "confidence_tier": 4,
+  "date_published": "2026-02-18T10:20:16-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "5 days per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "5 days per week",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Great for sleep quality, administered at bedtime",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "CJC-1295 no DAC stacked with Ipamorelin. Dosed at bedtime (5x per week) to coincide with natural GH pulses. User chose this stack due to cost considerations vs. Tesamorelin.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.674807Z"
+}

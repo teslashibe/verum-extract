@@ -1,0 +1,47 @@
+{
+  "id": "de302319-1eeb-464e-8a84-a26d4ca9f15d",
+  "source_id": "1r9gism",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9gism/ghk_cu_with_adhd_brainfog/",
+  "author_hash": "ed5ec1a21fb2eaf314b431d42ec974300d02202e4a25e44e67bf730f0e71044e",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T16:29:14-08:00",
+  "health_conditions": [
+    "ADHD"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "units",
+      "frequency": "daily",
+      "cycle_length_days": 2,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Zinc",
+      "name_normalized": "zinc",
+      "category": "other",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cognitive_impairment",
+      "description": "brainfog when taking GHK-Cu in the morning",
+      "severity": "moderate",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "100mg GHK-Cu vial reconstituted with 3mL bacteriostatic water. Started Feb 17. Added zinc on Feb 18 to address potential copper toxicity. User suspects brainfog may be related to copper-zinc balance rather than ADHD.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.674216Z"
+}

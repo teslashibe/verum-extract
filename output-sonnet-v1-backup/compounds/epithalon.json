@@ -1,0 +1,203 @@
+{
+  "compound_id": "epithalon",
+  "display_name": "Epithalon",
+  "category": "anti_aging",
+  "total_reports": 154,
+  "reports_by_tier": {
+    "4": 75,
+    "5": 79
+  },
+  "top_benefits": [
+    {
+      "category": "sleep",
+      "count": 35,
+      "pct": 46.7
+    },
+    {
+      "category": "fat_loss",
+      "count": 16,
+      "pct": 21.3
+    },
+    {
+      "category": "cognitive",
+      "count": 14,
+      "pct": 18.7
+    },
+    {
+      "category": "energy",
+      "count": 14,
+      "pct": 18.7
+    },
+    {
+      "category": "other",
+      "count": 11,
+      "pct": 14.7
+    },
+    {
+      "category": "mood",
+      "count": 10,
+      "pct": 13.3
+    },
+    {
+      "category": "skin",
+      "count": 9,
+      "pct": 12
+    },
+    {
+      "category": "recovery",
+      "count": 8,
+      "pct": 10.7
+    },
+    {
+      "category": "anti_aging",
+      "count": 8,
+      "pct": 10.7
+    },
+    {
+      "category": "muscle_gain",
+      "count": 5,
+      "pct": 6.7
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "other",
+      "count": 16,
+      "pct": 21.3,
+      "avg_severity": 1.9
+    },
+    {
+      "category": "sleep_disruption",
+      "count": 7,
+      "pct": 9.3,
+      "avg_severity": 2
+    },
+    {
+      "category": "injection_site",
+      "count": 5,
+      "pct": 6.7,
+      "avg_severity": 1.8
+    },
+    {
+      "category": "nausea",
+      "count": 2,
+      "pct": 2.7,
+      "avg_severity": 3
+    },
+    {
+      "category": "appetite_change",
+      "count": 2,
+      "pct": 2.7,
+      "avg_severity": 3
+    },
+    {
+      "category": "water_retention",
+      "count": 2,
+      "pct": 2.7,
+      "avg_severity": 2.5
+    },
+    {
+      "category": "mood_change",
+      "count": 1,
+      "pct": 1.3,
+      "avg_severity": 2
+    },
+    {
+      "category": "fatigue",
+      "count": 1,
+      "pct": 1.3,
+      "avg_severity": 1
+    },
+    {
+      "category": "numbness_tingling",
+      "count": 1,
+      "pct": 1.3,
+      "avg_severity": 3
+    },
+    {
+      "category": "headache",
+      "count": 1,
+      "pct": 1.3,
+      "avg_severity": 1
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 10,
+      "unit": "mg",
+      "frequency": "daily for 10 days",
+      "count": 2,
+      "pct": 1.3
+    },
+    {
+      "route": "intramuscular",
+      "dose": 1,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 0.6
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 20,
+      "unit": "mg",
+      "frequency": "nightly",
+      "count": 1,
+      "pct": 0.6
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 10,
+      "unit": "mg",
+      "frequency": "every 3-4 days",
+      "count": 1,
+      "pct": 0.6
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 10,
+      "unit": "mg",
+      "frequency": "3 doses per week",
+      "count": 1,
+      "pct": 0.6
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "kpv",
+      "display_name": "BPC",
+      "report_count": 21
+    },
+    {
+      "compound_id": "mots_c",
+      "display_name": "mots-c",
+      "report_count": 21
+    },
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Retatrutide",
+      "report_count": 19
+    },
+    {
+      "compound_id": "nad_plus",
+      "display_name": "NAD+",
+      "report_count": 18
+    },
+    {
+      "compound_id": "tb_500",
+      "display_name": "tb-500",
+      "report_count": 17
+    }
+  ],
+  "avg_cycle_length_days": 18,
+  "avg_sentiment_score": 0.726,
+  "sentiment_breakdown": {
+    "positive": 92,
+    "mixed": 26,
+    "negative": 9,
+    "neutral": 27
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.96971Z"
+}

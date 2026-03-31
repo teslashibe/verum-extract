@@ -1,0 +1,78 @@
+{
+  "id": "ab2848ee-4845-4f2e-91be-737a9e9b79e6",
+  "source_id": "1q0chkl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q0chkl/dsip_oh_my/",
+  "author_hash": "7ad78792aaf382b68ce4b985b2c1168f0cd95269b2b44e1560e0dc2bb928b3ff",
+  "confidence_tier": 4,
+  "date_published": "2025-12-31T05:01:26-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "nasal",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2-4 nights per week",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "2-4 nights per week",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep improved with SC form after switching from nasal; reported 'OMG I slept so well!' after 200 mcg dose; sleep HRV improved",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Nasal form caused nightmares",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "On Reta, HRV tanked and resting HR went up; stabilizing and trending for slow improvement",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "HRV (sleep)"
+    },
+    {
+      "marker_name": "Resting HR"
+    }
+  ],
+  "protocol_notes": "Switched from nasal to SC form due to nightmares. Recommends using DSIP intermittently 2-4 nights/week to avoid tolerance. Also on Reta (retatrutide). Uses 10mg DSIP reconstituted in 3cc BAC water, stored refrigerated.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.257237Z"
+}

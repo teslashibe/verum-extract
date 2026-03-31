@@ -1,0 +1,33 @@
+{
+  "id": "3d8b68a6-7bc5-429b-a66a-65ec66cf2bc2",
+  "source_id": "1s2lvz5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s2lvz5/is_this_normal/",
+  "author_hash": "59fa5fcde25cb5966d77f39fb9347f543d5543e09c5be3235d135cf7f8ec502e",
+  "confidence_tier": 4,
+  "date_published": "2026-03-24T11:21:37-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "barely able to eat for the first week at 0.5mg dose",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Started at 0.5mg Retatrutide. Noted individual variability in dose response.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.647413Z"
+}

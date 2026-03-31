@@ -1,0 +1,56 @@
+{
+  "id": "5330a4f3-dad7-424b-98c3-ab0f04fa46df",
+  "source_id": "185vp15",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/185vp15/autopen_injections_for_peptides/",
+  "author_hash": "b876e52c8bdc877652a6ee5d3c1b1b9f9295984dab7c05c3c064ce65859898af",
+  "confidence_tier": 4,
+  "date_published": "2023-11-28T05:11:03-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "units",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Simplicity and speed of injections"
+    }
+  ],
+  "protocol_notes": "Uses Owen Mumford Autopen for peptide blends. Blends Sermorelin and Ipamorelin in one vial. Uses separate pens for HCG and Testosterone C. Stopped using autopen for testosterone due to prolonged injection time; now uses 31 gauge syringe with 6 units daily for more control. Uses 31 gauge needles (smaller gauge = less painful). Experimented with warming the capsule before injecting testosterone.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.699799Z"
+}

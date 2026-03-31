@@ -1,0 +1,76 @@
+{
+  "id": "df8ef37d-f1ed-4c73-98ec-f6cded47f928",
+  "source_id": "1rokp5s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rokp5s/cjc1295ipamorelin_blend_and_tirz_stack/",
+  "author_hash": "03b7ba9c206f7bf2639f43dfe3a906d770af0706782cee40a7ae8b7f8582c4a9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-08T16:58:29-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "daily",
+      "cycle_length_days": 45,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Ripped visceral fat, moved from apple shape to visible muscle definition",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Achieved 15% body fat",
+      "severity": "significant"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Anti-aging properties noted",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_fat_percentage",
+      "value_after": 15,
+      "unit": "%",
+      "timeframe_days": 45
+    }
+  ],
+  "protocol_notes": "Progressive protocol: started with Tirz + Sermorelin, switched to CJC/IPA blend, then changed to Tesamorelin after 1.5 months. Found Tesamorelin most effective for visceral fat reduction. Age 42, previously apple-shaped body composition.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.655234Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6fa05b0e-6ade-454e-9dc8-ac971ed2e2a1",
+  "source_id": "1nc9snk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nc9snk/ghkcu/",
+  "author_hash": "6ad133bdba152a7bae4b07ef9df15ff150761e3ac7117b109ba22309927ba235",
+  "confidence_tier": 4,
+  "date_published": "2025-09-08T21:41:54-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "5 days per week",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Post-injection pain (PIP); mitigated by dilution",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Recommends starting low and titrating up. Notes that increased dilution reduces PIP.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.398585Z"
+}

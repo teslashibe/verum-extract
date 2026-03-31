@@ -1,0 +1,38 @@
+{
+  "id": "8393ee78-2631-42a6-bcf7-42d33f2a9c37",
+  "source_id": "1luelnd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1luelnd/moving_from_tirz_to_reta_anyone_try/",
+  "author_hash": "405575ce4e7b460723a5fe31b2fd99cc46ab07175dcedbfccf010c1ee70fc8e6",
+  "confidence_tier": 4,
+  "date_published": "2025-07-07T20:37:31-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Hunger suppression during titration period",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Titrated Tirzepatide down while titrating Retatrutide up. Reports Retatrutide takes 4-8 weeks to fully kick in, with some users requiring up to 4-8mg before noticing effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.687765Z"
+}

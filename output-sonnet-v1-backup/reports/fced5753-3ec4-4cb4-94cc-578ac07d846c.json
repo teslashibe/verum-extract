@@ -1,0 +1,47 @@
+{
+  "id": "fced5753-3ec4-4cb4-94cc-578ac07d846c",
+  "source_id": "1rl0v2l",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rl0v2l/muscle_twitch_spasm_injection_site/",
+  "author_hash": "f6fbdc9453a8c287a20505fe1a62e9b596ea57dfe65a93f608ceed16d4611372",
+  "confidence_tier": 5,
+  "date_published": "2026-03-04T15:11:50-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "glow peptide",
+      "name_normalized": "glow_peptide",
+      "category": "other",
+      "route": "subcutaneous",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Stinging at injection site during first few injections, resolved after massaging post-injection and allowing product to reach room temperature before injecting",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true
+    },
+    {
+      "category": "injection_site",
+      "description": "Small lumps at injection site after first few injections, resolved after a few days",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 3
+    },
+    {
+      "category": "other",
+      "description": "Muscle spasming and twitching at injection site where a small lump formed, believed to be caused by injecting twice in the same spot",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Injecting subcutaneously into abdomen. Adopted practice of massaging after injection and allowing product to reach room temperature before use, which resolved stinging. One site has a persistent lump possibly due to double injection at same location.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112165Z"
+}

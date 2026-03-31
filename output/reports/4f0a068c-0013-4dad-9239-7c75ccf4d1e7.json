@@ -1,0 +1,41 @@
+{
+  "id": "4f0a068c-0013-4dad-9239-7c75ccf4d1e7",
+  "source_id": "1c8ax9s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1c8ax9s/bpc_157_overdose/",
+  "author_hash": "b117e0c749a6034766ebb9202670c054844aba1733597b0057e528198af14012",
+  "confidence_tier": 4,
+  "date_published": "2024-04-19T16:12:19-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "felt great",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "anhedonia concern; monitoring for loss of pleasure/interest",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Took 2mg daily for weeks. Uses L-tryptophan in the evening to potentially ward off anhedonia. Also experiences sleep disruption with tryptophan use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.41549Z"
+}

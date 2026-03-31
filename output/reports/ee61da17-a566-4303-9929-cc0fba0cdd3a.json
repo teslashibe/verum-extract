@@ -1,0 +1,43 @@
+{
+  "id": "ee61da17-a566-4303-9929-cc0fba0cdd3a",
+  "source_id": "1p0sjyw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p0sjyw/has_anyone_else_hit_a_point_where_the_hunger/",
+  "author_hash": "44ab8ba6b75d1814d38f56b58af8880f05bdaba31fed7ddc8ae6868803d8d315",
+  "confidence_tier": 4,
+  "date_published": "2025-11-18T16:11:04-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression has declined significantly on max-dose tirzepatide alone; early indication of improvement with reta addition",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Max dose tirzepatide (15mg) for extended period. Recently added 2mg retatrutide. Progression: forced eating for protein → low-level hunger on tirz monotherapy → testing reta stack.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.393291Z"
+}

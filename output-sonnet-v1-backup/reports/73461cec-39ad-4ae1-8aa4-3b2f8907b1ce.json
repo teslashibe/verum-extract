@@ -1,0 +1,54 @@
+{
+  "id": "73461cec-39ad-4ae1-8aa4-3b2f8907b1ce",
+  "source_id": "1qcumm0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qcumm0/cymbalta_blocks_glp1s/",
+  "author_hash": "c4d226f6340a8a09687687028d3909c0ae280a16d9e6fd3f50e3fb85919b5e99",
+  "confidence_tier": 4,
+  "date_published": "2026-01-14T10:10:10-08:00",
+  "health_conditions": [
+    "depression (on antidepressant)",
+    "obesity/weight management"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 1095,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 40 lbs on Retatrutide over approximately 3 years; eventually moved to lower maintenance dose",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression was highly effective prior to Cymbalta introduction",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "After starting Cymbalta 3 months ago, Retatrutide no longer suppresses appetite; eating more than usual",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "other",
+      "description": "Weight gain of +7 lbs in 3 months since starting Cymbalta, despite doubling Retatrutide dosage",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "User has been on Retatrutide for 3 years with good results. Cymbalta (antidepressant) introduced 3 months ago. Doubled Reta dosage since Cymbalta introduction with no improvement in appetite suppression. Believes Cymbalta may be blocking GLP-1 effects.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.124913Z"
+}

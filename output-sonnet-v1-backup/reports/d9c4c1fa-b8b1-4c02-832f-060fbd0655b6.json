@@ -1,0 +1,43 @@
+{
+  "id": "d9c4c1fa-b8b1-4c02-832f-060fbd0655b6",
+  "source_id": "1rvp24a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvp24a/ss31_fatigue_and_brain_fog_and_mitigation/",
+  "author_hash": "0622d5ba19ce07437fb0ee678f74110d07bab0704d9bc10205bd9f1ac5d2a39d",
+  "confidence_tier": 5,
+  "date_published": "2026-03-16T15:50:02-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "frequency": "daily (morning)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "NAD in the morning helps with fatigue from reta"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Fatigue from reta, mitigated by NAD taken in the morning",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Takes NAD in the morning; says it doesn't bother sleep. Has not yet started SS-31 but was advised to take methylation supplements and NAD+ before and throughout.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.10763Z"
+}

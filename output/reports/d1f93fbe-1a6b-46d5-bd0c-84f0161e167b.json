@@ -1,0 +1,35 @@
+{
+  "id": "d1f93fbe-1a6b-46d5-bd0c-84f0161e167b",
+  "source_id": "1mdto7t",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mdto7t/is_the_hype_with_ghk_true_when_it_comes_to_skin/",
+  "author_hash": "9e492f2d090f8b4183c1c596c16df438c425175b867a3be947052680c615d175",
+  "confidence_tier": 4,
+  "date_published": "2025-07-30T22:56:48-07:00",
+  "reported_sex": "male",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "libido_change",
+      "description": "pelvic floor pain (occurred twice when trying GHK)",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "zinc"
+    }
+  ],
+  "protocol_notes": "Male user. Takes zinc supplement with good levels. Experienced pelvic floor pain immediately when tried GHK, possibly related to DHT-blocking properties.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.402667Z"
+}

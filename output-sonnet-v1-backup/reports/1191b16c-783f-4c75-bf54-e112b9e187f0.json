@@ -1,0 +1,52 @@
+{
+  "id": "1191b16c-783f-4c75-bf54-e112b9e187f0",
+  "source_id": "1rhzrso",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rhzrso/tesamorelin/",
+  "author_hash": "c2b08f3b695c8fc0aaf69859c0113e6c452943aee94797594d9906b393395683",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T07:16:40-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC/IPA",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "5 days on 2 days off",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Great sleep on Tesa",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Annoying sides on CJC/IPA (not further specified), led to switching to Tesa",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started with CJC/IPA 1.5mg for 1 month, switched to Tesa due to annoying sides. Tesa: 1mg first month, then 1.5mg on 5 on/2 off schedule. Takes fasted at night to align with natural GH pulse. No sides, no water retention on Tesa. Plans to cycle off at 90 days for 2-4 weeks then run again.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.113543Z"
+}

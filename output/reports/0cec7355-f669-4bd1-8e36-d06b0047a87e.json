@@ -1,0 +1,46 @@
+{
+  "id": "0cec7355-f669-4bd1-8e36-d06b0047a87e",
+  "source_id": "1s5kpjv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s5kpjv/mt_2/",
+  "author_hash": "fc89164405ac75d88767cb4122b7b53dd8673aa2857e2e493339b1ed09a14e0d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-27T16:47:28-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "tanning"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "nausea and flushing for the first little bit",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "flushing",
+      "description": "nausea and flushing for the first little bit",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "250 mcg one hour before tanning. Takes several tanning sessions to achieve desired darkness. Notes compound works quickly.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.656999Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "0e588ec7-0fe4-4aaf-83d9-a859728febae",
+  "source_id": "1rpfqrk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpfqrk/glow_stack/",
+  "author_hash": "b2887fd0074ec2db690b60322a6866082c9e92f07a8aee188ef9131e7c0cf631",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T15:58:13-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Crazy fast hair growth",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Positive impact on skin at 2mg dose",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hair_change",
+      "description": "Hair growth so fast required haircuts nearly weekly, which is not sustainable",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User titrated down from 5mg daily to 2mg daily to manage excessive hair growth while maintaining skin benefits. Found 2mg to be a better sustainable dose.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.666484Z"
+}

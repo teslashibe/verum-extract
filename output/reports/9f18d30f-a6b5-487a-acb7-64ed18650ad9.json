@@ -1,0 +1,59 @@
+{
+  "id": "9f18d30f-a6b5-487a-acb7-64ed18650ad9",
+  "source_id": "1olx2ej",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1olx2ej/melanotan_i_spray_vs_injection_reduced_nausea/",
+  "author_hash": "185fb6161bf1e236f4a47a8cba5cf9191cf200ff47baea386a78eacc8a713116",
+  "confidence_tier": 4,
+  "date_published": "2025-11-01T12:44:55-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Melanotan I",
+      "name_normalized": "melanotan_1",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 10,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Melanotan I",
+      "name_normalized": "melanotan_1",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "once",
+      "cycle_length_days": 1,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Melanotan I",
+      "name_normalized": "melanotan_1",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "once",
+      "cycle_length_days": 1,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Persistent nausea and queasiness that did not improve over 10 days; dose-dependent escalation observed with 300mcg dose; lasted at least 3 hours",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "OP was building up compound in system before attempting weekly 1mg maintenance dose. Tried eating before administration to reduce nausea with limited success. Considering nasal spray formulation as alternative route.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.678277Z"
+}

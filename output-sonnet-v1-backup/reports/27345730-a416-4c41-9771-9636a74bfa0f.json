@@ -1,0 +1,44 @@
+{
+  "id": "27345730-a416-4c41-9771-9636a74bfa0f",
+  "source_id": "16riop4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16riop4/how_do_you_organizeprep_your_stacks/",
+  "author_hash": "8160888a5b768994e6da5d69169585b9212b87b12e545382aa6605bc2a43e8f8",
+  "confidence_tier": 4,
+  "date_published": "2023-09-24T21:45:00-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295 no-DAC",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Uses Humapen insulin pens with 3ml cartridges for peptide storage and delivery. Reconstitutes each peptide vial with 3ml bacteriostatic water. Stores cartridges in fridge; keeps non-reconstituted peptides in freezer. Prepares cartridges as needed, not months in advance, given 20-30 day post-reconstitution window. Each peptide has its own labeled Humapen. Dosing examples provided: CJC-1295 MOD GRF 1-29 2mg vial at 100mcg dose (15 UI per dose, 20 doses per cartridge); Ipamorelin 5mg vial at 250mcg dose (15 UI per dose, 20 doses per cartridge); Semax 5mg vial at 500mcg dose (30 UI per dose, 10 doses per cartridge).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.296824Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "5bfc4247-8c00-4ab2-964c-784f142b0bf4",
+  "source_id": "1rs3i7s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rs3i7s/crazy_hungry_after_ta1/",
+  "author_hash": "92977391142cbd241a143241c4c2dc9328172412a588fc15eba22ce504ae0066",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T14:15:34-07:00",
+  "training_status": "weight training regularly",
+  "compounds": [
+    {
+      "name_raw": "TA1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "twice a week",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Very strong appetite/cravings around 15 minutes after injecting, unable to sleep before eating a bunch of snacks",
+      "severity": "significant"
+    },
+    {
+      "category": "fatigue",
+      "description": "Feels kinda tired after injecting",
+      "severity": "mild"
+    },
+    {
+      "category": "dizziness",
+      "description": "Feels kinda dizzy after injecting",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "OP injects at night due to tiredness and dizziness. Enjoys the appetite increase as they like eating, have no weight problems, and do weight training regularly.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109225Z"
+}

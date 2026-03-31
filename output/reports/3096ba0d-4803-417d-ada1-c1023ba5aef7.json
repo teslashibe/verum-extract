@@ -1,0 +1,48 @@
+{
+  "id": "3096ba0d-4803-417d-ada1-c1023ba5aef7",
+  "source_id": "1qz6pcj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qz6pcj/reta_and_hypoglycemia/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2026-02-08T03:34:16-08:00",
+  "reported_age_range": "30-39",
+  "health_conditions": [
+    "hypoglycemia"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "improvement in shoulder and knee issues",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User is a novice considering adding retatrutide to existing BPC-157 and TB-500 stack due to concerns about hypoglycemia interaction. Currently on BPC-157 and TB-500 for over 1 month with good results for chronic shoulder and knee pain.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.666108Z"
+}

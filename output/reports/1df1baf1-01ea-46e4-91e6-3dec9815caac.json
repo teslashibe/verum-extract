@@ -1,0 +1,50 @@
+{
+  "id": "1df1baf1-01ea-46e4-91e6-3dec9815caac",
+  "source_id": "1ms8isk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ms8isk/how_long_until_energy_levels_increase_currently/",
+  "author_hash": "0055eeecea58fabc3e7cec4db14c2fd49fd1c835c4b9bab805db5d1bc59b3eda",
+  "confidence_tier": 4,
+  "date_published": "2025-08-16T14:35:20-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesofensine",
+      "name_normalized": "tesofensine",
+      "category": "body_composition",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Good energy boost from stack",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppressant effect",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Could affect sleep quality",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Stacks Retatrutide with 500mcg Tesofensine. Notes potential sleep quality impact as drawback.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.684424Z"
+}

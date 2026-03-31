@@ -1,0 +1,55 @@
+{
+  "id": "7c273ecb-25e8-4857-bb3c-46d2af25efdd",
+  "source_id": "1p6zwmc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p6zwmc/triz_vs_reta/",
+  "author_hash": "8fa03caecccc0f90ff16e488f262965de498bf6d887fc7ed9a6a41271d8899eb",
+  "confidence_tier": 4,
+  "date_published": "2025-11-25T21:49:17-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Tirz killed hunger and food noise with microdosing; Reta only mildly suppresses hunger",
+      "severity": "mild"
+    },
+    {
+      "category": "other",
+      "description": "Feels full quicker on Reta",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Heart rate went up a bit on Reta",
+      "severity": "mild"
+    },
+    {
+      "category": "nausea",
+      "description": "Nausea on Reta",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Previously microdosed Tirz with no side effects and strong appetite suppression. Now trialling Reta; did not notice much effect until reaching 3mg. Concerned about potential tolerance issues from prior Tirz use.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.263202Z"
+}

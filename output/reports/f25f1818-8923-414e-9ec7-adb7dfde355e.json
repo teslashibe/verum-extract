@@ -1,0 +1,44 @@
+{
+  "id": "f25f1818-8923-414e-9ec7-adb7dfde355e",
+  "source_id": "1plg50s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1plg50s/will_reta_save_me/",
+  "author_hash": "1d8025639cc0bdb1b01ec59d8d592bd3505f38a6ad5a4e9a41b348cfe35b4555",
+  "confidence_tier": 4,
+  "date_published": "2025-12-13T00:00:34-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "hunger control improved with spread dosage",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started at 0.25 mg every other day for 2 weeks with no side effects. Then moved to 0.5 mg. Reports spreading dosage throughout week reduces side effects and improves consistency of hunger control.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.674581Z"
+}

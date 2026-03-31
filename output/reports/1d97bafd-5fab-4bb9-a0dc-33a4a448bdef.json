@@ -1,0 +1,45 @@
+{
+  "id": "1d97bafd-5fab-4bb9-a0dc-33a4a448bdef",
+  "source_id": "o4xqfn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/o4xqfn/started_bpc_yesterday/",
+  "author_hash": "b84c007af5928bdfad638219c56632d599ae575f9010053b5a793c65eded44ea",
+  "confidence_tier": 4,
+  "date_published": "2021-06-21T08:28:37-07:00",
+  "health_conditions": [
+    "bulging disc",
+    "thoracic pain",
+    "tight mid and lower traps"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "cycle_length_days": 20,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Thoracic mobility improved after two doses",
+      "severity": "moderate",
+      "onset_days": 1
+    },
+    {
+      "category": "inflammation",
+      "description": "Anti-inflammatory effects noted",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Injecting near the affected area. Promised updates over 20-day course.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.702881Z"
+}

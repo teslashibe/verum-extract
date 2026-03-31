@@ -1,0 +1,42 @@
+{
+  "id": "f1a82758-d164-4f20-873c-45462df53a4d",
+  "source_id": "1mztb1s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mztb1s/peptides_for_eds_ehler_danlos_syndrome/",
+  "author_hash": "3ca6549d8ce9587f823a3b3d12a6c5c5c27ba97cbf42de5ba50ca1c89f68ef6b",
+  "confidence_tier": 5,
+  "date_published": "2025-08-25T08:17:32-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Injection point irritation with GLOW (GHK-Cu containing blend)",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User reports prior experience with Wolverine blend and GLOW blend. Recommends caution with GHK-Cu for EDS patients due to sensitivity concerns.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.683679Z"
+}

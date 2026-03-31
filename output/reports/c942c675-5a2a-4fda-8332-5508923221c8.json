@@ -1,0 +1,49 @@
+{
+  "id": "c942c675-5a2a-4fda-8332-5508923221c8",
+  "source_id": "1bo5olh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bo5olh/bpc157_freaking_me_out_a_bit/",
+  "author_hash": "f99a3d7ed956aa0dc156fe82ead247bd7714caeb0ce7b9a2250e38031eb978be",
+  "confidence_tier": 4,
+  "date_published": "2024-03-26T04:36:02-07:00",
+  "health_conditions": [
+    "suspected labrum tear",
+    "anxiety/stress"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "cycle_length_days": 3,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anxiety_relief",
+      "description": "Instantly reduced stress and anxiety, described as anti-anxiety effect. User is normally a very stressed person",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Shooting pain/uncomfortable BANG sensations behind left shoulder and front of shoulder, appears and disappears randomly over hours, occurs approximately hourly",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Local injection into left side deltoid using 0.5 inch needle. Started 3 days ago. Injection site discomfort/neurological sensations in shoulder area.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.416049Z"
+}

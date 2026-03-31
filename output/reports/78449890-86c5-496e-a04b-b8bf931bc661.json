@@ -1,0 +1,37 @@
+{
+  "id": "78449890-86c5-496e-a04b-b8bf931bc661",
+  "source_id": "1r9bto9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9bto9/injectable_ghk_cu_side_effects/",
+  "author_hash": "bfcb537432263dad5db41db5061e063e91908d548b63d664cd5b09953747938a",
+  "confidence_tier": 5,
+  "date_published": "2026-02-19T13:21:46-08:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "little burn lasting a few seconds, little redness at injection site",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "some people get more severe allergic/histamine reactions"
+    }
+  ],
+  "protocol_notes": "Brief comment noting occasional injection site burn and redness. Mentions possibility of allergic/histamine reactions in some users.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662046Z"
+}

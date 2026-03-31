@@ -1,0 +1,60 @@
+{
+  "id": "7a327223-8cd8-432a-bd10-53f33f1e91d5",
+  "source_id": "1qtsnge",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtsnge/cjc_1295ipamorelin_sleep_problems/",
+  "author_hash": "39d930d074ed4fa53716e87b0f5a6e6423da919a1c32e345839c019fc8eaf220",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T03:34:14-08:00",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "IU",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "IU",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Legs feel less sore than normal 2 days after workout",
+      "severity": "mild",
+      "onset_days": 2
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Unable to fall asleep despite optimal sleep conditions; felt close to sleep multiple times but could not drift off",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 2
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Periodic waking throughout the night after dose reduction",
+      "severity": "moderate",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "Initial protocol: 15 IU fasted 3 hours before bed. Clinic-recommended dose. UPDATE 1: Reduced to 12 IU, administered 2 hours fasted, same time as melatonin (3mg) and L-Theanine (200mg) 1 hour before bed, plus Magnesium Glycinate (240mg) 30 minutes before bed. Planning further reduction to 8 IU.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.681078Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "3ea2dae3-f2fa-4adb-877f-020728c60314",
+  "source_id": "1c49qb4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1c49qb4/tirzepatide_has_been_profoundly_impactful_on_my/",
+  "author_hash": "8f2ade1c609327edbfb7a5f0d8bca4a23827dadc76f31c3e0dc0b0aa44a57ac7",
+  "confidence_tier": 4,
+  "date_published": "2024-04-14T18:14:29-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 307,
+    "unit": "lbs"
+  },
+  "training_status": "exercising, meal prepping, calorie counting",
+  "health_conditions": [
+    "morbid obesity"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 126,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "246 lbs weight loss over 18 weeks on tirzepatide (397 to 307 lbs), following prior loss of 196 lbs through diet and exercise (556 to 360 lbs over ~2 years)",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Able to manage hunger and resist late-night eating binges with medication support",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Physical transformation, facial feature changes requiring Face ID reset multiple times",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "BPC-157/TB-500 blend used previously for ruptured bicep tendon recovery",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started tirzepatide in December 2023 at 397 lbs, currently 306 lbs (18 weeks total). Prior unsuccessful diet/exercise only attempt: 556→360 lbs over ~2 years before regaining 30 lbs. User states tirzepatide sourced from biotech supplier (previously used same vendor for BPC-157/TB-500 blend). Brand mentioned: Mounjaro. User reports initially considered semaglutide but chose tirzepatide as newer alternative. Emphasized not a 'magic' solution; requires disciplined calorie deficit and lifestyle adherence. Height: 6'3\".",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.415602Z"
+}

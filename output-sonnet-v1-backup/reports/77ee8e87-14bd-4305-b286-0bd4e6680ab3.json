@@ -1,0 +1,59 @@
+{
+  "id": "77ee8e87-14bd-4305-b286-0bd4e6680ab3",
+  "source_id": "1fv4rz5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fv4rz5/body_recomp_on_ozempic_what_peptides_can_i_stack/",
+  "author_hash": "b1e0975b90d23aa14b75ea3f21233303b1de23387de35d14f370d3051baed2d1",
+  "confidence_tier": 4,
+  "date_published": "2024-10-03T03:46:13-07:00",
+  "health_conditions": [
+    "allergic reaction to semaglutide and tesamorelin combination"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Day 1 of semaglutide + tesamorelin: small itchy bump near tesamorelin injection site resembling mosquito bite",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Day 2: increased itching near injection site",
+      "severity": "mild",
+      "onset_days": 2,
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Day 3: hives around injection site; extremely itchy palms, soles of feet, and lips — suspected allergic reaction to combination of semaglutide and tesamorelin",
+      "severity": "significant",
+      "onset_days": 3,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started tesamorelin about 1 month before semaglutide. Stopped tesamorelin until finished with semaglutide. Restarted tesamorelin 1 week after last semaglutide dose — small reaction. No reaction 2 weeks after last semaglutide dose. Suspected interaction between the two compounds.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.290275Z"
+}

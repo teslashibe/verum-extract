@@ -1,0 +1,44 @@
+{
+  "id": "72aa0c31-c178-4e11-94a7-618941c129ed",
+  "source_id": "1r9rtny",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9rtny/adding_tesamorelin/",
+  "author_hash": "0964040cb337689e4128ebcab91f82769a51680990495edeec70763e0893aab4",
+  "confidence_tier": 4,
+  "date_published": "2026-02-20T02:26:49-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep quality significantly improved",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Visceral fat reduced by 5%",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "visceral fat",
+      "value_after": -5,
+      "unit": "%",
+      "timeframe_days": 90
+    }
+  ],
+  "protocol_notes": "Completing 3-month cycle",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.674032Z"
+}

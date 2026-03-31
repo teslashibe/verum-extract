@@ -1,0 +1,73 @@
+{
+  "compound_id": "mast_p",
+  "display_name": "Mast P",
+  "category": "other",
+  "total_reports": 1,
+  "reports_by_tier": {
+    "4": 1
+  },
+  "top_benefits": [
+    {
+      "category": "muscle_gain",
+      "count": 1,
+      "pct": 100
+    },
+    {
+      "category": "fat_loss",
+      "count": 1,
+      "pct": 100
+    },
+    {
+      "category": "energy",
+      "count": 1,
+      "pct": 100
+    }
+  ],
+  "top_side_effects": null,
+  "common_doses": [
+    {
+      "route": "intramuscular",
+      "dose": 50,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 100
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "test_c",
+      "display_name": "Test P",
+      "report_count": 1
+    },
+    {
+      "compound_id": "tren",
+      "display_name": "Tren",
+      "report_count": 1
+    },
+    {
+      "compound_id": "hgh",
+      "display_name": "HGH",
+      "report_count": 1
+    },
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Reta",
+      "report_count": 1
+    },
+    {
+      "compound_id": "slu",
+      "display_name": "SLU",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 1,
+  "sentiment_breakdown": {
+    "positive": 1,
+    "mixed": 0,
+    "negative": 0,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.971225Z"
+}

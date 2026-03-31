@@ -1,0 +1,49 @@
+{
+  "id": "c9636855-0aec-4f26-9c84-48a91a516450",
+  "source_id": "1rx991i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx991i/anyone_taken_cerebrolysin/",
+  "author_hash": "81a3b1f63a7dfb80c25af5bd07973210280435ed3ac71008e3ffb94a3b94c01a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T09:51:46-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Cerebrolysin",
+      "name_normalized": "cerebrolysin",
+      "category": "cognitive",
+      "route": "intramuscular",
+      "dose_value": 1,
+      "dose_unit": "ml",
+      "frequency": "daily",
+      "cycle_length_days": 12,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "most obvious and consistent effect for various parts of brain function",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "benefits persisted 2 weeks after stopping early",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "injection fatigue from running multiple peptides simultaneously",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User cut cycle short due to injection fatigue from running multiple peptides. Noted that standard dosing protocol is up to 5ml/day IM, and lower doses (1ml/day) are viable alternatives.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.649919Z"
+}

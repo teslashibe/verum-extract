@@ -1,0 +1,39 @@
+{
+  "id": "e48b739e-b2dc-4a2e-8df5-01cb0dd3d722",
+  "source_id": "1bgyaba",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bgyaba/anyone_taking_this_from_peptide_sciences/",
+  "author_hash": "29e9602da977fb05bf3587131ebec9cd62999a752e4312484205c32e34c34941",
+  "confidence_tier": 4,
+  "date_published": "2024-03-17T07:03:30-07:00",
+  "health_conditions": [
+    "shoulder injury"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Combination works very well for messed up shoulder",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Not impressed with BPC-157 alone, but adding TB-500 made significant difference. Initial skepticism resolved with stack approach.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.416182Z"
+}

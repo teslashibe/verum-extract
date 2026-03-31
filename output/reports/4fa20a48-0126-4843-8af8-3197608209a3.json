@@ -1,0 +1,61 @@
+{
+  "id": "4fa20a48-0126-4843-8af8-3197608209a3",
+  "source_id": "1o5ucb6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o5ucb6/tesaipa_and_reta_at_same_time/",
+  "author_hash": "1a3932a7ccfba726968e7cfc914851691a55662f1a332f3296abf8559fdd90ce",
+  "confidence_tier": 4,
+  "date_published": "2025-10-13T12:56:15-07:00",
+  "training_status": "bodybuilding or resistance training (inferred from muscle preservation goal)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "30 lb weight loss over 3 months",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Added IPA and Tesa to help preserve muscle while on Reta",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Significant water retention from the stack",
+      "severity": "significant"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Joint discomfort when working out",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Using all 3 compounds for past 2 months. Initial mistake of attributing water retention to Reta not working. Recommends blood work. Joint discomfort should resolve upon cessation.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.395776Z"
+}

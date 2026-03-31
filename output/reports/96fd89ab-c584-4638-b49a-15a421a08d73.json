@@ -1,0 +1,40 @@
+{
+  "id": "96fd89ab-c584-4638-b49a-15a421a08d73",
+  "source_id": "1s2lvz5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s2lvz5/is_this_normal/",
+  "author_hash": "3e6a74a22e7272bb3f218dbe74526800300ae70e02f86be6db3ff057e7ca72ca",
+  "confidence_tier": 5,
+  "date_published": "2026-03-24T11:21:37-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "skin improved after initial breakout period; skin looks better than before",
+      "severity": "significant",
+      "onset_days": 21
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "copper uglies breakout experienced; resolved after 3 weeks",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 21
+    }
+  ],
+  "protocol_notes": "Commenter shares own GHK-Cu experience. Reports breakout resolved after 3 weeks with subsequent skin improvement.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.658537Z"
+}

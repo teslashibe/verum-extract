@@ -1,0 +1,37 @@
+{
+  "id": "995e71f4-fe5b-44b7-a0cd-aa718e3d27a0",
+  "source_id": "1rdf0up",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdf0up/want_to_switch_from_sema_to_reta/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 5,
+  "date_published": "2026-02-24T04:33:14-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "extremely tired on semaglutide",
+      "severity": "significant"
+    },
+    {
+      "category": "nausea",
+      "description": "unbelievably nauseous on semaglutide",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "OP has stalled on 1mg semaglutide and does not want to increase dose due to side effects. Considering switching to retatrutide for its energy benefits.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.115418Z"
+}

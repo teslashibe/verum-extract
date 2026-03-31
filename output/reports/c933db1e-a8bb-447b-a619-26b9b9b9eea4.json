@@ -1,0 +1,52 @@
+{
+  "id": "c933db1e-a8bb-447b-a619-26b9b9b9eea4",
+  "source_id": "1r18nyg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r18nyg/cjcipa_and_tesa/",
+  "author_hash": "ae58274e7ebaf6a63953e9062bc169c2548083d849345b06ec3151c0bc698e47",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T10:24:10-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 35,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "IGF-1 increased from 148 to 402, suggesting muscle-building potential",
+      "severity": "significant",
+      "onset_days": 35
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 148,
+      "value_after": 402,
+      "timeframe_days": 35
+    }
+  ],
+  "protocol_notes": "Using Tesa/IPA blend. Dosed at 1-2 mg per day based on FDA trial standards. Argued against higher dosing protocols.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677781Z"
+}

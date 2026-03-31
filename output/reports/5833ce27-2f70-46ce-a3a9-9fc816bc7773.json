@@ -1,0 +1,32 @@
+{
+  "id": "5833ce27-2f70-46ce-a3a9-9fc816bc7773",
+  "source_id": "1qvbtzq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qvbtzq/is_tz_not_supposed_to_be_mixed_with_other_peptides/",
+  "author_hash": "0889e529dd2b35607623b154166b5eca8fb1cb347456805046b0ffaecfe38b23",
+  "confidence_tier": 4,
+  "date_published": "2026-02-03T18:14:05-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 1095,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User has been taking tirzepatide for 3 years. Started with name brand, then switched to compounded tirzepatide from telehealth doctor working with US pharmacies. Has used tirzepatide + sermorelin combo from pharmacy (pre-mixed in single bottle) and reported no difference in effectiveness compared to tirzepatide alone. Pharmacy-prepared blends, not self-mixed.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.680208Z"
+}

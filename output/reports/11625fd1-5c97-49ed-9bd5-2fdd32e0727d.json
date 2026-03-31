@@ -1,0 +1,91 @@
+{
+  "id": "11625fd1-5c97-49ed-9bd5-2fdd32e0727d",
+  "source_id": "1r6b6mc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6b6mc/having_a_strange_almost_feverlike_reaction_to_ghk/",
+  "author_hash": "3012da6eda702a25077fe7be10783294c70361e3e7797a39a6baac881be6100b",
+  "confidence_tier": 4,
+  "date_published": "2026-02-16T06:33:46-08:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "high estrogen"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "once",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Slight sting within an hour, more noticeable sting upon waking, small red mark on injection site (not hard or raised)",
+      "severity": "mild",
+      "onset_days": 0
+    },
+    {
+      "category": "other",
+      "description": "Whole body chills sensation described as bones/insides feeling wet with subtle breeze blowing on them",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    },
+    {
+      "category": "nausea",
+      "description": "Subtle nausea feeling, not severe enough to vomit",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    },
+    {
+      "category": "other",
+      "description": "Cold hands and feet",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 0
+    },
+    {
+      "category": "cardiac",
+      "description": "Faint heartbeat sensation, not elevated heart rate but decreased strength of beat",
+      "severity": "mild",
+      "onset_days": 0
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body temperature",
+      "value_after": 97,
+      "unit": "°F",
+      "timeframe_days": 0
+    },
+    {
+      "marker_name": "E2",
+      "value_before": 59,
+      "unit": "pg/mL",
+      "timeframe_days": -30
+    }
+  ],
+  "protocol_notes": "First-time injection of GHK-Cu at 2mg subcutaneous. Also on third shot of Retatrutide injected to opposite love handle. Took Zyrtec (antihistamine) in response to symptoms, reported improvement within 30 minutes. Self-assessed as possible histamine intolerance reaction. Took Liquid IV electrolytes. User suspects anxiety may be contributing to symptoms.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.663272Z"
+}

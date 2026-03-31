@@ -1,0 +1,49 @@
+{
+  "id": "512ebce5-afb8-4a63-8236-fb497fe929ae",
+  "source_id": "1s029qy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s029qy/my_dad_has_3cm_tears_in_his_rotary_cuff_will/",
+  "author_hash": "1c168feb1b419d95995b5baea48b7cde84af3dec0ca72da82b08c05f9a3f6adc",
+  "confidence_tier": 3,
+  "date_published": "2026-03-21T13:45:17-07:00",
+  "health_conditions": [
+    "medial meniscus tear with 4mm flap"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Glow",
+      "name_normalized": "klow",
+      "category": "other",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "All pain resolved within a few weeks. Follow-up MRI confirmed flap vanished.",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "4mm meniscus flap confirmed healed on MRI after 8 weeks of Glow.",
+      "severity": "significant",
+      "onset_days": 56
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "meniscus flap (MRI)",
+      "value_before": 4,
+      "value_after": 0,
+      "unit": "mm",
+      "timeframe_days": 56
+    }
+  ],
+  "protocol_notes": "Ran Glow for 8 weeks for a medial meniscus tear with 4mm flap. Before and after MRIs confirmed the flap vanished. Pain resolved within a few weeks.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105884Z"
+}

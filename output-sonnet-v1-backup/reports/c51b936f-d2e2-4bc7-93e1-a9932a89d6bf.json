@@ -1,0 +1,44 @@
+{
+  "id": "c51b936f-d2e2-4bc7-93e1-a9932a89d6bf",
+  "source_id": "1qxa1pa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxa1pa/cjc_1295_no_dac_iplamorelin_side_effects/",
+  "author_hash": "f4ab4828098df038abfcb4d7ce3fc0c1362317ee5dbdd1e62b26f0fd51eff7e4",
+  "confidence_tier": 4,
+  "date_published": "2026-02-05T22:21:31-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC 1295 No DAC",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Increased heart rate starting around 5 minutes after injecting, lasting until falling asleep",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Currently running a cycle of CJC 1295 No DAC + Ipamorelin blend at 500mcg of both. Describes increased HR as a normal side effect for them.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121002Z"
+}

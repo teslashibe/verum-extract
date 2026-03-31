@@ -1,0 +1,48 @@
+{
+  "id": "b2ee20bb-84f6-4ffe-8da1-275b6f5c8f94",
+  "source_id": "1s5ngoe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s5ngoe/help_reviewing_stack/",
+  "author_hash": "001e5b2266b55482da0a5d9b2da257310dd733c6f6dc7a94aad59464880296f7",
+  "confidence_tier": 5,
+  "date_published": "2026-03-27T18:50:16-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "5-Amino-1MQ",
+      "name_normalized": "5_amino_1mq",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "5 amino will help you burn more fat than just tesa alone",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User recommends Tesamorelin + Ipamorelin as more effective alternative to Sermorelin with fewer side effects. Suggests 5-Amino-1MQ for additional fat loss. Also recommends considering Retatrutide versus Tirzepatide.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.645792Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "f3a96e57-8655-455f-9a2d-a01da9e96f24",
+  "source_id": "1re1ye6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1re1ye6/wolverine_blend_plan/",
+  "author_hash": "ae58274e7ebaf6a63953e9062bc169c2548083d849345b06ec3151c0bc698e47",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T19:22:12-08:00",
+  "training_status": "military",
+  "health_conditions": [
+    "multiple bad discs in back",
+    "joint pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "cycle_length_days": 20,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Blend of GHK-Cu (for hair and skin) and KPV helps with joint pain. Notices pain returns when doses are skipped.",
+      "severity": "moderate"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Uses KLOW for 20-30 days for acute injuries (e.g., hand surgery recovery)",
+      "severity": "moderate"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Uses GHK-Cu for hair and skin benefits",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "20+ years military service. Maintains ongoing blend of GHK-Cu and KPV. Uses KLOW (20-30 day cycles) for acute healing situations. Avoids BPC and TB long-term due to angiogenesis concerns, preferring KPV as anti-inflammatory alternative.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.660049Z"
+}

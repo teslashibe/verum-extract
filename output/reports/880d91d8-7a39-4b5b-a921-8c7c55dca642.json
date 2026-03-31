@@ -1,0 +1,54 @@
+{
+  "id": "880d91d8-7a39-4b5b-a921-8c7c55dca642",
+  "source_id": "1mqkduy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mqkduy/sermorelin_whats_the_hype/",
+  "author_hash": "5b1bd60398a6080803cb5904025d75ca9218fc76b92a36d969379959bd89784c",
+  "confidence_tier": 3,
+  "date_published": "2025-08-14T19:00:39-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 120,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "overall",
+      "description": "bloods all in optimal ranges, liver panels improved, BP normalized",
+      "severity": "significant",
+      "onset_days": 120
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hormonal",
+      "description": "test levels are slightly elevated",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "liver panels",
+      "timeframe_days": 120
+    },
+    {
+      "marker_name": "blood pressure",
+      "timeframe_days": 120
+    },
+    {
+      "marker_name": "testosterone",
+      "timeframe_days": 120
+    }
+  ],
+  "protocol_notes": "31M with documented blood work improvements. Healthy diet and exercise included. Doctor was shocked at improvement in 4 months. Prior to Sermorelin had higher level liver panels.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.684673Z"
+}

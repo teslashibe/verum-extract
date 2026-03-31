@@ -1,0 +1,70 @@
+{
+  "id": "d5fe2a28-0c17-4f09-9226-063ceb1f99bd",
+  "source_id": "1lv3hmv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lv3hmv/hit_a_vein_what_a_wild_ride/",
+  "author_hash": "69f2c2f2b34e9d8fe6261f19078bd4f2b8b521474cc1662ff8ad71838c9c1142",
+  "confidence_tier": 4,
+  "date_published": "2025-07-08T16:18:49-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "CJC/IPA combination has been used for quite a while with great results",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Whole body turned very red, especially arms, neck and face",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "headache",
+      "description": "Head started getting a headache",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "respiratory",
+      "description": "Throat swelled a little, breathing became more forced, felt like breathing in full manual mode",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Injected 5 units (100mcg CJC + 100mcg IPA) subcutaneously with 30G 1/2\" needle in belly a few inches off navel. Hit a small blood vessel during injection causing accidental intravenous administration. Body turned red within 5-7 seconds. Treated with cold water-soaked towel on neck, ice cold water, and 24hr allergy medication. Back to normal within 1-2 hours. This was an extremely rare incident caused by hitting a vein and causing an exaggerated histamine response. User has aspirated subsequent doses for peace of mind.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.404619Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "dc4a1af9-b31a-4393-944d-0392123eaf21",
+  "source_id": "1re1ye6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1re1ye6/wolverine_blend_plan/",
+  "author_hash": "50c86e5a78548ae0722909f69ace63cae579a87d73ed7e8862d44954b11b135f",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T19:22:12-08:00",
+  "health_conditions": [
+    "sciatica",
+    "2 bulging discs",
+    "hip arthritis"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "1x daily",
+      "cycle_length_days": 20,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "1x daily",
+      "cycle_length_days": 20,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Wolverine blend: 10mg BPC-157 + 10mg TB-500 pre-mixed vial. Reconstituted with 2ml bacteriostatic water. Using 50 unit (1/2ml) syringes, 8mm length, 31 gauge. Pulling 10 units per injection.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.672213Z"
+}

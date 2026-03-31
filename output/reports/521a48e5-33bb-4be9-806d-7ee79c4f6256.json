@@ -1,0 +1,49 @@
+{
+  "id": "521a48e5-33bb-4be9-806d-7ee79c4f6256",
+  "source_id": "13zi284",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/13zi284/why_no_human_trials_on_bpc157_this_stuff_seems/",
+  "author_hash": "9135e8c713d07a37490e98ca81096d558b83eb5216f446bb7936e46169beb106",
+  "confidence_tier": 4,
+  "date_published": "2023-06-03T09:36:05-07:00",
+  "training_status": "trained",
+  "health_conditions": [
+    "chronic knee pain",
+    "chronic back pain",
+    "scoliosis"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "inflammation",
+      "description": "Reduced inflammation and tissue damage",
+      "severity": "moderate",
+      "onset_days": 28
+    },
+    {
+      "category": "pain_relief",
+      "description": "Helped reduce inflammation and tissue damage enough to fix movement patterns and progress strength without pain; resolved specific pain issues caused by scoliosis",
+      "severity": "significant",
+      "onset_days": 28
+    },
+    {
+      "category": "recovery",
+      "description": "Enabled movement pattern correction and strength progression",
+      "severity": "significant",
+      "onset_days": 28
+    }
+  ],
+  "protocol_notes": "Timeline: 4-6 weeks to see results. BPC helped reduce 1 of multiple causative factors of chronic pain. Results required combining with proper movement patterns and strength work.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.42078Z"
+}

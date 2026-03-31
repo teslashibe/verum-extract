@@ -1,0 +1,79 @@
+{
+  "id": "26e3734b-6257-452b-abe4-89a07ce33c3a",
+  "source_id": "1kgcrqv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kgcrqv/the_wolverine_peptide/",
+  "author_hash": "e549296478f3f681e463363fad9f2255d77d3b10d0e769f1d391c729e3459df7",
+  "confidence_tier": 4,
+  "date_published": "2025-05-06T12:04:39-07:00",
+  "reported_sex": "male",
+  "training_status": "carpenter, former paramedic academy student",
+  "health_conditions": [
+    "severe back pain",
+    "disc herniation",
+    "stenosis"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Severe back pain reduced significantly; post-surgical pain management without opioids needed",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Rapid post-operative recovery from micro laminotomy and micro discectomy; minimal discomfort 24 hours after surgery",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "recovery",
+      "description": "Able to walk carefully and perform light activities 1 day post-op with minimal pain",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "2 cycles of BPC-157 and TB-500 over 3 months prior to surgery. Began loading system 2 weeks before surgery and continued through post-op period. Administered subcutaneously into belly fat pinch using bacteriostatic water reconstitution. Reconstitution technique: 10-15 minutes dissolve time, gentle agitation. Minimal back fat available due to concurrent diet and fitness regimen. Planning to continue cycle through 6 weeks post-op, then taper off.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.408427Z"
+}

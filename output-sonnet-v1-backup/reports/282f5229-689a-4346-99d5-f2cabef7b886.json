@@ -1,0 +1,36 @@
+{
+  "id": "282f5229-689a-4346-99d5-f2cabef7b886",
+  "source_id": "13ft3g9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/13ft3g9/peptide_primer_30_is_here_it_covers_dosage/",
+  "author_hash": "b9836f455fa99c8482bea81aee22bfdb7091bdfe58555b07cbbfddffca48f7c4",
+  "confidence_tier": 5,
+  "date_published": "2023-05-12T11:29:16-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "copper",
+      "name_normalized": "copper",
+      "category": "other",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "bpc",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Could not tolerate fatigue from BPC",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Previously tried BPC but stopped due to fatigue. Just received first batch of copper (GHK-Cu) and planned to start the next day.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.297632Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "7d660016-4382-4337-b260-66bd4233942a",
+  "source_id": "1qzkhb5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qzkhb5/gut_health/",
+  "author_hash": "9bb6f5dbe260f936f1c9b3c2a63ecbef3251819f866be3f3030e23533f030809",
+  "confidence_tier": 4,
+  "date_published": "2026-02-08T12:52:41-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "digestion improved as a side effect",
+      "severity": "moderate"
+    },
+    {
+      "category": "inflammation",
+      "description": "KPV noted for inflammation specifically"
+    }
+  ],
+  "protocol_notes": "User ran BPC-157 for other reasons and noticed digestion improvement. Recommends starting with BPC-157 before stacking. Notes individual response varies and suggests keeping a daily log.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.678677Z"
+}

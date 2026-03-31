@@ -1,0 +1,48 @@
+{
+  "id": "1a6532d2-b3b9-4e33-b59b-c58e34818faa",
+  "source_id": "1hiz4az",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1hiz4az/just_saw_teizepatide_was_approved_for_sleep_apnea/",
+  "author_hash": "27a3ed380eff678830c06fe498553343c0be5ded259d5d7bc14dfae37acd27a7",
+  "confidence_tier": 4,
+  "date_published": "2024-12-20T17:31:12-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Semaglutide worked excellent for weight loss and appetite suppression",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Tirzepatide did not suppress appetite, described as 'like taking water'",
+      "severity": "significant"
+    },
+    {
+      "category": "weight_change",
+      "description": "Did not lose a pound on Tirzepatide even at max dose",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Switched from Semaglutide (which worked excellent) to Tirzepatide (which did not work). Used CPAP for 10 years.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.411947Z"
+}

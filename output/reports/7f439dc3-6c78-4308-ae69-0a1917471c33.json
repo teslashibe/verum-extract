@@ -1,0 +1,72 @@
+{
+  "id": "7f439dc3-6c78-4308-ae69-0a1917471c33",
+  "source_id": "1af4vjf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1af4vjf/taking_glp1_tirz_seems_to_not_be_working_after_1/",
+  "author_hash": "6475fe2dde8785a5ed2ac9122c014719acf15f9c1b0bf5053b7284a7a8f22eeb",
+  "confidence_tier": 4,
+  "date_published": "2024-01-30T16:59:04-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 325,
+    "unit": "lbs"
+  },
+  "training_status": "sedentary (remote work, minimal exercise)",
+  "health_conditions": [
+    "obesity",
+    "knee issues"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "every 5 days",
+      "cycle_length_days": 35,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 17 lbs in 5 weeks",
+      "severity": "significant",
+      "onset_days": 5
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Strong appetite suppression lasting approximately 5 days per injection cycle",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "energy",
+      "description": "Wife reported he is full of energy after injection",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Extreme appetite suppression; user reports feeling full/overfull and unable to eat despite attempts; describes it as similar to feeling like Thanksgiving every day",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": false
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Food aversion; experienced nausea/desire to vomit after eating a small burger",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User is 6' tall, BMI 44% (obese category). Started January 13, 2024. Using 30mg bottle reconstituted with bacteriostatic water. Dosing every 5 days at 2.5mg. Currently consuming approximately 500 calories per day (2 cans tuna, 1 salad, 1 scoop protein powder in water). Also on TRT. Work remotely, does 400 reps of 20lb curls daily during work. Stalled on weight loss after initial 17lb loss over 5 weeks (only 2 days without scale movement at time of post, but user is concerned). Original post title suggests confusion about why weight loss 'seems to not be working' despite 17lb loss in first month. User states he cannot tolerate eating more due to extreme fullness sensation.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.699211Z"
+}

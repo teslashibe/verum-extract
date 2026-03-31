@@ -1,0 +1,124 @@
+{
+  "id": "e5683091-d858-446c-8463-e0e9977f7790",
+  "source_id": "1m6z8rc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m6z8rc/peptides_work/",
+  "author_hash": "140d77638639ace0c06b599418549c738d3a5e53409ce0bfa80486c3fd38ed74",
+  "confidence_tier": 4,
+  "date_published": "2025-07-22T20:55:47-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 240,
+    "unit": "lbs"
+  },
+  "training_status": "injured but returning to training",
+  "health_conditions": [
+    "shoulder injury",
+    "elbow injury",
+    "knee pain",
+    "knee valgus"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "2x weekly (5mg Monday and Thursday)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "IU",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 140,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "route": "intramuscular",
+      "dose_value": 750,
+      "dose_unit": "IU",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 55 lbs over 8 months (240 to 185 lbs). Stomach fat reduction described as significant.",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Assisted recovery from shoulder and elbow injuries with PT",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Muscle preservation during fat loss. Increase in vascularity noted.",
+      "severity": "moderate"
+    },
+    {
+      "category": "body_composition",
+      "description": "Able to wear medium clothing sizes after years of large/XL. Visual appearance of increased height due to reduced width.",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "At 7iu HGH experienced tightness and stiffness in joints, resolved by reducing to 5iu",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "joint_pain",
+      "description": "Mild hand stiffness upon waking at current 5iu HGH dose",
+      "severity": "mild",
+      "resolved": false
+    },
+    {
+      "category": "injection_site",
+      "description": "Easy bruising, particularly in stomach and glutes despite rotating injection sites",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Started at 2.5mg Tirz and 2iu HGH, titrated up gradually. BPC-157 and TB-500 injected separately in deltoids (IM). HGH in glutes, testosterone in opposite cheek. Tirzepatide only peptide used in stomach (twice weekly). Cycle duration: 8 months. Diet changes noted as significant: switched to clean whole foods with minimal junk.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.68664Z"
+}

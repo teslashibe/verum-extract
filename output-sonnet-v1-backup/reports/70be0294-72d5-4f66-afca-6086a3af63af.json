@@ -1,0 +1,54 @@
+{
+  "id": "70be0294-72d5-4f66-afca-6086a3af63af",
+  "source_id": "17bv0wa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17bv0wa/time_to_attack_this_hamstring_injury/",
+  "author_hash": "311acaac7f06e3c92972506cda16e7d720e52b93e41a5d422344044d65f0d771",
+  "confidence_tier": 4,
+  "date_published": "2023-10-19T15:03:29-07:00",
+  "training_status": "active gym-goer, performs deadlifts, rack pulls, leg extensions, hamstring curls",
+  "health_conditions": [
+    "partial hamstring tear"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and evening)",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "once per week split into two shots",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Healed quickly from partial hamstring tear, back to full activity a few weeks after starting the protocol",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Was at approximately 75% function within ~3 weeks of injury before starting peptides; reported full recovery after ~2 months on peptides",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "OP ordered 100g each of BPC-157 and TB500. Reconstituted vials stored in fridge. Ran protocol for almost two months (approx. 56 days). Injury was a partial hamstring tear diagnosed by a doctor following prone hamstring curl exercise. Bruising and swelling resolved before or during protocol. Stopped use in November. Overall outcome reported as great.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.87,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.296308Z"
+}

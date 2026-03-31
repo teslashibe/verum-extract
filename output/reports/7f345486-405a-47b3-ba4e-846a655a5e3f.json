@@ -1,0 +1,43 @@
+{
+  "id": "7f345486-405a-47b3-ba4e-846a655a5e3f",
+  "source_id": "1qnrkj9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qnrkj9/retatrutide/",
+  "author_hash": "a1fb416c070a463357860a580e2be77e9130a0bf68b04914542db3dd89008c6e",
+  "confidence_tier": 4,
+  "date_published": "2026-01-26T12:17:10-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "vision_change",
+      "description": "Blurred vision some mornings coinciding with blood glucose dropping to 60 mg/dL",
+      "severity": "moderate"
+    },
+    {
+      "category": "blood_sugar",
+      "description": "Blood glucose drops into the 60s",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Blood glucose",
+      "value_after": 60,
+      "unit": "mg/dL"
+    }
+  ],
+  "protocol_notes": "Blurred vision correlates with hypoglycemic episodes",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669953Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "6249374f-16d1-48d3-bc63-382a999aa1fe",
+  "source_id": "1onkev7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1onkev7/glow_blend_anxiety/",
+  "author_hash": "cfcd9280d745859ea7d916a2e786c7d9a7a3479f09efeea41222d0be8131c208",
+  "confidence_tier": 4,
+  "date_published": "2025-11-03T10:53:21-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "anxiety from BPC 157, resolved after removing BPC from Glow blend",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Initially used full Glow blend including BPC 157. Eventually reformulated personal Glow blend with only GHK-Cu and TB500 after experiencing anxiety from BPC 157. Anxiety resolved after removing BPC.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.265817Z"
+}

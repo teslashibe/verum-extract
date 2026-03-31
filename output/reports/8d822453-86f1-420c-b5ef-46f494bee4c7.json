@@ -1,0 +1,34 @@
+{
+  "id": "8d822453-86f1-420c-b5ef-46f494bee4c7",
+  "source_id": "1rr3dd5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr3dd5/cjcipa_timing_issue/",
+  "author_hash": "62019fd499881daccbd302bbb432b6b806a468f1ec6ed3325ba62c92d9523313",
+  "confidence_tier": 5,
+  "date_published": "2026-03-11T12:17:14-07:00",
+  "training_status": "BJJ practitioner",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "variable",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "variable",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Takes CJC+IPA combination. Skips dose approximately once per week due to BJJ class scheduling conflict (7:45 PM class, home at 10:00 PM).",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.665479Z"
+}

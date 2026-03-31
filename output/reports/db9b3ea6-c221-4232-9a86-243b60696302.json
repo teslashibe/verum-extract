@@ -1,0 +1,35 @@
+{
+  "id": "db9b3ea6-c221-4232-9a86-243b60696302",
+  "source_id": "1s07as7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s07as7/question_about_peptide_efficacy/",
+  "author_hash": "595cdcad26af903dc0b25bd728a6ae92fc5090fd1552168be8dde56a7fe9cfcf",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T17:22:18-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GLP-1",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "L-Carnitine",
+      "name_normalized": "l_carnitine",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "User employs systematic testing approach: separates each new peptide by at least one week to isolate effects. Classifies GLP-1s and hormone therapy (for age \u003ecertain threshold) as 'superstars'. SS-31 and L-Carnitine rated as mid-range effectiveness. Reports most other peptides as placebo, with many users unable to distinguish actual effects due to concurrent use of multiple compounds.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660067Z"
+}

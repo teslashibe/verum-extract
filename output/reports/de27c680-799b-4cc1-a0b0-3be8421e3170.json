@@ -1,0 +1,43 @@
+{
+  "id": "de27c680-799b-4cc1-a0b0-3be8421e3170",
+  "source_id": "1r6mjmu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6mjmu/fake_ghkcu/",
+  "author_hash": "71ac552cbd5a41f7ef58fd19110308e9e3b02e1a882a989e6020d211beded3de",
+  "confidence_tier": 4,
+  "date_published": "2026-02-16T13:28:50-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "initially at 1mg/30 units, later at 1mg/2 units",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Initial hypersensitivity to injection sting, reduced after zinc supplementation",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 30
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "zinc level",
+      "timeframe_days": 30
+    }
+  ],
+  "protocol_notes": "Started at 1mg/30 units due to hypersensitivity. After one month of zinc supplementation, tolerance improved to 1mg/2 units with only slight burn 4-5 minutes post-injection. Zinc supplementation reduced injection site sting.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.675585Z"
+}

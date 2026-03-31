@@ -1,0 +1,43 @@
+{
+  "id": "4672b7ff-8473-4c6f-b444-0779685e4dfa",
+  "source_id": "1rvp24a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvp24a/ss31_fatigue_and_brain_fog_and_mitigation/",
+  "author_hash": "e00be900fd9e2d6217e1dfb1d821ae20ed0cb44fda3c1e13c095d80aebc0d3c0",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T15:50:02-07:00",
+  "health_conditions": [
+    "mitochondrial gene variants"
+  ],
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Almost crippling fatigue after quickly tapering up to 6mg daily",
+      "severity": "significant",
+      "onset_days": 11
+    },
+    {
+      "category": "other",
+      "description": "Brain fog after quickly tapering up",
+      "severity": "significant",
+      "onset_days": 11
+    }
+  ],
+  "protocol_notes": "Takes Ubiquinol, PQQ, MitoQ (low dose), and other mitochondrial health supplements. Tried TMG and methylation supplements for side effects with no benefit. Planning to taper back down. Goal was to build up to 10mg daily over 8 weeks.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.10763Z"
+}

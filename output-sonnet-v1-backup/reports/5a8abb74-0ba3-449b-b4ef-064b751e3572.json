@@ -1,0 +1,43 @@
+{
+  "id": "5a8abb74-0ba3-449b-b4ef-064b751e3572",
+  "source_id": "1alz63w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1alz63w/did_anyone_notice_peptides_more_potent_more/",
+  "author_hash": "632764705e8574f61db514dfa6124aecd1684fbfbf05eb156def5cec488be64d",
+  "confidence_tier": 5,
+  "date_published": "2024-02-08T08:08:41-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleeps better with more recently reconstituted peptides",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Flushing sensation at lower dose with freshly reconstituted peptides",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "OP observes that peptides seem more potent shortly after reconstitution, with effects still present several weeks later but less pronounced.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294948Z"
+}

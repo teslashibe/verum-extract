@@ -1,0 +1,102 @@
+{
+  "id": "8a740719-b31f-4fb1-a533-aa4935dc4731",
+  "source_id": "1lbdq9h",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lbdq9h/assistance_with_peptide_stack_for_fat_loss_and/",
+  "author_hash": "26d5e2a0b178fabaac1253259f514dbabfd51f7cdb77b92f6926593cce871a96",
+  "confidence_tier": 4,
+  "date_published": "2025-06-14T10:11:14-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 180,
+    "unit": "lbs"
+  },
+  "training_status": "resistance training with kettlebells 3-4 times per week, 15000 steps daily walking",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly (3 doses of ~0.666 mg)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "5x per week plus extra on workout days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "5x per week plus extra on workout days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "3x weekly (larger shots)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "3x weekly (with BPC-157)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 20 pounds, achieved 12-13% body fat",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Gained muscle while losing fat",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Ipamorelin + CJC impacting sleep negatively, trying to find ideal timing",
+      "severity": "moderate",
+      "resolved": false
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Retatrutide causing stomach pains, required increased fiber and magnesium",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "mood_change",
+      "description": "BPC-157 impacting serotonin receptors, causing anhedonia when combined with psychedelics",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Using Canadian supplier with verifiable 3rd party testing. Strict discipline: no snacking, no drinking, no cheats. Started lifting in March. CJC is no-DAC variant. BPC+TB currently dosed in specific back spot. Notes that 3 weekly shots are working well.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.689253Z"
+}

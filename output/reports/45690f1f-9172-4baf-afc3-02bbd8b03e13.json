@@ -1,0 +1,44 @@
+{
+  "id": "45690f1f-9172-4baf-afc3-02bbd8b03e13",
+  "source_id": "1oceaai",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oceaai/best_peptide_for_muscle_growth/",
+  "author_hash": "c9e5e11cddeaefe94c77cd65eae001e75279870a790c8b155c2ffc93c0916669",
+  "confidence_tier": 5,
+  "date_published": "2025-10-21T07:21:07-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Insulin",
+      "name_normalized": "insulin",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "IU",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "Lips and tongue tingling when insufficient carbs were consumed after insulin injection",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 0
+    },
+    {
+      "category": "blood_sugar",
+      "description": "Near hypoglycemic fainting episode from 6 units Novolin without adequate carbohydrate intake",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 0
+    }
+  ],
+  "protocol_notes": "Used Novolin (longer-acting insulin). Experienced near-fatal hypoglycemic episode at work with only 6 IU due to insufficient carbohydrate intake. Described insulin as extremely dangerous without proper knowledge and coaching.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.395321Z"
+}

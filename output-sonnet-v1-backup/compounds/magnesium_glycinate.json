@@ -1,0 +1,71 @@
+{
+  "compound_id": "magnesium_glycinate",
+  "display_name": "Magnesium Glycinate",
+  "category": "other",
+  "total_reports": 3,
+  "reports_by_tier": {
+    "4": 2,
+    "5": 1
+  },
+  "top_benefits": [
+    {
+      "category": "sleep",
+      "count": 1,
+      "pct": 50
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "sleep_disruption",
+      "count": 1,
+      "pct": 50,
+      "avg_severity": 3
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "oral",
+      "dose": 1875,
+      "unit": "mg",
+      "frequency": "",
+      "count": 1,
+      "pct": 33.3
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Reta",
+      "report_count": 2
+    },
+    {
+      "compound_id": "combined_patches",
+      "display_name": "Combined patches",
+      "report_count": 1
+    },
+    {
+      "compound_id": "tirzepatide",
+      "display_name": "Tirz",
+      "report_count": 1
+    },
+    {
+      "compound_id": "melatonin",
+      "display_name": "melatonin",
+      "report_count": 1
+    },
+    {
+      "compound_id": "ghk_cu",
+      "display_name": "GHK-CU",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.5,
+  "sentiment_breakdown": {
+    "positive": 1,
+    "mixed": 1,
+    "negative": 1,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.969849Z"
+}

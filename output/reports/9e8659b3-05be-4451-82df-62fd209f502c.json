@@ -1,0 +1,59 @@
+{
+  "id": "9e8659b3-05be-4451-82df-62fd209f502c",
+  "source_id": "1nfzgo4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nfzgo4/glow_blend_cleared_my_butt_acne/",
+  "author_hash": "497f84ef96789e2c3422e7ae284e2f956330826f58b96c812240b86b7babf99b",
+  "confidence_tier": 4,
+  "date_published": "2025-09-13T07:52:28-07:00",
+  "health_conditions": [
+    "butt acne"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 70,
+      "dose_unit": "mg",
+      "frequency": "5x a week",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "butt acne completely cleared",
+      "severity": "significant",
+      "onset_days": 28
+    },
+    {
+      "category": "skin",
+      "description": "stretch marks less visible, blend better with natural skin tone",
+      "severity": "moderate",
+      "onset_days": 28
+    }
+  ],
+  "protocol_notes": "GLOW blend (70/10/10 ratio). Used 1.75mg GHK-Cu per dosage, 5x per week. Diet, workout schedule, and daily routines unchanged during cycle.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.398237Z"
+}

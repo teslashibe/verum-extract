@@ -1,0 +1,59 @@
+{
+  "id": "f69ca3ec-a31b-4b36-b19d-0c0e4b63c854",
+  "source_id": "1jx2g8e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jx2g8e/tesamorelin_with_hgh/",
+  "author_hash": "9eb278d3e746dd8625137c5bbb4b6d01728113dac9b0313d654537920163250f",
+  "confidence_tier": 4,
+  "date_published": "2025-04-11T15:27:56-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.75,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "IU",
+      "frequency": "twice daily (morning and before bed)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "blood_sugar",
+      "description": "Adjusting HGH timing helped with elevated fasted blood glucose from HGH use",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_sugar",
+      "description": "Fasted blood glucose increased approximately 10 points after starting HGH at 2 IU before bed; improved with split dosing",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "fasted blood glucose",
+      "value_after": 10,
+      "unit": "points elevation"
+    }
+  ],
+  "protocol_notes": "Microdoses retatrutide at 750 mcg every other day. Uses split HGH dosing: 1 IU before bed and 1 IU in morning. Notes HGH takes several months to show effects. Recommends swapping tirzepatide for retatrutide at 2-3 mg daily. Fasted blood glucose still elevated but improved with split dosing protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.692637Z"
+}

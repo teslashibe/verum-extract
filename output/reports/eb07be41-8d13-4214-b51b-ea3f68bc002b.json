@@ -1,0 +1,78 @@
+{
+  "id": "eb07be41-8d13-4214-b51b-ea3f68bc002b",
+  "source_id": "1rx1kuz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx1kuz/what_are_muscle_growth_peptides_with_least_side/",
+  "author_hash": "a13f3997e3e7845ff2af404a0058e8e163138d7cfa2f16a1715ced6edfce71de",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T04:42:58-07:00",
+  "reported_sex": "male",
+  "training_status": "resistance training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily pre-workout",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "mcg",
+      "frequency": "site injected pre-workout (per site)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and night)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Noticeably bigger and leaner. Measurements showed size gains on arms, quads and chest.",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Waist shrunk while gaining muscle. Got questions about being on steroids.",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Total Testosterone",
+      "value_before": 750,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "Lab rat (self-reference). Natural testosterone baseline 750 ng/dL. Not on TRT. Believed to have responded better to this cycle than most people known. Protocol included spiking blood sugar during workouts with intra-workout quick digesting carbs due to IGF-1's interaction with insulin. Diet: 200+ grams protein, 250-400 grams carbs daily. Site injections for IGF-1 LR3 on left and right side of chest or arms.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.650239Z"
+}

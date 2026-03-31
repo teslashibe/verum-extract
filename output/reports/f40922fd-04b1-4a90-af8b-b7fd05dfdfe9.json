@@ -1,0 +1,55 @@
+{
+  "id": "f40922fd-04b1-4a90-af8b-b7fd05dfdfe9",
+  "source_id": "1r224wg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r224wg/vip_reactions/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-02-11T08:34:37-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "VIP",
+      "name_normalized": "vip",
+      "category": "immune",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Local area reaction at injection site",
+      "severity": "moderate"
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "Severe systemic reaction: immediate flushing and sweating, extreme tachycardia, lightheadedness, vision loss, near-syncope",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "blood_pressure",
+      "description": "Hypotensive episode with blood pressure dropping to 75/35 mmHg",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "cardiac",
+      "description": "Heart pounding extremely hard; tachycardia",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Blood pressure",
+      "value_after": 75,
+      "unit": "mmHg systolic/diastolic (75/35)"
+    }
+  ],
+  "protocol_notes": "Progressive worsening over 10 injections; first 6-7 injections tolerated; 8th injection showed local reaction; 9th showed local reaction and pronounced systemic sides; 10th injection caused severe anaphylactic-like reaction. User used benadryl and monitored vitals. User has prior experience with other peptides without reactions. Route of administration not specified. Questioned whether reaction was due to degraded peptide or immune sensitization.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677342Z"
+}

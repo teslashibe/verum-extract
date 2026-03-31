@@ -1,0 +1,49 @@
+{
+  "id": "2a7e89ee-fc56-4bd8-a6a3-2e7734c556c6",
+  "source_id": "1rnmfas",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rnmfas/graves_disease/",
+  "author_hash": "d4f2188eb49d3bc552c0b4a749603212d03860f87d751c41d9952cdcd07b2253",
+  "confidence_tier": 4,
+  "date_published": "2026-03-07T13:48:40-08:00",
+  "health_conditions": [
+    "Graves disease"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "more healthy bowel movements, metabolic difference observed",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "TSH"
+    },
+    {
+      "marker_name": "T3"
+    },
+    {
+      "marker_name": "T4"
+    },
+    {
+      "marker_name": "TRAB",
+      "value_after": 2.51,
+      "unit": "IU/UL"
+    }
+  ],
+  "protocol_notes": "Low dose Retatrutide ('klow'). User following protocol suggested by Dr. Trevor Bachmeyer on YouTube for Graves disease. Currently on pharmaceutical medication with TSH/T3/T4 in normal range. Believes gut healing can lead to remission and medication discontinuation. Goal is remission again.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.667509Z"
+}

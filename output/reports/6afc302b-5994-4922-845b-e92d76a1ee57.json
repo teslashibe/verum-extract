@@ -1,0 +1,52 @@
+{
+  "id": "6afc302b-5994-4922-845b-e92d76a1ee57",
+  "source_id": "1rvaquf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvaquf/timing_question/",
+  "author_hash": "978985b675bb5d18aba3a1cead391dbc679d372f212e18fe0d4f49bd11579113",
+  "confidence_tier": 5,
+  "date_published": "2026-03-16T07:19:38-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "morning",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "evening",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "frequency": "evening",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "BPC-157 causes user to need a nap when taken in the morning",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "BPC-157 makes user need a nap if taken in the morning",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Commenter recommends splitting the blend: Tesamorelin in the morning fasted (no eating for 30-60 minutes or longer), and Ipamorelin and BPC-157 at night. Expresses preference against blends due to dosing complexity.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.651205Z"
+}

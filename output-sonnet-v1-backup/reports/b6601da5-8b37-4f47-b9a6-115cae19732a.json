@@ -1,0 +1,58 @@
+{
+  "id": "b6601da5-8b37-4f47-b9a6-115cae19732a",
+  "source_id": "1qa18sr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qa18sr/nad_and_weight_loss/",
+  "author_hash": "f5ef1b83a737116eebde25c4e9ead091d6746963550414b17a1866dc55e83f16",
+  "confidence_tier": 4,
+  "date_published": "2026-01-11T06:52:17-08:00",
+  "health_conditions": [
+    "weight loss stall"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 25,
+      "dose_unit": "mg",
+      "frequency": "twice a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mots C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "3 times a week",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Was in a weight loss stall, lost 4 pounds in first week after adding NAD+ and Mots C",
+      "severity": "moderate",
+      "onset_days": 7
+    },
+    {
+      "category": "energy",
+      "description": "Feels better with more energy",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Only one week into NAD+ and Mots C stack; already on tirzepatide prior to adding these peptides.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.125098Z"
+}

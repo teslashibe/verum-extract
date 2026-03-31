@@ -1,0 +1,48 @@
+{
+  "id": "de52a9e2-7957-459c-900a-46677fbda276",
+  "source_id": "1ruf5ub",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ruf5ub/information_on_igf1lr3_storage/",
+  "author_hash": "29938fd6dca1cd3a1c6aa4695e6a50368a645fef4d7e6b9bc8cbc3147977eecb",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T07:16:17-07:00",
+  "training_status": "lifting (resumed after years off)",
+  "health_conditions": [
+    "growth hormone deficiency (history)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "adding a lot of muscle; attributed partly to newbie gains from resumed lifting",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "feel great",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "First cycle. Using reconstituted IGF-1 LR3 at low dose (20 mcg) from 1mg vial. Concerned about storage degradation after 30 days. Also using HGH concurrently. History of growth hormone deficiency treated in childhood.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.663603Z"
+}

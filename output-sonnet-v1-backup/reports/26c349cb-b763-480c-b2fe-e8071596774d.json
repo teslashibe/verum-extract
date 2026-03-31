@@ -1,0 +1,55 @@
+{
+  "id": "26c349cb-b763-480c-b2fe-e8071596774d",
+  "source_id": "1oal88l",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oal88l/reta_appetite_increased_at_2mgwhat_should_i_do/",
+  "author_hash": "3a4acde40a8a4a3498c2b7b59a26c70b7709609e62127c3dda534e4fd9aedf98",
+  "confidence_tier": 4,
+  "date_published": "2025-10-19T02:22:43-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "once, then increased after 4 days",
+      "cycle_length_days": 4,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once, 4 days after initial dose",
+      "cycle_length_days": 4,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Significant appetite suppression and fullness on first day at 1mg; only ate ~1k cal",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Appetite increased significantly after dose increase to 2mg; eating 2k-2.5k cal/day, with one day reaching 3k cal; also experiencing strong cravings for sweets",
+      "severity": "significant",
+      "onset_days": 4
+    }
+  ],
+  "protocol_notes": "OP started at 1mg, felt strong appetite suppression day 1, then appetite normalized. Increased to 2mg after 4 days with no side effects initially, but then experienced paradoxical appetite increase. Considering further dose increase to 3-4mg. Tracking calories carefully. Notes surprise cravings for sweets.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.267543Z"
+}

@@ -1,0 +1,67 @@
+{
+  "compound_id": "trt_testosterone",
+  "display_name": "TRT (testosterone)",
+  "category": "other",
+  "total_reports": 2,
+  "reports_by_tier": {
+    "4": 2
+  },
+  "top_benefits": null,
+  "top_side_effects": [
+    {
+      "category": "water_retention",
+      "count": 1,
+      "pct": 50,
+      "avg_severity": 3
+    },
+    {
+      "category": "numbness_tingling",
+      "count": 1,
+      "pct": 50,
+      "avg_severity": 3
+    },
+    {
+      "category": "other",
+      "count": 1,
+      "pct": 50,
+      "avg_severity": 2
+    }
+  ],
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "tb_500",
+      "display_name": "TB-500",
+      "report_count": 1
+    },
+    {
+      "compound_id": "caber",
+      "display_name": "caber",
+      "report_count": 1
+    },
+    {
+      "compound_id": "bpc_157",
+      "display_name": "BPC-157",
+      "report_count": 1
+    },
+    {
+      "compound_id": "adex",
+      "display_name": "adex",
+      "report_count": 1
+    },
+    {
+      "compound_id": "nolva",
+      "display_name": "nolva",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.5,
+  "sentiment_breakdown": {
+    "positive": 1,
+    "mixed": 0,
+    "negative": 1,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.969425Z"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "27b19b81-207b-4ccb-88e3-ad6c88b4ceb3",
+  "source_id": "1qwx24x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qwx24x/tirz_side_effects/",
+  "author_hash": "272a32b4efc1baa170f231ec53230858d5ab87f99c8d377b8bf280717b7e38e3",
+  "confidence_tier": 4,
+  "date_published": "2026-02-05T12:46:21-08:00",
+  "health_conditions": [
+    "ADHD",
+    "Eczema"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 3.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "inflammation",
+      "description": "KPV provides amazing anti-inflammatory benefits for eczema",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Felt sleepy at 3.5mg dose",
+      "severity": "significant"
+    },
+    {
+      "category": "mood_change",
+      "description": "Emotionally flat, zombie mode sensation; anhedonia related to dopamine blunting effects particularly pronounced in ADHD individuals",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "ADHD diagnosed. Experienced dopamine blunting at 3.5mg Tirzepatide dose. Notes that side effects adjust as levels stabilize. Currently using KPV for eczema management.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.666935Z"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "942b1a3d-976c-4d35-b620-f303cb839292",
+  "source_id": "1me8d30",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1me8d30/ehlersdanlos_syndrome_eds/",
+  "author_hash": "83c438a5d9240ed8d1b3259019c2fb8c27092c9749c53ed861f0387cd05500be",
+  "confidence_tier": 4,
+  "date_published": "2025-07-31T10:48:58-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "Ehlers-Danlos Syndrome type 3",
+    "Fibromyalgia",
+    "non-restorative sleep"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "DSIP made sleep worse",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Just started BPC-157, too early to tell effects. Previous experience with Tirzepatide (prescribed as Mounjaro) for weight loss did not help EDS symptoms. Tried DSIP for sleep but it worsened sleep quality.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.402544Z"
+}

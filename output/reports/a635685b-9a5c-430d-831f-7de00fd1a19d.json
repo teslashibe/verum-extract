@@ -1,0 +1,41 @@
+{
+  "id": "a635685b-9a5c-430d-831f-7de00fd1a19d",
+  "source_id": "1rp2dgi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rp2dgi/ghkcu_experience/",
+  "author_hash": "ae58274e7ebaf6a63953e9062bc169c2548083d849345b06ec3151c0bc698e47",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T07:54:52-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Initial batch (from 'glow') produced severe burning lasting ~12 hours when injected in wrong anatomical location. Newer GHK-Cu from different source with corrected injection site produces less burning.",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User has experience with multiple peptide batches. Notes that 500mg NAD+ vial is actually overfilled to ~700mg and adjusts dosing accordingly. Reports that lower abdomen (between beltline and horizontal line at belly button) produces least burning with GHK-Cu. Warns that GHK-Cu vials are commonly overfilled and actual dose may exceed labeled content.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.666641Z"
+}

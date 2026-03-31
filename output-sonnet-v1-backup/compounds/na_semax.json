@@ -1,0 +1,114 @@
+{
+  "compound_id": "na_semax",
+  "display_name": "NA Semax",
+  "category": "other",
+  "total_reports": 11,
+  "reports_by_tier": {
+    "4": 5,
+    "5": 6
+  },
+  "top_benefits": [
+    {
+      "category": "cognitive",
+      "count": 2,
+      "pct": 40
+    },
+    {
+      "category": "energy",
+      "count": 1,
+      "pct": 20
+    },
+    {
+      "category": "other",
+      "count": 1,
+      "pct": 20
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "mood_change",
+      "count": 1,
+      "pct": 20,
+      "avg_severity": 3
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 500,
+      "unit": "mcg",
+      "frequency": "",
+      "count": 2,
+      "pct": 18.2
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 500,
+      "unit": "mcg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 9.1
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 1000,
+      "unit": "mcg",
+      "frequency": "",
+      "count": 1,
+      "pct": 9.1
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 200,
+      "unit": "mcg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 9.1
+    },
+    {
+      "route": "nasal",
+      "dose": 800,
+      "unit": "mcg",
+      "frequency": "",
+      "count": 1,
+      "pct": 9.1
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "na_selank",
+      "display_name": "NA selank",
+      "report_count": 6
+    },
+    {
+      "compound_id": "ss_31",
+      "display_name": "SS-31",
+      "report_count": 1
+    },
+    {
+      "compound_id": "semax",
+      "display_name": "Semax",
+      "report_count": 1
+    },
+    {
+      "compound_id": "mots_c",
+      "display_name": "MOTS-C",
+      "report_count": 1
+    },
+    {
+      "compound_id": "retatrutide",
+      "display_name": "reta",
+      "report_count": 1
+    }
+  ],
+  "avg_cycle_length_days": 12.5,
+  "avg_sentiment_score": 0.455,
+  "sentiment_breakdown": {
+    "positive": 3,
+    "mixed": 2,
+    "negative": 2,
+    "neutral": 4
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.971602Z"
+}

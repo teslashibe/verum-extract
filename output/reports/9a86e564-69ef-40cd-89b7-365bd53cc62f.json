@@ -1,0 +1,57 @@
+{
+  "id": "9a86e564-69ef-40cd-89b7-365bd53cc62f",
+  "source_id": "1ro80g9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ro80g9/gum_recession_improvement_from_ghkcu/",
+  "author_hash": "fd1d5d0f05687a9ae7ee2e8b7313227a9522d64053388965e69b35e5140ca3f2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-08T08:42:25-07:00",
+  "health_conditions": [
+    "gum_recession"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "frequency": "daily over 3 pins",
+      "cycle_length_days": 67,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Possible gum recession improvement or reversal",
+      "severity": "moderate"
+    },
+    {
+      "category": "skin",
+      "description": "Skin feels smoother and more hydrated",
+      "severity": "moderate"
+    },
+    {
+      "category": "hair",
+      "description": "Increased hair growth on body and hairline, widows peak slowly returning",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started 3mg in January, gradually increased to 15mg daily (5mg x3 daily) by report date. GHK-Cu and KPV blended together. Research into high-dose GHK-Cu effects. User notes uncertainty about whether improvements are placebo or dose-dependent.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.667236Z"
+}

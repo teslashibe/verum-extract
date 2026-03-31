@@ -1,0 +1,56 @@
+{
+  "id": "59562972-fc52-4748-8fee-e1a33b3137bf",
+  "source_id": "onjk8w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/onjk8w/ghrp_ghrh_90_day_review_des_igf1_shout_out/",
+  "author_hash": "733f17269caa06ee32eed30b63d9a3b6c9650c5102328efd118a36437f4f7ba8",
+  "confidence_tier": 5,
+  "date_published": "2021-07-19T11:04:58-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHRP2",
+      "name_normalized": "ghrp_2",
+      "category": "gh_secretagogue",
+      "route": "oral",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "single dose (trial)",
+      "cycle_length_days": 1,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHRH",
+      "name_normalized": "gonadorelin",
+      "category": "hormonal",
+      "route": "oral",
+      "frequency": "single dose (trial)",
+      "cycle_length_days": 1,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHRP2",
+      "name_normalized": "ghrp_2",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mcg",
+      "frequency": "single dose (trial)",
+      "cycle_length_days": 1,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Felt flush approximately 5 minutes after subcutaneous injection",
+      "severity": "mild",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "First trial of GHRP2/GHRH. Started with sublingual 100mcg, noticed nothing after ~1 hour, then followed up with 50mcg subcutaneous injection which seemed to have much more impact. Nervous about pinning initially.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.429354Z"
+}

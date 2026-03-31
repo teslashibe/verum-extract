@@ -1,0 +1,49 @@
+{
+  "id": "e5f0750a-91cd-43ec-8dc2-b11abcc3fca5",
+  "source_id": "1rokp5s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rokp5s/cjc1295ipamorelin_blend_and_tirz_stack/",
+  "author_hash": "64ef84eb2a13c30a623a152c97500567c4846d44b0e9ef09c90911adc8f0cc01",
+  "confidence_tier": 4,
+  "date_published": "2026-03-08T16:58:29-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 180,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 180,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Better fat reduction with Tesamorelin substitution",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "CJC/IPA combo works well",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Ran CJC/IPA in cycles for about 6 months. Later substituted CJC with Tesamorelin and preferred the fat reduction results.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.667046Z"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "11b10669-5732-422b-985b-b0776cc320b8",
+  "source_id": "1kgcrqv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kgcrqv/the_wolverine_peptide/",
+  "author_hash": "eb70e56481ae84b9f3a15815fea1c57250794cc8d8f42f6f9c336b84c56a2bb5",
+  "confidence_tier": 4,
+  "date_published": "2025-05-06T12:04:39-07:00",
+  "health_conditions": [
+    "herniated extruded L5 disc",
+    "sciatic nerve compression",
+    "post-microdiscectomy"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Pain reduced by 90% following microdiscectomy; able to walk freely, lay flat, and sit up the day of discharge",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Lingering symptoms from prolonged nerve compression expected to take time to resolve",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Had herniated extruded L5 pressing on sciatic nerve for approximately 1 year before surgery. Started TB-500 and BPC-157 a few days after surgery (not pre-op). At 5 weeks post-op when reporting, just starting physical therapy again. Plans to take a break from BPC/TB500 after protocol ends, then start KPV before resuming BPC/TB500 with nightly GHK-Cu for scar healing. Previously hospitalized for 9 days pre-op on IV narcotics due to severe pain.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.691358Z"
+}

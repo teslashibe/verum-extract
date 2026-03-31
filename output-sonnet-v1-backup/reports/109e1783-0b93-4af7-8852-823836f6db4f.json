@@ -1,0 +1,39 @@
+{
+  "id": "109e1783-0b93-4af7-8852-823836f6db4f",
+  "source_id": "1p3ly65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p3ly65/why_the_f_is_everyone_dosing_reta_so_high/",
+  "author_hash": "28c48f4f1e6c0d8d513dd683d0c78b5e2ece77d1701e5774a926723911cd7e53",
+  "confidence_tier": 4,
+  "date_published": "2025-11-21T22:10:12-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Found sweet spot at 5mg after titrating up due to tolerance building at lower doses"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Appetite suppression reduced after a few weeks at each dose, requiring titration upward",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Titrated from 1mg to 2mg to 3mg to 4mg to 5mg over many months. 5mg is described as sweet spot.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.263973Z"
+}

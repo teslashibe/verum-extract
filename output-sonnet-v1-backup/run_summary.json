@@ -1,0 +1,42 @@
+{
+  "aggregation": {
+    "compounds_found": 761,
+    "compounds_limited_data": 658,
+    "compounds_profiled": 761
+  },
+  "completed_at": "2026-03-31T03:34:41.023229Z",
+  "duration_seconds": 763,
+  "extraction": {
+    "avg_confidence": 0.5601160245183886,
+    "batch_ids": [
+      "msgbatch_01KZC3e7SACuPn9Sv4kk9vxo",
+      "msgbatch_01DbhkV7J312g68384zVFRcz",
+      "msgbatch_019945aY892yKGALdJ6jAsb9"
+    ],
+    "failed": 239,
+    "reports_extracted": 4568,
+    "succeeded": 1856
+  },
+  "ingestion": {
+    "total_lines": 2162,
+    "parsed": 2095,
+    "skipped": 67,
+    "skip_reasons": {
+      "link_only": 66,
+      "stickied": 1
+    },
+    "errors": 0
+  },
+  "input_file": "/Users/brendanplayford/teslashibe/reddit-scraper/r_Peptides_2026-03-30.jsonl",
+  "model": "claude-sonnet-4-6",
+  "normalization": {
+    "total_compounds": 8327,
+    "matched": 8327,
+    "unmatched": 0,
+    "auto_registered": 695,
+    "match_rate": 1
+  },
+  "pipeline_version": "0.1.0",
+  "source_type": "reddit",
+  "started_at": "2026-03-31T03:21:57.339512Z"
+}

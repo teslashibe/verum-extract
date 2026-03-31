@@ -1,0 +1,53 @@
+{
+  "id": "fc858c36-d449-45ec-b6a4-1b61b77ca399",
+  "source_id": "1rb2yq1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rb2yq1/does_reta_dosing_depend_on_weight/",
+  "author_hash": "35b75d5b36eb4518ce9cce0e9850e717d8db828d24735ac89108c5469744040c",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T13:24:38-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 280,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "effective at 4-5mg doses",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "nausea at lower doses",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "fatigue",
+      "description": "lethargy",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "6'7\", initially used Tirzepatide. Recommends using Shotsy app to track blood levels. Notes 6 day half-life for dosing considerations.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.673815Z"
+}

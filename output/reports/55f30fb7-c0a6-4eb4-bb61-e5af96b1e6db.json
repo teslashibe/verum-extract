@@ -1,0 +1,71 @@
+{
+  "id": "55f30fb7-c0a6-4eb4-bb61-e5af96b1e6db",
+  "source_id": "1rm27k1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rm27k1/ive_been_taking_sermorelin_now_for_three_months/",
+  "author_hash": "0490e7e950ac4824865d886f9da6ce0d695c2aa9d1482b44d7c9100fea3779a4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T18:54:51-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Improved body composition over 3 months on sermorelin",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost 5 lbs in a month on tirzepatide; sermorelin helped body comp but hasn't eliminated belly and love handle fat",
+      "severity": "moderate",
+      "onset_days": 30
+    },
+    {
+      "category": "skin",
+      "description": "Started GHK-Cu to help skin tighten up"
+    }
+  ],
+  "protocol_notes": "User is budget-constrained. Currently on sermorelin at pharmacy prices. Main goal is stubborn fat on hips and mid-section. Just started tesamorelin with AOD-9604 in the morning. Also using tirzepatide. Planning to add GHK-Cu for skin tightening. Was considering stacking BPC-157 and AOD-9604 but found pricing was for weekly supply, making it unaffordable.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.668247Z"
+}

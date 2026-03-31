@@ -1,0 +1,40 @@
+{
+  "id": "02407e38-2183-4e3a-9461-b49897c8d3ec",
+  "source_id": "1bpsf65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bpsf65/semaglutide_is_amazing/",
+  "author_hash": "f38e2014152e6430f4db17e882c68477699924b49480709a497c0da6ecca9ed5",
+  "confidence_tier": 4,
+  "date_published": "2024-03-28T03:39:16-07:00",
+  "reported_weight": {
+    "value": 179,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss from HW 297 to CW 179",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "HW 297 lbs, SW 251 lbs, GW 190 lbs, CW 179 lbs. Initially on semaglutide which was awesome but eventually stopped being effective. Now on tirzepatide for remaining weight loss and maintenance.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698185Z"
+}

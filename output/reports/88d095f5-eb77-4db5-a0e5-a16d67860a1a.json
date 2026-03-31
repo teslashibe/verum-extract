@@ -1,0 +1,41 @@
+{
+  "id": "88d095f5-eb77-4db5-a0e5-a16d67860a1a",
+  "source_id": "1r9gism",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9gism/ghk_cu_with_adhd_brainfog/",
+  "author_hash": "41a25296e4966493df495f34014344a3a2af8cb6c74d2cbd49f5572c43951b31",
+  "confidence_tier": 5,
+  "date_published": "2026-02-19T16:29:14-08:00",
+  "health_conditions": [
+    "ADHD"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "NAD+ found to really help with ADHD symptoms",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User has diagnosed ADHD. Does not experience brainfog from GHK-Cu at 1mg dose. Recently ordered from a new GHK-Cu source. Recommends NAD+ for ADHD management.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.674216Z"
+}

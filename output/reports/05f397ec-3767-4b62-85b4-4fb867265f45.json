@@ -1,0 +1,58 @@
+{
+  "id": "05f397ec-3767-4b62-85b4-4fb867265f45",
+  "source_id": "1rt9sll",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rt9sll/mots_c_nad/",
+  "author_hash": "e61018c8f504c9095071db0a6b0558d0217e0ca565af2c480f7f44fc12b06094",
+  "confidence_tier": 4,
+  "date_published": "2026-03-13T21:20:46-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "returning to heavy lifting after years off",
+  "health_conditions": [
+    "autoimmune disease"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "pre-workout",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "pre-workout",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Zero soreness after high intensity training sessions despite not lifting heavily for years",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Pushing 2-3 plates on all core lifts; able to squat 2x per week due to complete recovery",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "CNS improvement with better grip strength; feels like 20s intensity and recovery",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "NAD+ started one week prior to MOTS-c to monitor side effects separately. User reports dose is intentionally low with plan to titrate up if effects diminish. User attributes improvements to mitochondrial restoration after years of alcohol abuse and chronic inflammation from autoimmune disease.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.652223Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "f4fe9cf4-63e2-44cd-9e15-c71aaeab1594",
+  "source_id": "1ikftl8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ikftl8/thank_god_for_whoever_invented_tb500_and_bpc157/",
+  "author_hash": "7ee72c63c2edbeed3e14206ec6850faffea3b91a225a6625aa94c8e5faace20b",
+  "confidence_tier": 5,
+  "date_published": "2025-02-07T21:16:07-08:00",
+  "training_status": "runner",
+  "health_conditions": [
+    "ankle injury"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Enabled running again after 6 years of ankle rehabilitation",
+      "severity": "significant"
+    }
+  ],
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.411387Z"
+}

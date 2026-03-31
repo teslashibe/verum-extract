@@ -1,0 +1,100 @@
+{
+  "id": "706985d7-322f-411f-9bdb-abd6e4540d5c",
+  "source_id": "1qrq52i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qrq52i/hgh_for_41m_who_is_very_active_and_normal_to_high/",
+  "author_hash": "77b76db80f595fc4ba7c86f3580aefd1e2a79e759242ca824420de853ea39a89",
+  "confidence_tier": 4,
+  "date_published": "2026-01-30T18:37:32-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "Very active, running/swimming/weights 4-5 days/week",
+  "health_conditions": [
+    "general fatigue",
+    "prolonged muscle soreness",
+    "declining sleep quality",
+    "reduced libido compared to late 20s",
+    "reduced sense of well-being"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC No DAC",
+      "name_normalized": "cjc_no_dac",
+      "category": "other",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Overall energy feels higher after 4 days",
+      "severity": "mild",
+      "onset_days": 4
+    },
+    {
+      "category": "joint_pain",
+      "description": "Joints and muscles feel better after 4 days",
+      "severity": "mild",
+      "onset_days": 4
+    },
+    {
+      "category": "mood",
+      "description": "Boost in mood noted after 4 days",
+      "severity": "mild",
+      "onset_days": 4
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Total Testosterone",
+      "value_before": 895
+    },
+    {
+      "marker_name": "SHBG",
+      "value_before": 69
+    },
+    {
+      "marker_name": "Bioavailable Testosterone",
+      "value_before": 146.2
+    },
+    {
+      "marker_name": "Albumin",
+      "value_before": 4.8
+    },
+    {
+      "marker_name": "Free Testosterone",
+      "value_before": 66.8
+    },
+    {
+      "marker_name": "IGFBP-1",
+      "value_before": 20
+    },
+    {
+      "marker_name": "GH"
+    },
+    {
+      "marker_name": "Prolactin",
+      "value_before": 6.5
+    }
+  ],
+  "protocol_notes": "GH \u003c0.1 on labs. Consulted TRT specialist who advised levels were solid and did not prescribe anything. Planning to evaluate after 2-3 weeks before committing to a full 6-week cycle. Concerned about dependency, side effects, and hair loss.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.122752Z"
+}

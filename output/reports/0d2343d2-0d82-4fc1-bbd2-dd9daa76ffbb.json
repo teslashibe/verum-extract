@@ -1,0 +1,78 @@
+{
+  "id": "0d2343d2-0d82-4fc1-bbd2-dd9daa76ffbb",
+  "source_id": "1ofz05s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ofz05s/what_are_reasons_to_get_just_ghkcu_over_glow/",
+  "author_hash": "6073e90e19ce73735e9ed3255ea23f07b9151d5fd508840ef7d4e6a1c935ac1d",
+  "confidence_tier": 4,
+  "date_published": "2025-10-25T11:33:46-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2.3,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 166,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "skin is glowing",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "First 6-week cycle: 2.3mg GHK-Cu daily + 166mcg BPC-157 daily (subQ). Second 6-week cycle: KLOW stack blend (BPC-157, TB-500, KPV). User reports smooth experience with no welts, irritation, or pain. Has 14 unopened vials of 100mg GHK-Cu in storage. Previous experience with Mounjaro (semaglutide).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.395089Z"
+}

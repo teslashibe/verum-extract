@@ -1,0 +1,234 @@
+{
+  "compound_id": "semax",
+  "display_name": "Semax",
+  "category": "cognitive",
+  "total_reports": 348,
+  "reports_by_tier": {
+    "3": 5,
+    "4": 234,
+    "5": 109
+  },
+  "top_benefits": [
+    {
+      "category": "cognitive",
+      "count": 126,
+      "pct": 52.7
+    },
+    {
+      "category": "mood",
+      "count": 42,
+      "pct": 17.6
+    },
+    {
+      "category": "anxiety_relief",
+      "count": 40,
+      "pct": 16.7
+    },
+    {
+      "category": "sleep",
+      "count": 23,
+      "pct": 9.6
+    },
+    {
+      "category": "fat_loss",
+      "count": 21,
+      "pct": 8.8
+    },
+    {
+      "category": "energy",
+      "count": 20,
+      "pct": 8.4
+    },
+    {
+      "category": "other",
+      "count": 19,
+      "pct": 7.9
+    },
+    {
+      "category": "recovery",
+      "count": 16,
+      "pct": 6.7
+    },
+    {
+      "category": "libido",
+      "count": 15,
+      "pct": 6.3
+    },
+    {
+      "category": "injury_healing",
+      "count": 13,
+      "pct": 5.4
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "anxiety",
+      "count": 11,
+      "pct": 4.6,
+      "avg_severity": 2.3
+    },
+    {
+      "category": "headache",
+      "count": 10,
+      "pct": 4.2,
+      "avg_severity": 1.9
+    },
+    {
+      "category": "other",
+      "count": 10,
+      "pct": 4.2,
+      "avg_severity": 1.6
+    },
+    {
+      "category": "injection_site",
+      "count": 9,
+      "pct": 3.8,
+      "avg_severity": 1.8
+    },
+    {
+      "category": "allergic_reaction",
+      "count": 9,
+      "pct": 3.8,
+      "avg_severity": 2.6
+    },
+    {
+      "category": "cognitive_impairment",
+      "count": 8,
+      "pct": 3.3,
+      "avg_severity": 2
+    },
+    {
+      "category": "sleep_disruption",
+      "count": 7,
+      "pct": 2.9,
+      "avg_severity": 2.3
+    },
+    {
+      "category": "mood_change",
+      "count": 6,
+      "pct": 2.5,
+      "avg_severity": 2.7
+    },
+    {
+      "category": "hair_change",
+      "count": 6,
+      "pct": 2.5,
+      "avg_severity": 2.7
+    },
+    {
+      "category": "skin_reaction",
+      "count": 6,
+      "pct": 2.5,
+      "avg_severity": 1.7
+    },
+    {
+      "category": "fatigue",
+      "count": 4,
+      "pct": 1.7,
+      "avg_severity": 2
+    },
+    {
+      "category": "nerve_related",
+      "count": 2,
+      "pct": 0.8,
+      "avg_severity": 3
+    },
+    {
+      "category": "hormonal",
+      "count": 2,
+      "pct": 0.8,
+      "avg_severity": 3
+    },
+    {
+      "category": "water_retention",
+      "count": 2,
+      "pct": 0.8,
+      "avg_severity": 2.5
+    },
+    {
+      "category": "stimulation",
+      "count": 1,
+      "pct": 0.4,
+      "avg_severity": 1
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 500,
+      "unit": "mcg",
+      "frequency": "daily",
+      "count": 4,
+      "pct": 1.1
+    },
+    {
+      "route": "nasal",
+      "dose": 10,
+      "unit": "mg",
+      "frequency": "",
+      "count": 3,
+      "pct": 0.9
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 1000,
+      "unit": "mcg",
+      "frequency": "",
+      "count": 3,
+      "pct": 0.9
+    },
+    {
+      "route": "nasal",
+      "dose": 100,
+      "unit": "mcg",
+      "frequency": "daily",
+      "count": 2,
+      "pct": 0.6
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 1,
+      "unit": "mg",
+      "frequency": "as needed for focus",
+      "count": 2,
+      "pct": 0.6
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "selank",
+      "display_name": "Selank",
+      "report_count": 218
+    },
+    {
+      "compound_id": "bpc_157",
+      "display_name": "BPC-157",
+      "report_count": 61
+    },
+    {
+      "compound_id": "ipamorelin",
+      "display_name": "Ipamorelin",
+      "report_count": 47
+    },
+    {
+      "compound_id": "mots_c",
+      "display_name": "MOTS-c",
+      "report_count": 45
+    },
+    {
+      "compound_id": "ghk_cu",
+      "display_name": "GHK-Cu",
+      "report_count": 39
+    }
+  ],
+  "avg_cycle_length_days": 39.9,
+  "avg_sentiment_score": 0.626,
+  "sentiment_breakdown": {
+    "positive": 178,
+    "mixed": 29,
+    "negative": 39,
+    "neutral": 102
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T04:48:57.357768Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "28514aa2-2c83-4b0b-abea-9a68f87d6bae",
+  "source_id": "1nbfjcc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nbfjcc/too_much_semax/",
+  "author_hash": "1d523fa8e1eab4f95c5ddc11a56b8fbe398923465ac41bca2e61783277ea79c7",
+  "confidence_tier": 4,
+  "date_published": "2025-09-07T22:39:54-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anxiety_relief",
+      "description": "mild anxiolytic effect below 250mcg",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "anxiety",
+      "description": "too stimulating above 250mcg",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Prefers dosing below 250mcg. Recommends 100-200mcg as starting point for anxiety-prone individuals with titration up based on response. NA-Semax is more potent than non-acetyl form.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.398745Z"
+}

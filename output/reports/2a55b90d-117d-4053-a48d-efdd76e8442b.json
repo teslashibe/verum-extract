@@ -1,0 +1,32 @@
+{
+  "id": "2a55b90d-117d-4053-a48d-efdd76e8442b",
+  "source_id": "1nthftv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nthftv/tesamorelin_negative_reaction/",
+  "author_hash": "0c9ad2cab7dacd6eac7b4810f98349903835a63e11bda7e090958cd7c5e0a47f",
+  "confidence_tier": 4,
+  "date_published": "2025-09-29T06:02:39-07:00",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 35,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "welts that were red, hot, and itchy, progressively worsening and lasting longer each day",
+      "severity": "significant",
+      "onset_days": 35
+    }
+  ],
+  "protocol_notes": "Started tesamorelin at week 5, progressive reaction led to discontinuation.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.396837Z"
+}

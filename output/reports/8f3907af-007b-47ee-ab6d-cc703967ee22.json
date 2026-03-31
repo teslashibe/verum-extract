@@ -1,0 +1,47 @@
+{
+  "id": "8f3907af-007b-47ee-ab6d-cc703967ee22",
+  "source_id": "1rwcfgo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwcfgo/ghkcu_gluta_interaction/",
+  "author_hash": "fd1d5d0f05687a9ae7ee2e8b7313227a9522d64053388965e69b35e5140ca3f2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-17T10:03:22-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Tiredness when pinning GHK-Cu and Glutathione at the same time; improved when spacing doses apart and after 5 total doses",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 7
+    },
+    {
+      "category": "injection_site",
+      "description": "Irritation and burning sensation in belly fat during liquid dispersal with subcutaneous injection of 200mg/ml glutathione",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User stacked GHK-Cu with Glutathione (200mg/ml). Initial protocol involved pinning both at same time; switched to opposite times of day (moved GHK-Cu to evening, Glutathione to morning based on context). Subcutaneous injection site: belly fat. Fatigue was expected side effect of Glutathione initiation and resolved within 1-2 weeks.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.650617Z"
+}

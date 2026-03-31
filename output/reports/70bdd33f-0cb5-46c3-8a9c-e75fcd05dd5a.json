@@ -1,0 +1,63 @@
+{
+  "id": "70bdd33f-0cb5-46c3-8a9c-e75fcd05dd5a",
+  "source_id": "qvgjrr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/qvgjrr/rant_peptides_arent_magic/",
+  "author_hash": "5e676dada0f3baf12d24c7a2853b16d40f4d7d725caab6461eecab9b8addc0b9",
+  "confidence_tier": 4,
+  "date_published": "2021-11-16T11:57:17-08:00",
+  "health_conditions": [
+    "SIBO",
+    "Dysautonomia",
+    "chronic disease"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Fixed the gut",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Stomped dysautonomia symptoms",
+      "severity": "significant"
+    },
+    {
+      "category": "quality_of_life",
+      "description": "Quality of life has skyrocketed",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "BPC-157 taken orally once in morning, once at night, two hours off from meals. One month on, one month off cycling. Used for approximately 6 months total over a year period. Considering combining with TB-500. Mother also used BPC-157 and TA1 with good results for similar conditions.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.702463Z"
+}

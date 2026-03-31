@@ -1,0 +1,29 @@
+{
+  "id": "7026be6a-171e-41c6-a674-e47dbe7a6d61",
+  "source_id": "1agr41t",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1agr41t/bad_reaction_to_ipamorelincjc1295/",
+  "author_hash": "0c96aebb5577b3953ecaa032f8729bd70488365a759300e4a354a518a0c3ae9a",
+  "confidence_tier": 5,
+  "date_published": "2024-02-01T17:02:40-08:00",
+  "compounds": [
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "CJC causes flushing even at 0.25 mg"
+    }
+  ],
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.295102Z"
+}

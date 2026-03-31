@@ -1,0 +1,58 @@
+{
+  "id": "e67259ab-ccf5-4096-bf0c-506f819364e0",
+  "source_id": "p9kfuf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/p9kfuf/neuroregenerative_peptides/",
+  "author_hash": "b047da049dad704154c777c0c3de8d9fd2b4486319e2679915689a66e2507c20",
+  "confidence_tier": 4,
+  "date_published": "2021-08-22T13:38:37-07:00",
+  "training_status": "lifts 6 days per week, home gym",
+  "health_conditions": [
+    "adverse PNS reaction to Pfizer vaccine"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 2500,
+      "dose_unit": "mcg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "Used BPC-157, TB-500, CJC(DAC), and Ipamorelin protocol. Reported no effect on IGF-1; IGF-1 actually declined compared to pre-protocol baseline. Also reported BPC-157 500mcg daily did not relieve golfers elbow pain from barbell curls despite high-dose TB-500 protocol.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.130615Z"
+}

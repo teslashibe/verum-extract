@@ -1,0 +1,42 @@
+{
+  "id": "3d5b55ab-81a8-4f9c-8c33-35bbc8484d43",
+  "source_id": "1pwxe25",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pwxe25/cagrilintide/",
+  "author_hash": "1cb3823e3d98379470137ad7bc24baecffb24515e3dbedeb4586e100841e4667",
+  "confidence_tier": 4,
+  "date_published": "2025-12-27T05:05:32-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 12.5,
+      "dose_unit": "mcg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mcg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Combined appetite suppression from blend",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Taking pre-mixed blend of Retatrutide and Cagrilintide. Non-responder until reaching 2mg, currently at 3mg twice weekly.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.672958Z"
+}

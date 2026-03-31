@@ -1,0 +1,58 @@
+{
+  "id": "59dd6195-e771-4156-9229-5cce558c56d6",
+  "source_id": "1oy466n",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oy466n/opinions_on_my_stack/",
+  "author_hash": "df9f68f8a6e593bc9fec461f030d79f9fc1fbea25acca9a87daf6f391761bd69",
+  "confidence_tier": 5,
+  "date_published": "2025-11-15T13:59:26-08:00",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 5,
+      "dose_unit": "IU",
+      "cycle_length_days": 180,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 180,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 180,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Enclomiphene",
+      "name_normalized": "enclomiphene",
+      "category": "hormonal",
+      "dose_value": 12.5,
+      "dose_unit": "mg",
+      "cycle_length_days": 180,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 180,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "OP planning 6-month cycle. Stack composition mentioned but no personal results reported. OP questioned whether CJC/Ipamorelin redundancy with HGH was valid, thinking they might help with sleep and inflammation.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.677322Z"
+}

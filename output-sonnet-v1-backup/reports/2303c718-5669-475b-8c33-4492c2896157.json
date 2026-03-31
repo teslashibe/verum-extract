@@ -1,0 +1,76 @@
+{
+  "id": "2303c718-5669-475b-8c33-4492c2896157",
+  "source_id": "lf5oa9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/lf5oa9/bpc157_report_after_two_weeks_of_use_for_pain/",
+  "author_hash": "461468d240bab444d9e221e0531bd17099e42d17172e2c8e59f3513eb5fcd18a",
+  "confidence_tier": 4,
+  "date_published": "2021-02-07T22:15:33-08:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "broken collarbone",
+    "stage 3a colorectal cancer survivor",
+    "partial colon removal",
+    "partial rectum removal",
+    "sensitive stomach",
+    "food sensitivity",
+    "gut urgency"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 25,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 17,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Shoulder pain from broken collarbone reduced 30-40% after 4 days, nearly gone after 2 weeks",
+      "severity": "significant",
+      "onset_days": 4
+    },
+    {
+      "category": "energy",
+      "description": "Improved overall well-being and energy",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "General feeling good and overall well-being improvement",
+      "severity": "moderate"
+    },
+    {
+      "category": "gut_health",
+      "description": "No stomach issues, digestion problems, or food sensitivity since starting BPC-157; first normal evening in 10 years including eating pizza and chicken wings without adverse effects",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive",
+      "description": "Improved mental clarity attributed to Thymosin Alpha-1",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Injected BPC-157 directly at the site of pain (trap area). Purchased from Peptide Sciences. BPC-157 at 7:30am and 6:00pm. Thymosin Alpha-1 once in the morning. 10-year cancer survivor with prior surgery, chemo, and radiation. Also administered BPC-157 to wife for hip pain.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.430598Z"
+}

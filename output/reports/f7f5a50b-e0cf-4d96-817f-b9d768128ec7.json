@@ -1,0 +1,43 @@
+{
+  "id": "f7f5a50b-e0cf-4d96-817f-b9d768128ec7",
+  "source_id": "1fiu7dt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fiu7dt/which_glp1_cause_least_muscle_loss/",
+  "author_hash": "c8a011b720ab5ebcf4842444aaafa9f6944d556ece05db4106feb77d14662b07",
+  "confidence_tier": 4,
+  "date_published": "2024-09-17T01:59:33-07:00",
+  "training_status": "resistance training regularly",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GLP-1",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped 75 pounds over the last year while putting on muscle",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Put on muscle while losing 75lbs",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_weight",
+      "value_after": 200.8,
+      "unit": "lbs"
+    }
+  ],
+  "protocol_notes": "User maintained regular resistance training during weight loss; achieved muscle gain while in caloric deficit",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696155Z"
+}

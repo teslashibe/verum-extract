@@ -1,0 +1,74 @@
+{
+  "id": "4d8ef22c-ba8d-4494-987a-23cd2bdf316c",
+  "source_id": "1mp64sy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mp64sy/peptide_stack_post_glp3_weightloss/",
+  "author_hash": "3791ac5657e46dd46eab9a15d48e02f4deb5d7252410259eb47a2810e84a688b",
+  "confidence_tier": 3,
+  "date_published": "2025-08-13T07:33:27-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "25-29",
+  "reported_weight": {
+    "value": 132,
+    "unit": "lbs"
+  },
+  "training_status": "active, returning to regular routine",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta (GLP-3 / Retatrutide)",
+      "name_normalized": "reta_glp_3__retatrutide",
+      "category": "other",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once a week",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 18 pounds over 8 weeks, body fat dropped from ~25% to ~20%",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Could barely keep any food down; severe nausea preventing adequate protein intake",
+      "severity": "significant"
+    },
+    {
+      "category": "fatigue",
+      "description": "Too much fatigue to push lifts",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_change",
+      "description": "Unable to eat enough protein due to nausea and appetite suppression",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body weight",
+      "value_before": 132,
+      "value_after": 114,
+      "unit": "lbs",
+      "timeframe_days": 56
+    },
+    {
+      "marker_name": "body fat percentage",
+      "value_before": 25,
+      "value_after": 20,
+      "unit": "%",
+      "timeframe_days": 56
+    }
+  ],
+  "protocol_notes": "User never dosed higher than 2mg/week. Stopped Reta after 8 weeks due to side effects. Experienced muscle loss attributed to inability to eat sufficient protein and reduced training intensity. Seeking peptide stack for recomposition phase.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.275716Z"
+}

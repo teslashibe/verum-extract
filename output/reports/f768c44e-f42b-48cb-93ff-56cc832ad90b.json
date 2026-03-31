@@ -1,0 +1,65 @@
+{
+  "id": "f768c44e-f42b-48cb-93ff-56cc832ad90b",
+  "source_id": "1rx2u70",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx2u70/is_ss31_a_must_before_starting_motsc/",
+  "author_hash": "5a4d4a222a618eb1d6b8387202c2e3ecd2ed74d38c68f96d9a60d5ab236f675d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T05:42:53-07:00",
+  "training_status": "active - HIIT circuit training 4-5 days per week, very lean (\u003c10% body fat)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "oral",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "2x per week",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "oral",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 days on, 2 days off",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Noticeable increase in energy by 3rd week of second cycle",
+      "severity": "moderate",
+      "onset_days": 21
+    },
+    {
+      "category": "cognitive",
+      "description": "Increased focus by 3rd week of second cycle",
+      "severity": "moderate",
+      "onset_days": 21
+    },
+    {
+      "category": "recovery",
+      "description": "Improved recovery between sets/stations",
+      "severity": "moderate",
+      "onset_days": 21
+    },
+    {
+      "category": "body_composition",
+      "description": "Some body recomp observed, user already fairly lean",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "First cycle: 5mg 2x per week for 4 weeks - no noticeable difference. Second cycle: 2mg 5 days on per protocol, 3rd week showed benefits. Both cycles taken in AM fasted. Did not use SS-31 before or during either cycle. Change in protocol or need for second cycle attributed to benefits.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.661861Z"
+}

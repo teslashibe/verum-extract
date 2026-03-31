@@ -1,0 +1,36 @@
+{
+  "id": "1e2f26bc-4c14-4f41-ae74-67948c1ec88e",
+  "source_id": "1ls7k5c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ls7k5c/bpc157_tb500/",
+  "author_hash": "4b897b5788a99ceff955cbce7e98f8a3e604db93eba09d05f8df0ccf0089501c",
+  "confidence_tier": 4,
+  "date_published": "2025-07-05T04:18:16-07:00",
+  "health_conditions": [
+    "tendinitis (wrist)"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "every couple days",
+      "cycle_length_days": 10,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "healed tendinitis in wrist within 10 days, recovered from severe mobility loss",
+      "severity": "significant",
+      "onset_days": 10
+    }
+  ],
+  "protocol_notes": "Alternated injection sites between stomach and back of arm every couple days. Could hardly move wrist initially.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.688058Z"
+}

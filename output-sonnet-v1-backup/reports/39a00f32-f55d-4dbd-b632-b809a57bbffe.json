@@ -1,0 +1,39 @@
+{
+  "id": "39a00f32-f55d-4dbd-b632-b809a57bbffe",
+  "source_id": "1rtra6z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rtra6z/ss31_severe_fatigue_and_tiredness/",
+  "author_hash": "db95cc0ecbe4b7a9af74130697b9fa265aac759352fdb6eabc89da75eca98979",
+  "confidence_tier": 5,
+  "date_published": "2026-03-14T11:42:49-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "SS‑31 (Elamipretide)",
+      "name_normalized": "ss31_elamipretide",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS‑C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "2-3 times per week",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Has not started yet. Protocol assembled with AI assistance. Plans to also take NAD+ (500-1000mg oral daily), Magnesium glycinate/citrate (200-400mg evening), CoQ10/Ubiquinol (100-200mg morning). Optional: L-carnitine, alpha-lipoic acid, red/NIR light therapy.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.108432Z"
+}

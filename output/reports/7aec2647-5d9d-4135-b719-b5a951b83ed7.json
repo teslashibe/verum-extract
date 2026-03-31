@@ -1,0 +1,58 @@
+{
+  "id": "7aec2647-5d9d-4135-b719-b5a951b83ed7",
+  "source_id": "1o053oo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o053oo/hgh_reta_vs_tesaipa_tirz/",
+  "author_hash": "44a6146b4867840c82e8b19229cd64c11af1c9297fe50aae8f60b76e3f4353c5",
+  "confidence_tier": 4,
+  "date_published": "2025-10-06T21:24:34-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 9,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Retatrutide at 4-6mg allows cutting effectively with reduced appetite suppression intensity compared to higher doses",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression starts around 4-9mg range; 9mg causes difficulty eating enough; 4-6mg provides more pleasant cutting experience",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "At 9mg dose, could not eat enough food",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Tested retatrutide at 4-6mg for cutting (described as pleasant) and 9mg (too much appetite suppression). States retatrutide superior to tirzepatide in most ways. Can add low-dose cagrilintide if additional appetite suppression needed. Notes responses are highly individual.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.73,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.68Z"
+}

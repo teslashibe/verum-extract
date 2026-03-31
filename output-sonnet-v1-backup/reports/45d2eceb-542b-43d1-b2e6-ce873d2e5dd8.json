@@ -1,0 +1,49 @@
+{
+  "id": "45d2eceb-542b-43d1-b2e6-ce873d2e5dd8",
+  "source_id": "1ms8isk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ms8isk/how_long_until_energy_levels_increase_currently/",
+  "author_hash": "0055eeecea58fabc3e7cec4db14c2fd49fd1c835c4b9bab805db5d1bc59b3eda",
+  "confidence_tier": 4,
+  "date_published": "2025-08-16T14:35:20-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesofensine",
+      "name_normalized": "tesofensine",
+      "category": "body_composition",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Good energy boost from stacking Reta with Tesofensine",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppressant effect from the stack",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Could affect sleep quality"
+    }
+  ],
+  "protocol_notes": "Stacks Reta with 500mcg Tesofensine for energy and appetite suppression; notes potential sleep quality drawback.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.27504Z"
+}

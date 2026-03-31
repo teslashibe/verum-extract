@@ -1,0 +1,48 @@
+{
+  "id": "bf22f0e8-bbb6-4479-812c-890d24f27cdb",
+  "source_id": "1psbyla",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1psbyla/first_week_on_reta_results/",
+  "author_hash": "3d6063cf55babbdf1fa42141a99b10808461c2169a3c70626d968e00409cd386",
+  "confidence_tier": 4,
+  "date_published": "2025-12-21T09:30:08-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "reported_weight": {
+    "value": 195,
+    "unit": "lbs"
+  },
+  "training_status": "gym-goer",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Implied appetite reduction given context of weight gain despite caloric intent"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Mild bloating; meals feel like bricks in the stomach",
+      "severity": "mild",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Starting dose 0.5mg. Plan to increase to 1mg-1.5mg in week 2 and reduce daily calories. Maintained protein consumption and gym routine throughout first week.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.673714Z"
+}

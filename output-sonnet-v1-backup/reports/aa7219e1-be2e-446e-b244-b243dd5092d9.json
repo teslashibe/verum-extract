@@ -1,0 +1,51 @@
+{
+  "id": "aa7219e1-be2e-446e-b244-b243dd5092d9",
+  "source_id": "1rpibz2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpibz2/weird_reaction_on_tesaipa_blend_from_new_lab/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T17:43:32-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 12,
+      "dose_unit": "mg",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Heat rush, became very hot, felt like was going to faint. Lasted approximately 2 minutes, occurred at approximately 20 minutes post-injection.",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "dizziness",
+      "description": "Felt like was gonna faint during the heat rush episode.",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User reconstituted a 12mg tesamorelin / 2mg ipamorelin blend vial with 3mL. Performed a 5-unit test injection from a new supplier. Adverse reaction did not occur with previous supplier's batch. User speculates new batch may be more potent.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.110356Z"
+}

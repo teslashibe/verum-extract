@@ -1,0 +1,62 @@
+{
+  "id": "e0dbf217-c495-4c5d-bf85-cf56cf950968",
+  "source_id": "1ixcri5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ixcri5/followup_thread_my_experience_with_epitalon/",
+  "author_hash": "5ce805d00d82acaa990897abbae90d6ba67220e8380ac4db9a953ada98a0ecd6",
+  "confidence_tier": 5,
+  "date_published": "2025-02-24T12:57:01-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "route": "intramuscular",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "every other day for a week, every month or so",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "intramuscular",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "every other day for a week, every month or so",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Notices increased energy levels with NAD and glutathione",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Improved endurance with NAD and glutathione",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "Improved mood with NAD and glutathione",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Has been doing cycles of epithalon for several years with hopes of anti-aging benefits. Uses glutathione and NAD IM injections to scavenge free radicals and support mitochondria.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.287581Z"
+}

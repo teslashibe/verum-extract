@@ -1,0 +1,32 @@
+{
+  "id": "b0fbfd4a-ae5a-49ea-bf0b-6347cdba1765",
+  "source_id": "1s0za4n",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s0za4n/is_this_normal_lol/",
+  "author_hash": "84eaf93ededa05b3f803b72acca4e5eeb8e463e24b918fd05c3f344fe5e6cfe4",
+  "confidence_tier": 5,
+  "date_published": "2026-03-22T15:25:09-07:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "random spots of blue on left hand",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Vague concern about blue discoloration; commenters suggested external contamination from alcohol swab, syringe packaging, or vial label dye rather than compound-related reaction.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.648354Z"
+}

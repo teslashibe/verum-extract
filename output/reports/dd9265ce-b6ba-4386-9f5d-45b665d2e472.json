@@ -1,0 +1,40 @@
+{
+  "id": "dd9265ce-b6ba-4386-9f5d-45b665d2e472",
+  "source_id": "1rcaza0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rcaza0/any_peptides_for_adhd/",
+  "author_hash": "6e0ef926750c3b4ae90f8b9241cf628ad25bdd7f7a01d32e4674b89ac9405d84",
+  "confidence_tier": 4,
+  "date_published": "2026-02-22T23:25:39-08:00",
+  "health_conditions": [
+    "ADHD"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Metformin",
+      "name_normalized": "metformin",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "did not need Adderall as much",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Benefits went away when discontinued. Psych prescribed metformin as adjunct",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.673258Z"
+}

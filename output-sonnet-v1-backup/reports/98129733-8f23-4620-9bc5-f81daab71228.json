@@ -1,0 +1,43 @@
+{
+  "id": "98129733-8f23-4620-9bc5-f81daab71228",
+  "source_id": "1dby1dt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1dby1dt/mold_toxicity_and_gh_boosting_peptides/",
+  "author_hash": "4062ac0ecfbf799d86dd1b1152e0753e35ff2c0f8db9a5ea8533e92edb1ed500",
+  "confidence_tier": 5,
+  "date_published": "2024-06-09T09:41:05-07:00",
+  "health_conditions": [
+    "neurological symptoms",
+    "possible long COVID",
+    "possible mold toxicity"
+  ],
+  "compounds": [
+    {
+      "name_raw": "ipam",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "cjc",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Myriad of neurological symptoms onset around same time as using ipam and cjc; persisted for at least 14 months",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "User reports a week-long use of ipamorelin and CJC followed by onset of neurological symptoms. Uncertain whether symptoms are due to long COVID, mold toxicity, or the peptides. Symptoms ongoing for 14 months at time of post.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.293034Z"
+}

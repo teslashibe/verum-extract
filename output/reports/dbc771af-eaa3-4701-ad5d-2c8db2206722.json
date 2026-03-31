@@ -1,0 +1,61 @@
+{
+  "id": "dbc771af-eaa3-4701-ad5d-2c8db2206722",
+  "source_id": "1re12v6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1re12v6/mental_health_peptides/",
+  "author_hash": "b8d196579c968d9de3fef1486a6bc6a4d390428b3020c869ac433cfc6e9e36f3",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T18:42:37-08:00",
+  "health_conditions": [
+    "depression",
+    "anxiety",
+    "ADHD"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anxiety_relief",
+      "description": "Calm clear feeling without benzodiazepine side effects",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Improved sleep quality from DSIP, addressing Retatrutide-induced sleep disruption",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Sleeping poorly while on Retatrutide",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Currently on Adderall and Wellbutrin. Recent additions of Selank and DSIP. Plans to keep both in rotation.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.672288Z"
+}

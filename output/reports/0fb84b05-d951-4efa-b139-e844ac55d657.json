@@ -1,0 +1,40 @@
+{
+  "id": "0fb84b05-d951-4efa-b139-e844ac55d657",
+  "source_id": "1rj1j09",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rj1j09/thymosin_alpha1/",
+  "author_hash": "d55df07eede10f9ae346f6b7faddc546864ccd342a20271476f88410a959896b",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T10:51:57-08:00",
+  "health_conditions": [
+    "sensitive nasal mucosa"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "immune",
+      "description": "Helps with sensitive nasal mucosa",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Sensitive nasal mucosa symptoms return after discontinuation",
+      "severity": "moderate",
+      "resolution_days": 3
+    }
+  ],
+  "protocol_notes": "Symptoms tend to return a few days after stopping use.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.657922Z"
+}

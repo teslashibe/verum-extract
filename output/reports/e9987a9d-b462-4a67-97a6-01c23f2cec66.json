@@ -1,0 +1,44 @@
+{
+  "id": "e9987a9d-b462-4a67-97a6-01c23f2cec66",
+  "source_id": "1s4hnpa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4hnpa/how_to_stack/",
+  "author_hash": "b6cad7ce19386ae826faa8ebbacb650206a455e85d0b6e17da3b27f63d948963",
+  "confidence_tier": 5,
+  "date_published": "2026-03-26T12:42:19-07:00",
+  "training_status": "high-intensity weightlifting 5-6 times per week",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Body fat ~15-17%. Planning to stack these four compounds but no specific protocol details provided; seeking stacking advice only.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.3,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.657652Z"
+}

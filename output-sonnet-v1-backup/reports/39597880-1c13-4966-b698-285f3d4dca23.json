@@ -1,0 +1,45 @@
+{
+  "id": "39597880-1c13-4966-b698-285f3d4dca23",
+  "source_id": "1eql9su",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1eql9su/injectable_peptides_women/",
+  "author_hash": "afaa86642aa9707a03b8149034480c5296be1e356624f2c7737b13865150b055",
+  "confidence_tier": 5,
+  "date_published": "2024-08-12T11:25:46-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "GHK-CU described as pretty great",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "GHK-CU burns going in",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User recommends mixing GHK-CU with BPC-157 either in vial or syringe to mitigate burning sensation. No specific doses or frequencies provided.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.292087Z"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "aec5bcd2-52df-4e89-ba90-c4fca00984ae",
+  "source_id": "1qeh9rd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qeh9rd/best_growth_hormone_peptide_to_pair_with/",
+  "author_hash": "e74d35cd0f6a70256c5136dca50493ee99ff0ddd498220052415b47fea3cf026",
+  "confidence_tier": 4,
+  "date_published": "2026-01-16T06:23:03-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHRP-2",
+      "name_normalized": "ghrp_2",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Loving GHRP-2; CJC/ipa was fantastic for a while",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Second batch of CJC/ipa started causing extreme itching all over body with some hives",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Was on CJC/ipa which was fantastic initially, but second batch caused systemic itching and hives, so switched to GHRP-2 which user is loving",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.67095Z"
+}

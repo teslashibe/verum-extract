@@ -1,0 +1,36 @@
+{
+  "id": "9f7a2080-f2cf-4be2-ac01-c0d32176e514",
+  "source_id": "14xwlun",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/14xwlun/beware_beiyina/",
+  "author_hash": "2b958826ca6c2b52fc8f55a46c5ad9455eb98f937764546aa73b5b12f93bcdcf",
+  "confidence_tier": 5,
+  "date_published": "2023-07-12T11:30:21-07:00",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "purity",
+      "value_after": 99.647,
+      "unit": "%"
+    },
+    {
+      "marker_name": "actual_content",
+      "value_after": 8.39,
+      "unit": "mg"
+    }
+  ],
+  "protocol_notes": "Vendor: Wuhan Beiyina Technology Co., Ltd. Vials tested and found underdosed (8.39mg actual vs 10mg labeled). Purity at 99.647%. Customer service offered only $10 credit as remedy for underdosage issue. Post criticizes vendor for underdosing and poor customer service response.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.420652Z"
+}

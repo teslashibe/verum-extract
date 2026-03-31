@@ -1,0 +1,65 @@
+{
+  "id": "87fe95b2-155b-4ed6-9bbb-8d351567aca6",
+  "source_id": "1o053oo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o053oo/hgh_reta_vs_tesaipa_tirz/",
+  "author_hash": "f3b7544c4b46e327381fc06d237a94f7ef1b48a9ef9796d52cbddf34a0ffd127",
+  "confidence_tier": 4,
+  "date_published": "2025-10-06T21:24:34-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Skin improvement noticeable over 6+ months, described as icing on the cake with skincare routine, tretinoin, and estradiol management",
+      "severity": "moderate",
+      "onset_days": 180
+    },
+    {
+      "category": "fat_loss",
+      "description": "Modest fat loss boost, roughly equivalent to 50 calorie deficit per day",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Water retention causing scale and blood pressure elevation",
+      "severity": "moderate"
+    },
+    {
+      "category": "blood_pressure",
+      "description": "RAAS mediated hypertension managed with ACE inhibitor",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "May feel less rested when waking to alarm, requires 10-12 hour sleep cycles",
+      "severity": "moderate"
+    },
+    {
+      "category": "hormonal",
+      "description": "Worsens insulin resistance or creates new metabolic disorder requiring management",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Using with TRT and estradiol management. Long-term use for skin benefits. Using ACE inhibitor for blood pressure mitigation. High E2 tolerance noted.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.396316Z"
+}

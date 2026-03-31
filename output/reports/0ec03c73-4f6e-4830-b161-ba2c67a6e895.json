@@ -1,0 +1,40 @@
+{
+  "id": "0ec03c73-4f6e-4830-b161-ba2c67a6e895",
+  "source_id": "139kz5e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/139kz5e/best_sleep_in_30_years/",
+  "author_hash": "676fcca57d7b1463968a0cacc2ebbaee7701bc40f5b8ddb262d2ffa5e7c022eb",
+  "confidence_tier": 4,
+  "date_published": "2023-05-06T05:01:29-07:00",
+  "health_conditions": [
+    "insomnia"
+  ],
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "No longer needed trazodone for insomnia",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Previously on trazodone for couple of years. Haven't needed it for almost 3 weeks after starting CJC/IPA.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.701416Z"
+}

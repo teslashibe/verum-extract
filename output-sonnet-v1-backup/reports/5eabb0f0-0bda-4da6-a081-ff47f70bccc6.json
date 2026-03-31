@@ -1,0 +1,35 @@
+{
+  "id": "5eabb0f0-0bda-4da6-a081-ff47f70bccc6",
+  "source_id": "1rq1iil",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rq1iil/ghkcu_injection_skin_issues/",
+  "author_hash": "59fa5fcde25cb5966d77f39fb9347f543d5543e09c5be3235d135cf7f8ec502e",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T09:24:42-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "compounds": [
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Injection site irritation",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "48-year-old woman. Injecting 6mg a week total (2mg 3x a week). Has not experienced facial breakouts or systemic skin reactions like the OP.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.110154Z"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "ddedb2d4-ecf4-4b00-8b32-b210b862d2f8",
+  "source_id": "1rum95a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rum95a/experiences_with_cjc1295ipamorelin_while_on/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T11:51:32-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 283,
+    "unit": "lbs"
+  },
+  "training_status": "low activity - 20-30 min rucking/kettlebells/HIIT 2-3x/week, medical student with limited time",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "sleeping much more deeply",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "strength improving, body recomposition ongoing from tirzepatide",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "flushing experienced, mostly resolved",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "water_retention",
+      "description": "gained 3+ pounds of water weight, weight stabilized at 285-286 lbs after 2 weeks",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Also on TRT pellets every 5-6 months. Started tirzepatide November at 324 lbs, now at 283 lbs. Body scans show fat loss and muscle gain on tirzepatide alone. Questioning efficacy of peptide stack given limited training time and unexpected fluid retention.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.663441Z"
+}

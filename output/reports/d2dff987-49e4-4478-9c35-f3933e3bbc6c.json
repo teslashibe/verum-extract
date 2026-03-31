@@ -1,0 +1,35 @@
+{
+  "id": "d2dff987-49e4-4478-9c35-f3933e3bbc6c",
+  "source_id": "1r1rqqy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r1rqqy/cjcipa_advice/",
+  "author_hash": "9bb6f5dbe260f936f1c9b3c2a63ecbef3251819f866be3f3030e23533f030809",
+  "confidence_tier": 5,
+  "date_published": "2026-02-11T00:18:55-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "twice daily or once before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "twice daily or once before bed",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Commenter providing general guidance on CJC/IPA protocols. Recommends starting with full dose before bed (when natural GH pulse occurs) for first week, then adding morning dose if no sides. Mixing reconstituted peptides in same vial is acceptable.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.25,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677441Z"
+}

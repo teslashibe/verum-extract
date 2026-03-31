@@ -1,0 +1,152 @@
+{
+  "id": "02423a7e-41aa-4aa7-8ea0-474b8773a70a",
+  "source_id": "nkj7jq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/nkj7jq/peptides_for_cognition/",
+  "author_hash": "1dba18fc0ce08426c19d8fed89f23ce8049f110f219b560bc4a91c3a5719455b",
+  "confidence_tier": 4,
+  "date_published": "2021-05-24T23:43:17-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "nasal",
+      "frequency": "sometimes",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "before workout, down to once a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "dose_value": 1000,
+      "dose_unit": "IU",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "2 to 3 times per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Oxytocin",
+      "name_normalized": "oxytocin",
+      "category": "hormonal",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "ARA-290",
+      "name_normalized": "ara_290",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Semax works",
+      "severity": "moderate"
+    },
+    {
+      "category": "libido",
+      "description": "PT141 works",
+      "severity": "moderate"
+    },
+    {
+      "category": "anti_aging",
+      "description": "HGH frag - sees a difference, though some don't notice anything",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "immune",
+      "description": "TB-500 causes full-blown flu-like symptoms",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Regular regimen includes stack of multiple peptides. User notes effects are limited based on individual biology, dosage, and advancement of condition. Has used many peptides including Semax (works), Selank (unsure of results), PT-141 (works), Oxytocin (no results), TB-500 (causes adverse reaction). Planning to try Cerebrolysin and ARA-290.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.131461Z"
+}

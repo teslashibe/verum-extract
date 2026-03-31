@@ -1,0 +1,45 @@
+{
+  "id": "01dd6527-97b9-4391-970c-953964948450",
+  "source_id": "1ridbfy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ridbfy/newbie_wanting_to_start_reta/",
+  "author_hash": "a94632f6d14a53b457549afee9c22b485c3ed028acd1c23c0f413821e20e1834",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T15:55:54-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "kills cravings, helps with alcohol cravings",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "fast weight loss with adherence",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "appetite suppression hits hard at first, may need to remind oneself to eat",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Typical starting dose 2-4mg, work up slowly. Recommends water intake and electrolytes. Suggests Reta alone is potent enough without stacking Tirzepatide. Emphasizes listening to body and not rushing dose increases.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.670071Z"
+}

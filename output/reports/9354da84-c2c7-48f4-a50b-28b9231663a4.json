@@ -1,0 +1,70 @@
+{
+  "id": "9354da84-c2c7-48f4-a50b-28b9231663a4",
+  "source_id": "1q4cac2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q4cac2/semax_selank_vs_the_upgraded_versions_adamax/",
+  "author_hash": "004251ba16058d398dede6f36a543de04bfaa781762de7e88f4c674c0d793c1e",
+  "confidence_tier": 4,
+  "date_published": "2026-01-04T20:43:08-08:00",
+  "health_conditions": [
+    "ADHD"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "nasal",
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "nasal",
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "nasal",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "nasal",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "memory",
+      "description": "help my memory and focus slightly if I wasn't on my ADHD meds",
+      "severity": "mild"
+    },
+    {
+      "category": "cognitive",
+      "description": "help my memory and focus slightly if I wasn't on my ADHD meds",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Tested intranasal Adalank, Adamax, and NA-amidate versions of both Selank and Semax. Takes stimulants for ADHD not every day due to side effects. Dose range reported as 100-400 mcg per day of each compound.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.388077Z"
+}

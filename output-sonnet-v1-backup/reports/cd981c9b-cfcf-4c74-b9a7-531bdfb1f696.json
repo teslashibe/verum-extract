@@ -1,0 +1,44 @@
+{
+  "id": "cd981c9b-cfcf-4c74-b9a7-531bdfb1f696",
+  "source_id": "1s800vf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s800vf/tesamorelin_negative_reaction/",
+  "author_hash": "2262952a4d0ea76aca662401c058783aa143f533de2c1184f254f10a3f5dedd9",
+  "confidence_tier": 5,
+  "date_published": "2026-03-30T12:06:22-07:00",
+  "training_status": "active (mentions gym)",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "IGF1",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "post-workout",
+      "cycle_length_days": 2,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "nightly before bed",
+      "cycle_length_days": 2,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Sting at injection site on day 1, mild. Day 2 developed a welt resembling a spider bite with apparent inflammation.",
+      "severity": "moderate",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "Only 2 days into peptide use. IGF-1 taken post-gym, Tesamorelin taken before bed. Injection site reaction occurred on second dose of Tesamorelin.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.102631Z"
+}

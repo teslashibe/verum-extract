@@ -1,0 +1,50 @@
+{
+  "id": "43b906b2-e396-4379-bcd9-9cfdc0baf503",
+  "source_id": "1q2wmyd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q2wmyd/epithalon_experience/",
+  "author_hash": "7ba183fb4099dc878ffc8efd626f05915d341be009082fb69f3ad9386cdfe8c1",
+  "confidence_tier": 4,
+  "date_published": "2026-01-03T06:59:02-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "better sleep",
+      "severity": "moderate"
+    },
+    {
+      "category": "cognitive",
+      "description": "mental clarity, hyper focused",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "better overall",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Ran 1mg for 10 days, planning another cycle at possibly 2mg. Stacked with SS-31 simultaneously. Planning another cycle of both compounds.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.388193Z"
+}

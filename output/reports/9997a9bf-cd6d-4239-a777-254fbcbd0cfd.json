@@ -1,0 +1,61 @@
+{
+  "id": "9997a9bf-cd6d-4239-a777-254fbcbd0cfd",
+  "source_id": "1r2txhz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2txhz/wolverine_stack_with_trt_and_tesamorelin/",
+  "author_hash": "a48fa64c6a6f9361beaccf67b37e29c37deef528b7252d62bdeb334f10742e97",
+  "confidence_tier": 4,
+  "date_published": "2026-02-12T05:50:18-08:00",
+  "training_status": "active_training",
+  "health_conditions": [
+    "elbow injury"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Amazing results for elbow healing on week 2",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "fat_loss",
+      "description": "Decreased body fat",
+      "severity": "moderate"
+    },
+    {
+      "category": "endurance",
+      "description": "Less nausea, can take corners and turns in car at higher speeds without feeling g-forces",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Initial nausea that decreased",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Wolverine stack. Week 2 of protocol. Recommends stopping all activity that hurts elbow and performing rehab stretches and reverse wrist curls with low weight (5lbs) to allow healing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.664572Z"
+}

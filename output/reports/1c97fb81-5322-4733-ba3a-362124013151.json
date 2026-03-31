@@ -1,0 +1,63 @@
+{
+  "id": "1c97fb81-5322-4733-ba3a-362124013151",
+  "source_id": "1mlauja",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mlauja/his_hers/",
+  "author_hash": "c9167085cc046cb87811678401b84386ae72a0fac6592f53700a561afabbe92e",
+  "confidence_tier": 4,
+  "date_published": "2025-08-08T16:47:49-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 160,
+      "frequency": "twice weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Testosterone",
+      "value_after": 1250
+    }
+  ],
+  "protocol_notes": "His stack: NAD, Testosterone (160 mcg split Monday and Thursday, averaging 1250), AOD/CJC, BPC157/TB500 x2. Pins daily. Wife administers injections. Using peptide pens/reusable injection pens from Pen Depot ($30 each). Preloaded syringes stored in refrigerator.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.401846Z"
+}

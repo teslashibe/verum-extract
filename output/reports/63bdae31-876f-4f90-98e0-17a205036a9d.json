@@ -1,0 +1,50 @@
+{
+  "id": "63bdae31-876f-4f90-98e0-17a205036a9d",
+  "source_id": "1r9rtny",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9rtny/adding_tesamorelin/",
+  "author_hash": "7eced37680c65cbaf4c17a1bd591573dd6d89ff02b38351b695af850f1e07e8a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-20T02:26:49-08:00",
+  "health_conditions": [
+    "secondary adrenal insufficiency",
+    "cortisol replacement dependent"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "daily (injected at 3pm)",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Belt tightened two notches, belly bulge reduced. Effects persisted after stopping Tesamorelin.",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Sudden waking if injected before bed; resolved by switching injection time to 3pm",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Stacked with Retatrutide. Using Tesamorelin specifically to target visceral fat accumulation from cortisol replacement therapy. Optimized timing to 3pm to avoid sleep disruption. Planning another multi-week cycle.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661744Z"
+}

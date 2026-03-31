@@ -1,0 +1,42 @@
+{
+  "id": "049dec57-8c09-486a-b1cb-72a20a30af6f",
+  "source_id": "1qtzwq8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtzwq8/concern_about_reta_effectiveness/",
+  "author_hash": "5fe408d8827699a92aada97060dde392cf21c41ca299ab3086436c017ce7dcfc",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T08:34:00-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "frequency": "weekly",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cardiovascular",
+      "description": "Long term benefits for cardiac health",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Starting dose was 3mg as suggested by doctor. Rotates Tirzepatide and Retatrutide weekly. Notes Reta is not a hard hitter for immediate weight loss and appetite control but is amazing long term, especially for cardiac health.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.680908Z"
+}

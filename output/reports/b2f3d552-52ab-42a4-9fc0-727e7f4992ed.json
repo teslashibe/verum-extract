@@ -1,0 +1,62 @@
+{
+  "id": "b2f3d552-52ab-42a4-9fc0-727e7f4992ed",
+  "source_id": "1m9uo79",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m9uo79/ghkcu_stopped_my_hair_fall/",
+  "author_hash": "b482a01c6063fb1c430d8e46a76f8a5234d00a239615ce4913c2714ffab282df",
+  "confidence_tier": 4,
+  "date_published": "2025-07-26T07:27:20-07:00",
+  "reported_weight": {
+    "value": 56,
+    "unit": "kg"
+  },
+  "health_conditions": [
+    "extreme hair fall"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily (initial), adjusted after 4 days",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "stopped extreme hair fall that was clogging shower drain",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "skin became more beautiful, anti-aging effects",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "headache",
+      "description": "headache when dosing 2mg (20 units), resolved when lowered to 1mg (10 units)",
+      "severity": "moderate",
+      "onset_days": 4,
+      "resolved": true
+    },
+    {
+      "category": "injection_site",
+      "description": "sting upon injection with 3ml bac water reconstitution, reduced with 10ml reconstitution",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "reconstituted with 10ml bac water; injected subcutaneously in belly; planning 2 months on, 1 month off cycle; started at 2mg for 4 days before reducing to 1mg due to headache tolerance; low body weight (56kg) attributed to dose intolerance",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.686476Z"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "97763660-c513-4f39-bcbe-0dcf160e7241",
+  "source_id": "10umccs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/10umccs/bpc157_and_tb500_cured_my_chronic_pain_success/",
+  "author_hash": "dc72f59b2ffbbfff2879e32e8a6e00fb8670a4203af3ba123f2c4497fa5455a1",
+  "confidence_tier": 5,
+  "date_published": "2023-02-05T12:20:10-08:00",
+  "training_status": "can go to gym more, walk further",
+  "health_conditions": [
+    "chronic back pain"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Less days spent in bed unable to move from chronic back pain. Able to go to gym more and walk further.",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Insane dreams and nightmares from BPC/TB500.",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Month 1 of BPC-157, week 1 of TB-500 at time of comment. Chronic back pain for over 1 year.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.128672Z"
+}

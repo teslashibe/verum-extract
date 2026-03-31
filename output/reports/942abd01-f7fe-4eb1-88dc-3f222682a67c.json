@@ -1,0 +1,45 @@
+{
+  "id": "942abd01-f7fe-4eb1-88dc-3f222682a67c",
+  "source_id": "1qvth9x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qvth9x/cagri/",
+  "author_hash": "ce02f3648ec64f3367a3379848719e5fc87b9a7178e7d1cf25cd6e992898a84c",
+  "confidence_tier": 4,
+  "date_published": "2026-02-04T08:39:30-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "dose_value": 750,
+      "dose_unit": "mcg",
+      "frequency": "2x per week",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Cagrilintide effective at higher doses",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Switched from Tirzepatide to Retatrutide over a month ago; ramping up Retatrutide while supplementing with Cagrilintide at 750mcg almost 2x per week",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.680016Z"
+}

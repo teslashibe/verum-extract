@@ -1,0 +1,44 @@
+{
+  "id": "205a2f02-6311-4be9-8ab7-73574890959d",
+  "source_id": "1qxsxsd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxsxsd/peptides_curiosity/",
+  "author_hash": "16e43d769e3debaff344acd55452194a00d40979b8885488bb0ed8f6cb1fddfa",
+  "confidence_tier": 4,
+  "date_published": "2026-02-06T12:28:40-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x weekly (Sundays and Wednesdays)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "mt2",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "every other day",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Perception of time slowing down - days feel much longer than usual",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Uses MT2 every other day due to limited sun exposure. Questioning whether to dose Reta every 3 days instead of current schedule. Time distortion effect noted, possibly placebo.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.12075Z"
+}

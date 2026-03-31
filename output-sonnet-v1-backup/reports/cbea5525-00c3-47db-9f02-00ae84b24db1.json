@@ -1,0 +1,36 @@
+{
+  "id": "cbea5525-00c3-47db-9f02-00ae84b24db1",
+  "source_id": "o4xqfn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/o4xqfn/started_bpc_yesterday/",
+  "author_hash": "e627055bf2b0658ffb1142b10042572b656f352211669108776fd4da1f6195d3",
+  "confidence_tier": 4,
+  "date_published": "2021-06-21T08:28:37-07:00",
+  "health_conditions": [
+    "possible shoulder tendinitis (diagnosis pending)"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Massive change in bowel habits: more frequent and softer stools despite subcutaneous injection in delt",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "One week on BPC-157 at 250mcg once daily, subcutaneous injection in delt. Little effect on shoulder, planning to increase to 500mcg.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.429803Z"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "dddc45d2-3d93-4b2c-b100-d2c0dcda47f0",
+  "source_id": "1r3vlzo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r3vlzo/is_ghkcu_better_taken_injecting_or_through/",
+  "author_hash": "0b52d8b85b726b4f3c9587fd88b3fe84d4b99960c98ddca8a336611d7686df30",
+  "confidence_tier": 4,
+  "date_published": "2026-02-13T09:37:06-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Face is really smooth",
+      "severity": "significant"
+    },
+    {
+      "category": "hair",
+      "description": "Hair growing in super nice and thick",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Mixes GHK-Cu with The Ordinary Hyaluronic Acid topical. Uses sterile water to dissolve GHK-Cu before adding to topical formulation. Sometimes takes one day off per week randomly from daily dosing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.676527Z"
+}

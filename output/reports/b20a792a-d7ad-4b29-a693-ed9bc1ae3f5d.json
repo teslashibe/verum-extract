@@ -1,0 +1,46 @@
+{
+  "id": "b20a792a-d7ad-4b29-a693-ed9bc1ae3f5d",
+  "source_id": "1omu3fq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1omu3fq/trying_to_figure_out_how_much_glow_to_inject/",
+  "author_hash": "8d15966155bb92c2eeb426dabcbb5734270c5f21034dfb3e04f5bba044393fa7",
+  "confidence_tier": 5,
+  "date_published": "2025-11-02T13:54:25-08:00",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "units",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "units",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "units",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Dose recommendation for GLOW blend: 10-12 units daily with stated dilution (70mg in 3ml bac water).",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.678233Z"
+}

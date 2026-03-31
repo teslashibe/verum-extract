@@ -1,0 +1,60 @@
+{
+  "id": "077448df-d9cb-4c42-b65f-86dc9fab6e44",
+  "source_id": "18n23iq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/18n23iq/bpc157_and_my_libido/",
+  "author_hash": "f1ae0ce9baac00ba3d9088334f2a71d19388e8d91e0c4f50ff7a7c9b68626e15",
+  "confidence_tier": 4,
+  "date_published": "2023-12-20T10:51:57-08:00",
+  "reported_sex": "male",
+  "training_status": "training (tendon issues)",
+  "health_conditions": [
+    "tendon pain"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "libido",
+      "description": "The iron is strong as Tungsten (strong erection effect)",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Pain in tendons is already gone",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "mood",
+      "description": "Feeling great so far",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "dizziness",
+      "description": "Light dizziness the first day",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "First week on BPC-157, confirms libido and injury healing benefits",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.699676Z"
+}

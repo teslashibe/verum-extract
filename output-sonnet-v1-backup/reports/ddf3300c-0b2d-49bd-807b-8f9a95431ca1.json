@@ -1,0 +1,73 @@
+{
+  "id": "ddf3300c-0b2d-49bd-807b-8f9a95431ca1",
+  "source_id": "1rsffnd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rsffnd/night_shift_work_new/",
+  "author_hash": "f878b42fdcb7cddc706aec219d129af4a02aabb5c45bd83026882947db670cdf",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T23:07:11-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "training_status": "heavy physical labor (night shift work)",
+  "health_conditions": [
+    "post-TRT recovery",
+    "visceral fat",
+    "exhaustion from night shift",
+    "sleep disruption"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 on 2 off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Kisspeptin",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "4 on 2 off, escalating to 1000mcg after 5/2",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Using Tesa mainly for visceral fat reduction"
+    },
+    {
+      "category": "sleep",
+      "description": "Tesa noted to also help with sleep",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Exhausted after every night shift, can barely function at home",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Post-TRT recovery using Kisspeptin. Planning to switch from Tesa to IPA/CJC after visceral fat is addressed. Researching MOTSC, SS-31, NAD+ for energy and DSIP or Melatonin for circadian rhythm support due to night shift work.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109106Z"
+}

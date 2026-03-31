@@ -1,0 +1,77 @@
+{
+  "id": "6d6a8272-0364-4283-a5f6-e68cb7464ee6",
+  "source_id": "1ktzjt5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ktzjt5/would_i_benefit_from_reta/",
+  "author_hash": "bc47a28e11df77c1f77d59208be81cf51aaa93114af8577fe847d92dfcf24e24",
+  "confidence_tier": 4,
+  "date_published": "2025-05-23T18:03:50-07:00",
+  "reported_weight": {
+    "value": 172,
+    "unit": "lbs"
+  },
+  "training_status": "runner",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "frequency": "2x per week",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "dose_value": 140,
+      "dose_unit": "mg",
+      "frequency": "per week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Hexarelin",
+      "name_normalized": "hexarelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Kisspeptin",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "went from 183 to 172 lbs in first month on Reta",
+      "severity": "significant",
+      "onset_days": 30
+    }
+  ],
+  "protocol_notes": "5'7\", runner, on TRT. First month on Reta: 183 to 172 lbs. Recommends dosing for 2x/week injections, waiting a month before increasing dose. Also on hexarelin but planning to transition to Ipamorelin and CJC-1295. Using SS-31. Takes kisspeptin to keep testicular function on TRT. Notes that calorie restriction makes energy difficult even without hunger.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.690702Z"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "b9ad3b47-b043-4c0d-8196-5b1020515fb5",
+  "source_id": "1mpzkut",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mpzkut/easiest_18_lbs_i_ever_lost_50_m_5_9/",
+  "author_hash": "ec6004326573916c766ea1ac1d88a4c984422c3edbefef19b7b82b256c7793b5",
+  "confidence_tier": 4,
+  "date_published": "2025-08-14T05:42:34-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 50,
+    "unit": "lbs"
+  },
+  "training_status": "slow running/walking, Zone 2-3 heart rate training",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "every 7 days",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "every 7 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 18 lbs over approximately 4-5 weeks",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Reduced food noise and appetite control; moved from 2 meals to 1 meal per day with 1-hour eating window; portion sizes decreased considerably; fullness signal fires earlier",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Body fat decreased from 25.6% to 15.9%; visible fat loss in face, gut, hips, and buttocks; muscle mass remained stable per scale",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Wasn't feeling it on days 5-7 of initial dosing",
+      "severity": "mild",
+      "onset_days": 5
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_fat_percentage",
+      "value_before": 25.6,
+      "value_after": 15.9,
+      "unit": "%"
+    },
+    {
+      "marker_name": "muscle_mass"
+    }
+  ],
+  "protocol_notes": "5'9\" male, 50 years old. Previously tried South Beach, Keto, Carnivore diets with weight regain. Started with 0.5 mg weekly for approximately 4 weeks, then switched to 1.0 mg weekly. Combined with lifestyle changes: 2 meals to 1 meal per day, primarily healthy proteins and carbs with occasional frozen treats, slow walking/pacing with inclines (Zone 2-3 cardio), eliminated jogging/running. Reported no prior GLP experience. No libido issues noted. Scale used was a $30 body composition scale with app (noted as potentially inaccurate). Currently at 15% body fat, aiming for 10%.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.6847Z"
+}

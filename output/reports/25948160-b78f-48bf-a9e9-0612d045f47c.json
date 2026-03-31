@@ -1,0 +1,42 @@
+{
+  "id": "25948160-b78f-48bf-a9e9-0612d045f47c",
+  "source_id": "1s800vf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s800vf/tesamorelin_negative_reaction/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2026-03-30T12:06:22-07:00",
+  "training_status": "trains (mentions gym)",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "post-gym",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "bedtime",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Stinging sensation and welt resembling spider bite at injection site on day 2 of use",
+      "severity": "moderate",
+      "onset_days": 2
+    }
+  ],
+  "protocol_notes": "Second day of peptide use. First injection (day 1) caused only minor stinging. Second injection (day 2) caused more significant irritation with welt formation. Injecting in abdominal area (mid-tummy).",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.644707Z"
+}

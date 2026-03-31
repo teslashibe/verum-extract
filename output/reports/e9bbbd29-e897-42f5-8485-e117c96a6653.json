@@ -1,0 +1,49 @@
+{
+  "id": "e9bbbd29-e897-42f5-8485-e117c96a6653",
+  "source_id": "1o051fw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o051fw/what_peptide_can_i_stack_with_reta_to_keep_gain/",
+  "author_hash": "17618a7f137acca39a9e2fe33b6fa9402c871d053edb0192da7135c5bd8b075b",
+  "confidence_tier": 4,
+  "date_published": "2025-10-06T21:21:17-07:00",
+  "reported_sex": "male",
+  "training_status": "resistance training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 75lbs since 6/3/25",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "muscle_loss",
+      "description": "Lost some muscle despite strength retention",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "240g protein per day. Lost 75lbs from 6/3/25 with minimal strength loss. Estimated 7% muscle loss overall.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.396347Z"
+}

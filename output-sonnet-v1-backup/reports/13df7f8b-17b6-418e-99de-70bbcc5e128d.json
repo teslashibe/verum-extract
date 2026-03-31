@@ -1,0 +1,50 @@
+{
+  "id": "13df7f8b-17b6-418e-99de-70bbcc5e128d",
+  "source_id": "1rr0t07",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr0t07/i_am_currently_taking_bpc_tb_and_ghk_i_plan_on/",
+  "author_hash": "6f83d0e3c4fc257abe89abd7d48bb77b6b890f6e50f3ec2bae338adf4ba3228b",
+  "confidence_tier": 5,
+  "date_published": "2026-03-11T10:47:53-07:00",
+  "reported_age_range": "40-49",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "daily (implied over 4-week cycle)",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "3x per week before workouts",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Protocol aimed at cellular repair and energy improvement, anecdotal results from clinics described as good"
+    }
+  ],
+  "protocol_notes": "User is 43 years old and considering (not yet running) this protocol. Protocol from clinics: 4 weeks SS-31 4mg with NAD+, then 6 weeks MOTS-c 5mg 3x/week before workouts with NAD+. Described as experimental with anecdotal results.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109753Z"
+}

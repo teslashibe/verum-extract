@@ -1,0 +1,50 @@
+{
+  "id": "ee7b7409-903f-4ebb-baad-09f21c0ab525",
+  "source_id": "1n1bxxx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n1bxxx/first_injection_of_cjc_no_dac_ipa_5mg5mg_mix/",
+  "author_hash": "9aced6c4f750e7d15304345e75ba91051f44bbf03471bbf070a85bb02414475a",
+  "confidence_tier": 4,
+  "date_published": "2025-08-27T02:02:47-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Flushing and increased heart rate post-injection, normal response",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "anxiety",
+      "description": "Psyches self out about injections, uses monitoring equipment to manage anxiety",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Same blend as OP. Reconstituted with 1mL bacteriostatic water at 4IU (100mcg) dose. Started cycle last week. Recommends fasted injection state. Uses blood pressure cuff, oximeter, and glucometer to manage anxiety and rule out physiological causes of symptoms.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.683437Z"
+}

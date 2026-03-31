@@ -1,0 +1,72 @@
+{
+  "id": "c92e8138-88f8-4c7c-ac00-64946a3a34d6",
+  "source_id": "1rsffnd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rsffnd/night_shift_work_new/",
+  "author_hash": "bafdc7edbdda86a514e1cc605cd891b615706caca9f71bb50475ecb287284e3e",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T23:07:11-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "training_status": "heavy physical work",
+  "health_conditions": [
+    "post-TRT recovery"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 days on / 2 days off",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Kisspeptin",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "varied: 500mcg for 2 weeks, then 1000mcg after 5/2 cycle",
+      "cycle_length_days": 6,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Tesamorelin for visceral fat reduction"
+    },
+    {
+      "category": "sleep",
+      "description": "Tesamorelin helps with sleep"
+    },
+    {
+      "category": "recovery",
+      "description": "Kisspeptin for post-TRT recovery"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Exhausted after every shift and can barely function at home",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Planning to switch to Ipamorelin/CJC-1295 after visceral fat reduction. Seeking advice on energy support (MOTS-c, SS-31, NAD+) and sleep optimization while on night shift. Currently on post-TRT recovery protocol.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.664749Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "9da4da58-72e4-4359-bd87-3eb1bb2e9630",
+  "source_id": "1pwxe25",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pwxe25/cagrilintide/",
+  "author_hash": "dcb073492dd28bffd1d2e4ce3d69814650f2443037a2bca9b0430a39aabbfb52",
+  "confidence_tier": 4,
+  "date_published": "2025-12-27T05:05:32-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.125,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Effective appetite suppression",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Could not eat for 3 days on 0.25mg; took 0.50mg and couldn't eat for three days",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolution_days": 3
+    }
+  ],
+  "protocol_notes": "Prefers 0.125mg effective dose. Also took 0.50mg dose and experienced severe appetite suppression lasting 3 days. Reports being hyperresponsive to GLP-1 class drugs.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.672958Z"
+}

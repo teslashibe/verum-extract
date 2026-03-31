@@ -1,0 +1,145 @@
+{
+  "compound_id": "hcg",
+  "display_name": "HCG",
+  "category": "hormonal",
+  "total_reports": 29,
+  "reports_by_tier": {
+    "3": 1,
+    "4": 18,
+    "5": 10
+  },
+  "top_benefits": [
+    {
+      "category": "other",
+      "count": 12,
+      "pct": 63.2
+    },
+    {
+      "category": "fat_loss",
+      "count": 5,
+      "pct": 26.3
+    },
+    {
+      "category": "muscle_gain",
+      "count": 4,
+      "pct": 21.1
+    },
+    {
+      "category": "anti_aging",
+      "count": 2,
+      "pct": 10.5
+    },
+    {
+      "category": "libido",
+      "count": 2,
+      "pct": 10.5
+    },
+    {
+      "category": "skin",
+      "count": 2,
+      "pct": 10.5
+    },
+    {
+      "category": "energy",
+      "count": 1,
+      "pct": 5.3
+    },
+    {
+      "category": "injury_healing",
+      "count": 1,
+      "pct": 5.3
+    },
+    {
+      "category": "cognitive",
+      "count": 1,
+      "pct": 5.3
+    },
+    {
+      "category": "appetite_suppression",
+      "count": 1,
+      "pct": 5.3
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "other",
+      "count": 7,
+      "pct": 36.8,
+      "avg_severity": 2.3
+    },
+    {
+      "category": "libido_change",
+      "count": 1,
+      "pct": 5.3,
+      "avg_severity": 3
+    },
+    {
+      "category": "appetite_change",
+      "count": 1,
+      "pct": 5.3,
+      "avg_severity": 2
+    },
+    {
+      "category": "sleep_disruption",
+      "count": 1,
+      "pct": 5.3,
+      "avg_severity": 0
+    },
+    {
+      "category": "mood_change",
+      "count": 1,
+      "pct": 5.3,
+      "avg_severity": 2
+    },
+    {
+      "category": "numbness_tingling",
+      "count": 1,
+      "pct": 5.3,
+      "avg_severity": 1
+    },
+    {
+      "category": "injection_site",
+      "count": 1,
+      "pct": 5.3,
+      "avg_severity": 1
+    }
+  ],
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "hgh",
+      "display_name": "HGH",
+      "report_count": 7
+    },
+    {
+      "compound_id": "tb_500",
+      "display_name": "TB500",
+      "report_count": 7
+    },
+    {
+      "compound_id": "bpc_157",
+      "display_name": "BPC157",
+      "report_count": 5
+    },
+    {
+      "compound_id": "tesamorelin",
+      "display_name": "Tesamorelin",
+      "report_count": 5
+    },
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Retatrutide",
+      "report_count": 4
+    }
+  ],
+  "avg_cycle_length_days": 101,
+  "avg_sentiment_score": 0.741,
+  "sentiment_breakdown": {
+    "positive": 18,
+    "mixed": 5,
+    "negative": 2,
+    "neutral": 4
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.970288Z"
+}

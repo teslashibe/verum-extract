@@ -1,0 +1,46 @@
+{
+  "id": "25abf8a1-9a08-46dd-bce4-57910532ae90",
+  "source_id": "1rrf507",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rrf507/is_this_normal_for_hgh/",
+  "author_hash": "604a67dd183449f422868694d63622418d7a382f51502ded6925e425a590ad86",
+  "confidence_tier": 4,
+  "date_published": "2026-03-11T19:54:07-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 15,
+      "dose_unit": "IU",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "White particles/precipitation visible in reconstituted HGH vial after 2 hours in fridge",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "15 IU vial reconstituted with 1.5 mL BAC water. Mixed and immediately refrigerated. Observed white particles after 2 hours in fridge. User decided not to use the batch due to suspected bad batch/denaturation. Also uses GHK-Cu and BPC-157 with same BAC water source without issues.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.665199Z"
+}

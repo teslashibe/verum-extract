@@ -1,0 +1,37 @@
+{
+  "id": "12ee1cd9-aa71-4c26-b15d-2b6097c77bed",
+  "source_id": "1r2867m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2867m/tesamorelin_ghkcu/",
+  "author_hash": "86eec75ef557a258180c6553e5a65998fa4d2b742d33218d8a4c02ce2f01d268",
+  "confidence_tier": 5,
+  "date_published": "2026-02-11T12:11:38-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "ghk",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "frequency": "daily (every night)",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "frequency": "daily (every night)",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Stacking GHK-Cu and Tesamorelin in the same syringe nightly for 2 weeks. Dose values are in mL (volume), not mcg/mg — actual dose in mass units unknown. Asking about safety of mixing in same syringe.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.119015Z"
+}

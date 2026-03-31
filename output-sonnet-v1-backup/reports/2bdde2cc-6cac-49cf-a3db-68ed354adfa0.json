@@ -1,0 +1,58 @@
+{
+  "id": "2bdde2cc-6cac-49cf-a3db-68ed354adfa0",
+  "source_id": "1on3ujc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1on3ujc/6_week_transformation_on_reta/",
+  "author_hash": "ffe4d16395cf08b429b3ae786a45daf846a08c9ca56477a977d471c37095fe0e",
+  "confidence_tier": 5,
+  "date_published": "2025-11-02T21:43:05-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "cjca",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep has been great on CJC/Ipamorelin stack",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "CJC increased hunger, possibly counteracting appetite suppression from reta",
+      "severity": "moderate"
+    },
+    {
+      "category": "water_retention",
+      "description": "Water weight increase noted, attributed to CJC"
+    },
+    {
+      "category": "other",
+      "description": "Not feeling the expected effects of reta, potentially counteracted by CJC-induced hunger",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User is stacking CJC (type unspecified, with or without DAC not clarified) and Ipamorelin with Retatrutide. Notes CJC may be counteracting reta's appetite suppression.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.265866Z"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "07faf2e0-7b86-4070-9016-6d3e64570e95",
+  "source_id": "1pqah67",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pqah67/on_the_fence_with_ghk_cu/",
+  "author_hash": "71ac552cbd5a41f7ef58fd19110308e9e3b02e1a882a989e6020d211beded3de",
+  "confidence_tier": 4,
+  "date_published": "2025-12-18T19:14:59-08:00",
+  "health_conditions": [
+    "lipodermatosclerosis",
+    "loose skin"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "as needed with GHK-Cu",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Loose skin shrinking, skin texture improvement, softness and smoothness",
+      "severity": "moderate",
+      "onset_days": 10
+    },
+    {
+      "category": "anti_aging",
+      "description": "Wood-like skin texture reduction in lipodermatosclerosis",
+      "severity": "significant",
+      "onset_days": 60
+    },
+    {
+      "category": "skin",
+      "description": "Scar appearance diminishment",
+      "severity": "moderate"
+    },
+    {
+      "category": "hair",
+      "description": "More healthy hair appearance",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Severe burning sting at injection site, sleep disruption from pain",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "hormonal",
+      "description": "Elevated copper levels from daily dosing without adequate zinc supplementation",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Lost 60+ pounds. Uses 2mg dose (full). Reports being in 1% hyper-sensitive group for stinging. Mitigates sting by diluting with extra BAC water and mixing with BPC-157. Takes zinc picolinate supplement daily. Uses collagen peptides, Vitamin C, bio-silica, and red light therapy alongside GHK-Cu. Notes typical dose range 2-3mg with diminishing returns. Also uses topically mixed with sterile water and hyaluronic acid. Mentions injectable copper grade and cosmetic grade options.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.674028Z"
+}

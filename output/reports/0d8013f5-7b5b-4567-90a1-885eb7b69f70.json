@@ -1,0 +1,42 @@
+{
+  "id": "0d8013f5-7b5b-4567-90a1-885eb7b69f70",
+  "source_id": "1r0s7q3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r0s7q3/glutathione_dosing_for_skin_lightening/",
+  "author_hash": "d2c25237ad8e4063a7d735e3766f22d1db40f8dec1662307ea50f005412264dd",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T21:25:05-08:00",
+  "compounds": [
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "route": "intramuscular",
+      "dose_value": 3000,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Vitamin C",
+      "name_normalized": "vitamin_d",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 2500,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "skin lightening"
+    }
+  ],
+  "protocol_notes": "Recommends stacking glutathione with injectable vitamin C (2000-3000mg) for enhanced efficacy. Notes that oral vitamin C has only ~10% absorption and limited uptake capacity.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665523Z"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "682448cf-d7fa-4cd8-b0c1-c2c56de5c27a",
+  "source_id": "1mak38c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mak38c/update_after_14_days_of_starting_peptides/",
+  "author_hash": "80253c8c427ff34262847358cb0889d55da08e3ebb5994bf80fa025d00c7e959",
+  "confidence_tier": 4,
+  "date_published": "2025-07-27T04:35:31-07:00",
+  "health_conditions": [
+    "post-knee surgery",
+    "bone graft"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Rapid wound healing after knee surgery and bone graft; surgeon and nurses reported extremely fast healing",
+      "severity": "significant",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "Started BPC-157 1mg ED and TB-500 5mg EOD; added GHK-Cu recently (14 days total peptide use). Post-knee surgery with bone graft. Visible wound healing improvement documented with photos.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.686348Z"
+}

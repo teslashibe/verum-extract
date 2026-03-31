@@ -1,0 +1,70 @@
+{
+  "compound_id": "vilon",
+  "display_name": "Vilon",
+  "category": "other",
+  "total_reports": 4,
+  "reports_by_tier": {
+    "4": 3,
+    "5": 1
+  },
+  "top_benefits": [
+    {
+      "category": "vision_change",
+      "count": 1,
+      "pct": 33.3
+    },
+    {
+      "category": "eye_health",
+      "count": 1,
+      "pct": 33.3
+    },
+    {
+      "category": "cognitive",
+      "count": 1,
+      "pct": 33.3
+    }
+  ],
+  "top_side_effects": null,
+  "common_doses": [
+    {
+      "route": "intramuscular",
+      "dose": 1,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 25
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "thymosin_alpha_1",
+      "display_name": "Thymosin Alpha-1",
+      "report_count": 3
+    },
+    {
+      "compound_id": "epithalon",
+      "display_name": "Epitalon",
+      "report_count": 2
+    },
+    {
+      "compound_id": "crystagen",
+      "display_name": "Crystagen",
+      "report_count": 1
+    },
+    {
+      "compound_id": "thymogen",
+      "display_name": "Thymogen",
+      "report_count": 1
+    }
+  ],
+  "avg_cycle_length_days": 16.7,
+  "avg_sentiment_score": 0.438,
+  "sentiment_breakdown": {
+    "positive": 1,
+    "mixed": 0,
+    "negative": 0,
+    "neutral": 3
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T04:48:57.365919Z"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "1f1530f3-5e5e-479b-99e0-7281027bd5a3",
+  "source_id": "1acxqzz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1acxqzz/my_experience_rates_oral_bpc157_on_par_or/",
+  "author_hash": "5cb23f767a70b19b18a893ca72eb59cecbd52efd5ade5ee042a5f0ea85dce4cc",
+  "confidence_tier": 4,
+  "date_published": "2024-01-28T00:07:34-08:00",
+  "health_conditions": [
+    "IBS",
+    "chronic rotator cuff tear",
+    "AC joint injury",
+    "torn hip labrum"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "oral BPC157 arginate",
+      "name_normalized": "oral_bpc157_arginate",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 700,
+      "dose_unit": "mcg",
+      "frequency": "once daily for first week, then twice daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC injectable",
+      "name_normalized": "bpc_injectable",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 450,
+      "dose_unit": "mcg",
+      "frequency": "once daily in the morning",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Brain fog resolved approximately 6 hours after first dose",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "energy",
+      "description": "Chronic fatigue resolved approximately 6 hours after first dose",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "sleep",
+      "description": "Sleep quality dramatically improved; went from waking 4-5 times per night to once; deeper sleep",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "mood",
+      "description": "Felt calm and alert after first dose; overall mental state greatly improved",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "joint_pain",
+      "description": "Pain from rotator cuff, AC joint, and hip labrum improved; flare-up recovery time reduced from 2-3 weeks to 1-2 days",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "gut_health",
+      "description": "IBS symptoms targeted as primary reason for use"
+    }
+  ],
+  "protocol_notes": "Oral BPC taken fasted with no food for 1 hour after dosing for max absorption. Injectable BPC arrived 3 weeks after starting oral; dose titrated from 200mcg up to 450mcg. OP argues injecting near site of injury is bro science and that systemic absorption is the mechanism. Plans to extend cycle beyond 12 weeks.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.29532Z"
+}

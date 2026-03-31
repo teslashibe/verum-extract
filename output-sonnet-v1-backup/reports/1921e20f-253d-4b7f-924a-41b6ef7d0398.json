@@ -1,0 +1,44 @@
+{
+  "id": "1921e20f-253d-4b7f-924a-41b6ef7d0398",
+  "source_id": "1mgzpzz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mgzpzz/whats_up_everyonethis_is_for_those_who_benefited/",
+  "author_hash": "8453826484fd662968957e0c92d61025bbed6d1fcb28fa1fc59cf4362442cc00",
+  "confidence_tier": 5,
+  "date_published": "2025-08-03T17:54:18-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "N-Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Switched to N-Selank and hair loss stopped",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Hair loss more than normal while on Semax",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Switched from Semax to N-Selank due to hair loss side effect.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.276608Z"
+}

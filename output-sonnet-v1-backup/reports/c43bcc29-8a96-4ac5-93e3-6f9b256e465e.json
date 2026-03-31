@@ -1,0 +1,48 @@
+{
+  "id": "c43bcc29-8a96-4ac5-93e3-6f9b256e465e",
+  "source_id": "1rr12jp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr12jp/round_2_of_semaglutide_not_working/",
+  "author_hash": "fb976fbd41a980ccaf440aeb33e6580a3fcdf1d34238c8030ecaf4066074c61c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-11T10:57:01-07:00",
+  "training_status": "cutting",
+  "compounds": [
+    {
+      "name_raw": "Tirze",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Totally killed appetite; got sick just thinking of food the day after first shot; consistently in a 500+ kcal deficit",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Felt tired and sluggish in first week, improved in second week",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 14
+    },
+    {
+      "category": "nausea",
+      "description": "Got sick just thinking of food after first shot",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Currently on 2.5mg Tirzepatide for a cut. Planned 750 kcal deficit but ends up around 500 kcal below that. Very positive response to appetite suppression.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109715Z"
+}

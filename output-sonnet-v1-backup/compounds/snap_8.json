@@ -1,0 +1,108 @@
+{
+  "compound_id": "snap_8",
+  "display_name": "SNAP-8",
+  "category": "skin_cosmetic",
+  "total_reports": 11,
+  "reports_by_tier": {
+    "4": 5,
+    "5": 6
+  },
+  "top_benefits": [
+    {
+      "category": "skin",
+      "count": 5,
+      "pct": 100
+    },
+    {
+      "category": "gut_health",
+      "count": 2,
+      "pct": 40
+    },
+    {
+      "category": "energy",
+      "count": 1,
+      "pct": 20
+    },
+    {
+      "category": "cognitive",
+      "count": 1,
+      "pct": 20
+    },
+    {
+      "category": "injury_healing",
+      "count": 1,
+      "pct": 20
+    },
+    {
+      "category": "anti_aging",
+      "count": 1,
+      "pct": 20
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "other",
+      "count": 4,
+      "pct": 80,
+      "avg_severity": 1.5
+    },
+    {
+      "category": "nausea",
+      "count": 1,
+      "pct": 20,
+      "avg_severity": 3
+    },
+    {
+      "category": "injection_site",
+      "count": 1,
+      "pct": 20,
+      "avg_severity": 3
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "topical",
+      "dose": 10,
+      "unit": "mg",
+      "frequency": "",
+      "count": 1,
+      "pct": 9.1
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "ghk_cu",
+      "display_name": "GHK-cu",
+      "report_count": 7
+    },
+    {
+      "compound_id": "klow",
+      "display_name": "GLOW",
+      "report_count": 3
+    },
+    {
+      "compound_id": "hgh",
+      "display_name": "ahk",
+      "report_count": 2
+    },
+    {
+      "compound_id": "kpv",
+      "display_name": "BPC",
+      "report_count": 2
+    },
+    {
+      "compound_id": "hexapeptide_8",
+      "display_name": "hexapeptide-11",
+      "report_count": 2
+    }
+  ],
+  "avg_sentiment_score": 0.841,
+  "sentiment_breakdown": {
+    "positive": 8,
+    "mixed": 2,
+    "negative": 0,
+    "neutral": 1
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.970793Z"
+}

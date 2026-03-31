@@ -1,0 +1,41 @@
+{
+  "id": "4ee193f6-6965-4218-96cb-a1907bd637d7",
+  "source_id": "1reyhc5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1reyhc5/break_between_pinealon_and_epithalon/",
+  "author_hash": "f9ad254eec7ab8fc21b1d1d141f45fe7a556dae2d01799e10d46b256565f3eed",
+  "confidence_tier": 4,
+  "date_published": "2026-02-25T18:52:14-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "pinealon",
+      "name_normalized": "pinealon",
+      "category": "cognitive",
+      "frequency": "daily for 10 days (days 1-10 of cycle)",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "frequency": "daily for 10 days (days 11-20 of cycle)",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "thymalin",
+      "name_normalized": "thymulin",
+      "category": "immune",
+      "frequency": "daily for 10 days (days 21-30 of cycle)",
+      "cycle_length_days": 10,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Sequential rotation: days 1-10 pinealon, days 11-20 epitalon, days 21-30 thymalin. Runs this 2 months in a row then takes 2 months off. Repeats 3 times per year. Rationale loosely based on studies showing significantly increased longevity for those who took epitalon 2x/year for multiple years (reportedly ~6 years). Protocol inspired by Anela protocol for epitalon (10 days on, 20 days off).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114669Z"
+}

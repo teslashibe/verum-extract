@@ -1,0 +1,108 @@
+{
+  "id": "fdc72f2c-3530-4628-afe6-673a3ac056c8",
+  "source_id": "1rs9o3h",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rs9o3h/my_stack_observations_3_weeks_in/",
+  "author_hash": "ba1c5ea822532142289b001ebca2e11b8589d32916d90807c7bb3d6b9329cc0f",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T18:21:31-07:00",
+  "training_status": "6 days per week, 14-18k steps daily, clean diet",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once daily (accidental overdose noted)",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "3x daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "3x daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Down 15+ lbs",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Significant strength gains",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "recovery",
+      "description": "Recovery times could be better but user notes improvement expected",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "A bit of nausea the first week or 2 but nothing bothersome",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 14
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep is still a bit off",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Pinning 3x daily: morning fasted, post-gym (45 min before eating), and before bed fasted. User started training consistently February 25th after being lazy. Training history includes on-and-off gym use for years. Accidental 2mg CJC-1295 overdose on day of reporting. Concurrent creatine use noted as possible confounding variable for strength gains.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.664817Z"
+}

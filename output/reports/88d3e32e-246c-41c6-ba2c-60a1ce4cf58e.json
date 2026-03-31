@@ -1,0 +1,58 @@
+{
+  "id": "88d3e32e-246c-41c6-ba2c-60a1ce4cf58e",
+  "source_id": "1mdymo0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mdymo0/where_can_i_optimize_full_stack_listed/",
+  "author_hash": "e20e0456139b159d94260d47e0be48b9c3653484a1562088b20f2edccea21e0c",
+  "confidence_tier": 4,
+  "date_published": "2025-07-31T04:07:55-07:00",
+  "training_status": "lean",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "every other day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "every other day",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep benefits from CJC/Ipamorelin after first dose",
+      "severity": "moderate",
+      "onset_days": 1
+    },
+    {
+      "category": "energy",
+      "description": "More energy from CJC/Ipamorelin",
+      "severity": "moderate",
+      "onset_days": 1
+    },
+    {
+      "category": "anti_aging",
+      "description": "Taking for aging benefits",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Helps with weight loss",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User states CJC-1295 (No-DAC) and Ipamorelin are one of the safest growth peptides. Considering Tesamorelin for superior fat loss but finds cost prohibitive. Using CJC/Ipa for long-term anti-aging. Already lean, using for anti-aging rather than fat loss primarily.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.402588Z"
+}

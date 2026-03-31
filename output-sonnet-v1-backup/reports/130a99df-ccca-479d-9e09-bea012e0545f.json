@@ -1,0 +1,62 @@
+{
+  "id": "130a99df-ccca-479d-9e09-bea012e0545f",
+  "source_id": "1rfnur9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rfnur9/question_about_retatrutide_effects_beyond/",
+  "author_hash": "e74d35cd0f6a70256c5136dca50493ee99ff0ddd498220052415b47fea3cf026",
+  "confidence_tier": 4,
+  "date_published": "2026-02-26T13:59:45-08:00",
+  "training_status": "sedentary during cycle (stopped going to gym)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "cycle_length_days": 70,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Feels full after small meals; reduced food noise occasionally",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Significant weight/fat loss — describes looking very skinny",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Tired and weak, no motivation to go to the gym",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Significant muscle loss due to not exercising or eating properly",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Pronounced inguinal lymph nodes — visible, not painful, still mobile",
+      "severity": "moderate"
+    },
+    {
+      "category": "nausea",
+      "description": "No nausea reported; stated nausea was the only side effect known to others doing same protocol"
+    }
+  ],
+  "protocol_notes": "Microdosing 1.5mg once weekly for 10 weeks. Stopping due to excessive muscle loss and appearance concerns. Did not exercise or eat properly during the cycle. Many others on same protocol reportedly only experienced nausea.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114508Z"
+}

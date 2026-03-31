@@ -1,0 +1,60 @@
+{
+  "id": "f239e65e-1921-4dcc-b4be-bc9c80b778e4",
+  "source_id": "1ru9j9d",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ru9j9d/tesa_vs_cjcipa/",
+  "author_hash": "63f1d10f4b0844503789667f1c6171b8bb17a7c25dd970ceba81299b996a0cd0",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T02:18:19-07:00",
+  "reported_sex": "female",
+  "reported_weight": {
+    "value": 118,
+    "unit": "lbs"
+  },
+  "training_status": "active gym training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Kisspeptin",
+      "name_normalized": "kisspeptin",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Tirzepatide helping immensely with food noise",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Down from 126 to 118 lbs in 4 weeks",
+      "severity": "significant",
+      "onset_days": 28
+    }
+  ],
+  "protocol_notes": "Female trainee on CJC/IPA stack. Trainer suggested adding Tesamorelin but concerned about appetite increase given success with Tirzepatide appetite suppression. Goal is fat loss (7-10 lbs remaining) and muscle definition in lower body and shoulders.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.651863Z"
+}

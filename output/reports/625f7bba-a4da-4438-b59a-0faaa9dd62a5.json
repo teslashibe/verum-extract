@@ -1,0 +1,43 @@
+{
+  "id": "625f7bba-a4da-4438-b59a-0faaa9dd62a5",
+  "source_id": "1rnyto1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rnyto1/peptide_serums_for_hair_loss/",
+  "author_hash": "43667b96a41325c4248b13001aa904f488f9f6849f8a7c52d8687b2f2bd7dd92",
+  "confidence_tier": 4,
+  "date_published": "2026-03-07T23:45:07-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AHK-Cu",
+      "name_normalized": "ahk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Major improvements in hair growth and density",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started at 5mg GHK-Cu and titrated down to 3mg. AHK-Cu powder added to topical oil combination of batana, rosemary \u0026 pumpkin seed oil, applied every night and washed out in morning. User reports no testing done and notes caution for those with Wilson's Disease due to copper accumulation. Plans to continue daily until desired results achieved, then reduce to several times per week to save money. User sources from China at approximately $5 per 100mg vial.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.655645Z"
+}

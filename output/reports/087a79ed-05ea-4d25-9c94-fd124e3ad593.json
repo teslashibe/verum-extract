@@ -1,0 +1,79 @@
+{
+  "id": "087a79ed-05ea-4d25-9c94-fd124e3ad593",
+  "source_id": "1s5bcdz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s5bcdz/cjc1295_and_ipamorelin/",
+  "author_hash": "649c8626af0cb8d6929b77156b6ef2a1bee6a7b36f0ab5a724ca198fc8cfcc65",
+  "confidence_tier": 4,
+  "date_published": "2026-03-27T10:49:28-07:00",
+  "training_status": "hypertrophy weight training 6 days a week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "cycle_length_days": 70,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "once daily at night",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "once daily at night",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Improved sleep, more vivid dreams, better rested",
+      "severity": "moderate",
+      "onset_days": 14
+    },
+    {
+      "category": "fat_loss",
+      "description": "Additional chance of visceral fat loss",
+      "severity": "mild"
+    },
+    {
+      "category": "fatigue",
+      "description": "Feels less fatigued",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Joint pain and body fatigue at higher dose",
+      "severity": "significant",
+      "onset_days": 3,
+      "resolved": true,
+      "resolution_days": 21
+    }
+  ],
+  "protocol_notes": "Initially tried 250mcg each twice daily (morning and night) for 5 days, developed side effects. After 3 week break, restarted at 250mcg each once nightly (reduced frequency, same dose). Also using TRT and KLOW (low-dose Klotho). Hypertrophy training 6 days weekly.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.657202Z"
+}

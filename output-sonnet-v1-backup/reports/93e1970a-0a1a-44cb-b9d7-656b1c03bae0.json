@@ -1,0 +1,86 @@
+{
+  "id": "93e1970a-0a1a-44cb-b9d7-656b1c03bae0",
+  "source_id": "1qa18sr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qa18sr/nad_and_weight_loss/",
+  "author_hash": "ae58274e7ebaf6a63953e9062bc169c2548083d849345b06ec3151c0bc698e47",
+  "confidence_tier": 4,
+  "date_published": "2026-01-11T06:52:17-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "60+",
+  "health_conditions": [
+    "IBS",
+    "BMI over 32"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 12.5,
+      "dose_unit": "mg",
+      "frequency": "not specified",
+      "cycle_length_days": 240,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 25,
+      "dose_unit": "mg",
+      "frequency": "twice a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesa/IPA",
+      "name_normalized": "tesaipa",
+      "category": "other",
+      "cycle_length_days": 150,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHKCU+KPV",
+      "name_normalized": "ghkcukpv",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss accelerated from 1-1.5 lbs/week average to ~4 lbs/week after starting NAD+; 12 lbs in 2 weeks initially; stabilized to 2.4 lbs/week average over last month; total ~58 lbs down past goal weight",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "energy",
+      "description": "Increased energy noted after starting NAD+"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "NAD+ wrecked sleep"
+    },
+    {
+      "category": "other",
+      "description": "Increased frequency of bathroom trips (not diarrhea) after starting NAD+; had pre-existing IBS",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "NAD+ dose started at 25 mg twice a week, increased to 50 mg after ~2 weeks, with plan to double every 2 weeks up to 100 mg per dose. Powder stored in freezer, reconstituted stored in fridge. Previously cycled Tesa/IPA for 5 months to preserve muscle. Plans to cycle IPA/CJC and increase gym time. On Tirzepatide since at least 8 months prior, at 12-12.5 mg dose since November 21.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.125098Z"
+}

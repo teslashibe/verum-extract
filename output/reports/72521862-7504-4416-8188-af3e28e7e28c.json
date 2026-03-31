@@ -1,0 +1,42 @@
+{
+  "id": "72521862-7504-4416-8188-af3e28e7e28c",
+  "source_id": "1741n7w",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1741n7w/anyone_else_getting_a_prescription_for_their/",
+  "author_hash": "314411ff926e6022f81867dd41149c4f622790ad7a4992765dd3f49aa2f322b4",
+  "confidence_tier": 4,
+  "date_published": "2023-10-09T13:09:56-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "endurance",
+      "description": "a little more strength or stamina in tasks that would generally have taxed me more",
+      "severity": "mild",
+      "onset_days": 21
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "insomnia starting in the first week and weird dreams",
+      "severity": "moderate",
+      "onset_days": 7,
+      "resolved": true,
+      "resolution_days": 14
+    }
+  ],
+  "protocol_notes": "Prescribed by Limitless Male through compounding pharmacy in same state. Initially injected evenings, switched to mornings after 2 weeks to resolve insomnia. Considering alternative route for next round due to high markup costs.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.700377Z"
+}

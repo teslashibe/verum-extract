@@ -1,0 +1,80 @@
+{
+  "id": "15f44b78-2d77-46c9-91ec-8acdb65cce9e",
+  "source_id": "1s029qy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s029qy/my_dad_has_3cm_tears_in_his_rotary_cuff_will/",
+  "author_hash": "e4867455392922272ae79165e529ff7a677d389b7c74021992bc738ef7bbc80c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T13:45:17-07:00",
+  "health_conditions": [
+    "rotator cuff tear (8mm, 27 years old)",
+    "shoulder dislocation",
+    "ankle fracture (3 places, ~2 years prior)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and evening) at front shoulder",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and evening) at back of shoulder",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "morning and evening near ankle",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB 500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Ankle pain dropped from 8/10 to 1/10 with BPC-157 injections near ankle",
+      "severity": "significant",
+      "onset_days": 28
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "rotator cuff tear size (MRI)",
+      "value_before": 8,
+      "unit": "mm",
+      "timeframe_days": 90
+    }
+  ],
+  "protocol_notes": "Local injections at injury site. 500mcg front shoulder, 500mcg back of shoulder, morning and evening dosing for 3-month protocol. Ankle protocol: BPC-157 1mg daily (combined TB-500 and BPC-157). Plans to get follow-up MRI after 3 months. References article suggesting older injuries take longer and local injections are more effective.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105884Z"
+}

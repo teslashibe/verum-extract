@@ -1,0 +1,54 @@
+{
+  "id": "949d2ffa-b3e9-4e7a-a9a3-80878806a20e",
+  "source_id": "1rmijcn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmijcn/sermorelin_or_motsc/",
+  "author_hash": "1b9bbfcb72e935329824301ef769c2964f8912c92efbf428f753e863d26153d4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-06T08:24:57-08:00",
+  "training_status": "lifting until failure every day at the gym",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "weight_change",
+      "description": "Experienced muscle loss despite high protein intake (200g daily), lifting until failure daily, and recovery support with BPC-157 and TB-500. Confirmed via DEXA scans.",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "lean_mass"
+    }
+  ],
+  "protocol_notes": "Used Tirzepatide with comprehensive protocol: 200g protein daily, daily training to failure, BPC-157 + TB-500 for recovery support, and Tesamorelin for GH stimulation. Muscle loss confirmed by DEXA scans despite aggressive training and nutrition protocol. This user emphasizes evidence-based approach and has conducted objective body composition testing.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.656134Z"
+}

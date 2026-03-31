@@ -1,0 +1,32 @@
+{
+  "id": "f6a62502-c4bb-4a55-bf69-baeb51902967",
+  "source_id": "1qzps3b",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qzps3b/bruising/",
+  "author_hash": "58164439334cc52a9d1a6bb1b0c517dd91ee260f561a23d8af980a1fd70e10c0",
+  "confidence_tier": 4,
+  "date_published": "2026-02-08T16:35:34-08:00",
+  "compounds": [
+    {
+      "name_raw": "ghk-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 7,
+      "frequency": "once a day",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Bruising at injection site"
+    }
+  ],
+  "protocol_notes": "OP mentions they are aware of 'copper uglies'. Dose listed as '7 units' with no clarification of concentration. Using subcutaneous injection once daily for a couple of weeks.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.120239Z"
+}

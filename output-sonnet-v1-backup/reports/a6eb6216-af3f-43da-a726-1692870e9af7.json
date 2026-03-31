@@ -1,0 +1,54 @@
+{
+  "id": "a6eb6216-af3f-43da-a726-1692870e9af7",
+  "source_id": "1qxwnoh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxwnoh/daily_motsc/",
+  "author_hash": "9511eea6d55e1974de61fdba299e04b4d4009268e5818f55832de0d45f625980",
+  "confidence_tier": 4,
+  "date_published": "2026-02-06T14:53:02-08:00",
+  "reported_age_range": "40-49",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Mots",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-IPA",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Clean energy feel, 'go mode' for a few hours without caffeine-like side effects; mental energy to keep going without fatigue or boredom",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Shortness of breath after injection (noted for CJC-IPA context, not MOTS-C specifically)",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "OP is 41 years old. Tried 2.5mg initially and felt little boost, increased to 5mg. Considering switching to 2.5mg daily instead of 5mg twice weekly. Also considering HGH as a potential replacement for MOTS-C and CJC-IPA.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.120692Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4563da20-ae1c-4d12-9a3b-a6bd503dd918",
+  "source_id": "1r1md35",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r1md35/reta_weight_stall_fast/",
+  "author_hash": "9bb6f5dbe260f936f1c9b3c2a63ecbef3251819f866be3f3030e23533f030809",
+  "confidence_tier": 5,
+  "date_published": "2026-02-10T19:28:03-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped approximately 8 lbs in the first week, then steady loss of about 1.5-2 lbs per week after initial plateau of nearly 3 weeks",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "GI side effects described as rough during the first month",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 30
+    }
+  ],
+  "protocol_notes": "Reports 30 lbs lost in 6 months on semaglutide. First month rough with GI side effects, then smooth sailing. Currently inquiring about Retatrutide as a comparison.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.119242Z"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "bb666899-49b7-4d0e-9ce7-0e58e228f001",
+  "source_id": "1r18dkl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r18dkl/bulk_peptide_purchasing_question_tirz_reta/",
+  "author_hash": "957ed163f0579ca819f417c688b849988d754c0793459e5e79088d3810c1260a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T10:14:03-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Cagrilintide works incredibly well for appetite suppression when stacked with Tirzepatide or Retatrutide, allowing slower dose titration",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User and husband both use these compounds in kit form. Started Cagrilintide at recommended 0.25mg starting dose when on 10mg Tirzepatide. Currently at 0.50mg weekly dose of Cagrilintide after several months. Prefers shorter vial duration (T30, R10, R20) to reduce degradation and contamination risk. Cagrilintide starting dose is very small at 0.25mg.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677857Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "7a44da8d-3eee-4665-8f52-76cf623a98ad",
+  "source_id": "1rcl5y0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rcl5y0/motsc/",
+  "author_hash": "fc145a917fbe42e0f45d30ec901cdf83c0387a02104b569910a3679824e1c641",
+  "confidence_tier": 4,
+  "date_published": "2026-02-23T07:55:02-08:00",
+  "health_conditions": [
+    "type 1 diabetes"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "works great",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "blood glucose level",
+      "timeframe_days": 14
+    }
+  ],
+  "protocol_notes": "User wore a continuous glucose monitor (CGM) for 2 weeks while taking MOTS-c. Blood glucose levels did not show significant changes (neither highs nor lows). User reports MOTS-c works well overall but did not affect blood glucose levels.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.660912Z"
+}

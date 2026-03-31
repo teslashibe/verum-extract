@@ -1,0 +1,35 @@
+{
+  "id": "e65f609d-99e8-40c8-9ddf-b5b1d8f79275",
+  "source_id": "1h6kqeu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1h6kqeu/is_there_a_peptide_that_can_make_you_locally/",
+  "author_hash": "3d65992bf683b477f8f46a4e0c796bce6078ba69c73b4c610f611f88b44fc1cf",
+  "confidence_tier": 5,
+  "date_published": "2024-12-04T08:49:12-08:00",
+  "compounds": [
+    {
+      "name_raw": "Kybella",
+      "name_normalized": "kybella",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Significant swelling after treatment",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Painful treatment sessions",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User did 2 treatments under the chin for a small genetic double chin. Reports minimal results despite completing 2 sessions. Not overweight, no loose skin.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.289084Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "6d926911-988e-44d2-ba73-c9378d03023f",
+  "source_id": "1qxsr0i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qxsr0i/starting_reta_at_lowish_bf/",
+  "author_hash": "afb5d699a298548a74000b4acb9cc98bd46ee8433c065a9ad23ca5f4f5447905",
+  "confidence_tier": 4,
+  "date_published": "2026-02-06T12:21:43-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "reported_weight": {
+    "value": 170,
+    "unit": "lbs"
+  },
+  "training_status": "resistance training, bulking/cutting cycles",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Planning to use for body recomposition and cutting to 9-10% body fat"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Aiming to preserve muscle mass during cut"
+    }
+  ],
+  "protocol_notes": "CJC-1295 without DAC. Currently at 14-15% BF after cutting from 193 lbs. Diet: 200g protein daily, 500 calories under maintenance.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.679306Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7e1c3ed0-5196-4187-8dbe-974d9fcc18c5",
+  "source_id": "1s3iwcr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3iwcr/best_stack_combo_for_weightloss/",
+  "author_hash": "e46887c72bbfe7f045a484c55f32587c9ee28450c23b63d1be0d34974b20563d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T11:25:24-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "dose_unit": "mg",
+      "frequency": "a couple days after shot day as needed",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "maintains appetite suppression when needed",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "15mg Tirzepatide as maintenance dose, adding 0.25-0.5mg Cagrilintide a couple days after shot day when suppression isn't as high. Uses some weeks, not others. Under doctor supervision.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.647081Z"
+}

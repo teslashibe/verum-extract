@@ -1,0 +1,55 @@
+{
+  "id": "d0ea2caa-b7bd-418f-a646-6880d4318f0e",
+  "source_id": "1jkuet4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jkuet4/is_my_liver_fucked_chat_lol/",
+  "author_hash": "1323956be0eb844452b72c66f28aaa92a8a08b6f9e0a26603b81fef19ada6fc2",
+  "confidence_tier": 3,
+  "date_published": "2025-03-26T20:06:03-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "reported_weight": {
+    "value": 195,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "fatty liver",
+    "enlarged spleen"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "semaglutide glp1",
+      "name_normalized": "semaglutide_glp1",
+      "category": "other",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Elevated liver enzymes (ALP, GGT), low HDL, high triglycerides, elevated CRP noted on bloodwork taken 3 months after discontinuing semaglutide",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "ALP",
+      "value_after": 152
+    },
+    {
+      "marker_name": "CRP",
+      "value_after": 1.2
+    },
+    {
+      "marker_name": "HDL"
+    }
+  ],
+  "protocol_notes": "OP is a 25-year-old male, 5'6\", 195 lbs. Took semaglutide for 3 months, then discontinued. Bloodwork taken 3 months post-discontinuation showed elevated ALP, GGT (double normal), elevated CRP (1.2), low HDL, and high triglycerides. Ultrasound confirmed fatty liver and enlarged spleen. OP stated they have not taken SARMs but have considered it. Denied heavy alcohol use.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.286807Z"
+}

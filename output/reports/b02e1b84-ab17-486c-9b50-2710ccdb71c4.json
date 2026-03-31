@@ -1,0 +1,56 @@
+{
+  "id": "b02e1b84-ab17-486c-9b50-2710ccdb71c4",
+  "source_id": "1rg4yw1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rg4yw1/retatrutide_advise/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T04:08:35-08:00",
+  "reported_weight": {
+    "value": 340,
+    "unit": "lbs"
+  },
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 40 lbs in approximately 2 months",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "anxiety",
+      "description": "Experiencing very anxious feelings",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Waking up in the middle of the night and unable to fall back asleep",
+      "severity": "moderate"
+    },
+    {
+      "category": "anxiety",
+      "description": "Feeling jittery",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Started at 380 lbs, currently 340 lbs. Reports consuming approximately 1600 calories per day. User suspects symptoms related to low blood sugar and insufficient caloric intake.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.659334Z"
+}

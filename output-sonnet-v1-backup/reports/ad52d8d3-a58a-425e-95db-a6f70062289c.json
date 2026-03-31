@@ -1,0 +1,108 @@
+{
+  "id": "ad52d8d3-a58a-425e-95db-a6f70062289c",
+  "source_id": "16vq7rj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16vq7rj/talk_to_your_doctor_before_you_start_xyz/",
+  "author_hash": "efde470c77722808e4486f15a4c96976b6003a7a2ce1872f741d16c8e81bfdd9",
+  "confidence_tier": 4,
+  "date_published": "2023-09-29T15:56:51-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "50-59",
+  "health_conditions": [
+    "IBS"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "frequency": "daily",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Thymalin",
+      "name_normalized": "thymulin",
+      "category": "immune",
+      "frequency": "every 6 months alternating with Epitalon",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "frequency": "every 6 months alternating with Thymalin",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "PT141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MT2",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHKCU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SNAP8",
+      "name_normalized": "snap_8",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Argireline",
+      "name_normalized": "argeriline",
+      "category": "other",
+      "route": "topical",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "IBS flare-ups reduced from 5-6 days per week to approximately 2 per month after ~6 months of daily BPC use",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Feel more energized and alert when alternating Thymalin/Epitalon every 6 months",
+      "severity": "moderate"
+    },
+    {
+      "category": "skin",
+      "description": "Topical peptides (GHKCU, SNAP8, Argireline) in lotions seem to help with skin elasticity",
+      "severity": "mild"
+    },
+    {
+      "category": "cognitive",
+      "description": "Feel more alert when alternating Thymalin/Epitalon",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "PT141 and MT2 cause immediate nausea lasting 24 hours",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "User is 55 years old and also describes husband's use: BPC \u0026 TB500 for torn MCL, healed in 4-5 weeks with rest. Both use Thymalin/Epitalon alternating every 6 months. User applies peptides topically in lotions.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.296741Z"
+}

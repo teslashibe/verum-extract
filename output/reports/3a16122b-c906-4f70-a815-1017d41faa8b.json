@@ -1,0 +1,55 @@
+{
+  "id": "3a16122b-c906-4f70-a815-1017d41faa8b",
+  "source_id": "1peqrsy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1peqrsy/glow_or_klow/",
+  "author_hash": "ca2df9451417cfcd390613ae92420de84187525ab3bfa2f243df2c2554b24b4d",
+  "confidence_tier": 4,
+  "date_published": "2025-12-05T01:28:58-08:00",
+  "health_conditions": [
+    "golfer's elbow"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "fully healed golfer's elbow",
+      "severity": "significant"
+    },
+    {
+      "category": "anti_inflammatory",
+      "description": "anti-inflammatory action of BPC-157",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "GLOW blend, 4 weeks on 2 weeks off then 4 weeks on (second 4-week period not required), also supplemented with Zinc sulphate 50mg daily",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.391571Z"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "7036e425-7861-49e3-8970-b3fdfbabc6e3",
+  "source_id": "1jx2g8e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jx2g8e/tesamorelin_with_hgh/",
+  "author_hash": "9eb278d3e746dd8625137c5bbb4b6d01728113dac9b0313d654537920163250f",
+  "confidence_tier": 4,
+  "date_published": "2025-04-11T15:27:56-07:00",
+  "health_conditions": [
+    "elevated fasted blood glucose"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "IU",
+      "frequency": "twice daily (1 IU before bed, 1 IU in the morning)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 750,
+      "dose_unit": "mcg",
+      "frequency": "every other day (microdose)",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_pressure",
+      "description": "Fasted blood glucose increased by ~10 points when initially taking 2 IU HGH before bed; splitting dose to 1 IU morning and 1 IU evening helped reduce but not fully normalize it",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "fasted blood glucose",
+      "unit": "mg/dL"
+    }
+  ],
+  "protocol_notes": "Initially started at 2 IU HGH before bed, noticed fasted blood glucose rose ~10 points. Switched to split dosing (1 IU AM, 1 IU PM) to mitigate this. Recommends swapping Tirz for Reta at 2-3mg/day or microdosing 750mcg every other day. Notes HGH takes several months to fully work.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.286034Z"
+}

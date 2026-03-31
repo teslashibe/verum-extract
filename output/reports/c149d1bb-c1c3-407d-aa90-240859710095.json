@@ -1,0 +1,67 @@
+{
+  "id": "c149d1bb-c1c3-407d-aa90-240859710095",
+  "source_id": "1rk287p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rk287p/hgh_secretagogue_bloodwork/",
+  "author_hash": "9719d2829f47ccd17ee7186657c5363bc38fe7e1e674ecbde3982d04af838afc",
+  "confidence_tier": 3,
+  "date_published": "2026-03-03T13:32:01-08:00",
+  "training_status": "lifting",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep was good with Tesa, much better on HGH",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "After-workout recovery is insane",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Skin feels absolutely amazing",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_before": 154,
+      "value_after": 459,
+      "timeframe_days": 30
+    },
+    {
+      "marker_name": "IGF-1",
+      "value_after": 489,
+      "timeframe_days": 60
+    }
+  ],
+  "protocol_notes": "Tesamorelin 1mg: 5 days on, 2 days off. Month 1 labs taken 3 hours after morning injection, IGF-1 at 459 with 2.8 z-score. Month 2 adjusted to pinning before bed, IGF-1 at 489 with +3 z-score. Reports being hyper-responsive. Started HGH 0.5mg Feb 2nd to lower IGF-1 to 300-350 range. Labs pending from Friday.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.9,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.657425Z"
+}

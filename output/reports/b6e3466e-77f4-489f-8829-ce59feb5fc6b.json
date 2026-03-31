@@ -1,0 +1,76 @@
+{
+  "id": "b6e3466e-77f4-489f-8829-ce59feb5fc6b",
+  "source_id": "1rx3dlr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx3dlr/tirz_to_reta/",
+  "author_hash": "bbd54555faadb10fb9afac62c53f13aabd0b9192199467af189dbabd44f4eb97",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T06:06:33-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 1,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 1,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Less intense appetite suppression spike than Tirzepatide, more consistent throughout the week",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Better energy and improved energy partitioning compared to Tirzepatide",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Targets visceral fat better according to user perception",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "On Tirzepatide ~7.5mg for approximately 2 months, then switched to Retatrutide without washout. Week 1: 2mg Reta, Week 2: 4mg Reta, Week 3+: 6mg Reta (cruising dose). User describes Reta as 'smoother' with better energy partitioning and more consistent effects throughout week vs Tirzepatide's sharper appetite suppression spike. Notes GIP agonism and glucagon receptor component differences.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.661755Z"
+}

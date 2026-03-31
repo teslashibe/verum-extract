@@ -1,0 +1,39 @@
+{
+  "id": "01f3a389-d796-42f8-997b-c33ef6cf1b18",
+  "source_id": "1myi1hg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1myi1hg/interesting_find_with_mdma_and_retatrutide/",
+  "author_hash": "2cf286e30db0620aaa03aead3bf29e823ac5ca89d0f8d7e5cba897a17f874d2b",
+  "confidence_tier": 4,
+  "date_published": "2025-08-23T17:47:33-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "inability to sleep",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "inability to urinate",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User reports blunted response to 200mg MDMA dose (taken once every 4-5 months) when combined with 2mg weekly Retatrutide. Started Retatrutide 2 months prior to MDMA dose. Effect attributed to GLP-1 agonist blunting reward circuits and/or slowing gastric emptying.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.400307Z"
+}

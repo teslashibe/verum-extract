@@ -1,0 +1,47 @@
+{
+  "id": "c88f3d12-cc72-48be-9a0d-e9c71eb4c029",
+  "source_id": "1ro0bp8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ro0bp8/anyone_successfully_healed_nervous_system/",
+  "author_hash": "0ddee1db707be7543c1d47ab610c85963ad383035bcb6e4630d4eef18f750bf6",
+  "confidence_tier": 5,
+  "date_published": "2026-03-08T01:15:31-08:00",
+  "health_conditions": [
+    "Long COVID"
+  ],
+  "compounds": [
+    {
+      "name_raw": "SLU-PP-332",
+      "name_normalized": "slu_pp_332",
+      "category": "body_composition",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "couple times a day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Improved health outcomes from Long COVID; mitochondrial repair; anecdotal evidence referenced via Scott McNally podcast",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Comment references Scott McNally (bodybuilding podcaster) as anecdotal source who used SLU-PP-332 at tiny amounts (250 mcg per dose, a couple times a day) for Long COVID recovery. Beast_Eggs is relaying this secondhand and does not appear to be describing their own personal use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.111071Z"
+}

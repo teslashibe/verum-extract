@@ -1,0 +1,55 @@
+{
+  "id": "05c974a5-4af4-413c-86ca-924dcbdf4d45",
+  "source_id": "1am4fht",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1am4fht/bpc157_and_crohns_disease/",
+  "author_hash": "702c3fb42f6d6e17a76cc96e25e6280ff06f7bcb09d128ce3e41820be27b974f",
+  "confidence_tier": 5,
+  "date_published": "2024-02-08T11:49:26-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "80% improvement on colonoscopy after a few months",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "temperature_regulation",
+      "description": "Feeling cold with Tirzepatide",
+      "severity": "mild"
+    },
+    {
+      "category": "mood_change",
+      "description": "Less of a lust for life with Tirzepatide",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Stack includes SQ BPC-157, TB-500, and Tirzepatide. Tirzepatide noted as having weird effects overall.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.416782Z"
+}

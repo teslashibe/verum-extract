@@ -1,0 +1,60 @@
+{
+  "id": "ce72d9a8-61e0-44ba-b453-7fed4290f580",
+  "source_id": "1pyrf9t",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pyrf9t/mom_putting_me_on_peptides/",
+  "author_hash": "54057a070b0fb1d44b85e9c7c181570ff0cafc638ad9d8166a533b5b38323afa",
+  "confidence_tier": 4,
+  "date_published": "2025-12-29T08:55:34-08:00",
+  "health_conditions": [
+    "ankylosing spondylitis",
+    "autoimmune arthritis"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ta1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "every third day",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Pinealon",
+      "name_normalized": "pinealon",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 40,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ss-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Went from barely able to move and on Humira to taking nothing but peptides and vitamins; treated ankylosing spondylitis successfully",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Overall health dramatically better",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Followed Dr. Seeds protocol for TA1. Also used oral capsule bioregulators (thymus, vessel, cartilage bioregulators). Injectable Pinealon dosed at 500mcg/day for 40 days. Tops off with another round of capsules or injections every ~4 months. SS-31 did not provide noticeable benefit. Previously on Humira, now medication-free.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.25789Z"
+}

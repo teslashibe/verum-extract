@@ -1,0 +1,65 @@
+{
+  "id": "e5a9f697-e989-4788-8c7b-afef28e05f82",
+  "source_id": "1rkyjh2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rkyjh2/seeking_general_advice_with_reta/",
+  "author_hash": "ce38fefd70fe59143728a450a6788457b63b2186d96499f7e5db11b5994d0d2d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-04T13:42:36-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "training_status": "active, strength training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost approximately 15 lbs and reached ~12% body fat",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Achieved significant fat loss over 2 months",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User is 22 years old, about to graduate college in 2 months. Goal is to reach sub-10% body fat. Stack is CJC-1295 + Ipamorelin at 200mcg/day combined with Retatrutide at 2.5mg/week. User notes concern about muscle mass despite fat loss and is considering whether to continue stack while bulking or stop Reta, bulk, then cut again.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.668748Z"
+}

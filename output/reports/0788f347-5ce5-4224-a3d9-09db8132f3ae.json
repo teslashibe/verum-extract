@@ -1,0 +1,35 @@
+{
+  "id": "0788f347-5ce5-4224-a3d9-09db8132f3ae",
+  "source_id": "18n23iq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/18n23iq/bpc157_and_my_libido/",
+  "author_hash": "8bc76b74dd2b9b0c9bee8912aab3f3a80e3f7d729a78adfd8e1847db6a9f0d25",
+  "confidence_tier": 4,
+  "date_published": "2023-12-20T10:51:57-08:00",
+  "health_conditions": [
+    "tendinitis in elbows"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "1x daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Buying from overseas, $10 for 10mg vial. One week in, no noticeable effects yet. TB-500 on the way for tendinitis.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.699676Z"
+}

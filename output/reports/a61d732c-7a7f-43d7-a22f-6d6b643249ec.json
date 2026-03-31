@@ -1,0 +1,50 @@
+{
+  "id": "a61d732c-7a7f-43d7-a22f-6d6b643249ec",
+  "source_id": "1oskfrr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oskfrr/does_anyone_use_glp1_like_reta_or_tirz_in/",
+  "author_hash": "6c6d153a93e5a12059835d6c1fd38cbc01cd86d7ee2763fcf7a96acb1bab283a",
+  "confidence_tier": 4,
+  "date_published": "2025-11-09T06:15:09-08:00",
+  "reported_weight": {
+    "value": 225,
+    "unit": "lbs"
+  },
+  "training_status": "lifts 5 days a week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "split into two 3mg doses weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped 3 pants sizes; getting abs; lost approximately 7 lbs body weight while gaining muscle",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Steadily adding muscle mass while getting leaner",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "6mg Reta split into two 3mg doses weekly. Never experienced appetite suppression despite dose. Maintains weight between 225-232 lbs. Alternates between intermittent fasting weeks (1800 cals, 240g protein) and higher calorie weeks (2400 cals, 300g protein). Also running testosterone.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.677664Z"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "87bf2d46-9430-4140-ba46-aa8455593577",
+  "source_id": "16uwfqr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16uwfqr/advice/",
+  "author_hash": "45990f0771fcdbc672ef74f7617166d691174652cc3f4114008305faae6c09c1",
+  "confidence_tier": 4,
+  "date_published": "2023-09-28T17:12:44-07:00",
+  "training_status": "bodybuilding",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHRP-2",
+      "name_normalized": "ghrp_2",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHRP-2",
+      "name_normalized": "ghrp_2",
+      "category": "gh_secretagogue",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "major muscle gains",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Initial protocol: 100mcg GHRP-2 and 100mcg CJC-1295 no DAC daily for 3 months. After 3 months, increased to 150mcg each, administered once in AM on empty stomach and once at 8pm (2 hours after dinner). For bodybuilding purposes. User also mentions sourcing HGH in addition to peptides for enhanced results.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.70061Z"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "4413d758-8853-44e0-9722-6de5655c712b",
+  "source_id": "1omu3fq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1omu3fq/trying_to_figure_out_how_much_glow_to_inject/",
+  "author_hash": "70763470d4e6540eb574758865e4be590f47f9782eb78f550143d40b453e2073",
+  "confidence_tier": 4,
+  "date_published": "2025-11-02T13:54:25-08:00",
+  "health_conditions": [
+    "arthritis"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Arthritic pain significantly lessened after increased BPC-157 dosing from separate vial",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started with GLOW blend but switched to separate BPC-157 and TB-500 vials for more dosing flexibility. GHK-Cu max limited to 2mg due to copper toxicity concerns. Noticed benefit primarily from increased BPC-157 dosing. Unclear if GHK-Cu alone provided benefit.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.678233Z"
+}

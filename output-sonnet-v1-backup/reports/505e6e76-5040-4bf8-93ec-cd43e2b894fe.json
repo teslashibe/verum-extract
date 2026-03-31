@@ -1,0 +1,45 @@
+{
+  "id": "505e6e76-5040-4bf8-93ec-cd43e2b894fe",
+  "source_id": "1l3nxft",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1l3nxft/got_prescribed_bpc157_is_this_actually_safe/",
+  "author_hash": "bff925629e63a7d7860ad182437f3abf284efa0eea40bc5a0ff1ddec11b69b65",
+  "confidence_tier": 4,
+  "date_published": "2025-06-04T19:20:14-07:00",
+  "health_conditions": [
+    "musculoskeletal injury"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "twice a day, 5 days on 2 days off",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tb500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "twice a day, 5 days on 2 days off",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Local injection near injury site eliminates pain within 30 minutes; subq abdomen and oral provided no benefit for injuries",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Has tried oral, subq abdomen, and local injection routes. Local injection near injury is sole winner for musculoskeletal issues. Runs BPC and TB500 for ~12 weeks twice daily 5 on/2 off, then 2-4 weeks off, then another 12 weeks. Also takes additional peptides on top of this stack.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.282517Z"
+}

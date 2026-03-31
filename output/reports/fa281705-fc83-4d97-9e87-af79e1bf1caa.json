@@ -1,0 +1,72 @@
+{
+  "id": "fa281705-fc83-4d97-9e87-af79e1bf1caa",
+  "source_id": "16riop4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16riop4/how_do_you_organizeprep_your_stacks/",
+  "author_hash": "c53dae93f7c36c39404dc554c0fa46dcd662b9b2cda636e731ad6c84534eb54e",
+  "confidence_tier": 4,
+  "date_published": "2023-09-24T21:45:00-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "training_status": "active lifter with manual labor history",
+  "health_conditions": [
+    "elbow injury from manual labor",
+    "shoulder degeneration",
+    "lower back injury from lifting"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Lower back improvement after CJC-1295/TB-500 combo; elbow injury management",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Cutting weight while bulking up",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Bulking up alongside fat loss",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User is 39 years old. Uses multiple peptides staggered to identify effects. Labs monitored every 3 months. Also on TRT. Gets peptides at cost through girlfriend's TRT/peptide company. Pre-fills insulin syringes with reconstituted peptides for convenience. Site-injected BPC-157 for elbow injury without success; now using systemic approach.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.700642Z"
+}

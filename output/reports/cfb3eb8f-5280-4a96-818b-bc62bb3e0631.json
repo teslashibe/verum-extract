@@ -1,0 +1,40 @@
+{
+  "id": "cfb3eb8f-5280-4a96-818b-bc62bb3e0631",
+  "source_id": "1s0donv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s0donv/sales_peptides/",
+  "author_hash": "3d786331454dfb0148c2e3e0eeab7707be00d137f3375c084bf3856a8ee0de21",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T22:44:40-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "keeps me going for most of the day",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "screws up sleep",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Takes 1mg MOTS-c daily; reports sleep disruption as potential side effect",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.659903Z"
+}

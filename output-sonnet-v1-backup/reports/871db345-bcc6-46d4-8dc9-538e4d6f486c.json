@@ -1,0 +1,31 @@
+{
+  "id": "871db345-bcc6-46d4-8dc9-538e4d6f486c",
+  "source_id": "1lp1ppa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lp1ppa/ipacjc_1295_really/",
+  "author_hash": "b321aa05b139c2b185ef5b63a9678da56e3d5b0c4bbe79641d50cc1008415501",
+  "confidence_tier": 4,
+  "date_published": "2025-07-01T06:29:36-07:00",
+  "compounds": [
+    {
+      "name_raw": "IPA/cjc",
+      "name_normalized": "ipa__cjc",
+      "category": "other",
+      "frequency": "morning (switched from nightly)",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Worst insomnia when taken at night; resolved after switching to morning dosing",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Switched from nighttime to morning dosing which resolved insomnia.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.280156Z"
+}

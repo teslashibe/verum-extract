@@ -1,0 +1,44 @@
+{
+  "id": "c3d22539-5749-4e63-a1cf-868f5f3b7846",
+  "source_id": "1r0oxac",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r0oxac/best_peptide_for_depressive_episodes/",
+  "author_hash": "9aced6c4f750e7d15304345e75ba91051f44bbf03471bbf070a85bb02414475a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T18:47:45-08:00",
+  "health_conditions": [
+    "depression"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "fixed poor sleep which indirectly helped with mood positively",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "indirect mood improvement from sleep improvement",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User mentioned having researched selank/semax for similar reasons but chose CJC/IPA instead. Similar breakup situation in same timeframe (August), experienced recovery followed by relapse of depressive thoughts.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665559Z"
+}

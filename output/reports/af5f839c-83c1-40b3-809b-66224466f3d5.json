@@ -1,0 +1,33 @@
+{
+  "id": "af5f839c-83c1-40b3-809b-66224466f3d5",
+  "source_id": "1r18dkl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r18dkl/bulk_peptide_purchasing_question_tirz_reta/",
+  "author_hash": "fe44530d8a1b7183f0f4e6b668d1e0e24ab3bbcfda86f684d0be4dc55146bec1",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T10:14:03-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Tried retatrutide but found it much less potent than tirzepatide and switched back. Estimates tirzepatide is approximately 2x more potent than retatrutide. Notes that tirzepatide and retatrutide increase metabolic rate whereas semaglutide primarily reduces appetite.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665289Z"
+}

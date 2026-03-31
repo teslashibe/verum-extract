@@ -1,0 +1,77 @@
+{
+  "id": "14dfc435-6c2c-4332-8113-90689f195e57",
+  "source_id": "1r112tw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r112tw/once_or_twice_a_day_cjc1295_ipamorelin/",
+  "author_hash": "45cada021ff291e065f8561aa66a68e5888cb0740a63f90848f38dae7a28cc27",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T05:43:07-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "twice daily (initial plan: morning fasted and before bed)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "twice daily (initial plan: morning fasted and before bed)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Early results positive after one week",
+      "severity": "mild",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Needle fatigue from twice daily injections",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "No DAC version. Initial plan was twice daily (morning fasted and before bed). Considering switching to once daily evening dosing due to needle fatigue. Also on TRT, Retatrutide, TB-500, and BPC-157.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665453Z"
+}

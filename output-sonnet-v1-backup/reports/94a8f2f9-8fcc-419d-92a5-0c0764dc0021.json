@@ -1,0 +1,47 @@
+{
+  "id": "94a8f2f9-8fcc-419d-92a5-0c0764dc0021",
+  "source_id": "1r1noep",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r1noep/almost_40_yo_male_have_a_slow_healing_labrum/",
+  "author_hash": "c2b08f3b695c8fc0aaf69859c0113e6c452943aee94797594d9906b393395683",
+  "confidence_tier": 5,
+  "date_published": "2026-02-10T20:31:27-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "3 times a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "BPC and TB-500 seem to work very well; GHK-CU also suggested to help with recovery"
+    }
+  ],
+  "protocol_notes": "Recommends using BPC and TB-500 separately rather than in a blend to allow independent dosage control. Example dosing: 1mg BPC daily, 500mcg TB-500 3x/week. Notes blends are fine but not his preference.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.119197Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "c188c1d6-4c63-418c-a735-41c05f83a362",
+  "source_id": "1onkev7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1onkev7/glow_blend_anxiety/",
+  "author_hash": "9068120c6a1152031dfa45f07ee01d6045269fb8a21c642b2b112afe9d463024",
+  "confidence_tier": 4,
+  "date_published": "2025-11-03T10:53:21-08:00",
+  "training_status": "trained",
+  "health_conditions": [
+    "depression (BPC-157 induced)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "works to repair muscle",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "works for cuts",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "makes depressed every time",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Counters BPC-157 depression with Vitamin B complex, Oxytocin, and working out.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.394489Z"
+}

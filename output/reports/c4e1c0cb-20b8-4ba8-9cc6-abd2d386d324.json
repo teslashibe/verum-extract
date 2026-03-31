@@ -1,0 +1,83 @@
+{
+  "id": "c4e1c0cb-20b8-4ba8-9cc6-abd2d386d324",
+  "source_id": "1r6b6mc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6b6mc/having_a_strange_almost_feverlike_reaction_to_ghk/",
+  "author_hash": "3012da6eda702a25077fe7be10783294c70361e3e7797a39a6baac881be6100b",
+  "confidence_tier": 4,
+  "date_published": "2026-02-16T06:33:46-08:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "high estrogen"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Sting sensation at injection site, slight red mark",
+      "severity": "mild",
+      "onset_days": 1
+    },
+    {
+      "category": "flushing",
+      "description": "Whole body chills sensation, subtle, feels like a breeze blowing through bones",
+      "severity": "mild",
+      "onset_days": 1
+    },
+    {
+      "category": "nausea",
+      "description": "Subtle nausea, not to point of vomiting",
+      "severity": "mild",
+      "onset_days": 1
+    },
+    {
+      "category": "blood_pressure",
+      "description": "Hands and feet feel cold",
+      "severity": "mild",
+      "onset_days": 1
+    },
+    {
+      "category": "cardiac",
+      "description": "Heart beat feels faint, strength of beat diminished",
+      "severity": "mild",
+      "onset_days": 1
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body temperature",
+      "value_after": 96.9,
+      "unit": "°F",
+      "timeframe_days": 1
+    },
+    {
+      "marker_name": "estradiol",
+      "value_before": 59,
+      "timeframe_days": 30
+    }
+  ],
+  "protocol_notes": "First injection of GHK-Cu at 2mg subcutaneous, injected 1 hour after Retatrutide shot on opposite love handle. Took Zyrtec (antihistamine) due to suspected histamine intolerance. Took Liquid IV electrolytes. User reports improvement after antihistamine dose. High estrogen level (E2=59) noted as potential contributing factor.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.67574Z"
+}

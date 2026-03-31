@@ -1,0 +1,45 @@
+{
+  "id": "e57e8cc4-b5d8-4b1b-8e77-e8c5256a5940",
+  "source_id": "1ruv4ss",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ruv4ss/retatruide_or_trizepatide/",
+  "author_hash": "5b8cb378dc753719cf5f8bcaf6e12c0e6ff35241b83529c4f13beb1513746db9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T17:46:18-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Retatrutide better for body recomposition with improved nutrient partitioning",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Tirzepatide for appetite suppression and weight loss",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Uses both compounds therapeutically with clients. Recommends tirzepatide for heavy individuals needing appetite suppression, transition to retatrutide at 2mg/week for body recomposition once weight loss achieved.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.651393Z"
+}

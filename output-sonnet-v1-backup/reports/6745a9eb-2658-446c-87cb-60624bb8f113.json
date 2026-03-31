@@ -1,0 +1,46 @@
+{
+  "id": "6745a9eb-2658-446c-87cb-60624bb8f113",
+  "source_id": "1rqacfn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rqacfn/ghkcu_and_chelated_copper_supplements/",
+  "author_hash": "fe44530d8a1b7183f0f4e6b668d1e0e24ab3bbcfda86f684d0be4dc55146bec1",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T14:37:06-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ghk-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "zinc",
+      "name_normalized": "zinc",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 25,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "copper glycinate",
+      "name_normalized": "copper_glycinate",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "States that 2mg/day GHK-Cu does not provide enough copper to be concerned about overdose unless taking 20mg/day.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.110014Z"
+}

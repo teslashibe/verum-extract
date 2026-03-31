@@ -1,0 +1,234 @@
+{
+  "compound_id": "tesamorelin",
+  "display_name": "Tesamorelin",
+  "category": "gh_secretagogue",
+  "total_reports": 768,
+  "reports_by_tier": {
+    "3": 16,
+    "4": 556,
+    "5": 196
+  },
+  "top_benefits": [
+    {
+      "category": "fat_loss",
+      "count": 254,
+      "pct": 44.4
+    },
+    {
+      "category": "muscle_gain",
+      "count": 108,
+      "pct": 18.9
+    },
+    {
+      "category": "body_composition",
+      "count": 91,
+      "pct": 15.9
+    },
+    {
+      "category": "sleep",
+      "count": 63,
+      "pct": 11
+    },
+    {
+      "category": "recovery",
+      "count": 59,
+      "pct": 10.3
+    },
+    {
+      "category": "energy",
+      "count": 52,
+      "pct": 9.1
+    },
+    {
+      "category": "other",
+      "count": 36,
+      "pct": 6.3
+    },
+    {
+      "category": "appetite_suppression",
+      "count": 29,
+      "pct": 5.1
+    },
+    {
+      "category": "mood",
+      "count": 23,
+      "pct": 4
+    },
+    {
+      "category": "skin",
+      "count": 22,
+      "pct": 3.8
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "joint_pain",
+      "count": 34,
+      "pct": 5.9,
+      "avg_severity": 2.1
+    },
+    {
+      "category": "water_retention",
+      "count": 33,
+      "pct": 5.8,
+      "avg_severity": 1.8
+    },
+    {
+      "category": "sleep_disruption",
+      "count": 29,
+      "pct": 5.1,
+      "avg_severity": 2.2
+    },
+    {
+      "category": "injection_site",
+      "count": 28,
+      "pct": 4.9,
+      "avg_severity": 1.8
+    },
+    {
+      "category": "skin_reaction",
+      "count": 23,
+      "pct": 4,
+      "avg_severity": 1.6
+    },
+    {
+      "category": "other",
+      "count": 22,
+      "pct": 3.8,
+      "avg_severity": 2.1
+    },
+    {
+      "category": "allergic_reaction",
+      "count": 21,
+      "pct": 3.7,
+      "avg_severity": 2.2
+    },
+    {
+      "category": "gastrointestinal",
+      "count": 19,
+      "pct": 3.3,
+      "avg_severity": 1.8
+    },
+    {
+      "category": "appetite_change",
+      "count": 18,
+      "pct": 3.1,
+      "avg_severity": 2.2
+    },
+    {
+      "category": "cardiac",
+      "count": 15,
+      "pct": 2.6,
+      "avg_severity": 2.3
+    },
+    {
+      "category": "nerve_related",
+      "count": 13,
+      "pct": 2.3,
+      "avg_severity": 1.8
+    },
+    {
+      "category": "fatigue",
+      "count": 10,
+      "pct": 1.7,
+      "avg_severity": 2.7
+    },
+    {
+      "category": "flushing",
+      "count": 6,
+      "pct": 1,
+      "avg_severity": 1.5
+    },
+    {
+      "category": "mood_change",
+      "count": 4,
+      "pct": 0.7,
+      "avg_severity": 2
+    },
+    {
+      "category": "weight_change",
+      "count": 4,
+      "pct": 0.7,
+      "avg_severity": 2.5
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 2,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 19,
+      "pct": 2.5
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 1,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 17,
+      "pct": 2.2
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 2,
+      "unit": "mg",
+      "frequency": "nightly",
+      "count": 9,
+      "pct": 1.2
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 2,
+      "unit": "mg",
+      "frequency": "5 days on, 2 days off",
+      "count": 7,
+      "pct": 0.9
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 1,
+      "unit": "mg",
+      "frequency": "nightly",
+      "count": 5,
+      "pct": 0.7
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "ipamorelin",
+      "display_name": "Ipamorelin",
+      "report_count": 348
+    },
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Retatrutide",
+      "report_count": 239
+    },
+    {
+      "compound_id": "cjc_1295_no_dac",
+      "display_name": "CJC-1295",
+      "report_count": 151
+    },
+    {
+      "compound_id": "tirzepatide",
+      "display_name": "Tirzepatide",
+      "report_count": 113
+    },
+    {
+      "compound_id": "ghk_cu",
+      "display_name": "GHK-Cu",
+      "report_count": 95
+    }
+  ],
+  "avg_cycle_length_days": 69.9,
+  "avg_sentiment_score": 0.621,
+  "sentiment_breakdown": {
+    "positive": 378,
+    "mixed": 75,
+    "negative": 68,
+    "neutral": 247
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T04:48:57.360763Z"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "c49f9ec2-17e1-4abd-a930-f43e80929c5e",
+  "source_id": "1mpe30j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mpe30j/please_help_with_this_cycle_please/",
+  "author_hash": "619704059f73ccdfab34df9a70ef6565e096da13aa2cfe85de77274bfdf19364",
+  "confidence_tier": 4,
+  "date_published": "2025-08-13T12:29:18-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "3x weekly (AM)",
+      "cycle_length_days": 112,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "frequency": "5 doses total, no maintenance",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "3x weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "itching",
+      "description": "itching and aching from Tesamorelin",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Referenced jaycambell cheat sheet. Semax: 8 weeks on, 8 weeks off. Melanotan II produced visible darkening (reports sister now jokes she thinks she's adopted due to user's changed appearance). Currently at 1mg Retatrutide 3x/week and happy with results. Discontinued Tesamorelin due to side effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.684799Z"
+}

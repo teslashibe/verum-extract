@@ -1,0 +1,38 @@
+{
+  "id": "9abcc3b5-2549-4da1-9164-08cf1e56eeb9",
+  "source_id": "1bp0035",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bp0035/has_anyone_had_these_kind_of_reactions_from_cjcipa/",
+  "author_hash": "f01c8d32ca6196e8adca12ffa8324410f1309f3963a9b6e927af50c7149add0e",
+  "confidence_tier": 5,
+  "date_published": "2024-03-27T04:53:59-07:00",
+  "compounds": [
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Whole body hives (urticarial reaction), tingling tongue, swollen ears",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "OP is located in Australia. Hives subsided by the next morning. Tongue tingling and ear swelling also noted. This was described as a first-time reaction.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294093Z"
+}

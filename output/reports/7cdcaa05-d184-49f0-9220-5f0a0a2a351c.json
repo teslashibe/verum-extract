@@ -1,0 +1,47 @@
+{
+  "id": "7cdcaa05-d184-49f0-9220-5f0a0a2a351c",
+  "source_id": "1qc12en",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qc12en/just_want_to_share_my_experience_peptide/",
+  "author_hash": "6808b2c70339679910e7010d0b959529f73e17f29dd30e990072bfe9420816e6",
+  "confidence_tier": 4,
+  "date_published": "2026-01-13T11:40:50-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "oral",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 120,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Oral form caused weight gain. Switched to injection and lost 40 lbs in 4 months",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "weight_change",
+      "description": "Weight gain on oral Tirzepatide form",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Initially used oral form of Tirzepatide which caused weight gain. Switched to injection form with significant success (40 lbs in 4 months)",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.671232Z"
+}

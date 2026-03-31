@@ -1,0 +1,59 @@
+{
+  "id": "c71b8198-42b7-4c8b-ac38-e457168934fa",
+  "source_id": "1s4rulr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4rulr/tesamorelin_at_small_dose/",
+  "author_hash": "5306b75e3f737bc1845c5766c0776529aca82f073d698b0e6937b4dd2fd9b249",
+  "confidence_tier": 4,
+  "date_published": "2026-03-26T19:34:08-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC no DAC",
+      "name_normalized": "cjc_no_dac",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Waking up groggy with a huge headache and dry throat at 2mg nightly; toned down but still present at 1mg morning dose",
+      "severity": "significant"
+    },
+    {
+      "category": "headache",
+      "description": "Huge headache upon waking, attributed possibly to water retention or sleep apnea",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Dry throat upon waking",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "OP originally ran 2mg Tesamorelin at night with Ipamorelin; switched to 1mg mornings to reduce side effects; considering dropping to 0.5mg. Previously used CJC no DAC/IPA stack in late 2025 without these issues.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.103968Z"
+}

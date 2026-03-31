@@ -1,0 +1,55 @@
+{
+  "id": "cd67ee1a-5d86-41ca-9705-4bd03129c37c",
+  "source_id": "rpc3zw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/rpc3zw/horrible_reaction_from_25_units_of_b500/",
+  "author_hash": "f42f06ee07d8a7e1678d7a0fb84435f8a493155ec33387da0f08c84341f92368",
+  "confidence_tier": 5,
+  "date_published": "2021-12-26T18:16:06-08:00",
+  "health_conditions": [
+    "ciprofloxacin toxicity (floxed)",
+    "neuropathy"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tb500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "bpc-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Implied preference for BPC-157 as better tolerated compared to TB500 and ipamorelin"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Neuropathy reaction from TB500"
+    },
+    {
+      "category": "other",
+      "description": "Bad reaction to ipamorelin"
+    }
+  ],
+  "protocol_notes": "Also floxed (fluoroquinolone toxicity). Prefers BPC-157 over TB500 and ipamorelin due to adverse reactions to the latter two.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.428801Z"
+}

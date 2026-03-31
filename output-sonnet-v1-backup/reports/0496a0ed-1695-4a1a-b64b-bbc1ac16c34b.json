@@ -1,0 +1,37 @@
+{
+  "id": "0496a0ed-1695-4a1a-b64b-bbc1ac16c34b",
+  "source_id": "1r7ozws",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r7ozws/allergic_reaction_to_growth_hormone_secretagogs/",
+  "author_hash": "8a820014ab106270dd359d9b0cd9181ae0e4b90f3d24f6278f9a808d5f5006b9",
+  "confidence_tier": 5,
+  "date_published": "2026-02-17T17:17:11-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Intense itching in palms lasting about 5 minutes after sermorelin use; reaction did not occur when sermorelin and tesamorelin were used together",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Reaction occurred after using sermorelin for a couple of months with no prior issues. Itching resolved in ~5 minutes. Interestingly, the reaction did not occur when sermorelin and tesamorelin were combined.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.117155Z"
+}

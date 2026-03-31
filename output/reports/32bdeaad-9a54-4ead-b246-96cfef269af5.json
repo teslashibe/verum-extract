@@ -1,0 +1,43 @@
+{
+  "id": "32bdeaad-9a54-4ead-b246-96cfef269af5",
+  "source_id": "1q7ww65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q7ww65/hair_loss/",
+  "author_hash": "0441432cf6ecd878c767eb9005f79f7d03e9ccfb0dea3e66f415dd065e7ddc49",
+  "confidence_tier": 5,
+  "date_published": "2026-01-08T19:08:34-08:00",
+  "health_conditions": [
+    "hair loss"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Dutasteride",
+      "name_normalized": "dutasteride",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Minoxidil",
+      "name_normalized": "minoxidil",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tadalafil",
+      "name_normalized": "tadalafil",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Also using red light hat therapy. Mentions Finasteride as alternative but notes potential permanent sexual side effects.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.67149Z"
+}

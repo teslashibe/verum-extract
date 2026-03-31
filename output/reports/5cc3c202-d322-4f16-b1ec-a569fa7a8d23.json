@@ -1,0 +1,53 @@
+{
+  "id": "5cc3c202-d322-4f16-b1ec-a569fa7a8d23",
+  "source_id": "1afnaml",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1afnaml/peptides_for_loose_skin_after_weight_loss/",
+  "author_hash": "546f3ba7c29cec5c3438075bde21b8da1736de9dee4b972b01174993998e9f18",
+  "confidence_tier": 4,
+  "date_published": "2024-01-31T09:28:52-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "dose_value": 3,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Extended fasting, GHK-CU, CJC/IPA, and microneedling found most helpful for loose skin",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Extended fasting 3-5 days monthly. Topical GHK-Cu 3% concentration, avoids use on microneedling days and 2 days after. Also uses tretinoin, fish oil, vitamin C, gotu kola, white jelly mushroom, zinc, strength training, dry skin brushing, high hydration. Ranked in order of impact.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.416968Z"
+}

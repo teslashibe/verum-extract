@@ -1,0 +1,71 @@
+{
+  "id": "dd535836-d181-49c3-9346-984026a18316",
+  "source_id": "1nsq3ll",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nsq3ll/motsc_is_the_golf_peptide/",
+  "author_hash": "600761aa3e14307f1876855f078c8bdb597d62343f064d46f167d2d0300d247a",
+  "confidence_tier": 4,
+  "date_published": "2025-09-28T07:43:44-07:00",
+  "training_status": "active (mountain biking, dirt biking, general fitness)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "split into 3 shots per week",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "dose_value": 110,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "dose_value": 110,
+      "dose_unit": "mg",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Excellent energy boost before cardio and outdoor activities",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive",
+      "description": "Gets very dialed in during activities",
+      "severity": "significant"
+    },
+    {
+      "category": "endurance",
+      "description": "Way more energy during mountain bike rides and dirt biking",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Ran 6-week cycle with 10mg MOTS-c per week split into 3 shots, AOD-9604 daily (110mg), TRT 110mg, and Tirzepatide. Waiting for Tirzepatide to start creating sluggishness before doing another run of MOTS-c.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.396908Z"
+}

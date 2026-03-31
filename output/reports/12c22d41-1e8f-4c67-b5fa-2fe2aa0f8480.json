@@ -1,0 +1,69 @@
+{
+  "id": "12c22d41-1e8f-4c67-b5fa-2fe2aa0f8480",
+  "source_id": "1bzxg90",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bzxg90/direct_peptides_oral_bpc_and_tb500_it_works/",
+  "author_hash": "40c230bc5f1bdda515ac8cfbe8c60b601cbb234f5f2ab44cf50a845f12fb99ca",
+  "confidence_tier": 4,
+  "date_published": "2024-04-09T10:10:10-07:00",
+  "training_status": "athletic (skydiver, trains)",
+  "health_conditions": [
+    "femoral patella injury",
+    "grade 2 bicep tendon tear"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Femoral patella tendon healing from grade 2 tear improved from 6 months estimated recovery to 4-6 weeks. MRI showed patella tendon 95% healed with barely any inflammation. Bicep tear improved from grade 2 to between acute trauma and grade 1.",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Consistent incremental improvement described as ~0.5-1% daily accumulation",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "patella tendon healing (MRI)",
+      "value_after": 95,
+      "unit": "percent healed",
+      "timeframe_days": 42
+    },
+    {
+      "marker_name": "bicep tendon tear grade (MRI)",
+      "value_before": 2,
+      "value_after": 1,
+      "unit": "grade",
+      "timeframe_days": 42
+    }
+  ],
+  "protocol_notes": "Second course of oral TB500 and BPC157 from Direct Peptides. Started physiotherapy ~6 weeks before first MRI in early February (roughly October 2023 injury date). Second MRI done ~6 months after initial injury. User notes oral form is less bioavailable for injury healing compared to injectable but reports positive results despite this limitation. Did not use GH or GH secretagogue.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.415749Z"
+}

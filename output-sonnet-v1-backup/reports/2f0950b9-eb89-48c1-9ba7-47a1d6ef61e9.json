@@ -1,0 +1,47 @@
+{
+  "id": "2f0950b9-eb89-48c1-9ba7-47a1d6ef61e9",
+  "source_id": "1nthftv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nthftv/tesamorelin_negative_reaction/",
+  "author_hash": "da1ff1cd2fdeeb80230e49209dc8042276ea877fc73a2e4c791d1f94c8a0a891",
+  "confidence_tier": 4,
+  "date_published": "2025-09-29T06:02:39-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 days on 2 days off nightly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Welts and itching after injection, gradually worsening over time. After ~6 weeks developed severe reaction: stomach turned bright red during injection, then head rush, lightheadedness, and full-body flushing.",
+      "severity": "significant",
+      "onset_days": 45
+    },
+    {
+      "category": "flushing",
+      "description": "Full body flushing during severe allergic reaction episode.",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "dizziness",
+      "description": "Head rush and lightheadedness during severe reaction.",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started June 1. Reaction treated with Benadryl. Reduced dose to 1mg and missing doses intentionally out of caution after severe reaction. Has 3 more 10mg vials remaining. Suspects antibody development to Tesamorelin. Keeping Benadryl on hand.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.269602Z"
+}

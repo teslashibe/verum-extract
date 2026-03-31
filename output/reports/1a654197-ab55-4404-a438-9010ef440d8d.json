@@ -1,0 +1,58 @@
+{
+  "id": "1a654197-ab55-4404-a438-9010ef440d8d",
+  "source_id": "m539x0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/m539x0/bpc157_from_alibaba_qindao_sigma_7_days_in/",
+  "author_hash": "dd0765541b4bc65b74cfb00292bbbff06f9c3634f76500aca87aa7aee8dc97a0",
+  "confidence_tier": 4,
+  "date_published": "2021-03-14T13:20:04-07:00",
+  "health_conditions": [
+    "shoulder tendon injury (6 months duration)",
+    "knee pain",
+    "forearm pain"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Shoulder pain subsided 50% within a few hours of first injection; reduced 80% by day 7",
+      "severity": "significant",
+      "onset_days": 0
+    },
+    {
+      "category": "joint_pain",
+      "description": "Knee pain completely gone by day 5",
+      "severity": "significant",
+      "onset_days": 5
+    },
+    {
+      "category": "pain_relief",
+      "description": "Forearm pain completely gone",
+      "severity": "significant"
+    },
+    {
+      "category": "inflammation",
+      "description": "Anti-inflammatory effects provide immediate pain relief",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "Ordered from Qindao Sigma via Alibaba. 10 vials × 5mg BPC-157 for $70 + $10 BAC water. Reconstituted with 2ml BAC water. Injected 0.1ml subcutaneously in shoulder. Shipped from US warehouse in Michigan, arrived 9 days after order. Planned duration 2-4 weeks. User noted uncertainty about purity and contamination risk due to direct sourcing from China.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.131779Z"
+}

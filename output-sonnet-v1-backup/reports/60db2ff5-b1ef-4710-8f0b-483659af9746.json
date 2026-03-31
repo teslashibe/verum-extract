@@ -1,0 +1,45 @@
+{
+  "id": "60db2ff5-b1ef-4710-8f0b-483659af9746",
+  "source_id": "1eu2ahc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1eu2ahc/im_lost/",
+  "author_hash": "f2bdab64451b6221724a216ceefd9b706d896fae2ccf969f8dc0994782911231",
+  "confidence_tier": 5,
+  "date_published": "2024-08-16T15:46:04-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "triz",
+      "name_normalized": "trize",
+      "category": "other",
+      "route": "subcutaneous",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "No appetite while on tirzepatide",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Weight loss while on tirzepatide"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Next day after injection would throw up non-stop, felt like food poisoning",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started tirzepatide in February 2024, stopped in May 2024 due to severe nausea/vomiting. Noticed weight regain after stopping. Omeprazole appeared to help with nausea on one occasion. Zofran had opposite effect (worsened symptoms).",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.291978Z"
+}

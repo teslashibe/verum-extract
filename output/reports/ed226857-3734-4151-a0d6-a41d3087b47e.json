@@ -1,0 +1,51 @@
+{
+  "id": "ed226857-3734-4151-a0d6-a41d3087b47e",
+  "source_id": "1ol90l7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ol90l7/fatty_liver/",
+  "author_hash": "559d4b1839eb9cb485b9032e50eff77b4dbe57da64474d49641bf54354fb2e8e",
+  "confidence_tier": 4,
+  "date_published": "2025-10-31T16:09:05-07:00",
+  "health_conditions": [
+    "fatty liver",
+    "alcohol use disorder"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "IGF-1 LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Liver healing according to physician panels",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "liver function tests"
+    }
+  ],
+  "protocol_notes": "User reports rapid liver healing since July sobriety (no alcohol). Ipamorelin/CJC-1295 stack with IGF-1. Physician confirmed improvement in liver panels.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.678322Z"
+}

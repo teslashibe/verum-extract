@@ -1,0 +1,56 @@
+{
+  "id": "51b2bb65-1c48-4267-b118-62cf742890f0",
+  "source_id": "1rzuob8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rzuob8/reta_failure/",
+  "author_hash": "71ad7af6a5365180ab76119823c77ffee39c92cd0b04de7aff2972f29eeb98b9",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T08:43:18-07:00",
+  "training_status": "actively working out",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "pounds falling off with keto, aggressive working out, and calorie limiting on Retatrutide",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "strange skin paresthesia",
+      "severity": "mild"
+    },
+    {
+      "category": "cardiac",
+      "description": "tachycardia",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "insomnia",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "First trial with Retatrutide showed zero appetite suppression and negative side effects. Currently on keto diet, actively working out, limiting calories. Recently started targeted keto with 25g sucrose 30 min before heavy lifts, reporting improved weight loss and maintained ketosis. Notes that Retatrutide may be more effective during active cutting phases than as standalone appetite suppressant compared to semaglutide/tirzepatide.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660279Z"
+}

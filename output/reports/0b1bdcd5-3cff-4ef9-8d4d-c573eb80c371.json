@@ -1,0 +1,38 @@
+{
+  "id": "0b1bdcd5-3cff-4ef9-8d4d-c573eb80c371",
+  "source_id": "1onkev7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1onkev7/glow_blend_anxiety/",
+  "author_hash": "20e95fec72c90ae2a9b96b2dd2ed115387169f32fff7bf275d32e3a87e50a572",
+  "confidence_tier": 4,
+  "date_published": "2025-11-03T10:53:21-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "heart palpitations lasting a couple of weeks after stopping",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 14
+    },
+    {
+      "category": "respiratory",
+      "description": "weird cough uncertain if related",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Did a couple of courses with no problem initially, then started having adverse reactions. Cannot tolerate BPC-157 or blends containing it due to palpitations.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.394489Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "8bc465e0-0e82-4f83-bebf-6f1c2bf615bf",
+  "source_id": "1qu8j8r",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qu8j8r/is_ghkcu_the_only_peptide_that_can_help_improve/",
+  "author_hash": "dd3a265295c724b1a61f5f25912d93904cac5f766ea79dd970500f07ef8528f1",
+  "confidence_tier": 5,
+  "date_published": "2026-02-02T13:37:03-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "NAD also helps with skin, though uncertain if separate effect from GHK-Cu",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User uncertain if NAD benefits are independent of concurrent GHK-Cu use",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.667823Z"
+}

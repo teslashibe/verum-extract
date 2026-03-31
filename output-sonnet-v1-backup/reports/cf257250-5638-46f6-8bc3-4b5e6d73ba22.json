@@ -1,0 +1,36 @@
+{
+  "id": "cf257250-5638-46f6-8bc3-4b5e6d73ba22",
+  "source_id": "1rwczgz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwczgz/retatrutide_and_cjcipamorelin_33_years_old/",
+  "author_hash": "5b8cb378dc753719cf5f8bcaf6e12c0e6ff35241b83529c4f13beb1513746db9",
+  "confidence_tier": 5,
+  "date_published": "2026-03-17T10:22:29-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC/Ipa",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Recommends starting Reta at 2mg to test side effect profile, 300mcg/day CJC/Ipa combined in insulin syringe taken daily. Also recommends splitting testosterone dosing to Mon/Thurs minimum. These appear to be recommendations rather than confirmed personal use protocol.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.107254Z"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "38aa048d-e4fd-4bbd-81f3-e3b38058d3d4",
+  "source_id": "1qr4416",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qr4416/why_isnt_ghkcu_dosage_based_on_age/",
+  "author_hash": "56ce136c193b54f4cea9728bbaa7226e56aa6dbce19b01619895d4026ae88d6c",
+  "confidence_tier": 4,
+  "date_published": "2026-01-30T04:28:39-08:00",
+  "reported_age_range": "60+",
+  "health_conditions": [
+    "scars"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Zinc",
+      "name_normalized": "zinc",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 25,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "reduced redness and inflammation around scar areas on upper cheeks and near nose, tighter skin appearance, smoothing of shallow scars",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Age 71. GHK-Cu concentration: 100mg per 3mL BAC water, administered as 6 units (0.5mL) via 31g needle = 2mg injection nightly. Zinc bisglycinate supplementation in morning. Co-administered with Melanotan II for tanning with no reported interactions. User notes likely baseline GHK-Cu levels of 200-400ng/mL given age. Describes benefits as possibly placebo but noticeable nonetheless.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.66913Z"
+}

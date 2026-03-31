@@ -1,0 +1,64 @@
+{
+  "id": "c0576608-dc46-4b0b-a9f5-6a7417cc83f6",
+  "source_id": "1iflk4v",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1iflk4v/just_injected_1mg_of_pt141_on_my_research_subject/",
+  "author_hash": "b723589ca4547e1e360ed38dd9696f7a1ecde0c9455c9894a877228246169fb6",
+  "confidence_tier": 4,
+  "date_published": "2025-02-01T17:09:44-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "pt141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "triz",
+      "name_normalized": "trize",
+      "category": "other",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "ta1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Raised and itchy injection site, like an allergic reaction from an allergy test",
+      "severity": "mild",
+      "onset_days": 0
+    },
+    {
+      "category": "mood_change",
+      "description": "Raised anxiety after 1mg dose",
+      "severity": "moderate",
+      "onset_days": 0
+    },
+    {
+      "category": "other",
+      "description": "Severe restless legs after 1mg dose",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "OP has prior experience with tirzepatide (triz), semaglutide (sema), and thymosin alpha-1 (ta1) without injection site reactions. First time experiencing ISR and systemic side effects with PT-141 at 1mg dose.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.288132Z"
+}

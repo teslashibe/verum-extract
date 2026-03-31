@@ -1,0 +1,47 @@
+{
+  "id": "ee83ab7f-1c68-466b-9920-12f99a8a356e",
+  "source_id": "1n1bxxx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n1bxxx/first_injection_of_cjc_no_dac_ipa_5mg5mg_mix/",
+  "author_hash": "225db8c571ccf4e3f0eb39eb747901c87d188acd98bd9c3f76e9f1f796fd675f",
+  "confidence_tier": 4,
+  "date_published": "2025-08-27T02:02:47-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC no dac / Ipa 5mg/5mg mix",
+      "name_normalized": "cjc_no_dac__ipa_5mg5mg_mix",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "1x daily (nightly)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Felt flush after injection",
+      "severity": "mild",
+      "onset_days": 0
+    },
+    {
+      "category": "other",
+      "description": "Increased heart rate after injection",
+      "severity": "mild",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "Reconstituted 5mg/5mg dry mix with 2mL bac water. Intended to start at 100mcg but injected 200mcg due to misreading under pressure (needle anxiety). Injected 4 hours after dinner (fasted). Planning to continue at 200mcg nightly. Also plans to begin Retatrutide on Sunday.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.273572Z"
+}

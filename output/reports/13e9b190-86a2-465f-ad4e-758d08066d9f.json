@@ -1,0 +1,56 @@
+{
+  "id": "13e9b190-86a2-465f-ad4e-758d08066d9f",
+  "source_id": "1qthsy0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qthsy0/switching/",
+  "author_hash": "ce02f3648ec64f3367a3379848719e5fc87b9a7178e7d1cf25cd6e992898a84c",
+  "confidence_tier": 4,
+  "date_published": "2026-02-01T17:53:29-08:00",
+  "training_status": "works out every day",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 8,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 15,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression finally kicked in at 8mg Retatrutide, described as a Godsend",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_pressure",
+      "description": "No elevated resting heart rate at final dose despite concerns",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Switched from Tirzepatide 15mg to Retatrutide. Concerned about elevated RHR but didn't experience it. Titrated Retatrutide 1mg/week starting at 2mg, reached 8mg. Also supplementing with Cagrilintide. Works out every day.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.668289Z"
+}

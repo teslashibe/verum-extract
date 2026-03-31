@@ -1,0 +1,42 @@
+{
+  "id": "c540e5e0-aa7a-4a14-89a5-cc9686d1a6de",
+  "source_id": "1rgumfz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rgumfz/melanotan2_when_very_fair_and_freckles/",
+  "author_hash": "68cd97ac834d1a6ba36632a8b11cec47cd611db1f70ce03d75998d0e7e4b7ff8",
+  "confidence_tier": 5,
+  "date_published": "2026-02-27T21:50:33-08:00",
+  "health_conditions": [
+    "Fitzpatrick Type I skin (never tan, only burn)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Tanning response in Type I skin requires higher doses than standard recommendations",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Increases amount and intensity of freckles",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Fitzpatrick Type I (never tans, only burns). Requires 500mcg-1mg dosing for decent results, whereas general dosing advice of lower amounts would be ineffective and potentially dangerous for this skin type. Notes that standard dosing guidance is borderline dangerous for fair-skinned individuals.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.658673Z"
+}

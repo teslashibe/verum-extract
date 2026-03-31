@@ -1,0 +1,74 @@
+{
+  "id": "5a1a178d-b683-4f01-a38f-a815f3147f78",
+  "source_id": "1q0chkl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q0chkl/dsip_oh_my/",
+  "author_hash": "7ad78792aaf382b68ce4b985b2c1168f0cd95269b2b44e1560e0dc2bb928b3ff",
+  "confidence_tier": 4,
+  "date_published": "2025-12-31T05:01:26-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "nasal",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "DSIP",
+      "name_normalized": "dsip",
+      "category": "sleep",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleep improved after switching from nasal to subcutaneous DSIP; sleep HRV improved",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Nasal form caused nightmares",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "HRV"
+    },
+    {
+      "marker_name": "HRV"
+    },
+    {
+      "marker_name": "resting heart rate"
+    }
+  ],
+  "protocol_notes": "Used nasal form initially (caused nightmares), switched to SC form. Recommends intermittent use (2-4 nights/week) to avoid tolerance and REM disruption. Daily use leads to quick tolerance and next-day grogginess. Starting dose 100 mcg SC. One 10 mg bottle in 3 cc BAC water lasts 25-50 weeks at 2-4 nights/week dosing. Reconstituted vial lasts ~6 weeks refrigerated. Also using Retatrutide which increased resting HR and tanked HRV initially, now stabilizing.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.388622Z"
+}

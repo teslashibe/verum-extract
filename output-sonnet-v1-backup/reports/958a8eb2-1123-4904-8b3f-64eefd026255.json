@@ -1,0 +1,55 @@
+{
+  "id": "958a8eb2-1123-4904-8b3f-64eefd026255",
+  "source_id": "1rb2yq1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rb2yq1/does_reta_dosing_depend_on_weight/",
+  "author_hash": "35549341453a9ad13940241bd2c67634c66998b3cfa93110392dbbf5363f40d3",
+  "confidence_tier": 3,
+  "date_published": "2026-02-21T13:24:38-08:00",
+  "reported_weight": {
+    "value": 230,
+    "unit": "lbs"
+  },
+  "training_status": "Lifts 6 days a week (PPL x2)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Started at 310lbs in Aug, now 230lbs (80lbs lost). Only ~5lbs muscle loss according to scan.",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "At 10mg has zero appetite and could probably fast for days",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Goal to not lose too much muscle; lost only ~5lbs of muscle while losing 80lbs total",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "6'4\", started at 310lbs in August, currently 230lbs. Lifted PPLPPLx 6 days/week, ate at least 200g protein, no cardio. Used GLOW for recovery. Lost ~5lbs muscle per body scan. Titrated from 2mg up to 10mg. At 7.5mg started getting hungry near next shot; moved to 10mg. Goal is \u003c12% BF then find maintenance dose and do a cycle.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.116084Z"
+}

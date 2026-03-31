@@ -1,0 +1,61 @@
+{
+  "id": "6c91536c-87ed-4329-a7d7-b5074978cf45",
+  "source_id": "1jb1y10",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jb1y10/longevityantiaging_peptide_stack_thoughts/",
+  "author_hash": "610e8218e96fd7784f66fea436391a31b91a7ab523242ebb5902576570804dee",
+  "confidence_tier": 4,
+  "date_published": "2025-03-14T04:43:36-07:00",
+  "health_conditions": [
+    "loose skin from weight loss"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "intramuscular",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 10,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Lost 160lbs; loose skin is probably not as devoid of collagen as it would have been without the BPC/TB/GHK-Cu blend",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Epitalon definitely improved sleep on prior cycle; effects faded, planning another cycle",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Takes BPC, TB, and GHK-Cu as a self-made blend in one injection. Used 1mg Epitalon IM daily for 10 days (one 10mg vial per cycle). Planning repeat Epitalon cycle as sleep benefits have waned.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.287089Z"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "a0ab07b3-acb5-4556-8e0f-506876fe179b",
+  "source_id": "1r6831n",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6831n/am_i_right_to_go_for_cjcipa_over_tesamorelinipa/",
+  "author_hash": "0cd044ecfc3cea08bd9434b7997ff4ce6a0f3d5ff6ed27fe026b3513fb74c0a0",
+  "confidence_tier": 4,
+  "date_published": "2026-02-16T04:15:50-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "headache",
+      "description": "headrush from CJC"
+    },
+    {
+      "category": "blood_pressure",
+      "description": "blood pressure spike from CJC"
+    }
+  ],
+  "protocol_notes": "User reports not getting headrush or blood pressure spike from Tesamorelin. User felt Tesamorelin worked better than CJC despite side effects.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.675797Z"
+}

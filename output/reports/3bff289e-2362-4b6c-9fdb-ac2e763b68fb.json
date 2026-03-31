@@ -1,0 +1,43 @@
+{
+  "id": "3bff289e-2362-4b6c-9fdb-ac2e763b68fb",
+  "source_id": "1njs5jx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1njs5jx/anyone_here_microdosing_peptides_instead_of/",
+  "author_hash": "512408068ab6f01bae73a179b737609ad7a50cb7bab288e634f98bdbaf578c0f",
+  "confidence_tier": 4,
+  "date_published": "2025-09-17T16:04:02-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "2x per week",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped 20 lbs in three months",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Hunger returned by day 5 on weekly dosing",
+      "severity": "moderate",
+      "onset_days": 5,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started with 1.25mg per week, transitioned to split dosing 0.75mg 2x per week, titrated to current 2.5mg 2x per week as plateaus were hit",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.9,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.397894Z"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "389cff19-94f3-490b-95de-3cd08be821ef",
+  "source_id": "1ltauhp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ltauhp/peptides_and_autoimmune_diseases/",
+  "author_hash": "614871b5ca6f02dabea0de332314b28458db05ff7fdaf4a035778aa990b5fe80",
+  "confidence_tier": 4,
+  "date_published": "2025-07-06T13:14:33-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "autoimmune disease",
+    "seasonal allergies"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 20,
+      "dose_unit": "units",
+      "frequency": "once every 10 days for protocol, 10 units periodic maintenance",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Thymulin",
+      "name_normalized": "thymulin",
+      "category": "immune",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "units",
+      "frequency": "once every 10 days for protocol, periodic maintenance",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "autoimmune",
+      "description": "changed life, improved autoimmune issues",
+      "severity": "significant"
+    },
+    {
+      "category": "allergy_relief",
+      "description": "cured seasonal allergies; previously affected 10 months of year in Oklahoma",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Mixed 2 vials TA-1 and 1 vial Thymulin in 3ml BAC at 2:1 ratio; pen administered at 30 units for 10 day protocol twice yearly with periodic maintenance at 10 units",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.404838Z"
+}

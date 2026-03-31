@@ -1,0 +1,54 @@
+{
+  "id": "809f4305-c64e-496c-8ef7-c65c67262797",
+  "source_id": "17nqlxa",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/17nqlxa/one_month_taking_peptide_sciences_gut/",
+  "author_hash": "22de67242065db5780d869bf95c9b4afd7403eadb5dd859d97c7780b90e214d0",
+  "confidence_tier": 4,
+  "date_published": "2023-11-04T10:28:50-07:00",
+  "health_conditions": [
+    "lactose intolerance",
+    "IBS-like symptoms",
+    "inflammation"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "oral",
+      "frequency": "1x daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "oral",
+      "frequency": "1x daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Lactose intolerance gone",
+      "severity": "significant",
+      "onset_days": 21
+    },
+    {
+      "category": "inflammation",
+      "description": "Other inflammation issues seem diminished",
+      "severity": "moderate",
+      "onset_days": 21
+    }
+  ],
+  "protocol_notes": "3 weeks into Peptide Sciences capsule formula. Originally intended for IBS and inflammation but unexpected benefit of resolving lactose intolerance.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.419521Z"
+}

@@ -1,0 +1,106 @@
+{
+  "id": "5a75764b-bc0d-48c5-ba5f-0690fe0e7f36",
+  "source_id": "1lbdq9h",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lbdq9h/assistance_with_peptide_stack_for_fat_loss_and/",
+  "author_hash": "26d5e2a0b178fabaac1253259f514dbabfd51f7cdb77b92f6926593cce871a96",
+  "confidence_tier": 4,
+  "date_published": "2025-06-14T10:11:14-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 180,
+    "unit": "lbs"
+  },
+  "training_status": "resistance training with kettlebells 3-4x/week, walking 15000 steps daily",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "3x weekly (0.666 mg per injection)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "5x weekly, plus extra for workouts",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "5x weekly, plus extra for workouts",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "variable, recent larger shots in specific back location",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "stacked with BPC-157",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 20 pounds",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Gained muscle while losing fat",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Currently at approximately 12-13% body fat",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Ipamorelin negatively impacting sleep, timing adjustment attempted",
+      "severity": "moderate"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Retatrutide causing stomach pains, required increased fiber and magnesium supplementation",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "mood_change",
+      "description": "BPC-157 caused intense blunting of psychedelics and anhedonia in combination with other compounds; resolved after discontinuation",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User mentions verifiable 3rd party testing supplier in Canada. Suggests medical testing to monitor long-term effects. BPC-157 noted to impact 5-HT2A receptors. Using 3 weekly Retatrutide injections. Experimenting with timing of Ipamorelin to minimize sleep disruption.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.406257Z"
+}

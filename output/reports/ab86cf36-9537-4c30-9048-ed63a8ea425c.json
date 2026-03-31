@@ -1,0 +1,51 @@
+{
+  "id": "ab86cf36-9537-4c30-9048-ed63a8ea425c",
+  "source_id": "1qc2xpw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qc2xpw/blends_are_bunk/",
+  "author_hash": "55d7eaa74009abd1a95ba452ba0aeeffc75ff7c1fce48cb41749b1130dca38b4",
+  "confidence_tier": 4,
+  "date_published": "2026-01-13T12:50:26-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 7,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 7,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Site-specific injury healing; whole body recovery",
+      "severity": "significant"
+    },
+    {
+      "category": "pain_relief",
+      "description": "Significant pain relief from loading phase",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User describes loading phases for TB-500 (4-6 weeks at 5-7mg/week, performed daily or bi-weekly) and BPC-157 (250-500mcg 1-2x daily for site-specific, 2-4 weeks). Applied BPC-157 to both shoulders. Maintenance phases detailed. Part of BPC/TB blend discussion. User emphasizes need for research on individual peptides before using blends.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.68444Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "500a4bbc-a89e-42fc-a324-cbe5c4598b25",
+  "source_id": "19faw3y",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/19faw3y/glp1_to_lean/",
+  "author_hash": "3eab68b9d5205509a3fa33a6011b6710ce10d15d5ddccd7db053a8365468aaab",
+  "confidence_tier": 5,
+  "date_published": "2024-01-25T06:42:43-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly starting dose, increasing +1mg per week every month",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Describes people in circle losing weight and maintaining for ~6 months after weaning off",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Advises starting at 1mg tirzepatide, increasing +1mg/week each month, targeting ~0.5 lb loss every few weeks. Recommends weaning off at same pace. Prefers tirz over sema for muscle preservation due to GIP agonism.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.295445Z"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "91590348-9417-4c96-8cf0-3a52bacd13b3",
+  "source_id": "1rqacfn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rqacfn/ghkcu_and_chelated_copper_supplements/",
+  "author_hash": "fe44530d8a1b7183f0f4e6b668d1e0e24ab3bbcfda86f684d0be4dc55146bec1",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T14:37:06-07:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Zinc",
+      "name_normalized": "zinc",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 25,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Copper",
+      "name_normalized": "copper",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Commenter reports personal protocol combining GHK-Cu with zinc and copper glycinate supplementation.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.666007Z"
+}

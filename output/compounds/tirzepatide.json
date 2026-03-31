@@ -1,0 +1,234 @@
+{
+  "compound_id": "tirzepatide",
+  "display_name": "Tirzepatide",
+  "category": "body_composition",
+  "total_reports": 1027,
+  "reports_by_tier": {
+    "3": 7,
+    "4": 817,
+    "5": 203
+  },
+  "top_benefits": [
+    {
+      "category": "fat_loss",
+      "count": 494,
+      "pct": 60
+    },
+    {
+      "category": "appetite_suppression",
+      "count": 249,
+      "pct": 30.2
+    },
+    {
+      "category": "energy",
+      "count": 73,
+      "pct": 8.9
+    },
+    {
+      "category": "body_composition",
+      "count": 71,
+      "pct": 8.6
+    },
+    {
+      "category": "muscle_gain",
+      "count": 48,
+      "pct": 5.8
+    },
+    {
+      "category": "sleep",
+      "count": 45,
+      "pct": 5.5
+    },
+    {
+      "category": "inflammation",
+      "count": 38,
+      "pct": 4.6
+    },
+    {
+      "category": "blood_sugar",
+      "count": 34,
+      "pct": 4.1
+    },
+    {
+      "category": "skin",
+      "count": 33,
+      "pct": 4
+    },
+    {
+      "category": "recovery",
+      "count": 28,
+      "pct": 3.4
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "appetite_change",
+      "count": 71,
+      "pct": 8.6,
+      "avg_severity": 2.3
+    },
+    {
+      "category": "gastrointestinal",
+      "count": 60,
+      "pct": 7.3,
+      "avg_severity": 1.9
+    },
+    {
+      "category": "nausea",
+      "count": 47,
+      "pct": 5.7,
+      "avg_severity": 2
+    },
+    {
+      "category": "fatigue",
+      "count": 34,
+      "pct": 4.1,
+      "avg_severity": 2.6
+    },
+    {
+      "category": "sleep_disruption",
+      "count": 28,
+      "pct": 3.4,
+      "avg_severity": 2.6
+    },
+    {
+      "category": "injection_site",
+      "count": 28,
+      "pct": 3.4,
+      "avg_severity": 1.7
+    },
+    {
+      "category": "other",
+      "count": 26,
+      "pct": 3.2,
+      "avg_severity": 2.3
+    },
+    {
+      "category": "water_retention",
+      "count": 23,
+      "pct": 2.8,
+      "avg_severity": 1.7
+    },
+    {
+      "category": "cardiac",
+      "count": 22,
+      "pct": 2.7,
+      "avg_severity": 2
+    },
+    {
+      "category": "mood_change",
+      "count": 20,
+      "pct": 2.4,
+      "avg_severity": 2.5
+    },
+    {
+      "category": "skin_reaction",
+      "count": 14,
+      "pct": 1.7,
+      "avg_severity": 2
+    },
+    {
+      "category": "joint_pain",
+      "count": 14,
+      "pct": 1.7,
+      "avg_severity": 1.9
+    },
+    {
+      "category": "hair_change",
+      "count": 11,
+      "pct": 1.3,
+      "avg_severity": 2
+    },
+    {
+      "category": "nerve_related",
+      "count": 11,
+      "pct": 1.3,
+      "avg_severity": 2.1
+    },
+    {
+      "category": "weight_change",
+      "count": 10,
+      "pct": 1.2,
+      "avg_severity": 2.4
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 5,
+      "unit": "mg",
+      "frequency": "weekly",
+      "count": 24,
+      "pct": 2.3
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 2.5,
+      "unit": "mg",
+      "frequency": "weekly",
+      "count": 14,
+      "pct": 1.4
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 2.5,
+      "unit": "mg",
+      "frequency": "once weekly",
+      "count": 11,
+      "pct": 1.1
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 7.5,
+      "unit": "mg",
+      "frequency": "weekly",
+      "count": 10,
+      "pct": 1
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 15,
+      "unit": "mg",
+      "frequency": "weekly",
+      "count": 10,
+      "pct": 1
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Retatrutide",
+      "report_count": 325
+    },
+    {
+      "compound_id": "ipamorelin",
+      "display_name": "Ipamorelin",
+      "report_count": 120
+    },
+    {
+      "compound_id": "tesamorelin",
+      "display_name": "Tesamorelin",
+      "report_count": 114
+    },
+    {
+      "compound_id": "semaglutide",
+      "display_name": "Semaglutide",
+      "report_count": 97
+    },
+    {
+      "compound_id": "bpc_157",
+      "display_name": "BPC-157",
+      "report_count": 94
+    }
+  ],
+  "avg_cycle_length_days": 132.2,
+  "avg_sentiment_score": 0.681,
+  "sentiment_breakdown": {
+    "positive": 551,
+    "mixed": 177,
+    "negative": 58,
+    "neutral": 241
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T04:48:57.359015Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "76e920c0-5bc5-4323-9b09-e054b87a2e3d",
+  "source_id": "1ox6xhw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ox6xhw/what_next_tesa/",
+  "author_hash": "8f7d90dd1dabff0d9b494010caad6569c8d69f3e439dc229677846dccc6d9797",
+  "confidence_tier": 4,
+  "date_published": "2025-11-14T12:02:48-08:00",
+  "reported_age_range": "50-59",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "L-carnitine",
+      "name_normalized": "l_carnitine",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 600,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SLU-PP-332",
+      "name_normalized": "slu_pp_332",
+      "category": "body_composition",
+      "route": "oral",
+      "dose_value": 250,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "L-carnitine described as amazing",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "HGH changed body composition by first week",
+      "severity": "significant",
+      "onset_days": 7
+    },
+    {
+      "category": "fat_loss",
+      "description": "SLU-PP-332 improved results when switched to oral route",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User is older (likely 50+) and notes Tesamorelin works better on younger folks. Tried HGH and felt immediate effects. Originally took SLU-PP-332 subcutaneous but switched to oral with better results. Protocol includes 600mg L-carnitine daily, 2 IU HGH, 250mg SLU oral.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.677358Z"
+}

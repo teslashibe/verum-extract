@@ -1,0 +1,48 @@
+{
+  "id": "93fdbfa5-e684-4148-b65c-1a5b064211a3",
+  "source_id": "1o0hd4u",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o0hd4u/hit_a_vein_passed_out_and_prude_sweating/",
+  "author_hash": "c936c7dcd491d3bdc7308ed0cb9ed0d35363d2c580a09d84c66371f0a2d6eb6d",
+  "confidence_tier": 4,
+  "date_published": "2025-10-07T08:06:50-07:00",
+  "health_conditions": [
+    "local site reactions to peptides (red and itchy)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "intramuscular",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "intramuscular",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "Heart palpitations, loss of vision, tongue swelling, fainting",
+      "severity": "significant",
+      "onset_days": 0
+    },
+    {
+      "category": "blood_pressure",
+      "description": "Low blood sugar symptoms during episode",
+      "severity": "significant",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "Injected intramuscularly in upper right glute area (standard TRT injection site). EMS was called and triaged. Suspected vein hit with sudden internal allergic reaction. No long-term damage reported. History of local site reactions (red and itchy) to peptides.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.396242Z"
+}

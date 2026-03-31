@@ -1,0 +1,44 @@
+{
+  "id": "fd0b304d-f2c0-4730-9287-ead91397e071",
+  "source_id": "1c0rxj1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1c0rxj1/i_cannot_afford_bpc157_whats_the_next_best_thing/",
+  "author_hash": "cac8ffe4bc37194a47fdcd25ed1c5556b40eae368a41380b6dffa62bdd1eb762",
+  "confidence_tier": 4,
+  "date_published": "2024-04-10T10:57:36-07:00",
+  "health_conditions": [
+    "joint pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "frequency": "daily",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "frequency": "on and off",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Fish oil provided more joint benefit than BPC-157 and TB-500 combined in 1 month",
+      "severity": "moderate",
+      "onset_days": 30
+    }
+  ],
+  "protocol_notes": "6 months BPC-157 daily, 6 months TB-500 off and on. Fish oil was more effective than peptides for joints.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698025Z"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "909fdf74-a01b-47c6-a22c-7a2a6552799d",
+  "source_id": "1s6uant",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6uant/hgh_sides/",
+  "author_hash": "f4f2bff4faab680d7f70be045f8d1e95d2fd02fcd31afc670a698aad7e781095",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T05:52:38-07:00",
+  "training_status": "bodybuilder/strength athlete",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 18,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "God tier pumps",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Slight hand swolleness",
+      "severity": "mild"
+    },
+    {
+      "category": "numbness_tingling",
+      "description": "Maybe a little numbness",
+      "severity": "mild"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1",
+      "value_after": 800,
+      "unit": "ng/mL or similar"
+    }
+  ],
+  "protocol_notes": "User reports never feeling carpal tunnel at any HGH dose. Currently in a 'health phase' using 4 IU daily. Previously blasted at 18 IU daily during bodybuilding phase.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.656348Z"
+}

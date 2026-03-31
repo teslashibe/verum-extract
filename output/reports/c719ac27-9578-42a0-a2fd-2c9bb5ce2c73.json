@@ -1,0 +1,41 @@
+{
+  "id": "c719ac27-9578-42a0-a2fd-2c9bb5ce2c73",
+  "source_id": "1fctk4s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fctk4s/tesa/",
+  "author_hash": "f187a408b293ece14590b42bc5ff4568768067edc100232729c7a3afc907b584",
+  "confidence_tier": 4,
+  "date_published": "2024-09-09T09:23:52-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "1x daily at night",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and night)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Ipamorelin paired with Tesamorelin to limit somatostatin and allow GH pulse release"
+    }
+  ],
+  "protocol_notes": "Protocol recommendation from Dr. Seeds: 1mg Tesamorelin at night paired with 100mcg Ipamorelin morning and night to optimize GH release.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696288Z"
+}

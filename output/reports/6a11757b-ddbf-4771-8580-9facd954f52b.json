@@ -1,0 +1,49 @@
+{
+  "id": "6a11757b-ddbf-4771-8580-9facd954f52b",
+  "source_id": "1r2867m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2867m/tesamorelin_ghkcu/",
+  "author_hash": "0fc0eda552671ca164e0af32e9ef74c0efc9ca3d588c93cdbf1fec0cc0228b30",
+  "confidence_tier": 4,
+  "date_published": "2026-02-11T12:11:38-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 145,
+    "unit": "lbs"
+  },
+  "training_status": "4x weight lifting, with cardio mixed in on 2 days",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 150,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "cycle_length_days": 150,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Bloating when not maintaining strict calorie deficit",
+      "severity": "moderate"
+    },
+    {
+      "category": "weight_change",
+      "description": "Put on more weight despite use",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "5-month cycle. OP reports no noticeable results. States GHK-Cu had no noticeable effects. Reports Tesamorelin requires strict calorie deficit or causes bloating and fat gain. Height: 5'8\", Body fat: 13%.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.677299Z"
+}

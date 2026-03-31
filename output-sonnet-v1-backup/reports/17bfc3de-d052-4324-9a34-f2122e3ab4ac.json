@@ -1,0 +1,48 @@
+{
+  "id": "17bfc3de-d052-4324-9a34-f2122e3ab4ac",
+  "source_id": "1opqko0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1opqko0/which_stack_would_you_recommend/",
+  "author_hash": "1213000b518a4cacc4d9ea5205ed9f3b56b91ee3f008ebafaaeef78d88485fe6",
+  "confidence_tier": 5,
+  "date_published": "2025-11-05T21:27:56-08:00",
+  "training_status": "active",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Started putting muscle on again after adding CJC while in a calorie deficit and losing weight",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Was in a slump from calorie deficit, CJC helped",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "User was in a calorie deficit and losing weight, felt like they were in a slump, added CJC1295 and felt like they started gaining muscle again. Personal experience shared in reply context.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.265469Z"
+}

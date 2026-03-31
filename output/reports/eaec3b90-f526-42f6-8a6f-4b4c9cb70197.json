@@ -1,0 +1,51 @@
+{
+  "id": "eaec3b90-f526-42f6-8a6f-4b4c9cb70197",
+  "source_id": "1r66c5j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r66c5j/angiogenesis_from_bpctb/",
+  "author_hash": "e92ebda117e7956fd667555198509ed8c93560243c5a380d6558b0e37f577cc2",
+  "confidence_tier": 5,
+  "date_published": "2026-02-16T02:40:11-08:00",
+  "health_conditions": [
+    "jaw surgery recovery",
+    "facial swelling",
+    "arterial embolization procedure"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Potential to heal from jaw surgery and reduce swelling"
+    },
+    {
+      "category": "pain_relief",
+      "description": "Stop being in pain from jaw surgery"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Potential risk of angiogenesis disrupting arterial embolization blockage, causing uncontrolled bleeding",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User researching use for jaw surgery recovery but has contraindication: prior arterial embolization in face. No human data available on peptide use in this context.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.66341Z"
+}

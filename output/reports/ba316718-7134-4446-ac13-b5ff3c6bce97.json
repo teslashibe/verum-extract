@@ -1,0 +1,38 @@
+{
+  "id": "ba316718-7134-4446-ac13-b5ff3c6bce97",
+  "source_id": "1r7idq3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r7idq3/how_much_bpc157_for_arthritis/",
+  "author_hash": "4e66850fb6c5b2485d542abe802ef0905c36654126065a663149fb66222d7da8",
+  "confidence_tier": 4,
+  "date_published": "2026-02-17T12:52:17-08:00",
+  "health_conditions": [
+    "stage 2 arthritis (right shoulder)"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "cycle_length_days": 18,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "shoulder feels tighter, slowly starting to feel a difference",
+      "severity": "mild",
+      "onset_days": 18
+    }
+  ],
+  "protocol_notes": "User is seeking dosage guidance and duration recommendations",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.675042Z"
+}

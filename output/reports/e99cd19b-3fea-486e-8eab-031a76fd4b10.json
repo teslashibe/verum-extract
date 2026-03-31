@@ -1,0 +1,39 @@
+{
+  "id": "e99cd19b-3fea-486e-8eab-031a76fd4b10",
+  "source_id": "1h6h826",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1h6h826/obese_26_year_old_male_considering_peptides/",
+  "author_hash": "92d5fcaaaccedcb250beadb146aea0fdd35e99221627fdcb2c00cf96d1cf51c3",
+  "confidence_tier": 5,
+  "date_published": "2024-12-04T06:25:08-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "reported_weight": {
+    "value": 280,
+    "unit": "lbs"
+  },
+  "training_status": "lifting 5x per week, former college athlete (wrestling, football)",
+  "health_conditions": [
+    "obesity",
+    "sleep apnea"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "5x per week",
+      "cycle_length_days": 84,
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Recommended by physician. Goal: lose 30-40 lbs of fat over 4 months to reach ~220 lbs at 15% body fat. Currently at ~35% body fat per DEXA scan. Previously tried Phentermine 37.5mg with no effect. Patient expressed concern about GLP-1 side effects and rejected them.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.412284Z"
+}

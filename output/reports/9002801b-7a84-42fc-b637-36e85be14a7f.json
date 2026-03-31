@@ -1,0 +1,50 @@
+{
+  "id": "9002801b-7a84-42fc-b637-36e85be14a7f",
+  "source_id": "1r8803l",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r8803l/eye_bags/",
+  "author_hash": "412e5f713ec6b26cb4d43e118ed65732d123330095b98c6ce359614f028ac757",
+  "confidence_tier": 4,
+  "date_published": "2026-02-18T08:41:05-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "intramuscular",
+      "dose_value": 3,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 20,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 4,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Started dreaming every day and sleeping well after starting HGH",
+      "severity": "moderate"
+    },
+    {
+      "category": "skin",
+      "description": "People nearby report user looks more attractive, attributed to quality of sleep and reduction of eye bags",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User notes this is early in peptide journey and may be false positive. HGH dosed for 20 days, GHK-Cu only for 4 days.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.662483Z"
+}

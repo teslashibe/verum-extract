@@ -1,0 +1,44 @@
+{
+  "id": "58406b21-3781-47c2-97b0-2ff7c2223200",
+  "source_id": "1gefdgs",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1gefdgs/tirz/",
+  "author_hash": "a4ebf695d8fe420ded6260f95696cf8f53224dc4dad4c0b36b7c9cfcae23adec",
+  "confidence_tier": 4,
+  "date_published": "2024-10-28T15:38:19-07:00",
+  "health_conditions": [
+    "gallstones"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 65 lbs total over 7 months while staying on 2.5mg for the majority of the journey",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Developed gallstones when attempting to go up to 5mg",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Stayed at 2.5mg for entire weight loss journey (65 lbs over 7 months); tried 5mg, got gallstones, returned to 2.5mg; now on 2mg weekly for maintenance",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.289853Z"
+}

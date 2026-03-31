@@ -1,0 +1,33 @@
+{
+  "id": "45a251eb-907d-4ec2-a862-40531e45cb41",
+  "source_id": "1s74bbc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s74bbc/motsc_dosage_with_reta/",
+  "author_hash": "64f851eb498e5587ff704db74ca67e56e087a5854e96bb14522d71c2d9c6c559",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T12:23:13-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Histamine response reported as common with MOTS-c"
+    }
+  ],
+  "protocol_notes": "Initially tried 5mg but found it too much. Now using 3mg daily which works without too much fuss. Notes that everyone reacts differently, especially regarding histamine response.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.656008Z"
+}

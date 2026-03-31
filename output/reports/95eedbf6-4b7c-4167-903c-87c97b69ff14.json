@@ -1,0 +1,69 @@
+{
+  "id": "95eedbf6-4b7c-4167-903c-87c97b69ff14",
+  "source_id": "1qpgwvo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qpgwvo/post_reta/",
+  "author_hash": "230539a51c1ff4e770025d7cb091b50e0fb68a352f9d340368f90593cdbb1239",
+  "confidence_tier": 4,
+  "date_published": "2026-01-28T08:57:24-08:00",
+  "reported_sex": "female",
+  "training_status": "ULPPL lifting to fail, already an experienced lifter",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Gained 10lbs muscle mass over 7 months (62lb to 72lb muscle) while training ULPPL",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Test is great for energy and gym progression",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Improved recovery with training",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiovascular",
+      "description": "Cholesterol has been going up",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone"
+    },
+    {
+      "marker_name": "cholesterol"
+    }
+  ],
+  "protocol_notes": "Height: 5'5\". Kept testosterone levels below 300 on bloodwork, backing down to 150-200 due to rising cholesterol. No masculinizing side effects reported (no hair growth or voice changes). Uses Thorne hormone support supplement to help manage estrogen conversion of testosterone. Pins 1iu HGH daily. Avoided anavar route. Gets regular bloodwork done.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.682699Z"
+}

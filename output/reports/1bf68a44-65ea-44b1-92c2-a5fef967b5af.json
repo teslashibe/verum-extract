@@ -1,0 +1,37 @@
+{
+  "id": "1bf68a44-65ea-44b1-92c2-a5fef967b5af",
+  "source_id": "1ni172o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ni172o/has_anyone_here_ever_stacked_peptides_with/",
+  "author_hash": "ec4dcd817ae0bd14d65e9f0ba4b41c613b2ece548ddc77eb243af03bbf83d68c",
+  "confidence_tier": 4,
+  "date_published": "2025-09-15T16:09:31-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Metformin",
+      "name_normalized": "metformin",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "explosive diarrhea, unbearable side effects",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Could not stand the sides from Tirzepatide with Metformin combination. Even stopping Tirzepatide and taking metformin alone, the sides were unbearable. Prefers not taking multiple supplements/medications at once to identify what is causing issues.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.398034Z"
+}

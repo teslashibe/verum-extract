@@ -1,0 +1,87 @@
+{
+  "id": "1c3282f3-8695-4971-bbd4-9a6408acbee2",
+  "source_id": "1g6d8iv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1g6d8iv/the_craziest_recovery_stack_ever_for_muscle/",
+  "author_hash": "c4d226f6340a8a09687687028d3909c0ae280a16d9e6fd3f50e3fb85919b5e99",
+  "confidence_tier": 4,
+  "date_published": "2024-10-18T01:27:22-07:00",
+  "health_conditions": [
+    "chronic muscle tears",
+    "significant scar tissue on legs",
+    "knee tear (no grade 3)",
+    "hamstring numbness"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 125,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (initial), then 1x daily at night",
+      "cycle_length_days": 9,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 125,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (initial), then 1x daily at night",
+      "cycle_length_days": 9,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Reported 30-50% reduction in palpable scar tissue on hamstrings and quad within one day of starting green tea fast combined with peptide stack and red light therapy",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "other",
+      "description": "Resolution of daily morning numbness in hamstrings after first day of combined protocol",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "injury_healing",
+      "description": "Able to walk with almost no discomfort after 9 days of protocol; overall much better results over 3-week period",
+      "severity": "significant",
+      "onset_days": 9
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injury_site",
+      "description": "Right hamstring and quad experienced new muscle tears after rapid scar tissue reduction, attributed to destabilization from losing scar tissue too quickly on leg with less scar tissue",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Initial protocol: BPC157 + TB500 administered locally across both hamstrings and one quad at 125mcg each per site (375mcg total) subcutaneously, 2x daily, 3 days on / 3 days off, combined with green tea fasting and red light therapy. Fasted for 9 days total. Revised planned protocol: 50mcg max localized dose per peptide, 250mcg minimum systemic, 1x daily at night, 1 day on / 3 days off. OP ultimately concluded fasting alone produced similar results and decided not to repurchase peptides for muscle recovery. Previously tried same peptide stack (BPC157, TB500, Ipamorelin, CJC1295) with red light therapy without fasting and noticed no significant difference over several weeks.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.289893Z"
+}

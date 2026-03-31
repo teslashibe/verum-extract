@@ -1,0 +1,57 @@
+{
+  "id": "28876160-5165-4af0-9977-325bbfacb449",
+  "source_id": "1s029qy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s029qy/my_dad_has_3cm_tears_in_his_rotary_cuff_will/",
+  "author_hash": "e4867455392922272ae79165e529ff7a677d389b7c74021992bc738ef7bbc80c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T13:45:17-07:00",
+  "training_status": "lifting",
+  "health_conditions": [
+    "rotator cuff tear (8mm)",
+    "shoulder dislocation",
+    "ankle break (3 fractures)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "pain_relief",
+      "description": "Ankle pain dropped from 8/10 to 1/10 in about 4 weeks; shoulder pain behind shoulder and instability being addressed",
+      "severity": "significant",
+      "onset_days": 28
+    },
+    {
+      "category": "injury_healing",
+      "description": "8mm shoulder tear and ankle break healing; planning MRI at 3 months to assess progress",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Local injections near injury site. 500mcg front shoulder (tear location) and 500mcg back shoulder (soreness location). User reports direct local injections more effective than systemic. Older injuries take longer to heal. Ankle break was almost 2 years old at time of treatment.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.648864Z"
+}

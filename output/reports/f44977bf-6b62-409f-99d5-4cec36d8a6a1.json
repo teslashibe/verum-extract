@@ -1,0 +1,53 @@
+{
+  "id": "f44977bf-6b62-409f-99d5-4cec36d8a6a1",
+  "source_id": "1rusiw3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rusiw3/reta_or_tesa_to_get_rid_of_stubborn_abdominal_and/",
+  "author_hash": "1b9bbfcb72e935329824301ef769c2964f8912c92efbf428f753e863d26153d4",
+  "confidence_tier": 3,
+  "date_published": "2026-03-15T15:54:33-07:00",
+  "reported_weight": {
+    "value": 83,
+    "unit": "kg"
+  },
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "6cm waist circumference reduction (100cm to 94cm), subcutaneous abdominal fat loss without scale weight change, gained lean mass (muscle, water, glycogen)",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Visceral Fat",
+      "value_before": 520,
+      "unit": "g",
+      "timeframe_days": 42
+    },
+    {
+      "marker_name": "Body Weight",
+      "value_before": 83,
+      "value_after": 83,
+      "unit": "kg",
+      "timeframe_days": 42
+    }
+  ],
+  "protocol_notes": "Fasted administration. User had reasonably low baseline visceral fat (520g). DEXA scan performed before protocol. 6 weeks total duration. Subcutaneous abdominal fat loss confirmed as primary circumference reduction occurred only in waist, not arms, legs, chest, or hips.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.651462Z"
+}

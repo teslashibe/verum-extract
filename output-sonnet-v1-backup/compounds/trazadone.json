@@ -1,0 +1,70 @@
+{
+  "compound_id": "trazadone",
+  "display_name": "trazadone",
+  "category": "other",
+  "total_reports": 2,
+  "reports_by_tier": {
+    "4": 2
+  },
+  "top_benefits": [
+    {
+      "category": "fat_loss",
+      "count": 1,
+      "pct": 50
+    },
+    {
+      "category": "appetite_suppression",
+      "count": 1,
+      "pct": 50
+    },
+    {
+      "category": "sleep",
+      "count": 1,
+      "pct": 50
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "sleep_disruption",
+      "count": 2,
+      "pct": 100,
+      "avg_severity": 2.5
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "oral",
+      "dose": 100,
+      "unit": "mg",
+      "frequency": "",
+      "count": 1,
+      "pct": 50
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "retatrutide",
+      "display_name": "retra",
+      "report_count": 1
+    },
+    {
+      "compound_id": "vyvanse",
+      "display_name": "vyvanse",
+      "report_count": 1
+    },
+    {
+      "compound_id": "sermorelin",
+      "display_name": "sermorelin",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.5,
+  "sentiment_breakdown": {
+    "positive": 0,
+    "mixed": 2,
+    "negative": 0,
+    "neutral": 0
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.969807Z"
+}

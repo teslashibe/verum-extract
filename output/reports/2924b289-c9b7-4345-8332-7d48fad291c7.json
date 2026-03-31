@@ -1,0 +1,69 @@
+{
+  "id": "2924b289-c9b7-4345-8332-7d48fad291c7",
+  "source_id": "1rrr09i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rrr09i/any_peptides_to_treat_neurological_disorders_such/",
+  "author_hash": "16204b01be68e92fc2082ce9d2546685f8694d04a7022c412daf6cd4ed19f7bb",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T06:39:05-07:00",
+  "health_conditions": [
+    "PANS"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "route": "nasal",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Cortagen",
+      "name_normalized": "cortagen",
+      "category": "other",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Pinealon",
+      "name_normalized": "pinealon",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Inhaler with intranasal glutathione helpful for neuro issues including PANS in children",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "SS-31 and NAD+ reported as helpful in Parkinson's; MOTS-c can alleviate fatigue but doesn't address the actual condition",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User uses intranasal glutathione inhaler via kurvetx.com; has children with PANS treated with compounded medicine in medi sinus rinse and intranasal peptides. Mentioned SS-31 and NAD+ for Parkinson's support; MOTS-c for fatigue but not disease progression. Also mentioned Cortagen and Pinealon for neuro-inflammation in children.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.653004Z"
+}

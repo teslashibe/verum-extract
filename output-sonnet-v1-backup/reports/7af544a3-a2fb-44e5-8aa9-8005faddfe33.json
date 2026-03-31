@@ -1,0 +1,79 @@
+{
+  "id": "7af544a3-a2fb-44e5-8aa9-8005faddfe33",
+  "source_id": "184hboe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/184hboe/antiaging_particularly_to_skincare_stack/",
+  "author_hash": "a21189edabcaaf0e4993d078188f7e5906ef47a5320ee2bfdcd296ef531256ff",
+  "confidence_tier": 4,
+  "date_published": "2023-11-26T10:34:39-08:00",
+  "reported_age_range": "25-29",
+  "training_status": "dirty bulking, gaining muscle and fat",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Collagen",
+      "name_normalized": "cortagen",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Matrixyl 3000",
+      "name_normalized": "matrixyl_300",
+      "category": "other",
+      "route": "topical",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "hyaluronic acid",
+      "name_normalized": "hyaluronic_acid",
+      "category": "other",
+      "route": "topical",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MT2",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "frequency": "on tanning days, then maintenance dose",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Goal to improve skin appearance and look mid-20s; historically has looked young for age (appeared 21-22 at age 28), but feels aged significantly in past year"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Anti-aging emphasis; just starting the protocol, expects update in a year"
+    }
+  ],
+  "protocol_notes": "User is 29 years old, just starting the peptide protocol. Previously used over-the-counter collagen (non-hydrolyzed, now recognizes this was a mistake) and retinol (found OTC not strong enough, now has prescription tret). Also uses vitamin C serum, sunblock, and toner. Plans to add topical GHK-cu, red light therapy, derma rolling, morpheus8, and PRF. Dirty bulking phase; concerned nasolabial folds make them look older.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.295854Z"
+}

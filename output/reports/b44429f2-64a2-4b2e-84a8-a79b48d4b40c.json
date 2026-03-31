@@ -1,0 +1,58 @@
+{
+  "id": "b44429f2-64a2-4b2e-84a8-a79b48d4b40c",
+  "source_id": "1fnw1hd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fnw1hd/thoughts_on_ta1_kpv_instead_of_antibiotics_for/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2024-09-23T14:32:30-07:00",
+  "health_conditions": [
+    "tooth infection",
+    "post-root canal",
+    "post-extraction"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "once daily (day 1), then 250 mcg (day 2)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "once daily (day 1), then 250 mcg (day 2)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "immune",
+      "description": "Intended use for active tooth infection management; seeking alternative to antibiotics"
+    }
+  ],
+  "protocol_notes": "User started TA-1 and KPV the night before dental procedure (root canal and extraction). Planned to combine peptides with methylene blue, garlic pills, and oil of oregano for antibacterial support. Deliberately avoiding prescribed amoxicillin. Also concerned about LL-37 dependency risk.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.696073Z"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "0b37e0d7-4e82-41ae-9726-bd3830c19943",
+  "source_id": "1n034kk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n034kk/too_much_reta/",
+  "author_hash": "5b6455a331f92df6e8a20c717e8efe6bd7b4ae22b508b838a4e7d6d7647f2e46",
+  "confidence_tier": 4,
+  "date_published": "2025-08-25T14:23:02-07:00",
+  "reported_sex": "male",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Sauna and cold plunge helped recovery; reported feeling a lot better after sauna/cold plunge session",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Nauseous after accidental 2.5mg dose instead of intended 1mg",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "fatigue",
+      "description": "Terrible brain fog after accidental overdose",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "injection_site",
+      "description": "Soreness after injection",
+      "severity": "mild",
+      "onset_days": 0
+    },
+    {
+      "category": "appetite_change",
+      "description": "Unplanned 72-hour fast resulting from GLP-1 effect after accidental overdose",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 3
+    }
+  ],
+  "protocol_notes": "OP accidentally injected 2.5mg of Retatrutide instead of intended 1mg starting dose. Also administers weekly Tirzepatide to wife. Used sauna and cold plunge to manage symptoms.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.274007Z"
+}

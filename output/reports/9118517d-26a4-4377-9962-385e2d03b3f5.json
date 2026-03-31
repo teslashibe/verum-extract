@@ -1,0 +1,83 @@
+{
+  "id": "9118517d-26a4-4377-9962-385e2d03b3f5",
+  "source_id": "1s07as7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s07as7/question_about_peptide_efficacy/",
+  "author_hash": "527c23fde29220506dbe68cf29891eac8bb6a16836233e6c5f56a8b91258113c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-21T17:22:18-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "lifting heavy at gym",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 120,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Developed tendinitis during or after CJC-1295 cycle",
+      "resolved": true,
+      "resolution_days": 180
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "general bloodwork",
+      "timeframe_days": 90
+    },
+    {
+      "marker_name": "blood pressure"
+    }
+  ],
+  "protocol_notes": "User reports bloodwork every 3 months for TRT monitoring. Blood pressure consistently below average. Dosages followed recommended protocols. All peptides from reputable supplier with lab tests. Dialed-in diet and heavy lifting during protocols. No noticeable effects from any compounds despite protocol adherence.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.660067Z"
+}

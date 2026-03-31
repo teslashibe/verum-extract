@@ -1,0 +1,52 @@
+{
+  "id": "3dd23696-fced-4089-a6b5-70059cd71029",
+  "source_id": "1riovis",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1riovis/motsc/",
+  "author_hash": "e61018c8f504c9095071db0a6b0558d0217e0ca565af2c480f7f44fc12b06094",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T02:01:45-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "more intensity and endurance",
+      "severity": "significant"
+    },
+    {
+      "category": "anti_aging",
+      "description": "feel like I'm in my early 30's again",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "strength increase is oddly noticeable",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Using MOTS-c 0.5mg with NAD+ 50mg as stack.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.658017Z"
+}

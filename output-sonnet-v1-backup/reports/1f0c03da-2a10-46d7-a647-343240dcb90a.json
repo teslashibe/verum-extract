@@ -1,0 +1,46 @@
+{
+  "id": "1f0c03da-2a10-46d7-a647-343240dcb90a",
+  "source_id": "1keurvb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1keurvb/glow_help/",
+  "author_hash": "b01fc69999fdb026715837808b7cd353238c580f0ea6ce89d5827103df530246",
+  "confidence_tier": 4,
+  "date_published": "2025-05-04T14:21:11-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-CU + TB-500 + BPC-157 blend",
+      "name_normalized": "ghk_cu__tb_500__bpc_157_blend",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "daily (morning)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "frequency": "daily (evening)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Reports protocol works great"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Mild sting at injection site",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Uses same 50mg GHK-CU / 10mg TB-500 / 10mg BPC-157 blend, adds 2mL Bac water, doses 10 units every morning. Also adds a separate BPC dose in the evening.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.284618Z"
+}

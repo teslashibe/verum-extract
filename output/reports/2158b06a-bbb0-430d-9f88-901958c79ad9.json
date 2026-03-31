@@ -1,0 +1,70 @@
+{
+  "id": "2158b06a-bbb0-430d-9f88-901958c79ad9",
+  "source_id": "1dpkoy6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1dpkoy6/thinking_about_stopping_ipacjc_because_im_scared/",
+  "author_hash": "3f900b7755d6a974155da6bc58bf35a1e5692b922e213516f2b48088e5ebd7b8",
+  "confidence_tier": 4,
+  "date_published": "2024-06-26T23:35:28-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "training_status": "MMA fighter, strength and conditioning focused",
+  "health_conditions": [
+    "broken elbow post-surgery"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "frequency": "weekly (initial), transitioning to daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "feels thicker and stronger",
+      "severity": "moderate",
+      "onset_days": 30
+    },
+    {
+      "category": "recovery",
+      "description": "recovering quicker from workouts",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood",
+      "description": "motivates to workout and run",
+      "severity": "moderate",
+      "onset_days": 30
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "unit": "nmol/L",
+      "timeframe_days": 30
+    }
+  ],
+  "protocol_notes": "Using peptides post-elbow surgery for injury healing and performance optimization. Already has naturally high testosterone levels for age; reported boost of approximately 1 nmol/L. Considering discontinuing due to cancer risk concerns (irrational by own assessment, triggered by nightmare).",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.697168Z"
+}

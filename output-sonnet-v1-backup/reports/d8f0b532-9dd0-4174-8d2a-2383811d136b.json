@@ -1,0 +1,39 @@
+{
+  "id": "d8f0b532-9dd0-4174-8d2a-2383811d136b",
+  "source_id": "1quw4sr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1quw4sr/reta_sleep_problems/",
+  "author_hash": "1ca36f80b6644cc853bed48a37474ad072f1f199e54bf0617197cd2b9a710215",
+  "confidence_tier": 4,
+  "date_published": "2026-02-03T08:13:13-08:00",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep problems began once hitting 1mg dose. Currently managing with magnesium glycinate though it causes increased nighttime urination.",
+      "severity": "moderate",
+      "resolved": false
+    },
+    {
+      "category": "other",
+      "description": "Magnesium glycinate caused increased urination at night",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "On Reta for 3 months, dose ranges between 1.5-2mg depending on the week. Sleep problems onset at 1mg. Trying magnesium glycinate with partial success; plans to try Selank at night.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121601Z"
+}

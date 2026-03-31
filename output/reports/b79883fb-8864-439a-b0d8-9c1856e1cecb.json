@@ -1,0 +1,51 @@
+{
+  "id": "b79883fb-8864-439a-b0d8-9c1856e1cecb",
+  "source_id": "1o2xl8j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o2xl8j/bpc157_tb500_for_chronic_shoulder_pain_30_days/",
+  "author_hash": "15573fd2db778ac6c388f996a5d8833141c61b103348e051b92393e8bd104253",
+  "confidence_tier": 4,
+  "date_published": "2025-10-10T03:49:39-07:00",
+  "training_status": "active lifter",
+  "health_conditions": [
+    "rotator cuff impingement"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 27,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 27,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Zero improvement after 27 days of consistent dosing, condition worsened",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "BPC-157 injected directly to shoulder, TB-500 to belly. Self-diagnosed rotator cuff impingement via internet research, may not be accurate diagnosis. Was performing gym exercises prescribed by 'gym bros' rather than physical therapist. Admitted to pushing through pain with bench, dips, overhead press for months before stopping. User was considering switching to actual physical therapy after this report.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.396116Z"
+}

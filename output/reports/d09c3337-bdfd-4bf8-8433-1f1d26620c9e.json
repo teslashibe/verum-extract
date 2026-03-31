@@ -1,0 +1,68 @@
+{
+  "id": "d09c3337-bdfd-4bf8-8433-1f1d26620c9e",
+  "source_id": "1n2t1c6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1n2t1c6/what_to_try_after_reta_motsc_aod9604_cagri_or/",
+  "author_hash": "668ca7404e4cbf02e04d9b5dc079941bbc621a47c26903bea67170cc881956db",
+  "confidence_tier": 4,
+  "date_published": "2025-08-28T17:29:38-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 30,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Lower body fat percentage on Hume scale after one month on Retatrutide, no scale weight loss but BF reduction",
+      "severity": "moderate",
+      "onset_days": 30
+    },
+    {
+      "category": "recovery",
+      "description": "Better recovery, mood, work, and workouts with peptides",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Body Fat Percentage",
+      "unit": "percent",
+      "timeframe_days": 30
+    },
+    {
+      "marker_name": "Testosterone",
+      "value_before": 1253,
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "User on TRT for 6 months at 90mg (adjusting down from 120-100-80). Sermorelin for 8 weeks deemed underwhelming. Now on CJC/IPA stack. Mentions peptides are minor benefit compared to TRT. Primary goal is body recomposition/leanness while maintaining macro targets.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.39979Z"
+}

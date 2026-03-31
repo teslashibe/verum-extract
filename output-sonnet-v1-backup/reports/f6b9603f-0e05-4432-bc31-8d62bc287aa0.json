@@ -1,0 +1,61 @@
+{
+  "id": "f6b9603f-0e05-4432-bc31-8d62bc287aa0",
+  "source_id": "1qtz9d0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtz9d0/peptides_for_gaining_my_health_back_after3_years/",
+  "author_hash": "757d8f1841676b11cf1a8cd81397563ba460ae75aa667338225b82d24c77045c",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T08:11:10-08:00",
+  "reported_sex": "male",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "testosterone undeconate",
+      "name_normalized": "testosterone_undeconate",
+      "category": "other",
+      "dose_value": 150,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HCG",
+      "name_normalized": "hcg",
+      "category": "hormonal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "finasteride",
+      "name_normalized": "finasteride",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_unit": "IU",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "no significant issues noted at TRT dose"
+    }
+  ],
+  "protocol_notes": "HGH dose listed as 2-4 IUs. Stack listed as recommendation but implies personal use given comment about tolerability at TRT dose. Finasteride inclusion was criticized by another commenter.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.122133Z"
+}

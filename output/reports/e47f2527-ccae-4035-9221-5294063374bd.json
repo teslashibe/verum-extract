@@ -1,0 +1,43 @@
+{
+  "id": "e47f2527-ccae-4035-9221-5294063374bd",
+  "source_id": "1r5hx4c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r5hx4c/experiences_so_far_on_reta_and_bpc_157/",
+  "author_hash": "de5aabd40371267ee5a317fd687697b4ffc0f51a5cd9db4b66d467597b0a8252",
+  "confidence_tier": 5,
+  "date_published": "2026-02-15T07:50:50-08:00",
+  "health_conditions": [
+    "shoulder pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Relief from shoulder pain on first night of first cycle",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Shoulder pain returned after initial relief; subsequent cycle started 2 nights ago did not provide immediate relief",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Second cycle started 2 nights ago; did not experience same rapid relief as first cycle.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.676141Z"
+}

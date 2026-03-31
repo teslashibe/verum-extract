@@ -1,0 +1,66 @@
+{
+  "id": "3192b52b-0467-4411-9317-ba7275df9c7a",
+  "source_id": "1qpgwvo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qpgwvo/post_reta/",
+  "author_hash": "230539a51c1ff4e770025d7cb091b50e0fb68a352f9d340368f90593cdbb1239",
+  "confidence_tier": 3,
+  "date_published": "2026-01-28T08:57:24-08:00",
+  "reported_sex": "female",
+  "training_status": "Already a lifter before starting, now follows ULPPL lifting to failure",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "hgh",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "IU",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Went from 62lb muscle to 72lb muscle over a 7 month period",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Test is great for energy and progressing in the gym",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Cholesterol has been going up; backing down test dose to try to get to 150-200 ng/dL",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "value_after": 300,
+      "unit": "ng/dL"
+    },
+    {
+      "marker_name": "muscle mass",
+      "value_before": 62,
+      "value_after": 72,
+      "unit": "lbs",
+      "timeframe_days": 210
+    }
+  ],
+  "protocol_notes": "5'5\" female. Kept testosterone levels below 300 ng/dL via bloodwork monitoring. No negative masculinizing sides (no hair growth, no voice changes). Plans to back down test to target 150-200 ng/dL due to rising cholesterol. Also takes Thorne hormone support supplement which she credits for helping prevent sides by reducing conversion of testosterone to estrogen. Pins 1iu HGH. Chose not to use Anavar. Describes protocol as experimental.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123617Z"
+}

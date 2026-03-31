@@ -1,0 +1,40 @@
+{
+  "id": "a5d06e98-5baa-413e-a2e2-33eb3fc38a84",
+  "source_id": "1am4fht",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1am4fht/bpc157_and_crohns_disease/",
+  "author_hash": "cf0ed48dd9ae0d6bec10b2daa07c9e04e065e5611f85151fd83e8b50a8c7b4f5",
+  "confidence_tier": 4,
+  "date_published": "2024-02-08T11:49:26-08:00",
+  "training_status": "regularly exercises",
+  "health_conditions": [
+    "Crohn's disease"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 20,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Decreased usual intermittent pain on day 1; passing normal stool once a day by day 3; only mild intestinal pain since starting",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Currently on infliximab every 6 weeks. Diet is 90% chicken and rice. BPC-157 purchased as lyophilised powder, resuspended in bacteriostatic water. Third-party tested supplier with HPLC verification. Injecting into belly. Week 1 results reported during a pre-infusion period which is usually a period of increased symptoms. Planning to extend to 40 days then come off to observe effects. Intended use is cycles as needed.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.294923Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "a4a6edad-6b8e-4585-9b01-d386c05bc540",
+  "source_id": "1r0s7q3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r0s7q3/glutathione_dosing_for_skin_lightening/",
+  "author_hash": "7cfe2f5d0e5cff8ddf8d98abc0ff9e60f973ffff3479d10ed38496ede6b363c5",
+  "confidence_tier": 5,
+  "date_published": "2026-02-09T21:25:05-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "route": "intramuscular",
+      "dose_value": 1500,
+      "dose_unit": "mg",
+      "frequency": "1x weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "skin lightening"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "subcutaneous injection noted to be very uncomfortable",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Recommends IM over subq due to discomfort. One vial (1500mg) per week.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.119832Z"
+}

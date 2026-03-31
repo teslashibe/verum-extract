@@ -1,0 +1,61 @@
+{
+  "id": "eeeb25b9-558b-4c9b-b624-3ceed9604801",
+  "source_id": "1p0i2wh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p0i2wh/help_me_design_my_stack/",
+  "author_hash": "3d74877975cd0896e25de53db30f0b460eca07e2cae1f0ecbe59847966102938",
+  "confidence_tier": 4,
+  "date_published": "2025-11-18T09:27:48-08:00",
+  "training_status": "Active, similar build and body fat to OP, lifting",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tesa",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "test",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Losing 2 lbs per week while increasing muscle and strength slightly",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Increasing a little muscle and strength at week 6",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "At 3mg/week struggling to eat enough, choking food down. Tried 4mg/week (first 2mg shot), felt sick thinking about food. Bumped back to 3mg/week. Considering going back to 2mg/week.",
+      "severity": "significant",
+      "onset_days": 28
+    }
+  ],
+  "protocol_notes": "6'3\", similar build to OP. At week 6 of reta protocol. Dose escalation: started at lower doses, reached 3mg/week at week 4, attempted 4mg/week at week 5 but GI side effects too severe, returned to 3mg/week. Recommends OP start at 1mg/week. Stack includes reta, tesa, test, and protein.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.264328Z"
+}

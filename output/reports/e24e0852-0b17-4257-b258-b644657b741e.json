@@ -1,0 +1,62 @@
+{
+  "id": "e24e0852-0b17-4257-b258-b644657b741e",
+  "source_id": "1s6zkt9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6zkt9/has_anyone_tried_ara290_does_it_help_with_healing/",
+  "author_hash": "1b9bbfcb72e935329824301ef769c2964f8912c92efbf428f753e863d26153d4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T09:24:29-07:00",
+  "training_status": "active (gym daily)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "cycle_length_days": 70,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Helps with nerve healing and wound healing in tissues and deep tissue. Helps with random aches and pains from old injuries.",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "recovery",
+      "description": "Can go hard at the gym every day and not be constantly sore and trashed all the time",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Lots of random aches and pains in days 1 and 2, theorized to be healing of old injuries",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 2
+    }
+  ],
+  "protocol_notes": "Uses GLOW blend (BPC-157 + TB-500 + GHK-Cu). Runs 10 weeks on, 3 weeks off, 4 times per year (40 weeks on out of 52 total). GHK-Cu recommended specifically for wound healing over ARA-290.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.656042Z"
+}

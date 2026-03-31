@@ -1,0 +1,32 @@
+{
+  "id": "c7342179-72c4-4178-b434-ab537f512d89",
+  "source_id": "18g1yoh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/18g1yoh/semaglutide_peptide_for_weight_loss_dose/",
+  "author_hash": "40991df3eb36ab06829f67677f0d9425da6d63765d8fc1e15a34c73caea82ffd",
+  "confidence_tier": 4,
+  "date_published": "2023-12-11T11:34:31-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_sugar",
+      "description": "Felt hypoglycemic at night after first dose, had to sip juice throughout the night",
+      "severity": "moderate",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "First time using semaglutide, took too much initially",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.699772Z"
+}

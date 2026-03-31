@@ -1,0 +1,56 @@
+{
+  "id": "9a5f4982-54a7-4489-994d-9941dcf78897",
+  "source_id": "1rj54rx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rj54rx/bpc500_tb500_journey/",
+  "author_hash": "0b5ee5b2e8fbe2cd5956cce0d59d979be5e65e84e2462ed3e6afb33e2319e26b",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T13:02:26-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "training_status": "competitive road cyclist, 8-15 hours per week",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Vivid dreams throughout the night; maintained typical deep sleep onset (~10 minutes)",
+      "severity": "mild",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "One additional nightly bathroom visit",
+      "severity": "mild",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "5mg blend of BPC-157 and TB-500, reconstituted with 2mL BAC water. Initial plan was 250/250 mcg each, revised to 500/500 mcg by adding 1mL additional BAC. Dosed via subcutaneous injection to abdominal fat. Expected 20 doses per bottle.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.657883Z"
+}

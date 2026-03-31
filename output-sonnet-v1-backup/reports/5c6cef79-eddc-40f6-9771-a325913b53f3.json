@@ -1,0 +1,192 @@
+{
+  "id": "5c6cef79-eddc-40f6-9771-a325913b53f3",
+  "source_id": "1rr6gal",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr6gal/reta_recomp_3lbs_of_lean_mass_5lbs_of_fat_in_a/",
+  "author_hash": "06360ccaaf8a36b5e206e10a38e92ad10e82c1f83d9a5e324e586c255883cf45",
+  "confidence_tier": 3,
+  "date_published": "2026-03-11T14:06:51-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "reported_weight": {
+    "value": 220,
+    "unit": "lbs"
+  },
+  "training_status": "former athlete, returning to training 4-5 days/week",
+  "health_conditions": [
+    "reconstructed knee",
+    "achilles tendonitis",
+    "elevated visceral fat"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly initially, then every other day at 1.5mg, then every 3 days at 1mg",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "intramuscular",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily loading then 5mg/day maintenance",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "L-Carnitine",
+      "name_normalized": "lcarnatine",
+      "category": "other",
+      "dose_value": 500,
+      "dose_unit": "mg",
+      "frequency": "pre-workout",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5x/week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "3x/week in the AM",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Immediate appetite suppression from Reta starting week 1",
+      "severity": "significant",
+      "onset_days": 1
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost 5.3lbs of fat in Phase 2 (4 weeks); 49% visceral fat reduction from baseline",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Gained 3.1lbs total lean mass (+1.5lbs skeletal muscle mass) during Phase 2",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Energy levels through the roof after adding MOTS-c — highest since turning 30",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "Measurable sleep improvement noted via RingConn during Phase 2 Week 1; Tesamorelin timing forced better sleep hygiene",
+      "severity": "moderate"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Nagging injuries started to feel solid during Phase 2 Week 2",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Workouts became incredible, strength booming in Phase 2 Week 2",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "Felt like a new person on Day 5 of Phase 2 — physical clarity described as extraordinary; felt 29 again",
+      "severity": "significant",
+      "onset_days": 5
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Lethargy from Reta in Week 1; reversed almost immediately after adding NAD+ IM in Week 3",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 14
+    },
+    {
+      "category": "fatigue",
+      "description": "SS-31 caused severe fatigue/crash on Day 4 of Phase 2",
+      "severity": "significant",
+      "onset_days": 4,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "other",
+      "description": "Phase 1 weight loss was \u003e50% lean mass and water rather than fat — undesirable body composition change",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "Body weight",
+      "value_before": 220,
+      "unit": "lbs"
+    },
+    {
+      "marker_name": "Fat mass (Phase 1 loss)",
+      "unit": "lbs",
+      "timeframe_days": 28
+    },
+    {
+      "marker_name": "Total weight lost Phase 1",
+      "unit": "lbs",
+      "timeframe_days": 28
+    },
+    {
+      "marker_name": "Fat mass lost Phase 2",
+      "unit": "lbs",
+      "timeframe_days": 28
+    },
+    {
+      "marker_name": "Skeletal muscle mass gained Phase 2",
+      "unit": "lbs",
+      "timeframe_days": 28
+    },
+    {
+      "marker_name": "Visceral fat",
+      "unit": "relative units",
+      "timeframe_days": 56
+    }
+  ],
+  "protocol_notes": "M36, 6'3\", 220lbs South Asian former athlete. Two-phase protocol tracked via InBody scans (acknowledged to underestimate body fat by ~3-5%). Phase 1: Reta alone + NAD+ IM, resulted in 8.5lbs total loss but majority was lean mass/water. Phase 2: Added SS-31 (10mg/day loading x1 week → 5mg/day), MOTS-c (5mg 3x/week), Tesamorelin (2mg 5x/week), L-Carnitine (500mg pre-workout), and KLOW for knee. Increased carbohydrate intake on training days. Training 4-5 days/week, ~75-90 min sessions with supersets plus daily 30-45 min zone 2 cardio. Protein intake ~200g/day. Used isotonic BAC water (0.9% NaCl) for MOTS-c reconstitution. NAD+ administered IM (not SubQ) with pH buffered NAD+.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109535Z"
+}

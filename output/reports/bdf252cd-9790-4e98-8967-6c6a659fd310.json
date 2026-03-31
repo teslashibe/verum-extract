@@ -1,0 +1,103 @@
+{
+  "id": "bdf252cd-9790-4e98-8967-6c6a659fd310",
+  "source_id": "15nlp06",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/15nlp06/i_need_help_finding_the_best_peptides_to_help/",
+  "author_hash": "bbb89e5023afcd27ffd8117a00db67c42a267fe5c3103e9cf94d9291359a1326",
+  "confidence_tier": 5,
+  "date_published": "2023-08-10T12:22:16-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "once daily before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "once daily before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "once daily before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "once daily before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "once daily before bed",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "anti_aging",
+      "description": "Makes skin tighter, hair healthier",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Better sleep",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Recover better and quicker from workouts",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Promotes lean muscle mass building",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Reduction of body fat",
+      "severity": "moderate"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Amazing for healing ligaments and joints",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive",
+      "description": "Increased mental acuity and memory",
+      "severity": "moderate"
+    },
+    {
+      "category": "skin",
+      "description": "Increases collagen production",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "CJC-1295/Ipamorelin blend normally comes in 10mg combined with even split. Recommends taking 90 minutes after eating. Can mix BPC-157, TB-500, and GHK-Cu into one syringe for single daily injection before bed. GHK-Cu also available as topical cream for spot corrections.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.420432Z"
+}

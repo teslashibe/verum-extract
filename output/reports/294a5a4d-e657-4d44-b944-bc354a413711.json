@@ -1,0 +1,45 @@
+{
+  "id": "294a5a4d-e657-4d44-b944-bc354a413711",
+  "source_id": "1mrvy0p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mrvy0p/update_on_retratutide/",
+  "author_hash": "3e56a84d9f3a37d4816f55646870c0396e29e37afdab85ed23fc5f621aae1e4f",
+  "confidence_tier": 4,
+  "date_published": "2025-08-16T06:54:58-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "First week showed dead food satisfaction and intensity. Food noise manageable. Expected quiet food noise by 8 weeks.",
+      "severity": "significant",
+      "onset_days": 7
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Over satisfaction and over intensity with food in first week",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "protocol_notes": "User cycled off Tirzepatide for 6 months to clear system. Starting Retatrutide at 2mg baseline with plan to titrate over 4 weeks and reassess. Believes Retatrutide builds with each dose and does not require stacking additional compounds.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.401113Z"
+}

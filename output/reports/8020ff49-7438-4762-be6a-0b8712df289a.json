@@ -1,0 +1,57 @@
+{
+  "id": "8020ff49-7438-4762-be6a-0b8712df289a",
+  "source_id": "1s4nb6z",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4nb6z/semorelin_vs_cjc_vs_tesamorelin/",
+  "author_hash": "8d1d3461ffe2c6474f63408682c51ee070506fecbb0d5da4d217823b8ab72683",
+  "confidence_tier": 4,
+  "date_published": "2026-03-26T16:19:12-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "out shopping for smaller pants, hadn't happened in years with Ipa/Tesa cycle",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "body composition improvement",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Tesa didn't help sleep as well as CJC/IPA",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Cycled 8-10 cycles of IPA + CJC (both DAC and no-DAC) before trying Tesa. Prefers IPA/CJC no-DAC due to less sides and better recovery. Sleep improvement noted with CJC/IPA preference. Several new PRs achieved with IPA/CJC.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.646427Z"
+}

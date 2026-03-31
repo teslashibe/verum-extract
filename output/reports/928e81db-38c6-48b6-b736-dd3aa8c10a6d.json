@@ -1,0 +1,54 @@
+{
+  "id": "928e81db-38c6-48b6-b736-dd3aa8c10a6d",
+  "source_id": "1rjg6q1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rjg6q1/bad_hgh/",
+  "author_hash": "4fda4ba8cb404530c44ade1e3d76d3f46a93ceb3f83432f345a2d9dc3698d08e",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T20:50:06-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "5x per week training",
+  "health_conditions": [
+    "edema",
+    "carpal tunnel"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Edema",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "joint_pain",
+      "description": "Carpal tunnel",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Age 45. Takes 6 IU HGH before bed daily. Does not come off HGH. Wife takes 1 IU per day. High dose testosterone use. Trains 5x per week. Side effects (edema and carpal tunnel) subside when starting low and waiting.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.669497Z"
+}

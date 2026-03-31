@@ -1,0 +1,73 @@
+{
+  "id": "0379745b-8854-42f2-a50a-3ec69d5bed12",
+  "source_id": "1af4vjf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1af4vjf/taking_glp1_tirz_seems_to_not_be_working_after_1/",
+  "author_hash": "6475fe2dde8785a5ed2ac9122c014719acf15f9c1b0bf5053b7284a7a8f22eeb",
+  "confidence_tier": 4,
+  "date_published": "2024-01-30T16:59:04-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 325,
+    "unit": "lbs"
+  },
+  "training_status": "sedentary (works remote, does light curls during work day)",
+  "health_conditions": [
+    "obesity (BMI 44%)",
+    "bad knees"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "every 5 days",
+      "cycle_length_days": 35,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "trt",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 17 lbs in approximately 5 weeks",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Extreme appetite suppression; feels full constantly, likens it to feeling like every day is Thanksgiving; only able to consume ~500 calories/day",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Wife reports OP is full of energy for about 5 days after each shot",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Ate a small burger and felt like vomiting; strong food aversion",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_change",
+      "description": "Severe appetite suppression leading to only ~500 cal/day intake; has to force himself to eat",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "6' tall male, starting weight 325 lbs, BMI ~44%. Using 30mg bottle reconstituted with 30ml BAC water. First injection Jan 13, 2024. Also on TRT. Eating primarily tuna, salad, and protein powder (~500 cal/day). Works remotely, does light arm curls during work day. Questioning whether to increase to 5mg or dose every 3 days. Was told heavy people should dose every 5 days.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.29521Z"
+}

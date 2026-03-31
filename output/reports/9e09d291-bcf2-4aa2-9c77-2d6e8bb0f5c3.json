@@ -1,0 +1,54 @@
+{
+  "id": "9e09d291-bcf2-4aa2-9c77-2d6e8bb0f5c3",
+  "source_id": "1b7mwv8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1b7mwv8/how_many_of_you_have_experienced_permanent/",
+  "author_hash": "027f87b62dc9642e7a1340fd2912d2e9fee76c850e0b19a6564d4c157214f377",
+  "confidence_tier": 4,
+  "date_published": "2024-03-05T17:28:54-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "60+",
+  "health_conditions": [
+    "Hashimoto's thyroidosis",
+    "Rheumatoid Arthritis",
+    "Frozen shoulder"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss achieved",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Reduced protein absorption based on blood tests showing low protein and albumin levels",
+      "severity": "moderate",
+      "resolved": true,
+      "resolution_days": 7
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "protein"
+    },
+    {
+      "marker_name": "albumin"
+    }
+  ],
+  "protocol_notes": "Used protease digestive enzymes and increased protein intake via protein drinks to manage side effect. No gastroparesis experienced; has bowel movements nearly every day. Takes prebiotics and probiotics. Currently using semaglutide while attempting to maintain normal protein/albumin levels.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.416346Z"
+}

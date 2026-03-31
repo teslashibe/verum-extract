@@ -1,0 +1,48 @@
+{
+  "id": "a3e7e8dc-ef0f-49cc-a4f8-2a3987d29349",
+  "source_id": "1r35gk6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r35gk6/peptides_for_long_covid_cognitive_issues/",
+  "author_hash": "8a5ec811534363ea0257859995006e27f0f91a8d7efc404080e4ae9f165c9932",
+  "confidence_tier": 4,
+  "date_published": "2026-02-12T13:05:49-08:00",
+  "health_conditions": [
+    "cognitive dysfunction",
+    "brain fog"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Thymalin",
+      "name_normalized": "thymulin",
+      "category": "immune",
+      "cycle_length_days": 10,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Thymalin is the only peptide found to help, but benefits are temporary",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "TA1 makes symptoms worse",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User has tried TA1 several times from different sources with negative results. One course of Thymalin (10 days) provides about 1 month of symptom relief.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.66437Z"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "03a8778b-663a-49ab-91a6-3c9835dee434",
+  "source_id": "1ipmmgx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ipmmgx/how_long_for_ss31_to_kick_in/",
+  "author_hash": "fd10428dd8396c53a237caf13868e70fbdfb51630ade7ca0ad9516e6bf669e9b",
+  "confidence_tier": 4,
+  "date_published": "2025-02-14T14:18:16-08:00",
+  "training_status": "cardio (treadmill walking 5x weekly)",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cardiovascular",
+      "description": "Significant reduction in resting and max heart rate during treadmill walking. Average heart rate dropped from 120s (lowest 118) to 104-107 avg; max dropped from 130s. Change occurred within 3 days and continued to improve.",
+      "severity": "significant",
+      "onset_days": 3
+    },
+    {
+      "category": "endurance",
+      "description": "Improved cardiovascular efficiency during cardio routine",
+      "severity": "significant",
+      "onset_days": 3
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "resting heart rate",
+      "value_before": 120,
+      "value_after": 104,
+      "unit": "bpm",
+      "timeframe_days": 42
+    },
+    {
+      "marker_name": "max heart rate (treadmill)",
+      "value_before": 130,
+      "unit": "bpm"
+    }
+  ],
+  "protocol_notes": "6-week cycle of SS-31, MOTS-c added at beginning of week 5. Changes measured on treadmill walking routine done consistently for extended time. User attributes benefits to peptide rather than training adaptation due to magnitude and timing of changes.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.693995Z"
+}

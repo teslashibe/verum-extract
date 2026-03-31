@@ -1,0 +1,54 @@
+{
+  "id": "0d56ef1d-2c57-4824-a144-041da8926eb5",
+  "source_id": "1on3ujc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1on3ujc/6_week_transformation_on_reta/",
+  "author_hash": "ffe4d16395cf08b429b3ae786a45daf846a08c9ca56477a977d471c37095fe0e",
+  "confidence_tier": 5,
+  "date_published": "2025-11-02T21:43:05-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleeps been great",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "CJC increased hunger, potentially counteracting Retatrutide's appetite suppression",
+      "severity": "moderate"
+    },
+    {
+      "category": "water_retention",
+      "description": "CJC increased water weight",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "On CJC/IPA + Reta stack. Not really feeling the Reta effects, possibly due to counteracting effects from CJC increasing hunger and water weight. Mentioned uncertainty about whether CJC is with or without DAC variant.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.678185Z"
+}

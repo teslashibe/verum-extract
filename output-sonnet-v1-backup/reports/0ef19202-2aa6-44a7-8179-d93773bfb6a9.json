@@ -1,0 +1,57 @@
+{
+  "id": "0ef19202-2aa6-44a7-8179-d93773bfb6a9",
+  "source_id": "10rfboz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/10rfboz/what_happens_if_you_take_semeglatude_while/",
+  "author_hash": "689220e2187389502d77685989d417656afcb1f277c3d9f0cf05e9f6ad8ee57c",
+  "confidence_tier": 4,
+  "date_published": "2023-02-01T19:23:41-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 196,
+    "unit": "lbs"
+  },
+  "training_status": "experienced",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Cut from 196 down to 180lbs in a couple of months; quicker and easier than a typical cut",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppressant without jitters, gets full quicker when eating",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "headache",
+      "description": "Headaches in the first week",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 7
+    },
+    {
+      "category": "fatigue",
+      "description": "Tiredness, more pronounced in wife than himself; attributed to lowering of blood sugar",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Also has wife on semaglutide who wanted to lose 20lbs; wife is down 10lbs. Used it personally to verify efficacy of the product. Sourced from Peptide Sciences without a prescription.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.427979Z"
+}

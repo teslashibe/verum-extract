@@ -1,0 +1,99 @@
+{
+  "id": "33cad7d9-1e5f-428e-969f-b4e75cd8a000",
+  "source_id": "1rdh9xb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdh9xb/best_biohacks_trt_supplements_peptide_protocol_to/",
+  "author_hash": "7fcbff409b5667aada0540491991d8fb78fe59c76db52a2a06129e7ed297948d",
+  "confidence_tier": 5,
+  "date_published": "2026-02-24T06:11:38-08:00",
+  "reported_sex": "male",
+  "health_conditions": [
+    "hair loss (scheduled hair transplant)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "TRT",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Dut",
+      "name_normalized": "dut",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Min",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "topical",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Vitamin D",
+      "name_normalized": "vitamin_d",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Magnesium",
+      "name_normalized": "magnesium",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "bpc157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 200,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tb500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "cycle_length_days": 200,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "kvp",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "cycle_length_days": 200,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ghk-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "cycle_length_days": 200,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 200,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User is scheduled for a hair transplant in 7 weeks. Plans to keep TRT, dutasteride, and minoxidil steady throughout the procedure, possibly stopping dutasteride if the doctor advises. Has pre-batched 200 days of post-HT supplies (BPC-157, TB-500, KVP, GHK-Cu, HGH) to administer continuously for 200 days post-surgery. Protocol is forward-looking, not yet started.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.115393Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "82e80e71-9264-4482-83f0-8ae7f0006b31",
+  "source_id": "1rvaquf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvaquf/timing_question/",
+  "author_hash": "e6a4e31bdd58c4846d1a2d8c17e890614a36c1b515ff455ff8f5df28478fc901",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T07:19:38-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "once daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Recovery score on Whoop and sleep have been terrible when taking Tesamorelin/Ipamorelin blend right before bed",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Taking BPC-157 in the morning fasted. Taking Tesamorelin/Ipamorelin blend right before bed. Reports that sleep and recovery improve dramatically on days off. Pre-mixed blend of Tesamorelin and Ipamorelin.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.651205Z"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0d32f7d7-c2da-467e-98bb-a6dd6dd74b0f",
+  "source_id": "1p4pbih",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1p4pbih/how_to_subq_elbow_middle_arm_behind_tricep_seems/",
+  "author_hash": "185fb6161bf1e236f4a47a8cba5cf9191cf200ff47baea386a78eacc8a713116",
+  "confidence_tier": 4,
+  "date_published": "2025-11-23T07:22:43-08:00",
+  "health_conditions": [
+    "elbow injury"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "2x weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Elbow healing facilitated",
+      "severity": "moderate"
+    },
+    {
+      "category": "pain_relief",
+      "description": "Post-injection pain encourages reduced elbow use and better healing",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "pain_relief",
+      "description": "Injection site pain for several days after elbow injection",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 3
+    }
+  ],
+  "protocol_notes": "Uses insulin needles for injection. Injects near inner elbow (approximately 1 cm above and inward from elbow bone). Also does subcutaneous injections elsewhere when not targeting elbow. Learned technique from functional doctor.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.676718Z"
+}

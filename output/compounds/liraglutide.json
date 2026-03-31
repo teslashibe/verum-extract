@@ -1,0 +1,69 @@
+{
+  "compound_id": "liraglutide",
+  "display_name": "Liraglutide",
+  "category": "other",
+  "total_reports": 6,
+  "reports_by_tier": {
+    "4": 5,
+    "5": 1
+  },
+  "top_benefits": [
+    {
+      "category": "blood_sugar",
+      "count": 1,
+      "pct": 20
+    },
+    {
+      "category": "other",
+      "count": 1,
+      "pct": 20
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "appetite_change",
+      "count": 3,
+      "pct": 60,
+      "avg_severity": 2.3
+    },
+    {
+      "category": "sweating",
+      "count": 1,
+      "pct": 20,
+      "avg_severity": 2
+    },
+    {
+      "category": "flushing",
+      "count": 1,
+      "pct": 20,
+      "avg_severity": 2
+    }
+  ],
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "semaglutide",
+      "display_name": "Semaglutide",
+      "report_count": 5
+    },
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Retatrutide",
+      "report_count": 4
+    },
+    {
+      "compound_id": "tirzepatide",
+      "display_name": "Tirzepatide",
+      "report_count": 3
+    }
+  ],
+  "avg_sentiment_score": 0.208,
+  "sentiment_breakdown": {
+    "positive": 0,
+    "mixed": 2,
+    "negative": 3,
+    "neutral": 1
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T04:48:57.358632Z"
+}

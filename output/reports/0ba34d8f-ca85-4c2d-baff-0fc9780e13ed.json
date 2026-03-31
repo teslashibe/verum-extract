@@ -1,0 +1,61 @@
+{
+  "id": "0ba34d8f-ca85-4c2d-baff-0fc9780e13ed",
+  "source_id": "1m1hnv7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m1hnv7/4_days_of_healing_on_tb500_and_bpc_157_after_knee/",
+  "author_hash": "80253c8c427ff34262847358cb0889d55da08e3ebb5994bf80fa025d00c7e959",
+  "confidence_tier": 4,
+  "date_published": "2025-07-16T09:45:05-07:00",
+  "health_conditions": [
+    "fractured kneecap"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "every other day",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Surgical site healed and knitted together very quickly",
+      "severity": "significant",
+      "onset_days": 4
+    },
+    {
+      "category": "inflammation",
+      "description": "Swelling massively subsided",
+      "severity": "significant",
+      "onset_days": 4
+    },
+    {
+      "category": "joint_pain",
+      "description": "Stiffness in the knee hugely improved",
+      "severity": "significant",
+      "onset_days": 4
+    }
+  ],
+  "protocol_notes": "Post knee surgery from fractured kneecap. BPC-157 split into 500mcg doses injected twice daily close to surgical site initially (later changed to systemic injection per comments). TB-500 5mg every other day subcutaneous in stomach. Star plate fixation and bone graft from proximal tibia performed. Plan to continue protocol for 4 weeks total.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.687292Z"
+}

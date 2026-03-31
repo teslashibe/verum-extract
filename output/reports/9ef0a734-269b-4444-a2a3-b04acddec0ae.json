@@ -1,0 +1,59 @@
+{
+  "id": "9ef0a734-269b-4444-a2a3-b04acddec0ae",
+  "source_id": "1opqko0",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1opqko0/which_stack_would_you_recommend/",
+  "author_hash": "12dc02f652f39e356d4d8517e642cbe350feb9d3cbe6767960f69ead846839f4",
+  "confidence_tier": 4,
+  "date_published": "2025-11-05T21:27:56-08:00",
+  "training_status": "lifting and exercise",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Look like a different person after eight weeks",
+      "severity": "significant",
+      "onset_days": 56
+    }
+  ],
+  "protocol_notes": "1g protein per pound of bodyweight. Timeline: 8 weeks reported for significant results.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.394253Z"
+}

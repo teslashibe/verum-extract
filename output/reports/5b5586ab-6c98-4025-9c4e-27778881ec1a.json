@@ -1,0 +1,42 @@
+{
+  "id": "5b5586ab-6c98-4025-9c4e-27778881ec1a",
+  "source_id": "1ms8isk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ms8isk/how_long_until_energy_levels_increase_currently/",
+  "author_hash": "7f18996ad91679db3fa9b619f99c2ebac7d8f4843a6c806e9c860cc06bf9d734",
+  "confidence_tier": 4,
+  "date_published": "2025-08-16T14:35:20-07:00",
+  "reported_weight": {
+    "value": 180,
+    "unit": "lbs"
+  },
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Weight loss aid, supports fat loss"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Having a hard time keeping energy levels up",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "4mg weekly split into two doses. User reports low energy despite caloric intake matching target weight (155 lbs). Body fat approximately 22%.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.684424Z"
+}

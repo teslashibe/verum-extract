@@ -1,0 +1,56 @@
+{
+  "id": "ec99fa87-cdad-4d59-b4c0-acd6f45a6abe",
+  "source_id": "1kpkzto",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kpkzto/different_protocols_and_cycles_noted_down_for_you/",
+  "author_hash": "40255abdade3cfac2d8efe3890de8c18ab73f69496f3114225da13af1b088189",
+  "confidence_tier": 4,
+  "date_published": "2025-05-18T07:16:23-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "weekly (split in 2 doses)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly (split in 2 doses)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Semaglutide and Retatrutide combination suggested for better appetite suppression",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Recommended protocol for fat loss combining multiple GLP-1 agonists",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Recommendation: 2mg Retatrutide and 1mg Semaglutide split in 2 doses a week as alternative protocol. User suggesting this based on comparison of individual compounds.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.408047Z"
+}

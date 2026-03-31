@@ -1,0 +1,47 @@
+{
+  "id": "c362e0fc-d424-43f8-8c0a-a2273fda5ddb",
+  "source_id": "1o2xl8j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o2xl8j/bpc157_tb500_for_chronic_shoulder_pain_30_days/",
+  "author_hash": "18291d0b60a47265a4c0c02e15c34de3f9a23c5d110cf266c5ce0d4a79a83b9d",
+  "confidence_tier": 4,
+  "date_published": "2025-10-10T03:49:39-07:00",
+  "training_status": "light activity with caution",
+  "health_conditions": [
+    "shoulder injury from fall",
+    "3-level spinal fusion",
+    "ongoing pain from spinal surgery"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "every 3 days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "every 3 days",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Increased movement ability in shoulder; reduced immediate pain on arm upward movement",
+      "severity": "moderate",
+      "onset_days": 9
+    }
+  ],
+  "protocol_notes": "Shoulder injury from fall 4 months ago (fell off ladder in June); also has 3-level spinal fusion from 1 year prior. Previous physical therapy aggravated shoulder. 9 days in, injecting every 3 days in stomach or upper buttocks and shoulder area. Starting yoga and stretching alongside peptide protocol. Back pain from surgery remains at ~7/10.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.679789Z"
+}

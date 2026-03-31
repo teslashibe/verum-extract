@@ -1,0 +1,50 @@
+{
+  "id": "692581e0-9cf1-4fe1-a8a7-81371c8fefaa",
+  "source_id": "1qz6pcj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qz6pcj/reta_and_hypoglycemia/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-02-08T03:34:16-08:00",
+  "reported_age_range": "30-39",
+  "health_conditions": [
+    "hypoglycemia"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "improvement in shoulder and knee issues that have been chronic for years",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Currently on BPC-157 and TB-500 for over 1 month with good results. Considering adding Retatrutide. User has history of hypoglycemia since childhood and is concerned about potential interaction.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.678763Z"
+}

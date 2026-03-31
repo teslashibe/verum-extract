@@ -1,0 +1,42 @@
+{
+  "id": "7b2db24e-b4ed-4d96-93a9-0e1f3ed23419",
+  "source_id": "1oceaai",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oceaai/best_peptide_for_muscle_growth/",
+  "author_hash": "c9e5e11cddeaefe94c77cd65eae001e75279870a790c8b155c2ffc93c0916669",
+  "confidence_tier": 4,
+  "date_published": "2025-10-21T07:21:07-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Insulin",
+      "name_normalized": "insulin",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "IU",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "Lips and tongue tingling from hypoglycemia",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Near fainting, hypoglycemic episode",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Used Novolin (longer-acting insulin), 6 units. Insufficient carbohydrate intake during work led to severe hypoglycemic episode. User notes extreme danger of insulin without proper knowledge and coaching.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.679001Z"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "b85bd69a-c5f3-46ef-93cc-9bf1502982c7",
+  "source_id": "1qtsnge",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtsnge/cjc_1295ipamorelin_sleep_problems/",
+  "author_hash": "85e1ac2402051b4930ab5094a1ff7a12c2d90b8224bf67655acc2b7bfaaf84e6",
+  "confidence_tier": 4,
+  "date_published": "2026-02-02T03:34:14-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Helping with body composition changes",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Did not have great sleep after approximately 8 weeks",
+      "severity": "moderate",
+      "onset_days": 56
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "Progressively worse histamine reactions over time",
+      "severity": "significant",
+      "onset_days": 56
+    }
+  ],
+  "protocol_notes": "Discontinued due to histamine intolerance despite positive body composition results. Stack not a good match for this user.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.668141Z"
+}

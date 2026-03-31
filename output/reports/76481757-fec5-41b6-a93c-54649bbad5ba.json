@@ -1,0 +1,58 @@
+{
+  "id": "76481757-fec5-41b6-a93c-54649bbad5ba",
+  "source_id": "1maxgru",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1maxgru/am_i_taking_too_many_things_at_once/",
+  "author_hash": "e3d4fe9904005a7e3dcfc58e6921e30373a2339deb6f9d20319e2576b20f13a9",
+  "confidence_tier": 4,
+  "date_published": "2025-07-27T14:01:17-07:00",
+  "reported_age_range": "50-59",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 200,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Losing approximately 0.5 lbs per week",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Feels full sooner; hunger suppression effect noted but diminished after tolerance buildup",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Built up tolerance to Retatrutide; hunger returned",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Age 54. Difficulty consuming enough protein due to appetite suppression from Retatrutide. Had to go back to 4mg twice weekly after building tolerance at higher dose. Lost weight control when appetite suppression diminished. Planning to drop to 3mg per pin, twice weekly to maintain \u003c2 lbs per week loss.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.402997Z"
+}

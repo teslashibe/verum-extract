@@ -1,0 +1,50 @@
+{
+  "id": "280b696f-83a3-43a7-90dc-102a66cd4ba7",
+  "source_id": "1s4wrye",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s4wrye/tesamorelin_motsc_reta_in_caloric_surplus/",
+  "author_hash": "afb5d699a298548a74000b4acb9cc98bd46ee8433c065a9ad23ca5f4f5447905",
+  "confidence_tier": 5,
+  "date_published": "2026-03-26T23:50:11-07:00",
+  "training_status": "active, transitioning from cut to lean bulk",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "mots-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Using 1mg reta to control appetite and reduce cravings during surplus without completely suppressing intake",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Cut from approximately 20% body fat to 10-11% over the last few months",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "OP is planning a lean bulk stack of Tesamorelin + MOTS-C + Retatrutide at 1mg. Currently eating ~2600 calories/day with high carbs, high protein, low fat. Goal is body recomposition — muscle gain while minimizing fat accumulation.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.103887Z"
+}

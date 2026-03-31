@@ -1,0 +1,53 @@
+{
+  "id": "793ef1ad-d877-4f7d-8844-1efcf73a911b",
+  "source_id": "1h6h826",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1h6h826/obese_26_year_old_male_considering_peptides/",
+  "author_hash": "593127c9a2254cb002d099d69e4fb061558594948c4a824b2d0968de77464b2d",
+  "confidence_tier": 4,
+  "date_published": "2024-12-04T06:25:08-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Couple days of nausea and diarrhea at first",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 14
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Felt slightly shaky, like mild virus initially; slight constipation later",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Brand name: Zepbound (Tirzepatide). 2 months in on Tirzepatide, considering adding Sermorelin/Ipamorelin as secondary agents. Takes magnesium for constipation management. Notes side effects are generally overstated in public consciousness.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.695127Z"
+}

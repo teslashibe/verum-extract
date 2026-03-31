@@ -1,0 +1,34 @@
+{
+  "id": "33ffd8de-d69e-480e-93ec-65976f4cc84f",
+  "source_id": "1pnukra",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pnukra/ghkcu_the_pain_how_to_inject/",
+  "author_hash": "962493c9e436556f39659b373f7dcbf4051d1dbf108b1083c84d69f93f1052dd",
+  "confidence_tier": 4,
+  "date_published": "2025-12-15T22:03:49-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 0.15,
+      "dose_unit": "IU",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Burning sensation all night, difficulty sleeping",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "First injection at 0.15 IU dose. Planning to increase zinc supplementation",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.674319Z"
+}

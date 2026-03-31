@@ -1,0 +1,41 @@
+{
+  "id": "5dc8c7eb-aa94-4ba8-a535-4bc980b62939",
+  "source_id": "1rpwv0j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpwv0j/24h_itching_after_ghkcukpv/",
+  "author_hash": "39c99dfd39a257972b1bd3d3721c5092b17b12645f005a36570a1e544e001b76",
+  "confidence_tier": 4,
+  "date_published": "2026-03-10T06:25:36-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "ghkcu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 1.7,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "kpv",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Full body itching with no rashes or hives, occurring after approximately one week of use. Resolves when stopping peptides, then recurs after restarting.",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "User has experienced recurring itching over months of use. Pattern: stop peptides -\u003e itching goes away -\u003e restart -\u003e fine for ~1 week -\u003e itching returns. No rashes or hives observed.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.110232Z"
+}

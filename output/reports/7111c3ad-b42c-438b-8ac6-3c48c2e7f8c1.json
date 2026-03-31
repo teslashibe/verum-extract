@@ -1,0 +1,39 @@
+{
+  "id": "7111c3ad-b42c-438b-8ac6-3c48c2e7f8c1",
+  "source_id": "1rb5vbn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rb5vbn/cjcno_dacipam_scary_effects_normal/",
+  "author_hash": "0cd044ecfc3cea08bd9434b7997ff4ce6a0f3d5ff6ed27fe026b3513fb74c0a0",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T15:25:23-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "Heart racing reaction matching OP's experience",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "User discontinued CJC-1295/Ipamorelin due to unpleasant cardiac reaction. Switched to Tesamorelin/Ipamorelin combination with better tolerance.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.661353Z"
+}

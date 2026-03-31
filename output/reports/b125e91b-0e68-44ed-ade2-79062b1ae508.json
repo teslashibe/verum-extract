@@ -1,0 +1,58 @@
+{
+  "id": "b125e91b-0e68-44ed-ade2-79062b1ae508",
+  "source_id": "1qq1bev",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qq1bev/mots_c_for_endurance/",
+  "author_hash": "893c79c413f38c876a37b5e27fb94e67276de778092d457648db195cd6c3be7a",
+  "confidence_tier": 4,
+  "date_published": "2026-01-28T22:45:19-08:00",
+  "training_status": "athlete",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "frequency": "pre-workout",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "endurance",
+      "description": "Nice little boost noticed 5 minutes after injection; subtle effect",
+      "severity": "moderate",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "Stacks with NAD+, L-Carnitine, Methylene Blue, Ipa/Tesa, HGH, and caffeine",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669541Z"
+}

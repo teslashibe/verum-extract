@@ -1,0 +1,67 @@
+{
+  "id": "42f3d1dc-1fdd-4ca0-a47c-9ef7eb31c4a1",
+  "source_id": "1jo2h6g",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1jo2h6g/what_peptides_are_effective_for_adhd_and_chronic/",
+  "author_hash": "42f4ebdd9e9449ee8157bfdf7ff08bbfcb17728d48b6b1bf63cae41cd1d4d713",
+  "confidence_tier": 4,
+  "date_published": "2025-03-31T05:53:33-07:00",
+  "health_conditions": [
+    "ADHD"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "frequency": "2-week cycles",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "nasal",
+      "frequency": "2-week cycles",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "frequency": "2-week cycles (alternating with selank)",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "mots c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Selank provided great focus, clear thinking; found intranasal route possibly better than SQ",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Selank SQ felt more sedative; did not feel effects as much compared to intranasal",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Alternates 2 weeks Selank with 2 weeks Semax. Found intranasal Selank worked almost immediately for focus and clarity. Semax did not provide noticeable benefits personally. Has a separate post detailing MOTS-C experience. Prefers 'downers' over 'uppers' for brain chemistry.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.286616Z"
+}

@@ -1,0 +1,127 @@
+{
+  "id": "4426babf-1e5a-41d8-bd25-c6ba9f2f8ed4",
+  "source_id": "1r9dd65",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9dd65/major_fatigue_2_mg_reta_3_iu_hgh_trt_2_mg_motsc5/",
+  "author_hash": "6ce18c96860c317342c8c55ab3d1916164b6a215778a644d5310d6cd3b02408d",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T14:20:33-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 207,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "baseline fatigue (chronic, years-long)",
+    "moderate sleep apnea (treated with CPAP)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "5 days on, 2 days off",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone Cypionate",
+      "name_normalized": "testosterone_cypionate",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 175,
+      "dose_unit": "mg",
+      "frequency": "2x weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Moderate-severe fatigue, worsening from baseline low-moderate fatigue. Exacerbated by low caloric intake and peptide stack. HRV down from 40ms to 20-25ms. Resting heart rate up ~15 bpm.",
+      "severity": "significant",
+      "onset_days": 3,
+      "resolved": false
+    },
+    {
+      "category": "appetite_change",
+      "description": "Appetite severely suppressed after 2mg Retatrutide injection. Caloric intake dropped from 2500-3000 to 500-1500 calories per day.",
+      "severity": "significant",
+      "onset_days": 3,
+      "resolved": false
+    },
+    {
+      "category": "nausea",
+      "description": "Nausea with vomiting, especially when attempting to force food intake in first few days after injection.",
+      "severity": "moderate",
+      "onset_days": 3,
+      "resolved": false
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep quality degraded, more fragmented than baseline.",
+      "severity": "moderate",
+      "onset_days": 3,
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body weight",
+      "value_before": 207,
+      "value_after": 195,
+      "unit": "lbs",
+      "timeframe_days": 21
+    },
+    {
+      "marker_name": "body fat percentage",
+      "value_before": 24,
+      "value_after": 19.5,
+      "unit": "%",
+      "timeframe_days": 21
+    },
+    {
+      "marker_name": "testosterone (total, trough)",
+      "value_after": 900,
+      "unit": "ng/dL",
+      "timeframe_days": 21
+    },
+    {
+      "marker_name": "hematocrit"
+    },
+    {
+      "marker_name": "ferritin"
+    }
+  ],
+  "protocol_notes": "Started all 3 peptides simultaneously (week 1: 1mg Reta, week 2: 1.25-1.5mg Reta, week 3+: 2mg Reta). HGH dosed 4 hours or less before sleep. MOTS-c on 5-on/2-off cycle. TRT: 175mg Test Cyp weekly split into 2 doses (later increased to 200mg per week). Male, 6ft tall. Baseline chronic fatigue predates peptide use by years. Low Vitamin D treated, now supplementing 10k IU daily with K2 MK7. Taking Liquid IV daily, consuming 3/4-1 gallon water daily. Sleep: 6.5-8.5 hours but fragmented. No alcohol since Dec 31. User reports atypical response to stimulants (Adderall made calm, Modafinil made sleepy). User subsequently dropped HGH to 2 IU every other day for evaluation.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.674265Z"
+}

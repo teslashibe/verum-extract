@@ -1,0 +1,34 @@
+{
+  "id": "3c7ea831-9903-470b-9049-71d839e919c2",
+  "source_id": "1qs52sl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qs52sl/being_on_peptides_and_antidepressants/",
+  "author_hash": "736a498fa53695ef15fff7f64570620ee38b236d4e960a2bbdf42a8a98af64ca",
+  "confidence_tier": 5,
+  "date_published": "2026-01-31T07:21:18-08:00",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "anhedonia reported in some users on SSRIs or ADHD stimulants",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "stimulant medications (Adderall) reported to fail or work less effectively after BPC-157 use",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Commenter is reporting aggregate community experiences rather than personal protocol. Notes potential interaction risk between BPC-157 and SSRIs/ADHD stimulants.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.66875Z"
+}

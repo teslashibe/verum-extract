@@ -1,0 +1,56 @@
+{
+  "id": "9520dd1c-71a8-4ed9-a888-04b7ac8219fa",
+  "source_id": "1lztdqx",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lztdqx/12_weeks_on_peptides/",
+  "author_hash": "ec3df28cdef3b73bd805d5b594032e4009fa994bd863a90c93367bb5cafb50c4",
+  "confidence_tier": 4,
+  "date_published": "2025-07-14T10:53:43-07:00",
+  "reported_weight": {
+    "value": 270,
+    "unit": "lbs"
+  },
+  "training_status": "previously sedentary, beginning gym routine",
+  "health_conditions": [
+    "type 2 diabetes"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipa/cjc",
+      "name_normalized": "ipa__cjc",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Down from 270 to 247 lbs (23 lbs) over 8 weeks",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Started IPA/CJC to help with gym recovery"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C",
+      "value_before": 5.7,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Approved for Mounjaro (tirzepatide) due to type 2 diabetes with A1C of 5.7. Started IPA/CJC cycle one week prior to comment to support gym recovery as activity level increases. Starting point was nearly total sedentary.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.279181Z"
+}

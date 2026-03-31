@@ -1,0 +1,46 @@
+{
+  "id": "9484e8b4-bb16-4a4f-af53-97fd573afc25",
+  "source_id": "1o9amaz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o9amaz/my_father_has_been_in_pain_for_the_past_15_years/",
+  "author_hash": "888d21294971b545e87093110a9a918c4cf6c5edde1c23df9bb7fee4c65649dc",
+  "confidence_tier": 4,
+  "date_published": "2025-10-17T12:23:32-07:00",
+  "health_conditions": [
+    "shoulder and hand injury",
+    "gastrointestinal issues",
+    "hemorrhoids",
+    "fistulas",
+    "abscesses",
+    "sepsis"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Worked for some shoulder and hand issues",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Gastrointestinal/hemorrhoid flares (triggered by alcohol) that resulted in fistulas and abscesses, leading to sepsis and 9 hospital visits for surgeries/procedures since June",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "User took BPC-157 for approximately 2 weeks. Reports possible angiogenesis-related complication. Still healing and waiting for surgery to remove fistula.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.679285Z"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "4eb83413-d658-44a3-b48e-f83e12cb9dad",
+  "source_id": "1rs9o3h",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rs9o3h/my_stack_observations_3_weeks_in/",
+  "author_hash": "ba1c5ea822532142289b001ebca2e11b8589d32916d90807c7bb3d6b9329cc0f",
+  "confidence_tier": 4,
+  "date_published": "2026-03-12T18:21:31-07:00",
+  "training_status": "6 days per week, 14-18k steps daily, recently returned to consistent training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "unclear from post",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "unclear from post",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "unclear from post",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "3x daily (morning fasted, post-workout 45min before eating, before bed fasted)",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "3x daily (morning fasted, post-workout 45min before eating, before bed fasted)",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Down 15lbs in 3 weeks",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Noticed significant strength gains; uncertain attribution between peptides, creatine, or training",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "A bit of nausea the first week or 2 but nothing really bothersome",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 14
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Sleep is still a bit off",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Stack includes Retatrutide, GHK-Cu, BPC-157, CJC-1295 (300mcg total daily split 3x at 100mcg), and Ipamorelin (200mcg daily). Dosing schedule: morning fasted, post-gym (45min before eating), and before bed fasted. User also taking creatine. Recently returned to consistent gym training on Feb 25th after holiday break. Previously trained Oct 1st to Dec 25th. User notes uncertainty about whether strength gains are from peptides, creatine, or training itself. Recovery times could be better per user.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.652756Z"
+}

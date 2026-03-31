@@ -1,0 +1,33 @@
+{
+  "id": "f1bf2811-76af-4912-832a-35f0d5b9caee",
+  "source_id": "1cznwgw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1cznwgw/ghkcu_mixed_with_2ml_bacteriostatic_water_can_i/",
+  "author_hash": "4537b0e63e9cd840ace6db14430bf5682c1e0c3f9ceeff93eaaf2219aecb2aad",
+  "confidence_tier": 5,
+  "date_published": "2024-05-24T08:48:04-07:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "red welts at injection site",
+      "severity": "moderate",
+      "resolution_days": 5
+    }
+  ],
+  "protocol_notes": "Mixed 100mg GHK-Cu with 2ml bacteriostatic water. Red welts persisting 5-6 days post-injection. User seeking alternative administration routes due to injection site reaction.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.697486Z"
+}

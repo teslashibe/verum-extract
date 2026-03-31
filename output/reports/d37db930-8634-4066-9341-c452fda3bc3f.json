@@ -1,0 +1,40 @@
+{
+  "id": "d37db930-8634-4066-9341-c452fda3bc3f",
+  "source_id": "1ivp3ru",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ivp3ru/on_tirz_for_7_months_adding_sema_to_mix/",
+  "author_hash": "8f809decc83d141cdfc72e07301390d55d2a0a4c351f76dfd167c92de2d92052",
+  "confidence_tier": 4,
+  "date_published": "2025-02-22T10:14:00-08:00",
+  "reported_sex": "female",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 7.5,
+      "dose_unit": "mg",
+      "frequency": "1x weekly",
+      "cycle_length_days": 210,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "1x weekly (midweek dosing)",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Wife on tirzepatide 7 months, stalled progress. Added semaglutide 2 weeks ago at 0.5mg. Also mentioned prior attempt stacking with capromorelin resulted in significant fatigue.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.69382Z"
+}

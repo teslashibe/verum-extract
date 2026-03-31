@@ -1,0 +1,50 @@
+{
+  "id": "97de8407-86ea-418e-8be0-0eabbed650ab",
+  "source_id": "1ni172o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ni172o/has_anyone_here_ever_stacked_peptides_with/",
+  "author_hash": "d51c2e2a6510249055d294d0507b72c5637a5b7c70f6e54d67f536c57d1c277e",
+  "confidence_tier": 4,
+  "date_published": "2025-09-15T16:09:31-07:00",
+  "training_status": "strength_training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Metformin",
+      "name_normalized": "metformin",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Growth Hormone",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "blood_sugar",
+      "description": "helps avoid insulin resistance when running GH or Tesamorelin",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Running metformin with GH, Test, and Retatrutide stack. Notes that metformin would do little on its own or with only a GLP-1. Metformin specifically useful to counteract insulin resistance from GH use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.62,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.681746Z"
+}

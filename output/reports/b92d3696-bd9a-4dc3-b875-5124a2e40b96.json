@@ -1,0 +1,49 @@
+{
+  "id": "b92d3696-bd9a-4dc3-b875-5124a2e40b96",
+  "source_id": "knte38",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/knte38/bpc157_was_good_to_me/",
+  "author_hash": "86a941453182504a1195ee5c8e873414d82da95a933e0087c149104e5033110b",
+  "confidence_tier": 4,
+  "date_published": "2020-12-31T08:49:07-08:00",
+  "training_status": "lifter",
+  "health_conditions": [
+    "shoulder injury"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "dose_value": 0.48,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "3x per week",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Some results noted after about one week on separated BPC and TB-500 protocol. Initial combo attempt had no results, attributed to under-dosing.",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "First attempted combo vial of BPC-157 and TB-500 (5mg each, 10mg total) with no dosing info, reported no results. Switched to separate 5mg vials. BPC dosed at 0.48mg 2x daily into shoulder. TB-500 dosed at 2.5mg once daily 3x per week. User took time off from gym, no chest (bench press), planning to resume cautiously without jumping to heavy weight immediately.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.703481Z"
+}

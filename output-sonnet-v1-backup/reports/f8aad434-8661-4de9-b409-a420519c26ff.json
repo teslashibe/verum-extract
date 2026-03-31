@@ -1,0 +1,63 @@
+{
+  "id": "f8aad434-8661-4de9-b409-a420519c26ff",
+  "source_id": "1me8d30",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1me8d30/ehlersdanlos_syndrome_eds/",
+  "author_hash": "c44f180bf631223cbf7416558608bf67cc5c1c228fe313491792365356a5618b",
+  "confidence_tier": 4,
+  "date_published": "2025-07-31T10:48:58-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "health_conditions": [
+    "Ehlers-Danlos Syndrome",
+    "hypermobility",
+    "idiopathic hypersomnia",
+    "chronic fatigue",
+    "shin splints"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "5x per week",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Hip stopped hurting, shoulders feel much more stable",
+      "severity": "moderate",
+      "onset_days": 2
+    },
+    {
+      "category": "other",
+      "description": "Easier to hold body properly/posture improved",
+      "severity": "moderate",
+      "onset_days": 2
+    },
+    {
+      "category": "recovery",
+      "description": "Recovering more quickly from exercise, specifically shin splints from running",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "New cherry angioma or two",
+      "severity": "mild",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Injecting near unstable joints (hips, ankles, shoulders) and belly fat. Currently mid-way through third week. EDS symptoms worsened after Ciprofloxacin course 3 years ago. No sleep improvement noted from BPC-157.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.276965Z"
+}

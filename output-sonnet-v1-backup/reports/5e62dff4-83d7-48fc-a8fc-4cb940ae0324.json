@@ -1,0 +1,55 @@
+{
+  "id": "5e62dff4-83d7-48fc-a8fc-4cb940ae0324",
+  "source_id": "1lysf1p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1lysf1p/mild_cjcipa_allergy_turned_into_anaphylactic/",
+  "author_hash": "50a417b5fe2082a06cff7cf252af38e67d9b1e97851018ef96df2adb2d77ee03",
+  "confidence_tier": 4,
+  "date_published": "2025-07-13T06:08:35-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC/IPA",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 83,
+      "dose_unit": "mcg",
+      "frequency": "3-5 times a week",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Described the peptide as 'so miraculous when it's working' and a 'fantastic peptide'",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Welt at injection site and body hives on first cycle; small welt at injection site on subsequent cycles",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Joint inflammation during first cycle",
+      "severity": "moderate",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Anaphylactic shock: intense pressure and inflammation in lymph nodes of neck spreading to whole body, loss of consciousness, vomiting, near-defecation, multiple blackouts, full body pain, waves of inflammation",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "First cycle approximately 5 months, stopped due to body hives and joint inflammation. Resumed with very small dose and worked up gradually. Second cycle ~3 months at 3-5x per week before anaphylactic event. Dose was 0.05ml of a 5mg/5mg CJC/IPA vial diluted with 3ml BAC water, calculated to be ~83mcg total. OP injected before bed and experienced anaphylaxis within minutes, passed out, vomited while unconscious, experienced multiple blackouts. Plans to discontinue and possibly switch to low-dose HGH.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.279299Z"
+}

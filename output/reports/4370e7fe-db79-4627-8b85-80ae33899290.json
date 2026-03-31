@@ -1,0 +1,59 @@
+{
+  "id": "4370e7fe-db79-4627-8b85-80ae33899290",
+  "source_id": "1s6v8j4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6v8j4/bruising_when_pinning_sub_q_wtf_any_advice/",
+  "author_hash": "c31f98a7a4e1559471db3c7abe56b8910180ac029725713e69d0b9dee17c2c09",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T06:34:14-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Bruising at injection site",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Using Easy Touch 31 gauge 0.5ml 5/16th insulin syringe. Injecting in lower abdomen. Referred to as 'Wolverine stack' but unclear which compound is designated by this name. User is a newbie to injections.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.656292Z"
+}

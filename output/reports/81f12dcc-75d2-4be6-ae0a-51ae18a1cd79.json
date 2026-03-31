@@ -1,0 +1,41 @@
+{
+  "id": "81f12dcc-75d2-4be6-ae0a-51ae18a1cd79",
+  "source_id": "1qp6qlv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qp6qlv/want_to_do_cjcipatesa_one_vial_instead_of_the_old/",
+  "author_hash": "88728cf420050c0076b770460d471422dbeee378901748f59dbb01c6da6f1eff",
+  "confidence_tier": 5,
+  "date_published": "2026-01-28T01:26:15-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "potential side effect when stacking multiple GHRH analogs"
+    },
+    {
+      "category": "hormonal",
+      "description": "insulin resistance potential when stacking multiple GHRH analogs"
+    }
+  ],
+  "protocol_notes": "Uses luer lock syringe to combine Tesamorelin and Ipamorelin into single injection. States that Tesamorelin and CJC-1295 are redundant (both GHRH analogs hitting same pituitary receptor); receptor response caps out rather than doubling benefits.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.682839Z"
+}

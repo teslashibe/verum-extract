@@ -1,0 +1,57 @@
+{
+  "id": "66d32ae7-126a-48dc-9a33-ddb21b9617da",
+  "source_id": "1rg4yw1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rg4yw1/retatrutide_advise/",
+  "author_hash": "239dcf1c82c9eda6625256f931dbb8306a5a5845409fa4c93d96d7b8ebaf8947",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T04:08:35-08:00",
+  "reported_weight": {
+    "value": 380,
+    "unit": "lbs"
+  },
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 4.5,
+      "dose_unit": "mg",
+      "frequency": "3x per week (1.5mg per injection)",
+      "cycle_length_days": 56,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost approximately 40 lbs in nearly 2 months starting from 380 lbs",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Struggling to eat enough, only managing ~1600 cal/day",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Experiencing significant anxiety and jitteriness",
+      "severity": "significant",
+      "resolved": false
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Waking up in the middle of the night and unable to fall back asleep",
+      "severity": "significant",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "User suspects symptoms may be related to low blood sugar from insufficient caloric intake (~1600 cal/day). Splitting 4.5mg weekly dose into 3 injections of 1.5mg each. Looking for advice on managing side effects.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114295Z"
+}

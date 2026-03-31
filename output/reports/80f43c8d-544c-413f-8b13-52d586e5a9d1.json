@@ -1,0 +1,54 @@
+{
+  "id": "80f43c8d-544c-413f-8b13-52d586e5a9d1",
+  "source_id": "1eu2ahc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1eu2ahc/im_lost/",
+  "author_hash": "60732606419f8c3b522b87b29421ff2fce2776b289e81e82ba86e8cd0190bb69",
+  "confidence_tier": 4,
+  "date_published": "2024-08-16T15:46:04-07:00",
+  "health_conditions": [
+    "mental health issues"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 42,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Kick needed to continue weight loss regimen, cut out hunger and food noise",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Weight loss",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Major nausea the day of and day after injection",
+      "severity": "significant",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 2
+    },
+    {
+      "category": "mood_change",
+      "description": "Mental issues",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Used for 6 weeks then stopped due to mental issues and cost. Felt physically fine after nausea resolved. Recognizes it as a tool for hunger suppression and notes concern about weight regain if food relationship not addressed.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.414194Z"
+}

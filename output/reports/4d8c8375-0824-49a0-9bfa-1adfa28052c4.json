@@ -1,0 +1,48 @@
+{
+  "id": "4d8c8375-0824-49a0-9bfa-1adfa28052c4",
+  "source_id": "1rx4r77",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rx4r77/which_of_these_could_cause_frecklesbirthmarks/",
+  "author_hash": "2fc93ff50604ac4c19499ba5a90bce88bf3968646757f3b6aafb60e0276502ff",
+  "confidence_tier": 4,
+  "date_published": "2026-03-18T07:02:45-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Glow",
+      "name_normalized": "klow",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "New or darker freckles appearing on shoulders, torso, and legs; fair skin, no recent sun exposure",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Fair-skinned user with minimal sun exposure over winter except arms and face. Freckles noted as randomly distributed.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.68,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.661687Z"
+}

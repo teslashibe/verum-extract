@@ -1,0 +1,57 @@
+{
+  "id": "1729d5f0-4b71-46b9-9cb6-39f91200fda8",
+  "source_id": "1rglxf2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rglxf2/so_yeah_i_ended_up_buying_retatrutide/",
+  "author_hash": "18c1b00d86207fd9d7faa5889ec3bf214b94885062eda6ee0efb66a73997a160",
+  "confidence_tier": 4,
+  "date_published": "2026-02-27T15:04:05-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 163,
+    "unit": "lbs"
+  },
+  "training_status": "exercises regularly",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 12 lbs in 2 weeks and reduced body fat from 28% to 26%",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body weight",
+      "value_before": 163,
+      "value_after": 151,
+      "unit": "lbs",
+      "timeframe_days": 14
+    },
+    {
+      "marker_name": "body fat percentage",
+      "value_before": 28,
+      "value_after": 26,
+      "unit": "%",
+      "timeframe_days": 14
+    }
+  ],
+  "protocol_notes": "Female, 47 years old, 5'9\". Started at same low dose protocol as male partner. Has good eating habits and exercise routine. Combined protocol with partner (male 6'1\" 215lbs).",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.670844Z"
+}

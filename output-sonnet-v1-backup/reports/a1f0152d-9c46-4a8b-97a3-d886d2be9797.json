@@ -1,0 +1,48 @@
+{
+  "id": "a1f0152d-9c46-4a8b-97a3-d886d2be9797",
+  "source_id": "1rkvdmg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rkvdmg/cjcipa_no_dac_allergic_reactions/",
+  "author_hash": "4e00cb36ddcd771f6f2a09aa304da36c77d10cf48b3be92a634727ad085ab367",
+  "confidence_tier": 5,
+  "date_published": "2026-03-04T11:43:24-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC/ipa",
+      "name_normalized": "cjcipa",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Large systemic reaction to tesamorelin; stomach rumbling/turning a few minutes after injecting served as a precursor",
+      "severity": "significant"
+    },
+    {
+      "category": "injection_site",
+      "description": "Large hard itchy lumps on skin from tesamorelin",
+      "severity": "significant"
+    },
+    {
+      "category": "injection_site",
+      "description": "Small skin reactions like a bug bite from CJC/ipa",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "User experienced a large systemic allergic reaction to tesamorelin. With CJC/ipa, only small local skin reactions experienced. Advises awareness of worsening symptoms and keeping allergy meds on hand.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.11226Z"
+}

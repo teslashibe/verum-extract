@@ -1,0 +1,69 @@
+{
+  "id": "992330d2-cf4a-4902-be7c-1dde15dd9891",
+  "source_id": "1ikftl8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ikftl8/thank_god_for_whoever_invented_tb500_and_bpc157/",
+  "author_hash": "853f2f6951ecdf8660b8c3476861951850f39aeace7b84f97c94d34a41cbb265",
+  "confidence_tier": 4,
+  "date_published": "2025-02-07T21:16:07-08:00",
+  "health_conditions": [
+    "shoulder strain",
+    "back pain"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "1-2x daily",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "intramuscular",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "1-2x daily",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Significant reduction in constant shoulder and back pain that was present all day and sometimes all night",
+      "severity": "significant",
+      "onset_days": 9
+    },
+    {
+      "category": "energy",
+      "description": "Noticed higher energy levels",
+      "severity": "mild"
+    },
+    {
+      "category": "sleep",
+      "description": "Some better sleep noted",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Accidentally hit a nerve or vein once or twice during injection into shoulder",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Used two separate injections, one TB500 and one BPC157. Missed 5 days out of first 2 weeks. Plans 12-week cycle starting at low dose and building up, followed by 1 month break. Using 23-gauge needle for injection and 18-gauge for drawing. Injecting near site of injury in shoulder.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.288081Z"
+}

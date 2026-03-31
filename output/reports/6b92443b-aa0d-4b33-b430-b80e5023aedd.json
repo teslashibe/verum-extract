@@ -1,0 +1,56 @@
+{
+  "id": "6b92443b-aa0d-4b33-b430-b80e5023aedd",
+  "source_id": "1mrvy0p",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mrvy0p/update_on_retratutide/",
+  "author_hash": "776c3232938d111df3910d8d2a5d8ddd3de05afebd7534fe91678c8173540be0",
+  "confidence_tier": 4,
+  "date_published": "2025-08-16T06:54:58-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "weekly with 1mg/wk titration",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "First month of Retatrutide suppressed food noise",
+      "severity": "moderate",
+      "onset_days": 30
+    },
+    {
+      "category": "fat_loss",
+      "description": "Significant weight to lose still outstanding; moderating titration rate prudently",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "From 4mg onwards, Retatrutide actually made user hungry at first",
+      "severity": "moderate",
+      "onset_days": 120
+    }
+  ],
+  "protocol_notes": "User is in 5th month of Retatrutide and 2nd month using both Retatrutide and Cagrilintide stack. Currently at approximately 6mg/wk with 1mg/wk titration increase. Transitioning from previous Tirzepatide use.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.401113Z"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "856038f8-8a8b-4bc7-9618-728cb8d25394",
+  "source_id": "1s6fnok",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s6fnok/progress/",
+  "author_hash": "b62b378edffcc3ec91c26c0ed97af482259361c621b49bdf0abe16f1040a5888",
+  "confidence_tier": 4,
+  "date_published": "2026-03-28T16:40:21-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "25-29",
+  "reported_weight": {
+    "value": 208,
+    "unit": "lbs"
+  },
+  "training_status": "strength trains 5-6x/week, cardio 6-7x/week",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 77 lbs total (285 lbs to 208 lbs), with natural weight loss initially, then retatrutide enabled continued fat loss when plateau occurred",
+      "severity": "significant"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "User mentions difficulty eating on retatrutide, either not hungry or full after small portions",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Either not hungry or becomes full quickly after small portions",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Dosing protocol: started at 0.5mg, then moved up to 1mg. Combined with strength training 5-6x/week and cardio 6-7x/week. Mostly eating clean with occasional fast food treat once weekly. Takes daily vitamins only, no other supplements.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.656567Z"
+}

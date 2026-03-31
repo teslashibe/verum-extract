@@ -1,0 +1,50 @@
+{
+  "id": "1125b047-e149-4778-8827-0d91203b7ea3",
+  "source_id": "1ridbfy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ridbfy/newbie_wanting_to_start_reta/",
+  "author_hash": "7eced37680c65cbaf4c17a1bd591573dd6d89ff02b38351b695af850f1e07e8a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T15:55:54-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "cycling (5 days on, few days off)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "down 40 pounds on Reta and 50 pounds total, about 15 pounds from goal",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "visceral belly fat reduction from Tesamorelin",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Tesa causes water retention but resolves during off-cycle",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Cycling Tesamorelin 5 days on then off. Notices 1 notch belt reduction when stopping Tesa cycle. Remarkable body composition changes with little effort.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.670071Z"
+}

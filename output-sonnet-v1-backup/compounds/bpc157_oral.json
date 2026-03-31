@@ -1,0 +1,55 @@
+{
+  "compound_id": "bpc157_oral",
+  "display_name": "BPC157 oral",
+  "category": "other",
+  "total_reports": 5,
+  "reports_by_tier": {
+    "4": 1,
+    "5": 4
+  },
+  "top_benefits": [
+    {
+      "category": "injury_healing",
+      "count": 1,
+      "pct": 100
+    }
+  ],
+  "top_side_effects": null,
+  "common_doses": [
+    {
+      "route": "oral",
+      "dose": 250,
+      "unit": "mcg",
+      "frequency": "2x daily",
+      "count": 1,
+      "pct": 20
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "bpc_157_injectable",
+      "display_name": "BPC-157 injectable",
+      "report_count": 1
+    },
+    {
+      "compound_id": "bpc_157_pinning",
+      "display_name": "BPC-157 (pinning)",
+      "report_count": 1
+    },
+    {
+      "compound_id": "tb_500",
+      "display_name": "TB500",
+      "report_count": 1
+    }
+  ],
+  "avg_cycle_length_days": 30,
+  "avg_sentiment_score": 0.6,
+  "sentiment_breakdown": {
+    "positive": 2,
+    "mixed": 1,
+    "negative": 0,
+    "neutral": 2
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.966422Z"
+}

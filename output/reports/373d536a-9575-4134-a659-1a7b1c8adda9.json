@@ -1,0 +1,37 @@
+{
+  "id": "373d536a-9575-4134-a659-1a7b1c8adda9",
+  "source_id": "1rycrgp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rycrgp/tesaipa_then_cjcipa/",
+  "author_hash": "9a9d7d59d33c42f475c77a13227b0b49e4504d6776b456ff0a5835539b0fed3d",
+  "confidence_tier": 5,
+  "date_published": "2026-03-19T14:19:22-07:00",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 120,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 120,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 105,
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Planning 4-month Tesamorelin/Ipamorelin cycle followed by break, then 3-4 month CJC-1295/Ipamorelin cycle. Considering 1-2 month break between cycles.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.649613Z"
+}

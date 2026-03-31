@@ -1,0 +1,47 @@
+{
+  "id": "3022045e-9295-463d-b931-cafffea0bde8",
+  "source_id": "1s0t6kt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s0t6kt/do_i_need_to_add_anything_else/",
+  "author_hash": "a435495b980d2d5957dcc82f0243c5ca42b60fb6c7ee1cbe3d0410dece71c027",
+  "confidence_tier": 5,
+  "date_published": "2026-03-22T11:26:38-07:00",
+  "health_conditions": [
+    "menopause"
+  ],
+  "compounds": [
+    {
+      "name_raw": "berberine",
+      "name_normalized": "berberine",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Fasting glucose improved after switching to meo nutrition berberine brand",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Generic brand berberine upset stomach; switched to meo nutrition brand which was gentler",
+      "severity": "mild",
+      "resolved": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "fasting glucose",
+      "timeframe_days": 60
+    }
+  ],
+  "protocol_notes": "On berberine for metabolic support during menopause for 2 months. Switched from generic brand to meo nutrition berberine due to GI side effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.105597Z"
+}

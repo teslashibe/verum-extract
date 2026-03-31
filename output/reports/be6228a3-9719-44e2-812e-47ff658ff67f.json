@@ -1,0 +1,48 @@
+{
+  "id": "be6228a3-9719-44e2-812e-47ff658ff67f",
+  "source_id": "1rslanz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rslanz/starting_ipamorelin_at_19/",
+  "author_hash": "4e66850fb6c5b2485d542abe802ef0905c36654126065a663149fb66222d7da8",
+  "confidence_tier": 5,
+  "date_published": "2026-03-13T04:56:21-07:00",
+  "reported_age_range": "18-24",
+  "training_status": "gym 5x per week",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Hoping to increase deep sleep from baseline ~45 minutes"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "deep sleep",
+      "value_before": 45,
+      "unit": "minutes"
+    },
+    {
+      "marker_name": "REM sleep",
+      "value_before": 1.5,
+      "unit": "hours"
+    },
+    {
+      "marker_name": "total sleep time",
+      "value_before": 7,
+      "unit": "hours"
+    }
+  ],
+  "protocol_notes": "OP is 19 years old, highly health-conscious with excellent sleep hygiene, tracks sleep data, takes glycine and magnesium, tracks food intake, eats whole foods. Chose ipamorelin as perceived safest HGH-secretagogue. Has not yet started the peptide - post describes intention to start.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.664648Z"
+}

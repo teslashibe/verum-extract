@@ -1,0 +1,71 @@
+{
+  "id": "317b467a-5bda-4665-97d1-cf15cb0efbaa",
+  "source_id": "1mztb1s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mztb1s/peptides_for_eds_ehler_danlos_syndrome/",
+  "author_hash": "51ffaddac48a513b9b04ffa3ef67891728d1ff90e6825e2bbd6c8cbfcc26bec3",
+  "confidence_tier": 4,
+  "date_published": "2025-08-25T08:17:32-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "30-39",
+  "health_conditions": [
+    "Ehlers-Danlos syndrome",
+    "knee pain",
+    "cartilage issues",
+    "joint pain",
+    "body aches",
+    "fatigue"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Knee pain significantly reduced; KT tape needed only occasionally rather than every few days",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Overall joint function improved",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Stack referred to as KLOW blend (BPC-157 + TB-500 + GHK-Cu + KPV). Administered via subcutaneous injection with pens. Protocol: 5 days on, 2 days off. Duration approximately 3 months. Plans to cycle off for 1-2 months when cold weather eases.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.400163Z"
+}

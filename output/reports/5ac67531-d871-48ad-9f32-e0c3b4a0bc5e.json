@@ -1,0 +1,43 @@
+{
+  "id": "5ac67531-d871-48ad-9f32-e0c3b4a0bc5e",
+  "source_id": "1phsd5j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1phsd5j/is_aod_actually_doing_anything_for_you_guys_or_am/",
+  "author_hash": "d272078767dc4c725707f7f4eaf01577183520d3ee8e289512672726216c475c",
+  "confidence_tier": 4,
+  "date_published": "2025-12-08T15:48:38-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "frequency": "fasted cardio timing",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Results come when AOD paired with GLP/GIP combo and taken fasted before cardio",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Emphasizes importance of timing (fasted, pre-cardio) and stacking with GLP-1/GIP agonists for efficacy",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.391195Z"
+}

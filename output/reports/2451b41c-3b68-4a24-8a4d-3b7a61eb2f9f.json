@@ -1,0 +1,53 @@
+{
+  "id": "2451b41c-3b68-4a24-8a4d-3b7a61eb2f9f",
+  "source_id": "1qrps3k",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qrps3k/first_time_with_peptides_kinda_messed_up/",
+  "author_hash": "005eddad8660eaf16ac6051259092046914e008b8a7140714fa78239dd848cb1",
+  "confidence_tier": 4,
+  "date_published": "2026-01-30T18:21:33-08:00",
+  "health_conditions": [
+    "chronic inflammation",
+    "meniscus injury"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 120,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 120,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "inflammation",
+      "description": "Keeps chronic inflammation in check",
+      "severity": "moderate"
+    },
+    {
+      "category": "joint_pain",
+      "description": "Prevents meniscus injury from bothering user",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Taking 1mg of each (BPC-157 and TB-500) daily for past 4-5 months. Plans to take a break in a few weeks. User reports needing this dose to manage chronic inflammation and meniscus injury.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.681866Z"
+}

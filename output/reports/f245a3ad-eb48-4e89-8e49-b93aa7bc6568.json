@@ -1,0 +1,69 @@
+{
+  "id": "f245a3ad-eb48-4e89-8e49-b93aa7bc6568",
+  "source_id": "1s76933",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s76933/tirz_sides/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T13:37:19-07:00",
+  "reported_weight": {
+    "value": 247,
+    "unit": "lbs"
+  },
+  "training_status": "active (gym and cardio)",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite suppression working as intended",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "1.7 lbs/week average weight loss",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "dizziness",
+      "description": "Increased lightheadedness and vertigo; woke with room spinning intensely",
+      "severity": "significant"
+    },
+    {
+      "category": "mood_change",
+      "description": "Increased irritability and feeling 'not great' while eating",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "blood_pressure",
+      "value_after": 109,
+      "unit": "mmHg (109/67)",
+      "timeframe_days": 28
+    },
+    {
+      "marker_name": "weight",
+      "value_before": 247,
+      "value_after": 228,
+      "unit": "lbs",
+      "timeframe_days": 28
+    }
+  ],
+  "protocol_notes": "Caloric intake 1800-2100 calories/day, 120g carbs, 50-60g fat, ~1 gallon water daily. Estimated expenditure ~2500 cal/day. Gym and cardio decreased significantly. Added electrolytes. BP typically normal (baseline). Route of administration not specified.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.645058Z"
+}

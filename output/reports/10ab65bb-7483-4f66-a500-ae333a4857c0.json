@@ -1,0 +1,32 @@
+{
+  "id": "10ab65bb-7483-4f66-a500-ae333a4857c0",
+  "source_id": "1ly9lnd",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ly9lnd/bacteriostatic_water_concentrations/",
+  "author_hash": "f3b7544c4b46e327381fc06d237a94f7ef1b48a9ef9796d52cbddf34a0ffd127",
+  "confidence_tier": 4,
+  "date_published": "2025-07-12T12:59:53-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Post-injection pain (PIP) risk"
+    }
+  ],
+  "protocol_notes": "Prefers more dilute solutions (10mg/3ml) for reduced PIP risk and more precise dosing. Likes to keep injection volumes at 30 units or less. References clinical study showing 3ml abdominal injections are safe and tolerable.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.687545Z"
+}

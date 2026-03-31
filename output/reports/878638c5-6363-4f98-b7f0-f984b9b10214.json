@@ -1,0 +1,62 @@
+{
+  "id": "878638c5-6363-4f98-b7f0-f984b9b10214",
+  "source_id": "1c37s5x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1c37s5x/considering_tesamorelin_ipamorelin_cjc_1295_stack/",
+  "author_hash": "c9cd216b1029f12d06c9aa8ec029cd60814f5914222f19fad75a4d298de547ce",
+  "confidence_tier": 4,
+  "date_published": "2024-04-13T10:54:16-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "training_status": "experienced, strength-focused",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "evening",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "evening",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "frequency": "morning",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Cut about 2% body fat",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Put on some skeletal muscle mass (SMM)",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body fat percentage",
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Finishing 2nd cycle. Ipamorelin with CJC in evening, Tesamorelin in morning. Describes stack as 'spectacular'.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.697979Z"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "4c17d1c2-4b7a-4151-b893-c6320eba5680",
+  "source_id": "1ivfcak",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ivfcak/tirzepatide_review_works_way_too_damn_well/",
+  "author_hash": "b13423a0fa1bc589612cc37718856ac74ea10fec3901a307c591f46f3f9ccfdd",
+  "confidence_tier": 4,
+  "date_published": "2025-02-22T01:50:04-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 180.6,
+    "unit": "lbs"
+  },
+  "training_status": "actively working out to maintain muscle mass",
+  "health_conditions": [
+    "motor nerve damage post COVID",
+    "muscular stiffness and weakness",
+    "long COVID (history of extreme insomnia 2023-2024)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157/TB-500 blend",
+      "name_normalized": "bpc_157tb_500_blend",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 4,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Became full from 400-500 calorie breakfast; caloric intake dropped from ~4000 to ~1400-2000 calories/day",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost 12.6 lbs in 3 weeks (180.6 to 168 lbs); visibly lost fat, not just water weight/glycogen",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Energy levels good, if not better than before",
+      "severity": "mild"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "No stomach growling and very few hunger pains; no longer waking in the night due to extreme hunger",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Goal was to lose 12 lbs in 2 months (1.5 lbs/week). Started at 180.6 lbs, now 168 lbs after 3 weeks. Height 5'10\". Averaging ~1700 calories/day. Meticulous about hitting 0.7-1g/lb body weight in protein. Plans to stop Tirzepatide once target weight is reached due to fear of long-term side effects. BPC/TB blend dosed at 1mg/day split twice; GHK-Cu at 4mg/day split twice.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.88,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.287715Z"
+}

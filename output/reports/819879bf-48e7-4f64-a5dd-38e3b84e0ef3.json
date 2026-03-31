@@ -1,0 +1,63 @@
+{
+  "id": "819879bf-48e7-4f64-a5dd-38e3b84e0ef3",
+  "source_id": "1s3yfim",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s3yfim/first_time_glp_user_tirzepatide_vs_retatrutide/",
+  "author_hash": "44a6146b4867840c82e8b19229cd64c11af1c9297fe50aae8f60b76e3f4353c5",
+  "confidence_tier": 4,
+  "date_published": "2026-03-25T22:07:06-07:00",
+  "training_status": "lifting",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 12,
+      "dose_unit": "mg",
+      "frequency": "every 6 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Retatrutide most effective for fat loss compared to semaglutide and tirzepatide",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Higher energy in gym on retatrutide than off GLPs entirely",
+      "severity": "significant"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Less GI distress on retatrutide compared to tirzepatide",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "With tirzepatide was too tired to hit workout goals",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Currently on 12mg retatrutide every 6 days. Has run all three main GLPs (semaglutide, tirzepatide, retatrutide). Notes that LBM loss is preventable with protein and resistance training regardless of GLP compound.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.657803Z"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "216f465c-14ba-403d-a639-28d921bfec9f",
+  "source_id": "1bk96xj",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bk96xj/the_nugget_tesaipa_question/",
+  "author_hash": "34bf26ac92b6b556b6af7efb6abe952ceeb52e0fff10a57f0dd05f09bb654279",
+  "confidence_tier": 4,
+  "date_published": "2024-03-21T08:26:42-07:00",
+  "training_status": "lifting heavy",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Worked really well and fast",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Tore bicep/pec on 5th week; Tesa reported to increase proneness to injury during heavy lifting",
+      "severity": "significant",
+      "onset_days": 35
+    }
+  ],
+  "protocol_notes": "Used Tesa/Ipa blend (1mg/500mcg). Experienced significant injury on week 5 during heavy lifting. Warns that Tesa increases susceptibility to injury when lifting heavy.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.416122Z"
+}

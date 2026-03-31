@@ -1,0 +1,92 @@
+{
+  "id": "1c369803-fa99-4fc2-91f7-f7c53830bd96",
+  "source_id": "1rwj4c8",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwj4c8/peptides/",
+  "author_hash": "2d188e6f5edade062a34d52504e25b3e29a4d72e93c2fc3fb8e86d2d7d78dc7a",
+  "confidence_tier": 4,
+  "date_published": "2026-03-17T13:55:00-07:00",
+  "health_conditions": [
+    "Crohn's disease",
+    "autoimmune hemolytic anemia",
+    "ADHD",
+    "low ferritin"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "gut_health",
+      "description": "Helped with bloating and bowel trouble",
+      "severity": "moderate"
+    },
+    {
+      "category": "anti_aging",
+      "description": "General benefits from peptides",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Energy levels depleted to point where entire body felt weighed down with sand",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 2
+    },
+    {
+      "category": "cognitive_impairment",
+      "description": "Brain fog becoming increasingly unbearable, feels like migraine coming on but never happens",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "mood_change",
+      "description": "Lost all desire to do anything",
+      "severity": "significant"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Stomach felt like it was on fire after taking Pepcid; stomach pain returned after stopping peptides",
+      "severity": "moderate"
+    },
+    {
+      "category": "respiratory",
+      "description": "Reoccurring sinus infections while on biologics (Stelara)",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "ferritin",
+      "timeframe_days": 0
+    }
+  ],
+  "protocol_notes": "User has history of adverse reactions to biologic medications (anaphylaxis with Remicade, side effects with Stelara and Humira). Suspected PEG allergy based on reactions to multiple medications containing PEG. BPC-157 blunts ADHD medication (Dexedrine instant release, then Concerta). User later reports that BPC-157 injected directly into back of neck cleared brain fog within 20 minutes. Believes KPV may be too powerful for current health conditions, causing deep repair state that is incompatible with active lifestyle. Previously received ferritin infusions 4-5 years ago.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.65044Z"
+}

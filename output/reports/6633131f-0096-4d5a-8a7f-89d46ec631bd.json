@@ -1,0 +1,49 @@
+{
+  "id": "6633131f-0096-4d5a-8a7f-89d46ec631bd",
+  "source_id": "1m44bjy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m44bjy/cjcipa_impact_on_sleep_quality/",
+  "author_hash": "3bc0f5e7342e41aedcec15014ed144d3fe45d675e4ef5e7f6576c4d2f8c0975b",
+  "confidence_tier": 5,
+  "date_published": "2025-07-19T12:09:42-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ibutamoren",
+      "name_normalized": "mk_677",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Ibutamoren works for sleep; TB-500 and BPC-157 combo is really great",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "GH peptides before sleep don't work",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "GH peps before sleep ineffective. Ibutamoren works for sleep. TB-500 and BPC-157 stack is effective for sleep.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.687015Z"
+}

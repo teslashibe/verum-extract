@@ -1,0 +1,115 @@
+{
+  "compound_id": "zinc",
+  "display_name": "zinc",
+  "category": "other",
+  "total_reports": 10,
+  "reports_by_tier": {
+    "4": 5,
+    "5": 5
+  },
+  "top_benefits": [
+    {
+      "category": "other",
+      "count": 2,
+      "pct": 40
+    },
+    {
+      "category": "fat_loss",
+      "count": 1,
+      "pct": 20
+    },
+    {
+      "category": "anti_aging",
+      "count": 1,
+      "pct": 20
+    },
+    {
+      "category": "hair",
+      "count": 1,
+      "pct": 20
+    },
+    {
+      "category": "muscle_gain",
+      "count": 1,
+      "pct": 20
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "injection_site",
+      "count": 2,
+      "pct": 40,
+      "avg_severity": 2.5
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "oral",
+      "dose": 50,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 10
+    },
+    {
+      "route": "oral",
+      "dose": 50,
+      "unit": "mg",
+      "frequency": "30 mins to 1 hour before shot",
+      "count": 1,
+      "pct": 10
+    },
+    {
+      "route": "oral",
+      "dose": 15,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 10
+    },
+    {
+      "route": "oral",
+      "dose": 25,
+      "unit": "mg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 10
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "ghk_cu",
+      "display_name": "GHK-CU",
+      "report_count": 6
+    },
+    {
+      "compound_id": "copper",
+      "display_name": "copper",
+      "report_count": 2
+    },
+    {
+      "compound_id": "semaglutide",
+      "display_name": "Semaglutide",
+      "report_count": 1
+    },
+    {
+      "compound_id": "klow",
+      "display_name": "glow",
+      "report_count": 1
+    },
+    {
+      "compound_id": "tesamorelin",
+      "display_name": "Tesamorelin",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.675,
+  "sentiment_breakdown": {
+    "positive": 5,
+    "mixed": 2,
+    "negative": 0,
+    "neutral": 3
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.966157Z"
+}

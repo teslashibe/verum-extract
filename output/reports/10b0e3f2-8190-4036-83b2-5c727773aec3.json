@@ -1,0 +1,58 @@
+{
+  "id": "10b0e3f2-8190-4036-83b2-5c727773aec3",
+  "source_id": "1r9beod",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9beod/final_boss_mega_stack_question/",
+  "author_hash": "b7ee1e5d156135bbb5ffc63cf6384abd344d583afa549a43849731707a40ece7",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T13:06:13-08:00",
+  "training_status": "active - gym training",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "pre-workout, as needed (works within 30 minutes)",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "evening",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Increased focus during workouts",
+      "severity": "moderate",
+      "onset_days": 0
+    },
+    {
+      "category": "endurance",
+      "description": "More efficient gym sessions, reduced time wasting",
+      "severity": "moderate",
+      "onset_days": 0
+    },
+    {
+      "category": "mood",
+      "description": "Calming effect in evening",
+      "severity": "moderate",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "Uses Semax primarily for workout focus despite knowing it's typically used for task-oriented cognitive purposes. Takes as needed or more frequently to build in system. Pairs with evening Selank for relaxation. Rapid onset within 30 minutes.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.66211Z"
+}

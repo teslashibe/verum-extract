@@ -1,0 +1,43 @@
+{
+  "id": "fae5c7f8-f9ca-4f3f-8cf0-a02f568fd14c",
+  "source_id": "1iflk4v",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1iflk4v/just_injected_1mg_of_pt141_on_my_research_subject/",
+  "author_hash": "b723589ca4547e1e360ed38dd9696f7a1ecde0c9455c9894a877228246169fb6",
+  "confidence_tier": 4,
+  "date_published": "2025-02-01T17:09:44-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "raised and itchy injection site",
+      "severity": "mild"
+    },
+    {
+      "category": "anxiety",
+      "description": "raised anxiety",
+      "severity": "significant"
+    },
+    {
+      "category": "other",
+      "description": "severe restless legs",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User did not love the side effects. Previous experience with Tirzepatide, Semaglutide, and Thymosin Alpha-1 without these reactions.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.41141Z"
+}

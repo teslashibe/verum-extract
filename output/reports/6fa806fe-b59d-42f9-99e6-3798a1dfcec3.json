@@ -1,0 +1,43 @@
+{
+  "id": "6fa806fe-b59d-42f9-99e6-3798a1dfcec3",
+  "source_id": "1j7ypts",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1j7ypts/did_anyone_here_lose_weight_on_a_peptide_that/",
+  "author_hash": "04b44728b5f5f45338835db2fa4c55f055064f87d8308f01824af1375bac9e35",
+  "confidence_tier": 5,
+  "date_published": "2025-03-10T06:34:03-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Loses weight on CJC/IPA, though reports losing more than desired",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "weight_change",
+      "description": "Losing more weight than desired",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "CJC/IPA blend used",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.693528Z"
+}

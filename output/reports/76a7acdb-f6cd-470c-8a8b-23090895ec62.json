@@ -1,0 +1,47 @@
+{
+  "id": "76a7acdb-f6cd-470c-8a8b-23090895ec62",
+  "source_id": "1k1cvh2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k1cvh2/tirz_5mg_10mg_or_15mg/",
+  "author_hash": "d29bf851257895d0594226f9fdb28aea7b3f93519c72910021c32f0c8420eafa",
+  "confidence_tier": 4,
+  "date_published": "2025-04-17T06:32:20-07:00",
+  "reported_sex": "female",
+  "training_status": "fit",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.25,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 10 lbs in 4 weeks",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Slight nausea first 3 days only",
+      "severity": "mild",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 3
+    }
+  ],
+  "protocol_notes": "Report about poster's wife. She had severe side effects from Semaglutide 2.25mg weekly (bulemic-type vomiting, malaise). Switched to Tirzepatide 1.25mg weekly with much better tolerability. Lost 10 lbs in 4 weeks. Did 2-month hiatus and only regained 2 lbs. Wife is 'regular fit guru', weight loss not just water. Now wants to run 90-day regimen. Wife is a 'super responder' to low doses.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.6925Z"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "fa1c8bdd-ee24-4ae0-9896-350571291a2c",
+  "source_id": "1io07mg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1io07mg/peptides_saved_my_skin/",
+  "author_hash": "b89fcd9d2bf9da6c2f28ef59b29aff16d74d08fa6dfb3655b773781cd46dece5",
+  "confidence_tier": 4,
+  "date_published": "2025-02-12T12:01:38-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "training_status": "strength training (gym)",
+  "health_conditions": [
+    "past cystic acne",
+    "nose injury from car collision"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 15,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 15,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 15,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "topical",
+      "frequency": "daily",
+      "cycle_length_days": 15,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "IU",
+      "frequency": "daily",
+      "cycle_length_days": 15,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Accelerated healing of deep nose laceration from car collision; healed in 15 days without discoloration or hyperpigmentation, compared to previous minor cut that took 1 month",
+      "severity": "significant",
+      "onset_days": 15
+    },
+    {
+      "category": "skin",
+      "description": "Significant improvement in acne scars from past cystic acne using topical GHK-Cu and scar-away cream; describes them as 'absolute game changers'",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Also used topical silicon-based scar-away cream during injury protocol. Currently on 250-300mg testosterone per week. Used Accutane in past for cystic acne with only dry lips side effect. Emphasizes topical GHK-Cu and scar cream as most effective and accessible components; considers microneedling potentially more effective than peptides alone. Also uses Melanotan II once weekly injectable before tanning bed.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.411299Z"
+}

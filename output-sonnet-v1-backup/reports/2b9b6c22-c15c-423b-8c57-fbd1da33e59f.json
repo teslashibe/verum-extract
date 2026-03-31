@@ -1,0 +1,43 @@
+{
+  "id": "2b9b6c22-c15c-423b-8c57-fbd1da33e59f",
+  "source_id": "1q71r9t",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q71r9t/keloid_scar_unexpectedly_fading/",
+  "author_hash": "5ca44e83b2effc1fee1f66898a062129b8c17c5cea945d81dd1f382d66b8495c",
+  "confidence_tier": 4,
+  "date_published": "2026-01-07T20:07:17-08:00",
+  "health_conditions": [
+    "small keloid scar on face from popped pimple ~20 years ago"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Facial keloid scar of ~20 years reduced by over half in less than 4 weeks after starting GHK-CU; previously could fit bump under fingernail, now cannot; barely noticeable in photos taken same lighting/angle",
+      "severity": "significant",
+      "onset_days": 28
+    }
+  ],
+  "protocol_notes": "Started Tirz in October; no keloid changes noticed until starting GHK-CU 2.5mg daily in December. Took comparison photos on December 15th and ~3-4 weeks later. Credits GHK-CU as the active agent.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.256001Z"
+}

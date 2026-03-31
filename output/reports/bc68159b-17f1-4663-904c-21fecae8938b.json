@@ -1,0 +1,62 @@
+{
+  "id": "bc68159b-17f1-4663-904c-21fecae8938b",
+  "source_id": "1mqkduy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mqkduy/sermorelin_whats_the_hype/",
+  "author_hash": "684f62fc97b2cc28eaf1c8f408bf479dc497cb9d6b70ee6c97bb7f42f84b5e09",
+  "confidence_tier": 4,
+  "date_published": "2025-08-14T19:00:39-07:00",
+  "training_status": "active (lifting)",
+  "health_conditions": [
+    "shoulder joint pain",
+    "neuropathy"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "no fatigue during lifting",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "faster recovery, no soreness",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "muscles are harder",
+      "severity": "moderate"
+    },
+    {
+      "category": "joint_pain",
+      "description": "reduced joint (shoulder) pain",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "On days off shoulders start hurting until injection again",
+      "severity": "moderate",
+      "resolved": false
+    },
+    {
+      "category": "numbness_tingling",
+      "description": "getting neuropathy, one of the side effects",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Injection frequency pattern suggests 5 days on, 2 days off (referenced in follow-up discussion). User performs scheduled lifting routine plus small muscle groups.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.401331Z"
+}

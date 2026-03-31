@@ -1,0 +1,62 @@
+{
+  "id": "2be2e89a-cdf1-4437-ad7c-a667674a2681",
+  "source_id": "1refvpq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1refvpq/hgh_and_test/",
+  "author_hash": "27caba2cad95e8f39b37f60f54c10e8f2da1382eda66a7cc656187c286f85f8f",
+  "confidence_tier": 4,
+  "date_published": "2026-02-25T07:13:45-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "body_composition",
+      "description": "Works wonders but is a long term commitment. Works slowly and steadily",
+      "severity": "significant"
+    },
+    {
+      "category": "blood_sugar",
+      "description": "Retatrutide lowered A1C into lower end of normal reference range (4.9-5.2). Blood glucose no longer spikes or stays elevated between meals",
+      "severity": "significant"
+    },
+    {
+      "category": "inflammation",
+      "description": "Retatrutide helps with inflammation reduction and reduction in NAFLD",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "A1C",
+      "value_after": 4.9,
+      "unit": "%"
+    }
+  ],
+  "protocol_notes": "Used all three compounds together. First at higher retatrutide dose for fat loss, then low dose (1-2 mg weekly) for health benefits. Off retatrutide for 4 months at time of report and benefits persist. Notes blood glucose management improvements",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.659915Z"
+}

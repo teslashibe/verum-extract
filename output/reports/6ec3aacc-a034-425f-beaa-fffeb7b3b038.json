@@ -1,0 +1,85 @@
+{
+  "id": "6ec3aacc-a034-425f-beaa-fffeb7b3b038",
+  "source_id": "1s0xre3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s0xre3/are_there_any_stimulant_peptides/",
+  "author_hash": "770ee439c563fdb13818f8d6a01ac23a3bcadb50ce905b0353a0a236a5fbd18c",
+  "confidence_tier": 4,
+  "date_published": "2026-03-22T14:23:43-07:00",
+  "health_conditions": [
+    "ADD",
+    "sleep disorder",
+    "anhedonia"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleeping better than had in decades",
+      "severity": "significant",
+      "onset_days": 3
+    },
+    {
+      "category": "mood",
+      "description": "Feeling excited about life",
+      "severity": "significant",
+      "onset_days": 3
+    },
+    {
+      "category": "cognitive",
+      "description": "Full of motivation and focus",
+      "severity": "significant",
+      "onset_days": 3
+    },
+    {
+      "category": "fat_loss",
+      "description": "Wanted to lose 15 pounds before spring"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Body adjusted to new GI reality from Tirzepatide",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Ran Tirzepatide for one week at small doses before starting CJC/IPA. Stack referred to as 'Wolverine stack' used initially for injury. Discontinued methylphenidate (stimulant) after CJC/IPA showed effects.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.659638Z"
+}

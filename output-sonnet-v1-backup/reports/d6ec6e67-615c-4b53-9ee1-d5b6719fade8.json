@@ -1,0 +1,70 @@
+{
+  "id": "d6ec6e67-615c-4b53-9ee1-d5b6719fade8",
+  "source_id": "1rdykth",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rdykth/any_downsides_to_switching_to_tirz_after_reta/",
+  "author_hash": "dba4ea20aa29f981d48af22dda49902555a26776aa09253cab74fdef483dad1d",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T16:52:12-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.2,
+      "dose_unit": "mg",
+      "frequency": "3x/week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "sema",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.08,
+      "dose_unit": "mg",
+      "frequency": "3x/week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Achieved approximately 8% body fat with visible veins over abs/obliques and arms while on Reta; currently in a good place on low/micro dose sema/tirz stack",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "joint_pain",
+      "description": "Joint pain from Retatrutide",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Insomnia from Retatrutide",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Side effects from Reta were persistent and got stronger over weeks/months, unbearable beyond 3-4 weeks",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Currently running 1.2mg tirz + 0.08mg sema 3x/week (totaling 3.6mg tirz / 0.24mg sema per week). Previously ran Retatrutide but found it unbearable beyond 3-4 weeks due to persistent side effects that worsened over time. Prefers Tirz over Reta despite Tirz being weaker. Notes Tirz is more mild but preferable for their body.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114992Z"
+}

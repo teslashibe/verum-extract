@@ -1,0 +1,50 @@
+{
+  "id": "1c73ef5b-c8a1-470c-94ab-260b21304e6e",
+  "source_id": "1rilmeq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rilmeq/ipamorelin_wrong_dosage/",
+  "author_hash": "50e6d45fa78d914436edcc505397f1b0fc650c3c2df4745359f5647c79b8ac6d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T22:40:13-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "2x daily",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 12,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Comically increased appetite and overeating on Ipamorelin 2-3mg twice daily",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Significant appetite increase, able to consume ~8000 calories",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User reports phase 2 clinical trial ran Ipamorelin at 2-3mg twice daily (30mcg/kg). Phase 1 had doses up to 7-10mg (100mcg/kg). States that typical peptide protocol is 1/10th of clinical dose. Also mentions using Retatrutide 12mg with significant appetite effects. Notes Ipamorelin requires GHRH (Tesamorelin, Sermorelin, or CJC-1295) for meaningful GH release at typical protocol doses.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.658044Z"
+}

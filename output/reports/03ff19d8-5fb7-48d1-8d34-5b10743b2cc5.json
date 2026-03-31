@@ -1,0 +1,49 @@
+{
+  "id": "03ff19d8-5fb7-48d1-8d34-5b10743b2cc5",
+  "source_id": "1nyng4c",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nyng4c/new_to_peptides_goal_is_fat_loss_advice_needed/",
+  "author_hash": "ef73e2c5611f3329ea9ea8ffbf760da9f35bcc881278b16be8face46f9277ce6",
+  "confidence_tier": 4,
+  "date_published": "2025-10-05T05:54:25-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Semaglutide reduces appetite",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Tirzepatide sent user into massive depression",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User previously tried tirzepatide (caused depression), currently on semaglutide with limited fat loss results, ordered retatrutide to try",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.68015Z"
+}

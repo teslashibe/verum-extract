@@ -1,0 +1,127 @@
+{
+  "compound_id": "pinealon",
+  "display_name": "Pinealon",
+  "category": "cognitive",
+  "total_reports": 29,
+  "reports_by_tier": {
+    "4": 12,
+    "5": 17
+  },
+  "top_benefits": [
+    {
+      "category": "sleep",
+      "count": 5,
+      "pct": 41.7
+    },
+    {
+      "category": "cognitive",
+      "count": 5,
+      "pct": 41.7
+    },
+    {
+      "category": "energy",
+      "count": 4,
+      "pct": 33.3
+    },
+    {
+      "category": "mood",
+      "count": 2,
+      "pct": 16.7
+    },
+    {
+      "category": "joint_pain",
+      "count": 2,
+      "pct": 16.7
+    },
+    {
+      "category": "other",
+      "count": 2,
+      "pct": 16.7
+    },
+    {
+      "category": "skin",
+      "count": 1,
+      "pct": 8.3
+    },
+    {
+      "category": "recovery",
+      "count": 1,
+      "pct": 8.3
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "sleep_disruption",
+      "count": 3,
+      "pct": 25,
+      "avg_severity": 2.3
+    },
+    {
+      "category": "mood_change",
+      "count": 1,
+      "pct": 8.3,
+      "avg_severity": 2
+    },
+    {
+      "category": "appetite_change",
+      "count": 1,
+      "pct": 8.3,
+      "avg_severity": 1
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 500,
+      "unit": "mcg",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 3.4
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 200,
+      "unit": "mcg",
+      "frequency": "every 3 days",
+      "count": 1,
+      "pct": 3.4
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "epithalon",
+      "display_name": "Epitalon",
+      "report_count": 12
+    },
+    {
+      "compound_id": "semax",
+      "display_name": "semax",
+      "report_count": 8
+    },
+    {
+      "compound_id": "selank",
+      "display_name": "selank",
+      "report_count": 6
+    },
+    {
+      "compound_id": "ss_31",
+      "display_name": "ss31",
+      "report_count": 5
+    },
+    {
+      "compound_id": "klow",
+      "display_name": "klow",
+      "report_count": 4
+    }
+  ],
+  "avg_cycle_length_days": 21.7,
+  "avg_sentiment_score": 0.724,
+  "sentiment_breakdown": {
+    "positive": 17,
+    "mixed": 4,
+    "negative": 0,
+    "neutral": 8
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.970693Z"
+}

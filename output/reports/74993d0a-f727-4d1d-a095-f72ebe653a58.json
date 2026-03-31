@@ -1,0 +1,58 @@
+{
+  "id": "74993d0a-f727-4d1d-a095-f72ebe653a58",
+  "source_id": "1nfzgo4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nfzgo4/glow_blend_cleared_my_butt_acne/",
+  "author_hash": "497f84ef96789e2c3422e7ae284e2f956330826f58b96c812240b86b7babf99b",
+  "confidence_tier": 4,
+  "date_published": "2025-09-13T07:52:28-07:00",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 70,
+      "dose_unit": "mg",
+      "frequency": "5x weekly",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Butt acne completely cleared",
+      "severity": "significant",
+      "onset_days": 28
+    },
+    {
+      "category": "skin",
+      "description": "Stretch marks less visible, blend in better with natural skin tone",
+      "severity": "mild",
+      "onset_days": 28
+    }
+  ],
+  "protocol_notes": "GLOW blend product. Diet, workout schedule, and daily routines unchanged during protocol. Used product referred to as 'GLOW blends'.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.681933Z"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "0c154bdb-5602-4516-b025-e5cb9e65feda",
+  "source_id": "1qa18sr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qa18sr/nad_and_weight_loss/",
+  "author_hash": "ae58274e7ebaf6a63953e9062bc169c2548083d849345b06ec3151c0bc698e47",
+  "confidence_tier": 4,
+  "date_published": "2026-01-11T06:52:17-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "60+",
+  "health_conditions": [
+    "IBS"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 12.5,
+      "dose_unit": "mg",
+      "frequency": "unclear",
+      "cycle_length_days": 240,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 25,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 50,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 150,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 150,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss increased from 1-1.5 lbs/week to ~4 lbs/week after NAD+ initiation; 12 lbs over 2 weeks, 9.4 lbs over 1 month at 2.4 lbs/week average",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "energy",
+      "description": "More energy noted after NAD+ initiation",
+      "severity": "moderate",
+      "onset_days": 14
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "NAD has wrecked sleep",
+      "severity": "moderate",
+      "resolved": false
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "Increased bathroom trips, not diarrhea; pre-existing IBS complicates attribution",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "60 YO male, BMI \u003e32. Currently on Tirzepatide 8 months, total weight loss 58 lbs and past goal weight. Previous cycles: Tesamorelin/Ipamorelin (5 months), GLOW, GHK-Cu + KPV. NAD+ dosing: started 25 mg twice weekly, increased to 50 mg after 2 weeks, with escalation schedule to 100 mg (every 2 weeks doubling). Planning future cycle of IPA/CJC with increased gym time to prevent muscle loss. History of IBS predates GLPs.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.684622Z"
+}

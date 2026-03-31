@@ -1,0 +1,91 @@
+{
+  "compound_id": "5_amino",
+  "display_name": "5-Amino",
+  "category": "other",
+  "total_reports": 16,
+  "reports_by_tier": {
+    "4": 15,
+    "5": 1
+  },
+  "top_benefits": [
+    {
+      "category": "energy",
+      "count": 5,
+      "pct": 33.3
+    },
+    {
+      "category": "other",
+      "count": 3,
+      "pct": 20
+    },
+    {
+      "category": "fat_loss",
+      "count": 3,
+      "pct": 20
+    }
+  ],
+  "top_side_effects": null,
+  "common_doses": [
+    {
+      "route": "subcutaneous",
+      "dose": 2,
+      "unit": "mg",
+      "frequency": "5 days on, 2 days off",
+      "count": 2,
+      "pct": 12.5
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 1,
+      "unit": "mg",
+      "frequency": "5 days per week",
+      "count": 2,
+      "pct": 12.5
+    },
+    {
+      "route": "subcutaneous",
+      "dose": 50,
+      "unit": "mg",
+      "frequency": "",
+      "count": 1,
+      "pct": 6.3
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "nad_plus",
+      "display_name": "NAD+",
+      "report_count": 7
+    },
+    {
+      "compound_id": "tesamorelin",
+      "display_name": "Tesamorelin",
+      "report_count": 6
+    },
+    {
+      "compound_id": "mots_c",
+      "display_name": "MOTS-c",
+      "report_count": 4
+    },
+    {
+      "compound_id": "tb_500",
+      "display_name": "TB-500",
+      "report_count": 3
+    },
+    {
+      "compound_id": "1mq",
+      "display_name": "1MQ",
+      "report_count": 2
+    }
+  ],
+  "avg_cycle_length_days": 70,
+  "avg_sentiment_score": 0.719,
+  "sentiment_breakdown": {
+    "positive": 10,
+    "mixed": 0,
+    "negative": 0,
+    "neutral": 6
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T04:48:57.361749Z"
+}

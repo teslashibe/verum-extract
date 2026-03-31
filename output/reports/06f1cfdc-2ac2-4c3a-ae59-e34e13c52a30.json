@@ -1,0 +1,43 @@
+{
+  "id": "06f1cfdc-2ac2-4c3a-ae59-e34e13c52a30",
+  "source_id": "1bp0035",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1bp0035/has_anyone_had_these_kind_of_reactions_from_cjcipa/",
+  "author_hash": "41e031c16a31cd63e155ff437369d794f2f19a5d53d2cef93f24df0b86895d21",
+  "confidence_tier": 4,
+  "date_published": "2024-03-27T04:53:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "mild allergic reaction on first exposure",
+      "severity": "mild"
+    },
+    {
+      "category": "allergic_reaction",
+      "description": "severe reaction on second exposure after 2 week break: sneezing, wheezing, full body hives, itching",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Commenter is describing their partner's experience. Partner had milder reaction first, took 2 weeks off, restarted and had much worse reaction. Commenter is a medic with Benadryl and epi-pens available. Partner planning to isolate each compound to identify allergen.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.698242Z"
+}

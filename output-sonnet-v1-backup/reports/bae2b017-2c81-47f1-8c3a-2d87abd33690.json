@@ -1,0 +1,78 @@
+{
+  "id": "bae2b017-2c81-47f1-8c3a-2d87abd33690",
+  "source_id": "1rr12jp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rr12jp/round_2_of_semaglutide_not_working/",
+  "author_hash": "16dc28238bd11d1d91a6b414e0d84843685d9e4c1631c36769b0b811e53fe381",
+  "confidence_tier": 4,
+  "date_published": "2026-03-11T10:57:01-07:00",
+  "reported_sex": "female",
+  "reported_weight": {
+    "value": 267,
+    "unit": "lbs"
+  },
+  "health_conditions": [
+    "obesity"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "carg",
+      "name_normalized": "cagri",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleeping well on Tirz",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Appetite reduced on Tirz, could still eat and drink water",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Not sleeping more than an hour or two per night on Reta",
+      "severity": "significant"
+    },
+    {
+      "category": "nausea",
+      "description": "Gets sick if drinks too much water on Reta",
+      "severity": "significant"
+    },
+    {
+      "category": "mood_change",
+      "description": "Wacky mood disturbances on Reta, described as more irritable/spicy by partner",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Titrated Reta too fast at 2mg/week on doctor's advice until appetite was zero. Experienced significant adverse effects on Reta. Switched to Tirz with better tolerance. Starting Testosterone and potentially stacking with carg. Height 5'5\", weight 267 lbs noted by doctor. Body weight was flagged as dangerously overweight by provider.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.109715Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "390e0caf-6757-4e31-ad73-1358ade419f3",
+  "source_id": "1rwcfgo",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rwcfgo/ghkcu_gluta_interaction/",
+  "author_hash": "6e6b7ec3b52219d6e3eb70a3c0a67cd3b3f8557b4c693dac7ff5c4687aa62189",
+  "confidence_tier": 5,
+  "date_published": "2026-03-17T10:03:22-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Gluta",
+      "name_normalized": "gluta",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Mentions reading about people feeling tired from glutathione; notes tiredness may resolve after first 1-2 weeks of the cycle"
+    }
+  ],
+  "protocol_notes": "States they feel fine pinning GHK-Cu and glutathione together. Notes anecdotal reports of glutathione-induced tiredness resolving after 1-2 weeks.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.107282Z"
+}

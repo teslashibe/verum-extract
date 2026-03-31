@@ -1,0 +1,44 @@
+{
+  "id": "99339f8d-08c9-4b1e-bd1d-f418f75659ad",
+  "source_id": "1rqdtt2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rqdtt2/can_i_mix_bpc_157_tb500_and_ghk_cu_in_the_same/",
+  "author_hash": "761450c24124094f86f1e3f2a2a1c5da85c587d71911de84d1e45cbae919c24b",
+  "confidence_tier": 5,
+  "date_published": "2026-03-10T16:51:01-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "protocol_notes": "Describes typical individual dosing protocols. BPC-157: 400 mcg daily. TB-500: 400 mcg weekly (higher weekly totals typical). GHK-Cu: 2 mg daily. Notes that GLOW blend (50/10/10 ratio) does not align well with individual peptide dosing patterns. Recommends separate vials or adjusted blend ratios to achieve optimal dosing.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.653774Z"
+}

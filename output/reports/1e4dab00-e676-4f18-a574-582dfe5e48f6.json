@@ -1,0 +1,45 @@
+{
+  "id": "1e4dab00-e676-4f18-a574-582dfe5e48f6",
+  "source_id": "1r6cjww",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6cjww/anyone_else_get_weird_skin_reactions_from_tirz/",
+  "author_hash": "e46887c72bbfe7f045a484c55f32587c9ee28450c23b63d1be0d34974b20563d",
+  "confidence_tier": 4,
+  "date_published": "2026-02-16T07:27:15-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "weight loss; significant enough to prefer side effects over being 100lbs heavier",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "dry skin patches that recur despite treatment with castor oil",
+      "severity": "moderate",
+      "resolved": false
+    },
+    {
+      "category": "injection_site",
+      "description": "injection site reactions",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Used Tirzepatide directly from Lily before losing coverage. Experienced similar skin issues to OP. Injection site reactions improved with pre- and post-injection alcohol cleaning and changing injection location. Uses castor oil for dry spots with temporary relief. User has not tried Retatrutide.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.66324Z"
+}

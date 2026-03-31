@@ -1,0 +1,42 @@
+{
+  "id": "9e42f5e7-95dc-4316-8a59-71307e6dc787",
+  "source_id": "1rn4fyt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rn4fyt/dosage_help_cjc_no_dac_ipamorelin/",
+  "author_hash": "39da06b8c3d6ab60996425c39755bf84003e507db26c8697c813527af61cefe9",
+  "confidence_tier": 5,
+  "date_published": "2026-03-07T00:10:14-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "cycle_length_days": 35,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "10/10mg blend mixed with 2ml bacteriostatic water. OP seeking dosage guidance, no prior experience with this protocol. CJC specified as 'no DAC' variant.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.655843Z"
+}

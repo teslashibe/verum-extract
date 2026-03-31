@@ -1,0 +1,55 @@
+{
+  "id": "382c2996-6f9e-4405-8100-874c4c8c8dcb",
+  "source_id": "1rjt8gv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rjt8gv/peptides_for_bone_fractures_jaw_surgery/",
+  "author_hash": "0c3ceb1d967b69a35456f205f30ad4544849a29146170caf7757ca802a105cd8",
+  "confidence_tier": 4,
+  "date_published": "2026-03-03T08:05:22-08:00",
+  "health_conditions": [
+    "jaw surgery recovery"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "dose_value": 400,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "every three days",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Started 5 days post double jaw surgery. User querying whether doses are too low.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.657507Z"
+}

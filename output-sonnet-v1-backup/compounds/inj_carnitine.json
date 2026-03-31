@@ -1,0 +1,43 @@
+{
+  "compound_id": "inj_carnitine",
+  "display_name": "Inj Carnitine",
+  "category": "other",
+  "total_reports": 2,
+  "reports_by_tier": {
+    "5": 2
+  },
+  "top_benefits": null,
+  "top_side_effects": null,
+  "common_doses": null,
+  "common_stacks": [
+    {
+      "compound_id": "semaglutide",
+      "display_name": "Semaglutide",
+      "report_count": 1
+    },
+    {
+      "compound_id": "melanotan_2",
+      "display_name": "melanotan 2",
+      "report_count": 1
+    },
+    {
+      "compound_id": "hgh_frag",
+      "display_name": "high frag",
+      "report_count": 1
+    },
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Retatrutide",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.375,
+  "sentiment_breakdown": {
+    "positive": 0,
+    "mixed": 1,
+    "negative": 0,
+    "neutral": 1
+  },
+  "limited_data": true,
+  "generated_at": "2026-03-31T03:34:40.971595Z"
+}

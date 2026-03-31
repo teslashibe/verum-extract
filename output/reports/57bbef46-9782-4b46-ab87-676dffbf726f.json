@@ -1,0 +1,83 @@
+{
+  "id": "57bbef46-9782-4b46-ab87-676dffbf726f",
+  "source_id": "1qx9nat",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qx9nat/reaction_to_peptides/",
+  "author_hash": "25cf1804c741d7d3ab81dfe20ece64be436f45966a7beb70f4803cad3f1bf002",
+  "confidence_tier": 4,
+  "date_published": "2026-02-05T21:59:53-08:00",
+  "health_conditions": [
+    "urticaria",
+    "rash",
+    "hives"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1.25,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 750,
+      "dose_unit": "mcg",
+      "frequency": "once weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 750,
+      "dose_unit": "mcg",
+      "frequency": "once weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "once weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "frequency": "once weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Urticaria (hives) developing all over body with small isolated red blisters resembling mosquito bites. Initial rash on buttocks and shoulders where in contact with shakti mat.",
+      "severity": "moderate",
+      "onset_days": 1
+    },
+    {
+      "category": "skin_reaction",
+      "description": "Itching (hitching) all over the body",
+      "severity": "moderate",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "GHK-Cu, BPC-157, and TB-500 were from GLOW blend; additional BPC-157 and TB-500 from separate BPC+TB blend vial; KPV from separate vial. NAD+ last used Saturday morning, other compounds last used Sunday night. Same batches of GLOW, BPC/TB, and NAD+ used for months prior. KPV is new batch and first-time use. Zyrtec taken without success. No anaphylaxis reported but user concerned about risk.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.666789Z"
+}

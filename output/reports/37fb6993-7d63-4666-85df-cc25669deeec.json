@@ -1,0 +1,41 @@
+{
+  "id": "37fb6993-7d63-4666-85df-cc25669deeec",
+  "source_id": "1ridbfy",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ridbfy/newbie_wanting_to_start_reta/",
+  "author_hash": "b18cc0b1c78770d3d4d652ad3bc46d4433fe65c47a3a0a640aa90cc16ced4e0f",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T15:55:54-08:00",
+  "training_status": "3-4 times per week",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "twice weekly",
+      "cycle_length_days": 60,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss results over 2-3 months",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Reduced interest in drinking",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Recommends monotherapy approach, 200g protein daily, exercise 3-4x weekly",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.658124Z"
+}

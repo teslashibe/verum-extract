@@ -1,0 +1,43 @@
+{
+  "id": "47d50a64-4d4f-46f1-b47f-cb73e489feb9",
+  "source_id": "1o9amaz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o9amaz/my_father_has_been_in_pain_for_the_past_15_years/",
+  "author_hash": "a2a1bf68d97c74541304d2b781711b5812bdb2c17219a076887af8022b9da9ac",
+  "confidence_tier": 4,
+  "date_published": "2025-10-17T12:23:32-07:00",
+  "health_conditions": [
+    "minor ligament tear",
+    "hip bursitis"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 12,
+      "frequency": "once daily (asking about increasing to 2x daily)",
+      "cycle_length_days": 10,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "TB500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Bcp",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Currently on 12 units of KLOW for 10 days using 1mL insulin syringe. Asking whether it is safe to increase to 24 units per day (12 morning, 12 night). Also states they have TB500 and BPC coming. Dose unit unclear — 'units' on insulin syringe likely corresponds to mcg based on reconstitution volume.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.267732Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "5c733c72-3983-49bd-a344-148041331200",
+  "source_id": "1ruf5ub",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ruf5ub/information_on_igf1lr3_storage/",
+  "author_hash": "29938fd6dca1cd3a1c6aa4695e6a50368a645fef4d7e6b9bc8cbc3147977eecb",
+  "confidence_tier": 4,
+  "date_published": "2026-03-15T07:16:17-07:00",
+  "training_status": "returned to lifting after years away",
+  "health_conditions": [
+    "growth hormone deficiency"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "IGF1-LR3",
+      "name_normalized": "igf_1_lr3",
+      "category": "gh_secretagogue",
+      "dose_value": 20,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Adding a lot of muscle, though partially attributed to newbie gains from returning to lifting",
+      "severity": "moderate"
+    },
+    {
+      "category": "other",
+      "description": "Feels great overall on first cycle",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Born with growth hormone deficiency; previously treated with GH as a child but treatment stopped after reaching target height. Cannot get doctors to reinstate treatment. Using low doses of IGF1-LR3 (~20mcg) due to belief that higher doses cause receptor desensitization. Concerned about peptide degradation after reconstitution (30-50 day vial supply). First cycle.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.108205Z"
+}

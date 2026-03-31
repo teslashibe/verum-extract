@@ -1,0 +1,39 @@
+{
+  "id": "24ee4983-55dc-484b-b8ee-e1c3ae8ef642",
+  "source_id": "132jdr6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/132jdr6/just_taken_2nd_dose_of_semaglutide_but_no_side/",
+  "author_hash": "32feb24639f988789603c00fbce63bb5090d4e17275a5474adc1da642bdfd8a8",
+  "confidence_tier": 4,
+  "date_published": "2023-04-28T21:40:45-07:00",
+  "reported_weight": {
+    "value": 420,
+    "unit": "lbs"
+  },
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Noticed a little bit of a difference in appetite after taking an additional 0.25mg dose",
+      "severity": "mild",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "Purchased from Triggered Brand. Started at 0.25mg weekly. After no noticeable effects took an additional 0.25mg dose. OP weighs approximately 420 lbs and speculated body weight may reduce sensitivity to the dose.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.427435Z"
+}

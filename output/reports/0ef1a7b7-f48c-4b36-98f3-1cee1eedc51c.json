@@ -1,0 +1,63 @@
+{
+  "id": "0ef1a7b7-f48c-4b36-98f3-1cee1eedc51c",
+  "source_id": "1o2xl8j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o2xl8j/bpc157_tb500_for_chronic_shoulder_pain_30_days/",
+  "author_hash": "ee748938dbf8ece686a0e22a56b1f0d716e44d3a94d4b8360d4232ccfe1e3b73",
+  "confidence_tier": 4,
+  "date_published": "2025-10-10T03:49:39-07:00",
+  "training_status": "active lifter with injury",
+  "health_conditions": [
+    "rotator cuff injury"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "frequency": "varies, approximately every 2 days",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Rotator cuff pain reduction from 6-8/10 to 2-3/10 within 30 days; restored overhead pressing ability",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "sleep",
+      "description": "Slept through the night for first time in months",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "recovery",
+      "description": "Able to return to normal workouts",
+      "severity": "significant",
+      "onset_days": 5
+    }
+  ],
+  "protocol_notes": "Injected in belly area rather than injury site. Stacked BPC-157 and TB-500 together despite some comments suggesting separate administration. Had previous experience with peptides noting inconsistent quality/efficacy from different suppliers. Continuing protocol pending assessment at end of cycle.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.679789Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "706148db-1687-4d88-a957-e8cace1e2bea",
+  "source_id": "1s32wlw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s32wlw/redose/",
+  "author_hash": "eee45c504e6e7497badbbd3d7bde370ab8626130d8b9bcc0591fa85228408cc7",
+  "confidence_tier": 4,
+  "date_published": "2026-03-24T23:18:54-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "every 3-4 days (considering redose)",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Food noise has come back after initial dose",
+      "severity": "mild",
+      "onset_days": 3
+    }
+  ],
+  "protocol_notes": "First pin with 0.5mg retatrutide. Considering redose on day 4 or 1mg dose after 1 week.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.658347Z"
+}

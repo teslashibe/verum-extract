@@ -1,0 +1,44 @@
+{
+  "id": "477d07c5-314c-4c82-8d25-f10f2faed7b8",
+  "source_id": "1rjyp82",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rjyp82/looking_for_insight_into_bpc157_and_tb500_stack/",
+  "author_hash": "ea73ee4297601dacc247e24bae34677f40724fe28382a3198570bdce35fa4b5b",
+  "confidence_tier": 4,
+  "date_published": "2026-03-03T11:22:14-08:00",
+  "health_conditions": [
+    "shoulder injury post-surgery",
+    "shoulder pain"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "intramuscular",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "glow stack",
+      "name_normalized": "glow_stack",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Shoulder pain and weakness resolved after approximately one month of HGH injections near source of pain. Was unable to shoulder press 5 lbs post-surgery, previously able to press 65 lb dumbbells.",
+      "severity": "significant",
+      "onset_days": 30
+    }
+  ],
+  "protocol_notes": "Shoulder injury occurred after nasal surgery due to positioning. HGH injected near source of pain. Also injecting glow stack into belly fat concurrently.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.112706Z"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "9e641cfb-76d3-4d94-aa4e-5545d0fd1413",
+  "source_id": "1cuzs61",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1cuzs61/a_cautionary_tale_how_weight_loss_affected_my/",
+  "author_hash": "4cd291e4a6d5b015024912f20376618b65c5d4fa1b9381f066954d2f0e0cc5b0",
+  "confidence_tier": 4,
+  "date_published": "2024-05-18T08:27:15-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 6,
+      "dose_unit": "mg",
+      "frequency": "once weekly",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "dizziness",
+      "description": "Nearly fainting every time standing up; standing blood pressure 79/58 mmHg",
+      "severity": "significant"
+    },
+    {
+      "category": "blood_pressure",
+      "description": "Severe orthostatic hypotension with standing BP 79/58 mmHg despite no prior history of high blood pressure",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "standing blood pressure",
+      "value_after": 79,
+      "unit": "mmHg systolic"
+    }
+  ],
+  "protocol_notes": "Takes electrolytes. No prior history of high blood pressure, making this an unusual presentation of hypotension as side effect.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.415104Z"
+}

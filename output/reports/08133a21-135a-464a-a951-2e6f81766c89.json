@@ -1,0 +1,57 @@
+{
+  "id": "08133a21-135a-464a-a951-2e6f81766c89",
+  "source_id": "1re1ye6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1re1ye6/wolverine_blend_plan/",
+  "author_hash": "d15a3838b768d109428b95bfd1d58feaaeb9a7666c7642ae0c7061fede493b56",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T19:22:12-08:00",
+  "health_conditions": [
+    "degenerative disc disease"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ARA 290",
+      "name_normalized": "ara_290",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "KPV",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Started with Wolverine protocol (BPC/TB), added ARA 290 for nerve pain symptoms, and eventually added KPV as anti-inflammatory. All helped in different ways.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Car accident injury. Used Wolverine protocol as starting point, then added ARA 290 and KPV sequentially. Notes difficulty in isolating which compound caused specific benefits when stacking.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.660049Z"
+}

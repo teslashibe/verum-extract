@@ -1,0 +1,44 @@
+{
+  "id": "7765dc15-9575-4801-84ff-58478ea4b087",
+  "source_id": "1m86cbv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m86cbv/reta_so_sleepy/",
+  "author_hash": "4dc6ea0b26c46501ebb1a6836d13325c8799bd3e2c58e4b6fbd335b621d6bb7e",
+  "confidence_tier": 4,
+  "date_published": "2025-07-24T07:46:01-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "On Tirzepatide: crazy headaches, muscle aches, low energy, feels like pre-cold or flu feeling lasting 2 days after injection",
+      "severity": "significant",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 2
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Physically tired and insomnia keeping user up",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Comparing Tirzepatide and Retatrutide side effect profiles; asking if Reta has similar post-injection sickness as Tirzepatide",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.403364Z"
+}

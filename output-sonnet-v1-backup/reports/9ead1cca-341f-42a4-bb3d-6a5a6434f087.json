@@ -1,0 +1,45 @@
+{
+  "id": "9ead1cca-341f-42a4-bb3d-6a5a6434f087",
+  "source_id": "1m86cbv",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m86cbv/reta_so_sleepy/",
+  "author_hash": "ab624fb6b6af0c9ad30de1a2301dc0ebc43007d5a85b876ffd99023680e52102",
+  "confidence_tier": 5,
+  "date_published": "2025-07-24T07:46:01-07:00",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "melatonin",
+      "name_normalized": "melatonin",
+      "category": "other",
+      "route": "oral",
+      "frequency": "nightly (planned)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "magnesium glycinate",
+      "name_normalized": "magnesium_glycinate",
+      "category": "other",
+      "route": "oral",
+      "frequency": "nightly (planned)",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Experiencing sleep disruption similar to themidens, making them miserable",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Planning to try melatonin and magnesium glycinate combo to address sleep issues caused by Reta.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.278037Z"
+}

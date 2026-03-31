@@ -1,0 +1,43 @@
+{
+  "id": "0f30b0cc-fee2-40f6-86c2-22b135bad815",
+  "source_id": "1s78p8j",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1s78p8j/cjc1295/",
+  "author_hash": "ce38fefd70fe59143728a450a6788457b63b2186d96499f7e5db11b5994d0d2d",
+  "confidence_tier": 4,
+  "date_published": "2026-03-29T15:13:32-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 3.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295+Ipamorelin",
+      "name_normalized": "cjc_1295ipamorelin",
+      "category": "other",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Better sleep from CJC-1295, leading to more intense workouts"
+    },
+    {
+      "category": "recovery",
+      "description": "CJC-1295 viewed primarily as a recovery peptide"
+    }
+  ],
+  "protocol_notes": "Currently running Reta 3.5mg and CJC-1295+Ipamorelin 250mcg. Notes that both Reta and IGF-1 LR3 heighten insulin sensitivity but Reta provides buffer against blood sugar drops via glucagon agonism.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.102957Z"
+}

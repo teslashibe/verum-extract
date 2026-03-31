@@ -1,0 +1,36 @@
+{
+  "id": "adc91a8b-a3a6-4886-b84f-d9ece8db4139",
+  "source_id": "1qq7ov7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qq7ov7/has_anyone_who_has_experienced_heartburn_while/",
+  "author_hash": "8996fff59def476e3358c304019cb865333d02ba879419dc66ce98fd5bc55fae",
+  "confidence_tier": 5,
+  "date_published": "2026-01-29T04:50:16-08:00",
+  "health_conditions": [
+    "acid reflux",
+    "sulphur burps",
+    "slowed gastric emptying"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Sulphur burps next level bad; felt like food was rotting in stomach. Exacerbated by combination of omeprazole-induced low acid and reta-induced slowed gastric emptying.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Was taking omeprazole alongside reta; combination of low acid from omeprazole and slowed gastric emptying from reta caused severe sulphur burps.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123435Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "b10c2099-12bd-4e0b-9a56-b908e69d41a9",
+  "source_id": "1rl0v2l",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rl0v2l/muscle_twitch_spasm_injection_site/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-04T15:11:50-08:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "cycle_length_days": 14,
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Stinging and small lumps at injection site",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 3
+    },
+    {
+      "category": "muscle_cramp",
+      "description": "Muscle spasming and twitching at injection site, likely from injecting twice in the same spot",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Injecting subcutaneously into abdomen. Initial stinging resolved after massaging injection site and allowing it to reach room temperature. Small lump persists at one injection site with associated muscle twitching.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.668712Z"
+}

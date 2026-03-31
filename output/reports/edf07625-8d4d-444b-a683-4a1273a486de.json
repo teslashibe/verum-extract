@@ -1,0 +1,51 @@
+{
+  "id": "edf07625-8d4d-444b-a683-4a1273a486de",
+  "source_id": "1oskfrr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1oskfrr/does_anyone_use_glp1_like_reta_or_tirz_in/",
+  "author_hash": "e1c1259294e477e74b079a065b32c839022b02ea3eada5071333bf615728e695",
+  "confidence_tier": 4,
+  "date_published": "2025-11-09T06:15:09-08:00",
+  "training_status": "active in gym",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "3 days a week",
+      "cycle_length_days": 28,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Killed sweet tooth and blunted food noise in general",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Visceral fat loss of 3 lbs per week",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Great energy",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Improved gym numbers",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Titrated up from 0.1mg over 4 weeks to 0.25mg. Using 0.25mg 3 days a week for 4 weeks total at time of report.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.677664Z"
+}

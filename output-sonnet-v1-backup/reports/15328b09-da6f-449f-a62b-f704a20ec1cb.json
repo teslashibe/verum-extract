@@ -1,0 +1,39 @@
+{
+  "id": "15328b09-da6f-449f-a62b-f704a20ec1cb",
+  "source_id": "1r7idq3",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r7idq3/how_much_bpc157_for_arthritis/",
+  "author_hash": "fc89164405ac75d88767cb4122b7b53dd8673aa2857e2e493339b1ed09a14e0d",
+  "confidence_tier": 4,
+  "date_published": "2026-02-17T12:52:17-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 1000,
+      "dose_unit": "mcg",
+      "frequency": "split daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Little relief found; no difference observed between 1g and 500mcg BPC-157. TB-500 believed to be a stronger anti-inflammatory.",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Maxed out at 1g/day split. Found no additional benefit over 500mcg. Also recommends removing inflammatory foods from diet.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.117177Z"
+}

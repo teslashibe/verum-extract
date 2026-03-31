@@ -1,0 +1,33 @@
+{
+  "id": "703f55fe-3cc1-4f5f-827a-51859219bc5f",
+  "source_id": "1k19u5u",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k19u5u/help_me_find_what_my_dosage_is/",
+  "author_hash": "09322484c4e0f9cc75a3a8f4eacedd7f07f41171d2013a9d0ba3ee4ab30396ae",
+  "confidence_tier": 5,
+  "date_published": "2025-04-17T03:52:18-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Commenter provides dosage calculation clarification for a 5mg/5mg blend reconstituted with 2ml BAC water, resulting in 2.5mg/ml of each peptide. At 0.2cc (20 units), this yields 500mcg of each compound. This is presented as 'the correct dosage' but no personal usage protocol is described.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.25,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.409665Z"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ab24e12e-64dc-4194-8f71-2b31c2e7ebcb",
+  "source_id": "15nlp06",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/15nlp06/i_need_help_finding_the_best_peptides_to_help/",
+  "author_hash": "dbd3d337cdef9428d3912dd1486c0946989320a00be59ee3bd1596f9bf588074",
+  "confidence_tier": 4,
+  "date_published": "2023-08-10T12:22:16-07:00",
+  "reported_sex": "female",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 187,
+    "unit": "lbs"
+  },
+  "training_status": "exercises 45 mins cardio 2x/week, weights 2x/week from home",
+  "health_conditions": [
+    "eczema",
+    "chronic anemia"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss from 249 lbs to 187 lbs (62 lbs down)",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Feels much better",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Still so tired",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "protocol_notes": "Taking Semaglutide since April 2023. Started at HW 249, CW 187, GW 155. Seeking anti-aging, skin tightening, and muscle building support.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.420432Z"
+}

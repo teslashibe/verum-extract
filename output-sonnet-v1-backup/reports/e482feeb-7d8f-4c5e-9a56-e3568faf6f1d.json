@@ -1,0 +1,53 @@
+{
+  "id": "e482feeb-7d8f-4c5e-9a56-e3568faf6f1d",
+  "source_id": "1l8cyhh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1l8cyhh/tirz_and_methadone/",
+  "author_hash": "0ea2acd470b291fe700e5b46f858baf708565d7c0cc6db00f3fc6293f7aa6f12",
+  "confidence_tier": 4,
+  "date_published": "2025-06-10T15:52:37-07:00",
+  "reported_sex": "female",
+  "health_conditions": [
+    "methadone maintenance treatment (120mg)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "trize",
+      "name_normalized": "trize",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "twice a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reti",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "twice a week",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "No withdrawal effects or interference with methadone dosing reported",
+      "severity": "moderate"
+    },
+    {
+      "category": "gut_health",
+      "description": "Bowel movements are regular; constipation not as bad as expected",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Previously on Sema 2.5mg with Reta, switched to tirzepatide 2.5mg stacked with Reta 2.5mg twice a week. Had previously been prescribed tirzepatide by a doctor. On 120mg methadone (referred to as 'disc'). Drinks Propel water throughout day; eats fiber-rich foods for bowel health.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.282284Z"
+}

@@ -1,0 +1,76 @@
+{
+  "compound_id": "metformin",
+  "display_name": "metformin",
+  "category": "other",
+  "total_reports": 6,
+  "reports_by_tier": {
+    "4": 4,
+    "5": 2
+  },
+  "top_benefits": [
+    {
+      "category": "other",
+      "count": 3,
+      "pct": 75
+    },
+    {
+      "category": "appetite_suppression",
+      "count": 1,
+      "pct": 25
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "other",
+      "count": 2,
+      "pct": 50,
+      "avg_severity": 2.5
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "oral",
+      "dose": 500,
+      "unit": "mg",
+      "frequency": "2x daily",
+      "count": 1,
+      "pct": 16.7
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "tirzepatide",
+      "display_name": "Tirzepatide",
+      "report_count": 2
+    },
+    {
+      "compound_id": "retatrutide",
+      "display_name": "Reta",
+      "report_count": 2
+    },
+    {
+      "compound_id": "aniracetam",
+      "display_name": "Oxiracetam",
+      "report_count": 2
+    },
+    {
+      "compound_id": "tesamorelin",
+      "display_name": "Test",
+      "report_count": 1
+    },
+    {
+      "compound_id": "methylene_blue",
+      "display_name": "methylene blue",
+      "report_count": 1
+    }
+  ],
+  "avg_sentiment_score": 0.5,
+  "sentiment_breakdown": {
+    "positive": 2,
+    "mixed": 2,
+    "negative": 2,
+    "neutral": 0
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T03:34:40.966025Z"
+}

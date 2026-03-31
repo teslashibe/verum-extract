@@ -1,0 +1,52 @@
+{
+  "id": "8360510e-ba2a-4dc6-9d3a-6a0f2e632e0a",
+  "source_id": "1r48y64",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r48y64/ss31_making_me_super_sleepy_after_taking_nad_for/",
+  "author_hash": "0301346652e01da8fb2abdcd58e90e231fbb88545ea38853490ace8bbdfebc03",
+  "confidence_tier": 4,
+  "date_published": "2026-02-13T18:43:32-08:00",
+  "reported_age_range": "25-29",
+  "training_status": "very lean/active",
+  "health_conditions": [
+    "Addison's Disease"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily (titrating)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "NAD+ alone produces remarkable improvement for fatigue related to Addison's Disease",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Super sleepy/sedative effect at 1.5-2.5mg SS-31 dose range after taking NAD+ for two weeks first",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Titrated SS-31 slowly starting from lower doses, reached 2.5mg. No benefit felt at 0.5-1.5mg range but sleepiness started at 1.5-2.5mg. Taking NAD+ first for approximately 2 weeks before starting SS-31.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.663912Z"
+}

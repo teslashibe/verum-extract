@@ -1,0 +1,48 @@
+{
+  "id": "ae97c084-abb9-4102-b2ef-514409cd4318",
+  "source_id": "1ktzjt5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ktzjt5/would_i_benefit_from_reta/",
+  "author_hash": "13f820cc89ca1685a940ba102d31886bfeacdb108de00b43f773698e75284b82",
+  "confidence_tier": 4,
+  "date_published": "2025-05-23T18:03:50-07:00",
+  "training_status": "gym training",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "twice a week",
+      "cycle_length_days": 35,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "30-40% reduction in appetite.",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost 11 lbs in 3 weeks with only 0.5 lbs muscle mass loss.",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "fatigue",
+      "description": "Reduced energy from lower calorie intake; less able to go as hard in the gym.",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Started at 1mg/week, went up to 1mg twice a week, then 1.5mg twice a week, now on week 5 at 2mg twice a week. Diet not fully dialed in. Lost 11 lbs in first 3 weeks with only 0.5 lbs muscle mass loss. Now more functional at lower calorie intake.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.283638Z"
+}

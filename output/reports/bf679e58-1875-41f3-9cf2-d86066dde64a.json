@@ -1,0 +1,45 @@
+{
+  "id": "bf679e58-1875-41f3-9cf2-d86066dde64a",
+  "source_id": "1mtabi7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mtabi7/peptideterzepitide_confusion/",
+  "author_hash": "619704059f73ccdfab34df9a70ef6565e096da13aa2cfe85de77274bfdf19364",
+  "confidence_tier": 4,
+  "date_published": "2025-08-17T19:49:47-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 365,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "cycle_length_days": 210,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss achieved; training from semaglutide led to learned eating habits",
+      "severity": "significant"
+    },
+    {
+      "category": "blood_sugar",
+      "description": "Monitored blood glucose with CGM; reduced late-night eating based on glucose response",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Compounded tirzepatide sourced from compounding pharmacy. Also took semaglutide for 7 months prior to tirzepatide for 12 months. Used CGM monitoring during tirzepatide phase. Learned to avoid eating within 2 hours of bed on semaglutide; could do so with tirzepatide.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.68436Z"
+}

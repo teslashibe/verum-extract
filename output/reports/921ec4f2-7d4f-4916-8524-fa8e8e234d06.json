@@ -1,0 +1,63 @@
+{
+  "id": "921ec4f2-7d4f-4916-8524-fa8e8e234d06",
+  "source_id": "1gwt5mp",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1gwt5mp/peptides_for_perimenopause_and_menopause/",
+  "author_hash": "416218bf27267b75a24000841778d505883490f6e2114683062fd270674c3a2f",
+  "confidence_tier": 4,
+  "date_published": "2024-11-21T15:08:32-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Helped with energy",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "Improved mood",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Improved strength",
+      "severity": "significant"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Felt like 25 years old",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "Injection sites became red and itchy, spread as hives all over body. After stopping and restarting at lower dose, same allergic reaction occurred. Reaction worsened over time and spread to arms, legs, belly, back, and face. Had to stop to prevent anaphylaxis.",
+      "severity": "significant",
+      "onset_days": 150,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Used for 5 months at 1 mg daily before allergic reaction developed. Developed progressive allergic response over time.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.695369Z"
+}

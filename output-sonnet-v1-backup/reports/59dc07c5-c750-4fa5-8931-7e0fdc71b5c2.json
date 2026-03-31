@@ -1,0 +1,48 @@
+{
+  "id": "59dc07c5-c750-4fa5-8931-7e0fdc71b5c2",
+  "source_id": "16gr706",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/16gr706/can_i_stack/",
+  "author_hash": "7c37c7edf55a67dcf04abc0218868d2704907c5965d0ea6ea25b93a218cd98d1",
+  "confidence_tier": 4,
+  "date_published": "2023-09-12T06:19:06-07:00",
+  "training_status": "works out regularly",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "AOD 9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin/CJC 1295",
+      "name_normalized": "ipamorelincjc_1295",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 10 pounds over 2 months on AOD 9604, improved muscle to fat ratio",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Ipamorelin/CJC cut appetite to nothing after adding it",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Improved strength and endurance with peptide use",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Used AOD 9604 for 2 months then stalled. Added Ipamorelin/CJC 1295 about 3 weeks into month 3. Plans to stop AOD and continue with Ipa/CJC.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.297003Z"
+}

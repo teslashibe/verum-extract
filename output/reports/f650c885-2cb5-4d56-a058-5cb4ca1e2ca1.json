@@ -1,0 +1,72 @@
+{
+  "id": "f650c885-2cb5-4d56-a058-5cb4ca1e2ca1",
+  "source_id": "1kw83hc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kw83hc/pt141/",
+  "author_hash": "4acab240e48459ac90c7b2805d865f99b7d80ce518bdbdc8cc17589df86769b1",
+  "confidence_tier": 4,
+  "date_published": "2025-05-26T15:57:14-07:00",
+  "reported_sex": "male",
+  "compounds": [
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "dose_value": 1.25,
+      "dose_unit": "mg",
+      "frequency": "multiple doses",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "multiple doses",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "PT-141",
+      "name_normalized": "pt_141",
+      "category": "sexual_health",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "twice",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "libido",
+      "description": "soft erection 80% of day and night after 3mg doses; effects lasted 5 days post-dose",
+      "severity": "significant",
+      "onset_days": 1
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "flushing at lower doses",
+      "severity": "mild"
+    },
+    {
+      "category": "nausea",
+      "description": "nausea first two times at 1.25-2mg doses",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "flu-like symptoms for 24 hours at 3mg dose (felt like death)",
+      "severity": "significant",
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "Male user. Titrated doses from 1.25mg to 3mg. No effects at lower doses. Severe acute side effects at 3mg followed by strong sustained libido benefits over 5-day period.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.690505Z"
+}

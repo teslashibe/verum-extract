@@ -1,0 +1,58 @@
+{
+  "id": "25015358-f59d-49de-8557-9ef09ce32947",
+  "source_id": "1fv4rz5",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1fv4rz5/body_recomp_on_ozempic_what_peptides_can_i_stack/",
+  "author_hash": "5b3db733f60e2b4326b7c145fc5a68d551be6c08772dcc5166876d746e98f2cd",
+  "confidence_tier": 4,
+  "date_published": "2024-10-03T03:46:13-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 226,
+    "unit": "lbs"
+  },
+  "training_status": "experienced",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 111 lbs in 15 months with body fat reduction from 34% to 15%",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Body recomposition achieved while stacking with other compounds",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_weight",
+      "value_before": 337,
+      "value_after": 226,
+      "unit": "lbs",
+      "timeframe_days": 540
+    },
+    {
+      "marker_name": "body_fat_percentage",
+      "value_before": 34,
+      "value_after": 15,
+      "unit": "%",
+      "timeframe_days": 540
+    }
+  ],
+  "protocol_notes": "Stacked tirzepatide with test/primo/GH and very low dose var over 15 months. Low dosages used. Blood work remained normal throughout.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.413386Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "5f360176-8b9d-4cdd-96ae-ad4f8256e557",
+  "source_id": "1q10fn2",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q10fn2/what_happens_if_reta_and_tirz_are_taken_together/",
+  "author_hash": "d226623240cec600e3fd0763809f4e09478e6ac61c02cfa319bb36f058c01dc1",
+  "confidence_tier": 4,
+  "date_published": "2026-01-01T01:35:40-08:00",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 60,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Goal of reaching single digit body fat; already at low weight but struggling to get further"
+    }
+  ],
+  "protocol_notes": "Already at a low weight, wants to reach single digit body fat. Planning to run stack for 1-2 months to see how it feels. Described as going 'all out once and for all'.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.256824Z"
+}

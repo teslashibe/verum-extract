@@ -1,0 +1,64 @@
+{
+  "id": "0a17fb4e-781f-4621-8268-48ef0341c794",
+  "source_id": "1o3yyxg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1o3yyxg/after_reta/",
+  "author_hash": "ed87ff0361e157c6e17b94eb64468d5c6ce1fa2d1f581c4f5836fc9f7491c79a",
+  "confidence_tier": 4,
+  "date_published": "2025-10-11T08:47:47-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 250,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Primobolan",
+      "name_normalized": "primobolan",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 300,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 84,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "hormonal",
+      "description": "aromatizes a lot, requires AI every week, still ends up with estradiol in upper 60s even on 160mg test",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "estradiol",
+      "value_after": 60,
+      "unit": "pg/mL"
+    }
+  ],
+  "protocol_notes": "Planning 12-16 week cycle with 1mg/week retatrutide, 250mg/week testosterone cypionate, and 300-500mg/week primobolan. Adjusted to 300-500mg range for primo based on advice to manage estrogen.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.679623Z"
+}

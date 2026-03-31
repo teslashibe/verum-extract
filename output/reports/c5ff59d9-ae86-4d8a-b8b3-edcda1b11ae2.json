@@ -1,0 +1,49 @@
+{
+  "id": "c5ff59d9-ae86-4d8a-b8b3-edcda1b11ae2",
+  "source_id": "rpc3zw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/rpc3zw/horrible_reaction_from_25_units_of_b500/",
+  "author_hash": "f42f06ee07d8a7e1678d7a0fb84435f8a493155ec33387da0f08c84341f92368",
+  "confidence_tier": 5,
+  "date_published": "2021-12-26T18:16:06-08:00",
+  "health_conditions": [
+    "Fluoroquinolone toxicity",
+    "Neuropathy"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "numbness_tingling",
+      "description": "Neuropathy reactions from TB-500"
+    },
+    {
+      "category": "other",
+      "description": "Bad reaction to Ipamorelin"
+    }
+  ],
+  "protocol_notes": "Also floxed (fluoroquinolone toxicity). Prefers BPC-157 over other peptides based on experience.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:29:07.130155Z"
+}

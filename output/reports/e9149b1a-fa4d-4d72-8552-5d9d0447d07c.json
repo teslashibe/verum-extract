@@ -1,0 +1,50 @@
+{
+  "id": "e9149b1a-fa4d-4d72-8552-5d9d0447d07c",
+  "source_id": "o24vxt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/o24vxt/peptides_for_longevity/",
+  "author_hash": "057a44b876fab195b77f2307d8301fe4f0869eb4da5572266fdd3407026ebd01",
+  "confidence_tier": 4,
+  "date_published": "2021-06-17T12:01:15-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "longevity",
+      "description": "User prefers epithalon and thymus peptides for longevity, finds NAD+ more potent than oral alternatives",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "NAD+ can give scar tissue due to acidity",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Uses subcutaneous NAD+. States that SR9011 and NAD+ boosters are better replacements than expensive peptides like Humanin and MOTS-C. Found NAD+ to work incredibly well but notes acidity can cause scar tissue.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.702927Z"
+}

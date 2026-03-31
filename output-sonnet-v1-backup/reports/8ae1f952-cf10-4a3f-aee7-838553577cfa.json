@@ -1,0 +1,53 @@
+{
+  "id": "8ae1f952-cf10-4a3f-aee7-838553577cfa",
+  "source_id": "1kne8nh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kne8nh/is_it_essential_to_pin_ghkcu_ed/",
+  "author_hash": "56e210d2418b9ce301b2827f7806ad8feade963b4fbba4f37dfbc51afd210db5",
+  "confidence_tier": 3,
+  "date_published": "2025-05-15T10:35:33-07:00",
+  "reported_age_range": "60+",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-CU",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC 157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Measurable difference in facial skin quality; much better skin",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Helps heal"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "blood work (general)"
+    }
+  ],
+  "protocol_notes": "Age 68. Also runs GHK-CU at 5mg 2x a day for 2 months per linked post. BPC 157 taken at .500 mcg per dose alongside GHK-CU. No zinc supplement taken; blood work fine. Note: the quoted text from the linked post appears to be from a different user than NisseSvensson — attributed here based on context of the comment chain.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.45,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.284088Z"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "beb12023-904b-497c-bfb2-0525aca22a88",
+  "source_id": "1f3dq5d",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1f3dq5d/ipamorelin_for_long_covid/",
+  "author_hash": "c63e18d7ad11a0c14a5afed1803766d60072ebf51c79532032ff5c29b4de4a9a",
+  "confidence_tier": 4,
+  "date_published": "2024-08-28T08:53:18-07:00",
+  "training_status": "sedentary (bed bound)",
+  "health_conditions": [
+    "long COVID",
+    "severe brain fog",
+    "fatigue",
+    "bed bound"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin troches",
+      "name_normalized": "ipamorelin_troches",
+      "category": "other",
+      "route": "oral",
+      "cycle_length_days": 42,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cerebrolysin",
+      "name_normalized": "cerebrolysin",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Brain fog starting to improve after ~3 weeks on protocol",
+      "severity": "mild",
+      "onset_days": 21
+    },
+    {
+      "category": "energy",
+      "description": "Small amount of energy recovered, able to be out of bed during the day",
+      "severity": "mild",
+      "onset_days": 21
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Waking up constantly, sleep quality worse after starting Ipamorelin",
+      "severity": "significant",
+      "onset_days": 4
+    }
+  ],
+  "protocol_notes": "Doctor prescribed Ipamorelin troches for six weeks to improve sleep quality. OP has been on Cerebrolysin, NAD, and Ipamorelin for ~3 weeks at time of post. Previously used SS31 and reordered it. Primary long COVID symptoms are severe brain fog and fatigue.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.291454Z"
+}

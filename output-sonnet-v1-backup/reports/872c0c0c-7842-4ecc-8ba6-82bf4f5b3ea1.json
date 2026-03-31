@@ -1,0 +1,43 @@
+{
+  "id": "872c0c0c-7842-4ecc-8ba6-82bf4f5b3ea1",
+  "source_id": "1quw4sr",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1quw4sr/reta_sleep_problems/",
+  "author_hash": "204be1da619e6e7a558d4468be3c19111c607aba5f140d371dd9bfb42d30cd56",
+  "confidence_tier": 5,
+  "date_published": "2026-02-03T08:13:13-08:00",
+  "compounds": [
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Selank helps with entering deep sleep, resolving sleep issues caused by Reta",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Struggled with sleep on Reta",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Uses Garmin watch to track sleep metrics. Added Selank before bed as a solution to Reta-induced sleep disruption.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.121601Z"
+}

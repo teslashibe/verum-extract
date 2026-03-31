@@ -1,0 +1,70 @@
+{
+  "id": "da6be27c-b09d-44a6-8628-b0cd4a4ff87b",
+  "source_id": "1mhnhxn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mhnhxn/reta_if_im_not_overweight/",
+  "author_hash": "56ff992b7cfb1e36cd0203d960bd422b3b5f96b8a949e8868ea1d48c93c42b0c",
+  "confidence_tier": 4,
+  "date_published": "2025-08-04T12:40:43-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 90,
+    "unit": "kg"
+  },
+  "training_status": "pretty fit",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 30,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "every 4-5 days",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 3kgs in a month, still enjoying food, appetite reduced ~25% at meals",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Killed cravings and reduced meal portion size by approximately 25%",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Feels great overall with the stack",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Light tummy upset for the day of injection only",
+      "severity": "mild",
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "51M, 90kg, 185cm. Previously tried semaglutide 2 years ago with GI sides (tummy upset, constipation, cramps, wind). Now on reta 1.5mg/week for 1 month, plans to go to 2mg. Plans to cycle off reta after 3 months and run oral Tesofensine for 6-8 weeks, then return to reta. Stacked with MOTS-c 5mg every 4-5 days.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.276443Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cd2f3b51-4d29-4bed-a190-6975bd86b844",
+  "source_id": "1ri366m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ri366m/what_does_ghkcu_injection_pain_feel_like/",
+  "author_hash": "fe5ca692ba3d868ac93f836a30c71a8272eb9fdaa03cfcf34dce8dd9cad605ca",
+  "confidence_tier": 4,
+  "date_published": "2026-03-01T09:26:54-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Glutes: no sting and no site issues"
+    },
+    {
+      "category": "injection_site",
+      "description": "Thighs: slight sting for a second and feels a bit bruised for a couple hours but nothing visible",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "injection_site",
+      "description": "Stomach: intense sting that lasts minutes to hours and a dark ugly bruise",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Observed injection site responses vary by anatomical location. Glutes are tolerable with no sting. Thighs produce mild sting and bruising that resolves quickly. Stomach produces intense sting and dark bruising.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.658397Z"
+}

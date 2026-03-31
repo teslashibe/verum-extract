@@ -1,0 +1,54 @@
+{
+  "id": "92940277-e8ed-43a6-8cab-6ef2e8aa0844",
+  "source_id": "1qtjmlk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qtjmlk/reta_alternative/",
+  "author_hash": "f2b70850c177470e3b4d3a859b2e4489d5646e868a9f0894fec196f74528213b",
+  "confidence_tier": 5,
+  "date_published": "2026-02-01T19:14:24-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 200,
+    "unit": "lbs"
+  },
+  "training_status": "recreational bodybuilder, runs and cycles",
+  "health_conditions": [
+    "low appetite"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "mk677",
+      "name_normalized": "mk_677",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Wants to cut faster while keeping muscle, expects Reta to increase fat burning and metabolism"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Concerned Reta would cause excessive appetite suppression, potentially eating under 1000 calories",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "OP has not yet started Reta; considering 1mg daily as a low starting dose. Currently under 20% body fat. Mentions 12mg weekly as common dose. Historically did aggressive sub-8 week cuts at 1600-1800 calories. Interested in stacking MK-677 to offset appetite suppression from Reta.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.122254Z"
+}

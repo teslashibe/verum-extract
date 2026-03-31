@@ -1,0 +1,36 @@
+{
+  "id": "e7fc3530-4d6f-4acc-b7c4-ed5aa2486aed",
+  "source_id": "1otkzzq",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1otkzzq/tesamorelin/",
+  "author_hash": "c8c71fc934b8f0297c38c5548ede5d487e6437d04a38e85e3be52b8fe8e10c25",
+  "confidence_tier": 5,
+  "date_published": "2025-11-10T10:03:26-08:00",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "at night",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "in the morning",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "User proposing to combine 1mg tesa at night with 1mg CJC-1295 in morning; claims both peptides are structurally different and would avoid receptor redundancy",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.677551Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c13c37f3-4212-4eed-88d1-020b5a392aa8",
+  "source_id": "1r6mjmu",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r6mjmu/fake_ghkcu/",
+  "author_hash": "71ac552cbd5a41f7ef58fd19110308e9e3b02e1a882a989e6020d211beded3de",
+  "confidence_tier": 4,
+  "date_published": "2026-02-16T13:28:50-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Initially hypersensitive to sting; required dilution of 1mg/30 units to tolerate. After a month of zinc supplements, reduced to a slight burn 4-5 minutes post-injection at 1mg/2 units.",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started with high dilution (1mg/30 units) due to hypersensitivity. After one month of zinc supplementation, now using 1mg/2 units with only mild burn.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.117596Z"
+}

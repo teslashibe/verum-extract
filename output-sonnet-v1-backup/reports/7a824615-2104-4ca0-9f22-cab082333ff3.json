@@ -1,0 +1,65 @@
+{
+  "id": "7a824615-2104-4ca0-9f22-cab082333ff3",
+  "source_id": "12swt93",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/12swt93/best_peptide_for_fat_loss/",
+  "author_hash": "8819dca325d158f746104f4fcbd6fdbf6de82383d88b06d82ad31bb963871adc",
+  "confidence_tier": 5,
+  "date_published": "2023-04-20T05:19:59-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide (Mounjaro)",
+      "name_normalized": "tirzepatide_mounjaro",
+      "category": "other",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cardarine",
+      "name_normalized": "cardarine",
+      "category": "other",
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Melanotan2",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Melanotan2 reduces appetite"
+    },
+    {
+      "category": "skin",
+      "description": "Melanotan2 causes significant tanning; came back from Florida tanner than ever before",
+      "severity": "significant"
+    },
+    {
+      "category": "libido",
+      "description": "Melanotan2 increases libido"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Melanotan2 can cause new moles or freckle clusters to form, usually fade after stopping",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Melanotan2 can cause hair to darken",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Sourced from WickedLabz. Used Melanotan2 for a couple weeks before a Florida trip. Cardarine recommended at 10-20mg/day.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.427555Z"
+}

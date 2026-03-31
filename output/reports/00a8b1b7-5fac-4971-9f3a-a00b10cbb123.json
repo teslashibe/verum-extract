@@ -1,0 +1,52 @@
+{
+  "id": "00a8b1b7-5fac-4971-9f3a-a00b10cbb123",
+  "source_id": "1rmrqov",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rmrqov/reta_semax_glow_stack/",
+  "author_hash": "899a6cb5b9c006fb68edacde50eb6d49116670c05a8f65e39a83cd04732dafcd",
+  "confidence_tier": 5,
+  "date_published": "2026-03-06T14:07:05-08:00",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "frequency": "morning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "frequency": "evening",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "frequency": "evening",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Semax taken too late in the day can lead to sleep disruption"
+    },
+    {
+      "category": "gastrointestinal",
+      "description": "GI upset/nausea with GLP-1s"
+    },
+    {
+      "category": "injection_site",
+      "description": "GLOW can sting for a few hours post-injection",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Commenter providing general dosing advice based on reported experiences with these compounds. Not reporting personal protocol with specific doses.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.2,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.667824Z"
+}

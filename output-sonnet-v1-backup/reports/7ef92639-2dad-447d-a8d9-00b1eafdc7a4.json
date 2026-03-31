@@ -1,0 +1,75 @@
+{
+  "id": "7ef92639-2dad-447d-a8d9-00b1eafdc7a4",
+  "source_id": "1rb5vbn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rb5vbn/cjcno_dacipam_scary_effects_normal/",
+  "author_hash": "d9bb37cc246a80d09b9cffb2eb2f170b1afed413466e54e8b6c630f0da5c12cf",
+  "confidence_tier": 4,
+  "date_published": "2026-02-21T15:25:23-08:00",
+  "reported_sex": "female",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "cjc (no dac)",
+      "name_normalized": "cjc_no_dac",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "daily before bed",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipam",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "daily before bed",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "Injection site stinging immediately after pinning, lasting about 5 minutes",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "flushing",
+      "description": "Face goes hot and full body flush sensation approximately 2 minutes after injection; described as feeling like adrenaline",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "blood_pressure",
+      "description": "Heart pounding hard, audible in head, visible necklace movement; mild tachycardia on second injection",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "other",
+      "description": "Ear ringing (tinnitus) on first injection; not present on second injection",
+      "severity": "mild",
+      "onset_days": 0,
+      "resolved": true,
+      "resolution_days": 1
+    },
+    {
+      "category": "headache",
+      "description": "Pressure in head, like a headache that couldn't be pinpointed",
+      "severity": "mild",
+      "onset_days": 0
+    }
+  ],
+  "protocol_notes": "OP used a pre-mixed CJC/IPAM vial (5mg/5mg, 10mg total). Dosed before bed. Only two injections at time of posting. Noted symptoms were less severe on second injection, suggesting some tolerance or adjustment. OP identified as hypochondriac and noted anxiety may have amplified symptoms via feedback loop.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.115946Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c09b4933-f06c-4e8c-9b71-f0e88c6d472e",
+  "source_id": "1qq7ov7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qq7ov7/has_anyone_who_has_experienced_heartburn_while/",
+  "author_hash": "68f1512429ad97f4955135bb5aa0e0aba5c7aecbdd680180a385ce1819a7534d",
+  "confidence_tier": 5,
+  "date_published": "2026-01-29T04:50:16-08:00",
+  "health_conditions": [
+    "heartburn"
+  ],
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "gastrointestinal",
+      "description": "Heartburn on Retatrutide subsides with lower doses",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.669479Z"
+}

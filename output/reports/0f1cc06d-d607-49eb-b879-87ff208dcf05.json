@@ -1,0 +1,66 @@
+{
+  "id": "0f1cc06d-d607-49eb-b879-87ff208dcf05",
+  "source_id": "1m6bo2f",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1m6bo2f/peptide_for_muscle_gain/",
+  "author_hash": "b73ec6463217bba2363184eeb19a94b76bbaff29b349034d190d6df1033c373b",
+  "confidence_tier": 4,
+  "date_published": "2025-07-22T04:34:00-07:00",
+  "training_status": "active lifter, bulking",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "frequency": "microdose",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "5 times a week",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "GH secretagogues helped break a 170 pound plateau with no other interventions",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep",
+      "description": "GH secretagogues can improve sleep which indirectly improves testosterone and insulin sensitivity",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Tesamorelin helps with weight loss around the midsection",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "appetite_change",
+      "description": "Retatrutide crushes appetite at higher doses, preventing caloric intake needed for muscle gain",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User taking retatrutide as microdose while bulking to manage appetite suppression. Currently on Tirzepatide. Emphasizes importance of sleep and proper training recovery.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.403531Z"
+}

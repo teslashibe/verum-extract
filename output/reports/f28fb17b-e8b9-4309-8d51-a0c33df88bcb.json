@@ -1,0 +1,67 @@
+{
+  "id": "f28fb17b-e8b9-4309-8d51-a0c33df88bcb",
+  "source_id": "1rp2ehc",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rp2ehc/40m57_200lbs178lbs_3_years_body_recomp/",
+  "author_hash": "44e1f0777f377da237fa3cd201696873b5a2f932c2eef104175cbb2a9372f8a4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T07:55:57-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 200,
+    "unit": "lbs"
+  },
+  "training_status": "consistent gym routine",
+  "health_conditions": [
+    "hypogonadism (testosterone levels of female range)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 18 lbs in 3 months (196 to 178) during year 3 with GLP-1 use; total loss of 22 lbs over 3 years",
+      "severity": "moderate"
+    },
+    {
+      "category": "body_composition",
+      "description": "Body recomposition over 3 years with fat loss and muscle gain through consistent training",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Improved strength and reduced difficulty with physical tasks after TRT initiation",
+      "severity": "moderate"
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "GLP-1 used to turn off noise from food cravings, enabling better caloric control",
+      "severity": "moderate"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone"
+    }
+  ],
+  "protocol_notes": "RX prescribed TRT monitored with 2 blood tests per year; dosage adjusted by provider to maintain optimal range. 3-year protocol: Year 1 TRT only with fat loss; Year 2 added consistent gym routine with slow body recomposition; Year 3 added GLP-1 for appetite control resulting in accelerated fat loss over 3 months. Height 5'7\". Focus on calorie counting, macro balance, protein intake, consistent training, sleep, and discipline.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.654572Z"
+}

@@ -1,0 +1,142 @@
+{
+  "compound_id": "peptides",
+  "display_name": "Peptides",
+  "category": "other",
+  "total_reports": 15,
+  "reports_by_tier": {
+    "3": 1,
+    "4": 12,
+    "5": 2
+  },
+  "top_benefits": [
+    {
+      "category": "injury_healing",
+      "count": 3,
+      "pct": 23.1
+    },
+    {
+      "category": "sleep",
+      "count": 2,
+      "pct": 15.4
+    },
+    {
+      "category": "body_composition",
+      "count": 2,
+      "pct": 15.4
+    },
+    {
+      "category": "pain_relief",
+      "count": 2,
+      "pct": 15.4
+    },
+    {
+      "category": "recovery",
+      "count": 2,
+      "pct": 15.4
+    },
+    {
+      "category": "inflammation",
+      "count": 2,
+      "pct": 15.4
+    },
+    {
+      "category": "energy",
+      "count": 1,
+      "pct": 7.7
+    },
+    {
+      "category": "muscle_gain",
+      "count": 1,
+      "pct": 7.7
+    }
+  ],
+  "top_side_effects": [
+    {
+      "category": "nerve_related",
+      "count": 1,
+      "pct": 7.7,
+      "avg_severity": 3
+    },
+    {
+      "category": "fatigue",
+      "count": 1,
+      "pct": 7.7,
+      "avg_severity": 2
+    },
+    {
+      "category": "recovery",
+      "count": 1,
+      "pct": 7.7,
+      "avg_severity": 2
+    },
+    {
+      "category": "hormonal",
+      "count": 1,
+      "pct": 7.7,
+      "avg_severity": 3
+    }
+  ],
+  "common_doses": [
+    {
+      "route": "oral",
+      "dose": 25,
+      "unit": "g",
+      "frequency": "once daily",
+      "count": 2,
+      "pct": 13.3
+    },
+    {
+      "route": "oral",
+      "dose": 10,
+      "unit": "g",
+      "frequency": "post-exercise",
+      "count": 1,
+      "pct": 6.7
+    },
+    {
+      "route": "oral",
+      "dose": 40,
+      "unit": "g",
+      "frequency": "daily",
+      "count": 1,
+      "pct": 6.7
+    }
+  ],
+  "common_stacks": [
+    {
+      "compound_id": "hgh",
+      "display_name": "HGH",
+      "report_count": 3
+    },
+    {
+      "compound_id": "tb_500",
+      "display_name": "TB-500",
+      "report_count": 2
+    },
+    {
+      "compound_id": "citrulline_malate",
+      "display_name": "Citrulline Malate",
+      "report_count": 2
+    },
+    {
+      "compound_id": "creatine_monohydrate",
+      "display_name": "Creatine Monohydrate",
+      "report_count": 2
+    },
+    {
+      "compound_id": "bpc_157",
+      "display_name": "BPC-157",
+      "report_count": 2
+    }
+  ],
+  "avg_cycle_length_days": 105,
+  "avg_sentiment_score": 0.633,
+  "sentiment_breakdown": {
+    "positive": 8,
+    "mixed": 1,
+    "negative": 2,
+    "neutral": 4
+  },
+  "limited_data": false,
+  "generated_at": "2026-03-31T04:48:57.364649Z"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "f6e4b7e5-a6e9-4867-8c77-7a9913e86fee",
+  "source_id": "1rj7gwt",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rj7gwt/i_wish_i_started_sooner/",
+  "author_hash": "4dd5fc72749d8e1da500bedc50565a4529c32100ad511ced3b14fee329f642e5",
+  "confidence_tier": 4,
+  "date_published": "2026-03-02T14:30:46-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "reported_weight": {
+    "value": 198,
+    "unit": "lbs"
+  },
+  "training_status": "4x/week training, daily walking",
+  "health_conditions": [
+    "elbow/shoulder issues"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 150,
+      "dose_unit": "mg",
+      "frequency": "weekly (split into two injections)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "Monday to Friday",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "nightly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 57 lbs in 8 months (255 lbs to 198 lbs)",
+      "severity": "significant"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Strength holding steady despite significant weight loss",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Improved energy levels",
+      "severity": "significant"
+    },
+    {
+      "category": "recovery",
+      "description": "Improved recovery",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "BPC-157 used for elbow/shoulder issues",
+      "severity": "moderate"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Feel better than at age 35",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Started TRT July 1, 2025. Added Tirzepatide 6 weeks later at 2.5mg, titrated to current 5mg (never exceeded 7.5mg). Tesamorelin added around month 4. User notes this was not a crash cut and some weeks scale did not move. High protein diet, good fiber intake. Training 4x/week with daily walking.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.92,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.669765Z"
+}

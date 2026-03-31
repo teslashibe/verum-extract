@@ -1,0 +1,56 @@
+{
+  "id": "698bea0b-046b-427d-b4a7-2f3b46d402f1",
+  "source_id": "1r01t37",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r01t37/new_to_peptides_looking_for_feedback_on_bpc157/",
+  "author_hash": "98fd4795978e8cb60af7b329f641e5f894f083f35e66e3675805c4074d6f490f",
+  "confidence_tier": 4,
+  "date_published": "2026-02-09T03:29:50-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "daily",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "cycle_length_days": 56,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Fantastic results",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cognitive_impairment",
+      "description": "Brain fog",
+      "severity": "moderate"
+    },
+    {
+      "category": "mood_change",
+      "description": "Anhedonia",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Completed 8-week cycle. Expressed concern about 1 mg BPC daily dosing compared to typical 250 mcg.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.678457Z"
+}

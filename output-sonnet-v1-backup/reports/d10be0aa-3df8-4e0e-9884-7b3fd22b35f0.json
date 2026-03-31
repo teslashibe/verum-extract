@@ -1,0 +1,57 @@
+{
+  "id": "d10be0aa-3df8-4e0e-9884-7b3fd22b35f0",
+  "source_id": "1mz0i47",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mz0i47/solved_epitalon_dosing_timing_and_strength_for/",
+  "author_hash": "1d95f8ca150c15d06f7febe64f2225bcb1d8110c31af4ed8082194111487bd8d",
+  "confidence_tier": 4,
+  "date_published": "2025-08-24T09:40:50-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "60+",
+  "health_conditions": [
+    "chronic early waking",
+    "sleep fragmentation (pre-existing)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "route": "subcutaneous",
+      "dose_value": 200,
+      "dose_unit": "mcg",
+      "frequency": "5 days on / 2 days off",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Early waking shortened and sleep extended; achieved 8 hours straight when dosed at 5pm at 200mcg",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Early waking and fragmented sleep returned when dose increased to 300mcg or dosed at 6:30pm; total sleep dropped back to 5 hours",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "62-year-old male (referred to as 'husband'). Epitalon at 200mcg dosed no later than 5pm. Combined with melatonin 0.5–1mg and L-Theanine 200mg. Had pre-existing early waking and sleep fragmentation prior to Retatrutide. Higher dose (300mcg) or later timing (6:30pm) worsened sleep. OP noted age as '62F' which appears to be a typo; interpreted as male based on context.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.274219Z"
+}

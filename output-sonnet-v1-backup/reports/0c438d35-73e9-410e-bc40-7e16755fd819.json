@@ -1,0 +1,54 @@
+{
+  "id": "0c438d35-73e9-410e-bc40-7e16755fd819",
+  "source_id": "1k6h11a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k6h11a/ok_i_was_a_doubter_week_6_just_started_and_holy/",
+  "author_hash": "8e7e674bcc85314683428b576c93091162c797586e738d7a1f0e4b8937f32e64",
+  "confidence_tier": 5,
+  "date_published": "2025-04-23T19:14:32-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "frequency": "5 days on / 2 off",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC",
+      "name_normalized": "cgp",
+      "category": "cognitive",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Muscles look and feel fuller on Tesamorelin",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Sleep is great on Tesamorelin",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Previously tried Ipamorelin and CJC; feels Tesamorelin doesn't compare to Ipa/CJC. Mentioned monitoring blood sugar. Currently also on Reta.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.285391Z"
+}

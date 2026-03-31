@@ -1,0 +1,54 @@
+{
+  "id": "b46a9927-1928-4f2b-a6ea-e7665b550701",
+  "source_id": "1l5r9wf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1l5r9wf/at_55_which_is_bettter_peptides_or_hgh/",
+  "author_hash": "232964797527748626b4634c23d9b1f6349d64d2bb3a9f2405125fb25b18c7f5",
+  "confidence_tier": 4,
+  "date_published": "2025-06-07T11:11:05-07:00",
+  "reported_sex": "male",
+  "reported_age_range": "50-59",
+  "reported_weight": {
+    "value": 175,
+    "unit": "lbs"
+  },
+  "training_status": "Lifts 6 days a week",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "5 amino",
+      "name_normalized": "5_amino",
+      "category": "other",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Tirzepatide works extremely well for OP; leaning out at will",
+      "severity": "significant"
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "IGF-1"
+    }
+  ],
+  "protocol_notes": "OP is 55yo male, 5'10\", 175 lbs, 17% BF, lifting 6 days/week. Goals are adding muscle and reducing BF%. Currently on tirzepatide with good results. Planning to try tesamorelin and 5 amino 1MQ. IGF-1 levels unknown.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.282438Z"
+}

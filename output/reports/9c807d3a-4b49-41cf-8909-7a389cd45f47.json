@@ -1,0 +1,67 @@
+{
+  "id": "9c807d3a-4b49-41cf-8909-7a389cd45f47",
+  "source_id": "1onkev7",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1onkev7/glow_blend_anxiety/",
+  "author_hash": "19b68f3c5a06c0314fbb294012509b302039941f5052f337faec9cc1cdd0298f",
+  "confidence_tier": 4,
+  "date_published": "2025-11-03T10:53:21-08:00",
+  "health_conditions": [
+    "anxiety (baseline)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 4,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 4,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "frequency": "daily",
+      "cycle_length_days": 4,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "anxiety",
+      "description": "increased anxiety feeling growing strong by day 4",
+      "severity": "significant",
+      "onset_days": 4,
+      "resolved": true,
+      "resolution_days": 0
+    },
+    {
+      "category": "cardiac",
+      "description": "heart palpitations",
+      "severity": "moderate",
+      "onset_days": 1,
+      "resolved": true,
+      "resolution_days": 2
+    }
+  ],
+  "protocol_notes": "Glow blend (GHK-Cu 50mg/BPC-157 10mg/TB-500 10mg reconstituted with 3ml BAC water). Dosing at 15 units per injection equals approximately 2.5mg copper per dose. User discontinued after 4 days due to anxiety mimicking previous drug withdrawal anxiety. Also taking Lexapro (SSRI).",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.394489Z"
+}

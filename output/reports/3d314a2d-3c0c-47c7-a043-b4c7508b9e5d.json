@@ -1,0 +1,52 @@
+{
+  "id": "3d314a2d-3c0c-47c7-a043-b4c7508b9e5d",
+  "source_id": "1mabyts",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1mabyts/what_was_the_combo_you_found_that_broke_your/",
+  "author_hash": "744b3bc04d6093778e625a9df1bdc6eb80cbf95b88c2ceb5ae121d1a1a02fee3",
+  "confidence_tier": 4,
+  "date_published": "2025-07-26T20:15:55-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "dose_value": 8,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "twice per week",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Dropped 10 lbs in 2 weeks after switching from 15mg Tirzepatide to 8mg Tirzepatide with 2.5mg Retatrutide twice weekly",
+      "severity": "significant",
+      "onset_days": 14
+    },
+    {
+      "category": "appetite_suppression",
+      "description": "Food noise went back away",
+      "severity": "moderate"
+    },
+    {
+      "category": "energy",
+      "description": "Fatigue is gone",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Previously on 15mg Tirzepatide for a year with 5lb fluctuations. Switched to lower Tirzepatide dose combined with Retatrutide for better results.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.686421Z"
+}

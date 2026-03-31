@@ -1,0 +1,49 @@
+{
+  "id": "e195aaab-1053-43e2-862f-c10431051ed8",
+  "source_id": "1rm3f3e",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rm3f3e/mots_c_reta/",
+  "author_hash": "d7c446773ef9c0f82e8d9da63729e3f72490974e64f768bae88a4fc183c2b7e6",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T19:51:02-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "Monday-Friday mornings",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Taking MOTS-C for energy",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Horrible bumps appeared on fourth week randomly. Bumps lasted for weeks",
+      "severity": "significant",
+      "onset_days": 28,
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "MOTS-C 1mg M-F mornings for energy. Reta also in use.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.668109Z"
+}

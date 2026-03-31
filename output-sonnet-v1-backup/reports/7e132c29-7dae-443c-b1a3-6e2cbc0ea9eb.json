@@ -1,0 +1,47 @@
+{
+  "id": "7e132c29-7dae-443c-b1a3-6e2cbc0ea9eb",
+  "source_id": "1dohagi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1dohagi/tirzepatide/",
+  "author_hash": "24cc051b7989cb57bf466174ee4c24f8f562c74feb3ce2889e3bcde506f94b05",
+  "confidence_tier": 5,
+  "date_published": "2024-06-25T14:25:31-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "pharmacy mounjaro",
+      "name_normalized": "pharmacy_mounjaro",
+      "category": "other",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "ipa",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weight loss was minimal at first month but accelerated once dose was increased",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Gained 3 lbs the first week on pharmacy mounjaro; suspected ipamorelin causes water retention",
+      "severity": "mild",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "Started at 2.5mg (starter dose), weight loss minimal for first month, increased after dose escalation. Also mentioned ipamorelin causing water retention.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.292755Z"
+}

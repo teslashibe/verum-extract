@@ -1,0 +1,67 @@
+{
+  "id": "942c641d-0585-47de-b6b8-b4d9f92c9aad",
+  "source_id": "1nbr1st",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1nbr1st/peptide_stack_for_muscle_growth_and_to_lean_out/",
+  "author_hash": "da261cdee96e17da6ff78e02bf506534ffafca977ac31a052efac70d695ca4d0",
+  "confidence_tier": 4,
+  "date_published": "2025-09-08T08:37:23-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GLOW70",
+      "name_normalized": "glow70",
+      "category": "other",
+      "route": "oral",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once daily",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Protocol details: CJC no DAC 100mcg 2x daily, Ipamorelin 100mcg 2x daily, BPC-157/TB-500 250mcg 2x daily, GLOW70 2mg once daily.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.398659Z"
+}

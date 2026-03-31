@@ -1,0 +1,97 @@
+{
+  "id": "1acc5b47-7cea-402e-8f53-7502ca8c4ef7",
+  "source_id": "1io07mg",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1io07mg/peptides_saved_my_skin/",
+  "author_hash": "255f50e4f725a45e3a6256e4728e623fe473af16b8ca5549b5e1466f20aa80da",
+  "confidence_tier": 4,
+  "date_published": "2025-02-12T12:01:38-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "30-39",
+  "training_status": "strength training",
+  "health_conditions": [
+    "past chemical dependency (opioid use)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Testosterone",
+      "name_normalized": "testosterone",
+      "category": "other",
+      "route": "intramuscular",
+      "dose_value": 125,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHRP-6",
+      "name_normalized": "ghrp_6",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Epithalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_unit": "IU",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "MK-677",
+      "name_normalized": "mk_677",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ostarine",
+      "name_normalized": "ostarine",
+      "category": "other",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Modafinil",
+      "name_normalized": "modafinil",
+      "category": "other",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Major swelling from HGH use",
+      "severity": "significant",
+      "resolved": true
+    },
+    {
+      "category": "joint_pain",
+      "description": "Carpal tunnel from HGH use",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Currently on TRT 125-150mg prescribed weekly. Past experience with actual pharmaceutical HGH caused major swelling and carpal tunnel. Newly added peptides to stack (GHRP-6, GHK-Cu, Epithalon, NAD+) with goals of enhancing skin, cognitive function, hunger/bulk support, and mood. Past use of MK-677, Ostarine, NAD+, and Modafinil. Age 31, recovering from years of substance abuse.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.411299Z"
+}

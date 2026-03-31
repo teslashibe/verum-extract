@@ -1,0 +1,47 @@
+{
+  "id": "9f78d32f-0b2d-4ca0-8273-763d1d734675",
+  "source_id": "1j7ypts",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1j7ypts/did_anyone_here_lose_weight_on_a_peptide_that/",
+  "author_hash": "ee7accce23e4970a0724333d0281deead1d482c11598eaff8fa771b2ab8836c5",
+  "confidence_tier": 4,
+  "date_published": "2025-03-10T06:34:03-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Increased metabolism and calorie usage during activity raised at least 1.5 times. Clear difference in weight loss on scale when taking vs not taking.",
+      "severity": "significant"
+    },
+    {
+      "category": "body_composition",
+      "description": "Body recomp results tracked via Garmin watch",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Low dose Semaglutide also being used concurrently. Tracks metrics via Garmin watch.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.693528Z"
+}

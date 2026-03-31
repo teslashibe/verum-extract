@@ -1,0 +1,47 @@
+{
+  "id": "a002ff72-6133-4eee-bb83-78256e93220a",
+  "source_id": "1rpfqrk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rpfqrk/glow_stack/",
+  "author_hash": "b2887fd0074ec2db690b60322a6866082c9e92f07a8aee188ef9131e7c0cf631",
+  "confidence_tier": 4,
+  "date_published": "2026-03-09T15:58:13-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "hair",
+      "description": "Hair growth was crazy fast at 5mg daily, needed haircut almost every week",
+      "severity": "significant"
+    },
+    {
+      "category": "skin",
+      "description": "Positive impact on skin at 2mg daily",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Titrated down from 5mg to 2mg daily due to unsustainability of weekly haircuts. Still seeing positive skin impact at 2mg.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.654331Z"
+}

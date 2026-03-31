@@ -1,0 +1,49 @@
+{
+  "id": "165d1511-4139-4718-89f6-5b17a216c7a0",
+  "source_id": "1rokp5s",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rokp5s/cjc1295ipamorelin_blend_and_tirz_stack/",
+  "author_hash": "dd3a265295c724b1a61f5f25912d93904cac5f766ea79dd970500f07ef8528f1",
+  "confidence_tier": 5,
+  "date_published": "2026-03-08T16:58:29-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 7,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "muscle_gain",
+      "description": "Hoping for muscle retention",
+      "severity": "mild"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Hoping for anti-aging properties",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Only 1 week into protocol, running aggressive dose of Tirzepatide. Early stage, no conclusive feedback yet.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.55,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.667046Z"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "91e30701-a102-4b43-9c86-2c64c94b1015",
+  "source_id": "1rum95a",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rum95a/experiences_with_cjc1295ipamorelin_while_on/",
+  "author_hash": "18dbd7e3a8f19518586e48255c99397174652e5540b463d9de47095489cd45bc",
+  "confidence_tier": 3,
+  "date_published": "2026-03-15T11:51:32-07:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 283,
+    "unit": "lbs"
+  },
+  "training_status": "Recreational; rucking, kettlebells, tire sledgehammer work, assault bike, 20-30 min up to 3x/week",
+  "health_conditions": [
+    "obesity"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TRT pellets",
+      "name_normalized": "trt_pellets",
+      "category": "other",
+      "route": "subcutaneous",
+      "frequency": "every 5-6 months",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Sleeping much more deeply since starting CJC-1295/ipamorelin",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Good body recomposition including muscle gain on tirzepatide, confirmed by body scans",
+      "severity": "moderate"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Fat loss on tirzepatide confirmed by body scans; clothes fitting better suggesting continued fat loss despite scale stall",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Strength is improving since adding CJC-1295/ipamorelin",
+      "severity": "mild"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "flushing",
+      "description": "Flushing experienced after starting CJC-1295/ipamorelin, mostly resolved",
+      "severity": "mild",
+      "resolved": true
+    },
+    {
+      "category": "water_retention",
+      "description": "Gained more than 3 lbs, weight stalled around 285-286 lbs for two weeks; discouraging and unexpected",
+      "severity": "moderate",
+      "resolved": false
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body weight",
+      "value_before": 324,
+      "value_after": 283,
+      "unit": "lbs"
+    }
+  ],
+  "protocol_notes": "Doctor-supervised protocol. Started tirzepatide in November at 324 lbs, now 283 lbs. Doctor recommended adding CJC-1295 + ipamorelin to enhance body recomposition. Currently in medical school, limited training time. Questioning whether activity level is sufficient to justify peptide cost/use, or whether to wait until more weight is lost.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.108091Z"
+}

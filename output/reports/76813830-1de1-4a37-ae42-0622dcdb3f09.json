@@ -1,0 +1,84 @@
+{
+  "id": "76813830-1de1-4a37-ae42-0622dcdb3f09",
+  "source_id": "1qgfzsl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qgfzsl/psa_do_not_mix_retra_and_ss31_on_the_same_syringe/",
+  "author_hash": "b34c0ea52b5c244446e54fbb850325448ceb64d53a77189952a56f771af534e9",
+  "confidence_tier": 4,
+  "date_published": "2026-01-18T10:19:44-08:00",
+  "training_status": "active",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "dose_value": 3.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "R-Lipoic Acid",
+      "name_normalized": "r_lipoic_acid",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Acetyl-L-Carnitine",
+      "name_normalized": "l_carnitine",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ubiquinol",
+      "name_normalized": "ubiquinol",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "MOTS-c",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Urolithin A",
+      "name_normalized": "urolithin_a",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Nicotinamide Riboside",
+      "name_normalized": "nicotinamide_riboside",
+      "category": "other",
+      "route": "oral",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "sleep",
+      "description": "Waking up clear-headed instead of waking up hard",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "Energy doesn't fade in the evening; transformative effect",
+      "severity": "significant"
+    },
+    {
+      "category": "endurance",
+      "description": "No longer needs a break during 30 minutes of fast walking",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started at 1mg with good results, then increased to 3.5mg which was transformative. User recommends pairing SS-31 with mitochondrial helpers: r-lipoic acid, acetyl-l-carnitine, ubiquinol, MOTS-c, Urolithin A (Neurogan brand specified), and nicotinamide riboside. User notes they are middle age or older.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.683848Z"
+}

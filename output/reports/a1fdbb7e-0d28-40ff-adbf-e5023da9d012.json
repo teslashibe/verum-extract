@@ -1,0 +1,57 @@
+{
+  "id": "a1fdbb7e-0d28-40ff-adbf-e5023da9d012",
+  "source_id": "1re12v6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1re12v6/mental_health_peptides/",
+  "author_hash": "e298939a574ffbdedde8ed6d288950a278fff585da052acdbff9815c47335fd6",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T18:42:37-08:00",
+  "health_conditions": [
+    "seasonal_depression",
+    "anxiety"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "Helped with seasonal depression; noticed significant worsening when discontinued",
+      "severity": "moderate"
+    },
+    {
+      "category": "anxiety_relief",
+      "description": "Sermorelin helped anxiety, likely through improved sleep quality",
+      "severity": "mild"
+    },
+    {
+      "category": "sleep",
+      "description": "Improved sleep quality which reduced anxiety",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "VERY depressed after stopping NAD+",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "NAD+ appears to be maintenance compound for seasonal depression. Sermorelin's benefit attributed to improved sleep rather than direct anxiety effect.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.7,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.672288Z"
+}

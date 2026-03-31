@@ -1,0 +1,40 @@
+{
+  "id": "4af6916b-2426-4dbf-8869-109d162c07fd",
+  "source_id": "1rtbi6y",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rtbi6y/am_i_wrong_about_this_stacking_feels_like_the/",
+  "author_hash": "9b17e7d6bd5e35fe0a0123bf7103f5af8a6f925be6cbd3b782b54c1ee549acdf",
+  "confidence_tier": 5,
+  "date_published": "2026-03-13T22:54:09-07:00",
+  "health_conditions": [
+    "injury (unspecified)"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "full stack (unspecified peptides)",
+      "name_normalized": "full_stack_unspecified_peptides",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Started full stack to heal an injury"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "Was not sleeping well, suspected to be caused by one or more peptides in the stack but unable to identify which",
+      "severity": "moderate",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "Had to go cold turkey on full stack due to sleep issues. Plans to re-add peptides one at a time to identify the culprit.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.4,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.10862Z"
+}

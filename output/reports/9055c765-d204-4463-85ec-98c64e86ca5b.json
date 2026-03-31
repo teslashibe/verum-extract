@@ -1,0 +1,51 @@
+{
+  "id": "9055c765-d204-4463-85ec-98c64e86ca5b",
+  "source_id": "1r18dkl",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r18dkl/bulk_peptide_purchasing_question_tirz_reta/",
+  "author_hash": "957ed163f0579ca819f417c688b849988d754c0793459e5e79088d3810c1260a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-10T10:14:03-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 10,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Cagrilintide",
+      "name_normalized": "cagrilintide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Cagrilintide works incredibly well for appetite suppression with tirzepatide or retatrutide, allowing slower dose titration",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Uses T30 kits for tirzepatide (10mg to 15mg titration); prefers shorter vial durations to reduce degradation/contamination risk. Uses R10 and R20 kits for retatrutide for same reason. Added cagrilintide starting at recommended 0.25mg weekly; currently at only 0.50mg weekly after months of use. Purchases kits for both self and husband. States cagrilintide 5mg vials are optimal due to small starting doses.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.8,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.665289Z"
+}

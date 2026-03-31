@@ -1,0 +1,56 @@
+{
+  "id": "76807097-4625-4d97-b38b-b27fd710442d",
+  "source_id": "1re12v6",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1re12v6/mental_health_peptides/",
+  "author_hash": "899a6cb5b9c006fb68edacde50eb6d49116670c05a8f65e39a83cd04732dafcd",
+  "confidence_tier": 4,
+  "date_published": "2026-02-24T18:42:37-08:00",
+  "health_conditions": [
+    "anxiety",
+    "depression",
+    "task initiation difficulties"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Semax",
+      "name_normalized": "semax",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "every morning",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank",
+      "name_normalized": "selank",
+      "category": "cognitive",
+      "route": "subcutaneous",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "every night",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "cognitive",
+      "description": "Easier task initiation at work with Semax; able to jump right in and stay on task for about 3 hours instead of scrolling social media",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Sleep improved on Selank: dreaming more with very vivid dreams",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Running 4 weeks on / 4 weeks off cycle. Little to no noticeable waking anxiety reduction from Selank yet; believes it may take a couple weeks to build up. Considering upping Selank to 1mg. Interested in nasal spray for next cycle. For research purposes only.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114935Z"
+}

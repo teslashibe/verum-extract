@@ -1,0 +1,53 @@
+{
+  "id": "fb34a969-f021-4732-9433-08413d28aaed",
+  "source_id": "1r2txhz",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2txhz/wolverine_stack_with_trt_and_tesamorelin/",
+  "author_hash": "e4867455392922272ae79165e529ff7a677d389b7c74021992bc738ef7bbc80c",
+  "confidence_tier": 4,
+  "date_published": "2026-02-12T05:50:18-08:00",
+  "health_conditions": [
+    "ankle surgery recovery",
+    "hardware removal surgery (steel screws and plate)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB-500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 2.5,
+      "dose_unit": "mg",
+      "frequency": "twice weekly (Monday and Thursday mornings)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "joint_pain",
+      "description": "Prior to hardware removal surgery had severe pain walking (~7/10). BPC before surgery literally stopped all pain.",
+      "severity": "significant"
+    },
+    {
+      "category": "injury_healing",
+      "description": "Injecting BPC directly near ankle surgery site (1 inch from incision); reports BPC most effective when targeted near injury vs subq belly",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Previous protocol of BPC 250mcg morning and evening used before ankle hardware removal surgery; was off BPC for 2-3 months before most recent surgery. Started new protocol 2.5 weeks ago, plans to continue for another month. Advocates for injecting BPC near injury site rather than subq belly based on doctor's advice 3+ years ago. TB-500 administered subq in belly or fatty area.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.118759Z"
+}

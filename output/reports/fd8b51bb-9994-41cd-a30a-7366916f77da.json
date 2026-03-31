@@ -1,0 +1,44 @@
+{
+  "id": "fd8b51bb-9994-41cd-a30a-7366916f77da",
+  "source_id": "1r2867m",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r2867m/tesamorelin_ghkcu/",
+  "author_hash": "0fc0eda552671ca164e0af32e9ef74c0efc9ca3d588c93cdbf1fec0cc0228b30",
+  "confidence_tier": 4,
+  "date_published": "2026-02-11T12:11:38-08:00",
+  "reported_sex": "male",
+  "reported_weight": {
+    "value": 145,
+    "unit": "lbs"
+  },
+  "training_status": "4x weight lifting, with cardio mixed in on 2 days",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 150,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "cycle_length_days": 150,
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "weight_change",
+      "description": "put on more weight, bloating when not in strict calorie deficit",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "5 month stack. Reported no noticeable changes. User states GHK-Cu did nothing. Tesamorelin caused water retention and fat gain in caloric surplus. User is 5'8, 13% BF.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.664788Z"
+}

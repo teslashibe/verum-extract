@@ -1,0 +1,56 @@
+{
+  "id": "1ab77790-21b7-45a3-8b33-27e1a7ee962f",
+  "source_id": "1ltldo9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1ltldo9/bpc157_tb500_ghkcu/",
+  "author_hash": "3607a6f6dba5174501436b99a7c49fab0618adc31585cbebda6dfef1255f70e2",
+  "confidence_tier": 4,
+  "date_published": "2025-07-06T21:49:24-07:00",
+  "compounds": [
+    {
+      "name_raw": "bcp-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "2x daily (morning and 2h before bed)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tb500",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 1.5,
+      "dose_unit": "mg",
+      "frequency": "every 3-4 days",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "aod 9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 350,
+      "dose_unit": "mcg",
+      "frequency": "every morning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "GHK",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "daily (before bed)",
+      "is_part_of_stack": true
+    }
+  ],
+  "protocol_notes": "Running same stack as OP plus AOD 9604. Morning dose of BPC-157 taken with AOD 9604.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.279789Z"
+}

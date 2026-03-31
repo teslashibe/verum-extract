@@ -1,0 +1,44 @@
+{
+  "id": "2b88bbe5-8f0d-4941-90e6-6b1a97edcfa7",
+  "source_id": "1rfvjiw",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rfvjiw/moving_from_low_dose_tirzepatide_to_retatrutide/",
+  "author_hash": "b4df8e7d9404b2b8fa5e12bf6245f0e846017f6758a3f84d632580e106f844a2",
+  "confidence_tier": 4,
+  "date_published": "2026-02-26T19:23:59-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Reta",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "weekly",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Went to the bathroom twice after shot day instead of the usual once; described as minimal sides",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Transitioned from 1mg Tirzepatide to Retatrutide. Week 1: 1mg Tirzepatide + 0.5mg Reta. Week 2: 0mg Tirzepatide + 1mg Reta. Allowing Tirzepatide to slowly fade while holding Reta constant at 1mg.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.114395Z"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "1dc2849d-6c77-4a56-91e3-15e14068f1e4",
+  "source_id": "1rm27k1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rm27k1/ive_been_taking_sermorelin_now_for_three_months/",
+  "author_hash": "0490e7e950ac4824865d886f9da6ce0d695c2aa9d1482b44d7c9100fea3779a4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T18:54:51-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "sermorelin",
+      "name_normalized": "sermorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "aod 9602",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "frequency": "in the morning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "ghk-cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Lost 5 lbs in a month on tirzepatide after a stall",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Sermorelin helped with body composition and overall appearance",
+      "severity": "moderate"
+    },
+    {
+      "category": "skin",
+      "description": "Using GHK-CU to help skin tighten up"
+    }
+  ],
+  "protocol_notes": "OP used sermorelin for 3 months, transitioned to tesamorelin. Added aod 9602 in the morning and ghk-cu for skin tightening. Also on tirzepatide which helped break a weight loss stall. Main goal is stubborn belly fat and love handles. Sermorelin improved body composition but did not address localized belly fat. Purchases sermorelin from a pharmacy.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.111829Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "99948988-a1e7-416b-b932-9bf808d11026",
+  "source_id": "1phscvf",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1phscvf/starting_reta/",
+  "author_hash": "9d23278fba3e22fdf8b524076f126fd1fec7f11f37203139435b52acdb393d9b",
+  "confidence_tier": 4,
+  "date_published": "2025-12-08T15:48:17-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "cycle_length_days": 35,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "15 lbs down in week 5, exceeded expectations",
+      "severity": "significant",
+      "onset_days": 35
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "body_weight",
+      "unit": "lbs",
+      "timeframe_days": 35
+    }
+  ],
+  "protocol_notes": "2mg dose at week 5 with 15 lbs weight loss",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.391249Z"
+}

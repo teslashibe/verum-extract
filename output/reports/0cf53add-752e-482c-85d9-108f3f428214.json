@@ -1,0 +1,81 @@
+{
+  "id": "0cf53add-752e-482c-85d9-108f3f428214",
+  "source_id": "1h3p2hn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1h3p2hn/what_peptides/",
+  "author_hash": "5a403e9653c4d69c2d38bd82a36faaf7c50011ad1067e021e1a83c8a65078286",
+  "confidence_tier": 4,
+  "date_published": "2024-11-30T15:12:08-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 300,
+      "dose_unit": "mcg",
+      "frequency": "30-40 minutes before UV exposure",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "frequency": "1x a day, 5 on 2 off",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "dose_value": 500,
+      "dose_unit": "mcg",
+      "frequency": "1x a day, 5 on 2 off",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "NAD+",
+      "name_normalized": "nad_plus",
+      "category": "anti_aging",
+      "dose_value": 300,
+      "dose_unit": "mg",
+      "frequency": "every 3 days",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "Weightless peptides among biggest winners",
+      "severity": "significant"
+    },
+    {
+      "category": "libido",
+      "description": "Sexual arousal benefits from PT141 and Melanotan II",
+      "severity": "moderate"
+    },
+    {
+      "category": "recovery",
+      "description": "Recovery and muscle retention/growth with CJC-IPA",
+      "severity": "moderate"
+    },
+    {
+      "category": "muscle_gain",
+      "description": "Muscle retention/growth with CJC-IPA",
+      "severity": "moderate"
+    },
+    {
+      "category": "anti_aging",
+      "description": "Healing and general health from NAD+",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Philosophy is to find lowest effective dose, use as needed. Melanotan II can go up to 500 mcg. PT-141 noted to be ingredient in Melanotan II. CJC and IPA dosed together.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.412367Z"
+}

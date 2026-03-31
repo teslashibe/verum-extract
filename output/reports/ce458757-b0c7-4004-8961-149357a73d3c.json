@@ -1,0 +1,47 @@
+{
+  "id": "ce458757-b0c7-4004-8961-149357a73d3c",
+  "source_id": "1kc87vb",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1kc87vb/tirzreta_stack/",
+  "author_hash": "feea78c76074f43150b54a3da8e3851a6e0171a12928703aec9e7a97b541c270",
+  "confidence_tier": 4,
+  "date_published": "2025-05-01T06:04:14-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 8,
+      "dose_unit": "mg",
+      "frequency": "weekly (Fridays)",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "2x weekly (Mondays and Wednesdays)",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "User notes Tirzepatide provides superior appetite suppression compared to Retatrutide; attempting to titrate Tirzepatide while increasing Retatrutide"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Implied benefit from GLP-1/GCG agonist stack"
+    }
+  ],
+  "protocol_notes": "User accidentally dosed Tirzepatide one day early (Thursday instead of Friday) after having dosed Retatrutide the previous day (Wednesday). Protocol involves titrating down Tirzepatide while increasing Retatrutide to switch over completely. Both compounds administered subcutaneously.",
+  "overall_sentiment": "neutral",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.691654Z"
+}

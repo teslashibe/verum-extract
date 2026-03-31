@@ -1,0 +1,71 @@
+{
+  "id": "dc757953-1597-4698-b89f-fa32954a60ea",
+  "source_id": "1qqw67q",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qqw67q/any_issues_with_stacking_cjc1295_motsc/",
+  "author_hash": "f33fa31718111699c941ecd4f744190477f651b157b95a13dcae4a75a55bd5d9",
+  "confidence_tier": 5,
+  "date_published": "2026-01-29T21:00:32-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "CJC 1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Mots C",
+      "name_normalized": "mots_c",
+      "category": "metabolic",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "energy",
+      "description": "Mots-C noted to be good for endurance and metabolic support"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "water_retention",
+      "description": "Water retention observed with heavy GH signaling stack"
+    },
+    {
+      "category": "numbness_tingling",
+      "description": "Numb hands observed with heavy GH signaling stack"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Poor sleep observed with heavy GH signaling stack"
+    },
+    {
+      "category": "other",
+      "description": "Insulin sensitivity issues observed with heavy GH signaling stack"
+    }
+  ],
+  "protocol_notes": "Commenter describes experience with similar stacks. Advises against stacking CJC+IPA with exogenous HGH due to overlap. Recommends choosing one or the other. Notes Retatrutide requires caution re: appetite suppression and blood sugar when combined with other compounds. Advises monitoring sleep, glucose, water retention.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.5,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123192Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "73f6e723-f4f1-4104-8fb8-a6e975dd4e87",
+  "source_id": "1q0mqb9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1q0mqb9/chinese_hgh/",
+  "author_hash": "aa4c02d66334803f76aeeb07d5bbb4fd9ec21aa87c83ceed1cae1dc9d8996ff0",
+  "confidence_tier": 5,
+  "date_published": "2025-12-31T12:33:13-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "HGH",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 7,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "Feels CJC/IPA but feels nothing with pure HGH",
+      "severity": "mild",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "One week into HGH protocol. Compares subjective effects of HGH vs CJC-1295/Ipamorelin blend.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.388504Z"
+}

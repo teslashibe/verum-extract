@@ -1,0 +1,49 @@
+{
+  "id": "df2ef20e-6ba0-43ce-8dde-990adc40ae10",
+  "source_id": "1rm1rem",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rm1rem/entertaining_the_idea_of_taking_gluta_and_mt/",
+  "author_hash": "bcc6b513ddadf82fe5be686231f38a03575311d756c6d6c9a65567b10c2afb06",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T18:34:35-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Glutathione",
+      "name_normalized": "glutathione",
+      "category": "immune",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Astaxanthin",
+      "name_normalized": "astaxanthin",
+      "category": "other",
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "Nice golden glow, skin benefits with the sun, helps reduce freckles and dark pigments from melanotan to not be so stark",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "More bruising during pinning from astaxanthin",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "Taking melanotan II, glutathione, and astaxanthin together. Reports that glutathione may slow melanotan effect but does not negate it and helps reduce freckles and dark pigments. Uses daily pins. Seeking a glow rather than massive tan.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.656474Z"
+}

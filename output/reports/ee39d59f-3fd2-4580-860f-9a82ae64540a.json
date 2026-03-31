@@ -1,0 +1,53 @@
+{
+  "id": "ee39d59f-3fd2-4580-860f-9a82ae64540a",
+  "source_id": "1dd3qwe",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1dd3qwe/if_your_subject_is_hesitant_about_starting_tirz/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2024-06-10T19:43:49-07:00",
+  "health_conditions": [
+    "obesity",
+    "depression",
+    "brain fog"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "fat_loss",
+      "description": "25 lbs in less than 4 weeks, then 30 lbs more to goal at over 5 lbs per week",
+      "severity": "significant"
+    },
+    {
+      "category": "energy",
+      "description": "energy through the roof, constantly on the move",
+      "severity": "significant"
+    },
+    {
+      "category": "mood",
+      "description": "depression gone, not mad at the world anymore",
+      "severity": "significant"
+    },
+    {
+      "category": "cognitive",
+      "description": "brain fog gone",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Started at starter dosage for 2 weeks, then increased to 5 mg for last 2 weeks. Subject was previously unemployed and had poor health insurance. Achieved employment during protocol.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.414945Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "74f96ac9-e322-48cb-a976-7ea877a1972e",
+  "source_id": "1rvq0ho",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rvq0ho/allergic_to_mt2/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2026-03-16T16:25:48-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "cycle_length_days": 14,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 0.25,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Melanotan II",
+      "name_normalized": "melanotan_2",
+      "category": "tanning",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "is_part_of_stack": true
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "skin_reaction",
+      "description": "Itching on left side of beard after MT2 dose increase to 0.5mg on Sunday night, resolved by Monday morning. Then itching recurred on chin/lower lip area with redness and intense itching by 4pm Monday.",
+      "severity": "moderate",
+      "onset_days": 3,
+      "resolved": true,
+      "resolution_days": 1
+    }
+  ],
+  "protocol_notes": "User started GHK-Cu 2mg ~2 weeks prior. Started MT2 at 0.25mg Thursday, repeated Friday and Saturday. Increased to 0.5mg Sunday along with 0.5mg Retatrutide. Itching symptoms correlated with dose increase. User reduced back to 0.25mg MT2 on follow-up night with resolution of itching.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.650937Z"
+}

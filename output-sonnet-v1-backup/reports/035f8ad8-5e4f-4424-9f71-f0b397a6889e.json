@@ -1,0 +1,41 @@
+{
+  "id": "035f8ad8-5e4f-4424-9f71-f0b397a6889e",
+  "source_id": "1r425h1",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r425h1/cjc1295pamorelin_rapid_heart_rate/",
+  "author_hash": "cdff369f460fb8b9ea5ae66c1bfa56d06584b860880480eaaed56813b5b4989f",
+  "confidence_tier": 4,
+  "date_published": "2026-02-13T13:45:21-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "40-49",
+  "training_status": "very good shape",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "CJC-1295+Pamorelin blend",
+      "name_normalized": "cjc_1295pamorelin_blend",
+      "category": "other",
+      "dose_value": 100,
+      "dose_unit": "mcg",
+      "frequency": "5 days on, 2 days off",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "blood_pressure",
+      "description": "Heart rate ticked up significantly, felt like running a marathon",
+      "severity": "significant"
+    },
+    {
+      "category": "sleep_disruption",
+      "description": "Could not sleep at all due to elevated heart rate lasting for hours",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "Taken 2hrs after last meal at night. Doctor-supervised ramp-up protocol planned: Week 2: 50mcg 2 days/week (Tues/Thur); Week 3: 50mcg 3 days/week (Mon/Wed/Fri); Week 4: 50mcg 5 days on 2 off; Week 5: back to 100mcg 5 days on 2 off. Goals are better sleep and muscle fullness.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.11829Z"
+}

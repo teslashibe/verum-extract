@@ -1,0 +1,51 @@
+{
+  "id": "f39a9570-b6b6-4de8-9c19-c671f836d306",
+  "source_id": "1pyrf9t",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1pyrf9t/mom_putting_me_on_peptides/",
+  "author_hash": "f6a76d83b0e90eed38bc3b755592048edf96e5db5fd1a0e07a20affe3d3a542c",
+  "confidence_tier": 4,
+  "date_published": "2025-12-29T08:55:34-08:00",
+  "reported_sex": "male",
+  "reported_age_range": "18-24",
+  "health_conditions": [
+    "seizures (seizure-free ~1 year, no meds)",
+    "low mood",
+    "low energy",
+    "history of food poisoning"
+  ],
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Thymosin Alpha-1",
+      "name_normalized": "thymosin_alpha_1",
+      "category": "immune",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "SS-31",
+      "name_normalized": "ss_31",
+      "category": "mitochondrial",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Pinealon",
+      "name_normalized": "pinealon",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    }
+  ],
+  "biomarkers": [
+    {
+      "marker_name": "testosterone",
+      "unit": "ng/dL"
+    }
+  ],
+  "protocol_notes": "OP planning to use peptides one at a time, starting with Thymosin Alpha-1. Mother convinced mitochondria dysfunction is the issue. OP on Prozac 20mg and Buspiron 10mg. Seizure-free for ~1 year with no anti-seizure meds. Gluten-free diet his entire life. OP states last testosterone check was 'a good bit above average'. Scheduled for blood test with doctor.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.388987Z"
+}

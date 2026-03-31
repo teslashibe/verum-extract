@@ -1,0 +1,51 @@
+{
+  "id": "bac6bc96-2e96-4912-8565-7d0a3eaaaf39",
+  "source_id": "1qufkoh",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qufkoh/tesamorlin_issues/",
+  "author_hash": "2333b687fb26cc76dad67da849394e5e11d13c9a1e37c5227fbbf2a6592d141b",
+  "confidence_tier": 5,
+  "date_published": "2026-02-02T18:23:51-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 180,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "other",
+      "description": "great results with tesamorelin for 6 months",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "allergic_reaction",
+      "description": "developed bad reaction out of the blue with same batch after 6 months of use; tried several times afterwards with different vendors and then with CJC with same issue",
+      "severity": "significant",
+      "onset_days": 180
+    }
+  ],
+  "protocol_notes": "Used tesamorelin for 6 months with good results, then developed adverse reaction. Has ipamorelin in the mail for future use.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.6,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.680607Z"
+}

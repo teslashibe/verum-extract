@@ -1,0 +1,112 @@
+{
+  "id": "4d5e58f1-1149-4251-a5a9-3d10281fdfbe",
+  "source_id": "1qpbv7o",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qpbv7o/sense_check_on_planned_peptide_stack_overkill_or/",
+  "author_hash": "f9ad254eec7ab8fc21b1d1d141f45fe7a556dae2d01799e10d46b256565f3eed",
+  "confidence_tier": 4,
+  "date_published": "2026-01-28T05:50:15-08:00",
+  "health_conditions": [
+    "anxiety",
+    "arthritis (lower back)"
+  ],
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "tirz",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NAD+ injected",
+      "name_normalized": "nad_injected",
+      "category": "other",
+      "route": "intramuscular",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "NA Selank intranasal",
+      "name_normalized": "na_selank_intranasal",
+      "category": "other",
+      "route": "nasal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Selank injecting",
+      "name_normalized": "selank_injecting",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Oxytocin intranasal",
+      "name_normalized": "oxytocin_intranasal",
+      "category": "other",
+      "route": "nasal",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "DSIP injection",
+      "name_normalized": "dsip_injection",
+      "category": "other",
+      "route": "subcutaneous",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "pinealon",
+      "name_normalized": "pinealon",
+      "category": "cognitive",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "epitalon",
+      "name_normalized": "epithalon",
+      "category": "anti_aging",
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "KLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "cycle_length_days": 28,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "mood",
+      "description": "Selank intranasal reported as amazing for anxiety; injection form works better with longer-lasting effects",
+      "severity": "significant",
+      "onset_days": 2
+    },
+    {
+      "category": "other",
+      "description": "Oxytocin works well for anxiety before social/speaking events; also improves orgasms",
+      "severity": "moderate"
+    },
+    {
+      "category": "sleep",
+      "description": "Pinealon produced amazing sleep results after DSIP failed",
+      "severity": "significant"
+    },
+    {
+      "category": "joint_pain",
+      "description": "KLOW: arthritis in lower back barely perceptible after years of using Advil, after 4 weeks on KLOW",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "sleep_disruption",
+      "description": "DSIP injection kept user up all night; did not improve sleep",
+      "severity": "significant",
+      "resolved": true
+    }
+  ],
+  "protocol_notes": "NAD+ injected produced no noticeable benefits and is considered too expensive to repurchase. Switched from intranasal to injectable Selank and found injection superior. Switched from DSIP to pinealon for sleep with better results. Plans to add epitalon when cycling off pinealon. SEMAX planned when cycling off Selank.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:24:31.123697Z"
+}

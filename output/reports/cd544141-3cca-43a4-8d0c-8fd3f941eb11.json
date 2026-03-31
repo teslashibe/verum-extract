@@ -1,0 +1,46 @@
+{
+  "id": "cd544141-3cca-43a4-8d0c-8fd3f941eb11",
+  "source_id": "1qwx24x",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1qwx24x/tirz_side_effects/",
+  "author_hash": "b2a2449bec54057fe7c9db063cc719cd7a59f824557fed6809f8de9ebbfc915f",
+  "confidence_tier": 5,
+  "date_published": "2026-02-05T12:46:21-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tirzepatide",
+      "name_normalized": "tirzepatide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "mood_change",
+      "description": "Anhedonia from Tirzepatide",
+      "severity": "significant"
+    },
+    {
+      "category": "anxiety",
+      "description": "Intense anxiety from Tirzepatide",
+      "severity": "significant"
+    },
+    {
+      "category": "fatigue",
+      "description": "Intense fatigue that is crippling and affecting ability to work",
+      "severity": "significant"
+    }
+  ],
+  "protocol_notes": "User experiencing intense mental side effects with Tirzepatide. Considering switching back to Semaglutide which was milder in terms of side effects. Suspects Retatrutide may be same or worse.",
+  "overall_sentiment": "negative",
+  "llm_confidence": 0.65,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.679736Z"
+}

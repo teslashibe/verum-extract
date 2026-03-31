@@ -1,0 +1,50 @@
+{
+  "id": "eb5ce0e4-a0e3-4735-8c51-74832656dfc1",
+  "source_id": "1r9bto9",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1r9bto9/injectable_ghk_cu_side_effects/",
+  "author_hash": "c4ed8f223f1bcf2a425325986791b2ce80ff5c35117c949fc7e4009948ab418a",
+  "confidence_tier": 4,
+  "date_published": "2026-02-19T13:21:46-08:00",
+  "reported_sex": "female",
+  "reported_age_range": "50-59",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "GHK-Cu",
+      "name_normalized": "ghk_cu",
+      "category": "skin_cosmetic",
+      "route": "subcutaneous",
+      "dose_value": 3,
+      "dose_unit": "mg",
+      "frequency": "daily",
+      "cycle_length_days": 90,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "skin",
+      "description": "skin looks incredible, gets comments on it all the time, skin glowing",
+      "severity": "significant",
+      "onset_days": 28
+    },
+    {
+      "category": "hair",
+      "description": "hair is definitely thicker",
+      "severity": "significant"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "injection_site",
+      "description": "slight occasional delayed burn depending where injected",
+      "severity": "mild"
+    }
+  ],
+  "protocol_notes": "3 months of daily use at 3mg. User attributes benefits to age-related receptor sensitivity.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.78,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:16:28.674358Z"
+}

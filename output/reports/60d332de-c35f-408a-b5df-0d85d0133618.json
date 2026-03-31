@@ -1,0 +1,33 @@
+{
+  "id": "60d332de-c35f-408a-b5df-0d85d0133618",
+  "source_id": "1moij72",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1moij72/aod9604_keeps_gelling_after_reconstitution_need/",
+  "author_hash": "b4ab826557e4ca950a5ad48c8c9cbb907a9995c1028215365bcc9ae3cf38c85c",
+  "confidence_tier": 4,
+  "date_published": "2025-08-12T12:33:49-07:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "AOD-9604",
+      "name_normalized": "aod_9604",
+      "category": "body_composition",
+      "route": "subcutaneous",
+      "dose_value": 5,
+      "dose_unit": "mg",
+      "is_part_of_stack": false
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "other",
+      "description": "Gelling of reconstituted solution when using \u003c3mL BAC water",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "Used 3mL BAC water per 5mg AOD with no gelling issues. Experienced gelling when using less than 3mL. Suggests 6mL BAC water for 10mg vials (though vial may not accommodate). Alternative: load syringes immediately after reconstitution.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.52,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.684931Z"
+}

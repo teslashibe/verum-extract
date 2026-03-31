@@ -1,0 +1,65 @@
+{
+  "id": "006b20e4-5f49-4687-9394-dc0a5011a651",
+  "source_id": "1k8iudk",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1k8iudk/glow_plateaued/",
+  "author_hash": "8fec47623f105a56eb038f19650c8d0039387d709f95d6b25c01c7441ec078e6",
+  "confidence_tier": 4,
+  "date_published": "2025-04-26T10:51:08-07:00",
+  "health_conditions": [
+    "torn meniscus",
+    "digestion issues",
+    "poor blood flow"
+  ],
+  "compounds": [
+    {
+      "name_raw": "GLOW",
+      "name_normalized": "klow",
+      "category": "other",
+      "frequency": "almost daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "GHK",
+      "name_normalized": "hgh",
+      "category": "gh_secretagogue",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "almost daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "TB",
+      "name_normalized": "tb_500",
+      "category": "healing_recovery",
+      "dose_value": 600,
+      "dose_unit": "mcg",
+      "frequency": "almost daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "BPC",
+      "name_normalized": "kpv",
+      "category": "gut_health",
+      "frequency": "almost daily",
+      "cycle_length_days": 21,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Stopped limping within 1 week; approximately 60% healed within 2 weeks; improvement plateaued after that",
+      "severity": "moderate",
+      "onset_days": 7
+    }
+  ],
+  "protocol_notes": "User describes progress plateau after initial improvement. Residual symptoms include audible joint sounds and pain on forward knee tilt. Considering adding KPV.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:31:36.285102Z"
+}

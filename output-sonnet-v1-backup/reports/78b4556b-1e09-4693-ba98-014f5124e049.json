@@ -1,0 +1,51 @@
+{
+  "id": "78b4556b-1e09-4693-ba98-014f5124e049",
+  "source_id": "l0lf9v",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/l0lf9v/excellent_results_with_bpc157_administration/",
+  "author_hash": "ae4bf993e1ebceab651a835670019131c363ba57a224e1f14305274e7d8db2d4",
+  "confidence_tier": 4,
+  "date_published": "2021-01-19T06:57:37-08:00",
+  "reported_weight": {
+    "value": 180,
+    "unit": "lbs"
+  },
+  "training_status": "active cyclist, ~15 hrs/week MTB",
+  "health_conditions": [
+    "partial tear(s) to multiple elbow ligaments/tendons",
+    "FOOSH injury",
+    "severely limited range of motion"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 150,
+      "dose_unit": "mcg",
+      "frequency": "once daily",
+      "cycle_length_days": 5,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "All injected ligament/tendon areas healed with zero pain remaining; back to intensive biking (~15 hrs/week) approximately 5 days after first dose; untreated control ligament still had strong pain",
+      "severity": "significant",
+      "onset_days": 5
+    },
+    {
+      "category": "recovery",
+      "description": "Restored range of motion and functional recovery from partial ligament/tendon tears in elbow region within ~5 days of administration",
+      "severity": "significant",
+      "onset_days": 5
+    }
+  ],
+  "protocol_notes": "Injury occurred 1.5 weeks before starting BPC-157. No anti-inflammatory or other drugs used. 150mcg injected subcutaneously to each affected area once daily for 5 days. One ligament deliberately left untreated as a control. Post-injection vibration massage and gentle stretching performed. Administration began ~1.5 weeks post-injury. Sourced from canadapeptides.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.82,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.430788Z"
+}

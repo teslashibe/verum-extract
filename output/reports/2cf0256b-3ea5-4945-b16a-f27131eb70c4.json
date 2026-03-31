@@ -1,0 +1,64 @@
+{
+  "id": "2cf0256b-3ea5-4945-b16a-f27131eb70c4",
+  "source_id": "1najnq4",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1najnq4/accidentally_went_beast_mode/",
+  "author_hash": "f9ddf70a9e219102580d5c177755f00805bb26ba8be0fa43080db6f6ca3485c2",
+  "confidence_tier": 4,
+  "date_published": "2025-09-06T21:11:40-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "once weekly (week 1)",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 1,
+      "dose_unit": "mg",
+      "frequency": "once weekly (week 2)",
+      "is_part_of_stack": false
+    },
+    {
+      "name_raw": "Retatrutide",
+      "name_normalized": "retatrutide",
+      "category": "body_composition",
+      "dose_value": 2,
+      "dose_unit": "mg",
+      "frequency": "once weekly (week 3+)",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "User seeking appetite suppression as primary goal"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "nausea",
+      "description": "Faintest hint of nausea after eating yogurt at 1mg dose",
+      "severity": "mild",
+      "onset_days": 8
+    },
+    {
+      "category": "nausea",
+      "description": "Super nauseated and having trouble finishing meals at 2mg dose",
+      "severity": "significant",
+      "onset_days": 15
+    }
+  ],
+  "protocol_notes": "User titrated dose weekly seeking noticeable effects. No side effects at 0.5mg. Interested in reaching 4mg based on literature suggesting fat loss threshold. Referred to as 'reta' in post.",
+  "overall_sentiment": "mixed",
+  "llm_confidence": 0.85,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.682598Z"
+}

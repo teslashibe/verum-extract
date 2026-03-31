@@ -1,0 +1,46 @@
+{
+  "id": "588fbcaf-309f-4290-b6c8-303da7462033",
+  "source_id": "o4xqfn",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/o4xqfn/started_bpc_yesterday/",
+  "author_hash": "b84c007af5928bdfad638219c56632d599ae575f9010053b5a793c65eded44ea",
+  "confidence_tier": 4,
+  "date_published": "2021-06-21T08:28:37-07:00",
+  "training_status": "returning to lifting",
+  "health_conditions": [
+    "bulging disc",
+    "thoracic pain",
+    "mid and lower trap tightness"
+  ],
+  "compounds": [
+    {
+      "name_raw": "BPC-157",
+      "name_normalized": "bpc_157",
+      "category": "healing_recovery",
+      "route": "subcutaneous",
+      "dose_value": 250,
+      "dose_unit": "mcg",
+      "cycle_length_days": 20,
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "injury_healing",
+      "description": "Improved thoracic mobility after two doses",
+      "severity": "moderate",
+      "onset_days": 1
+    },
+    {
+      "category": "joint_pain",
+      "description": "Anti-inflammatory effects noted; pain still present but mobility improved",
+      "severity": "mild",
+      "onset_days": 1
+    }
+  ],
+  "protocol_notes": "Injecting near the affected area. Planned 20-day cycle. Easing back into lifting weights.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.72,
+  "extraction_model": "claude-sonnet-4-6",
+  "extracted_at": "2026-03-31T03:34:39.429803Z"
+}

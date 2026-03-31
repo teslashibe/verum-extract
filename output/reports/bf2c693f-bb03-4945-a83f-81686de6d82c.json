@@ -1,0 +1,60 @@
+{
+  "id": "bf2c693f-bb03-4945-a83f-81686de6d82c",
+  "source_id": "1rlo5yi",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1rlo5yi/tesa_ipa_vs_cjc_ipa/",
+  "author_hash": "f4ab4828098df038abfcb4d7ce3fc0c1362317ee5dbdd1e62b26f0fd51eff7e4",
+  "confidence_tier": 4,
+  "date_published": "2026-03-05T09:45:30-08:00",
+  "peptide_experience": "experienced",
+  "compounds": [
+    {
+      "name_raw": "Tesamorelin",
+      "name_normalized": "tesamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "Ipamorelin",
+      "name_normalized": "ipamorelin",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    },
+    {
+      "name_raw": "CJC-1295",
+      "name_normalized": "cjc_1295_no_dac",
+      "category": "gh_secretagogue",
+      "cycle_length_days": 90,
+      "is_part_of_stack": true
+    }
+  ],
+  "benefits": [
+    {
+      "category": "recovery",
+      "description": "Tesa/Ipa stack preferred over CJC/Ipa",
+      "severity": "moderate"
+    }
+  ],
+  "side_effects": [
+    {
+      "category": "cardiac",
+      "description": "Heavy heart rate within 5 minutes post-injection with CJC, lasts 20-30 minutes",
+      "severity": "moderate",
+      "onset_days": 0,
+      "resolved": true
+    },
+    {
+      "category": "joint_pain",
+      "description": "Joint pain appears after about 2 weeks into Tesamorelin cycle; considered indicator of efficacy",
+      "severity": "mild",
+      "onset_days": 14
+    }
+  ],
+  "protocol_notes": "Completed 3-month round of Tesa/Ipa followed by 3-month round of CJC (no DAC)/Ipa. Prefers Tesa blend. Notes that CJC does not produce joint pain side effect despite also increasing GH secretion, which the user finds curious.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.75,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:02.65658Z"
+}

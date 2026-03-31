@@ -1,0 +1,38 @@
+{
+  "id": "340a0366-0df5-400f-a82d-07f7a436c363",
+  "source_id": "1eg1r9i",
+  "source_type": "reddit",
+  "source_url": "https://www.reddit.com/r/Peptides/comments/1eg1r9i/hit_15mg_tirz_what_now/",
+  "author_hash": "60e22d1c6dadae4ae57cd22e3a6c3cb5eb40e3fa87800a2872e9a07bd6ddfb6c",
+  "confidence_tier": 5,
+  "date_published": "2024-07-30T12:07:28-07:00",
+  "peptide_experience": "naive",
+  "compounds": [
+    {
+      "name_raw": "Semaglutide",
+      "name_normalized": "semaglutide",
+      "category": "body_composition",
+      "dose_value": 0.5,
+      "dose_unit": "mg",
+      "frequency": "4 weeks in (titration phase)",
+      "is_part_of_stack": false
+    }
+  ],
+  "benefits": [
+    {
+      "category": "appetite_suppression",
+      "description": "Strong appetite suppression making it difficult to clear a plate",
+      "severity": "significant"
+    },
+    {
+      "category": "fat_loss",
+      "description": "Lost almost 10 pounds",
+      "severity": "moderate"
+    }
+  ],
+  "protocol_notes": "4 weeks into Semaglutide 0.5mg protocol. User not obese, significant weight loss despite not targeting obesity.",
+  "overall_sentiment": "positive",
+  "llm_confidence": 0.35,
+  "extraction_model": "claude-haiku-4-5-20251001",
+  "extracted_at": "2026-03-31T04:23:03.414413Z"
+}
