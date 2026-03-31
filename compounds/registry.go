@@ -1,6 +1,9 @@
 package compounds
 
 import (
+	"encoding/json"
+	"fmt"
+	"os"
 	"strings"
 	"sync"
 )
@@ -102,6 +105,21 @@ func (r *Registry) Categories() []Category {
 	return cats
 }
 
+func (r *Registry) Add(c Compound) {
+	r.mu.Lock()
+	defer r.mu.Unlock()
+	if _, ok := r.byName[norm(c.Name)]; ok {
+		return
+	}
+	r.compounds = append(r.compounds, c)
+	ptr := &r.compounds[len(r.compounds)-1]
+	r.byName[norm(ptr.Name)] = ptr
+	r.aliasMap[norm(ptr.DisplayName)] = ptr
+	for _, alias := range ptr.Aliases {
+		r.aliasMap[norm(alias)] = ptr
+	}
+}
+
 func (r *Registry) AddAlias(canonicalName, alias string) bool {
 	r.mu.Lock()
 	defer r.mu.Unlock()
@@ -118,6 +136,44 @@ func (r *Registry) Len() int {
 	r.mu.RLock()
 	defer r.mu.RUnlock()
 	return len(r.compounds)
+}
+
+func (r *Registry) LoadFile(path string) (int, error) {
+	data, err := os.ReadFile(path)
+	if err != nil {
+		return 0, fmt.Errorf("read compounds file: %w", err)
+	}
+	var comps []Compound
+	if err := json.Unmarshal(data, &comps); err != nil {
+		return 0, fmt.Errorf("parse compounds file: %w", err)
+	}
+	added := 0
+	for _, c := range comps {
+		if c.Name == "" {
+			continue
+		}
+		if _, exists := r.FindByName(c.Name); !exists {
+			r.Add(c)
+			added++
+		}
+	}
+	return added, nil
+}
+
+func (r *Registry) SaveFile(path string) error {
+	r.mu.RLock()
+	defer r.mu.RUnlock()
+	data, err := json.MarshalIndent(r.compounds, "", "  ")
+	if err != nil {
+		return err
+	}
+	return os.WriteFile(path, data, 0o644)
+}
+
+func NewEmpty() *Registry {
+	r := &Registry{}
+	r.buildIndex()
+	return r
 }
 
 func norm(s string) string {

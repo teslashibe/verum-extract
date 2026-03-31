@@ -68,6 +68,8 @@ func cmdRun(args []string) {
 	model := fs.String("model", envOr("ANTHROPIC_MODEL", "claude-sonnet-4-6"), "Model name")
 	batchSize := fs.Int("batch-size", 1000, "Requests per batch")
 	salt := fs.String("author-salt", envOr("PEPTIDEBASE_AUTHOR_SALT", "peptidebase-v1"), "Author hash salt")
+	compoundsFile := fs.String("compounds-file", envOr("PEPTIDEBASE_COMPOUNDS_FILE", ""), "Additional compounds JSON file")
+	autoRegister := fs.Bool("auto-register", false, "Auto-register new compounds discovered by the LLM")
 	verbose := fs.Bool("verbose", false, "Verbose logging")
 	fs.Parse(args)
 
@@ -142,14 +144,45 @@ func cmdRun(args []string) {
 	// Step 3: Normalize
 	fmt.Println("[3/4] Normalizing compound names...")
 	registry := compounds.Default()
-	normalizer := normalize.New(registry)
+
+	if *compoundsFile != "" {
+		added, err := registry.LoadFile(*compoundsFile)
+		if err != nil {
+			fatal("load compounds file: %v", err)
+		}
+		fmt.Printf("      Loaded %d additional compounds from %s\n", added, *compoundsFile)
+	}
+	fmt.Printf("      Registry: %d compounds\n", registry.Len())
+
+	var normOpts []normalize.NormalizerOption
+	if *autoRegister {
+		normOpts = append(normOpts, normalize.WithAutoRegister())
+	}
+	normalizer := normalize.New(registry, normOpts...)
 	normStats := normalizer.NormalizeAll(extractResult.Reports)
-	fmt.Printf("      %d/%d matched (%.1f%%) | %d unmatched\n\n",
-		normStats.Matched, normStats.TotalCompounds, normStats.MatchRate*100, normStats.Unmatched)
+
+	matchLine := fmt.Sprintf("      %d/%d matched (%.1f%%)", normStats.Matched, normStats.TotalCompounds, normStats.MatchRate*100)
+	if normStats.AutoRegistered > 0 {
+		matchLine += fmt.Sprintf(" | %d auto-registered", normStats.AutoRegistered)
+	}
+	if normStats.Unmatched > 0 {
+		matchLine += fmt.Sprintf(" | %d unmatched", normStats.Unmatched)
+	}
+	fmt.Println(matchLine)
+	fmt.Println()
 
 	if len(normStats.UnmatchedNames) > 0 {
 		data, _ := json.MarshalIndent(normStats.UnmatchedNames, "", "  ")
 		os.WriteFile(filepath.Join(*output, "unmatched_compounds.json"), data, 0o644)
+	}
+
+	if normStats.AutoRegistered > 0 {
+		registryPath := filepath.Join(*output, "compounds_registry.json")
+		if err := registry.SaveFile(registryPath); err != nil {
+			fmt.Fprintf(os.Stderr, "warning: could not save expanded registry: %v\n", err)
+		} else {
+			fmt.Printf("      Saved expanded registry (%d compounds) → %s\n\n", registry.Len(), registryPath)
+		}
 	}
 
 	for _, r := range extractResult.Reports {
@@ -256,6 +289,8 @@ func cmdAggregate(args []string) {
 	fs := flag.NewFlagSet("aggregate", flag.ExitOnError)
 	input := fs.String("input", "./output/reports", "Input reports directory")
 	output := fs.String("output", "./output/compounds", "Output directory")
+	compoundsFile := fs.String("compounds-file", envOr("PEPTIDEBASE_COMPOUNDS_FILE", ""), "Additional compounds JSON file")
+	autoReg := fs.Bool("auto-register", false, "Auto-register new compounds found in reports")
 	fs.Parse(args)
 
 	reports, err := aggregate.ReadReports(*input)
@@ -265,9 +300,25 @@ func cmdAggregate(args []string) {
 	fmt.Printf("Read %d reports\n", len(reports))
 
 	registry := compounds.Default()
-	normalizer := normalize.New(registry)
+	if *compoundsFile != "" {
+		added, err := registry.LoadFile(*compoundsFile)
+		if err != nil {
+			fatal("load compounds: %v", err)
+		}
+		fmt.Printf("Loaded %d additional compounds\n", added)
+	}
+
+	var normOpts []normalize.NormalizerOption
+	if *autoReg {
+		normOpts = append(normOpts, normalize.WithAutoRegister())
+	}
+	normalizer := normalize.New(registry, normOpts...)
 	normStats := normalizer.NormalizeAll(reports)
-	fmt.Printf("Normalized: %d/%d matched (%.1f%%)\n", normStats.Matched, normStats.TotalCompounds, normStats.MatchRate*100)
+	fmt.Printf("Normalized: %d/%d matched (%.1f%%)", normStats.Matched, normStats.TotalCompounds, normStats.MatchRate*100)
+	if normStats.AutoRegistered > 0 {
+		fmt.Printf(" | %d auto-registered", normStats.AutoRegistered)
+	}
+	fmt.Println()
 
 	result := aggregate.FromReports(reports, registry)
 	os.MkdirAll(*output, 0o755)
@@ -280,9 +331,18 @@ func cmdAggregate(args []string) {
 func cmdCompounds(args []string) {
 	fs := flag.NewFlagSet("compounds", flag.ExitOnError)
 	category := fs.String("category", "", "Filter by category")
+	compoundsFile := fs.String("compounds-file", envOr("PEPTIDEBASE_COMPOUNDS_FILE", ""), "Additional compounds JSON file")
 	fs.Parse(args)
 
 	registry := compounds.Default()
+	if *compoundsFile != "" {
+		if added, err := registry.LoadFile(*compoundsFile); err != nil {
+			fatal("load compounds: %v", err)
+		} else {
+			fmt.Printf("(loaded %d additional compounds from %s)\n\n", added, *compoundsFile)
+		}
+	}
+
 	var list []compounds.Compound
 	if *category != "" {
 		list = registry.ByCategory(compounds.Category(*category))

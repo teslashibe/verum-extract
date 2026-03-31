@@ -9,17 +9,29 @@ import (
 )
 
 type Normalizer struct {
-	registry *compounds.Registry
+	registry    *compounds.Registry
+	autoRegister bool
 }
 
-func New(registry *compounds.Registry) *Normalizer {
-	return &Normalizer{registry: registry}
+type NormalizerOption func(*Normalizer)
+
+func New(registry *compounds.Registry, opts ...NormalizerOption) *Normalizer {
+	n := &Normalizer{registry: registry}
+	for _, opt := range opts {
+		opt(n)
+	}
+	return n
+}
+
+func WithAutoRegister() NormalizerOption {
+	return func(n *Normalizer) { n.autoRegister = true }
 }
 
 type Stats struct {
 	TotalCompounds int                `json:"total_compounds"`
 	Matched        int                `json:"matched"`
 	Unmatched      int                `json:"unmatched"`
+	AutoRegistered int                `json:"auto_registered"`
 	MatchRate      float64            `json:"match_rate"`
 	UnmatchedNames []UnmatchedCompound `json:"unmatched_names,omitempty"`
 }
@@ -48,21 +60,38 @@ func (n *Normalizer) NormalizeAll(reports []extraction.Report) Stats {
 				c.Category = &cat
 				stats.Matched++
 			} else {
-				stats.Unmatched++
 				key := cleanName(c.NameRaw)
-				if entry, ok := unmatchedCounts[key]; ok {
-					entry.OccurrenceCount++
-					if len(entry.SampleSourceIDs) < 3 {
-						entry.SampleSourceIDs = append(entry.SampleSourceIDs, reports[i].SourceID)
+				if n.autoRegister && key != "" {
+					newComp := compounds.Compound{
+						ID:          strings.ToLower(strings.ReplaceAll(key, "-", "_")),
+						Name:        strings.ToLower(strings.ReplaceAll(key, "-", "_")),
+						DisplayName: c.NameRaw,
+						Aliases:     []string{c.NameRaw},
+						Category:    compounds.CategoryOther,
 					}
+					n.registry.Add(newComp)
+					name := newComp.Name
+					cat := string(newComp.Category)
+					c.NameNormalized = &name
+					c.Category = &cat
+					stats.Matched++
+					stats.AutoRegistered++
 				} else {
-					closest, dist := n.closestMatch(c.NameRaw)
-					unmatchedCounts[key] = &UnmatchedCompound{
-						NameRaw:         c.NameRaw,
-						OccurrenceCount: 1,
-						ClosestMatch:    closest,
-						Distance:        dist,
-						SampleSourceIDs: []string{reports[i].SourceID},
+					stats.Unmatched++
+					if entry, ok := unmatchedCounts[key]; ok {
+						entry.OccurrenceCount++
+						if len(entry.SampleSourceIDs) < 3 {
+							entry.SampleSourceIDs = append(entry.SampleSourceIDs, reports[i].SourceID)
+						}
+					} else {
+						closest, dist := n.closestMatch(c.NameRaw)
+						unmatchedCounts[key] = &UnmatchedCompound{
+							NameRaw:         c.NameRaw,
+							OccurrenceCount: 1,
+							ClosestMatch:    closest,
+							Distance:        dist,
+							SampleSourceIDs: []string{reports[i].SourceID},
+						}
 					}
 				}
 			}
