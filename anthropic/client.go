@@ -13,7 +13,7 @@ import (
 
 const (
 	defaultBaseURL   = "https://api.anthropic.com"
-	defaultModel     = "claude-sonnet-4-6"
+	defaultModel     = "claude-haiku-4-5-20251001"
 	defaultMaxTokens = 4096
 	apiVersion       = "2023-06-01"
 	betaHeader       = "message-batches-2024-09-24"

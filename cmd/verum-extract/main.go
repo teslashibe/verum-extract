@@ -34,6 +34,8 @@ func main() {
 		cmdExtract(os.Args[2:])
 	case "aggregate":
 		cmdAggregate(os.Args[2:])
+	case "ingest":
+		cmdIngest(os.Args[2:])
 	case "compounds":
 		cmdCompounds(os.Args[2:])
 	case "version":
@@ -54,6 +56,7 @@ Usage:
   verum-extract run       --input <file.jsonl> --output <dir>    Full pipeline
   verum-extract extract   --input <file.jsonl> --output <dir>    Extract only
   verum-extract aggregate --input <reports-dir> --output <dir>   Aggregate only
+  verum-extract ingest    --input <file.jsonl>                    Preview ingestion
   verum-extract compounds [--category <cat>]                     List compounds
   verum-extract version                                          Show version
   verum-extract help                                             Show this help
@@ -65,11 +68,11 @@ func cmdRun(args []string) {
 	input := fs.String("input", "", "Input JSONL file")
 	output := fs.String("output", "./output", "Output directory")
 	apiKey := fs.String("anthropic-key", envOr("ANTHROPIC_API_KEY", ""), "Anthropic API key")
-	model := fs.String("model", envOr("ANTHROPIC_MODEL", "claude-sonnet-4-6"), "Model name")
+	model := fs.String("model", envOr("ANTHROPIC_MODEL", "claude-haiku-4-5-20251001"), "Model name (haiku-4.5=cheap, sonnet-4=better)")
 	batchSize := fs.Int("batch-size", 1000, "Requests per batch")
 	salt := fs.String("author-salt", envOr("VERUM_AUTHOR_SALT", "verum-extract-v1"), "Author hash salt")
 	compoundsFile := fs.String("compounds-file", envOr("VERUM_COMPOUNDS_FILE", ""), "Additional compounds JSON file")
-	autoRegister := fs.Bool("auto-register", false, "Auto-register new compounds discovered by the LLM")
+	autoRegister := fs.Bool("auto-register", true, "Auto-register new compounds discovered by the LLM")
 	verbose := fs.Bool("verbose", false, "Verbose logging")
 	fs.Parse(args)
 
@@ -244,7 +247,7 @@ func cmdExtract(args []string) {
 	input := fs.String("input", "", "Input JSONL file")
 	output := fs.String("output", "./output/reports", "Output directory for report JSONs")
 	apiKey := fs.String("anthropic-key", envOr("ANTHROPIC_API_KEY", ""), "Anthropic API key")
-	model := fs.String("model", envOr("ANTHROPIC_MODEL", "claude-sonnet-4-6"), "Model name")
+	model := fs.String("model", envOr("ANTHROPIC_MODEL", "claude-haiku-4-5-20251001"), "Model name (haiku-4.5=cheap, sonnet-4=better)")
 	batchSize := fs.Int("batch-size", 1000, "Requests per batch")
 	salt := fs.String("author-salt", envOr("VERUM_AUTHOR_SALT", "verum-extract-v1"), "Author hash salt")
 	fs.Parse(args)
@@ -326,6 +329,61 @@ func cmdAggregate(args []string) {
 		fatal("write: %v", err)
 	}
 	fmt.Printf("Wrote %d compound profiles → %s\n", result.CompoundsProfiled, *output)
+}
+
+func cmdIngest(args []string) {
+	fs := flag.NewFlagSet("ingest", flag.ExitOnError)
+	input := fs.String("input", "", "Input JSONL file")
+	showSample := fs.Int("sample", 3, "Number of sample posts to preview")
+	fs.Parse(args)
+
+	if *input == "" {
+		fatal("--input is required")
+	}
+
+	reader := reddit.NewReader()
+	inputs, stats, err := reader.ReadFile(*input)
+	if err != nil {
+		fatal("read: %v", err)
+	}
+
+	fmt.Printf("verum-extract v%s — ingestion preview\n\n", version)
+	fmt.Printf("File:        %s\n", *input)
+	fmt.Printf("Total lines: %d\n", stats.TotalLines)
+	fmt.Printf("Parsed:      %d posts\n", stats.Parsed)
+	fmt.Printf("Skipped:     %d\n", stats.Skipped)
+	fmt.Printf("Errors:      %d\n", stats.Errors)
+
+	if len(stats.SkipReasons) > 0 {
+		fmt.Println("\nSkip reasons:")
+		for reason, count := range stats.SkipReasons {
+			fmt.Printf("  %-20s %d\n", reason, count)
+		}
+	}
+
+	if len(inputs) > 0 {
+		n := *showSample
+		if n > len(inputs) {
+			n = len(inputs)
+		}
+		fmt.Printf("\n--- Sample posts (%d of %d) ---\n", n, len(inputs))
+		for i := 0; i < n; i++ {
+			inp := inputs[i]
+			fmt.Printf("\n[%d] %s\n", i+1, inp.Title)
+			fmt.Printf("    Source:   %s (%s)\n", inp.SourceType, inp.SourceID)
+			fmt.Printf("    URL:      %s\n", inp.SourceURL)
+			fmt.Printf("    Comments: %d\n", len(inp.Comments))
+			body := inp.Body
+			if len(body) > 200 {
+				body = body[:200] + "..."
+			}
+			if body != "" {
+				fmt.Printf("    Body:     %s\n", strings.ReplaceAll(body, "\n", " "))
+			}
+		}
+	}
+
+	fmt.Printf("\n✓ Ready for extraction — %d posts would be sent to Anthropic Batch API\n", len(inputs))
 }
 
 func cmdCompounds(args []string) {

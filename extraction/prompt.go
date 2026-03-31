@@ -17,6 +17,15 @@ RULES:
    - 4: Detailed protocol with specific doses, timelines, and subjective outcomes
    - 5: Vague mention, casual comment, no specific protocol details
 
+COMPOUND NAMING (CRITICAL):
+For "name_raw", use ONLY the canonical compound name. Do NOT include route, brand, vendor, form, or blend info — those go in other fields.
+  WRONG: "oral BPC-157", "GHK-cu topical", "grey tirzepatide", "BPC/TB blend", "Ozempic semaglutide"
+  RIGHT: "BPC-157", "GHK-Cu", "Tirzepatide", "Semaglutide"
+Put administration route in the "route" field instead. Put brand names (Mounjaro, Zepbound, Ozempic, Wegovy) in "protocol_notes".
+If someone takes a pre-mixed blend of multiple compounds, list EACH compound as a separate entry with is_part_of_stack=true.
+Common canonical names: BPC-157, TB-500, GHK-Cu, Ipamorelin, CJC-1295, Tesamorelin, Sermorelin, Semaglutide, Tirzepatide, Retatrutide, Selank, Semax, NAD+, HGH, PT-141, Melanotan II, DSIP, Epithalon, KPV, MOTS-c, SS-31, Thymosin Alpha-1, AOD-9604, IGF-1 LR3.
+For N-acetyl variants (NA-Selank, NA-Semax), use the base name (Selank, Semax) and note "N-acetyl" in protocol_notes.
+
 OUTPUT FORMAT:
 Respond with ONLY a JSON array of report objects. No explanation, no markdown fences, just the JSON array.
 If no extractable reports exist in the post, respond with an empty array: []
@@ -34,7 +43,7 @@ REPORT SCHEMA:
     "peptide_experience": "naive"|"experienced"|null,
     "compounds": [
       {
-        "name_raw": "string (exactly as mentioned)",
+        "name_raw": "string (canonical compound name ONLY — no route/brand/vendor/form)",
         "route": "subcutaneous"|"intramuscular"|"oral"|"nasal"|"topical"|"intravenous"|null,
         "dose_value": number or null,
         "dose_unit": "mcg"|"mg"|"IU"|null,
@@ -45,7 +54,7 @@ REPORT SCHEMA:
     ],
     "benefits": [
       {
-        "category": "injury_healing"|"fat_loss"|"muscle_gain"|"sleep"|"energy"|"libido"|"cognitive"|"skin"|"hair"|"mood"|"anti_aging"|"appetite_suppression"|"immune"|"gut_health"|"joint_pain"|"recovery"|"other",
+        "category": "injury_healing"|"fat_loss"|"muscle_gain"|"sleep"|"energy"|"libido"|"cognitive"|"skin"|"hair"|"mood"|"anti_aging"|"appetite_suppression"|"immune"|"gut_health"|"joint_pain"|"recovery"|"inflammation"|"endurance"|"pain_relief"|"anxiety_relief"|"blood_sugar"|"cardiovascular"|"longevity"|"body_composition"|"other",
         "description": "string" or null,
         "severity": "significant"|"moderate"|"mild"|null,
         "onset_days": number or null
@@ -53,7 +62,7 @@ REPORT SCHEMA:
     ],
     "side_effects": [
       {
-        "category": "nausea"|"fatigue"|"injection_site"|"headache"|"water_retention"|"blood_pressure"|"mood_change"|"libido_change"|"appetite_change"|"sleep_disruption"|"flushing"|"dizziness"|"numbness_tingling"|"other",
+        "category": "nausea"|"fatigue"|"injection_site"|"headache"|"water_retention"|"blood_pressure"|"mood_change"|"libido_change"|"appetite_change"|"sleep_disruption"|"flushing"|"dizziness"|"numbness_tingling"|"gastrointestinal"|"skin_reaction"|"joint_pain"|"cardiac"|"hair_change"|"cognitive_impairment"|"allergic_reaction"|"anxiety"|"muscle_cramp"|"vision_change"|"weight_change"|"hormonal"|"respiratory"|"other",
         "description": "string" or null,
         "severity": "significant"|"moderate"|"mild"|null,
         "onset_days": number or null,

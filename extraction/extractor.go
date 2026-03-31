@@ -5,6 +5,7 @@ import (
 	"crypto/sha256"
 	"fmt"
 	"log"
+	"sync"
 	"time"
 
 	"github.com/teslashibe/verum-extract/anthropic"
@@ -57,45 +58,82 @@ func (e *Extractor) ExtractBatch(ctx context.Context, inputs []ExtractionInput, 
 		inputMap[input.SourceID] = input
 	}
 
+	// Submit all batches upfront
+	type submittedBatch struct {
+		id    string
+		index int
+		size  int
+	}
+	var batches []submittedBatch
+
 	for i, chunk := range chunks {
 		if onProgress != nil {
 			onProgress(fmt.Sprintf("Submitting batch %d/%d (%d posts)...", i+1, len(chunks), len(chunk)))
 		}
-
 		batch, err := e.client.CreateBatch(ctx, chunk)
 		if err != nil {
 			return result, fmt.Errorf("create batch %d: %w", i+1, err)
 		}
+		batches = append(batches, submittedBatch{id: batch.ID, index: i + 1, size: len(chunk)})
 		result.BatchIDs = append(result.BatchIDs, batch.ID)
+	}
 
-		if onProgress != nil {
-			onProgress(fmt.Sprintf("Waiting for batch %s...", batch.ID))
+	if onProgress != nil {
+		onProgress(fmt.Sprintf("All %d batches submitted — waiting for completion...", len(batches)))
+	}
+
+	// Poll all batches concurrently
+	type batchOutput struct {
+		results []anthropic.BatchResult
+		err     error
+		index   int
+	}
+	outputs := make([]batchOutput, len(batches))
+	var wg sync.WaitGroup
+
+	for i, sb := range batches {
+		wg.Add(1)
+		go func(idx int, b submittedBatch) {
+			defer wg.Done()
+			_, err := e.client.WaitForBatch(ctx, b.id, anthropic.PollOptions{
+				Interval: 30 * time.Second,
+				OnStatus: func(batch anthropic.Batch) {
+					done := batch.RequestCounts.Succeeded + batch.RequestCounts.Errored + batch.RequestCounts.Canceled + batch.RequestCounts.Expired
+					total := done + batch.RequestCounts.Processing
+					if onProgress != nil {
+						onProgress(fmt.Sprintf("  Batch %d/%d (%s): %d/%d processed", b.index, len(batches), b.id[:12], done, total))
+					}
+				},
+			})
+			if err != nil {
+				outputs[idx] = batchOutput{err: fmt.Errorf("wait for batch %s: %w", b.id, err), index: b.index}
+				return
+			}
+			results, err := e.client.GetBatchResults(ctx, b.id)
+			if err != nil {
+				outputs[idx] = batchOutput{err: fmt.Errorf("get results for batch %s: %w", b.id, err), index: b.index}
+				return
+			}
+			outputs[idx] = batchOutput{results: results, index: b.index}
+		}(i, sb)
+	}
+
+	wg.Wait()
+
+	// Collect results from all batches
+	for _, out := range outputs {
+		if out.err != nil {
+			return result, out.err
 		}
-
-		batch, err = e.client.WaitForBatch(ctx, batch.ID, anthropic.PollOptions{
-			Interval: 30 * time.Second,
-			OnStatus: func(b anthropic.Batch) {
-				total := b.RequestCounts.Succeeded + b.RequestCounts.Errored + b.RequestCounts.Canceled + b.RequestCounts.Expired
-				if onProgress != nil {
-					onProgress(fmt.Sprintf("  Batch %s: %d/%d processed", b.ID, total, total+b.RequestCounts.Processing))
-				}
-			},
-		})
-		if err != nil {
-			return result, fmt.Errorf("wait for batch %s: %w", batch.ID, err)
-		}
-
-		results, err := e.client.GetBatchResults(ctx, batch.ID)
-		if err != nil {
-			return result, fmt.Errorf("get results for batch %s: %w", batch.ID, err)
-		}
-
-		for _, br := range results {
+		for _, br := range out.results {
 			if br.Result.Type != "succeeded" || br.Result.Message == nil {
 				result.Failed++
-				errMsg := "unknown error"
+				errMsg := fmt.Sprintf("result_type=%s", br.Result.Type)
 				if br.Result.Error != nil {
-					errMsg = br.Result.Error.Message
+					errMsg += fmt.Sprintf(" error_type=%s msg=%s", br.Result.Error.Type, br.Result.Error.Message)
+				}
+				if br.Result.Message == nil {
+					errMsg += " (no message body)"
 				}
 				result.Errors = append(result.Errors, ExtractionError{
 					SourceID: br.CustomID,

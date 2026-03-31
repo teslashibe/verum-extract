@@ -115,8 +115,45 @@ func (n *Normalizer) match(raw string) *compounds.Compound {
 	if c, ok := n.registry.FindByAlias(cleaned); ok {
 		return c
 	}
-	if c := n.fuzzyMatch(raw); c != nil {
+	canonical := canonicalize(raw)
+	if c, ok := n.registry.FindByAlias(canonical); ok {
 		return c
+	}
+	if c := n.substringMatch(canonical); c != nil {
+		return c
+	}
+	if c := n.fuzzyMatch(canonical); c != nil {
+		return c
+	}
+	return nil
+}
+
+func (n *Normalizer) substringMatch(cleaned string) *compounds.Compound {
+	lower := strings.ToLower(cleaned)
+	if lower == "" || len(lower) < 3 {
+		return nil
+	}
+
+	var best *compounds.Compound
+	bestLen := 0
+
+	for _, c := range n.registry.All() {
+		candidates := append([]string{c.Name, c.DisplayName}, c.Aliases...)
+		for _, alias := range candidates {
+			al := strings.ToLower(alias)
+			if len(al) < 3 {
+				continue
+			}
+			if strings.Contains(lower, al) && len(al) > bestLen {
+				bestLen = len(al)
+				found := c
+				best = &found
+			}
+		}
+	}
+
+	if best != nil && bestLen >= 3 && float64(bestLen)/float64(len(lower)) > 0.4 {
+		return best
 	}
 	return nil
 }
@@ -169,6 +206,112 @@ func cleanName(raw string) string {
 		}
 	}
 	return strings.Trim(b.String(), "-")
+}
+
+var stripWords = []string{
+	"injection", "injectable", "injecting", "injected",
+	"nasal", "intranasal", "nasal spray", "spray",
+	"oral", "sublingual", "troches", "capsules", "pills", "tablets",
+	"topical", "cream", "serum", "lotion", "rollon", "mist",
+	"subcutaneous", "intramuscular", "intravenous", "subq",
+	"blend", "combo", "mix", "stack", "combined", "compounded", "compound",
+	"grey", "gray", "chinese", "pharmaceutical", "pharma", "pure", "full", "normal",
+	"implied", "unspecified", "context", "from",
+	"delayed", "delayed release", "rapid release",
+	"cosmetic", "cosmetic grade", "grade",
+	"liquid", "powder",
+	"prescription",
+	"mounjaro", "zepbound", "ozempic", "wegovy",
+}
+
+var abbreviations = map[string]string{
+	"bpc":     "BPC-157",
+	"bpc157":  "BPC-157",
+	"bpc 157": "BPC-157",
+	"tb":      "TB-500",
+	"tb4":     "TB-500",
+	"tb500":   "TB-500",
+	"tb 500":  "TB-500",
+	"thymosin beta-4":  "TB-500",
+	"thymosin beta 4":  "TB-500",
+	"ipa":     "Ipamorelin",
+	"cjc":     "CJC-1295",
+	"cjc1295": "CJC-1295",
+	"tesa":    "Tesamorelin",
+	"sema":    "Semaglutide",
+	"tirz":    "Tirzepatide",
+	"reta":    "Retatrutide",
+	"mt2":     "Melanotan II",
+	"mt-2":    "Melanotan II",
+	"mt 2":    "Melanotan II",
+	"mt1":     "Melanotan I",
+	"mt-1":    "Melanotan I",
+	"ghk":     "GHK-Cu",
+	"ghkcu":   "GHK-Cu",
+	"hgh frag":      "HGH Fragment 176-191",
+	"hgh fragment":  "HGH Fragment 176-191",
+	"na selank":     "Selank",
+	"na-selank":     "Selank",
+	"n-acetyl-selank":    "Selank",
+	"n-acetyl selank":    "Selank",
+	"n acetyl selank":    "Selank",
+	"na semax":      "Semax",
+	"na-semax":      "Semax",
+	"n-acetyl-semax":     "Semax",
+	"n-acetyl semax":     "Semax",
+	"n acetyl semax":     "Semax",
+	"na semax amidate":   "Semax",
+	"n-acetyl amidate semax": "Semax",
+	"semax amidate":      "Semax",
+	"hgh secretagogues":  "HGH",
+	"cjc no dac":    "CJC-1295",
+	"cjc-1295 dac":  "CJC-1295 DAC",
+	"cjc with dac":  "CJC-1295 DAC",
+	"cjc w dac":     "CJC-1295 DAC",
+	"gonadorelin":   "Gonadorelin",
+	"nad":           "NAD+",
+	"wolverine":     "BPC-157",
+}
+
+func canonicalize(raw string) string {
+	s := strings.ToLower(strings.TrimSpace(raw))
+
+	if mapped, ok := abbreviations[s]; ok {
+		return mapped
+	}
+
+	for prefix, mapped := range abbreviations {
+		if strings.HasPrefix(s, prefix+" ") || strings.HasPrefix(s, prefix+"/") || strings.HasPrefix(s, prefix+"(") {
+			return mapped
+		}
+	}
+
+	words := strings.Fields(s)
+	var kept []string
+	for _, w := range words {
+		strip := false
+		for _, sw := range stripWords {
+			if w == sw || w == sw+"s" || w == sw+"ed" || w == sw+"ing" {
+				strip = true
+				break
+			}
+		}
+		if !strip {
+			kept = append(kept, w)
+		}
+	}
+	s = strings.Join(kept, " ")
+
+	for strings.Contains(s, "  ") {
+		s = strings.ReplaceAll(s, "  ", " ")
+	}
+	s = strings.Trim(s, " -/()")
+
+	if mapped, ok := abbreviations[s]; ok {
+		return mapped
+	}
+
+	return s
 }
 
 func levenshtein(a, b string) int {
