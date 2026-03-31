@@ -8,7 +8,7 @@ Takes raw Reddit posts (and soon YouTube, podcasts, blogs) and produces structur
 
 1. **Reads** Reddit JSONL files (from [reddit-scraper](https://github.com/teslashibe/reddit-scraper))
 2. **Extracts** structured report records via Anthropic Batch API (50% cheaper than real-time)
-3. **Normalizes** compound names against a built-in registry of 40+ peptides
+3. **Normalizes** compound names against a built-in registry of 70+ peptides
 4. **Aggregates** reports into per-compound profiles with stats
 5. **Writes** clean JSON files — individual reports + compound profiles
 
@@ -82,7 +82,7 @@ source/reddit     →  extraction  →  normalize  →  aggregate  →  JSON fil
 (JSONL adapter)      (LLM core)     (registry)    (profiles)
 ```
 
-- **`compounds/`** — Built-in registry of 40+ peptides with aliases and categories
+- **`compounds/`** — Built-in registry of 70+ peptides with aliases and categories
 - **`anthropic/`** — Anthropic Batch API client (reusable for any project)
 - **`extraction/`** — Schema types, prompt templates, response parsing
 - **`normalize/`** — Fuzzy compound name matching (Levenshtein + alias lookup)

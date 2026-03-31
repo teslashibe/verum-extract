@@ -18,6 +18,7 @@ const (
 	CategoryMetabolic        Category = "metabolic"
 	CategoryMitochondrial    Category = "mitochondrial"
 	CategoryHormonal         Category = "hormonal"
+	CategorySleep            Category = "sleep"
 	CategoryEmerging         Category = "emerging_research"
 	CategoryOther            Category = "other"
 )
