@@ -123,6 +123,32 @@ func rankBenefits(reports []extraction.Report, compoundName string, total int) [
 	return toRankedItems(counts, total, 10)
 }
 
+var seCategoryMerge = map[string]string{
+	"blood_pressure":            "cardiac",
+	"heart_rate":                "cardiac",
+	"cardiovascular":            "cardiac",
+	"numbness_tingling":         "nerve_related",
+	"neurological":              "nerve_related",
+	"dizziness":                 "nerve_related",
+	"flu_like_symptoms":         "illness",
+	"tolerance_development":     "tolerance",
+	"mouth_dryness":             "dry_mouth",
+	"facial_changes":            "facial_change",
+	"nasal_reaction":            "nasal",
+	"stress_induced_appetite":   "appetite_change",
+	"appetite_suppression":      "appetite_change",
+	"systemic_inflammation":     "inflammation",
+	"energy_change":             "energy",
+	"body_temperature_regulation": "temperature_regulation",
+}
+
+func normalizeSECategory(cat string) string {
+	if merged, ok := seCategoryMerge[cat]; ok {
+		return merged
+	}
+	return cat
+}
+
 func rankSideEffects(reports []extraction.Report, compoundName string, total int) []RankedSideEffect {
 	type seData struct {
 		count    int
@@ -133,10 +159,11 @@ func rankSideEffects(reports []extraction.Report, compoundName string, total int
 
 	for _, r := range reports {
 		for _, se := range r.SideEffects {
-			if _, ok := data[se.Category]; !ok {
-				data[se.Category] = &seData{}
+			cat := normalizeSECategory(se.Category)
+			if _, ok := data[cat]; !ok {
+				data[cat] = &seData{}
 			}
-			d := data[se.Category]
+			d := data[cat]
 			d.count++
 			if se.Severity != nil {
 				d.severity += severityScore(*se.Severity)
@@ -159,8 +186,8 @@ func rankSideEffects(reports []extraction.Report, compoundName string, total int
 		})
 	}
 	sort.Slice(items, func(i, j int) bool { return items[i].Count > items[j].Count })
-	if len(items) > 10 {
-		items = items[:10]
+	if len(items) > 15 {
+		items = items[:15]
 	}
 	return items
 }
